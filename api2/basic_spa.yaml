@@ -270,7 +270,7 @@
   term: -su
   class: t xfik
   category: affix
-  translation: (<em>marcador de adjetivo posesivo</em>)
+  translation: <em>&#039;s</em> (<em>marcador de adjetivo posesivo para pronombres</em>)
 -tim:
   term: -tim
   class: b xfik
@@ -764,7 +764,7 @@ ajela:
   class: b.oro; il
   category: root
   translation: prisa, urgencia, apuro, apremio; apresurar, apresurarse, darse prisa,
-    apurar, apurarse, apremiar, carrerear, correr
+    apurar, apurarse, apremiar, carrerear, correr; de prisa
 ajelado:
   term: ajelado
   class: t
@@ -1269,7 +1269,7 @@ am:
   term: am
   class: par
   category: root
-  translation: (<em>marcador de los modos imperativo y yusivo</em>), que, sea
+  translation: -a (<em>marcador de los modos imperativo y yusivo</em>), -e, que, sea
 amara:
   term: Amara
   class: su n
@@ -1759,7 +1759,7 @@ antigutonente:
   term: antigutonente
   class: b
   category: derived
-  translation: ""
+  translation: analg&eacute;sico, calmante
 antigwa ji barbuda:
   term: Antigwa ji Barbuda
   class: su n
@@ -2462,8 +2462,7 @@ atrebasa:
   term: atrebasa
   class: b
   category: derived
-  translation: idioma nativo, lengua nativa, idioma natal, lengua natal, idioma materno,
-    lengua materna, primer idioma, primera lengua, L1
+  translation: idioma nativo, idioma natal, idioma materno, primer idioma, L1
 atredexa:
   term: atredexa
   class: b
@@ -2549,7 +2548,7 @@ awglu:
   term: awglu
   class: b.oj
   category: derived
-  translation: beberse, tomarse
+  translation: apurar el trago, acabar el trago, acabar de beber, terminar
 awgutonente:
   term: awgutonente
   class: b
@@ -2701,7 +2700,7 @@ awtoahamible:
   term: awtoahamible
   class: t
   category: derived
-  translation: obvio, evidente, claro
+  translation: obvio, evidente, claro, tra(n)sparente
 awtomati:
   term: awtomati
   class: t
@@ -5408,7 +5407,7 @@ bwawdom:
   term: bwawdom
   class: b
   category: derived
-  translation: casa de perro
+  translation: casa para perro, cucha, igl&uacute; para perro
 bwawsa:
   term: bwawsa
   class: b.oj
@@ -6929,7 +6928,7 @@ davafilyen:
   term: davafilyen
   class: b
   category: derived
-  translation: drogadicto (<em>persona</em>)
+  translation: drogadicto (<em>persona</em>), yonki, drogo
 davaikaw:
   term: davaikaw
   class: b
@@ -6944,7 +6943,7 @@ davaikawyen:
   term: davaikawyen
   class: b
   category: derived
-  translation: drogadicto (<em>persona</em>)
+  translation: drogadicto (<em>persona</em>), yonki, drogo
 david:
   term: David
   class: su n
@@ -8977,7 +8976,7 @@ dumarali:
   term: dumarali
   class: t
   category: derived
-  translation: a veces, de vez en cuando, ocasionalmente
+  translation: ocasional, espor&aacute;dico; a veces, de vez en cuando, ocasionalmente
 dumbu:
   term: dumbu
   class: b
@@ -9038,7 +9037,7 @@ dur na:
   term: dur na
   class: p jm
   category: phrase
-  translation: al (<em>+ verbo</em>), -ndo
+  translation: al (<em>+ verbo</em>), -(a)ndo, -endo
 dur total:
   term: dur total
   class: p jm
@@ -9385,7 +9384,7 @@ el:
   term: el
   class: p
   category: root
-  translation: (<em>marcador del objeto directo para cambiar orden de oraci&oacute;n</em>)
+  translation: a (<em>marcador del objeto directo para cambiar orden de oraci&oacute;n</em>)
 elasti:
   term: elasti
   class: t
@@ -9628,6 +9627,11 @@ ente:
   class: b
   category: root
   translation: agente (<em>inanimado</em>)
+entona:
+  term: entona
+  class: b.oj
+  category: root
+  translation: entonaci&oacute;n; entonar, modular
 enzima:
   term: enzima
   class: b
@@ -11703,7 +11707,7 @@ feki:
   term: feki
   class: l
   category: derived
-  translation: de que (<em>conjunci&oacute;n que modifica sustantivos</em>)
+  translation: de que (<em>conjunci&oacute;n que modifica sustantivos</em>), en que
 felto:
   term: felto
   class: b
@@ -12878,7 +12882,8 @@ furaha:
   term: furaha
   class: b.oro
   category: root
-  translation: disfrute, placer; hacer disfrutar, hacer sentir placer, sentir placer
+  translation: disfrute, placer, gozo; hacer disfrutar, hacer sentir placer, disfrutar,
+    sentir placer, gozar, pasarla bien
 furahado:
   term: furahado
   class: t
@@ -13785,7 +13790,7 @@ glu:
   term: glu
   class: b.oj
   category: root
-  translation: beber, tomar
+  translation: bebida, consumo de l&iacute;quidos; beber(se), tomar(se)
 gluible:
   term: gluible
   class: t
@@ -13810,7 +13815,7 @@ gluxey:
   term: gluxey
   class: b
   category: derived
-  translation: bebida
+  translation: bebida, trago, copa
 godo:
   term: godo
   class: t
@@ -14222,6 +14227,12 @@ gumbo:
   class: b
   category: root
   translation: palo, vara, barra
+gunca:
+  term: gunca
+  class: ""
+  category: root
+  translation: reto&ntilde;o, brote, capullo, bot&oacute;n, yema; reto&ntilde;ar,
+    brotar
 gungu:
   term: gungu
   class: b
@@ -15647,7 +15658,7 @@ hotdogu:
   term: hotdogu
   class: b
   category: root
-  translation: <em>hot( )dog</em>, perr(it)o caliente, jocho
+  translation: <em>hotdog</em>, perr(it)o caliente, jocho
 hotel:
   term: hotel
   class: b
@@ -16577,11 +16588,6 @@ intizar:
   class: b.oj
   category: root
   translation: espera; esperar
-intona:
-  term: intona
-  class: b.oj
-  category: root
-  translation: entonaci&oacute;n; entonar, modular
 intre:
   term: intre
   class: p
@@ -17060,7 +17066,7 @@ ja-:
   term: ja-
   class: lfik
   category: affix
-  translation: (<em>inmediatamente adyacente</em>)
+  translation: inmediatamente adyacente
 jabal:
   term: jabal
   class: b
@@ -18287,7 +18293,7 @@ kafya:
   term: kafya
   class: b
   category: root
-  translation: rima
+  translation: rima; rimar
 kahabu:
   term: kahabu
   class: b
@@ -20244,6 +20250,11 @@ koridor:
   class: b
   category: root
   translation: corredor, pasillo
+korku:
+  term: korku
+  class: b
+  category: root
+  translation: corcho
 koronel:
   term: koronel
   class: b
@@ -20700,6 +20711,11 @@ kuku:
   class: b
   category: root
   translation: pollo, gallina, gallo, <em>Gallus</em>
+kukuhwa:
+  term: kukuhwa
+  class: b
+  category: root
+  translation: crisantemo, <em>Chrysanthemum</em>
 kukumaso:
   term: kukumaso
   class: b
@@ -22621,7 +22637,7 @@ majangu:
   term: majangu
   class: b
   category: root
-  translation: <em>ma(h)jong</em>
+  translation: <em>majong</em>, <em>mahjong</em>
 majeli:
   term: Majeli
   class: su n
@@ -22795,6 +22811,12 @@ mallide:
   class: b.oj
   category: derived
   translation: desviar, descaminar, desencaminar
+malloga:
+  term: malloga
+  class: b.nenoj
+  category: derived
+  translation: error, equivocaci&oacute;n, yerro, errata, incorrecci&oacute;n; cometer
+    un error, estar equivocado, equivocar(se), errar
 malpala:
   term: malpala
   class: b.oj
@@ -22853,10 +22875,9 @@ malxinen:
   translation: herej&iacute;a, sacrilegio, profanaci&oacute;n, heterodoxia
 malya:
   term: malya
-  class: b.nenoj
+  class: b
   category: derived
-  translation: error, equivocaci&oacute;n, yerro, errata, incorrecci&oacute;n; cometer
-    un error, estar equivocado, equivocar(se), errar
+  translation: incorrecci&oacute;n
 malyongu:
   term: malyongu
   class: b.oj
@@ -25008,7 +25029,7 @@ moydinli:
   term: moydinli
   class: t
   category: derived
-  translation: diario; diariamente, todos los d&iacute;as
+  translation: (de) diario, de todos los d&iacute;as
 moydua:
   term: moydua
   class: d
@@ -26801,13 +26822,13 @@ nun:
   term: nun
   class: par
   category: root
-  translation: (<em>marcador del tiempo presente activo</em>), estar (<em>+ -ndo</em>);
-    ahora (bien)
+  translation: estar (<em>+ verbo; marcador del tiempo presente activo</em>); ahora
+    (bien)
 nun-:
   term: nun-
   class: lfik
   category: affix
-  translation: (<em>presente, actual</em>)
+  translation: presente, actual
 nunar:
   term: nunar
   class: b
@@ -28829,8 +28850,8 @@ piranya:
   term: piranya
   class: b
   category: root
-  translation: pira&ntilde;a, <em>Serrasalmus</em>, <em>Pygocentrus</em>, <em>Pristobrycon</em>
-    (<em>en parte</em>)
+  translation: pira&ntilde;a, <em>Serrasalmus</em>, <em>Pygocentrus</em>, <em>Pristobrycon</em>,
+    <em>Pygopristis</em>, <em>Catoprion</em>, <em>Megapiranha</em>
 pistacyo:
   term: pistacyo
   class: b
@@ -29445,7 +29466,7 @@ posgamicu:
   term: posgamicu
   class: b
   category: derived
-  translation: ""
+  translation: divorcio; divorciarse
 poshay:
   term: poshay
   class: b.nenoj
@@ -31105,7 +31126,7 @@ sahimoni:
   term: sahimoni
   class: b.oj
   category: derived
-  translation: corregir, revisar
+  translation: correcci&oacute;n, revisi&oacute;n; corregir, revisar
 sahixey:
   term: sahixey
   class: b
@@ -31120,7 +31141,7 @@ sahiya:
   term: sahiya
   class: b
   category: derived
-  translation: exactitud, correcci&oacute;n
+  translation: correcci&oacute;n
 sahni:
   term: sahni
   class: b
@@ -32355,8 +32376,7 @@ sindrom asperger:
   term: sindrom Asperger
   class: b
   category: phrase
-  translation: s&iacute;ndrome de Asperger (<em>ahora parte de los trastornos del
-    espectro autista</em>)
+  translation: s&iacute;ndrome de Asperger
 sindrom dawn:
   term: sindrom Dawn
   class: b
@@ -32407,6 +32427,11 @@ sino:
   class: b
   category: root
   translation: seno (<em>funci&oacute;n trigonom&eacute;trica</em>), sen, sin
+sintaksu:
+  term: sintaksu
+  class: b
+  category: root
+  translation: sintaxis
 sintesis:
   term: sintesis
   class: b.oj
@@ -32798,7 +32823,7 @@ sonxi:
   term: sonxi
   class: b.oj
   category: root
-  translation: p&eacute;rdida; perder
+  translation: p&eacute;rdida; perder, pasar por alto
 sonxido:
   term: sonxido
   class: t
@@ -32899,7 +32924,7 @@ su:
   term: su
   class: par
   category: root
-  translation: <em>&#039;s</em> (<em>marca el caso posesivo</em>)
+  translation: <em>&#039;s</em> (<em>forma posesivos con sustantivos</em>)
 submiti:
   term: submiti
   class: b.oj
@@ -34092,7 +34117,7 @@ teli:
   term: teli
   class: t
   category: root
-  translation: lejano, remoto, distante; lejos, lue&ntilde;e; tele-
+  translation: lejano, remoto, distante; lejos, lue&ntilde;e
 teli fe:
   term: teli fe
   class: p
@@ -34137,7 +34162,7 @@ teli-:
   term: teli-
   class: lfik
   category: affix
-  translation: distante
+  translation: tele-, a distancia, remoto
 teliergo:
   term: teliergo
   class: b.nenoj
@@ -36241,7 +36266,7 @@ vodka:
   term: vodka
   class: b
   category: root
-  translation: vodka
+  translation: vodka, vodca
 voka:
   term: voka
   class: b.oj
@@ -36732,7 +36757,7 @@ xa-:
   term: xa-
   class: lfik
   category: affix
-  translation: (futuro)
+  translation: futuro
 xabahu:
   term: xabahu
   class: b.oj
@@ -37414,7 +37439,7 @@ xorjui:
   class: b.oj
   category: derived
   translation: percataci&oacute;n; percatarse (de), notar, darse cuenta, advertir,
-    reparar, fijarse, coscarse
+    reparar, echar de ver, fijarse, coscarse
 xorjuiible:
   term: xorjuiible
   class: t
@@ -37494,7 +37519,7 @@ xorwala:
   term: xorwala
   class: b.oj
   category: derived
-  translation: p&eacute;rdida; perder
+  translation: p&eacute;rdida, extrav&iacute;o; perder, extraviar
 xosu:
   term: xosu
   class: t
@@ -38214,6 +38239,11 @@ zeytuniyow:
   class: b
   category: derived
   translation: aceite de oliva, aceite de aceituna
+zigzagu:
+  term: zigzagu
+  class: ""
+  category: root
+  translation: zigzag, zisz&aacute;s; zigzaguear
 zimbabwe:
   term: Zimbabwe
   class: su n

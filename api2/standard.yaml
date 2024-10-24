@@ -1207,7 +1207,7 @@
     - - <em>markilo de podesa adjektivo</em>
       - -a
     spa:
-    - - (<em>marcador de adjetivo posesivo</em>)
+    - - <em>'s</em> (<em>marcador de adjetivo posesivo para pronombres</em>)
     deu: []
     fra: []
     rus: []
@@ -3724,6 +3724,7 @@ ajela:
       - apremiar
       - carrerear
       - correr
+    - - de prisa
     deu: []
     fra: []
     rus: []
@@ -6296,7 +6297,8 @@ am:
     - - -u
       - <em>markilo de imperativa verbo</em>
     spa:
-    - - (<em>marcador de los modos imperativo y yusivo</em>)
+    - - -a (<em>marcador de los modos imperativo y yusivo</em>)
+      - -e
       - que
       - sea
     deu: []
@@ -8797,7 +8799,9 @@ antigutonente:
     epo:
     - - analgezio
       - sendolorigilo
-    spa: []
+    spa:
+    - - analgésico
+      - calmante
     deu: []
     fra: []
     rus: []
@@ -12271,13 +12275,9 @@ atrebasa:
       - denaska lingvo
     spa:
     - - idioma nativo
-      - lengua nativa
       - idioma natal
-      - lengua natal
       - idioma materno
-      - lengua materna
       - primer idioma
-      - primera lengua
       - L1
     deu: []
     fra: []
@@ -12706,8 +12706,10 @@ awglu:
     - - eltrinko
     - - eltrinki
     spa:
-    - - beberse
-      - tomarse
+    - - apurar el trago
+      - acabar el trago
+      - acabar de beber
+      - terminar
     deu: []
     fra: []
     rus: []
@@ -13468,6 +13470,7 @@ awtoahamible:
     - - obvio
       - evidente
       - claro
+      - tra(n)sparente
     deu: []
     fra: []
     rus: []
@@ -15531,6 +15534,7 @@ baluta:
   trans:
     eng:
     - - oak
+      - <em>Quercus</em>
     epo:
     - - kverko
     spa:
@@ -26800,7 +26804,9 @@ bwawdom:
     - - hundejo
       - hundodometo
     spa:
-    - - casa de perro
+    - - casa para perro
+      - cucha
+      - iglú para perro
     deu: []
     fra: []
     rus: []
@@ -34107,6 +34113,8 @@ davafilyen:
       - drogemulo
     spa:
     - - drogadicto (<em>persona</em>)
+      - yonki
+      - drogo
     deu: []
     fra: []
     rus: []
@@ -34173,6 +34181,8 @@ davaikawyen:
     - - droga dependulo
     spa:
     - - drogadicto (<em>persona</em>)
+      - yonki
+      - drogo
     deu: []
     fra: []
     rus: []
@@ -43893,6 +43903,8 @@ dumarali:
       - multfoje
       - plurfoje
     spa:
+    - - ocasional
+      - esporádico
     - - a veces
       - de vez en cuando
       - ocasionalmente
@@ -44176,7 +44188,8 @@ dur na:
     - - dum ___i
     spa:
     - - al (<em>+ verbo</em>)
-      - -ndo
+      - -(a)ndo
+      - -endo
     deu: []
     fra: []
     rus: []
@@ -45860,7 +45873,7 @@ el:
     - - markilo de rekta objekto
       - -n (<em>limigita uzo</em>)
     spa:
-    - - (<em>marcador del objeto directo para cambiar orden de oración</em>)
+    - - a (<em>marcador del objeto directo para cambiar orden de oración</em>)
     deu: []
     fra: []
     rus: []
@@ -47068,6 +47081,41 @@ ente:
       Rusisa: агент &ldquo;agy&eacute;nt&rdquo;
       Swahilisa: ajenti
       Turkisa: acente
+entona:
+  term: entona
+  word class: b.oj
+  category: root
+  trans:
+    eng:
+    - - intonation
+      - inflection
+    - - intone
+      - inflect
+    epo:
+    - - intonacio
+    - - intonacii
+    spa:
+    - - entonación
+    - - entonar
+      - modular
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    natlang:
+      Doycisa: Intonation
+      Englisa: intonation, intonate
+      Espanisa: entonaci&oacute;n
+      Fransesa: intonation
+      Hangusa: 인토네이션 &ldquo;intoneyxon&rdquo;
+      Indonesisa: intonasi
+      Italisa: intonazione
+      Niponsa: イントネーション &ldquo;intonexon&rdquo;
+      Pilipinasa: intonasyon
+      Portugalsa: entona&ccedil;&atilde;o
+      Rusisa: интонация &ldquo;yintonatsiya&rdquo;
+      Turkisa: entonasyon
 enzima:
   term: enzima
   word class: b
@@ -57375,6 +57423,7 @@ feki:
     - - ke (<em>modifante substantivojn</em>)
     spa:
     - - de que (<em>conjunción que modifica sustantivos</em>)
+      - en que
     deu: []
     fra: []
     rus: []
@@ -63255,9 +63304,13 @@ furaha:
     spa:
     - - disfrute
       - placer
+      - gozo
     - - hacer disfrutar
       - hacer sentir placer
+      - disfrutar
       - sentir placer
+      - gozar
+      - pasarla bien
     deu: []
     fra: []
     rus: []
@@ -67754,8 +67807,10 @@ glu:
     - - trinko
     - - trinki
     spa:
-    - - beber
-      - tomar
+    - - bebida
+      - consumo de líquidos
+    - - beber(se)
+      - tomar(se)
     deu: []
     fra: []
     rus: []
@@ -67881,6 +67936,8 @@ gluxey:
     - - trinkaĵo
     spa:
     - - bebida
+      - trago
+      - copa
     deu: []
     fra: []
     rus: []
@@ -69975,6 +70032,40 @@ gumbo:
       Niponsa: 棍棒 &ldquo;konbō&rdquo;
       Putunhwa: 棍棒 &ldquo;g&ugrave;nb&agrave;ng&rdquo;
       Swahilisa: fimbo
+gunca:
+  term: gunca
+  word class: ""
+  category: root
+  trans:
+    eng:
+    - - bud
+      - shoot
+      - sprout
+    - - bud
+      - sprout
+      - burgeon
+    epo:
+    - - burĝono
+      - ŝoso
+    - - burĝoni
+      - ŝosi
+    spa:
+    - - retoño
+      - brote
+      - capullo
+      - botón
+      - yema
+    - - retoñar
+      - brotar
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    natlang:
+      Hindi: ग़ुंचा &ldquo;gunca&rdquo;
+      Parsisa: غنچه &ldquo;ğonče&rdquo;
+      Turkisa: gonca
 gungu:
   term: gungu
   word class: b
@@ -76933,7 +77024,7 @@ hotdogu:
     epo:
     - - kolbasobulko
     spa:
-    - - <em>hot( )dog</em>
+    - - <em>hotdog</em>
       - perr(it)o caliente
       - jocho
     deu: []
@@ -81502,41 +81593,6 @@ intizar:
       Arabisa: انتظر &ldquo;aintazar&rdquo;
       Hindi: इंतिज़ार &ldquo;intizaar&rdquo;
       Parsisa: انتظار &ldquo;intizar&rdquo;
-intona:
-  term: intona
-  word class: b.oj
-  category: root
-  trans:
-    eng:
-    - - intonation
-      - inflection
-    - - intone
-      - inflect
-    epo:
-    - - intonacio
-    - - intonacii
-    spa:
-    - - entonación
-    - - entonar
-      - modular
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-  etymology:
-    natlang:
-      Doycisa: Intonation
-      Englisa: intonation, intonate
-      Espanisa: entonaci&oacute;n
-      Fransesa: intonation
-      Hangusa: 인토네이션 &ldquo;intoneyxon&rdquo;
-      Indonesisa: intonasi
-      Italisa: intonazione
-      Niponsa: イントネーション &ldquo;intonexon&rdquo;
-      Pilipinasa: intonasyon
-      Portugalsa: entona&ccedil;&atilde;o
-      Rusisa: интонация &ldquo;yintonatsiya&rdquo;
-      Turkisa: entonasyon
 intre:
   term: intre
   word class: p
@@ -83720,7 +83776,7 @@ ja-:
     epo:
     - - partikulo pri tuja proksimeco tempa aŭ loka
     spa:
-    - - (<em>inmediatamente adyacente</em>)
+    - - inmediatamente adyacente
     deu: []
     fra: []
     rus: []
@@ -89651,6 +89707,7 @@ kafya:
     - - rimo
     spa:
     - - rima
+    - - rimar
     deu: []
     fra: []
     rus: []
@@ -99746,6 +99803,31 @@ koridor:
       Swahilisa: korido
       Telugusa: కారిడార్ &ldquo;karidar&rdquo;
       Turkisa: koridor
+korku:
+  term: korku
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - cork (<em>material</em>)
+      - phellem
+    epo:
+    - - korko
+    spa:
+    - - corcho
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    natlang:
+      Doycisa: Kork
+      Englisa: cork
+      Espanisa: corcho
+      Hangusa: 코르크 &ldquo;koruku&rdquo;
+      Hindi: काग &ldquo;kag&rdquo;
+      Niponsa: コルク &ldquo;koruku&rdquo;
+      Swahilisa: koki
 koronel:
   term: koronel
   word class: b
@@ -102122,6 +102204,29 @@ kuku:
       Putunhwa: 咕咕咕 &ldquo;gugugu&rdquo;
       Rusisa: куд-куд-кудах &ldquo;kud-kud-kudah&rdquo;
       Vyetnamsa: cục cục
+kukuhwa:
+  term: kukuhwa
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - chrysanthemum
+    epo:
+    - - krizantemo
+    spa:
+    - - crisantemo
+      - <em>Chrysanthemum</em>
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    natlang:
+      Arabisa: أُقْحُوَان &ldquo;ukhuwan&rdquo;
+      Hangusa: 국화 &ldquo;gukhwa&rdquo;
+      Niponsa: 菊花 &ldquo;kikuka&rdquo;
+      Putunhwa: 菊花 &ldquo;juhwa&rdquo;
+      Vyetnamsa: hoa c&uacute;c
 kukumaso:
   term: kukumaso
   word class: b
@@ -111695,7 +111800,8 @@ majangu:
     epo:
     - - maĝango
     spa:
-    - - <em>ma(h)jong</em>
+    - - <em>majong</em>
+      - <em>mahjong</em>
     deu: []
     fra: []
     rus: []
@@ -112503,6 +112609,41 @@ mallide:
     - mal-
     - +
     - lide
+malloga:
+  term: malloga
+  word class: b.nenoj
+  category: derived
+  trans:
+    eng:
+    - - wrongness
+    - - be mistaken
+      - be in the wrong
+    epo:
+    - - miseco
+      - malĝusteco
+      - erareco
+    - - esti misa
+      - esti malĝusta
+      - esti erara
+    spa:
+    - - error
+      - equivocación
+      - yerro
+      - errata
+      - incorrección
+    - - cometer un error
+      - estar equivocado
+      - equivocar(se)
+      - errar
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - mal-
+    - +
+    - loga
 malpala:
   term: malpala
   word class: b.oj
@@ -112770,37 +112911,23 @@ malxinen:
     - xinen
 malya:
   term: malya
-  word class: b.nenoj
+  word class: b
   category: derived
   trans:
     eng:
     - - wrongness
-    - - be mistaken
-      - be in the wrong
+      - incorrectness
     epo:
-    - - miseco
-      - malĝusteco
-      - erareco
-    - - esti misa
-      - esti malĝusta
-      - esti erara
+    - - malĝusteco
     spa:
-    - - error
-      - equivocación
-      - yerro
-      - errata
-      - incorrección
-    - - cometer un error
-      - estar equivocado
-      - equivocar(se)
-      - errar
+    - - incorrección
     deu: []
     fra: []
     rus: []
     zho: []
   etymology:
     derived:
-    - mal-
+    - mal
     - +
     - -ya
 malyongu:
@@ -123321,9 +123448,8 @@ moydinli:
     - - ĉiutaga
     - - ĉiutage
     spa:
-    - - diario
-    - - diariamente
-      - todos los días
+    - - (de) diario
+      - de todos los días
     deu: []
     fra: []
     rus: []
@@ -131888,8 +132014,7 @@ nun:
       - -as <em>presenca markilo</em>
     - - nu
     spa:
-    - - (<em>marcador del tiempo presente activo</em>)
-      - estar (<em>+ -ndo</em>)
+    - - estar (<em>+ verbo; marcador del tiempo presente activo</em>)
     - - ahora (bien)
     deu: []
     fra: []
@@ -131912,7 +132037,8 @@ nun-:
     epo:
     - - nun-
     spa:
-    - - (<em>presente, actual</em>)
+    - - presente
+      - actual
     deu: []
     fra: []
     rus: []
@@ -142020,7 +142146,10 @@ piranya:
     - - piraña
       - <em>Serrasalmus</em>
       - <em>Pygocentrus</em>
-      - <em>Pristobrycon</em> (<em>en parte</em>)
+      - <em>Pristobrycon</em>
+      - <em>Pygopristis</em>
+      - <em>Catoprion</em>
+      - <em>Megapiranha</em>
     deu: []
     fra: []
     rus: []
@@ -145157,12 +145286,20 @@ posgamicu:
       - eksedziĝo
     - - divorci
       - eksedziĝi
-    spa: []
+    spa:
+    - - divorcio
+    - - divorciarse
     deu: []
     fra: []
     rus: []
     zho: []
-  etymology: ~
+  etymology:
+    derived:
+    - pos-
+    - +
+    - gami
+    - +
+    - -cu
 poshay:
   term: poshay
   word class: b.nenoj
@@ -153742,6 +153879,8 @@ sahimoni:
     - - provlego
     - - provlegi
     spa:
+    - - corrección
+      - revisión
     - - corregir
       - revisar
     deu: []
@@ -153803,8 +153942,7 @@ sahiya:
     epo:
     - - ĝusteco
     spa:
-    - - exactitud
-      - corrección
+    - - corrección
     deu: []
     fra: []
     rus: []
@@ -159838,7 +159976,7 @@ sindrom asperger:
       - Asperger-sindromo
       - Aspergera sindromo
     spa:
-    - - síndrome de Asperger (<em>ahora parte de los trastornos del espectro autista</em>)
+    - - síndrome de Asperger
     deu: []
     fra: []
     rus: []
@@ -160094,6 +160232,36 @@ sino:
       Rusisa: синус &ldquo;sinus&rdquo;
       Turkisa: sin&uuml;s
       Vyetnamsa: sin
+sintaksu:
+  term: sintaksu
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - syntax
+    epo:
+    - - syntakso
+    spa:
+    - - sintaxis
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    natlang:
+      Doycisa: Syntax
+      Englisa: syntax
+      Espanisa: sintaxis
+      Fransesa: sintaxe
+      Hangusa: 신택스 &ldquo;xinteksu&rdquo;
+      Hindi: सिन्टैक्स &ldquo;sinteks&rdquo;
+      Indonesisa: sintaksis
+      Niponsa: シンタックス &ldquo;xintakusu&rdquo;
+      Pilipinasa: sintaksis, sintaks
+      Rusisa: синтаксис &ldquo;sintaksis&rdquo;
+      Swahilisa: sintaksi, sintaksia
+      Telugusa: సింటాక్స్ &ldquo;sintaks&rdquo;
+      Turkisa: sentaks
 sintesis:
   term: sintesis
   word class: b.oj
@@ -161999,6 +162167,7 @@ sonxi:
     spa:
     - - pérdida
     - - perder
+      - pasar por alto
     deu: []
     fra: []
     rus: []
@@ -162468,7 +162637,7 @@ su:
     - - -a (por pronomoj)
       - -ies (por korelativoj) (esprimas posedon)
     spa:
-    - - <em>'s</em> (<em>marca el caso posesivo</em>)
+    - - <em>'s</em> (<em>forma posesivos con sustantivos</em>)
     deu: []
     fra: []
     rus: []
@@ -168361,7 +168530,6 @@ teli:
       - distante
     - - lejos
       - lueñe
-    - - tele-
     deu: []
     fra: []
     rus: []
@@ -168571,7 +168739,9 @@ teli-:
     - - malproksima
       - malproksime
     spa:
-    - - distante
+    - - tele-
+      - a distancia
+      - remoto
     deu: []
     fra: []
     rus: []
@@ -168652,7 +168822,7 @@ telifon:
     zho: []
   etymology:
     derived:
-    - teli
+    - teli-
     - +
     - -fon
 teligrafi:
@@ -168672,7 +168842,7 @@ teligrafi:
     zho: []
   etymology:
     derived:
-    - teli
+    - teli-
     - +
     - -grafi
 teliharka:
@@ -179100,6 +179270,7 @@ vodka:
     - - vodko
     spa:
     - - vodka
+      - vodca
     deu: []
     fra: []
     rus: []
@@ -179336,7 +179507,7 @@ voluntirli:
     epo:
     - - volonta
       - laŭvola
-    - - volonta
+    - - volonte
       - laŭvole
     spa:
     - - voluntario
@@ -181537,7 +181708,7 @@ xa-:
     - - estonta
       - estonte
     spa:
-    - - (futuro)
+    - - futuro
     deu: []
     fra: []
     rus: []
@@ -181605,8 +181776,8 @@ xabahuhikaye:
     - - ghost story
     epo:
     - - fantoma rakonto
-      - frantomrakonto
-      - rakonto tem fantomoj
+      - fantomrakonto
+      - rakonto pri fantomoj
     spa:
     - - historia de fantasmas
     deu: []
@@ -181875,7 +182046,7 @@ xafemorculi:
       - posthumous
     - - posthumously
     epo:
-    - - postmora
+    - - postmorta
     - - postmorte
     spa:
     - - póstumo
@@ -184600,7 +184771,7 @@ xorewreka:
     - - discover
     epo:
     - - eltrovo
-    - - elrovi
+    - - eltrovi
     spa:
     - - hallazgo
       - descubrimiento
@@ -184768,7 +184939,7 @@ xorhare:
     epo:
     - - akiro
       - akirado
-    - - aliri
+    - - akiri
       - ekhavi
     spa:
     - - obtención
@@ -184848,6 +185019,7 @@ xorjui:
       - darse cuenta
       - advertir
       - reparar
+      - echar de ver
       - fijarse
       - coscarse
     deu: []
@@ -185233,7 +185405,9 @@ xorwala:
       - ekmalhavi
     spa:
     - - pérdida
+      - extravío
     - - perder
+      - extraviar
     deu: []
     fra: []
     rus: []
@@ -188885,6 +189059,41 @@ zeytuniyow:
     - zeytuni
     - +
     - yow
+zigzagu:
+  term: zigzagu
+  word class: ""
+  category: root
+  trans:
+    eng:
+    - - zigzag
+      - zig-zag
+    epo:
+    - - zigzago
+    - - zigzagi
+    spa:
+    - - zigzag
+      - ziszás
+    - - zigzaguear
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    natlang:
+      Doycisa: Zickzack
+      Englisa: zigzag
+      Espanisa: zigzag
+      Fransesa: zigzag
+      Hangusa: 지그재그 &ldquo;jigujegu&rdquo;
+      Hindi: ज़िगज़ैग &ldquo;zigzeg&rdquo;
+      Indonesisa: zigzag
+      Niponsa: ジグザグ &ldquo;jiguzagu&rdquo;
+      Parsisa: زیگزاگ &ldquo;zigz&acirc;g&rdquo;
+      Pilipinasa: sigsag
+      Rusisa: зигзаг &ldquo;zigzag&rdquo;
+      Swahilisa: zigizaga
+      Turkisa: zikzak
+      Vyetnamsa: d&iacute;ch dắc
 zimbabwe:
   term: Zimbabwe
   word class: su n
