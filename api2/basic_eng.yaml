@@ -184,6 +184,11 @@
   class: b xfik
   category: affix
   translation: specialty, science (of), philosophy (of), study (of), art (of)
+-mansi:
+  term: -mansi
+  class: b xfik
+  category: affix
+  translation: -mancy
 -maso:
   term: -maso
   class: b xfik
@@ -337,7 +342,7 @@ abil:
 abil_na_kari:
   term: abil na kari
   class: b.oj
-  category: derived
+  category: phrase
   translation: afford
 abilgi:
   term: abilgi
@@ -826,6 +831,21 @@ akiku:
   class: b
   category: root
   translation: agate
+akile:
+  term: Akile
+  class: su n
+  category: proper word
+  translation: Achiles
+akileli:
+  term: Akileli
+  class: t
+  category: derived
+  translation: Achilean
+akiletendon:
+  term: akiletendon
+  class: b
+  category: derived
+  translation: Achilles tendon
 akne:
   term: akne
   class: b
@@ -861,6 +881,11 @@ akran:
   class: b
   category: root
   translation: scorpion, <em>Scorpiones</em>
+akrili:
+  term: akrili
+  class: t
+  category: root
+  translation: acrylic
 akrobati:
   term: akrobati
   class: b
@@ -910,7 +935,7 @@ aksyon:
   term: aksyon
   class: b.nenoj
   category: root
-  translation: action, activity; act, take action, behave
+  translation: action, activity, performance; act, take action, behave, perform
 aksyonfil:
   term: aksyonfil
   class: t
@@ -1070,7 +1095,7 @@ alkoba:
   term: alkoba
   class: b
   category: root
-  translation: alcove, recess, niche
+  translation: alcove, recess, niche, nook
 alkohol:
   term: alkohol
   class: b.oro
@@ -1171,6 +1196,11 @@ alojensifil:
   class: t
   category: derived
   translation: heterosexual; heterosexually
+alokosmo:
+  term: alokosmo
+  class: b
+  category: derived
+  translation: alternate universe, dimension
 alokrasi:
   term: alokrasi
   class: b
@@ -1290,6 +1320,11 @@ alpaka:
   class: b
   category: root
   translation: alpaca, <em>Lama pacos</em>
+alto:
+  term: alto
+  class: b
+  category: root
+  translation: alto
 alucina:
   term: alucina
   class: b.oj
@@ -1451,11 +1486,21 @@ amiruli:
   class: t
   category: derived
   translation: imperative; imperatively
+amnyon:
+  term: amnyon
+  class: b
+  category: root
+  translation: amnion
 amonyako:
   term: amonyako
   class: b
   category: root
   translation: ammonia
+amos:
+  term: Amos
+  class: su n
+  category: proper word
+  translation: Amos
 amperi:
   term: amperi
   class: b
@@ -1777,8 +1822,8 @@ anti-:
   class: lfik
   category: affix
   translation: anti-
-antibaterili:
-  term: antibaterili
+antibakuterili:
+  term: antibakuterili
   class: t
   category: derived
   translation: anti-bacterial
@@ -2014,11 +2059,26 @@ argon:
   class: b
   category: root
   translation: argon, Ar
+aristo:
+  term: aristo
+  class: t
+  category: root
+  translation: aristocratic, noble
+aristotel:
+  term: Aristotel
+  class: su n
+  category: proper word
+  translation: Aristotle
 aritmeti:
   term: aritmeti
   class: b
   category: root
   translation: arithmetic
+arkimede:
+  term: Arkimede
+  class: su n
+  category: proper word
+  translation: Archimedes
 arkitetur:
   term: arkitetur
   class: b
@@ -2440,6 +2500,16 @@ atlantiko:
   class: su n
   category: proper word
   translation: Atlantic (Ocean)
+atlas:
+  term: atlas
+  class: b
+  category: root
+  translation: atlas
+atlas_name:
+  term: Atlas
+  class: su n
+  category: proper word
+  translation: Atlas
 atleti:
   term: atleti
   class: b
@@ -2595,6 +2665,11 @@ awfley:
   class: b.nenoj
   category: derived
   translation: fly away
+awgi:
+  term: awgi
+  class: b.oj
+  category: derived
+  translation: (cause to) disappear, get rid of
 awglu:
   term: awglu
   class: b.oj
@@ -2665,8 +2740,8 @@ awpel:
   class: b.oj
   category: derived
   translation: drive away, repel
-awresta:
-  term: awresta
+awrestagi:
+  term: awrestagi
   class: b.oj
   category: derived
   translation: abandonment; abandon
@@ -2899,12 +2974,12 @@ ayse:
   translation: ice
 aysebarix:
   term: aysebarix
-  class: b.oj
+  class: b.oj.ru
   category: derived
   translation: hail; hail
 ayseeskeyti:
   term: ayseeskeyti
-  class: b.oj
+  class: b.oj.ru
   category: derived
   translation: ice skating; ice skate
 aysejabal:
@@ -2922,6 +2997,11 @@ aysemon:
   class: b
   category: derived
   translation: piece of ice
+aysenahir:
+  term: aysenahir
+  class: b
+  category: derived
+  translation: glacier
 aysepul:
   term: aysepul
   class: t
@@ -3073,6 +3153,16 @@ bahariestare:
   class: b
   category: derived
   translation: starfish, sea-star, <em>Asteroidea</em>
+baharigardan:
+  term: baharigardan
+  class: b
+  category: derived
+  translation: strait
+baharigebo:
+  term: baharigebo
+  class: b
+  category: derived
+  translation: sound (<em>geography</em>)
 baharikacupa:
   term: baharikacupa
   class: b
@@ -3123,6 +3213,11 @@ bakugamon:
   class: b
   category: root
   translation: backgammon
+bakuteri:
+  term: bakuteri
+  class: b
+  category: root
+  translation: bacteria
 bakxixi:
   term: bakxixi
   class: b.oj
@@ -3318,6 +3413,11 @@ banguraya:
   class: b
   category: derived
   translation: fragility, delicateness, brittleness, frailty, tenderness
+banjo:
+  term: banjo
+  class: b
+  category: root
+  translation: banjo
 banka:
   term: banka
   class: b
@@ -3422,11 +3522,11 @@ banyokamer:
   class: b
   category: derived
   translation: bathroom
-banyokumax:
-  term: banyokumax
+banyotwala:
+  term: banyotwala
   class: b
   category: derived
-  translation: towel
+  translation: bath towel
 bao:
   term: bao
   class: b
@@ -3507,6 +3607,16 @@ bardi:
   class: b.oro
   category: root
   translation: cold; be cold, chill, make cold, cool (down)
+bardiday:
+  term: bardiday
+  class: t
+  category: derived
+  translation: freezing
+bardilil:
+  term: bardilil
+  class: t
+  category: derived
+  translation: cool
 bardimosem:
   term: bardimosem
   class: b
@@ -3532,6 +3642,11 @@ barinjen:
   class: b
   category: root
   translation: eggplant, aubergine, brinjal
+bariton:
+  term: bariton
+  class: b
+  category: root
+  translation: baritone (<em>musical range</em>)
 barix:
   term: barix
   class: b.oj.ru
@@ -3682,8 +3797,28 @@ basketobol:
   class: b
   category: derived
   translation: basketball
-bason:
-  term: bason
+baso:
+  term: baso
+  class: b
+  category: root
+  translation: bass (<em>musical range</em>)
+basodrumu:
+  term: basodrumu
+  class: b
+  category: derived
+  translation: bass drum
+basogitara:
+  term: basogitara
+  class: b
+  category: derived
+  translation: bass guitar
+basoklarinete:
+  term: basoklarinete
+  class: b
+  category: derived
+  translation: bass clarinet
+basun:
+  term: basun
   class: b
   category: root
   translation: bassoon
@@ -3691,7 +3826,7 @@ bateri:
   term: bateri
   class: b
   category: root
-  translation: bacteria
+  translation: battery
 batiza:
   term: batiza
   class: b.oj
@@ -3932,16 +4067,16 @@ befobido:
   class: t
   category: derived
   translation: feared
-befobifil:
-  term: befobifil
-  class: t
-  category: derived
-  translation: fear-prone
 befuraha:
   term: befuraha
   class: b.oj
   category: derived
   translation: enjoy
+begiximyen:
+  term: begiximyen
+  class: b
+  category: derived
+  translation: suspect
 begoyonyen:
   term: begoyonyen
   class: b
@@ -3957,16 +4092,26 @@ behemot:
   class: "n"
   category: root
   translation: behemoth
-beinteresyen:
-  term: beinteresyen
-  class: b
-  category: derived
-  translation: interested person
 beinterviuyen:
   term: beinterviuyen
   class: b
   category: derived
   translation: interviewee
+beker:
+  term: beker
+  class: b
+  category: root
+  translation: beaker
+bekerel:
+  term: bekerel
+  class: b
+  category: derived
+  translation: becquerel, Bq
+bekerel_name:
+  term: Bekerel
+  class: su n
+  category: proper word
+  translation: Becquerel
 bekir:
   term: bekir
   class: t
@@ -4097,6 +4242,11 @@ bendu:
   class: b
   category: root
   translation: tape, band, strip, strap, ribbon
+bendutaji:
+  term: bendutaji
+  class: b
+  category: derived
+  translation: diadem, tiara
 benge:
   term: benge
   class: b.oj
@@ -4163,6 +4313,11 @@ beokomusi:
   class: t
   category: derived
   translation: must-see
+bepayayen:
+  term: bepayayen
+  class: b
+  category: derived
+  translation: payee
 beri:
   term: beri
   class: b
@@ -4671,6 +4826,11 @@ boloku:
   category: root
   translation: block (<em>approximately cuboid or rectangular object or group</em>),
     bloc
+bolokuflutu:
+  term: bolokuflutu
+  class: b
+  category: derived
+  translation: recorder, block flute
 bomba:
   term: bomba
   class: b.oj
@@ -4773,7 +4933,7 @@ boninsansim:
   translation: humane; humanely
 bonjiwa:
   term: bonjiwa
-  class: b.nenoj; il
+  class: b.oj.ru; il
   category: derived
   translation: welfare; live well, be well; greetings (<em>after long absence or separation</em>)
 bonjotay:
@@ -4816,6 +4976,11 @@ bonus:
   class: b
   category: root
   translation: bonus
+bonxanseli:
+  term: bonxanseli
+  class: t
+  category: derived
+  translation: fortunate, lucky; fortunately, luckily
 bonxansepul:
   term: bonxansepul
   class: t
@@ -4961,6 +5126,16 @@ boyletul:
   class: b
   category: derived
   translation: kettle
+boysen:
+  term: Boysen
+  class: su n
+  category: proper word
+  translation: Boysen
+boysenberi:
+  term: boysenberi
+  class: b
+  category: derived
+  translation: boysenberry, <em>R. ursinus &times; R. idaeus</em>
 bozi:
   term: bozi
   class: b
@@ -5221,6 +5396,16 @@ bulbulu:
   class: b
   category: root
   translation: nightingale, <em>Luscinia</em>
+bule:
+  term: Bule
+  class: su n
+  category: proper word
+  translation: Boole
+buleli:
+  term: Buleli
+  class: t
+  category: derived
+  translation: boolean
 bulevar:
   term: bulevar
   class: b
@@ -5329,7 +5514,7 @@ burbaytu:
   translation: hovel
 burbla:
   term: burbla
-  class: b.oj
+  class: b.oj.ru
   category: derived
   translation: chatter
 burcu:
@@ -5497,6 +5682,11 @@ burxanse:
   class: b
   category: derived
   translation: bad luck
+burxanseli:
+  term: burxanseli
+  class: t
+  category: derived
+  translation: unfortunate; unfortunately
 burxansepul:
   term: burxansepul
   class: t
@@ -5669,7 +5859,7 @@ calun:
   translation: wheel
 caluneskeyti:
   term: caluneskeyti
-  class: b.oj
+  class: b.oj.ru
   category: derived
   translation: roller skating; roller skate
 calunkursi:
@@ -5837,6 +6027,11 @@ cebulasim:
   class: t
   category: derived
   translation: oniony
+cecake:
+  term: cecake
+  class: b
+  category: root
+  translation: (small)pox, variola
 ceke:
   term: ceke
   class: b
@@ -5892,11 +6087,16 @@ cel_kapi:
   class: p jm
   category: phrase
   translation: to the top
+cel_moywatu:
+  term: cel moywatu
+  class: p jm
+  category: phrase
+  translation: forever
 cel_na:
   term: cel na
   class: jm
   category: phrase
-  translation: in order to
+  translation: in order to, so as to
 cel_peda:
   term: cel peda
   class: p jm
@@ -5932,16 +6132,21 @@ celeloka:
   class: b
   category: derived
   translation: destination
+celesta:
+  term: celesta
+  class: b
+  category: root
+  translation: celeste
 celidi:
   term: celidi
   class: b.oj
   category: derived
-  translation: access, reach, attain
+  translation: access, reach (<em>arrive at</em>)
 celidiible:
   term: celidiible
   class: t
   category: derived
-  translation: reachable, attainable, accessible; attainably, accessibly
+  translation: reachable, accessible; accessibly
 celki:
   term: celki
   class: l
@@ -6172,6 +6377,16 @@ ci:
   class: par
   category: root
   translation: denotes endearment or affection
+ciber-:
+  term: ciber-
+  class: lfik
+  category: affix
+  translation: cyber-, smart
+ciberneti:
+  term: ciberneti
+  class: b
+  category: root
+  translation: cybernetics
 cibo:
   term: cibo
   class: b
@@ -6237,6 +6452,11 @@ cilindroli:
   class: t
   category: derived
   translation: cylindrical
+cimbalo:
+  term: cimbalo
+  class: b
+  category: root
+  translation: cymbal
 cimpanze:
   term: cimpanze
   class: b
@@ -6282,6 +6502,11 @@ cinon:
   class: b.oro
   category: root
   translation: intelligence; be intelligent, cause to be intelligent, make intelligent
+cinonday:
+  term: cinonday
+  class: t
+  category: derived
+  translation: brilliant, genius
 cinonkal:
   term: cinonkal
   class: t
@@ -6292,6 +6517,11 @@ cinonkalya:
   class: b
   category: derived
   translation: stupidity
+cinonlil:
+  term: cinonlil
+  class: t
+  category: derived
+  translation: stupid
 cinonpul:
   term: cinonpul
   class: t
@@ -6429,7 +6659,7 @@ colo-:
   translation: ugly
 coloeskri:
   term: coloeskri
-  class: b.oj
+  class: b.oj.ru
   category: derived
   translation: scribble, scrawl
 colosoti:
@@ -6486,7 +6716,7 @@ cosan:
   term: cosan
   class: b.oj
   category: root
-  translation: praise, compliment, admiration; praise, compliment, admire
+  translation: praise, compliment; praise, compliment
 cosando:
   term: cosando
   class: t
@@ -6690,6 +6920,11 @@ cuyodolo:
   class: b
   category: derived
   translation: main street
+cuyotyan:
+  term: cuyotyan
+  class: b
+  category: derived
+  translation: point (<em>main idea or part in a narrative</em>)
 cuyoxaher:
   term: cuyoxaher
   class: b
@@ -6730,6 +6965,11 @@ da:
   class: pn
   category: root
   translation: (<em>relative pronoun</em>) he, she, it, they
+dabagu:
+  term: dabagu
+  class: b.oj
+  category: root
+  translation: tanning; tan (leather)
 dabihu:
   term: dabihu
   class: b.oj
@@ -6754,12 +6994,12 @@ dadal:
   term: dadal
   class: b.oj
   category: root
-  translation: achievement, accomplishment; reach, achieve, accomplish
+  translation: achievement, accomplishment; reach, attain, achieve, accomplish
 dadaldo:
   term: dadaldo
   class: t
   category: derived
-  translation: accomplished, achieved, reached
+  translation: accomplished, attained, achieved, reached
 dadalible:
   term: dadalible
   class: t
@@ -6810,28 +7050,28 @@ dahunxirani:
   class: b
   category: derived
   translation: aphid, plant louse, <em>Aphidoidea</em>
-daif:
-  term: daif
+daifu:
+  term: daifu
   class: t
   category: root
   translation: weak; weakly
-daifcu:
-  term: daifcu
+daifucu:
+  term: daifucu
   class: b.nenoj
   category: derived
   translation: weaken, become weak, get weak
-daifgi:
-  term: daifgi
+daifugi:
+  term: daifugi
   class: b.oj
   category: derived
   translation: weaken, make weak
-daifxey:
-  term: daifxey
+daifuxey:
+  term: daifuxey
   class: b
   category: derived
   translation: (a) weakness
-daifya:
-  term: daifya
+daifuya:
+  term: daifuya
   class: b
   category: derived
   translation: weakness
@@ -6864,12 +7104,7 @@ dalu:
   term: dalu
   class: b.oj
   category: root
-  translation: shield; shield
-dalutul:
-  term: dalutul
-  class: b
-  category: derived
-  translation: shield
+  translation: shield, screen, shade; shield, screen, shade
 dama:
   term: dama
   class: b
@@ -7041,6 +7276,11 @@ daraje:
   class: b
   category: root
   translation: degree, grade, level, extent
+darajegao:
+  term: darajegao
+  class: t
+  category: derived
+  translation: advanced
 darajeli:
   term: darajeli
   class: t
@@ -7101,6 +7341,11 @@ darsulari:
   class: b
   category: derived
   translation: course, class
+darwin:
+  term: Darwin
+  class: su n
+  category: proper word
+  translation: Darwin
 data:
   term: data
   class: b
@@ -7260,7 +7505,12 @@ daybur:
   term: daybur
   class: t
   category: derived
-  translation: awful, terrible, evil
+  translation: awful, terrible, horrible, evil
+daycinon:
+  term: daycinon
+  class: b
+  category: derived
+  translation: brilliance, genius
 daycinonpul:
   term: daycinonpul
   class: t
@@ -7290,12 +7540,18 @@ dayday:
   term: dayday
   class: t
   category: derived
-  translation: huge, enormous, immense, gigantic, hugely, enormously, immensely, gigantically
+  translation: huge, enormous, immense, gigantic, giant, hugely, enormously, immensely,
+    gigantically
 daydaymo:
   term: daydaymo
   class: m
   category: derived
   translation: extremely, exceedingly
+daydayyen:
+  term: daydayyen
+  class: b
+  category: derived
+  translation: giant
 daydenkwanti:
   term: daydenkwanti
   class: t
@@ -7326,6 +7582,11 @@ daydolo:
   class: b
   category: derived
   translation: 'road, highway, freeway '
+daydrumu:
+  term: daydrumu
+  class: b
+  category: derived
+  translation: bass drum
 daydwer:
   term: daydwer
   class: b
@@ -7353,7 +7614,7 @@ daygi:
   translation: enlarge, make big, make large
 dayhaha:
   term: dayhaha
-  class: b.oj
+  class: b.oj.ru
   category: derived
   translation: guffaw; guffaw, laugh out loud
 dayhazuni:
@@ -7411,6 +7672,11 @@ daykaxoke:
   class: b
   category: derived
   translation: ladle, dipper, scoop
+daykefuku:
+  term: daykefuku
+  class: b.oj
+  category: derived
+  translation: marveling; marvel (at)
 daykotor:
   term: daykotor
   class: t
@@ -7485,7 +7751,7 @@ daymeli:
   term: daymeli
   class: t
   category: derived
-  translation: gorgeous; gorgeously\
+  translation: gorgeous; gorgeously
 dayminmo:
   term: dayminmo
   class: m
@@ -7499,12 +7765,12 @@ daymo:
 daymo_maxmo:
   term: daymo maxmo
   class: m
-  category: derived
+  category: phrase
   translation: much more
 daymo_minmo:
   term: daymo minmo
   class: m
-  category: derived
+  category: phrase
   translation: much less
 daymuhim:
   term: daymuhim
@@ -7522,6 +7788,11 @@ daynakunkal:
   class: t
   category: derived
   translation: clawless, achelate
+daynefra:
+  term: daynefra
+  class: b.oj
+  category: derived
+  translation: loathe, detest, despise
 dayneo:
   term: dayneo
   class: t
@@ -7703,6 +7974,16 @@ dehayen:
   class: b
   category: derived
   translation: villager
+dekart:
+  term: Dekart
+  class: su n
+  category: proper word
+  translation: Descartes
+dekartli:
+  term: Dekartli
+  class: t
+  category: derived
+  translation: Cartesian
 deklara:
   term: deklara
   class: b.oj
@@ -8323,6 +8604,11 @@ dildo:
   class: b
   category: root
   translation: dildo
+dimensi:
+  term: dimensi
+  class: b
+  category: root
+  translation: dimension
 din:
   term: din
   class: b
@@ -8538,6 +8824,11 @@ dixan:
   class: b
   category: root
   translation: floor
+dizel:
+  term: Dizel
+  class: su n
+  category: proper word
+  translation: Diesel
 doduku:
   term: doduku
   class: b
@@ -8809,9 +9100,14 @@ dotorya:
   class: b
   category: derived
   translation: doctorate, PhD
+dotrina:
+  term: dotrina
+  class: b
+  category: root
+  translation: doctrine
 doxo:
   term: doxo
-  class: b.oj
+  class: b.oj.ru
   category: root
   translation: reading; read
 doxoabil:
@@ -8899,6 +9195,11 @@ doyday:
   class: b.oj
   category: root
   translation: treatment; treat (<em>act or behave in specified manner</em>)
+drage:
+  term: drage
+  class: b
+  category: root
+  translation: drag (<em>clothing</em>)
 dragon:
   term: dragon
   class: b
@@ -9064,6 +9365,11 @@ duadesyum:
   class: t
   category: derived
   translation: twentieth
+duadimensili:
+  term: duadimensili
+  class: t
+  category: derived
+  translation: two-dimensional
 duaglif:
   term: duaglif
   class: b
@@ -9109,6 +9415,16 @@ duaple:
   class: t
   category: derived
   translation: double, twofold
+duaple_baso:
+  term: duaple baso
+  class: b
+  category: derived
+  translation: double bass, contrabass
+duaple_basun:
+  term: duaple basun
+  class: b
+  category: derived
+  translation: contrabassoon, double bassoon
 duatyan:
   term: duatyan
   class: b
@@ -9265,6 +9581,16 @@ dupa:
   class: b
   category: root
   translation: incense
+duparacutu:
+  term: duparacutu
+  class: b
+  category: derived
+  translation: parachuting
+dupentu:
+  term: dupentu
+  class: b
+  category: derived
+  translation: painting (<em>act of</em>)
 dupul:
   term: dupul
   class: m
@@ -9280,11 +9606,6 @@ dur-:
   class: lfik
   category: affix
   translation: during
-dur_moywatu:
-  term: dur moywatu
-  class: p jm
-  category: phrase
-  translation: forever
 dur_na:
   term: dur na
   class: p jm
@@ -9299,7 +9620,8 @@ dure:
   term: dure
   class: b.nenoj
   category: root
-  translation: duration; last, continue, go on, keep going, carry on
+  translation: duration, enduring, continuation; last, endure, continue, go on, keep
+    going
 dureabil:
   term: dureabil
   class: t
@@ -9309,7 +9631,8 @@ duregi:
   term: duregi
   class: b.oj
   category: derived
-  translation: continuation; continue, keep (on)
+  translation: continuation; continue (with), go on (with), keep going (with), carry
+    on (with), keep (on)
 durepul:
   term: durepul
   class: t
@@ -9319,7 +9642,7 @@ durki:
   term: durki
   class: l
   category: derived
-  translation: while
+  translation: while, as
 durmomentoli:
   term: durmomentoli
   class: t
@@ -9459,7 +9782,7 @@ e:
   term: e
   class: il
   category: root
-  translation: hmm, uh, um
+  translation: hmm, uh, um, huh
 ebanus:
   term: ebanus
   class: b
@@ -9485,6 +9808,11 @@ efelidi:
   class: b
   category: root
   translation: freckle
+efeso:
+  term: Efeso
+  class: su n
+  category: proper word
+  translation: Ephesus
 efeto:
   term: efeto
   class: b.oj
@@ -9495,6 +9823,16 @@ efetobon:
   class: t
   category: derived
   translation: effective; effectively
+efetogi:
+  term: efetogi
+  class: b.oj
+  category: derived
+  translation: execute, put into effect
+efisyen:
+  term: efisyen
+  class: t
+  category: root
+  translation: efficient; efficiently
 egal:
   term: egal
   class: t
@@ -9545,6 +9883,11 @@ eger_si:
   class: l
   category: phrase
   translation: if so
+egnu:
+  term: egnu
+  class: b
+  category: root
+  translation: gnu, wildebeast, <em>Connochaetes</em>
 ehtiram:
   term: ehtiram
   class: b.oj
@@ -9690,6 +10033,11 @@ eletrigitara:
   class: b
   category: derived
   translation: electric guitar
+eletrikaxa:
+  term: eletrikaxa
+  class: b
+  category: derived
+  translation: battery
 eletrili:
   term: eletrili
   class: t
@@ -9836,11 +10184,6 @@ energi:
   class: b.oj
   category: root
   translation: energy; energize
-energikaxa:
-  term: energikaxa
-  class: b
-  category: derived
-  translation: battery
 energipul:
   term: energipul
   class: t
@@ -9876,6 +10219,11 @@ engli:
   class: su n
   category: proper word
   translation: England
+englikorno:
+  term: englikorno
+  class: b
+  category: derived
+  translation: English horn
 englili:
   term: Englili
   class: t
@@ -9991,6 +10339,16 @@ ergomon:
   class: b
   category: derived
   translation: task
+ergosafta:
+  term: ergosafta
+  class: b
+  category: derived
+  translation: workweek, legal weekdays
+ergosaftadin:
+  term: ergosaftadin
+  class: b
+  category: derived
+  translation: weekday
 ergotim:
   term: ergotim
   class: b
@@ -10026,6 +10384,11 @@ ermino:
   class: b
   category: root
   translation: ermine, stoat
+esaya:
+  term: Esaya
+  class: su n
+  category: proper word
+  translation: Isaiah
 esey:
   term: esey
   class: b
@@ -10626,7 +10989,7 @@ esto:
   class: b.oro
   category: root
   translation: stop (<em>come or bring to a stop</em>), halt (<em>come or bring to
-    a halt</em>), cease
+    a halt</em>), cease, quit
 estodo:
   term: estodo
   class: t
@@ -10857,11 +11220,26 @@ evoluli_teori:
   class: b
   category: phrase
   translation: theory of evolution
+ewfonyum:
+  term: ewfonyum
+  class: b
+  category: root
+  translation: euphonium
 ewkalitus:
   term: ewkalitus
   class: b
   category: root
   translation: eucalyptus
+ewklide:
+  term: Ewklide
+  class: su n
+  category: proper word
+  translation: Euclid
+ewklideli:
+  term: Ewklideli
+  class: t
+  category: derived
+  translation: Euclidean
 ewnike:
   term: Ewnike
   class: su n
@@ -11137,6 +11515,11 @@ eya:
   class: b
   category: root
   translation: letter e
+eyob:
+  term: Eyob
+  class: su n
+  category: proper word
+  translation: Job (<em>name</em>)
 eyre:
   term: Eyre
   class: su n
@@ -11152,6 +11535,11 @@ eyreyen:
   class: b
   category: derived
   translation: Irish (person)
+ezra:
+  term: Ezra
+  class: su n
+  category: proper word
+  translation: Ezra
 fabrika:
   term: fabrika
   class: b.oj
@@ -11322,6 +11710,11 @@ fankopul:
   class: t
   category: derived
   translation: muddy
+fankosokitan:
+  term: fankosokitan
+  class: b
+  category: root
+  translation: peat, turf
 fantasi:
   term: fantasi
   class: b
@@ -11342,6 +11735,11 @@ faraon:
   class: b
   category: root
   translation: pharaoh
+farenhayt:
+  term: Farenhayt
+  class: su n
+  category: proper word
+  translation: Fahrenheit, F
 farina:
   term: farina
   class: b
@@ -11589,7 +11987,7 @@ fe_dumara:
 fe_durya:
   term: fe durya
   class: p jm
-  category: derived
+  category: phrase
   translation: in the meantime, meanwhile
 fe_espesyalya:
   term: fe espesyalya
@@ -11626,6 +12024,11 @@ fe_folo:
   class: p jm
   category: phrase
   translation: therefore, consequently, so, thus, then
+fe_folo_fe:
+  term: fe folo fe
+  class: jm p
+  category: phrase
+  translation: as a consequence of, as a result of
 fe_folo_ki:
   term: fe folo ki
   class: l
@@ -11649,7 +12052,7 @@ fe_fronta_de:
 fe_geo:
   term: fe geo
   class: p jm
-  category: derived
+  category: phrase
   translation: my gosh, land sakes
 fe_gwaho:
   term: fe gwaho
@@ -11689,7 +12092,7 @@ fe_infer:
 fe_infracengu:
   term: fe infracengu
   class: p jm
-  category: derived
+  category: phrase
   translation: downstairs
 fe_inkludi_fe:
   term: fe inkludi fe
@@ -11724,7 +12127,7 @@ fe_jadin:
 fe_jaya:
   term: fe jaya
   class: p jm
-  category: derived
+  category: phrase
   translation: adjacently
 fe_kapi:
   term: fe kapi
@@ -11765,7 +12168,7 @@ fe_kosa_ki:
   term: fe kosa ki
   class: l
   category: phrase
-  translation: because, since
+  translation: because, since, for
 fe_leya:
   term: fe leya
   class: p jm
@@ -11909,7 +12312,7 @@ fe_perya:
 fe_peti:
   term: fe peti
   class: p jm
-  category: derived
+  category: phrase
   translation: please (<em>&ldquo;by request&rdquo;</em>)
 fe_porya:
   term: fe porya
@@ -11924,7 +12327,7 @@ fe_preferi_kom:
 fe_rimara:
   term: fe rimara
   class: t
-  category: derived
+  category: phrase
   translation: again, once more, one more time
 fe_ruke:
   term: fe ruke
@@ -11949,7 +12352,7 @@ fe_super:
 fe_supracengu:
   term: fe supracengu
   class: p jm
-  category: derived
+  category: phrase
   translation: upstairs
 fe_tayti:
   term: fe tayti
@@ -11974,7 +12377,7 @@ fe_tema_fe:
 fe_teo:
   term: fe Teo
   class: p jm
-  category: derived
+  category: phrase
   translation: by God, my God, for God&#039;s sake
 fe_tiga_mara:
   term: (fe) tiga mara
@@ -12171,6 +12574,16 @@ fempoemayen:
   class: b
   category: derived
   translation: poetess
+femprince:
+  term: femprince
+  class: b
+  category: derived
+  translation: princess
+femrahibu:
+  term: femrahibu
+  class: b
+  category: derived
+  translation: nun, sister
 femsenyor:
   term: femsenyor
   class: b
@@ -12180,7 +12593,7 @@ femsim:
   term: femsim
   class: t
   category: derived
-  translation: effeminate; effeminately
+  translation: feminine, effeminate; femininely, effeminately
 femsodar:
   term: femsodar
   class: b
@@ -12221,8 +12634,8 @@ femyen:
   class: b
   category: derived
   translation: female, woman, lady, gal, girl
-fenix:
-  term: fenix
+feniksu:
+  term: feniksu
   class: b
   category: root
   translation: phoenix
@@ -12401,6 +12814,16 @@ filamen:
   class: b
   category: root
   translation: filament, fiber
+filemon:
+  term: Filemon
+  class: su n
+  category: proper word
+  translation: Philemon
+filipi:
+  term: Filipi
+  class: su n
+  category: proper word
+  translation: Philippi
 filipu:
   term: Filipu
   class: su n
@@ -12522,16 +12945,17 @@ finrasona:
   class: b.oj
   category: derived
   translation: conclusion; conclude (that)
-finsabedin:
-  term: finsabedin
-  class: b
-  category: derived
-  translation: weekend
 finsen:
   term: finsen
   class: b.lin
   category: derived
   translation: end up being, turn out to be, prove
+finto:
+  term: finto
+  class: il
+  category: derived
+  translation: 'filler that precedes a change in subject or introduces a conclusion:
+    well (then), then, so'
 firaru:
   term: firaru
   class: b.nenoj
@@ -12738,6 +13162,11 @@ fobido:
   class: t
   category: derived
   translation: frightened, scared
+fobifil:
+  term: fobifil
+  class: t
+  category: derived
+  translation: fear-prone
 fobikal:
   term: fobikal
   class: t
@@ -12777,13 +13206,12 @@ fol:
   term: fol
   class: p
   category: root
-  translation: according to, along, alongside (of), by, for (<em>according to</em>),
-    the more/less
+  translation: according to, along, alongside (of), by, for (<em>according to</em>)
 fol-:
   term: fol-
   class: lfik
   category: affix
-  translation: according to
+  translation: according to, along, alongside (of), by
 fol_gramati:
   term: fol gramati
   class: p jm
@@ -12796,7 +13224,7 @@ fol_lega:
   translation: legal; legally
 fol_moda:
   term: fol moda
-  class: ""
+  class: p jm
   category: derived
   translation: in fashion
 fol_norma:
@@ -13001,9 +13429,9 @@ fosforo:
   translation: phosphorus, P
 fosil:
   term: fosil
-  class: b
+  class: b.oro
   category: root
-  translation: fossil
+  translation: fossil; fossilize
 fosilcu:
   term: fosilcu
   class: b.nenoj
@@ -13064,6 +13492,11 @@ fremu:
   class: b.oj
   category: root
   translation: frame (<em>of film, video, animation</em>)
+frese:
+  term: frese
+  class: b.oj
+  category: root
+  translation: milling; mill (metal)
 fron-:
   term: fron-
   class: lfik
@@ -13083,7 +13516,7 @@ fronkadam:
   term: fronkadam
   class: b.nenoj
   category: derived
-  translation: progress
+  translation: progress, advancement; progress, advance
 fronkumax:
   term: fronkumax
   class: b
@@ -13114,6 +13547,11 @@ frontasahni:
   class: b
   category: derived
   translation: foreground
+froyd:
+  term: Froyd
+  class: su n
+  category: proper word
+  translation: Freud
 frustra:
   term: frustra
   class: b.oro
@@ -13280,6 +13718,36 @@ furahane:
   class: t
   category: derived
   translation: pleasing, pleasuring
+furi:
+  term: furi
+  class: t
+  category: root
+  translation: furry (<em>of or related to the furry subculture</em>)
+furifan:
+  term: furifan
+  class: b
+  category: derived
+  translation: furry, furfan
+furikostum:
+  term: furikostum
+  class: b
+  category: derived
+  translation: fursuit
+furiperson:
+  term: furiperson
+  class: b
+  category: derived
+  translation: fursona
+furitim:
+  term: furitim
+  class: b
+  category: derived
+  translation: furry fandom, furdom
+furiyen:
+  term: furiyen
+  class: b
+  category: derived
+  translation: furry, anthropomorphic animal
 furno:
   term: furno
   class: b.oj
@@ -13415,6 +13883,11 @@ galaksili:
   class: t
   category: derived
   translation: galactic; galactically
+galati:
+  term: Galati
+  class: su n
+  category: proper word
+  translation: Galatia
 galon:
   term: galon
   class: b
@@ -13444,7 +13917,7 @@ gami:
   term: gami
   class: b.oj
   category: root
-  translation: spouse, husband, wife; marry
+  translation: spouse, husband, wife; marry, wed
 gami-:
   term: gami-
   class: lfik
@@ -13540,14 +14013,19 @@ ganci:
   term: ganci
   class: b.oj
   category: root
-  translation: perception, sense; perceive, regard (as), consider (<em>regard as</em>)
+  translation: perception; perceive, sense, regard (as), consider (<em>regard as</em>)
+gancikowa:
+  term: gancikowa
+  class: b
+  category: derived
+  translation: sense
 gandum:
   term: gandum
   class: b
   category: root
   translation: wheat
-gandumkompleto:
-  term: gandumkompleto
+gandumtotal:
+  term: gandumtotal
   class: t
   category: derived
   translation: whole wheat
@@ -13781,6 +14259,11 @@ gayser:
   class: b
   category: root
   translation: geyser
+gaza:
+  term: Gaza
+  class: su n
+  category: proper word
+  translation: Gaza (Strip)
 gazela:
   term: gazela
   class: b
@@ -13841,6 +14324,11 @@ geobunhway:
   class: b
   category: derived
   translation: landslide
+geogardan:
+  term: geogardan
+  class: b
+  category: derived
+  translation: isthmus
 geografi:
   term: geografi
   class: b
@@ -14153,6 +14641,26 @@ gixiki:
   class: b
   category: root
   translation: rite, ritual
+gixim:
+  term: gixim
+  class: b.oj
+  category: root
+  translation: suspicion; suspect
+giximfil:
+  term: giximfil
+  class: t
+  category: derived
+  translation: suspicious (<em>prone to suspicion</em>), distrustful
+giximlaye:
+  term: giximlaye
+  class: t
+  category: derived
+  translation: 'suspicious (<em>arousing suspicion</em>), suspect, fishy, questionable '
+giximpul:
+  term: giximpul
+  class: t
+  category: derived
+  translation: suspicious (<em>feeling suspicion</em>), suspecting
 glandu:
   term: glandu
   class: b
@@ -14340,6 +14848,11 @@ gonginyen:
   class: b
   category: derived
   translation: supplier, provider
+gonorey:
+  term: gonorey
+  class: b
+  category: root
+  translation: gonorrhea
 gorila:
   term: gorila
   class: b
@@ -14792,6 +15305,11 @@ ha:
   class: il
   category: root
   translation: ha (<em>denotes surprise, laughter, etc.</em>)
+habakuk:
+  term: Habakuk
+  class: su n
+  category: proper word
+  translation: Habakkuk
 habel:
   term: Habel
   class: su n
@@ -14832,6 +15350,11 @@ hafnyum:
   class: b
   category: root
   translation: hafnium, Hf
+hagay:
+  term: Hagay
+  class: su n
+  category: proper word
+  translation: Haggai
 haha:
   term: haha
   class: b.oj.ru
@@ -15017,26 +15540,6 @@ handaki:
   class: b
   category: root
   translation: trench, ditch, moat, gutter
-hangu:
-  term: Hangu
-  class: su n
-  category: proper word
-  translation: Korea
-hanguli:
-  term: Hanguli
-  class: t
-  category: derived
-  translation: Korean
-hangusa:
-  term: Hangusa
-  class: b
-  category: derived
-  translation: Korean (language)
-hanguyen:
-  term: Hanguyen
-  class: b
-  category: derived
-  translation: Korean (person)
 hanjer:
   term: hanjer
   class: b.oj
@@ -15097,6 +15600,11 @@ hantatul:
   class: b
   category: derived
   translation: handle
+hantatwala:
+  term: hantatwala
+  class: b
+  category: derived
+  translation: hand towel
 har:
   term: har
   class: p
@@ -15107,6 +15615,11 @@ har-:
   class: lfik
   category: affix
   translation: with (<em>having</em>)
+har_na:
+  term: har na
+  class: p jm
+  category: phrase
+  translation: having (<em> + past participle</em>)
 har_posjui_tem:
   term: har posjui tem
   class: p jm
@@ -15123,6 +15636,11 @@ harabudo:
   class: t
   category: derived
   translation: ruined, wrecked, spoiled, devastated
+harase:
+  term: harase
+  class: b.oj
+  category: root
+  translation: harassment, bullying; harass, bully
 hardal:
   term: hardal
   class: b
@@ -15546,6 +16064,11 @@ he_dento:
   class: pn
   category: phrase
   translation: that specific one
+he_ete:
+  term: he ete
+  class: pn
+  category: phrase
+  translation: they themselves
 he_hin:
   term: he hin
   class: d
@@ -15556,6 +16079,11 @@ he_hinto:
   class: pn
   category: phrase
   translation: this specific one
+he_imi:
+  term: he imi
+  class: pn
+  category: phrase
+  translation: we ourselves
 he_ke:
   term: he ke
   class: d
@@ -15571,6 +16099,11 @@ he_keto:
   class: pn
   category: phrase
   translation: whatever, what ever
+he_mi:
+  term: he mi
+  class: pn
+  category: phrase
+  translation: I myself
 he_moy:
   term: he moy
   class: d
@@ -15601,6 +16134,21 @@ he_samato:
   class: pn
   category: phrase
   translation: the same exact thing
+he_te:
+  term: he te
+  class: pn
+  category: phrase
+  translation: he himself, she herself, they themself (singular)
+he_uyu:
+  term: he uyu
+  class: pn
+  category: phrase
+  translation: you yourselves
+he_yu:
+  term: he yu
+  class: pn
+  category: phrase
+  translation: you yourself
 hedro:
   term: hedro
   class: b
@@ -15661,6 +16209,21 @@ herbali:
   class: t
   category: derived
   translation: herbal; herbally
+herkule:
+  term: Herkule
+  class: su n
+  category: proper word
+  translation: Hercules
+herkuleli:
+  term: Herkuleli
+  class: t
+  category: derived
+  translation: Herculean
+herkulesim:
+  term: Herkulesim
+  class: t
+  category: derived
+  translation: Herculean
 herni:
   term: herni
   class: b.oro
@@ -15686,6 +16249,11 @@ heroya:
   class: b
   category: derived
   translation: heroism
+herpes:
+  term: herpes
+  class: b
+  category: root
+  translation: herpes
 hervatska:
   term: Hervatska
   class: su n
@@ -15741,6 +16309,11 @@ hey:
   class: il
   category: root
   translation: hey
+hezekyel:
+  term: Hezekyel
+  class: su n
+  category: proper word
+  translation: Ezekiel
 hidrogen:
   term: hidrogen
   class: b
@@ -15770,7 +16343,7 @@ hikaye:
   term: hikaye
   class: b.oj
   category: root
-  translation: story, narrative; narrate, relate, recount
+  translation: story, narrative, tale; narrate, relate, recount
 hikayedo:
   term: hikayedo
   class: t
@@ -15906,6 +16479,11 @@ hinwatuli:
   class: t
   category: derived
   translation: contemporary; contemporarily
+hipokrate:
+  term: Hipokrate
+  class: su n
+  category: proper word
+  translation: Hippocrates
 hipopotam:
   term: hipopotam
   class: b
@@ -16042,6 +16620,11 @@ homapul:
   class: t
   category: derived
   translation: feverish
+homero:
+  term: Homero
+  class: su n
+  category: proper word
+  translation: Homer
 honcay:
   term: honcay
   class: b
@@ -16102,6 +16685,11 @@ hortum:
   class: b
   category: root
   translation: trunk, proboscis
+hosea:
+  term: Hosea
+  class: su n
+  category: proper word
+  translation: Hosea
 hospital:
   term: hospital
   class: b
@@ -16199,13 +16787,13 @@ hu_dasu:
   translation: 'subordinate clause: whose, of whom, of which'
 hu_denloka:
   term: hu denloka
-  class: ""
-  category: derived
+  class: l jm
+  category: phrase
   translation: 'relative clause: where'
 hu_in_da:
   term: hu in da
-  class: ""
-  category: derived
+  class: l jm
+  category: phrase
   translation: 'relative clause: where'
 hudson:
   term: Hudson
@@ -16555,6 +17143,21 @@ ike:
   class: b
   category: root
   translation: letter k
+ikna:
+  term: ikna
+  class: b.oj
+  category: root
+  translation: persuasion; persuade, convince (<em>someone to do something</em>)
+iknado:
+  term: iknado
+  class: t
+  category: derived
+  translation: persuaded, convinced
+iknane:
+  term: iknane
+  class: t
+  category: derived
+  translation: persuasive, convincing
 ikono:
   term: ikono
   class: b
@@ -16620,6 +17223,11 @@ imanu:
   class: b.oj
   category: root
   translation: belief; believe
+imanugi:
+  term: imanugi
+  class: b.oj
+  category: derived
+  translation: convince
 imanuible:
   term: imanuible
   class: t
@@ -17030,6 +17638,11 @@ inku:
   class: b
   category: root
   translation: ink
+inlabas:
+  term: inlabas
+  class: b.oj
+  category: derived
+  translation: clothe
 inli:
   term: inli
   class: t
@@ -17135,6 +17748,11 @@ interesne:
   class: t
   category: derived
   translation: interesting; interestingly
+interesyen:
+  term: interesyen
+  class: b
+  category: derived
+  translation: interested person
 interviu:
   term: interviu
   class: b.oj
@@ -17490,6 +18108,11 @@ isula_kuki:
   class: su n
   category: proper word
   translation: Cook Islands
+isulalari:
+  term: isulalari
+  class: b
+  category: derived
+  translation: archipelago
 itali:
   term: Itali
   class: su n
@@ -17642,9 +18265,10 @@ ixgaluyen:
   translation: occupant
 ixi:
   term: ixi
-  class: b.oj
+  class: b.oro
   category: root
-  translation: consciousness, awareness; be aware of, be conscious of
+  translation: consciousness, awareness; make aware, make conscious; be aware, be
+    conscious
 ixikal:
   term: ixikal
   class: t
@@ -17665,6 +18289,11 @@ ixu:
   class: b
   category: root
   translation: adult, man, woman
+ixucu:
+  term: ixucu
+  class: b.nenoj
+  category: derived
+  translation: coming of age; come of age, become an adult
 iya:
   term: iya
   class: b
@@ -17720,6 +18349,11 @@ jaci:
   class: b.oj
   category: root
   translation: value, worth; be worth, have value
+jaciegal:
+  term: jaciegal
+  class: t
+  category: derived
+  translation: equivalent; equivalently
 jacigi:
   term: jacigi
   class: b.oj
@@ -17840,6 +18474,11 @@ jaleli:
   class: t
   category: derived
   translation: last, (the) most recent; most recently
+jalenoce:
+  term: jalenoce
+  class: b
+  category: derived
+  translation: last night, yesterday night
 jali:
   term: jali
   class: t
@@ -17848,7 +18487,7 @@ jali:
 jali_fe:
   term: jali fe
   class: p
-  category: derived
+  category: phrase
   translation: next to
 jalo:
   term: jalo
@@ -18185,6 +18824,11 @@ jelatin:
   class: b
   category: root
   translation: gelatine
+jencatu:
+  term: jencatu
+  class: b.oj
+  category: root
+  translation: reconnaissance, recon, scouting; reconnoiter, reconnoitre, scout
 jenfuku:
   term: jenfuku
   class: b.oj
@@ -18240,6 +18884,11 @@ jento:
   class: b.oj
   category: root
   translation: battle, combat; fight, combat
+jentodalu:
+  term: jentodalu
+  class: b
+  category: derived
+  translation: (combat) shield
 jentotul:
   term: jentotul
   class: b.oj
@@ -18560,6 +19209,11 @@ jotay:
   class: b
   category: root
   translation: condition, state
+jotaybon:
+  term: jotaybon
+  class: t
+  category: derived
+  translation: good, fine, in good condition, in a good state
 jovari:
   term: jovari
   class: b
@@ -18616,6 +19270,11 @@ judan:
   class: b
   category: root
   translation: bullet
+jugu:
+  term: jugu
+  class: b
+  category: root
+  translation: jug, pitcher
 juhudi:
   term: juhudi
   class: b.oj
@@ -18910,7 +19569,7 @@ juniyen:
   term: juniyen
   class: b
   category: derived
-  translation: young man, young woman, gal, guy, teen to early 20s
+  translation: young man, young woman, gal, guy, dude, bloke, teen to early 20s
 junluku:
   term: junluku
   class: b.nenoj
@@ -19143,7 +19802,7 @@ kahabu:
   translation: prostitute
 kahabuergo:
   term: kahabuergo
-  class: b.nenoj
+  class: b.oj.ru
   category: derived
   translation: prostitution; work as a prostitute, prostitute oneself
 kahabugi:
@@ -19236,6 +19895,22 @@ kalamu:
   class: b
   category: root
   translation: pen
+kalapa:
+  term: kalapa
+  class: b.oj
+  category: root
+  translation: stirring, agitation, whisking, beating, whirling, twirling; stir, agitate,
+    whisk, beat, whirl, twirl
+kalapado:
+  term: kalapado
+  class: t
+  category: derived
+  translation: stirred, agitated
+kalapatul:
+  term: kalapatul
+  class: b
+  category: derived
+  translation: whisk
 kalcita:
   term: kalcita
   class: b
@@ -19306,6 +19981,16 @@ kalorili:
   class: t
   category: derived
   translation: caloric
+kalvin:
+  term: Kalvin
+  class: su n
+  category: proper word
+  translation: Calvin
+kalvinismo:
+  term: Kalvinismo
+  class: b
+  category: derived
+  translation: Calvinism
 kalya:
   term: kalya
   class: b
@@ -19501,6 +20186,16 @@ kanguru:
   class: b
   category: root
   translation: kangaroo
+kangyo:
+  term: kangyo
+  class: b.oj
+  category: root
+  translation: mining; mine
+kangyodom:
+  term: kangyodom
+  class: b
+  category: derived
+  translation: mine (<em>excavation</em>)
 kanho:
   term: kanho
   class: b.oj
@@ -19601,6 +20296,16 @@ kapikusen:
   class: b
   category: derived
   translation: pillow
+kapino:
+  term: kapino
+  class: b.nenoj
+  category: derived
+  translation: shake (one&#039;s) head (<em>no</em>)
+kapisi:
+  term: kapisi
+  class: b.nenoj
+  category: derived
+  translation: nod
 kapital:
   term: kapital
   class: b
@@ -19701,6 +20406,16 @@ karbon:
   class: b
   category: root
   translation: carbon, C
+kardigan:
+  term: kardigan
+  class: b
+  category: root
+  translation: cardigan
+kardigan_name:
+  term: Kardigan
+  class: su n
+  category: proper word
+  translation: Cardigan
 kardu:
   term: kardu
   class: b.oj
@@ -19741,6 +20456,11 @@ kareto:
   class: b
   category: root
   translation: cart, wheelbarrow
+karetra:
+  term: karetra
+  class: b
+  category: root
+  translation: character (<em>in a story</em>)
 kargux:
   term: kargux
   class: b
@@ -19869,7 +20589,7 @@ karta:
 karta_aya:
   term: karta aya
   class: b
-  category: derived
+  category: phrase
   translation: ace (card)
 kartel:
   term: kartel
@@ -19966,6 +20686,11 @@ katar:
   class: su n
   category: proper word
   translation: Qatar
+katarata:
+  term: katarata
+  class: b
+  category: root
+  translation: cataracts
 katarli:
   term: Katarli
   class: t
@@ -20176,6 +20901,26 @@ kef:
   class: b
   category: root
   translation: boss, chief, head, master
+kefuku:
+  term: kefuku
+  class: b.oj
+  category: root
+  translation: admiration; admire
+kefukudo:
+  term: kefukudo
+  class: t
+  category: derived
+  translation: admired
+kefukulaye:
+  term: kefukulaye
+  class: t
+  category: derived
+  translation: admirable; admirably
+kefukuyen:
+  term: kefukuyen
+  class: b
+  category: derived
+  translation: admirer
 keji:
   term: keji
   class: b
@@ -20228,6 +20973,11 @@ kemer:
   class: b
   category: root
   translation: waist
+kemeti:
+  term: Kemeti
+  class: b
+  category: root
+  translation: Ancient Egypt, Kemet
 kemo:
   term: kemo
   class: m
@@ -20478,6 +21228,11 @@ kimapul:
   class: t
   category: derived
   translation: costly, pricey, expensive
+kimci:
+  term: kimci
+  class: b
+  category: root
+  translation: kimchi
 kimika:
   term: kimika
   class: b
@@ -20958,6 +21713,11 @@ kolorpul:
   class: t
   category: derived
   translation: colorful; colorfully
+kolose:
+  term: Kolose
+  class: su n
+  category: proper word
+  translation: Colossae
 kolube:
   term: kolube
   class: b
@@ -21057,7 +21817,7 @@ kompletogi:
   term: kompletogi
   class: b.oj
   category: derived
-  translation: complete, fulfill, carry out
+  translation: complete, fulfill, carry out, execute
 komploto:
   term: komploto
   class: b.oj
@@ -21083,6 +21843,11 @@ komputatul:
   class: b
   category: derived
   translation: calculator
+komputer:
+  term: komputer
+  class: b
+  category: root
+  translation: computer
 komun:
   term: komun
   class: t
@@ -21184,6 +21949,11 @@ konferensi:
   class: b
   category: root
   translation: conference, convention
+konfeti:
+  term: konfeti
+  class: b
+  category: root
+  translation: confetti
 konflito:
   term: konflito
   class: b.nenoj
@@ -21209,6 +21979,11 @@ konfortapul:
   class: t
   category: derived
   translation: comfortable (<em>in comfort, full of comfort</em>); comfortably
+konfuci:
+  term: Konfuci
+  class: su n
+  category: proper word
+  translation: Confucius
 konhwoku:
   term: konhwoku
   class: b.oro
@@ -21267,11 +22042,6 @@ konkureyen:
   class: b
   category: derived
   translation: competitor, contestant, contender
-konsan:
-  term: konsan
-  class: b
-  category: root
-  translation: mine (<em>excavation</em>)
 konsol:
   term: konsol
   class: b
@@ -21377,16 +22147,46 @@ kordo:
   class: b
   category: root
   translation: cord, rope
+korea:
+  term: Korea
+  class: su n
+  category: proper word
+  translation: Korea
+koreali:
+  term: Koreali
+  class: t
+  category: derived
+  translation: Korean
+koreasa:
+  term: Koreasa
+  class: b
+  category: derived
+  translation: Korean (language)
+koreayen:
+  term: Koreayen
+  class: b
+  category: derived
+  translation: Korean (person)
 koridor:
   term: koridor
   class: b
   category: root
   translation: corridor, hallway, aisle
+korinto:
+  term: Korinto
+  class: su n
+  category: proper word
+  translation: Corinth
 korku:
   term: korku
   class: b
   category: root
   translation: cork (<em>material</em>), phellem
+korno:
+  term: korno
+  class: b
+  category: root
+  translation: horn
 koronel:
   term: koronel
   class: b
@@ -21431,7 +22231,7 @@ koski:
   term: koski
   class: l
   category: derived
-  translation: because, since
+  translation: because, since, for
 kosmo:
   term: kosmo
   class: b
@@ -21998,6 +22798,11 @@ kupon:
   class: b
   category: root
   translation: coupon
+kupti:
+  term: Kupti
+  class: t
+  category: root
+  translation: Coptic
 kuran:
   term: Kuran
   class: su n
@@ -22033,6 +22838,11 @@ kurto:
   class: t
   category: root
   translation: short, brief; briefly
+kurto_watu:
+  term: kurto watu
+  class: n jm
+  category: phrase
+  translation: (a) while
 kurtocu:
   term: kurtocu
   class: b.nenoj
@@ -22133,8 +22943,13 @@ kwalita:
   class: b
   category: root
   translation: quality, calibre
-kwalitapul:
-  term: kwalitapul
+kwalitabon:
+  term: kwalitabon
+  class: t
+  category: derived
+  translation: quality, good-quality, fine
+kwalitagao:
+  term: kwalitagao
   class: t
   category: derived
   translation: high-quality, fine
@@ -22207,7 +23022,7 @@ kwasi:
   term: kwasi
   class: t
   category: root
-  translation: seeming, apparent; seemingly, apparently
+  translation: seeming, apparent; seemingly, apparently, as if
 kwasiatre:
   term: kwasiatre
   class: b
@@ -22218,6 +23033,11 @@ kwasibete:
   class: b
   category: derived
   translation: step-child, stepchild, step-daughter, stepdaugher, step-son, stepson
+kwasigi:
+  term: kwasigi
+  class: b.oj
+  category: derived
+  translation: pretending; pretend, feign
 kwasilexi:
   term: kwasilexi
   class: b
@@ -22498,16 +23318,6 @@ lao-:
   class: lfik
   category: affix
   translation: old
-laoatre:
-  term: laoatre
-  class: b
-  category: derived
-  translation: ancestor, forefather, foremother
-laoatrelogi:
-  term: laoatrelogi
-  class: b
-  category: derived
-  translation: genealogy
 laocu:
   term: laocu
   class: b.nenoj
@@ -22558,13 +23368,13 @@ laser:
   class: b
   category: root
   translation: laser
-latex:
-  term: latex
+lateksu:
+  term: lateksu
   class: b
   category: root
   translation: latex
-latexli:
-  term: latexli
+lateksuli:
+  term: lateksuli
   class: t
   category: derived
   translation: (made of) latex
@@ -22760,6 +23570,16 @@ lefe_to:
   class: p jm
   category: phrase
   translation: previously, formerly, earlier, before then, before that
+lefeatre:
+  term: lefeatre
+  class: b
+  category: derived
+  translation: ancestor, forefather, foremother
+lefeatrelogi:
+  term: lefeatrelogi
+  class: b
+  category: derived
+  translation: genealogy
 lefeeksame:
   term: lefeeksame
   class: b
@@ -22906,6 +23726,11 @@ leopar:
   class: b
   category: root
   translation: leopard, <em>Panthera pardus</em>
+leotardo:
+  term: Leotardo
+  class: su n
+  category: proper word
+  translation: L&eacute;otard
 lepresidiyen:
   term: lepresidiyen
   class: b
@@ -22961,6 +23786,11 @@ levante:
   class: su n
   category: proper word
   translation: Levant
+levi:
+  term: Levi
+  class: su n
+  category: proper word
+  translation: Levi
 levita:
   term: levita
   class: b.nenoj
@@ -23208,7 +24038,7 @@ lilbardipul:
   translation: cool
 lilbarix:
   term: lilbarix
-  class: b.oj
+  class: b.oj.ru
   category: derived
   translation: drizzle
 lilbaytu:
@@ -23221,6 +24051,11 @@ lilbete:
   class: b
   category: derived
   translation: grandson, granddaughter, grandchild, grandchildren
+lilcinon:
+  term: lilcinon
+  class: b
+  category: derived
+  translation: stupidity, idiocy
 lilcu:
   term: lilcu
   class: b.nenoj
@@ -23241,6 +24076,11 @@ lildolo:
   class: b
   category: derived
   translation: alley
+lildrumu:
+  term: lildrumu
+  class: b
+  category: derived
+  translation: snare drum, side drum
 lileksame:
   term: lileksame
   class: b.oj
@@ -23251,6 +24091,11 @@ lileskirti:
   class: b
   category: derived
   translation: miniskirt
+lilflutu:
+  term: lilflutu
+  class: b
+  category: derived
+  translation: piccolo
 lilgi:
   term: lilgi
   class: b.oj
@@ -23264,9 +24109,14 @@ lilgile:
   translation: damp, moist
 lilhaha:
   term: lilhaha
-  class: b.oj
+  class: b.oj.ru
   category: derived
   translation: giggle
+lilhaliju:
+  term: lilhaliju
+  class: b
+  category: derived
+  translation: bay
 liljabal:
   term: liljabal
   class: b
@@ -23713,6 +24563,11 @@ lubrikado:
   class: t
   category: derived
   translation: lubricated
+lubrikaente:
+  term: lubrikaente
+  class: b
+  category: derived
+  translation: lubricant
 ludan:
   term: ludan
   class: b
@@ -23733,6 +24588,11 @@ luka:
   class: su n
   category: proper word
   translation: Luke, Lucas
+luksi:
+  term: luksi
+  class: b
+  category: root
+  translation: lux (unit)
 lukso:
   term: lukso
   class: b
@@ -23768,6 +24628,11 @@ luminkal:
   class: t
   category: derived
   translation: dark; darkly
+luminlil:
+  term: luminlil
+  class: t
+  category: derived
+  translation: dim
 luminnyan:
   term: luminnyan
   class: b
@@ -23828,6 +24693,16 @@ lungoya:
   class: b
   category: derived
   translation: longness
+luter:
+  term: Luter
+  class: su n
+  category: proper word
+  translation: Luther
+luterismo:
+  term: Luterismo
+  class: b
+  category: derived
+  translation: Lutheranism
 lutesyum:
   term: lutesyum
   class: b
@@ -23883,11 +24758,6 @@ lutufxey:
   class: b
   category: derived
   translation: favor
-lux:
-  term: lux
-  class: b
-  category: root
-  translation: lux (unit)
 lyama:
   term: lyama
   class: b
@@ -23962,7 +24832,7 @@ maderili:
   term: maderili
   class: t
   category: derived
-  translation: material (<em>of matter</em>)
+  translation: material (<em>of matter</em>), physical
 maderixey:
   term: maderixey
   class: b
@@ -24263,6 +25133,11 @@ malaham:
   class: b.oj
   category: derived
   translation: misunderstanding; misunderstand
+malaki:
+  term: Malaki
+  class: su n
+  category: proper word
+  translation: Malachi
 malarya:
   term: malarya
   class: b
@@ -24292,7 +25167,7 @@ malaysisa:
   term: Malaysisa
   class: t
   category: derived
-  translation: Malaysian (language)
+  translation: Malay, Malaysian (language)
 malaysiyen:
   term: Malaysiyen
   class: b
@@ -24358,6 +25233,11 @@ maliyen:
   class: b
   category: derived
   translation: Malian (person)
+malkadam:
+  term: malkadam
+  class: b.oj
+  category: derived
+  translation: misstep, trip, stumble
 mallide:
   term: mallide
   class: b.oj
@@ -24493,6 +25373,11 @@ mandarin:
   class: b
   category: root
   translation: mandarin (orange), <em>Citrus reticulata</em>
+mandolin:
+  term: mandolin
+  class: b
+  category: root
+  translation: mandolin
 mandoste:
   term: mandoste
   class: b
@@ -24643,11 +25528,21 @@ manprince:
   class: b
   category: derived
   translation: prince
+manrahibu:
+  term: manrahibu
+  class: b
+  category: derived
+  translation: monk, brother
 mansenyor:
   term: mansenyor
   class: b
   category: derived
   translation: gentleman, sir, Mr.
+mansi:
+  term: mansi
+  class: b.oj
+  category: root
+  translation: divination; divine, foretell, foresee
 mansodar:
   term: mansodar
   class: b
@@ -24692,7 +25587,7 @@ manyen:
   term: manyen
   class: b
   category: derived
-  translation: male, man, young man, guy, boy
+  translation: male, man, young man, guy, boy, dude, bloke
 mapa:
   term: mapa
   class: b
@@ -24758,6 +25653,11 @@ marihiyen:
   class: b
   category: derived
   translation: Martian
+marimba:
+  term: marimba
+  class: b
+  category: root
+  translation: marimba
 marine:
   term: marine
   class: b.oj
@@ -24783,6 +25683,16 @@ marko:
   class: su n
   category: proper word
   translation: Mark, Marcus
+markse:
+  term: Markse
+  class: su n
+  category: proper word
+  translation: Marx
+markseismo:
+  term: Markseismo
+  class: b
+  category: derived
+  translation: Marxism
 marmelada:
   term: marmelada
   class: b
@@ -24798,6 +25708,11 @@ marmorli:
   class: t
   category: derived
   translation: (made of) marble
+marsepan:
+  term: marsepan
+  class: b
+  category: root
+  translation: marzipan
 marsupi:
   term: marsupi
   class: b
@@ -24878,6 +25793,21 @@ masodukan:
   class: b
   category: derived
   translation: butcher shop, butcher&#039;s, butchery
+masok:
+  term: Masok
+  class: su n
+  category: proper word
+  translation: Masoch
+masokismo:
+  term: Masokismo
+  class: b
+  category: derived
+  translation: Masochism
+masokista:
+  term: Masokista
+  class: b
+  category: derived
+  translation: Masochist
 masonenyamyen:
   term: masonenyamyen
   class: b
@@ -25108,13 +26038,13 @@ maxcu:
   class: b.nenoj
   category: derived
   translation: increase, rise
-maxdaifcu:
-  term: maxdaifcu
+maxdaifucu:
+  term: maxdaifucu
   class: b.nenoj
   category: derived
   translation: weaken, become weaker, get weaker
-maxdaifgi:
-  term: maxdaifgi
+maxdaifugi:
+  term: maxdaifugi
   class: b.oj
   category: derived
   translation: weaken, make weaker
@@ -25173,7 +26103,18 @@ maximum:
   term: maximum
   class: t
   category: root
-  translation: maximum, maximal; at most
+  translation: maximum, maximal, as much as possible, as much (<em>of something</em>)
+    as possible; at most, no more than
+maximum_te:
+  term: maximum te
+  class: n jm
+  category: phrase
+  translation: as many as possible
+maximum_to:
+  term: maximum to
+  class: n jm
+  category: phrase
+  translation: as many as possible, as much as possible
 maximummo:
   term: maximummo
   class: m
@@ -25274,6 +26215,16 @@ maxoriya:
   class: b
   category: derived
   translation: majority
+maxpahnacu:
+  term: maxpahnacu
+  class: b.nenoj
+  category: derived
+  translation: widen (<em>become wider</em>)
+maxpahnagi:
+  term: maxpahnagi
+  class: b.oj
+  category: derived
+  translation: widen (<em>cause to be wider</em>)
 maxpul:
   term: maxpul
   class: t
@@ -25286,6 +26237,12 @@ maxus:
   category: root
   translation: plus, in addition to, with addition of, besides, aside from, including,
     other than
+maxus_eger:
+  term: maxus eger
+  class: l jm
+  category: phrase
+  translation: as long as, so long as, provided (that), granted (that), in case (that),
+    in the event (that)
 maxusgi:
   term: maxusgi
   class: b.oj
@@ -25524,7 +26481,7 @@ melicu:
   translation: beautify (<em>become beautiful</em>)
 melieskri:
   term: melieskri
-  class: b.oj
+  class: b.oj.ru
   category: derived
   translation: calligraphy
 meligi:
@@ -25546,12 +26503,17 @@ melodi:
   term: melodi
   class: b
   category: root
-  translation: melody
+  translation: melody, tune
 melodipul:
   term: melodipul
   class: t
   category: derived
   translation: melodic
+melodrama:
+  term: melodrama
+  class: b
+  category: root
+  translation: melodrama
 melon:
   term: melon
   class: b
@@ -25656,7 +26618,7 @@ menasama:
   term: menasama
   class: t
   category: derived
-  translation: synonynous
+  translation: synonymous
 mendelevyum:
   term: mendelevyum
   class: b
@@ -25712,6 +26674,11 @@ mesa:
   class: b
   category: root
   translation: table
+mesajabal:
+  term: mesajabal
+  class: b
+  category: derived
+  translation: mesa
 mesaje:
   term: mesaje
   class: b.oj
@@ -25852,6 +26819,11 @@ metalsim:
   class: t
   category: derived
   translation: metallic (<em>resembling</em>)
+metan:
+  term: metan
+  class: b
+  category: root
+  translation: methane
 meteor:
   term: meteor
   class: b
@@ -25978,6 +26950,11 @@ mezaduyen:
   class: b
   category: derived
   translation: auctioneer
+mezmur:
+  term: mezmur
+  class: b
+  category: root
+  translation: psalm
 mi:
   term: mi
   class: pn
@@ -26033,6 +27010,11 @@ mijuje:
   class: b
   category: derived
   translation: density, concentration
+mika:
+  term: Mika
+  class: su n
+  category: proper word
+  translation: Micah
 mikael:
   term: Mikael
   class: su n
@@ -26103,6 +27085,11 @@ milko:
   class: b
   category: root
   translation: milk
+milkodao:
+  term: Milkodao
+  class: su n
+  category: proper word
+  translation: Milky Way
 milkoproduti:
   term: milkoproduti
   class: b
@@ -26192,7 +27179,18 @@ minimum:
   term: minimum
   class: t
   category: root
-  translation: minimum, minimal; at least
+  translation: minimum, minimal, as little as possible, as little (<em>of something</em>)
+    as possible; at least, no fewer than, no less than
+minimum_te:
+  term: minimum te
+  class: n jm
+  category: phrase
+  translation: as few as possible
+minimum_to:
+  term: minimum to
+  class: n jm
+  category: phrase
+  translation: as few as possible
 minimumismo:
   term: minimumismo
   class: b
@@ -26529,11 +27527,21 @@ moksay:
   class: b
   category: root
   translation: wood
+moksayboloku:
+  term: moksayboloku
+  class: b
+  category: derived
+  translation: woodblock
 moksayli:
   term: moksayli
   class: t
   category: derived
   translation: wooden
+moksayventoli:
+  term: moksayventoli
+  class: t
+  category: derived
+  translation: woodwind
 mol:
   term: mol
   class: b
@@ -26588,8 +27596,8 @@ mon:
   term: mon
   class: b
   category: root
-  translation: (<em>stand alone</em>) item, article, element, part, piece, unit, component
-    (<em>of a whole</em>)
+  translation: (<em>stand alone</em>) element, part, piece, unit, component (<em>of
+    a whole</em>)
 monako:
   term: Monako
   class: su n
@@ -26706,8 +27714,8 @@ morfo:
   term: morfo
   class: b.oj
   category: root
-  translation: morphology (<em>linguistic form and structure</em>), inflection, conjugation,
-    declension; inflect, conjugate, decline
+  translation: morphology (<em>biological or linguistic form and structure</em>),
+    inflection, conjugation, declension; inflect, conjugate, decline
 morfomon:
   term: morfomon
   class: b
@@ -26740,9 +27748,19 @@ morjismu:
   translation: corpse, cadaver
 mormon:
   term: Mormon
-  class: b
+  class: su n
   category: proper word
   translation: Mormon
+mormonismo:
+  term: Mormonismo
+  class: b
+  category: derived
+  translation: Mormonism
+morse:
+  term: Morse
+  class: su n
+  category: proper word
+  translation: Morse
 morya:
   term: morya
   class: b
@@ -27060,6 +28078,11 @@ mule:
   class: b.oj
   category: root
   translation: grinding, milling; grind, mill
+muletul:
+  term: muletul
+  class: b
+  category: derived
+  translation: mill, grinder
 mulin:
   term: mulin
   class: b
@@ -27083,7 +28106,7 @@ multiminmo:
 multimo_maxmo:
   term: multimo maxmo
   class: m
-  category: derived
+  category: phrase
   translation: much more
 multimo_minmo:
   term: multimo minmo
@@ -27105,6 +28128,11 @@ mumumaso:
   class: b
   category: derived
   translation: beef
+mumurinjon:
+  term: mumurinjon
+  class: b
+  category: derived
+  translation: cowbell
 mumusa:
   term: mumusa
   class: b.nenoj
@@ -27275,6 +28303,11 @@ mwin:
   class: b
   category: root
   translation: vowel
+mwinli:
+  term: mwinli
+  class: t
+  category: derived
+  translation: vocalic
 myanma:
   term: Myanma
   class: su n
@@ -27305,6 +28338,11 @@ nabiza:
   class: b.nenoj
   category: root
   translation: pulse, beat; pulsate, beat, throb
+nabizane:
+  term: nabizane
+  class: t
+  category: derived
+  translation: pulsating, beating, throbbing
 nabxox:
   term: nabxox
   class: b
@@ -27325,6 +28363,11 @@ nafiku:
   class: b
   category: root
   translation: hypocrisy
+nafikupul:
+  term: nafikupul
+  class: t
+  category: derived
+  translation: hypocritical
 nafikuyen:
   term: nafikuyen
   class: b
@@ -27335,16 +28378,31 @@ nafil:
   class: b
   category: root
   translation: navel, umbilicus, belly button
+nafilkordo:
+  term: nafilkordo
+  class: b
+  category: derived
+  translation: umbilical cord
 nagal:
   term: nagal
   class: b.oj
   category: root
   translation: plow, plough; plow, plough
+nagaldo:
+  term: nagaldo
+  class: t
+  category: derived
+  translation: ploughed, plowed
 nage:
   term: nage
   class: b.oj
   category: root
   translation: gnawing; gnaw
+nagedo:
+  term: nagedo
+  class: t
+  category: derived
+  translation: gnawed
 nageyen:
   term: nageyen
   class: b
@@ -27365,6 +28423,11 @@ nahirsokutu:
   class: b
   category: derived
   translation: waterfall
+nahum:
+  term: Nahum
+  class: su n
+  category: proper word
+  translation: Nahum
 naive:
   term: naive
   class: t
@@ -27445,7 +28508,12 @@ nanahu:
   term: nanahu
   class: b.nenoj
   category: root
-  translation: pus; supperate, fester
+  translation: pus; suppurate, fester
+nanahudo:
+  term: nanahudo
+  class: t
+  category: derived
+  translation: suppurated, festered
 nano:
   term: nano
   class: num
@@ -27485,7 +28553,17 @@ narem:
   term: narem
   class: t
   category: root
-  translation: soft; softly
+  translation: soft, tender, gentle; softly, tenderly, gently
+naremcu:
+  term: naremcu
+  class: b.nenoj
+  category: derived
+  translation: soften (<em>become soft</em>)
+naremgi:
+  term: naremgi
+  class: b.oj
+  category: derived
+  translation: soften (<em>cause to be soft</em>)
 naremkogeli:
   term: naremkogeli
   class: t
@@ -27531,6 +28609,11 @@ nasibu:
   class: b.oj
   category: root
   translation: fit; fit, be fitting (for), suit, be suitable (for)
+nasibukal:
+  term: nasibukal
+  class: t
+  category: derived
+  translation: inappropriate, unsuitable, improper; inappropriately, unsuitably, improperly
 nasibune:
   term: nasibune
   class: t
@@ -27723,11 +28806,21 @@ nefra:
   class: b.oj
   category: root
   translation: hatred, hate; hate
+nefrado:
+  term: nefrado
+  class: t
+  category: derived
+  translation: hated
 nefrayen:
   term: nefrayen
   class: b
   category: derived
   translation: hater
+nehemia:
+  term: Nehemia
+  class: su n
+  category: proper word
+  translation: Nehemiah
 nelufar:
   term: nelufar
   class: b
@@ -27817,7 +28910,7 @@ nene:
   term: nene
   class: b
   category: root
-  translation: nephew, niece (<em>informal</em>)
+  translation: 'informal: nephew, niece'
 neneskoldo:
   term: neneskoldo
   class: t
@@ -27858,6 +28951,11 @@ nenhar_jui_tem:
   class: p jm
   category: phrase
   translation: regardless (of), irrespective (of), no matter
+nenhar_na:
+  term: nenhar na
+  class: p jm
+  category: phrase
+  translation: without (<em> + -ing</em>), not having (<em> + past participle</em>)
 nenhuru:
   term: nenhuru
   class: t
@@ -27873,6 +28971,11 @@ nenikaw:
   class: b
   category: derived
   translation: independence
+nenixu:
+  term: nenixu
+  class: b
+  category: derived
+  translation: minor
 nenjenmindo:
   term: nenjenmindo
   class: t
@@ -27993,6 +29096,11 @@ nenpimpan:
   class: t
   category: derived
   translation: infrequent, uncommon, unusual; infrequently, uncommonly, unusually
+nenplanido:
+  term: nenplanido
+  class: t
+  category: derived
+  translation: unplanned
 nenpolitili:
   term: nenpolitili
   class: t
@@ -28023,11 +29131,6 @@ nensekrasine:
   class: t
   category: derived
   translation: non-self-governing
-nensomno:
-  term: nensomno
-  class: b
-  category: derived
-  translation: insomnia
 nensuido:
   term: nensuido
   class: t
@@ -28082,7 +29185,7 @@ nenyon_na:
   term: nenyon na
   class: p jm
   category: derived
-  translation: without (<em>+ -ing</em>)
+  translation: without (<em>+ -ing</em>), not by (<em> + -ing</em>)
 neo:
   term: neo
   class: t
@@ -28268,16 +29371,36 @@ nexaste:
   class: b
   category: root
   translation: starch
+nice:
+  term: Nice
+  class: su n
+  category: proper word
+  translation: Nietzsche
 nicode:
   term: nicode
   class: b.oj
   category: root
   translation: squeeze; squeeze
+nicodedo:
+  term: nicodedo
+  class: t
+  category: derived
+  translation: squeezed
+nicodene:
+  term: nicodene
+  class: t
+  category: derived
+  translation: squeezing
 nigalu:
   term: nigalu
   class: b.oj
   category: root
   translation: swallow; swallow
+nigaludo:
+  term: nigaludo
+  class: t
+  category: derived
+  translation: swallowed
 nigaluible:
   term: nigaluible
   class: t
@@ -28308,6 +29431,11 @@ nikolas:
   class: su n
   category: proper word
   translation: Nicholas
+nikot:
+  term: Nikot
+  class: su n
+  category: proper word
+  translation: Nicot
 nil:
   term: nil
   class: num; d
@@ -28520,11 +29648,11 @@ nohudu:
   class: b
   category: root
   translation: chickpea, garbanzo
-nokapi:
-  term: nokapi
-  class: b.nenoj
+nokotina:
+  term: nokotina
+  class: b
   category: derived
-  translation: shake (one&#039;s) head (<em>no</em>)
+  translation: nicotine
 noli:
   term: noli
   class: t
@@ -28595,6 +29723,11 @@ normapul:
   class: t
   category: derived
   translation: normal; normally
+normapulya:
+  term: normapulya
+  class: b
+  category: derived
+  translation: normalcy, normality
 noro:
   term: noro
   class: m
@@ -28640,6 +29773,11 @@ nubwa:
   class: b.oj
   category: root
   translation: prophecy; prophesy
+nubwado:
+  term: nubwado
+  class: t
+  category: derived
+  translation: prophesied
 nubwali:
   term: nubwali
   class: t
@@ -28665,6 +29803,11 @@ nudihalazun:
   class: b
   category: derived
   translation: slug
+nudiismo:
+  term: nudiismo
+  class: b
+  category: derived
+  translation: nudism, naturism
 nudiismodom:
   term: nudiismodom
   class: b
@@ -28729,12 +29872,12 @@ numerli:
   term: numerli
   class: t
   category: derived
-  translation: numerical; numerically
+  translation: numeric, numerical; numerically
 nun:
   term: nun
   class: par
   category: root
-  translation: <em>present tense marker</em>, now; well, so
+  translation: <em>present tense marker</em>, now
 nun-:
   term: nun-
   class: lfik
@@ -28765,6 +29908,12 @@ nunligido:
   class: t
   category: derived
   translation: updated, up-to-date
+nunto:
+  term: nunto
+  class: il
+  category: derived
+  translation: now (<em>filler used to draw attention to a statement or point in a
+    narrative</em>), well (<em>filler used to preface a remark</em>)
 nunya:
   term: nunya
   class: b
@@ -28805,6 +29954,11 @@ nyatu:
   class: b.oj
   category: root
   translation: intention; intend, mean
+nyatudo:
+  term: nyatudo
+  class: t
+  category: derived
+  translation: intended
 nyobyum:
   term: nyobyum
   class: b
@@ -28815,6 +29969,16 @@ nyuro:
   class: b
   category: root
   translation: nerve
+nyurologi:
+  term: nyurologi
+  class: b
+  category: derived
+  translation: neurology
+nyurologiyen:
+  term: nyurologiyen
+  class: b
+  category: derived
+  translation: neurologist
 nyuton:
   term: nyuton
   class: b
@@ -28830,16 +29994,36 @@ oasis:
   class: b
   category: root
   translation: oasis
+obadia:
+  term: Obadia
+  class: su n
+  category: proper word
+  translation: Obadiah
 obelisko:
   term: obelisko
   class: b
   category: root
   translation: obelisk
+oboe:
+  term: oboe
+  class: b
+  category: root
+  translation: oboe
 obsesi:
   term: obsesi
   class: b.oro
   category: root
   translation: obsession; obsess, feel obsessed
+obsesido:
+  term: obsesido
+  class: t
+  category: derived
+  translation: obsessed
+obsesili:
+  term: obsesili
+  class: t
+  category: derived
+  translation: obsessive (<em>of or relating to</em>)
 obsidyan:
   term: obsidyan
   class: b
@@ -29090,6 +30274,11 @@ okocu:
   class: b.lin
   category: derived
   translation: look, appearance; look (<em>have a particular appearance</em>)
+okodo:
+  term: okodo
+  class: t
+  category: derived
+  translation: seen, viewed
 okoible:
   term: okoible
   class: t
@@ -29149,7 +30338,7 @@ okoya:
   term: okoya
   class: b
   category: derived
-  translation: (sense of) sight, vision
+  translation: viewing, (sense of) sight, vision
 okoyen:
   term: okoyen
   class: b
@@ -29215,6 +30404,11 @@ onexa:
   class: b.oj
   category: root
   translation: showing, demonstration, display, demo; show, demonstrate, display
+onexado:
+  term: onexado
+  class: t
+  category: derived
+  translation: shown, demonstrated, displayed
 onexalexi:
   term: onexalexi
   class: b
@@ -29345,6 +30539,11 @@ orecu:
   class: b.lin
   category: derived
   translation: sound (<em>have a particular sound</em>)
+oredo:
+  term: oredo
+  class: t
+  category: derived
+  translation: heard
 orefon:
   term: orefon
   class: b
@@ -29390,6 +30589,11 @@ organisa:
   class: b.oj
   category: root
   translation: organization; organize
+organisado:
+  term: organisado
+  class: t
+  category: derived
+  translation: organized
 organisatim:
   term: organisatim
   class: b
@@ -29435,6 +30639,11 @@ orkestrakef:
   class: b
   category: derived
   translation: conductor
+orkestrali:
+  term: orkestrali
+  class: t
+  category: derived
+  translation: orchestral
 orkide:
   term: orkide
   class: b
@@ -29475,6 +30684,11 @@ oruga:
   class: b.oro
   category: root
   translation: wrinkle, furrow; wrinkle
+orugado:
+  term: orugado
+  class: t
+  category: derived
+  translation: wrinkled
 osel:
   term: osel
   class: b
@@ -29485,9 +30699,24 @@ osis:
   class: b
   category: root
   translation: pathology
+osisli:
+  term: osisli
+  class: t
+  category: derived
+  translation: pathological
+osman:
+  term: Osman
+  class: su n
+  category: proper word
+  translation: Osman, Uthman
+osmanli:
+  term: Osmanli
+  class: b
+  category: derived
+  translation: Ottoman, Osmanian
 osmosi:
   term: osmosi
-  class: b.oj
+  class: b.nenoj
   category: root
   translation: osmosis; osmose
 osmyum:
@@ -29515,11 +30744,21 @@ osto:
   class: b
   category: root
   translation: bone
+ostodotor:
+  term: ostodotor
+  class: b
+  category: derived
+  translation: orthopedic doctor, orthopedist, orthopedic surgeon
 ostomedis:
   term: ostomedis
   class: b
   category: derived
   translation: orthopedics
+ostomedisyen:
+  term: ostomedisyen
+  class: b
+  category: derived
+  translation: orthopedic doctor, orthopedist, orthopedic surgeon
 otima:
   term: otima
   class: t
@@ -29575,11 +30814,21 @@ ovari:
   class: b
   category: root
   translation: ovary
+ovarili:
+  term: ovarili
+  class: t
+  category: derived
+  translation: ovarian
 ovo:
   term: ovo
   class: b
   category: root
   translation: egg
+ovofigurali:
+  term: ovofigurali
+  class: t
+  category: derived
+  translation: oval, egg-shaped
 ovokexru:
   term: ovokexru
   class: b
@@ -29625,16 +30874,36 @@ padelu:
   class: b.oj
   category: root
   translation: oar, paddle; row, paddle
+pagan:
+  term: pagan
+  class: t
+  category: root
+  translation: pagan, heathen
+paganyen:
+  term: paganyen
+  class: b
+  category: derived
+  translation: pagan, heathen
 pahna:
   term: pahna
   class: t
   category: root
   translation: wide, broad; broadly
+pahnacu:
+  term: pahnacu
+  class: b.nenoj
+  category: derived
+  translation: widen (<em>become wide</em>)
 pahnaday:
   term: pahnaday
   class: t
   category: derived
   translation: vast
+pahnagi:
+  term: pahnagi
+  class: b.oj
+  category: derived
+  translation: widen (<em>cause to be wide</em>)
 pahnaje:
   term: pahnaje
   class: b
@@ -29650,6 +30919,11 @@ paketi:
   class: b.oj
   category: root
   translation: package, packet; pack
+paketido:
+  term: paketido
+  class: t
+  category: derived
+  translation: packed, packaged
 paki:
   term: Paki
   class: su n
@@ -29670,6 +30944,11 @@ pala:
   class: b.oj
   category: root
   translation: speech; speak, talk
+palado:
+  term: palado
+  class: t
+  category: derived
+  translation: spoken
 paladyum:
   term: paladyum
   class: b
@@ -29715,11 +30994,21 @@ pam:
   class: b.oj
   category: root
   translation: shot, gunshot; shoot, fire
+pamdo:
+  term: pamdo
+  class: t
+  category: derived
+  translation: fired, shot
 pamesto:
   term: pamesto
   class: b.nenoj
   category: derived
   translation: ceasefire
+pamne:
+  term: pamne
+  class: t
+  category: derived
+  translation: firing, shooting
 pampasi:
   term: pampasi
   class: b
@@ -29760,6 +31049,11 @@ panden:
   class: b.oj
   category: root
   translation: climb; climb, clamber, scale
+pandendo:
+  term: pandendo
+  class: t
+  category: derived
+  translation: climbed, clambered, scaled
 pandenyen:
   term: pandenyen
   class: b
@@ -29785,6 +31079,11 @@ pangugeo:
   class: b
   category: derived
   translation: plain, flatland
+pangugi:
+  term: pangugi
+  class: b.oj
+  category: derived
+  translation: flatten
 panguxey:
   term: panguxey
   class: b
@@ -29800,11 +31099,21 @@ paniko:
   class: b.oro
   category: root
   translation: panic; panic, feel panic
+panikodo:
+  term: panikodo
+  class: t
+  category: derived
+  translation: panicked
 panikokrisis:
   term: panikokrisis
   class: b
   category: derived
   translation: panic attack
+panikone:
+  term: panikone
+  class: t
+  category: derived
+  translation: panicking
 panjabi:
   term: Panjabi
   class: su n
@@ -29875,6 +31184,11 @@ paperpesa:
   class: b
   category: derived
   translation: paper money, paper currency
+papertwala:
+  term: papertwala
+  class: b
+  category: derived
+  translation: paper towel, kitchen paper
 paprika:
   term: paprika
   class: b
@@ -29897,14 +31211,29 @@ parabol:
   translation: parabola
 paracutu:
   term: paracutu
-  class: b.oj
+  class: b.nenoj
   category: root
   translation: parachute; parachute
+paracutune:
+  term: paracutune
+  class: t
+  category: derived
+  translation: parachuting
+paracutuyen:
+  term: paracutuyen
+  class: b
+  category: derived
+  translation: parachuter
 parade:
   term: parade
   class: b.oj.ru
   category: root
   translation: parade, march; parade, march
+paradene:
+  term: paradene
+  class: t
+  category: derived
+  translation: marching, parading
 paradis:
   term: paradis
   class: b
@@ -29915,6 +31244,11 @@ paradoksa:
   class: b
   category: root
   translation: paradox
+paradoksali:
+  term: paradoksali
+  class: t
+  category: derived
+  translation: paradoxical; paradoxically
 paragraf:
   term: paragraf
   class: b
@@ -29935,11 +31269,21 @@ paralel:
   class: t
   category: root
   translation: parallel
+paralelkosmo:
+  term: paralelkosmo
+  class: b
+  category: derived
+  translation: parallel universe, dimension
 paralisi:
   term: paralisi
   class: b.oro
   category: root
   translation: paralysis, palsy; paralyze, get paralyzed
+paralisido:
+  term: paralisido
+  class: t
+  category: derived
+  translation: paralized
 parametre:
   term: parametre
   class: b
@@ -29947,9 +31291,10 @@ parametre:
   translation: parameter
 paranoy:
   term: paranoy
-  class: b
+  class: b.oro
   category: root
-  translation: paranoia
+  translation: 'paranoia; be paranoid, feel paranoia; cause (<em>somebody</em>) to
+    be paranoid, make (<em>somebody</em>) paranoid '
 paranoydo:
   term: paranoydo
   class: t
@@ -29975,6 +31320,16 @@ parki:
   class: b.oj
   category: root
   translation: parking; park
+parkido:
+  term: parkido
+  class: t
+  category: derived
+  translation: parked
+parkidom:
+  term: parkidom
+  class: b
+  category: derived
+  translation: parking lot
 parlamen:
   term: parlamen
   class: b
@@ -30105,6 +31460,11 @@ pata:
   class: b.oj
   category: root
   translation: kick; kick
+patado:
+  term: patado
+  class: t
+  category: derived
+  translation: kicked
 patamu:
   term: patamu
   class: b
@@ -30120,6 +31480,11 @@ patre:
   class: b
   category: root
   translation: father
+patreya:
+  term: patreya
+  class: b
+  category: derived
+  translation: fatherhood
 patrico:
   term: Patrico
   class: su n
@@ -30175,11 +31540,21 @@ payaco:
   class: b
   category: root
   translation: clown
+payado:
+  term: payado
+  class: t
+  category: derived
+  translation: paid
 payagi:
   term: payagi
   class: b.oj
   category: derived
   translation: charge (<em>cause to pay</em>)
+payayen:
+  term: payayen
+  class: b
+  category: derived
+  translation: payer
 payeta:
   term: payeta
   class: b
@@ -30235,6 +31610,11 @@ pedatul:
   class: b
   category: derived
   translation: pedal
+pedazungu:
+  term: pedazungu
+  class: b
+  category: derived
+  translation: footprint
 pekan:
   term: pekan
   class: b
@@ -30269,7 +31649,7 @@ peldo:
   term: peldo
   class: t
   category: derived
-  translation: driven
+  translation: driven, pushed
 pelikan:
   term: pelikan
   class: b
@@ -30290,6 +31670,11 @@ penci:
   class: b.oj
   category: root
   translation: edit; edit
+pencido:
+  term: pencido
+  class: t
+  category: derived
+  translation: edited
 penciyen:
   term: penciyen
   class: b
@@ -30349,7 +31734,7 @@ pentu:
   term: pentu
   class: b.oj
   category: root
-  translation: paint; paint
+  translation: paint (<em>substance</em>); paint
 pentukumax:
   term: pentukumax
   class: b
@@ -30401,6 +31786,11 @@ perfeto:
   class: t
   category: root
   translation: perfect; perfectly
+perfetogi:
+  term: perfetogi
+  class: b.oj
+  category: derived
+  translation: perfecting (<em>verbal noun</em>); perfect
 perfetoya:
   term: perfetoya
   class: b
@@ -30411,6 +31801,11 @@ perfiksa:
   class: b.oj
   category: root
   translation: mount (<em>fix in place, computing</em>)
+perfiksado:
+  term: perfiksado
+  class: t
+  category: derived
+  translation: mounted
 perfleksi:
   term: perfleksi
   class: b.oj
@@ -30421,6 +31816,11 @@ perfora:
   class: b.oj
   category: root
   translation: perforation, orifice, hole; perforate, puncture
+perforado:
+  term: perforado
+  class: t
+  category: derived
+  translation: perforated, punctured
 pergeo:
   term: pergeo
   class: b.nenoj
@@ -30480,7 +31880,7 @@ person:
   term: person
   class: b
   category: root
-  translation: person, individual, character (<em>in fictional story</em>)
+  translation: person, individual
 personli:
   term: personli
   class: t
@@ -30606,6 +32006,11 @@ peti:
   class: b.oj
   category: root
   translation: request; request, ask (for), order
+petido:
+  term: petido
+  class: t
+  category: derived
+  translation: requested
 petidoku:
   term: petidoku
   class: b
@@ -30635,7 +32040,7 @@ pifu:
   term: pifu
   class: b.oj
   category: root
-  translation: skin; touch
+  translation: skin; touch (<em>with skin</em>)
 pifucu:
   term: pifucu
   class: b.lin
@@ -30772,11 +32177,21 @@ pinatu:
   class: b
   category: root
   translation: peanut
+pinatukrema:
+  term: pinatukrema
+  class: b
+  category: derived
+  translation: peanut butter
 pinca:
   term: pinca
   class: b.oj
   category: root
   translation: pinch; pinch
+pincado:
+  term: pincado
+  class: t
+  category: derived
+  translation: pinched
 pingo:
   term: pingo
   class: b
@@ -30787,6 +32202,16 @@ pingun:
   class: t
   category: root
   translation: average, mean
+pinguncu:
+  term: pinguncu
+  class: b.nenoj
+  category: derived
+  translation: average
+pingungi:
+  term: pingungi
+  class: b.oj
+  category: derived
+  translation: average
 pinku:
   term: pinku
   class: t
@@ -30832,6 +32257,11 @@ piston:
   class: b
   category: root
   translation: piston
+pitagora:
+  term: Pitagora
+  class: su n
+  category: proper word
+  translation: Pythagoras
 piton:
   term: piton
   class: b
@@ -30868,6 +32298,11 @@ plagu:
   category: root
   translation: plug, stopper, bung, cork, (electrical) plug, connector; plug, stop
     (up), plug (in)
+plagudo:
+  term: plagudo
+  class: t
+  category: derived
+  translation: plugged
 planeta:
   term: planeta
   class: b
@@ -30883,6 +32318,11 @@ planibasa:
   class: b
   category: derived
   translation: planned language
+planido:
+  term: planido
+  class: t
+  category: derived
+  translation: planned
 plankuton:
   term: plankuton
   class: b
@@ -30903,6 +32343,11 @@ plasi:
   class: b.oj
   category: root
   translation: placement, placing, position; put, place, position, set
+plasido:
+  term: plasido
+  class: t
+  category: derived
+  translation: placed, put
 plasilexi:
   term: plasilexi
   class: b
@@ -30938,11 +32383,26 @@ platinum:
   class: b
   category: root
   translation: platinum, Pt
+platon:
+  term: Platon
+  class: su n
+  category: proper word
+  translation: Plato
+platonli:
+  term: Platonli
+  class: t
+  category: derived
+  translation: Platonic
 plax:
   term: plax
   class: b.oj
   category: root
   translation: splash, splatter; splash, splatter
+plaxdo:
+  term: plaxdo
+  class: t
+  category: derived
+  translation: splashed, splattered
 pley:
   term: pley
   class: b.oro
@@ -31042,7 +32502,7 @@ poemayen:
   term: poemayen
   class: b
   category: derived
-  translation: poet
+  translation: poet, poetess
 pohyo:
   term: pohyo
   class: b.oj.ru
@@ -31093,6 +32553,11 @@ polixo:
   class: b.oj
   category: root
   translation: polish, shine, wax, buff; polish, shine, wax, buff, furbish, burnish
+polixodo:
+  term: polixodo
+  class: t
+  category: derived
+  translation: polished, shined, waxed, buffed, furbished, burnished
 polo:
   term: polo
   class: b
@@ -31133,6 +32598,11 @@ pom:
   class: b.nenoj; il
   category: root
   translation: pop, burst; pop, burst; pop
+pomdo:
+  term: pomdo
+  class: t
+  category: derived
+  translation: popped, burst
 pommais:
   term: pommais
   class: b
@@ -31228,6 +32698,11 @@ porta:
   class: b.oj
   category: root
   translation: carrying, taking; carry, take
+portado:
+  term: portado
+  class: t
+  category: derived
+  translation: carried, taken
 portaible:
   term: portaible
   class: t
@@ -31358,6 +32833,11 @@ poscosan:
   class: b.oj
   category: derived
   translation: criticism; criticize
+poscosanne:
+  term: poscosanne
+  class: t
+  category: derived
+  translation: critical; critically
 posdongwi:
   term: posdongwi
   class: b.oj
@@ -31483,6 +32963,11 @@ poshuruyen:
   class: b
   category: derived
   translation: 'prisoner '
+posikna:
+  term: posikna
+  class: b.oj
+  category: derived
+  translation: dissuasion; dissuade
 posizin:
   term: posizin
   class: b.oj
@@ -31543,6 +33028,16 @@ pospel:
   class: b.oj
   category: derived
   translation: pull
+posplagu:
+  term: posplagu
+  class: b.oj
+  category: derived
+  translation: unplug
+posplagudo:
+  term: posplagudo
+  class: t
+  category: derived
+  translation: unplugged
 possahay:
   term: possahay
   class: b.oj
@@ -31598,6 +33093,11 @@ posti:
   class: b.oj
   category: root
   translation: post; post, display
+postido:
+  term: postido
+  class: t
+  category: derived
+  translation: posted, displayed
 postriunfa:
   term: postriunfa
   class: b.oj
@@ -31638,6 +33138,11 @@ potasyum:
   class: b
   category: root
   translation: potasium, K
+prabu:
+  term: prabu
+  class: b
+  category: root
+  translation: lord, lady, master, mistress
 praseodimyum:
   term: praseodimyum
   class: b
@@ -31668,6 +33173,11 @@ preciso:
   class: t
   category: root
   translation: exact, precise, accurate; exactly, precisely, accurately
+precisoya:
+  term: precisoya
+  class: b
+  category: derived
+  translation: precision
 precu:
   term: precu
   class: b.nenoj
@@ -31723,6 +33233,16 @@ presenta:
   class: b.oj
   category: root
   translation: presentation; present
+presentado:
+  term: presentado
+  class: t
+  category: derived
+  translation: presented
+presentayen:
+  term: presentayen
+  class: b
+  category: derived
+  translation: presenter
 presidi:
   term: presidi
   class: b.oj
@@ -31748,6 +33268,11 @@ presyon:
   class: b.oj
   category: root
   translation: pressure; put pressure (on), press
+presyondo:
+  term: presyondo
+  class: t
+  category: derived
+  translation: pressed
 presyonmeter:
   term: presyonmeter
   class: b
@@ -31778,6 +33303,11 @@ printi:
   class: b.oj
   category: root
   translation: printing; print
+printido:
+  term: printido
+  class: t
+  category: derived
+  translation: printed
 printitora:
   term: printitora
   class: b
@@ -31838,6 +33368,11 @@ produtidom:
   class: b
   category: derived
   translation: warehouse, depot
+produtiya:
+  term: produtiya
+  class: b
+  category: derived
+  translation: production
 produtiyen:
   term: produtiyen
   class: b
@@ -31890,6 +33425,11 @@ propaganda:
   class: b.oj
   category: root
   translation: propaganda; propagandize
+propan:
+  term: propan
+  class: b
+  category: root
+  translation: propane
 propul:
   term: propul
   class: t
@@ -31945,6 +33485,11 @@ proyeksi:
   class: b.oro
   category: root
   translation: projection; project
+proyeksido:
+  term: proyeksido
+  class: t
+  category: derived
+  translation: projected
 prumu:
   term: prumu
   class: b
@@ -32000,6 +33545,11 @@ pumica:
   class: b
   category: root
   translation: pumice
+punku:
+  term: punku
+  class: b
+  category: root
+  translation: punk (genre, subculture)
 pupa:
   term: pupa
   class: b
@@ -32130,6 +33680,11 @@ rahatugi:
   class: b.oj
   category: derived
   translation: (cause to) rest, (make) rest
+rahatune:
+  term: rahatune
+  class: t
+  category: derived
+  translation: resting
 rahel:
   term: Rahel
   class: su n
@@ -32140,6 +33695,16 @@ rahema:
   class: b
   category: root
   translation: mercy
+rahemafil:
+  term: rahemafil
+  class: t
+  category: derived
+  translation: merciful
+rahemapul:
+  term: rahemapul
+  class: t
+  category: derived
+  translation: merciful
 rahibu:
   term: rahibu
   class: b
@@ -32180,6 +33745,16 @@ rande:
   class: b.oj
   category: root
   translation: plane, grater; plane, grate
+randedo:
+  term: randedo
+  class: t
+  category: derived
+  translation: planed, grated
+randetul:
+  term: randetul
+  class: b
+  category: derived
+  translation: plane, grater
 randevu:
   term: randevu
   class: b.nenoj
@@ -32225,6 +33800,16 @@ rasamu:
   class: b.oj
   category: root
   translation: drawing, illustration; draw, illustrate
+rasamudo:
+  term: rasamudo
+  class: t
+  category: derived
+  translation: drawn, illustrated
+rasamuyen:
+  term: rasamuyen
+  class: b
+  category: derived
+  translation: illustrator, drawer
 rasona:
   term: rasona
   class: b.oj
@@ -32315,6 +33900,11 @@ reforma:
   class: b.oj
   category: root
   translation: reformation; reform
+reformado:
+  term: reformado
+  class: t
+  category: derived
+  translation: reformed
 regula:
   term: regula
   class: b
@@ -32360,6 +33950,11 @@ reklama:
   class: b.oj
   category: root
   translation: ad, advertisement, commercial; advertise
+reklamado:
+  term: reklamado
+  class: t
+  category: derived
+  translation: advertised
 reklamatahta:
   term: reklamatahta
   class: b
@@ -32370,6 +33965,11 @@ rekomenda:
   class: b.oj
   category: root
   translation: recommendation; recommend
+rekomendado:
+  term: rekomendado
+  class: t
+  category: derived
+  translation: recommended
 rekordi:
   term: rekordi
   class: b
@@ -32420,6 +34020,16 @@ reporti:
   class: b.oj
   category: root
   translation: report; report
+reportido:
+  term: reportido
+  class: t
+  category: derived
+  translation: reported
+reportiya:
+  term: reportiya
+  class: b
+  category: derived
+  translation: reporting
 reputasi:
   term: reputasi
   class: b
@@ -32430,11 +34040,26 @@ reserci:
   class: b.oj
   category: root
   translation: research; research
+resercido:
+  term: resercido
+  class: t
+  category: derived
+  translation: researched
+reserciyen:
+  term: reserciyen
+  class: b
+  category: derived
+  translation: researcher
 reserva:
   term: reserva
   class: b.oj
   category: root
   translation: reservation, booking; reserve, book, make a reservation
+reservado:
+  term: reservado
+  class: t
+  category: derived
+  translation: reserved
 resini:
   term: resini
   class: b
@@ -32445,6 +34070,16 @@ resmi:
   class: t
   category: root
   translation: formal, official; formally, officially
+resmixey:
+  term: resmixey
+  class: b
+  category: derived
+  translation: formality
+resmiya:
+  term: resmiya
+  class: b
+  category: derived
+  translation: formality, formalness
 resta:
   term: resta
   class: b.nenoj
@@ -32495,6 +34130,21 @@ revende:
   class: b
   category: root
   translation: rhubarb, <em>Rheum</em>
+reviu:
+  term: reviu
+  class: b.oj
+  category: root
+  translation: review, critique; review, critique
+reviudo:
+  term: reviudo
+  class: t
+  category: derived
+  translation: reviewed, critiqued
+reviuyen:
+  term: reviuyen
+  class: b
+  category: derived
+  translation: reviewer
 rewmati:
   term: rewmati
   class: b
@@ -32537,7 +34187,7 @@ rieksame:
   translation: retest
 rieskri:
   term: rieskri
-  class: b.oj
+  class: b.oj.ru
   category: derived
   translation: rewrite
 rifale:
@@ -32585,11 +34235,26 @@ rioko:
   class: b.oj
   category: derived
   translation: see again, meet again
+riokur:
+  term: riokur
+  class: b.nenoj
+  category: derived
+  translation: reoccurrence; reoccur
+riokurne:
+  term: riokurne
+  class: t
+  category: derived
+  translation: reoccurring
 ripul:
   term: ripul
   class: t
   category: derived
   translation: again
+ripulgi:
+  term: ripulgi
+  class: b.oj
+  category: derived
+  translation: refill, replenish
 risasi:
   term: risasi
   class: b
@@ -32620,11 +34285,26 @@ riskojuine:
   class: t
   category: derived
   translation: cautious; cautiously
+riskopul:
+  term: riskopul
+  class: t
+  category: derived
+  translation: risky
 ritmo:
   term: ritmo
   class: b
   category: root
   translation: rhythm
+ritmoli:
+  term: ritmoli
+  class: t
+  category: derived
+  translation: rhythmic
+ritmopul:
+  term: ritmopul
+  class: t
+  category: derived
+  translation: rhythmic
 roberto:
   term: Roberto
   class: su n
@@ -32635,11 +34315,21 @@ roboti:
   class: b
   category: root
   translation: robot
+robotili:
+  term: robotili
+  class: t
+  category: derived
+  translation: robotic
 robotilogi:
   term: robotilogi
   class: b
   category: derived
   translation: robotics
+robotisim:
+  term: robotisim
+  class: t
+  category: derived
+  translation: robotic
 robotitekno:
   term: robotitekno
   class: b
@@ -32662,7 +34352,7 @@ roku:
   translation: rock (music)
 rol:
   term: rol
-  class: b.oj
+  class: b.oj.ru
   category: root
   translation: role, part; play a role, participate, take part, be involved (in)
 rolyen:
@@ -32675,6 +34365,11 @@ rolyuxi:
   class: b.oj
   category: derived
   translation: role-playing game, RPG; roleplay
+roma:
+  term: Roma
+  class: su n
+  category: proper word
+  translation: Rome
 romani:
   term: Romani
   class: t
@@ -32720,6 +34415,16 @@ rota:
   class: b.oro
   category: root
   translation: rotation; rotate, turn (around)
+rotacune:
+  term: rotacune
+  class: t
+  category: derived
+  translation: rotating
+rotado:
+  term: rotado
+  class: t
+  category: derived
+  translation: rotated
 roti:
   term: roti
   class: b
@@ -32735,6 +34440,11 @@ roya:
   class: b.oj
   category: root
   translation: dream; dream
+royayen:
+  term: royayen
+  class: b
+  category: derived
+  translation: dreamer
 ru-:
   term: ru-
   class: lfik
@@ -32805,6 +34515,11 @@ ruho:
   class: b
   category: root
   translation: spirit, soul
+ruhologi:
+  term: ruhologi
+  class: b
+  category: derived
+  translation: spirituality
 ruidi:
   term: ruidi
   class: b.nenoj
@@ -32897,6 +34612,11 @@ rundi:
   class: su n
   category: proper word
   translation: Burundi
+runeogi:
+  term: runeogi
+  class: b.oj
+  category: derived
+  translation: renovate, renew
 ruoko:
   term: ruoko
   class: b.oj
@@ -32967,6 +34687,11 @@ rutina:
   class: b
   category: root
   translation: routine
+rutinali:
+  term: rutinali
+  class: t
+  category: derived
+  translation: routine; routinely
 rutu:
   term: Rutu
   class: su n
@@ -33017,11 +34742,6 @@ sabedesyum:
   class: t
   category: derived
   translation: seventieth
-sabedin:
-  term: sabedin
-  class: b
-  category: derived
-  translation: week
 sabegon:
   term: sabegon
   class: b
@@ -33077,6 +34797,11 @@ sabziyow:
   class: b
   category: derived
   translation: vegetable oil
+sad:
+  term: Sad
+  class: su n
+  category: proper word
+  translation: Sade
 sadafa:
   term: sadafa
   class: b
@@ -33087,6 +34812,16 @@ sadafamahi:
   class: b
   category: derived
   translation: shellfish
+sadismo:
+  term: Sadismo
+  class: b
+  category: derived
+  translation: Sadism
+sadista:
+  term: Sadista
+  class: b
+  category: derived
+  translation: Sadist
 safe:
   term: safe
   class: t
@@ -33112,6 +34847,16 @@ safran:
   class: b
   category: root
   translation: saffron
+safta:
+  term: safta
+  class: b
+  category: root
+  translation: week
+saftafini:
+  term: saftafini
+  class: b
+  category: derived
+  translation: weekend
 sahay:
   term: sahay
   class: b.oj
@@ -33142,6 +34887,11 @@ sahel:
   class: b
   category: root
   translation: beach
+saheltwala:
+  term: saheltwala
+  class: b
+  category: derived
+  translation: beach towel
 sahem:
   term: sahem
   class: b
@@ -33211,7 +34961,12 @@ sahte:
   term: sahte
   class: t
   category: root
-  translation: hard, stiff, rigid, firm, tough; rigidly, firmly, toughly
+  translation: hard, stiff, rigid, firm, tough, rough; rigidly, firmly, toughly, roughly
+sahtebala:
+  term: sahtebala
+  class: t
+  category: derived
+  translation: sturdy, robust
 sahteya:
   term: sahteya
   class: b
@@ -33554,6 +35309,11 @@ santogi:
   class: b.oj
   category: derived
   translation: sanctify, hallow, make holy, make sacred
+santolala:
+  term: santolala
+  class: b
+  category: derived
+  translation: hymn
 santoyen:
   term: santoyen
   class: b
@@ -33569,6 +35329,16 @@ sapatudukan:
   class: b
   category: derived
   translation: shoe store
+sapfo:
+  term: Sapfo
+  class: su n
+  category: proper word
+  translation: Sappho
+sapfoli:
+  term: Sapfoli
+  class: t
+  category: derived
+  translation: Sapphic
 sara:
   term: Sara
   class: su n
@@ -33714,7 +35484,12 @@ seanalisi:
   term: seanalisi
   class: b.nenoj
   category: derived
-  translation: self-analysis; self analyze
+  translation: self-analysis; analyze (oneself)
+seasosya:
+  term: seasosya
+  class: b.nenoj
+  category: derived
+  translation: associate (oneself)
 seba:
   term: seba
   class: b
@@ -33725,6 +35500,11 @@ sebakal:
   class: t
   category: derived
   translation: without reason, arbitrary; arbitrarily
+sebanyo:
+  term: sebanyo
+  class: b.nenoj
+  category: derived
+  translation: bathe (oneself)
 sebastyan:
   term: Sebastyan
   class: su n
@@ -33734,17 +35514,22 @@ sebawe:
   term: sebawe
   class: b.nenoj
   category: derived
-  translation: self-defence, self-defense
+  translation: self-defence, self-defense; defend oneself
 sedabihu:
   term: sedabihu
   class: b.nenoj
   category: derived
-  translation: self-sacrifice
+  translation: self-sacrifice; sacrifice oneself
 sedabihune:
   term: sedabihune
   class: t
   category: derived
   translation: self-sacrificing
+sefani:
+  term: Sefani
+  class: su n
+  category: proper word
+  translation: Zephaniah
 sefide:
   term: sefide
   class: t
@@ -33755,6 +35540,11 @@ sefidebalena:
   class: b
   category: derived
   translation: beluga, white whale, sea canary, <em>Delphinapterus</em>
+sefidemo:
+  term: sefidemo
+  class: m
+  category: derived
+  translation: light (<em>of color</em>)
 sefil:
   term: sefil
   class: t
@@ -33764,7 +35554,7 @@ sefoto:
   term: sefoto
   class: b.nenoj
   category: derived
-  translation: selfie; take a selfie
+  translation: selfie; take a selfie, fotograph oneself
 segil:
   term: segil
   class: b
@@ -33849,7 +35639,7 @@ seksobawlu:
   term: seksobawlu
   class: b.oj
   category: derived
-  translation: rape
+  translation: sexual assault, rape
 seksofilya:
   term: seksofilya
   class: b
@@ -33914,37 +35704,7 @@ seli:
   term: seli
   class: t
   category: derived
-  translation: itself
-seli_ete:
-  term: seli ete
-  class: pn
-  category: phrase
-  translation: they themselves
-seli_imi:
-  term: seli imi
-  class: pn
-  category: phrase
-  translation: we ourselves
-seli_mi:
-  term: seli mi
-  class: pn
-  category: phrase
-  translation: I myself
-seli_te:
-  term: seli te
-  class: pn
-  category: phrase
-  translation: he himself, she herself
-seli_uyu:
-  term: seli uyu
-  class: pn
-  category: phrase
-  translation: you yourselves
-seli_yu:
-  term: seli yu
-  class: pn
-  category: phrase
-  translation: you yourself
+  translation: self (<em>of or relating to</em>)
 selsyus:
   term: selsyus
   class: b
@@ -34095,6 +35855,11 @@ senmun:
   class: b
   category: root
   translation: glottis
+senmunli:
+  term: senmunli
+  class: t
+  category: derived
+  translation: glottal
 sentay:
   term: sentay
   class: b
@@ -34175,6 +35940,11 @@ sesam:
   class: b
   category: root
   translation: sesame
+sesekso:
+  term: sesekso
+  class: b.nenoj
+  category: derived
+  translation: masturbation; masturbate
 sesu:
   term: sesu
   class: su s
@@ -34190,11 +35960,16 @@ setin:
   class: b.oj
   category: root
   translation: setting, adjustment; set, adjust
+setreyna:
+  term: setreyna
+  class: b.nenoj
+  category: derived
+  translation: train (oneself)
 sewdo:
   term: sewdo
   class: t
   category: root
-  translation: fake; fakely
+  translation: fake, pseudo-; fakely
 sewdosyensi:
   term: sewdosyensi
   class: b
@@ -34290,6 +36065,11 @@ sifa:
   class: b
   category: root
   translation: characteristic, feature, quality, property, attribute, aspect
+sifabon:
+  term: sifabon
+  class: t
+  category: derived
+  translation: good, fine (<em>of character</em>)
 sifalari:
   term: sifalari
   class: b
@@ -34315,11 +36095,6 @@ sigaro:
   class: b
   category: root
   translation: cigar
-sikapi:
-  term: sikapi
-  class: b.nenoj
-  category: derived
-  translation: nod
 siki:
   term: Siki
   class: t
@@ -34390,6 +36165,11 @@ silikon:
   class: b
   category: root
   translation: silicon, Si
+silofon:
+  term: silofon
+  class: b
+  category: root
+  translation: xylophone
 silsila:
   term: silsila
   class: b
@@ -34400,6 +36180,16 @@ silsilamon:
   class: b
   category: derived
   translation: link (<em>of chain</em>)
+silweta:
+  term: silweta
+  class: b
+  category: root
+  translation: silhouette
+silweta_name:
+  term: Silweta
+  class: su n
+  category: proper word
+  translation: Silhouette
 sim:
   term: sim
   class: t
@@ -34770,6 +36560,11 @@ sokitan:
   class: b
   category: root
   translation: coal
+sokrate:
+  term: Sokrate
+  class: su n
+  category: proper word
+  translation: Soctrates
 soksu:
   term: soksu
   class: b
@@ -34850,6 +36645,11 @@ solokrabe:
   class: b
   category: derived
   translation: hermit crab
+solosekso:
+  term: solosekso
+  class: b.nenoj
+  category: derived
+  translation: masturbation; masturbate
 soloya:
   term: soloya
   class: b
@@ -34920,6 +36720,11 @@ somnone:
   class: t
   category: derived
   translation: sleeping
+somnoosis:
+  term: somnoosis
+  class: b
+  category: derived
+  translation: insomnia
 somnopeldo:
   term: somnopeldo
   class: t
@@ -34965,6 +36770,11 @@ sonzaylogi:
   class: b
   category: derived
   translation: ontology
+soprano:
+  term: soprano
+  class: b
+  category: root
+  translation: soprano
 soseji:
   term: soseji
   class: b
@@ -35015,6 +36825,11 @@ sotikalya:
   class: b
   category: derived
   translation: silence, quietness
+sotilil:
+  term: sotilil
+  class: t
+  category: derived
+  translation: quiet
 sotilogi:
   term: sotilogi
   class: b
@@ -35096,8 +36911,8 @@ sudegarebi:
   class: b
   category: derived
   translation: southwest
-sudehangu:
-  term: Sudehangu
+sudekorea:
+  term: Sudekorea
   class: su n
   category: proper word
   translation: South Korea
@@ -35703,6 +37518,11 @@ syaheberi:
   class: b
   category: derived
   translation: blackberry, <em>Rubus</em>
+syahemo:
+  term: syahemo
+  class: m
+  category: derived
+  translation: dark (<em>of color</em>)
 syensi:
   term: syensi
   class: b
@@ -35723,6 +37543,11 @@ syeraleon:
   class: su n
   category: proper word
   translation: Sierra Leone
+syon:
+  term: Syon
+  class: su n
+  category: proper word
+  translation: Zion
 tabako:
   term: tabako
   class: b
@@ -35934,6 +37759,11 @@ tamba:
   class: b
   category: root
   translation: copper, Cu
+tamburin:
+  term: tamburin
+  class: b
+  category: root
+  translation: tambourine
 tami:
   term: tami
   class: t
@@ -36158,8 +37988,8 @@ tatmini:
   term: tatmini
   class: b.oj
   category: root
-  translation: appraisal, evaluation, assessment, rating, judgment, critique, criticism;
-    appraise, evaluate, assess, rate, judge, critique
+  translation: appraisal, evaluation, assessment, rating, judgment; appraise, evaluate,
+    assess, rate, judge
 tatminimarka:
   term: tatminimarka
   class: b.oj
@@ -36169,7 +37999,7 @@ tatminiyen:
   term: tatminiyen
   class: b
   category: derived
-  translation: critic, assessor, judge
+  translation: assessor, judge, evaluator
 tatua:
   term: tatua
   class: b.oj
@@ -36264,7 +38094,8 @@ te:
   term: te
   class: pn
   category: root
-  translation: he, him, she, her (<em>animate, personified object</em>)
+  translation: 'animate, personified object: he, him, she, her, they (singular), them
+    (singular) '
 teatro:
   term: teatro
   class: b
@@ -36521,6 +38352,11 @@ tenmunlogi:
   class: b
   category: derived
   translation: astronomy
+tenor:
+  term: tenor
+  class: b
+  category: root
+  translation: tenor
 tensor:
   term: tensor
   class: b
@@ -36621,6 +38457,11 @@ termo:
   class: b.oro
   category: root
   translation: heat; be warm, heat (up), warm (up)
+termoday:
+  term: termoday
+  class: t
+  category: derived
+  translation: hot
 termodo:
   term: termodo
   class: t
@@ -36641,6 +38482,11 @@ termokumax:
   class: b
   category: derived
   translation: blanket
+termolil:
+  term: termolil
+  class: t
+  category: derived
+  translation: lukewarm
 termometer:
   term: termometer
   class: b
@@ -36661,6 +38507,11 @@ teror:
   class: b.oj
   category: root
   translation: terror; terrorize
+tesaloni:
+  term: Tesaloni
+  class: su n
+  category: proper word
+  translation: Thessaloniki, Thessalonica
 tesis:
   term: tesis
   class: b
@@ -36675,7 +38526,7 @@ teslimu:
   term: teslimu
   class: b.oro
   category: root
-  translation: surrender (to), succumb (to), give up, give in (to)
+  translation: surrender (to), succumb (to), give up, give in (to), resign, quit
 tesu:
   term: tesu
   class: su s
@@ -36716,6 +38567,11 @@ texto:
   class: b
   category: root
   translation: text
+textura:
+  term: textura
+  class: b
+  category: root
+  translation: texture
 teyan:
   term: teyan
   class: b.oj
@@ -36756,6 +38612,11 @@ tigadesyum:
   class: t
   category: derived
   translation: thirtieth
+tigadimensili:
+  term: tigadimensili
+  class: t
+  category: derived
+  translation: three-dimensional, 3D
 tigagon:
   term: tigagon
   class: b
@@ -36766,6 +38627,11 @@ tigagonlogi:
   class: b
   category: derived
   translation: trigonometry
+tigagontul:
+  term: tigagontul
+  class: b
+  category: derived
+  translation: triangle
 tigamwin:
   term: tigamwin
   class: b
@@ -36821,6 +38687,11 @@ timoteo:
   class: su n
   category: proper word
   translation: Timothy
+timpani:
+  term: timpani
+  class: b
+  category: root
+  translation: timpani
 tipo:
   term: tipo
   class: b
@@ -36851,6 +38722,11 @@ titi:
   class: b
   category: root
   translation: uncle (<em>informal</em>), auntie, aunt (<em>informal</em>)
+tito:
+  term: Tito
+  class: su n
+  category: proper word
+  translation: Titus
 titulo:
   term: titulo
   class: b
@@ -37190,7 +39066,7 @@ tornado:
   term: tornado
   class: b
   category: root
-  translation: tornado
+  translation: tornado, twister
 tortiya:
   term: tortiya
   class: b
@@ -37536,6 +39412,11 @@ tubo:
   class: b
   category: root
   translation: tube
+tuborinjon:
+  term: tuborinjon
+  class: b
+  category: derived
+  translation: tubular bells
 tufan:
   term: tufan
   class: b
@@ -37776,6 +39657,11 @@ tuvaluyen:
   class: b
   category: derived
   translation: Tuvaluan (person)
+twala:
+  term: twala
+  class: b
+  category: root
+  translation: towel
 twalete:
   term: twalete
   class: b
@@ -38202,8 +40088,8 @@ utaragarebi:
   class: b
   category: derived
   translation: northwest
-utarahangu:
-  term: Utarahangu
+utarakorea:
+  term: Utarakorea
   class: su n
   category: derived
   translation: North Korea
@@ -38291,7 +40177,7 @@ vaksina:
   term: vaksina
   class: b.oj
   category: root
-  translation: vaccine; get vaccinated, vaccinate
+  translation: vaccine; vaccinate
 valentin:
   term: Valentin
   class: su n
@@ -38417,6 +40303,11 @@ ventopul:
   class: t
   category: derived
   translation: windy; windily
+ventorinjon:
+  term: ventorinjon
+  class: b
+  category: derived
+  translation: wind chimes
 ventotul:
   term: ventotul
   class: b
@@ -38647,6 +40538,11 @@ vyetnamyen:
   class: b
   category: derived
   translation: Vietnamese
+vyola:
+  term: vyola
+  class: b
+  category: root
+  translation: viola
 vyoleta:
   term: vyoleta
   class: b
@@ -38657,6 +40553,11 @@ vyolin:
   class: b
   category: root
   translation: violin, fiddle
+vyoloncel:
+  term: vyoloncel
+  class: b
+  category: root
+  translation: (violon)cello
 wadi:
   term: wadi
   class: b
@@ -38717,6 +40618,21 @@ wakufacu:
   class: b.nenoj
   category: derived
   translation: pause
+wal:
+  term: wal
+  class: p
+  category: root
+  translation: without
+wal-:
+  term: wal-
+  class: lfik
+  category: affix
+  translation: without
+wal_na:
+  term: wal na
+  class: p jm
+  category: phrase
+  translation: without (<em>+ -ing</em>)
 wala:
   term: wala
   class: b.oj
@@ -38812,6 +40728,11 @@ watuhuru:
   class: t
   category: derived
   translation: available, free
+watuje:
+  term: watuje
+  class: b.oj
+  category: derived
+  translation: duration; last
 watumeter:
   term: watumeter
   class: b
@@ -38852,6 +40773,11 @@ wazenje:
   class: b.oj
   category: derived
   translation: weight; weigh (<em>have weight of</em>)
+wazenlil:
+  term: wazenlil
+  class: t
+  category: derived
+  translation: light, lightweight
 wazenmeter:
   term: wazenmeter
   class: b.oj
@@ -38908,6 +40834,16 @@ wendu:
   class: b
   category: root
   translation: pea
+wenwen:
+  term: wenwen
+  class: b.oj.ru
+  category: root
+  translation: hum, buzz
+wenwenne:
+  term: wenwenne
+  class: t
+  category: derived
+  translation: humming, buzzing
 wenxi:
   term: wenxi
   class: t
@@ -39109,6 +41045,11 @@ xafe_xengi:
   class: p jm
   category: phrase
   translation: postpartum
+xafebete:
+  term: xafebete
+  class: b
+  category: derived
+  translation: descendant
 xafefikso:
   term: xafefikso
   class: b
@@ -39289,6 +41230,16 @@ xanse:
   class: b
   category: root
   translation: luck, fortune, odds
+xansebon:
+  term: xansebon
+  class: t
+  category: derived
+  translation: lucky, luckily, fortunate, fortunately
+xansebur:
+  term: xansebur
+  class: t
+  category: derived
+  translation: unlucky, unluckily, unfortunate, unfortunately
 xansia:
   term: xansia
   class: b
@@ -39493,7 +41444,12 @@ xey:
   term: xey
   class: b
   category: root
-  translation: thing, object
+  translation: thing, object, article, item
+xeylari:
+  term: xeylari
+  class: b
+  category: derived
+  translation: stuff, things
 xidu:
   term: xidu
   class: b.oj
@@ -39614,6 +41570,11 @@ xogyo:
   class: b.oj
   category: root
   translation: commerce, trade; deal
+xogyobloki:
+  term: xogyobloki
+  class: b.oj
+  category: root
+  translation: embargo; embargo
 xogyoli:
   term: xogyoli
   class: t
@@ -39629,8 +41590,8 @@ xohrapul:
   class: t
   category: derived
   translation: famous; famously
-xohrayen:
-  term: xohrayen
+xohrapulyen:
+  term: xohrapulyen
   class: b
   category: derived
   translation: celebrity
@@ -39719,6 +41680,17 @@ xoridi:
   class: b.nenoj
   category: derived
   translation: leave, take off, head off, depart
+xorimanu:
+  term: xorimanu
+  class: b.oj
+  category: derived
+  translation: come to believe
+xorixi:
+  term: xorixi
+  class: b.oro
+  category: derived
+  translation: 'become aware, become conscious, realize; cause (somebody) to become
+    aware, cause (somebody) to become conscious '
 xorjanu:
   term: xorjanu
   class: b.nenoj
@@ -39839,6 +41811,16 @@ xosu_xafe_xosu:
   class: jm
   category: phrase
   translation: little by little
+xovin:
+  term: Xovin
+  class: su n
+  category: proper word
+  translation: Chauvin
+xovinismo:
+  term: Xovinismo
+  class: b
+  category: derived
+  translation: Chauvinism
 xow:
   term: xow
   class: b.oj
@@ -39994,7 +41976,7 @@ yaku:
   translation: yak, <em>Bos grunniens</em>
 yam:
   term: yam
-  class: b.oj
+  class: b.oj.ru
   category: root
   translation: meal, food; eat
 yamdom:
@@ -40072,6 +42054,11 @@ yanlyo:
   class: b
   category: root
   translation: fuel
+yanmo:
+  term: yanmo
+  class: b
+  category: root
+  translation: wool
 yao:
   term: yao
   class: b.oj
@@ -40136,7 +42123,7 @@ yen:
   term: yen
   class: b
   category: root
-  translation: (animate) being, gal, guy, personified object
+  translation: (animate) being, gal, guy, dude, bloke, personified object
 yentu:
   term: yentu
   class: b
@@ -40146,12 +42133,17 @@ yentuli:
   term: yentuli
   class: t
   category: derived
-  translation: pharyngeal, glottal (<em>linguistics</em>)
+  translation: pharyngeal
 yeremia:
   term: Yeremia
   class: su n
   category: proper word
   translation: Jeremy, Jeremiah
+yerusalem:
+  term: Yerusalem
+  class: su n
+  category: proper word
+  translation: Jerusalem
 yese:
   term: Yese
   class: su n
@@ -40177,6 +42169,11 @@ yexim:
   class: b
   category: root
   translation: jade
+yidix:
+  term: Yidix
+  class: su n
+  category: proper word
+  translation: Yiddish (language)
 yoakim:
   term: Yoakim
   class: su n
@@ -40186,7 +42183,7 @@ yobu:
   term: yobu
   class: b
   category: root
-  translation: loin, small of back
+  translation: loin, small of back, lower back, lumbar
 yodin:
   term: yodin
   class: b
@@ -40232,11 +42229,6 @@ yolyudo:
   class: t
   category: derived
   translation: worried, concerned, preoccupied
-yomo:
-  term: yomo
-  class: b
-  category: root
-  translation: wool
 yon:
   term: yon
   class: p
@@ -40252,6 +42244,11 @@ yon_na:
   class: p jm
   category: derived
   translation: by (<em>+ -ing</em>)
+yona:
+  term: Yona
+  class: su n
+  category: proper word
+  translation: Jonah, Jonas
 yonatan:
   term: Yonatan
   class: su n
@@ -40357,6 +42354,11 @@ yu:
   class: pn
   category: root
   translation: you (<em>singular</em>)
+yuda:
+  term: Yuda
+  class: su n
+  category: proper word
+  translation: Judah, Judas, Jude
 yudit:
   term: Yudit
   class: su n
@@ -40518,6 +42520,11 @@ zangar:
   class: b
   category: root
   translation: rust
+zaratuxtra:
+  term: Zaratuxtra
+  class: su n
+  category: proper word
+  translation: Zoroaster, Zarathustra
 zarif:
   term: zarif
   class: t
@@ -40637,7 +42644,7 @@ zubale:
   term: zubale
   class: b
   category: root
-  translation: trash, rubbish
+  translation: trash, rubbish, garbage
 zubul:
   term: zubul
   class: b.nenoj
@@ -40673,6 +42680,16 @@ zumrudi:
   class: b
   category: root
   translation: emerald
+zungu:
+  term: zungu
+  class: b
+  category: root
+  translation: trace, track, trail
+zungufolo:
+  term: zungufolo
+  class: b
+  category: derived
+  translation: tracking, tracing; track, trace
 zuraka:
   term: zuraka
   class: b

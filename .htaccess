@@ -1,0 +1,16 @@
+ErrorDocument 400 /.DisplayFileContents/.error.php
+ErrorDocument 401 /.DisplayFileContents/.error.php
+ErrorDocument 403 /.DisplayFileContents/.error.php
+ErrorDocument 404 /.DisplayFileContents/.error.php
+ErrorDocument 405 /.DisplayFileContents/.error.php
+ErrorDocument 408 /.DisplayFileContents/.error.php
+ErrorDocument 414 /.DisplayFileContents/.error.php
+ErrorDocument 500 /.DisplayFileContents/.error.php
+ErrorDocument 502 /.DisplayFileContents/.error.php
+ErrorDocument 504 /.DisplayFileContents/.error.php
+
+DirectoryIndex index.htm index.html index.shtml index.php default.php .index.php /.DisplayDirectoryContents/.index.php
+
+# API access from other websites
+Header set Access-Control-Allow-Origin "*"
+
