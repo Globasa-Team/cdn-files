@@ -20,9 +20,9 @@ ipa: ˈɾanko
 ipa link: http://ipa-reader.xyz/?text=ˈɾanko&voice=Ewa
 status: true
 category: root
-word class: b
+word class: b.oj
 trans html:
-  eng: rank, grade, standing, place, position
+  eng: rank, grade, standing, place, position; rank
   epo: rango
   spa: rango, posici&oacute;n
   deu: ""
@@ -36,6 +36,7 @@ trans:
     - standing
     - place
     - position
+  - - rank
   epo:
   - - rango
   spa:
