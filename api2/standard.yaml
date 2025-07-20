@@ -51247,7 +51247,11 @@ embasidom:
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - embasi
+    - +
+    - -dom
 emblema:
   term: emblema
   word class: b
@@ -63720,6 +63724,26 @@ femsim:
     - fem
     - +
     - -sim
+femsinga:
+  term: femsinga
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - lioness
+    epo:
+    - - leonino
+    spa:
+    - - leona
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - fem-
+    - +
+    - singa
 femsodar:
   term: femsodar
   word class: b
@@ -77167,6 +77191,26 @@ guton:
     natlang:
       Koreasa: 고통 &ldquo;gotong&rdquo;
       Putunhwa: 苦痛 &ldquo;kǔt&ograve;ng&rdquo;
+gutonne:
+  term: gutonne
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - aching
+    epo:
+    - - dolora
+    spa:
+    - - dolorido
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - guton
+    - +
+    - -ne
 guxi:
   term: guxi
   word class: t
@@ -89475,7 +89519,11 @@ insakfu:
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - in-
+    - +
+    - sakfu
 insan:
   term: insan
   word class: b
@@ -128968,6 +129016,26 @@ mansi:
       Parsisa: اورنیتومانسی &ldquo;ornitomansi&rdquo; - piumansi
       Rusisa: -мантия &ldquo;-mantiya&rdquo;
       Turkisa: nekromansi - moryenmansi
+mansinga:
+  term: mansinga
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - (male) lion
+    epo:
+    - - (vir)leono
+    spa:
+    - - león (macho)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - man
+    - +
+    - singa
 mansodar:
   term: mansodar
   word class: b
@@ -132651,7 +132719,7 @@ maxya:
     epo:
     - - pli (<em>substantive</em>)
     spa:
-    - - (<em>sin uso</em>)
+    - - más (<em>sustantivo</em>)
     deu: []
     fra: []
     rus: []
@@ -137521,7 +137589,7 @@ minya:
     epo:
     - - malplio
     spa:
-    - - (<em>sin uso</em>)
+    - - menos (<em>sustantivo</em>)
     deu: []
     fra: []
     rus: []
@@ -139873,7 +139941,7 @@ morjismu:
     - jismu
 mormon:
   term: Mormon
-  word class: su n
+  word class: b
   category: proper word
   trans:
     eng:
@@ -139881,29 +139949,31 @@ mormon:
     epo:
     - - Mormono (<em>nomo</em>)
     spa:
-    - - Mormon
+    - - Mormón
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - Мормон
     zho: []
   etymology:
     natlang:
-      Arabisa: مورمونية &quot;Murmuniya&quot;
-      Doycisa: Mormonentum
-      Englisa: Mormon, Mormonism
-      Espanisa: mormonismo
-      Fransesa: mormonisme
-      Hindi: मॉरमन &quot;Morman&quot;
-      Indonesisa: Mormonisme
-      Koreasa: 모르몬교 &quot;Morumongyo&quot;
-      Niponsa: モルモン教 &quot;Morumonkyo&quot;
-      Parsisa: مورمونیسم &quot;Mormonism&quot;
-      Putunhwa: 摩尔门教 &quot;Moermenjyaw&quot;
-      Rusisa: мормонизм &quot;mormonizm&quot;
-      Swahilisa: Umormoni
-      Telugusa: మోర్మన్ మతం &quot;Morman matam&quot;
-      Turkisa: Mormonluk
-      Vyetnamsa: Mặc M&ocirc;n gi&aacute;o
+      Arabisa: مورمون &ldquo;Murmun&rdquo;
+      Doycisa: Mormon
+      Englisa: Mormon
+      Espanisa: Morm&oacute;n
+      Fransesa: Mormon
+      Hindi: मॉरमन &ldquo;Morman&rdquo;
+      Indonesisa: Mormon
+      Koreasa: 몰몬 &ldquo;Mormon&rdquo;
+      Niponsa: モルモン &ldquo;Morumon&rdquo;
+      Parsisa: مورمون &ldquo;Mormon&rdquo;
+      Pilipinasa: Mormon
+      Putunhwa: 摩尔门 &ldquo;Mwoermen&rdquo;
+      Rusisa: Мормон &ldquo;Mormon&rdquo;
+      Swahilisa: Mormoni
+      Telugusa: మార్మన్ &ldquo;Marman&rdquo;
+      Turkisa: Mormon
+      Vyetnamsa: Mặc M&ocirc;n
 mormonismo:
   term: Mormonismo
   word class: b
@@ -146598,6 +146668,29 @@ nensekrasine:
     - krasi
     - +
     - -ne
+nensim:
+  term: nensim
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - dissimilar
+      - different
+    epo:
+    - - possimila
+    - - possimile
+    spa:
+    - - disímil
+      - diferente
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - nen-
+    - +
+    - sim
 nensuido:
   term: nensuido
   word class: t
@@ -157417,8 +157510,8 @@ parke:
       Parsisa: پارک &ldquo;p&acirc;rk&rdquo;
       Pilipinasa: parke
       Rusisa: парк &ldquo;park&rdquo;
-parki:
-  term: parki
+parkin:
+  term: parkin
   word class: b.oj
   category: root
   trans:
@@ -157455,8 +157548,8 @@ parki:
       Parsisa: پارکینگ &ldquo;p&acirc;rking&rdquo;
       Telugusa: పార్కింగ్ &ldquo;parking&rdquo;
       Turkisa: park
-parkido:
-  term: parkido
+parkindo:
+  term: parkindo
   word class: t
   category: derived
   trans:
@@ -157476,11 +157569,11 @@ parkido:
     zho: []
   etymology:
     derived:
-    - parki
+    - parkin
     - +
     - -do
-parkidom:
-  term: parkidom
+parkindom:
+  term: parkindom
   word class: b
   category: derived
   trans:
@@ -157498,7 +157591,7 @@ parkidom:
     zho: []
   etymology:
     derived:
-    - parki
+    - parkin
     - +
     - -dom
 parlamen:
@@ -164275,7 +164368,11 @@ populerya:
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - populer
+    - +
+    - -ya
 por:
   term: por
   word class: p
@@ -169486,7 +169583,11 @@ radyaya:
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - radya
+    - +
+    - -ya
 radyo:
   term: radyo
   word class: b
@@ -170539,7 +170640,11 @@ raxwaya:
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - raxwa
+    - +
+    - -ya
 rayfle:
   term: rayfle
   word class: b
@@ -170798,7 +170903,11 @@ recepedo:
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - recepe
+    - +
+    - -do
 recitu:
   term: recitu
   word class: b
@@ -173699,7 +173808,11 @@ royayen:
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - roya
+    - +
+    - -yen
 ru-:
   term: ru-
   word class: lfik
@@ -174040,8 +174153,8 @@ rugbi:
       Telugusa: రగ్బీ &ldquo;ragbi&rdquo;
       Turkisa: ragbi
       Vyetnamsa: b&oacute;ng bầu dục rugby
-rugbiyne:
-  term: rugbiyne
+rugbiyen:
+  term: rugbiyen
   word class: b
   category: derived
   trans:
@@ -174056,7 +174169,11 @@ rugbiyne:
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - rugbi
+    - +
+    - -yen
 rugibe:
   term: rugibe
   word class: b.oj
@@ -174126,7 +174243,11 @@ ruholi:
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - ruho
+    - +
+    - -li
 ruhologi:
   term: ruhologi
   word class: b
@@ -175408,7 +175529,11 @@ sabotajedo:
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - sabotaje
+    - +
+    - -do
 sabun:
   term: sabun
   word class: b.oj
@@ -176746,12 +176871,17 @@ salomyen:
     epo:
     - - salutisto
       - salutanto
-    spa: []
+    spa:
+    - - saludador
     deu: []
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - salom
+    - +
+    - -yen
 salsa:
   term: salsa
   word class: b
@@ -177515,6 +177645,51 @@ samrudi:
     natlang:
       Hindi: समृद्धि &ldquo;samŕdi&rdquo;
       Telugusa: సమృద్ధి &ldquo;samr̥di&rdquo;
+samrudine:
+  term: samrudine
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - prosperous
+      - thriving
+      - flourishing
+    epo:
+    - - prospera
+      - prosperanta
+    spa:
+    - - próspero
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - samrudi
+    - +
+    - -ne
+samrudipul:
+  term: samrudipul
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - prosperous
+      - thriving
+      - flourishing
+    epo:
+    - - prospera
+    spa:
+    - - próspero
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - samrudi
+    - +
+    - -pul
 samwel:
   term: Samwel
   word class: su n
@@ -178835,12 +179010,18 @@ saynido:
     - - signed
     epo:
     - - subskribita
-    spa: []
+    spa:
+    - - firmado
+      - autografiado
     deu: []
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - sayni
+    - +
+    - -do
 saypan:
   term: saypan
   word class: b.oj
@@ -179313,12 +179494,19 @@ sefideya:
     epo:
     - - blankeco
       - blanko
-    spa: []
+    spa:
+    - - (el color) blanco
+      - blancura
+      - blancor
     deu: []
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - sefide
+    - +
+    - -ya
 sefil:
   term: sefil
   word class: t
@@ -179755,12 +179943,18 @@ seksiya:
     - - seksallogo
       - erotikeco
       - volupteco
-    spa: []
+    spa:
+    - - lo sexi
+      - voluptuosidad
     deu: []
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - seksi
+    - +
+    - -ya
 sekso:
   term: sekso
   word class: b.oj
@@ -180032,6 +180226,28 @@ sela:
       Parsisa: سیلاب &ldquo;seyl&acirc;b&rdquo;, سیل &ldquo;seyl&rdquo;
       Rusisa: сель &ldquo;sel&rdquo;
       Turkisa: sel
+selado:
+  term: selado
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - flooded
+      - inundated
+    epo:
+    - - inundita
+    spa:
+    - - inundado
+      - anegado
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - sela
+    - +
+    - -do
 selenyum:
   term: selenyum
   word class: b
@@ -180143,12 +180359,20 @@ seletido:
     epo:
     - - elekita
       - selektita
-    spa: []
+    spa:
+    - - seleccionado
+      - elegido
+      - electo
+      - escogido
     deu: []
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - seleti
+    - +
+    - -do
 seletifil:
   term: seletifil
   word class: t
@@ -180650,12 +180874,18 @@ sempayya:
     - - narrowness
     epo:
     - - mallarĝeco
-    spa: []
+    spa:
+    - - angostura
+      - estrechez
     deu: []
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - sempay
+    - +
+    - -ya
 sen:
   term: sen
   word class: b.lin
@@ -181173,6 +181403,26 @@ servi:
       Pilipinasa: serbisyo
       Polskasa: serwis
       Telugusa: సేవ &ldquo;sēva&rdquo;
+servido:
+  term: servido
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - served
+    epo:
+    - - servita
+    spa:
+    - - servido
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - servi
+    - +
+    - -do
 servimusiya:
   term: servimusiya
   word class: b
@@ -181633,6 +181883,28 @@ seyeku:
       Niponsa: 誓約 &ldquo;seyaku&rdquo;
       Putunhwa: 誓約 &ldquo;xiywe&rdquo;
       Vyetnamsa: thệ ước
+seyekudo:
+  term: seyekudo
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - sworn
+      - vowed
+      - pledged
+    epo:
+    - - ĵurita
+    spa:
+    - - jurado
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - seyeku
+    - +
+    - -do
 seza:
   term: seza
   word class: b.oj
@@ -181666,12 +181938,17 @@ sezado:
     - - punished
     epo:
     - - punita
-    spa: []
+    spa:
+    - - castigado
     deu: []
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - seza
+    - +
+    - -do
 sezaible:
   term: sezaible
   word class: t
@@ -182100,12 +182377,17 @@ sifrexey:
     - - whistle
     epo:
     - - fajfaĵo
-    spa: []
+    spa:
+    - - silbido
     deu: []
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - sifre
+    - +
+    - -xey
 sigaro:
   term: sigaro
   word class: b
@@ -182688,6 +182970,28 @@ simbologidatul:
     - gida
     - +
     - -tul
+simbololi:
+  term: simbololi
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - symbolic
+    epo:
+    - - simbola
+    - - simbole
+    spa:
+    - - simbólico
+    - - simbólicamente
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - simbolo
+    - +
+    - -li
 simensu:
   term: simensu
   word class: b
@@ -182753,6 +183057,27 @@ simetri:
       Pilipinasa: simetriya
       Rusisa: симметрия &ldquo;simetriya&rdquo;
       Turkisa: simetri
+simetrili:
+  term: simetrili
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - symmetrical
+    epo:
+    - - simetra
+    spa:
+    - - simétrico
+    - - simétricamente
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - simetri
+    - +
+    - -li
 simon:
   term: Simon
   word class: su n
@@ -182850,6 +183175,29 @@ simpatilaye:
     - simpati
     - +
     - -laye
+simpatipul:
+  term: simpatipul
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - sympathetic
+      - compassionate
+    epo:
+    - - kompata
+      - kompatema
+    spa:
+    - - simpático
+      - compasivo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - simpati
+    - +
+    - -pul
 simula:
   term: simula
   word class: b.oj
@@ -182878,6 +183226,46 @@ simula:
       Niponsa: シミュレーション &ldquo;shimyurēshon&rdquo;, シミュレート &ldquo;shimurēto&rdquo;
       Pilipinasa: simulasyon
       Rusisa: симуляция &ldquo;simulyatsiya&rdquo;
+simulado:
+  term: simulado
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - simulated
+    epo:
+    - - simulita
+    spa:
+    - - simulado
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - simula
+    - +
+    - -do
+simulatora:
+  term: simulatora
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - simulator
+    epo:
+    - - simulilo
+    spa:
+    - - simulador
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - simula
+    - +
+    - -tora
 simya:
   term: simya
   word class: b
@@ -183108,6 +183496,47 @@ sinfoni:
       Swahilisa: simfoni
       Telugusa: సింఫొనీ &ldquo;simphonī&rdquo;
       Turkisa: senfoni
+sinfonili:
+  term: sinfonili
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - symphonic
+    epo:
+    - - simfonia
+    spa:
+    - - sinfónico
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - sinfoni
+    - +
+    - -li
+sinfonisim:
+  term: sinfonisim
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - symphonic
+    epo:
+    - - simfonieca
+      - simfonia
+    spa:
+    - - sinfónico
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - sinfoni
+    - +
+    - -sim
 singa:
   term: singa
   word class: b
@@ -183268,6 +183697,27 @@ sinkroniza:
       Rusisa: синхронизация &ldquo;sinhronizatsiya&rdquo;
       Telugusa: సింక్రనైజ్ &ldquo;sinkranayj&rdquo;
       Turkisa: senkronizasyon
+sinkronizado:
+  term: sinkronizado
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - synchonized
+      - synced
+    epo:
+    - - sinkronigita
+    spa:
+    - - sincronizado
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - sinkroniza
+    - +
+    - -do
 sino:
   term: sino
   word class: b
@@ -183380,6 +183830,26 @@ sintesis:
       Pilipinasa: sintesis
       Rusisa: синтез &ldquo;sintez&rdquo;
       Turkisa: sentez, sentetik
+sintesisli:
+  term: sintesisli
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - synthetic
+    epo:
+    - - sinteza
+    spa:
+    - - sintético
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - sintesi
+    - +
+    - -li
 sintoma:
   term: sintoma
   word class: b
@@ -183506,6 +183976,27 @@ siri:
       Parsisa: سر &ldquo;serr&rdquo;
       Swahilisa: siri
       Turkisa: sır
+sirifil:
+  term: sirifil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - secretive
+    epo:
+    - - sekretema
+    spa:
+    - - reservado
+      - secretista
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - siri
+    - +
+    - -fil
 sirili:
   term: sirili
   word class: t
@@ -183826,6 +184317,26 @@ siu:
       Englisa: sew
       Hindi: सीना &ldquo;sīnā&rdquo;, सिलना &ldquo;silnā&rdquo;
       Rusisa: шить &ldquo;&scaron;itʹ&rdquo;
+siudo:
+  term: siudo
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - sewn
+    epo:
+    - - kudrita
+    spa:
+    - - cosido
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - siu
+    - +
+    - -do
 siutora:
   term: siutora
   word class: b
@@ -184577,6 +185088,26 @@ sokutu:
       Arabisa: سقوط &ldquo;sukut&rdquo;
       Parsisa: سقوط &ldquo;sokut&rdquo;
       Turkisa: sukut
+sokutudo:
+  term: sokutudo
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - fallen
+    epo:
+    - - falita
+    spa:
+    - - caído
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - sokutu
+    - +
+    - -do
 sokutugi:
   term: sokutugi
   word class: b.oj
@@ -185090,6 +185621,26 @@ solusi:
       Indonesisa: solut - besolusiente
       Pilipinasa: solusiyon
       Turkisa: sol&uuml;syon
+solusido:
+  term: solusido
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - dissolved
+    epo:
+    - - solvita
+    spa:
+    - - disuelto
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - solusi
+    - +
+    - -do
 solya:
   term: solya
   word class: b
@@ -185391,6 +185942,26 @@ somu:
     natlang:
       Arabisa: ثوم &ldquo;ṯūm&rdquo;, &ldquo;ṯawm&rdquo;, &ldquo;tom&rdquo;
       Swahilisa: saumu
+somupul:
+  term: somupul
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - garlicky
+    epo:
+    - - ajla
+    spa:
+    - - con ajo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - somu
+    - +
+    - -pul
 somuroti:
   term: somuroti
   word class: b
@@ -185503,6 +186074,27 @@ sonzaylogi:
     - sonzay
     - +
     - -logi
+sonzayne:
+  term: sonzayne
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - existing
+      - extant
+    epo:
+    - - ekzistanta
+    spa:
+    - - existente
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - sonzay
+    - +
+    - -ne
 soprano:
   term: soprano
   word class: b
@@ -185967,6 +186559,27 @@ soyo:
     natlang:
       Niponsa: 搔痒 &ldquo;soyo&rdquo;
       Putunhwa: 瘙痒 &ldquo;s&agrave;oyǎng&rdquo;
+soyone:
+  term: soyone
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - itching
+    epo:
+    - - yukiga
+    spa:
+    - - que pica
+      - que siente comezón
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - soyo
+    - +
+    - -ne
 su:
   term: su
   word class: par
@@ -186028,6 +186641,35 @@ submiti:
       Fransesa: soumission, soumettre
       Hindi: सबमिशन &ldquo;sabmixan&rdquo;, सबमिट करें &ldquo;sabmit karen&rdquo;
       Pilipinasa: submission, isumite
+submitido:
+  term: submitido
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - submitted
+    epo:
+    - - submetita
+      - prezentita
+      - proponita
+      - sendita
+    spa:
+    - - entregado
+      - presentado
+      - enviado
+      - sometido
+      - cursado
+      - entablado
+      - declarado
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - submiti
+    - +
+    - -do
 sudan:
   term: Sudan
   word class: su n
@@ -186344,6 +186986,27 @@ suhe:
     natlang:
       Hindi: सूखा &ldquo;suha&rdquo;
       Rusisa: сухой &ldquo;suh&oacute;y&rdquo;
+suhecu:
+  term: suhecu
+  word class: b.nenoj
+  category: derived
+  trans:
+    eng:
+    - - dry
+    epo:
+    - - sekiĝo
+    - - sekiĝi
+    spa:
+    - - secarse
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - suhe
+    - +
+    - -cu
 suhegeo:
   term: suhegeo
   word class: b
@@ -186364,6 +187027,27 @@ suhegeo:
     - suhe
     - +
     - geo
+suhegi:
+  term: suhegi
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - dry
+    epo:
+    - - sekigo
+    - - sekigi
+    spa:
+    - - secar
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - suhe
+    - +
+    - -gi
 suhegras:
   term: suhegras
   word class: b
@@ -186644,6 +187328,26 @@ sukeri:
       Telugusa: చెక్కర &ldquo;cekkara&rdquo;, చక్కెర &ldquo;cakkera&rdquo;, శర్కర
         &ldquo;śarkara&rdquo;
       Turkisa: şeker
+sukeripul:
+  term: sukeripul
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - sugary
+    epo:
+    - - sukera
+    spa:
+    - - azucarado
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - sukeri
+    - +
+    - -pul
 sukerosu:
   term: sukerosu
   word class: b
@@ -186876,6 +187580,27 @@ sulfur:
       Pilipinasa: asupre, sulpura
       Swahilisa: sulfuri, salfa
       Telugusa: సల్ఫర్ &ldquo;salfar&rdquo;
+sulfurli:
+  term: sulfurli
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - sulfuric
+      - sulphuric
+    epo:
+    - - sulfura
+    spa:
+    - - sulfúrico
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - sulfur
+    - +
+    - -li
 suli:
   term: suli
   word class: t
@@ -187831,6 +188556,27 @@ supremmo:
     - suprem
     - +
     - -mo
+supremya:
+  term: supremya
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - supremacy
+    epo:
+    - - plejboneco
+      - supereco
+    spa:
+    - - supremacía
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - suprem
+    - +
+    - -ya
 sura:
   term: sura
   word class: b
@@ -187902,6 +188648,28 @@ surfi:
       Pilipinasa: pagsusurp, surping
       Rusisa: сёрфинг &ldquo;syorfing&rdquo;
       Telugusa: సర్ఫింగ్ &ldquo;sarfing&rdquo;
+surfiyen:
+  term: surfiyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - surfer
+    epo:
+    - - surfisto
+      - surfanto
+    spa:
+    - - surfista
+      - surfero
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - surfi
+    - +
+    - -yen
 suri:
   term: Suri
   word class: su n
@@ -188014,6 +188782,26 @@ surprisaatake:
     - surprisa
     - +
     - atake
+surprisado:
+  term: surprisado
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - surprised
+    epo:
+    - - surprizita
+    spa:
+    - - sorprendido
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - surprisa
+    - +
+    - -do
 susana:
   term: susana
   word class: b
@@ -188585,6 +189373,26 @@ swe:
       Niponsa: 税 &ldquo;ze&rdquo;
       Putunhwa: 税 &ldquo;xwe&rdquo;
       Vyetnamsa: thuế
+swedo:
+  term: swedo
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - taxed
+    epo:
+    - - impostita
+    spa:
+    - - gravado
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - swe
+    - +
+    - -do
 sweri:
   term: Sweri
   word class: su n
@@ -188716,6 +189524,27 @@ swetagi:
     - sweta
     - +
     - -gi
+swetane:
+  term: swetane
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - sweating
+      - perspiring
+    epo:
+    - - ŝvitanta
+    spa:
+    - - sudoroso
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - sweta
+    - +
+    - -ne
 swetapul:
   term: swetapul
   word class: t
@@ -188803,6 +189632,26 @@ swici:
       Pilipinasa: suwits
       Swahilisa: swichi
       Telugusa: స్విచ్చి &ldquo;svitci&rdquo;
+swikaible:
+  term: swikaible
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - acceptable
+    epo:
+    - - akceptinda
+    spa:
+    - - aceptable
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - swikara
+    - +
+    - -ible
 swikara:
   term: swikara
   word class: b.oj
@@ -188825,6 +189674,26 @@ swikara:
     natlang:
       Hindi: स्वीकार &ldquo;sveekaar&rdquo;
       Karnatakasa: ಸ್ವೀಕಾರ &ldquo;svīkāra&rdquo;
+swikarado:
+  term: swikarado
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - accepted
+    epo:
+    - - akceptita
+    spa:
+    - - aceptado
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - swikara
+    - +
+    - -do
 swikaranenible:
   term: swikaranenible
   word class: t
@@ -189154,6 +190023,29 @@ syahemo:
     - syahe
     - +
     - -mo
+syaheya:
+  term: syaheya
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - blackness
+      - black color
+      - color black
+    epo:
+    - - nigro
+    spa:
+    - - (el color) negro
+      - negrura
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - syahe
+    - +
+    - -ya
 syensi:
   term: syensi
   word class: b
@@ -189200,6 +190092,28 @@ syensili:
     - syensi
     - +
     - -li
+syensipul:
+  term: syensipul
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - scientific
+      - scientifically
+    epo:
+    - - scienca
+    - - science
+    spa:
+    - - científico
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - syensi
+    - +
+    - -pul
 syensiyen:
   term: syensiyen
   word class: b
@@ -210651,12 +211565,19 @@ xorsen:
     epo:
     - - iĝo
     - - iĝi
-    spa: []
+    spa:
+    - - hacerse
+      - volverse
+      - convertirse (en)
     deu: []
     fra: []
     rus: []
     zho: []
-  etymology: ""
+  etymology:
+    derived:
+    - xor-
+    - +
+    - sen
 xorside:
   term: xorside
   word class: b.nenoj
