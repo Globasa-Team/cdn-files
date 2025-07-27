@@ -1096,7 +1096,8 @@
     - - patología (<em>conjunto de síntomas</em>)
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - -оз
     zho: []
   etymology:
     am oko:
@@ -1822,7 +1823,10 @@ abruto:
       - auf einmal
       - jäh
     fra:
+    - - soudain
+      - brusque
     - - soudainement
+      - brusquement
     rus:
     - - вдруг
     zho:
@@ -1850,7 +1854,9 @@ abrutoya:
     deu:
     - - Plötzlichkeit
       - Abruptheit
-    fra: []
+    fra:
+    - - soudaineté
+      - brusquerie
     rus: []
     zho: []
   etymology:
@@ -1970,8 +1976,10 @@ absorbine:
     - - absorbente
       - hidrófilo
     deu: []
-    fra: []
-    rus: []
+    fra:
+    - - absorbant
+    rus:
+    - - абсорбирующий
     zho: []
   etymology:
     derived:
@@ -2136,7 +2144,8 @@ acidi:
     deu: []
     fra:
     - - acide
-    rus: []
+    rus:
+    - - кислота
     zho: []
   etymology:
     natlang:
@@ -2232,8 +2241,13 @@ acidipul:
     - - agrio
       - ácido
     deu: []
-    fra: []
-    rus: []
+    fra:
+    - - acide
+      - aigre
+    rus:
+    - - кислый
+      - кислотный
+      - едкий
     zho: []
   etymology:
     derived:
@@ -2282,8 +2296,11 @@ acidiya:
     deu: []
     fra:
     - - acidité
-    rus: []
-    zho: []
+    rus:
+    - - кислотность
+    zho:
+    - - 酸性
+      - 酸度
   etymology:
     derived:
     - acidi
@@ -2314,7 +2331,9 @@ acum:
     rus:
     - - чиханье
     - - чихать
-    zho: []
+    zho:
+    - - 喷嚏
+    - - 打喷嚏
   etymology:
     kwasilexi:
       Arabisa: عَطْسَةٌ &ldquo;atsatun&rdquo;
@@ -2370,7 +2389,9 @@ adabu:
       - cordialidad
       - afabilidad
     deu: []
-    fra: []
+    fra:
+    - - politesse
+      - courtoisie
     rus: []
     zho: []
   etymology:
@@ -2399,7 +2420,9 @@ adabufil:
       - cortés
       - amable
     deu: []
-    fra: []
+    fra:
+    - - poli
+      - courtois
     rus: []
     zho: []
   etymology:
@@ -2425,7 +2448,9 @@ adabukal:
     - - descortésmente
       - groseramente
     deu: []
-    fra: []
+    fra:
+    - - impoli
+      - discourtois
     rus: []
     zho: []
   etymology:
@@ -2450,7 +2475,9 @@ adabukalya:
       - indecencia
       - rudeza
     deu: []
-    fra: []
+    fra:
+    - - impolitesse
+      - discourtoisie
     rus: []
     zho: []
   etymology:
@@ -2478,7 +2505,9 @@ adabunenfil:
     - - descortésmente
       - groseramente
     deu: []
-    fra: []
+    fra:
+    - - poli
+      - courtois
     rus: []
     zho: []
   etymology:
@@ -2508,7 +2537,9 @@ adabupul:
       - correcto
     - - cortésmente
     deu: []
-    fra: []
+    fra:
+    - - poli
+      - courtois
     rus: []
     zho: []
   etymology:
@@ -2564,9 +2595,12 @@ adasi:
     spa:
     - - lenteja
       - <em>Lens culinaris</em>
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Linse
+    fra:
+    - - lentille (<em>graine</em>)
+    rus:
+    - - чечевица
     zho: []
   etymology:
     natlang:
@@ -2586,7 +2620,8 @@ adasisupa:
     - - sopa de lentejas
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - чечевичный суп
     zho: []
   etymology:
     derived:
@@ -2966,7 +3001,9 @@ adola:
     deu: []
     fra:
     - - muscle
-    rus: []
+    rus:
+    - - мышца
+      - мускул
     zho: []
   etymology:
     natlang:
@@ -3196,13 +3233,15 @@ adrenalin:
     spa:
     - - adrenalina
       - epinefrina
-    deu: []
+    deu:
+    - - Adrenalin
     fra:
     - - adrénaline
     rus:
     - - адреналин
       - эпинефрин
-    zho: []
+    zho:
+    - - 肾上腺素
   etymology:
     natlang:
       Arabisa: أَدْرِينَالِين&lrm; &ldquo;ʾadrīnālīn&rdquo;
@@ -3626,9 +3665,12 @@ afrikayen:
     - - afrikano
     spa:
     - - africano (<em>persona</em>)
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Afrikaner
+    fra:
+    - - Africain
+    rus:
+    - - африканец
     zho: []
   etymology:
     derived:
@@ -3648,10 +3690,12 @@ afsane:
     - - leyenda
     deu:
     - - Legende
-    fra: []
+    fra:
+    - - légende
     rus:
     - - легенда
-    zho: []
+    zho:
+    - - 传说
   etymology:
     natlang:
       Hindi: अफ़्साना &ldquo;afsana&rdquo;
@@ -3670,7 +3714,8 @@ afsaneli:
     spa:
     - - legendario
     deu: []
-    fra: []
+    fra:
+    - - légendaire
     rus:
     - - легендарный
     zho: []
@@ -3699,9 +3744,11 @@ agil:
       - geschmeidig
       - flink
       - agil
-    fra: []
+    fra:
+    - - agile
     rus: []
-    zho: []
+    zho:
+    - - 敏捷
   etymology:
     natlang:
       Doycisa: agil
@@ -3720,8 +3767,12 @@ agilya:
     - - facilmoveco
     spa:
     - - agilidad
-    deu: []
-    fra: []
+    deu:
+    - - Beweglichkeit
+      - Agilität
+      - Wendigkeit
+    fra:
+    - - agilité
     rus: []
     zho: []
   etymology:
@@ -3740,11 +3791,14 @@ agustin:
     - - Aŭgusteno
     spa:
     - - A(u)gustín
-    deu: []
-    fra: []
+    deu:
+    - - Augustinus
+    fra:
+    - - Augustin
     rus:
     - - Августин
-    zho: []
+    zho:
+    - - 奥古斯丁
   etymology:
     natlang:
       Arabisa: أوغسطينوس &ldquo;Awghustinus&rdquo;
@@ -3775,11 +3829,14 @@ ahab:
     spa:
     - - Acab
       - Ajab
-    deu: []
-    fra: []
+    deu:
+    - - Ahab
+    fra:
+    - - Achab
     rus:
     - - Ахав
-    zho: []
+    zho:
+    - - 亚哈
   etymology:
     natlang:
       Arabisa: أَخْآبُ &ldquo;Ahab&rdquo;
@@ -4152,11 +4209,14 @@ akaci:
       - moruro
       - guaje
       - <em>Acacia</em>
-    deu: []
-    fra: []
+    deu:
+    - - Akazie
+    fra:
+    - - acacia
     rus:
     - - акация
-    zho: []
+    zho:
+    - - 相思树
   etymology:
     natlang:
       Arabisa: أَقَاقِيَا &ldquo;aqaqiya&rdquo;
@@ -4184,11 +4244,15 @@ akade:
     - - Akado
     spa:
     - - Acad(ia)
-    deu: []
-    fra: []
+    deu:
+    - - Akkad
+    fra:
+    - - Akkad
     rus:
     - - Аккад
-    zho: []
+    zho:
+    - - 阿卡德
+      - 阿加德
   etymology:
     natlang:
       Akadesa: "\U00012000\U000120B5\U00012248\U000121A0 &ldquo;Akade&rdquo;"
@@ -4203,8 +4267,10 @@ akademi:
     - - akademio
     spa:
     - - academia
-    deu: []
-    fra: []
+    deu:
+    - - Akademie
+    fra:
+    - - académie
     rus:
     - - академия
     zho: []
@@ -4239,8 +4305,10 @@ akademili:
     spa:
     - - académico
     - - académicamente
-    deu: []
-    fra: []
+    deu:
+    - - akademisch
+    fra:
+    - - académique
     rus:
     - - академический
     zho: []
@@ -4262,11 +4330,16 @@ akere:
     spa:
     - - acre (<em>unidad de área</em>)
       - ac
-    deu: []
-    fra: []
+    deu:
+    - - Morgen
+      - Acker
+      - Joch (Landes)
+    fra:
+    - - acre
     rus:
     - - акр
-    zho: []
+    zho:
+    - - 英亩
   etymology:
     natlang:
       Arabisa: آكِر &ldquo;akir&rdquo;
@@ -4317,10 +4390,14 @@ akiku:
     - - agato
     spa:
     - - ágata
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Achat
+    fra:
+    - - agate
+    rus:
+    - - агат
+    zho:
+    - - 玛瑙
   etymology:
     natlang:
       Arabisa: عقيق &ldquo;akik&rdquo;
@@ -4339,17 +4416,21 @@ akile:
     - - Aĥilo
     spa:
     - - Aquiles
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Achilleus
+    fra:
+    - - Achille
+    rus:
+    - - Ахилл
+    zho:
+    - - 阿基里斯
   etymology:
     natlang:
       Arabisa: أخيل &quot;Ahil&quot;
       Doycisa: Achilleus
       Englisa: Achilles
       Espanisa: Aquiles
-      Fransesa: Achille &quot;Axil&quot;
+      Fransesa: Achille
       Hindi: अकिलीज़ &quot;Akiliz&quot;
       Indonesisa: Akhillles, Achilles
       Italisa: Achille
@@ -4391,9 +4472,13 @@ akiletendon:
     - - aĥila tendono
     spa:
     - - tendón de Aquiles
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Achillessehne
+    fra:
+    - - tendon d’Achille
+    rus:
+    - - ахиллово сухожилие
+      - пяточное сухожилие
     zho: []
   etymology:
     derived:
@@ -4412,11 +4497,15 @@ akne:
       - akno(j)
     spa:
     - - acné
-    deu: []
-    fra: []
+    deu:
+    - - Akne
+    fra:
+    - - acné
     rus:
     - - акне
-    zho: []
+    zho:
+    - - 痤疮
+      - 粉刺
   etymology:
     natlang:
       Doycisa: Akne
@@ -4492,8 +4581,12 @@ akonto:
       - registro
     deu:
     - - Konto
-    fra: []
-    rus: []
+    fra:
+    - - compte
+    rus:
+    - - учётная запись
+      - аккаунт
+      - счёт
     zho: []
   etymology:
     natlang:
@@ -4518,8 +4611,10 @@ akorde:
     - - akordo (<em>muziko</em>)
     spa:
     - - acorde (<em>música</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Akkord
+    fra:
+    - - accord
     rus:
     - - аккорд
     zho: []
@@ -4545,9 +4640,13 @@ akordyon:
     - - akordiono
     spa:
     - - acordeón
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Akkordeon
+    fra:
+    - - accordéon
+    rus:
+    - - аккордеон
+      - гармоника
     zho: []
   etymology:
     natlang:
@@ -4581,8 +4680,10 @@ akran:
     - - escorpión
       - alacrán
       - <em>Scorpiones</em>
-    deu: []
-    fra: []
+    deu:
+    - - Skorpion
+    fra:
+    - - скорпион
     rus:
     - - скорпион
     zho:
@@ -41166,6 +41267,7 @@ demomorgi:
   trans:
     eng:
     - - genocide
+      - democide
     - - commit genocide (against)
     epo:
     - - genocido
@@ -41173,6 +41275,7 @@ demomorgi:
     - - gentomurdi
     spa:
     - - genocidio
+      - democidio
     - - cometer genocidio (contra)
     deu: []
     fra: []
@@ -51245,7 +51348,8 @@ embasidom:
     - - embajada
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - посольство
     zho: []
   etymology:
     derived:
@@ -89517,7 +89621,8 @@ insakfu:
       - techo (internal)
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - потолок
     zho: []
   etymology:
     derived:
@@ -139289,10 +139394,16 @@ mongusta:
     spa:
     - - mangosta
       - <em>Herpestidae</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Manguste
+      - Mungo
+    fra:
+    - - mangouste
+    rus:
+    - - мангуст
+    zho:
+    - - 獴
+      - 猫鼬
   etymology:
     natlang:
       Doycisa: Manguste
@@ -139303,6 +139414,7 @@ mongusta:
       Niponsa: マングース &ldquo;mangusu&rdquo;
       Pilipinasa: mongoose
       Putunhwa: 獴 &ldquo;meng&rdquo;
+      Rusisa: мангуст &ldquo;mangust&rdquo;
       Telugusa: ముంగిస &ldquo;mungisa&rdquo;
       Vyetnamsa: mangut
 monhare:
@@ -139421,11 +139533,14 @@ monika:
     - - Monika
     spa:
     - - Mónica
-    deu: []
-    fra: []
+    deu:
+    - - Monika
+    fra:
+    - - Monique
     rus:
     - - Моника
-    zho: []
+    zho:
+    - - 莫妮卡
   etymology:
     natlang:
       Arabisa: مونيكا &ldquo;Munika&rdquo;
@@ -139507,10 +139622,16 @@ monmaku:
     - - retino
     spa:
     - - retina
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Netzhaut
+      - Retina
+    fra:
+    - - rétine
+    rus:
+    - - сетчатка
+      - ретина
+    zho:
+    - - 视网膜
   etymology:
     natlang:
       Koreasa: 망막 &ldquo;mangmak&rdquo;
@@ -139701,10 +139822,14 @@ morela:
       - morilla
       - múrgol
       - <em>Morchella</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Morchel
+    fra:
+    - - morille
+    rus:
+    - - сморчок
+    zho:
+    - - 羊肚菌
   etymology:
     natlang:
       Doycisa: Morchel
@@ -139724,10 +139849,15 @@ morfin:
     - - morfino
     spa:
     - - morfina
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Morphin
+      - Morphium
+    fra:
+    - - morphine
+    rus:
+    - - морфий
+    zho:
+    - - 吗啡
   etymology:
     natlang:
       Arabisa: مُورْفِين &ldquo;murfin&rdquo;
@@ -139754,7 +139884,8 @@ morfo:
   category: root
   trans:
     eng:
-    - - morphology (<em>biological or linguistic form and structure</em>)
+    - - morphology (<em>biological, geological, mathematical, or linguistic form and
+        structure</em>)
       - inflection
       - conjugation
       - declension
@@ -139776,10 +139907,38 @@ morfo:
       - conjugación
     - - declinar
       - conjugar
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Morphologie
+      - Flexion
+      - Beugung
+      - Biegung
+      - Deklination
+      - Konjugation
+    - - flektieren
+      - beugen
+      - deklinieren
+      - konjugieren
+    fra:
+    - - morphologie
+      - flexion
+      - conjugaison
+      - déclinaison
+    - - infléchir
+      - conjuguer
+      - décliner
+    rus:
+    - - морфология
+      - флексия
+      - окончание
+      - спряжение
+      - склонение
+    - - спрягать
+      - склонить
+    zho:
+    - - 形态
+      - 词形变化
+      - 变位
+      - 变格
   etymology:
     natlang:
       Arabisa: مُورْفُولُوجِيَا &ldquo;murfulujiya&rdquo;
@@ -139809,10 +139968,15 @@ morfomon:
     - - morfema
       - monema
       - formante
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Morphem
+    fra:
+    - - morphème
+    rus:
+    - - морфема
+    zho:
+    - - 词素
+      - 语素
   etymology:
     derived:
     - morfo
@@ -139926,14 +140090,21 @@ morjismu:
     eng:
     - - corpse
       - cadaver
+      - dead body
     epo:
     - - kadavro
     spa:
     - - cadáver
-    deu: []
-    fra: []
+    deu:
+    - - Leiche
+      - Leichnam
+    fra:
+    - - cadavre
+      - corps (sans vie)
     rus: []
-    zho: []
+    zho:
+    - - 尸体
+      - 躯体
   etymology:
     derived:
     - mor
@@ -139954,7 +140125,8 @@ mormon:
     fra: []
     rus:
     - - Мормон
-    zho: []
+    zho:
+    - - 摩爾門
   etymology:
     natlang:
       Arabisa: مورمون &ldquo;Murmun&rdquo;
@@ -139985,10 +140157,14 @@ mormonismo:
     - - Mormonismo
     spa:
     - - mormonismo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Mormonentum
+    fra:
+    - - mormonisme
+    rus:
+    - - мормонизм
+    zho:
+    - - 摩尔门教
   etymology:
     derived:
     - Mormon
@@ -140005,10 +140181,14 @@ morse:
     - - Morso
     spa:
     - - Morse
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Morse
+    fra:
+    - - Morse
+    rus:
+    - - Морзе
+    zho:
+    - - 摩尔斯
   etymology:
     natlang:
       Arabisa: مورس &quot;Mors&quot;
@@ -140021,7 +140201,7 @@ morse:
       Koreasa: 모스 &quot;Mosu&quot;
       Niponsa: モールス &quot;Morusu&quot;
       Parsisa: مورس &quot;Mors&quot;
-      Putunhwa: 摩尔斯 &quot;Moersi&quot;
+      Putunhwa: 摩尔斯 &quot;Mwoersi&quot;
       Rusisa: Морзе &quot;Morze&quot;
       Swahilisa: Morse
       Telugusa: మోర్స్ &quot;Mors&quot;
@@ -140082,9 +140262,13 @@ mosaiko:
     - - mosaico
     deu:
     - - Mosaik
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - mosaïque
+    rus:
+    - - мозаика
+    zho:
+    - - 马赛克
+      - 码
   etymology:
     natlang:
       Doycisa: Mosaik
@@ -140112,11 +140296,16 @@ mose:
     - - Moseo
     spa:
     - - Moisés
-    deu: []
-    fra: []
+    deu:
+    - - Mose
+      - Moses
+    fra:
+    - - Moisés
     rus:
     - - Моисей
-    zho: []
+    zho:
+    - - 摩西
+      - 梅瑟
   etymology:
     natlang:
       Arabisa: مُوسَى &ldquo;Musa&rdquo;
@@ -140148,10 +140337,15 @@ mosem:
     spa:
     - - estación
       - temporada
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Saison
+    fra:
+    - - saison
+    rus:
+    - - сезон
+      - время года
+    zho:
+    - - 时节
   etymology:
     natlang:
       Arabisa: موسم &ldquo;mawsim&rdquo;
@@ -140173,10 +140367,14 @@ moskovyum:
     spa:
     - - moscovio
       - Mc
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Moscovium
+    fra:
+    - - Moscovium
+    rus:
+    - - московий
+    zho:
+    - - 镆
   etymology:
     natlang:
       Arabisa: موسكوفيوم &ldquo;muskufyum&rdquo;
@@ -140352,9 +140550,15 @@ motor:
     - - motoro
     spa:
     - - motor
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Motor
+      - Triebwerk
+      - Antrieb
+    fra:
+    - - moteur
+    rus:
+    - - мотор
+      - двигатель
     zho: []
   etymology:
     natlang:
@@ -140706,10 +140910,14 @@ moyjensifil:
     - - ĉiusekseme
     spa:
     - - pansexual
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - pansexuell
+    fra:
+    - - pansexuel
+    rus:
+    - - пансексуальный
+    zho:
+    - - 泛性恋的
   etymology:
     derived:
     - moy-
@@ -140728,10 +140936,14 @@ moyjensifilya:
     - - ĉiuseksemo
     spa:
     - - pansexualidad
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Pansexualität
+    fra:
+    - - pansexualité
+    rus:
+    - - пансексуальность
+    zho:
+    - - 泛性恋
   etymology:
     derived:
     - moy-
@@ -141127,11 +141339,14 @@ mozambiki:
     - - Mozambiko
     spa:
     - - Mozambique
-    deu: []
-    fra: []
+    deu:
+    - - Mosambik
+    fra:
+    - - Mozambique
     rus:
     - - Мозамбик
-    zho: []
+    zho:
+    - - 莫桑比克
   etymology:
     natlang:
       Cewasa: Mozambiki
@@ -141148,10 +141363,15 @@ mubile:
     - - meblo
     spa:
     - - mueble
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Möbel(stück)
+    fra:
+    - - meuble
+    rus:
+    - - мебель
+      - предмет мебели
+    zho:
+    - - (一件)家具
   etymology:
     natlang:
       Doycisa: M&ouml;bel
@@ -141174,10 +141394,16 @@ mubilelari:
     spa:
     - - mobiliario
       - muebles
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Mobiliar
+      - Möbel
+    fra:
+    - - mobilier
+      - meubles
+    rus:
+    - - мебель
+    zho:
+    - - 家具
   etymology:
     derived:
     - mubile
@@ -141195,10 +141421,15 @@ mudan:
     spa:
     - - peonía
       - <em>Paeonia</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Pfingstrose
+      - Päonie
+    fra:
+    - - pivoine
+    rus:
+    - - пион
+    zho:
+    - - 牡丹
   etymology:
     natlang:
       Indonesisa: botan
@@ -141222,10 +141453,16 @@ mufin:
       - cubilete
       - queque
       - <em>muffin</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Muffin
+    fra:
+    - - muffin
+    rus:
+    - - маффин
+    zho:
+    - - 瑪芬
+      - 松饼
+      - 满福堡
   etymology:
     natlang:
       Arabisa: مافن &ldquo;mafin&rdquo;
@@ -141257,10 +141494,14 @@ mugunge:
     - - hibisco
       - (flor de) jamaica
       - <em>Hibiscus</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hibiskus
+    fra:
+    - - hibiscus
+    rus:
+    - - гибискус
+    zho:
+    - - 木槿
   etymology:
     natlang:
       Koreasa: 무궁화 &ldquo;mugunghwa&rdquo;
@@ -141280,9 +141521,12 @@ muhatu:
       - mucosidad
     deu:
     - - Schleim
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - mucus
+    rus:
+    - - слизь
+    zho:
+    - - 黏液
   etymology:
     natlang:
       Arabisa: مُخَاط &ldquo;muhat&rdquo;
@@ -141347,8 +141591,10 @@ muhimya:
     - - matter
     epo:
     - - graveco
+    - - gravi
     spa:
     - - importancia
+    - - importar
     deu: []
     fra: []
     rus: []
@@ -164366,7 +164612,8 @@ populerya:
     - - pupularidad
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - популярность
     zho: []
   etymology:
     derived:
@@ -169581,7 +169828,9 @@ radyaya:
     - - radiación
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - излучение
+      - радиация
     zho: []
   etymology:
     derived:
@@ -170638,7 +170887,8 @@ raxwaya:
       - cohecho
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - взяточничество
     zho: []
   etymology:
     derived:
@@ -173806,7 +174056,8 @@ royayen:
     - - soñador
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - мечтатель
     zho: []
   etymology:
     derived:
@@ -174167,7 +174418,8 @@ rugbiyen:
       - rugbier
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - регбист
     zho: []
   etymology:
     derived:
@@ -174241,7 +174493,9 @@ ruholi:
     - - espiritual
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - духовный
+    - - духовно
     zho: []
   etymology:
     derived:
@@ -189632,26 +189886,6 @@ swici:
       Pilipinasa: suwits
       Swahilisa: swichi
       Telugusa: స్విచ్చి &ldquo;svitci&rdquo;
-swikaible:
-  term: swikaible
-  word class: t
-  category: derived
-  trans:
-    eng:
-    - - acceptable
-    epo:
-    - - akceptinda
-    spa:
-    - - aceptable
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-  etymology:
-    derived:
-    - swikara
-    - +
-    - -ible
 swikara:
   term: swikara
   word class: b.oj
@@ -189694,6 +189928,26 @@ swikarado:
     - swikara
     - +
     - -do
+swikaraible:
+  term: swikaraible
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - acceptable
+    epo:
+    - - akceptinda
+    spa:
+    - - aceptable
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - swikara
+    - +
+    - -ible
 swikaranenible:
   term: swikaranenible
   word class: t
@@ -190107,7 +190361,9 @@ syensipul:
     - - científico
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - научный
+    - - научно
     zho: []
   etymology:
     derived:
