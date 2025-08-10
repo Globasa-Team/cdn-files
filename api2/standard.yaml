@@ -1475,7 +1475,8 @@ ababil:
     - - golondrina
       - avión
       - <em>Hirundinidae</em>
-    deu: []
+    deu:
+    - - Schwalbe
     fra:
     - - hirondelle
       - martinet
@@ -1483,7 +1484,8 @@ ababil:
     rus:
     - - ласточка
       - Ласточковые
-    zho: []
+    zho:
+    - - 燕子
   etymology:
     natlang:
       Hindi: अबाबील &ldquo;ababil&rdquo;
@@ -5115,8 +5117,10 @@ albatros:
     - - albatros
       - alcatraz
       - <em>Diomedeidae</em>
-    deu: []
-    fra: []
+    deu:
+    - - Albatros
+    fra:
+    - - albatros
     rus:
     - - альбатрос
     zho:
@@ -5423,11 +5427,14 @@ aligator:
       - caimán
       - yacaré
       - <em>Alligator</em>
-    deu: []
-    fra: []
+    deu:
+    - - Alligator
+    fra:
+    - - alligator
     rus:
     - - аллигатор
-    zho: []
+    zho:
+    - - 短吻鳄
   etymology:
     natlang:
       Arabisa: قَاطُور &ldquo;katur&rdquo;
@@ -6567,12 +6574,15 @@ alondra:
       - cotovía
       - totovía
       - <em>Alaudidae</em>
-    deu: []
-    fra: []
+    deu:
+    - - Lerche
+    fra:
+    - - alouette
     rus:
     - - жаворонок
       - Жаворонковые
-    zho: []
+    zho:
+    - - 云雀
   etymology:
     natlang:
       Espanisa: alondra
@@ -6927,11 +6937,14 @@ alpaka:
     spa:
     - - alpaca
       - <em>Lama pacos</em>
-    deu: []
-    fra: []
+    deu:
+    - - Alpaka
+    fra:
+    - - alpaga
     rus:
     - - альпака
-    zho: []
+    zho:
+    - - 羊驼
   etymology:
     natlang:
       Arabisa: أَلْبَكَة &ldquo;albaka&rdquo;
@@ -8250,11 +8263,15 @@ anakonda:
       - sucurí
       - güío
       - <em>Eunectes</em>
-    deu: []
-    fra: []
+    deu:
+    - - Anakonda
+    fra:
+    - - anaconda
     rus:
     - - анаконда
-    zho: []
+    zho:
+    - - 森蚺
+      - 大水蟒
   etymology:
     natlang:
       Arabisa: أَنَاكُنْدَة &ldquo;anakonda&rdquo;
@@ -8637,11 +8654,16 @@ ancovi:
       - boquerón
       - bocarte
       - <em>Engraulidae</em>
-    deu: []
-    fra: []
+    deu:
+    - - Sardelle
+    fra:
+    - - anchois
     rus:
     - - анчоус
-    zho: []
+    zho:
+    - - 鳀鱼
+      - 江鱼仔
+      - 小公鱼
   etymology:
     natlang:
       Arabisa: أَنْشُوفة &ldquo;anxufa&rdquo;
@@ -9558,11 +9580,14 @@ antelope:
     spa:
     - - antílope
       - <em>Bovidae</em> (<em>excepto Bovini y Caprinae</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Antilope
+    fra:
+    - - antilope
     rus:
     - - антилопа
-    zho: []
+    zho:
+    - - 羚羊
   etymology:
     natlang:
       Doycisa: Antilope
@@ -10601,6 +10626,67 @@ arafura:
       Swahilisa: Arafura
       Turkisa: Arafura
       Vyetnamsa: Arafura
+aram:
+  term: Aram
+  word class: su n
+  category: proper word
+  trans:
+    eng:
+    - - Aram
+    epo:
+    - - Arameujo
+      - Arameio
+    spa:
+    - - Aram
+    deu:
+    - - Aram
+    fra:
+    - - Aram
+    rus:
+    - - Арам
+    zho:
+    - - 亚兰
+  etymology:
+    natlang:
+      Arabisa: آرام &ldquo;Aram&rdquo;
+      Doycisa: Aram
+      Englisa: Aram
+      Espanisa: Aram
+      Fransesa: Aram
+      Indonesisa: Aram
+      Koreasa: 아람 &ldquo;Aram&rdquo;
+      Niponsa: アラム &ldquo;Aramu&rdquo;
+      Parsisa: آرام &ldquo;Aram&rdquo;
+      Putunhwa: 亚兰 &ldquo;Yalan&rdquo;
+      Rusisa: Арам &ldquo;Aram&rdquo;
+      Swahilisa: Aramu
+      'Turkisa:': Aram
+      Vyetnamsa: Aram
+aramsa:
+  term: Aramsa
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - Aramaic
+    epo:
+    - - la aramea (lingvo)
+    spa:
+    - - (idioma) arameo
+    deu:
+    - - Aramäisch
+    fra:
+    - - (langue) araméen
+    rus:
+    - - арамейский язык
+    zho:
+    - - 阿拉姆语
+      - 亚兰文
+  etymology:
+    derived:
+    - Aram
+    - +
+    - -sa
 arcivo:
   term: arcivo
   word class: b.oj
@@ -11150,11 +11236,14 @@ armadilo:
     spa:
     - - armadillo
       - <em>Cingulata</em>
-    deu: []
-    fra: []
+    deu:
+    - - Gürteltier
+    fra:
+    - - tatou
     rus:
     - - броненосец (<em>животное</em>)
-    zho: []
+    zho:
+    - - 犰狳
   etymology:
     natlang:
       Englisa: armadillo
@@ -11805,11 +11894,14 @@ artropeda:
     spa:
     - - artrópodo
       - <em>Arthropoda</em>
-    deu: []
-    fra: []
+    deu:
+    - - Gliederfüßer
+    fra:
+    - - arthropode
     rus:
     - - членистоногое
-    zho: []
+    zho:
+    - - 节肢动物
   etymology:
     derived:
     - artro
@@ -15263,6 +15355,42 @@ axkemon:
     - axke
     - +
     - -mon
+axkenazi:
+  term: Axkenazi
+  word class: su t
+  category: proper word
+  trans:
+    eng:
+    - - Ashkenazi
+      - Ashkenazic
+    epo:
+    - - aŝkenaza
+    spa:
+    - - asquenazí
+    deu:
+    - - aschkenasisch
+    fra:
+    - - ashkénaze
+    rus:
+    - - ашкеназский
+    zho:
+    - - 阿什肯纳兹
+  etymology:
+    natlang:
+      Arabisa: أَشْكِنَازِيّ &ldquo;Axkinaziy&rdquo;
+      Doycisa: aschkenasisch
+      Englisa: Ashkenazi
+      Espanisa: asquenaz&iacute;
+      Fransesa: ashk&eacute;naze
+      Hindi: अश्केनाज़ी &ldquo;Axkenazi&rdquo;
+      Indonesisa: Ashkenazi
+      Koreasa: 아슈케나즈 &ldquo;Axukenaju&rdquo;
+      Niponsa: アシュケナジム &ldquo;Axukenajimu&rdquo;
+      Parsisa: اشکنازی
+      Putunhwa: 阿什肯纳兹 &ldquo;Axenkennazi&rdquo;
+      Rusisa: ашкеназский &ldquo;axenazskiy&rdquo;
+      Turkisa: Aşkenazi
+      Vyetnamsa: Người Do Th&aacute;i Ashkenazi
 axolotle:
   term: axolotle
   word class: b
@@ -15276,11 +15404,16 @@ axolotle:
     spa:
     - - ajolote
       - <em>Ambystoma mexicanum</em>
-    deu: []
-    fra: []
+    deu:
+    - - Axolotl
+    fra:
+    - - axolotl
     rus:
     - - аксолотль
-    zho: []
+    zho:
+    - - 墨西哥钝口螈
+      - 美西螈
+      - 六角恐龙
   etymology:
     natlang:
       Doycisa: Axolotl
@@ -15922,12 +16055,15 @@ babun:
     - - babuino
       - papión
       - <em>Papio</em>
-    deu: []
-    fra: []
+    deu:
+    - - Pavian
+    fra:
+    - - babouin
     rus:
     - - павиан
       - бабуин
-    zho: []
+    zho:
+    - - 狒狒
   etymology:
     natlang:
       Arabisa: بَابُون &ldquo;babun&rdquo;
@@ -15953,11 +16089,14 @@ babur:
     spa:
     - - tigre
       - <em>Panthera tigris</em>
-    deu: []
-    fra: []
+    deu:
+    - - Tiger
+    fra:
+    - - tigre
     rus:
     - - тигр
-    zho: []
+    zho:
+    - - 老虎
   etymology:
     natlang:
       Arabisa: ببر &ldquo;babr&rdquo;, بُبُور&lrm; &ldquo;bubur&rdquo;
@@ -16152,7 +16291,7 @@ badowin:
       Englisa: bedouin
       Espanisa: beduino
       Fransesa: B&eacute;douin
-      Hindi: बेडुइन  &ldquo;beduin&rdquo;, बद्दू  &ldquo;baddū&rdquo;
+      Hindi: बेडुइन &ldquo;beduin&rdquo;, बद्दू &ldquo;baddū&rdquo;
       Indonesisa: badui
       Koreasa: 베두인 &ldquo;bedu&#039;in&rdquo;
       Niponsa: ベドウィン &ldquo;bedowin&rdquo;
@@ -16211,11 +16350,17 @@ bagala:
     spa:
     - - mula
       - <em>Equus africanus asinus♂</em> × <em>Equus ferus caballus♀</em>
-    deu: []
-    fra: []
+    deu:
+    - - Maultier
+      - Muli
+    fra:
+    - - mule
+      - mulet
     rus:
     - - мул
-    zho: []
+    zho:
+    - - 骡子
+      - 马骡
   etymology:
     natlang:
       Arabisa: بغل &ldquo;bagl&rdquo;
@@ -16497,11 +16642,14 @@ bahariestare:
     spa:
     - - estrella de mar
       - <em>Asteroidea</em>
-    deu: []
-    fra: []
+    deu:
+    - - Seestern
+    fra:
+    - - étoile de mer
     rus:
     - - морские звёзды
-    zho: []
+    zho:
+    - - 海星
   etymology:
     derived:
     - bahari
@@ -16574,11 +16722,14 @@ baharikacupa:
     spa:
     - - tortuga marina
       - <em>Chelonioidea</em>
-    deu: []
-    fra: []
+    deu:
+    - - Meeresschildkröte
+    fra:
+    - - tortue marine
     rus:
     - - морские черепахи
-    zho: []
+    zho:
+    - - 海龟
   etymology:
     derived:
     - bahari
@@ -16781,15 +16932,24 @@ bakalao:
     spa:
     - - bacalao
       - <em>Gadus</em>
-    deu: []
-    fra: []
+    deu:
+    - - Dorsch
+      - Kabeljau
+    fra:
+    - - morue
+      - cabillaud
     rus:
     - - треска
-    zho: []
+    zho:
+    - - 鳕鱼
   etymology:
     natlang:
+      Arabisa: بَقَلَة &ldquo;baqala&rdquo;
       Espanisa: bacalao
       Pilipinasa: bakalaw
+    natlang similar:
+      Doycisa: Kabeljau
+      Fransesa: cabillaud
 bakugamon:
   term: bakugamon
   word class: b
@@ -16995,11 +17155,19 @@ balangu:
       - burra
       - sanagustín
       - <em>Caelifera</em>
-    deu: []
-    fra: []
+    deu:
+    - - Heuschrecke
+      - Grashüpfer
+    fra:
+    - - criquet
+      - locuste
+      - orthoptère
     rus:
     - - кузнечик
-    zho: []
+    zho:
+    - - 蚱蜢
+      - 蝗虫
+      - 蚂蚱
   etymology:
     natlang:
       Indonesisa: belalang
@@ -17144,12 +17312,15 @@ balena:
     spa:
     - - ballena
       - <em>Cetacea</em>
-    deu: []
-    fra: []
+    deu:
+    - - Wal
+    fra:
+    - - baleine
     rus:
     - - кит
       - Китообразные
-    zho: []
+    zho:
+    - - 鲸鱼
   etymology:
     natlang:
       Englisa: baleen
@@ -17640,11 +17811,16 @@ bandekutu:
     spa:
     - - bandicut
       - <em>Peramelidae</em>
-    deu: []
-    fra: []
+    deu:
+    - - Nasenbeutler
+      - Beuteldachs
+    fra:
+    - - péramélidé
+      - bandicoot
     rus:
     - - бандикут
-    zho: []
+    zho:
+    - - 袋狸
   etymology:
     natlang:
       Arabisa: بَنْدَقُوط &ldquo;bandaqut&rdquo;
@@ -17743,7 +17919,7 @@ bangladexa:
     - +
     - dexa
     natlang:
-      Banglasa: বাংলাদেশ &ldquo;Baṅladeś&rdquo;
+      Banglasa: বাংলাদেশ &ldquo;Bangladex&rdquo;
 banglali:
   term: Banglali
   word class: t
@@ -18468,17 +18644,24 @@ barakuda:
     spa:
     - - barracuda
       - <em>Sphyraenidae</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Barrakuda
+      - Pfeilhecht
+    fra:
+    - - barracuda
+      - bécunes
+      - sphyrène
+    rus:
+    - - барракуда
+    zho:
+    - - 梭子鱼
   etymology:
     natlang:
       Arabisa: براكودة &ldquo;barakuda&rdquo;
       Doycisa: Barrakuda
       Englisa: barracuda
       Espanisa: barracuda
-      Fransesa: barrakuda
+      Fransesa: barracuda
       Indonesisa: barakuda
       Maharaxtrasa: बॅराकुडा &ldquo;berakuda&rdquo;
       Niponsa: バラクーダ &ldquo;barakuda&rdquo;
@@ -19070,13 +19253,16 @@ barixababil:
     - - vencejo
       - salangana
       - <em>Apodidae</em>
-    deu: []
-    fra: []
+    deu:
+    - - Segler
+    fra:
+    - - martinet
     rus:
     - - стрижиные
       - настоящие стрижи
       - стрижи
-    zho: []
+    zho:
+    - - 雨燕
   etymology:
     derived:
     - barix
@@ -19285,11 +19471,14 @@ baru:
     spa:
     - - oso
       - <em>Ursidae</em>
-    deu: []
-    fra: []
+    deu:
+    - - Bär
+    fra:
+    - - ours
     rus:
     - - медведь
-    zho: []
+    zho:
+    - - 熊
   etymology:
     natlang:
       Doycisa: B&auml;r
@@ -20024,6 +20213,10 @@ batizaatre:
     - batiza
     - +
     - atre
+    natlang similar:
+      Doycisa: Taufpate
+      Indonesisa: ibu baptis
+      Turkisa: vaftiz baba
 batizali:
   term: batizali
   word class: t
@@ -20529,6 +20722,12 @@ baxjungwi:
     - bax-
     - +
     - jungwi
+    natlang similar:
+      Fransesa: sous-lieutenant
+      Koreasa: 소위
+      Niponsa: 少尉
+      Putunhwa: 少尉
+      Vyetnamsa: thiếu u&yacute;
 baxli:
   term: baxli
   word class: t
@@ -20850,11 +21049,15 @@ bazu:
       - águila
       - (h)arpía
       - <em>Accipitridae</em>
-    deu: []
-    fra: []
+    deu:
+    - - Habicht
+    fra:
+    - - autour
     rus:
     - - ястреб
-    zho: []
+    zho:
+    - - 鹰
+      - 老鹰
   etymology:
     natlang:
       Arabisa: بَاز &ldquo;baz&rdquo;, بَازٌ &ldquo;bazun&rdquo;
@@ -21215,11 +21418,16 @@ behemot:
     - - Behemot
       - Bahamut
       - Bégimo
-    deu: []
-    fra: []
+    deu:
+    - - Behemoth
+    fra:
+    - - behemot
     rus:
     - - бегемот
-    zho: []
+    zho:
+    - - 贝赫莫特
+      - 贝西摩斯
+      - 巨兽
   etymology:
     natlang:
       Arabisa: بَهِيمُوثُ &ldquo;bahimuṯ&rdquo;
@@ -22846,11 +23054,14 @@ beze:
     spa:
     - - abeja
       - <em>Anthophila</em>
-    deu: []
-    fra: []
+    deu:
+    - - Biene
+    fra:
+    - - abeile
     rus:
     - - пчела
-    zho: []
+    zho:
+    - - 蜜蜂
   etymology:
     kwasilexi:
       Englisa: buzz
@@ -22963,13 +23174,17 @@ biber:
       - befre
       - bíbaro
       - <em>Castor</em>
-    deu: []
-    fra: []
+    deu:
+    - - Biber
+    fra:
+    - - castor
     rus:
     - - бобр
       - бобёр
       - бобриха
-    zho: []
+    zho:
+    - - 河狸
+      - 海狸
   etymology:
     natlang:
       Doycisa: Biber
@@ -23197,11 +23412,15 @@ bildircin:
       - perdicilla
       - <em>Ophrysia</em>
       - <em>Perdicula</em>
-    deu: []
-    fra: []
+    deu:
+    - - Wachtel
+    fra:
+    - - caille
     rus:
     - - перепел
-    zho: []
+    zho:
+    - - 鹌鹑
+      - 鹑
   etymology:
     natlang:
       Parsisa: بلدرچین &ldquo;belderčin&rdquo;
@@ -23234,12 +23453,13 @@ bilyardi:
       Fransesa: billards
       Hindi: बिलियर्ड्स &ldquo;biliyards&rdquo;, बिलियर्ड &ldquo;biliyard&rdquo;
       Indonesisa: biliar
-      Niponsa: ビリヤード &ldquo;biriyado&rdquo;, Vyetnamsa (bi-a
+      Niponsa: ビリヤード &ldquo;biriyado&rdquo;
       Parsisa: بیلیارد &ldquo;bily&acirc;rd&rdquo;
       Pilipinasa: bilyar
       Rusisa: бильярд &ldquo;bilyard&rdquo;
       Swahilisa: biliadi
       Turkisa: bilardo
+      Vyetnamsa: bi-a
 bimar:
   term: bimar
   word class: t
@@ -24038,11 +24258,14 @@ bison:
       - toro mejicano
       - búfalo
       - <em>Bison</em>
-    deu: []
-    fra: []
+    deu:
+    - - Wisent
+    fra:
+    - - bison
     rus:
     - - бизон
-    zho: []
+    zho:
+    - - 野牛
   etymology:
     natlang:
       Arabisa: بِيسُون &ldquo;bisun&rdquo;
@@ -24538,15 +24761,19 @@ bluebalena:
     - - ballena azul
       - rorcual azul
       - <em>Balaenoptera musculus</em>
-    deu: []
-    fra: []
+    deu:
+    - - Blauwal
+    fra:
+    - - baleine bleue
+      - rorqual bleu
     rus:
     - - синий кит
       - голубой кит
       - синий полосатик
       - голубой полосатик
       - блювал
-    zho: []
+    zho:
+    - - 蓝鲸
   etymology:
     derived:
     - blue
@@ -25831,12 +26058,19 @@ bonobo:
     - - bonobo
       - chimpancé pigmeo
       - <em>Pan paniscus</em>
-    deu: []
-    fra: []
+    deu:
+    - - Bonobo
+      - Zwergschimpanse
+    fra:
+    - - bonobo
+      - chimpanzé nain
+      - chimpanzé pygmée
     rus:
     - - бонобо
       - карликовый шимпанзе
-    zho: []
+    zho:
+    - - 倭黑猩猩
+      - 倭猩猩
   etymology:
     natlang:
       Arabisa: بونوبو &ldquo;bunubu&rdquo;
@@ -26148,11 +26382,14 @@ borsuke:
       - <em>Melogale</em>
       - <em>Mydaus</em>
       - <em>Taxidea</em>
-    deu: []
-    fra: []
+    deu:
+    - - Dachs
+    fra:
+    - - blaireau
     rus:
     - - барсук
-    zho: []
+    zho:
+    - - 獾
   etymology:
     natlang:
       Rusisa: барсук &ldquo;barsuk&rdquo;
@@ -26775,12 +27012,19 @@ bozi:
     - - cabra
       - chivo
       - <em>Capra aegagrus hircus</em>
-    deu: []
-    fra: []
+    deu:
+    - - Ziege
+      - Geiß
+      - Bock
+    fra:
+    - - chèvre
+      - bouc
+      - bique
     rus:
     - - коза
       - козёл
-    zho: []
+    zho:
+    - - 羊
   etymology:
     natlang:
       Parsisa: بز &ldquo;boz&rdquo;
@@ -28098,11 +28342,14 @@ bulbulu:
     spa:
     - - ruiseñor
       - <em>Luscinia</em>
-    deu: []
-    fra: []
+    deu:
+    - - Nachtigall
+    fra:
+    - - rossignol
     rus:
     - - соловей
-    zho: []
+    zho:
+    - - 夜莺
   etymology:
     natlang:
       Arabisa: بلبل &ldquo;bulbul&rdquo;
@@ -29735,12 +29982,15 @@ busardo:
       - gavilán
       - ratonero
       - <em>Buteo</em>
-    deu: []
-    fra: []
+    deu:
+    - - Bussard
+    fra:
+    - - buse
     rus:
     - - канюк
       - сарыч
-    zho: []
+    zho:
+    - - "\U0002B6ED"
   etymology:
     natlang:
       Doycisa: Bussard
@@ -29975,12 +30225,15 @@ bwaw:
     spa:
     - - perro
       - <em>Canis lupus familiaris</em>
-    deu: []
-    fra: []
+    deu:
+    - - Hund
+    fra:
+    - - chien
     rus:
     - - собака
       - пёс
-    zho: []
+    zho:
+    - - 狗
   etymology:
     natlang:
       Putunhwa: 狗 &ldquo;gow&rdquo;
@@ -30221,11 +30474,16 @@ cakal:
     - - chacal
       - <em>Lupulella</em>
       - <em>Canis aureus</em>
-    deu: []
-    fra: []
+    deu:
+    - - Schakal
+    fra:
+    - - chacal
     rus:
     - - шакал
-    zho: []
+    zho:
+    - - 胡狼
+      - 狐狼
+      - 豺狼
   etymology:
     natlang:
       Doycisa: Schakal
@@ -33383,10 +33641,12 @@ cimpanze:
       - <em>Pan troglodytes</em>
     deu:
     - - Schimpansin
-    fra: []
+    fra:
+    - - chimpanzé
     rus:
     - - шимпанзе
-    zho: []
+    zho:
+    - - 黑猩猩
   etymology:
     natlang:
       Arabisa: شِمْبَانْزِي &ldquo;ximbanzi&rdquo;
@@ -33414,11 +33674,16 @@ cincila:
     spa:
     - - chinchilla
       - <em>Chinchilla</em>
-    deu: []
-    fra: []
+    deu:
+    - - Chinchilla
+    fra:
+    - - chinchilla
     rus:
     - - шиншилла
-    zho: []
+    zho:
+    - - 毛丝鼠
+      - 栗鼠
+      - 绒鼠
   etymology:
     natlang:
       Arabisa: شنشيلة &ldquo;xinxila&rdquo;
@@ -34234,11 +34499,14 @@ cita:
     - - guepardo
       - chita
       - <em>Acinonyx jubatus</em>
-    deu: []
-    fra: []
+    deu:
+    - - Gepard
+    fra:
+    - - guépard
     rus:
     - - гепард
-    zho: []
+    zho:
+    - - 猎豹
   etymology:
     natlang:
       Englisa: cheetah
@@ -34325,12 +34593,16 @@ cocanga:
       - correlimos
       - chocha
       - <em>Scolopacidae</em>
-    deu: []
-    fra: []
+    deu:
+    - - Schnepfen
+    fra:
+    - - bécasse
+      - scolopacidé
     rus:
     - - бекас
       - Бекасовые
-    zho: []
+    zho:
+    - - 鹬
   etymology:
     natlang:
       Espanisa: chocha
@@ -36418,11 +36690,14 @@ dahunxirani:
     - - pulgón
       - áfido
       - <em>Aphidoidea</em>
-    deu: []
-    fra: []
+    deu:
+    - - Blattlaus
+    fra:
+    - - puceron
     rus:
     - - тля
-    zho: []
+    zho:
+    - - 蚜虫
   etymology:
     derived:
     - dahun
@@ -37026,11 +37301,15 @@ danglan:
     spa:
     - - mantis (religiosa)
       - <em>Mantodea</em>
-    deu: []
-    fra: []
+    deu:
+    - - Gottesanbeterin
+      - Fangschrecke
+    fra:
+    - - mante (religieuse)
     rus:
     - - богомол(-молельщик)
-    zho: []
+    zho:
+    - - 螳螂
   etymology:
     natlang:
       Koreasa: 당랑 &ldquo;dangnang&rdquo;
@@ -38628,11 +38907,15 @@ daybeze:
       - mangangá
       - cigarrón
       - <em>Bombus</em>
-    deu: []
-    fra: []
+    deu:
+    - - Hummel
+    fra:
+    - - bourdon
     rus:
     - - шмель
-    zho: []
+    zho:
+    - - 熊蜂
+      - 大黄蜂
   etymology:
     derived:
     - day-
@@ -39519,12 +39802,16 @@ daykargux:
     spa:
     - - liebre
       - <em>Lepus</em>
-    deu: []
-    fra: []
+    deu:
+    - - Hase
+    fra:
+    - - lièvre
+      - hase
     rus:
     - - заяц
       - зайчиха
-    zho: []
+    zho:
+    - - 野兔
   etymology:
     derived:
     - day-
@@ -44410,11 +44697,14 @@ dinosor:
     spa:
     - - dinosaurio
       - <em>Dinosauria</em>
-    deu: []
-    fra: []
+    deu:
+    - - Dinosaurier
+    fra:
+    - - dinosaure
     rus:
     - - динозавр
-    zho: []
+    zho:
+    - - 恐龙
   etymology:
     natlang:
       Arabisa: دِينَاصَوْر &ldquo;dinasawr&rdquo;
@@ -45802,11 +46092,15 @@ dolfin:
     spa:
     - - delfín
       - <em>Odontoceti</em>
-    deu: []
-    fra: []
+    deu:
+    - - Delfin
+      - Delphin
+    fra:
+    - - dauphin
     rus:
     - - дельфин
-    zho: []
+    zho:
+    - - 海豚
   etymology:
     natlang:
       Arabisa: دلفين &ldquo;dulfīn&rdquo;
@@ -47041,12 +47335,15 @@ dragon:
     - - drako
     spa:
     - - dragón
-    deu: []
-    fra: []
+    deu:
+    - - Drache
+    fra:
+    - - dragon
     rus:
     - - дракон
       - змей
-    zho: []
+    zho:
+    - - 龙
   etymology:
     natlang:
       Doycisa: Drache
@@ -50437,10 +50734,15 @@ egnu:
     - - ñu
       - ñue
       - <em>Connochaetes</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gnu
+    fra:
+    - - gnou
+    rus:
+    - - гну
+    zho:
+    - - 角马
+      - 牛羚
   etymology:
     natlang:
       Arabisa: نَوّ &ldquo;nuw&rdquo;
@@ -50588,11 +50890,17 @@ ekidna:
     spa:
     - - equidna
       - <em>Tachyglossidae</em>
-    deu: []
-    fra: []
+    deu:
+    - - Ameisenigel
+      - Schnabeligel
+      - Echidna
+    fra:
+    - - échidné
     rus:
     - - ехидна
-    zho: []
+    zho:
+    - - 针鼹
+      - 食蚁猬
   etymology:
     natlang:
       Arabisa: إِيكِيدْنَا &ldquo;ikidna&rdquo;
@@ -51064,12 +51372,16 @@ elefan:
     spa:
     - - elefante
       - <em>Elephantiformes</em>
-    deu: []
-    fra: []
+    deu:
+    - - Elefant
+    fra:
+    - - éléphant
     rus:
     - - слон
       - слониха
-    zho: []
+    zho:
+    - - 象
+      - 大象
   etymology:
     natlang:
       Doycisa: Elefant
@@ -51860,11 +52172,14 @@ emu:
     spa:
     - - emú
       - <em>Dromaius</em>
-    deu: []
-    fra: []
+    deu:
+    - - Emu
+    fra:
+    - - émeu
     rus:
     - - эму
-    zho: []
+    zho:
+    - - 鸸鹋
   etymology:
     natlang:
       Doycisa: Emu
@@ -52956,12 +53271,15 @@ eringa:
     spa:
     - - arenque
       - <em>Clupeidae</em>
-    deu: []
-    fra: []
+    deu:
+    - - Hering
+    fra:
+    - - hareng
     rus:
     - - сельдь
       - селёдка
-    zho: []
+    zho:
+    - - 鲱鱼
   etymology:
     natlang:
       Arabisa: رنكة &ldquo;rinka&rdquo;
@@ -53011,11 +53329,14 @@ ermino:
       - <em>Mustela erminea</em>
       - <em>Mustela richardsonii</em>
       - <em>Mustela haidarum</em>
-    deu: []
-    fra: []
+    deu:
+    - - Hermelin
+    fra:
+    - - hermine
     rus:
     - - горностай
-    zho: []
+    zho:
+    - - 白鼬
   etymology:
     natlang:
       Doycisa: Hermelin
@@ -53168,11 +53489,15 @@ esfinxe:
     - - sfinkso
     spa:
     - - esfinge
-    deu: []
-    fra: []
+    deu:
+    - - Sphinx
+    fra:
+    - - sphinx
     rus:
     - - сфинкс
-    zho: []
+    zho:
+    - - 斯芬克斯
+      - 人头狮身
   etymology:
     natlang:
       Doycisa: Sphynx, Sphinx
@@ -53349,11 +53674,15 @@ eskarabe:
     - - escarabeo
       - escarabajo (sagrado)
       - <em>Scarabaeus sacer</em>
-    deu: []
-    fra: []
+    deu:
+    - - Skarabäus
+    fra:
+    - - scarabée (sacré)
     rus:
     - - скарабей
-    zho: []
+    zho:
+    - - 金龟子
+      - 聖甲蟲
   etymology:
     natlang:
       Doycisa: Skarab&auml;us
@@ -54171,12 +54500,15 @@ eskumri:
       - caballa
       - macarela
       - escombro (<em>pez</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Makrele
+    fra:
+    - - maquereau
     rus:
     - - скумбрия
       - макрели
-    zho: []
+    zho:
+    - - 鲭鱼
   etymology:
     natlang:
       Arabisa: إِسْقُمَرِيّ &ldquo;isqumariy&rdquo;
@@ -54203,12 +54535,16 @@ eskunku:
       - epate
       - chingue
       - <em>Mephitidae</em>
-    deu: []
-    fra: []
+    deu:
+    - - Stinktier
+    fra:
+    - - mouffette
+      - sconse
     rus:
     - - скунс
       - вонючка
-    zho: []
+    zho:
+    - - 臭鼬
   etymology:
     natlang:
       Doycisa: Skunk
@@ -54368,11 +54704,14 @@ esloti:
     spa:
     - - perezoso (<em>animal</em>)
       - <em>Folivora</em>
-    deu: []
-    fra: []
+    deu:
+    - - Faultier
+    fra:
+    - - paresseux
     rus:
     - - ленивец (<em>животное</em>)
-    zho: []
+    zho:
+    - - 树懒
   etymology:
     natlang:
       Englisa: sloth
@@ -55040,11 +55379,14 @@ esponji:
     - - spongo
     spa:
     - - esponja
-    deu: []
-    fra: []
+    deu:
+    - - Schwamm
+    fra:
+    - - éponge
     rus:
     - - губка
-    zho: []
+    zho:
+    - - 海绵
   etymology:
     natlang:
       Arabisa: إِسْفَنْج &ldquo;isfanj&rdquo;
@@ -64531,11 +64873,15 @@ feniksu:
     - - fenikso
     spa:
     - - fénix
-    deu: []
-    fra: []
+    deu:
+    - - Phönix
+    fra:
+    - - phénix
     rus:
     - - феникс
-    zho: []
+    zho:
+    - - 凤凰
+      - 不死鸟
   etymology:
     natlang:
       Arabisa: الفينيق &ldquo;alfyniq&rdquo;
@@ -64623,6 +64969,43 @@ fenomenli:
     - fenomen
     - +
     - -li
+fentanil:
+  term: fentanil
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - fentanyl
+    epo:
+    - - fentanilo
+    spa:
+    - - fentanilo
+    deu:
+    - - Fentanyl
+    fra:
+    - - fentanyl
+    rus:
+    - - фентанил
+    zho:
+    - - 芬太尼
+  etymology:
+    natlang:
+      Arabisa: فينتانيل &ldquo;fintanil&rdquo;
+      Doycisa: Fentanyl
+      Englisa: fentanyl
+      Espanisa: fentanilo
+      Fransesa: fentanyl
+      Hindi: फेंटेनाइल &ldquo;fentenel&rdquo;
+      Indonesisa: fentanil
+      Koreasa: 펜타닐 &ldquo;pentanil&rdquo;
+      Niponsa: フェンタニル &ldquo;fentaniru&rdquo;
+      Parsisa: فنتانیل
+      Putunhwa: 芬太尼 &ldquo;fentayni&rdquo;
+      Rusisa: фентанил &ldquo;fentanil&rdquo;
+      Swahilisa: fentanili
+      Telugusa: ఫెంటానిల్ &ldquo;fentanil&rdquo;
+      Turkisa: fentanil
+      Vyetnamsa: fentanil
 fenxui:
   term: fenxui
   word class: b
@@ -64720,13 +65103,16 @@ fereto:
     spa:
     - - hurón
       - <em>Mustela furo</em>
-    deu: []
-    fra: []
+    deu:
+    - - Frettchen
+    fra:
+    - - furet
     rus:
     - - фретка
       - фуро
       - хорёк
-    zho: []
+    zho:
+    - - 雪貂
   etymology:
     natlang:
       Doycisa: Frettchen
@@ -65886,13 +66272,17 @@ finco:
       - pinzón koa
       - lugano
       - <em>Fringillidae</em>
-    deu: []
-    fra: []
+    deu:
+    - - fink
+    fra:
+    - - pinson
+      - fringillidé
     rus:
     - - зяблик
       - вьюрок
       - Вьюрковые
-    zho: []
+    zho:
+    - - 燕雀
   etymology:
     natlang:
       Doycisa: Fink
@@ -66565,11 +66955,15 @@ flamingo:
     - - flamenco
       - flamingo
       - <em>Phoenicopteridae</em>
-    deu: []
-    fra: []
+    deu:
+    - - Flamingo
+    fra:
+    - - flamant
     rus:
     - - фламинго
-    zho: []
+    zho:
+    - - 紅鸛
+      - 火鹤
   etymology:
     natlang:
       Arabisa: فْلَامِينْجُو &ldquo;flamingo&rdquo;
@@ -66908,11 +67302,16 @@ fleysinjabu:
     spa:
     - - ardilla voladora
       - <em>Pteromyini</em>
-    deu: []
-    fra: []
+    deu:
+    - - Gleithörnchen
+      - Flughörnchen
+    fra:
+    - - écureuil volant
     rus:
     - - (белка-)летяга
-    zho: []
+    zho:
+    - - 鼯鼠
+      - 飞鼠
   etymology:
     derived:
     - fley
@@ -67507,11 +67906,17 @@ fokma:
     spa:
     - - foca
       - <em>Phocoidea</em>
-    deu: []
-    fra: []
+    deu:
+    - - Robbe
+      - Seehund
+    fra:
+    - - phoque
     rus:
     - - тюлень
-    zho: []
+    zho:
+    - - 海豹
+      - 海狗
+      - 鳍足类
   etymology:
     natlang:
       Arabisa: فقمة &ldquo;fuqma&rdquo;
@@ -71165,11 +71570,15 @@ gambari:
       - <em>Caridea</em>
       - langostino
       - <em>Dendrobranchiata</em>
-    deu: []
-    fra: []
+    deu:
+    - - Garnele
+      - Shrimp
+    fra:
+    - - crevette
     rus:
     - - креветка
-    zho: []
+    zho:
+    - - 虾子
   etymology:
     natlang:
       Arabisa: جَمْبَرِيّ &ldquo;jambari&rdquo;
@@ -71214,11 +71623,14 @@ gamel:
     - - camello
       - dromedario
       - <em>Camelini</em>
-    deu: []
-    fra: []
+    deu:
+    - - Kamel
+    fra:
+    - - chameau
     rus:
     - - верблюд
-    zho: []
+    zho:
+    - - 骆驼
   etymology:
     natlang:
       Arabisa: جَمَل &ldquo;jamal&rdquo;
@@ -71976,13 +72388,17 @@ gansa:
       - oca
       - ánsar
       - <em>Anserinae</em> (<em>excepto Cygnus</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Gans
+    fra:
+    - - oie
     rus:
     - - гусь
       - гусыня
       - гусак
-    zho: []
+    zho:
+    - - 鹅
+      - 雁
   etymology:
     natlang:
       Doycisa: Gans
@@ -72982,11 +73398,14 @@ gazela:
     spa:
     - - gacela
       - <em>Gazella</em>
-    deu: []
-    fra: []
+    deu:
+    - - Gazelle
+    fra:
+    - - gazelle
     rus:
     - - газель
-    zho: []
+    zho:
+    - - 瞪羚
   etymology:
     natlang:
       Arabisa: غَزَال &ldquo;ḡazal&rdquo;
@@ -73057,11 +73476,14 @@ geko:
     spa:
     - - geco
       - <em>Gekkota</em>
-    deu: []
-    fra: []
+    deu:
+    - - Gecko
+    fra:
+    - - gecko
     rus:
     - - геккон
-    zho: []
+    zho:
+    - - 壁虎
   etymology:
     natlang:
       Doycisa: Gecko
@@ -73070,7 +73492,7 @@ geko:
       Fransesa: gecko
       Pilipinasa: geko
       Rusisa: геккон &ldquo;gekkon&rdquo;
-      Vyetnamsa: cắc k&egrave; &ldquo;kake&rdquo;
+      Vyetnamsa: cắc k&egrave;
 general:
   term: general
   word class: b
@@ -73330,11 +73752,14 @@ geokacupa:
     spa:
     - - tortuga terrestre
       - <em>Testudinidae</em>
-    deu: []
-    fra: []
+    deu:
+    - - Landschildkröte
+    fra:
+    - - tortue terrestre
     rus:
     - - (сухопутная) черепаха
-    zho: []
+    zho:
+    - - 陆龟
   etymology:
     derived:
     - geo
@@ -73351,10 +73776,14 @@ geologi:
     - - geologio
     spa:
     - - geología
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Geologie
+    fra:
+    - - géologie
+    rus:
+    - - геология
+    zho:
+    - - 地质学
   etymology:
     derived:
     - geo
@@ -73397,8 +73826,10 @@ geometri:
     spa:
     - - geometría
     deu: []
-    fra: []
-    rus: []
+    fra:
+    - - géométrie
+    rus:
+    - - геометрия
     zho: []
   etymology:
     natlang:
@@ -73427,9 +73858,12 @@ geometrili:
     spa:
     - - geométrico
     - - geométricamente
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - geometrisch
+    fra:
+    - - géométrique
+    rus:
+    - - геометрический
     zho: []
   etymology:
     derived:
@@ -73584,7 +74018,11 @@ gepu:
     spa:
     - - eructo
     - - eructar
-    deu: []
+    deu:
+    - - Rülpser
+      - Bäuerchen
+    - - rülpsen
+      - aufstoßen
     fra: []
     rus: []
     zho: []
@@ -73728,10 +74166,14 @@ germanyum:
     spa:
     - - germanio
       - Ge
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Germanium
+    fra:
+    - - germanium
+    rus:
+    - - германий
+    zho:
+    - - 锗
   etymology:
     natlang:
       Arabisa: جَرْمَانْيُوم &ldquo;jarmanyum&rdquo;
@@ -73761,10 +74203,18 @@ gey:
     - - geje
     spa:
     - - <em>gay</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - schwul
+      - gay
+    fra:
+    - - gay
+      - homo
+      - gai
+    rus:
+    - - гей
+    zho:
+    - - 基
+      - gay
   etymology:
     natlang:
       Doycisa: gay
@@ -73794,7 +74244,9 @@ geyyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 基佬
+      - gay
   etymology:
     derived:
     - gey
@@ -74079,9 +74531,18 @@ giga:
       - giga-
       - G
       - 10^9
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - milliard
+      - giga-
+      - G
+      - 10^9
+    rus:
+    - - миллиард
+      - гига-
+      - 10^9
+    zho:
+    - - 十亿
+      - 吉咖-
   etymology:
     natlang:
       Arabisa: جيجا- &ldquo;jija-&rdquo;
@@ -74392,10 +74853,15 @@ gingiva:
       - dentokarno
     spa:
     - - encía
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Zahnfleisch
+    fra:
+    - - gencive
+    rus:
+    - - десна
+    zho:
+    - - 齿龈
+      - 牙龈
   etymology:
     natlang:
       Doycisa: Gingivitis
@@ -74418,10 +74884,16 @@ gingivaitis:
     - - gingivito
     spa:
     - - gingivitis
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Zahnfleischentzündung
+      - Gingivitis
+    fra:
+    - - gingivite
+    rus:
+    - - гингивит
+      - воспаление дёсен
+    zho:
+    - - 牙龈炎
   etymology:
     derived:
     - gingiva
@@ -74443,9 +74915,12 @@ gingivali:
     - - gingival
       - alveolar (<em>lingüística</em>)
     deu: []
-    fra: []
+    fra:
+    - - gingival
+      - alvéolaire (<em>linguistique</em>)
     rus: []
-    zho: []
+    zho:
+    - - 齿龈的
   etymology:
     derived:
     - gingiva
@@ -74464,7 +74939,8 @@ gingivarukeli:
       - postalveolara
     spa:
     - - pos(t)alveolar
-    deu: []
+    deu:
+    - - postalveolar
     fra: []
     rus: []
     zho: []
@@ -74570,10 +75046,14 @@ gipsu:
     - - yeso (de París)
       - aljez
       - yeso mate
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gips
+    fra:
+    - - gypse
+    rus:
+    - - гипс
+    zho:
+    - - 石膏
   etymology:
     natlang:
       Arabisa: جص &ldquo;jis, jas&rdquo;, جبس &ldquo;jibs&rdquo;
@@ -74685,10 +75165,14 @@ gitara:
     - - gitaro
     spa:
     - - guitarra
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gitarre
+    fra:
+    - - guitare
+    rus:
+    - - гитара
+    zho:
+    - - 吉他
   etymology:
     natlang:
       Arabisa: قِيثَارَة &ldquo;qīṯāra&rdquo;, جِيتَار &ldquo;gitār&rdquo;
@@ -74719,10 +75203,15 @@ gitarayen:
     - - gitaristo
     spa:
     - - guitarrista
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gitarrenspieler
+      - Gitarrist
+    fra:
+    - - guitariste
+    rus:
+    - - гитарист
+    zho:
+    - - 吉他手
   etymology:
     derived:
     - gitara
@@ -74996,10 +75485,14 @@ glandu:
     - - glando
     spa:
     - - glándula
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Drüse
+    fra:
+    - - glande
+    rus:
+    - - железа
+    zho:
+    - - 腺体
   etymology:
     natlang:
       Englisa: gland
@@ -75022,8 +75515,10 @@ glasu:
     - - glaso
     spa:
     - - vaso
-    deu: []
-    fra: []
+    deu:
+    - - Glas
+    fra:
+    - - verre
     rus: []
     zho: []
   etymology:
@@ -75052,10 +75547,20 @@ glif:
       - símbolo
       - marca
       - signo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Buchstabe
+      - (Schrift)zeichen
+      - Symbol
+    fra:
+    - - caractère (écrit)
+      - glyphe
+    rus:
+    - - буква
+      - глиф
+      - знак
+      - символ
+    zho:
+    - - 字
   etymology:
     natlang:
       Arabisa: هِيرُوغْلِيفِيَّة &ldquo;hiroḡlifiyya&rdquo;
@@ -75084,10 +75589,15 @@ globa:
     - - mondo
     spa:
     - - mundo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Welt
+    fra:
+    - - monde
+    rus:
+    - - мир
+      - свет
+    zho:
+    - - 世界
   etymology:
     natlang:
       Doycisa: global
@@ -75114,10 +75624,15 @@ globabasa:
     spa:
     - - lengua mundial
       - idioma internacional
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Weltsprache
+    fra:
+    - - langue internationale
+      - langue mondiale
+    rus:
+    - - мировой язык
+    zho:
+    - - 世界语言
   etymology:
     derived:
     - globa
@@ -75160,10 +75675,16 @@ globasa:
     spa:
     - - (idioma) Globasa
     - - hablar Globasa
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Globasa
+    fra:
+    - - Globasa
+    rus:
+    - - Глобаса
+      - Globasa
+    zho:
+    - - 格洛巴萨
+      - Globasa
   etymology:
     derived:
     - globa
@@ -75263,10 +75784,15 @@ glukosu:
     spa:
     - - glucosa
       - dextrosa
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Glukose
+      - Traubenzucker
+    fra:
+    - - glucose
+    rus:
+    - - глюкоза
+    zho:
+    - - 葡萄糖
   etymology:
     natlang:
       Arabisa: جلوكوز &ldquo;julukuz&rdquo;
@@ -75321,9 +75847,13 @@ gluten:
     - - gluten
     deu:
     - - Gluten
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - gluten
+    rus:
+    - - глютен
+    zho:
+    - - 面筋
+      - 麸质
   etymology:
     natlang:
       Arabisa: غْلُوتِين &ldquo;glutin&rdquo;
@@ -75353,10 +75883,15 @@ glutenkal:
     spa:
     - - sin gluten
       - sin TACC
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - glutenfrei
+    fra:
+    - - sans gluten
+    rus:
+    - - безглютеновый
+    zho:
+    - - 不含麸质的
+      - 不含面筋的
   etymology:
     derived:
     - gluten
@@ -75552,10 +76087,14 @@ golenjan:
       - <em>Alpinia</em>
       - <em>Boesenbergia</em>
       - <em>Kaempferia</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Galgant
+    fra:
+    - - galanga
+    rus:
+    - - калган
+    zho:
+    - - 高良姜
   etymology:
     natlang:
       Arabisa: خَوْلَنْجَان &ldquo;hawlanjan&rdquo;, خَوْلَنْجَان &ldquo;hulanjan&rdquo;
@@ -75583,10 +76122,14 @@ golfu:
     - - golfo (sporto)
     spa:
     - - golf
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Golf
+    fra:
+    - - golf
+    rus:
+    - - гольф
+    zho:
+    - - 高尔夫
   etymology:
     natlang:
       Arabisa: جُولْف &ldquo;golf&rdquo;, جُولْف &ldquo;gulf&rdquo;, غُولْف &ldquo;golf&rdquo;,
@@ -75624,7 +76167,9 @@ golje:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 比分
+      - 得分
   etymology:
     derived:
     - gol
@@ -75812,10 +76357,17 @@ gona:
     spa:
     - - ángulo
       - esquina
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Ecke
+      - Winkel
+    fra:
+    - - coin
+    rus:
+    - - угол
+    zho:
+    - - 角落
+      - 墙角
+      - 角度
   etymology:
     natlang:
       Doycisa: hexagonal
@@ -76006,10 +76558,18 @@ gonorey:
     - - gonoreo
     spa:
     - - gonorrea
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gonorrhoe
+      - Tripper
+    fra:
+    - - gonorrhée
+      - blennorragie
+    rus:
+    - - гонорея
+      - перелой
+      - триппер
+    zho:
+    - - 淋病
   etymology:
     natlang:
       Doycisa: Gonorrhoe
@@ -76034,10 +76594,14 @@ gorila:
     spa:
     - - gorila
       - <em>Gorillini</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gorilla
+    fra:
+    - - gorille
+    rus:
+    - - горилла
+    zho:
+    - - 大猩猩
   etymology:
     natlang:
       Arabisa: غوريلا &ldquo;ḡūrīlā&rdquo;
@@ -76166,10 +76730,14 @@ gotaspiu:
       - macae
       - zampullín
       - <em>Podicipediformes</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - (Lappen)taucher
+    fra:
+    - - grèbe
+    rus:
+    - - поганка (<em>птица</em>)
+    zho:
+    - - 䴙䴘
   etymology:
     derived:
     - gotas
@@ -76221,10 +76789,16 @@ gowan:
     - - testiko(j)
     spa:
     - - testículo (<em>clínico</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hoden
+      - Testikel
+    fra:
+    - - testicule
+    rus:
+    - - яичко
+    zho:
+    - - 睪丸
+      - 精巢
   etymology:
     natlang:
       Koreasa: 고환 &ldquo;gohwan&rdquo;
@@ -76364,10 +76938,17 @@ goyutul:
     - - fosilo
     spa:
     - - pala
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Schaufel
+      - Schippe
+    fra:
+    - - pelle
+      - bêche
+    rus:
+    - - лопата
+    zho:
+    - - 铲子
+      - 铁锹
   etymology:
     derived:
     - goyu
@@ -76477,10 +77058,15 @@ grafiti:
     spa:
     - - grafiti
       - pintadas
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Graffito
+      - Graffiti
+    fra:
+    - - graffiti
+    rus:
+    - - граффити
+    zho:
+    - - 涂鸦
   etymology:
     natlang:
       Arabisa: جرافيتي
@@ -76509,10 +77095,14 @@ grafito:
     - - grafito
     spa:
     - - grafito
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Graphit
+    fra:
+    - - graphite
+    rus:
+    - - графит
+    zho:
+    - - 石墨
   etymology:
     natlang:
       Arabisa: غرافيت &ldquo;grafit&rdquo;
@@ -76539,10 +77129,17 @@ grahana:
     - - eklipso
     spa:
     - - eclipse
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Finsternis
+      - Eklipse
+    fra:
+    - - éclipse
+    rus:
+    - - затмение
+    zho:
+    - - 日食
+      - 月食
+      - 交食
   etymology:
     natlang:
       Hindi: ग्रहण &ldquo;grahan&rdquo;
@@ -76559,10 +77156,16 @@ gramati:
     - - gramatiko
     spa:
     - - gramática
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Grammatik
+      - Sprachlehre
+    fra:
+    - - grammaire
+    rus:
+    - - грамматика
+    zho:
+    - - 语法
+      - 文法
   etymology:
     natlang:
       Doycisa: Grammatik
@@ -76607,10 +77210,14 @@ gramo:
     spa:
     - - gramo (<em>unidad de masa</em>)
       - g
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gramm
+    fra:
+    - - gramme
+    rus:
+    - - грамм
+    zho:
+    - - 公克
   etymology:
     natlang:
       Arabisa: غْرَام &ldquo;gram&rdquo;
@@ -76641,10 +77248,14 @@ graneda:
     - - grenado
     spa:
     - - granada (de mano)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Granate
+    fra:
+    - - grenade
+    rus:
+    - - граната
+    zho:
+    - - 榴弹
   etymology:
     natlang:
       Doycisa: Granate
@@ -76668,10 +77279,16 @@ granito:
     - - granito
     spa:
     - - granito
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Granit
+    fra:
+    - - granite
+      - granit
+    rus:
+    - - гранит
+    zho:
+    - - 花岗石
+      - 花岗岩
   etymology:
     natlang:
       Arabisa: جرانيت &ldquo;jaranit&rdquo;
@@ -76705,10 +77322,14 @@ gras:
       - grama
       - zacate
       - <em>Poaceae</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gras
+    fra:
+    - - herbe
+    rus:
+    - - трава
+    zho:
+    - - 草
   etymology:
     natlang:
       Doycisa: Gras
@@ -76732,10 +77353,18 @@ grasgeo:
       - pradera
       - prado
       - vega
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Wiese
+    fra:
+    - - prairie
+      - pré
+    rus:
+    - - луг
+      - поляна
+    zho:
+    - - 草原
+      - 草地
+      - 草甸
   etymology:
     derived:
     - gras
@@ -76776,10 +77405,14 @@ grava:
     - - gruzo
     spa:
     - - grava
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Kies
+    fra:
+    - - gravier
+    rus:
+    - - гравий
+    zho:
+    - - 砾石
   etymology:
     natlang:
       Englisa: gravel
@@ -77020,10 +77653,15 @@ grosela:
     spa:
     - - grosella
       - <em>Ribes</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Johannisbeeren
+    fra:
+    - - groseille
+      - cassis
+    rus:
+    - - смородина
+    zho:
+    - - 醋栗
   etymology:
     natlang:
       Espanisa: grosella
@@ -77041,9 +77679,12 @@ grupo:
     - - grupo
     spa:
     - - grupo
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Gruppe
+    fra:
+    - - groupe
+    rus:
+    - - группа
     zho: []
   etymology:
     natlang:
@@ -77094,10 +77735,14 @@ gubangu:
     spa:
     - - escarabajo
       - <em>Coleoptera</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Käfer
+    fra:
+    - - scarabée
+    rus:
+    - - жук
+    zho:
+    - - 甲虫
   etymology:
     natlang:
       Indonesisa: kumbang
@@ -77115,10 +77760,17 @@ gubar:
     - - polvo
     - - espolvorear (<em>esparcir polvo</em>)
       - espolvorizar
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Staub
+    fra:
+    - - poussière
+    rus:
+    - - пыль
+    zho:
+    - - 灰塵
+      - 灰土
+      - 塵土
+      - 塵埃
   etymology:
     natlang:
       Arabisa: غبار &ldquo;ḡubār&rdquo;
@@ -77327,10 +77979,17 @@ gufa:
       - cava
       - cachulera
       - tuda
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Höhle
+    fra:
+    - - grotte
+      - caverne
+    rus:
+    - - пещера
+    zho:
+    - - 洞穴
+      - 洞
+      - 洞窟
   etymology:
     natlang:
       Hindi: गुफा &ldquo;gupha&rdquo;
@@ -77474,10 +78133,14 @@ gulam:
     - - sklavo
     spa:
     - - esclavo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Sklave
+    fra:
+    - - esclave
+    rus:
+    - - раб
+    zho:
+    - - 奴隶
   etymology:
     natlang:
       Arabisa: غُلَام &ldquo;gulam&rdquo;
@@ -77648,10 +78311,14 @@ gungu:
     - - pafarko
     spa:
     - - arco (<em>arma</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Bogen (<em>Waffe</em>)
+    fra:
+    - - arc (<em>arme</em>)
+    rus:
+    - - лук (<em>оружие</em>)
+    zho:
+    - - 弓
   etymology:
     natlang:
       Koreasa: 양궁 &ldquo;yang-gung&rdquo;
@@ -77989,10 +78656,14 @@ gwaba:
     spa:
     - - guayaba
       - <em>Psidium</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Guave
+    fra:
+    - - goyave
+    rus:
+    - - гуава
+    zho:
+    - - 番石榴
   etymology:
     natlang:
       Arabisa: جوافة &ldquo;juwafa&rdquo;
@@ -78019,10 +78690,19 @@ gwafu:
       - vidvino
     spa:
     - - viudo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Witwe
+      - Witwer
+    fra:
+    - - veuve
+      - veuf
+    rus:
+    - - вдова
+      - вдовец
+    zho:
+    - - 寡妇
+      - 鳏夫
+      - 寡夫
   etymology:
     natlang:
       Koreasa: 과부 &ldquo;gwabu&rdquo;
@@ -78042,8 +78722,10 @@ gwafuya:
     spa:
     - - viudez
     deu: []
-    fra: []
-    rus: []
+    fra:
+    - - veuvage
+    rus:
+    - - вдовство
     zho: []
   etymology:
     derived:
@@ -78062,8 +78744,12 @@ gwaho:
     - - parentezo
     spa:
     - - paréntesis
-    deu: []
-    fra: []
+    deu:
+    - - Parenthese
+      - Einschub
+      - Klammer
+    fra:
+    - - parenthèse
     rus: []
     zho: []
   etymology:
@@ -78082,10 +78768,14 @@ gwakamole:
       - avokada kaĉo
     spa:
     - - guacamole
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Guacamole
+    fra:
+    - - guacamole
+    rus:
+    - - гуакамоле
+    zho:
+    - - 鳄梨酱
   etymology:
     natlang:
       Espanisa: guacamole
@@ -78101,10 +78791,15 @@ gwancan:
     - - placo
     spa:
     - - plaza
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Platz
+    fra:
+    - - place (<em>voie</em>)
+    rus:
+    - - площадь
+      - сквер
+    zho:
+    - - 广场
   etymology:
     natlang:
       Koreasa: 광장 &ldquo;gwangjang&rdquo;
@@ -78473,10 +79168,14 @@ hadidu:
     - - hierro
       - fierro
       - Fe
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Eisen
+    fra:
+    - - fer
+    rus:
+    - - железо
+    zho:
+    - - 铁
   etymology:
     natlang:
       Arabisa: حديد &ldquo;ḥadīd&rdquo;
@@ -78543,10 +79242,14 @@ hafnyum:
     spa:
     - - hafnio
       - Hf
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hafnium
+    fra:
+    - - hafnium
+    rus:
+    - - гафний
+    zho:
+    - - 铪
   etymology:
     natlang:
       Arabisa: هَفْنِيُوم &ldquo;hafniyum&rdquo;
@@ -78618,10 +79321,17 @@ haha:
     spa:
     - - risa
     - - reír(se)
-    deu: []
-    fra: []
+    deu:
+    - - Lachen
+      - Lache
+    - - lachen
+    fra:
+    - - rire
+    - - rire
     rus: []
-    zho: []
+    zho:
+    - - 笑声
+      - 发笑
   etymology:
     natlang:
       Arabisa: قَهْقَهَة &ldquo;qahqaha&rdquo;
@@ -79077,10 +79787,16 @@ halazun:
     spa:
     - - caracol
       - <em>Gastropoda</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Schnecke
+    fra:
+    - - escargot
+      - limaçon
+    rus:
+    - - улитка
+    zho:
+    - - 蜗牛
+      - 海螺
   etymology:
     natlang:
       Arabisa: حَلَزُون &ldquo;ḥalazūn&rdquo;
@@ -79097,10 +79813,16 @@ haleluya:
       - haleluja
     spa:
     - - aleluya
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - hallelujah
+    fra:
+    - - alléluia
+    rus:
+    - - аллилуйя
+    zho:
+    - - 哈利路亚
+      - 阿利路亚
+      - 阿肋路亚
   etymology:
     natlang:
       Arabisa: هَلِّلُويَا &ldquo;halliluya&rdquo;, هَلُولِيَا &ldquo;haluliya&rdquo;
@@ -79131,10 +79853,15 @@ haliju:
     - - golfo
     spa:
     - - golfo (<em>geografía</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Golf
+      - Meerbusen
+    fra:
+    - - golfe
+    rus:
+    - - залив
+    zho:
+    - - 海湾
   etymology:
     natlang:
       Arabisa: خَلِيج &ldquo;halij&rdquo;
@@ -79151,10 +79878,16 @@ halke:
     - - ringo
     spa:
     - - anillo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Ring
+    fra:
+    - - anneau
+      - bague
+    rus:
+    - - кольцо
+    zho:
+    - - 环
+      - 戒指
   etymology:
     natlang:
       Arabisa: حَلْقَة &ldquo;halka&rdquo;
@@ -79179,10 +79912,15 @@ halow:
       - sí
       - escucha
       - dígame
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - hallo
+    fra:
+    - - allô
+    rus:
+    - - алло
+      - слушаю
+    zho:
+    - - 喂
   etymology:
     natlang:
       Arabisa: آلُو &ldquo;alu&rdquo;, آلُوْ &ldquo;aluw&rdquo;, أَلُو &ldquo;alu&rdquo;,
@@ -79290,10 +80028,14 @@ hamaka:
       - pendlito
     spa:
     - - hamaca
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hängematte
+    fra:
+    - - hamac
+    rus:
+    - - гамак
+    zho:
+    - - 吊床
   etymology:
     natlang:
       Englisa: hammock
@@ -79314,10 +80056,15 @@ hambo:
     - - ŝinko
     spa:
     - - jamón
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Schinken
+    fra:
+    - - jambon
+    rus:
+    - - окорок
+      - ветчина
+    zho:
+    - - 火腿
   etymology:
     natlang:
       Arabisa: هَام &ldquo;ham&rdquo;
@@ -79349,10 +80096,15 @@ hamburger:
       - haburgaĵo
     spa:
     - - hamburguesa (<em>emparedado</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hamburger
+    fra:
+    - - hamburger
+    rus:
+    - - гамбургер
+    zho:
+    - - 漢堡
+      - 漢堡包
   etymology:
     natlang:
       Arabisa: هَامْبُرْغَر&lrm; &ldquo;hamburgar&rdquo;
@@ -79385,8 +80137,13 @@ hamile:
     spa:
     - - embarazado
       - preñado
-    deu: []
-    fra: []
+    deu:
+    - - schwanger
+      - trächtig
+    fra:
+    - - enceinte
+      - pleine
+      - gravide
     rus: []
     zho: []
   etymology:
@@ -79474,10 +80231,14 @@ hamir:
     - - pasto
     spa:
     - - masa (<em>cocina</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Teig
+    fra:
+    - - pâte (<em>pâtisserie</em>)
+    rus:
+    - - тесто
+    zho:
+    - - 面团
   etymology:
     natlang:
       Parsisa: خمیر &ldquo;hamir&rdquo;
@@ -79495,10 +80256,14 @@ hamuster:
     spa:
     - - hámster
       - <em>Cricetinae</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hamster
+    fra:
+    - - hamster
+    rus:
+    - - хомяк
+    zho:
+    - - 仓鼠
   etymology:
     natlang:
       Arabisa: هامستر &ldquo;hāmistar&rdquo;
@@ -79600,10 +80365,14 @@ hanjer:
       - daga
     - - apuñalar
       - acuchillar
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Dolch
+    fra:
+    - - poignard
+    rus:
+    - - кинжал
+    zho:
+    - - 匕首
   etymology:
     natlang:
       Arabisa: خنجر &ldquo;khanjar&rdquo;
@@ -79731,15 +80500,20 @@ hanta:
     - - mano
     - - manipular
       - manejar (<em>con las manos</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hand
+    fra:
+    - - main
+    rus:
+    - - рука
+    zho:
+    - - 手
   etymology:
     natlang:
       Doycisa: Hand
       Englisa: hand
-      Hindi: hatta
+      Hindi: हाथ &ldquo;hat&rdquo;
+      Panjabisa: ਹੱਥ &ldquo;hata&rdquo;
 hantabendu:
   term: hantabendu
   word class: b
@@ -98922,7 +99696,7 @@ juni:
       Espanisa: joven, juvenil
       Fransesa: jeune
       Hindi: जवान &ldquo;javani&rdquo;, युवा &ldquo;yuva&rdquo;
-      Parsisa: جوان  &ldquo;jav&acirc;n&rdquo;
+      Parsisa: جوان &ldquo;jav&acirc;n&rdquo;
       Rusisa: юный &ldquo;yuniy&rdquo;
       Telugusa: యువ &ldquo;yuva&rdquo;
     natlang similar:
@@ -116294,9 +117068,13 @@ kupon:
     - - kupono
     spa:
     - - cupón
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Kupon
+      - Coupon
+    fra:
+    - - coupon
+    rus:
+    - - купон
     zho: []
   etymology:
     natlang:
@@ -116308,7 +117086,7 @@ kupon:
       Hindi: कूपन &ldquo;kupan&rdquo;
       Indonesisa: kupon
       Koreasa: 쿠폰 &ldquo;kupon&rdquo;
-      Niponsa: クーポン &ldquo;kūpon&rdquo;
+      Niponsa: クーポン &ldquo;kupon&rdquo;
       Parsisa: کوپن &ldquo;kopon&rdquo;
       Pilipinasa: kupon
       Rusisa: купон &ldquo;kupon&rdquo;
@@ -116317,8 +117095,8 @@ kupon:
       Turkisa: kupon
 kupti:
   term: Kupti
-  word class: t
-  category: root
+  word class: su t
+  category: proper word
   trans:
     eng:
     - - Coptic
@@ -116327,8 +117105,11 @@ kupti:
     spa:
     - - copto
       - cóptico
-    deu: []
-    fra: []
+    deu:
+    - - koptisch
+    fra:
+    - - copte
+      - coptique
     rus:
     - - коптский
     zho:
@@ -116736,9 +117517,13 @@ kuruca:
       - gerigón
       - cariblanco
       - <em>Acanthizidae</em>
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Grasmücke
+    fra:
+    - - fauvette
+    rus:
+    - - камышовка
+      - камышевка
     zho: []
   etymology:
     natlang:
@@ -116757,10 +117542,14 @@ kuryum:
     spa:
     - - curio
       - Cm
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Curium
+    fra:
+    - - curium
+    rus:
+    - - кюрий
+    zho:
+    - - 锔
   etymology:
     natlang:
       Arabisa: كُورْيُوم &ldquo;kuryum&rdquo;
@@ -116791,10 +117580,16 @@ kusen:
     spa:
     - - cojín
       - almohadón
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Kissen
+    fra:
+    - - coussin
+    rus:
+    - - подушка
+    zho:
+    - - 垫子
+      - 软垫
+      - 靠垫
   etymology:
     natlang:
       Doycisa: Kissen
@@ -116908,10 +117703,18 @@ kutububaru:
     spa:
     - - oso polar
       - <em>Ursus maritimus</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Eisbär
+      - Polarbär
+    fra:
+    - - ours blanc
+      - ours polaire
+    rus:
+    - - белый медведь
+      - полярный медведь
+    zho:
+    - - 北极熊
+      - 白熊
   etymology:
     derived:
     - kutubu
@@ -117062,9 +117865,20 @@ kuzin:
       - kuzino
     spa:
     - - primo (<em>pariente; formal</em>)
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Cousin
+      - Vetter
+      - Cousine
+      - Kusine
+      - Base
+    fra:
+    - - cousin
+      - cousine
+    rus:
+    - - кузен
+      - кузина
+      - двоюродный брат
+      - двоюродная сестра
     zho: []
   etymology:
     natlang:
@@ -117084,10 +117898,14 @@ kwake:
     spa:
     - - pato
       - <em>Anatidae</em> (<em>excepto Anserinae</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Ente
+    fra:
+    - - canard
+    rus:
+    - - утка
+    zho:
+    - - 鸭子
   etymology:
     kwasilexi:
       Arabisa: وق وق &ldquo;waq-waq&rdquo;
@@ -117101,6 +117919,44 @@ kwake:
       Putunhwa: 呱 &ldquo;gwa&rdquo;
       Turkisa: vak
       Vyetnamsa: cạc cạc
+kwakeconce:
+  term: kwakeconce
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - platypus
+      - <em>Ornithorhynchidae</em>
+    epo:
+    - - ornitorinko
+      - anasbeka platopiedulo
+    spa:
+    - - ornitorrinco
+      - <em>Ornithorhynchidae</em>
+    deu:
+    - - Schnabeltier
+    fra:
+    - - ornithorynque
+    rus:
+    - - утконос
+    zho:
+    - - 鸭嘴兽
+  etymology:
+    derived:
+    - kwake
+    - +
+    - conce
+    natlang similar:
+      Arabisa: مِنقَارُ البَطَّة
+      Doycisa: Schnabeltier
+      Englisa: duckbill
+      Niponsa: 鴨嘴
+      Parsisa: نوک&zwnj;اردکی &ldquo;nok-ordaki&rdquo;
+      Putunhwa: 鸭嘴兽
+      Rusisa: утконос
+      Swahilisa: domobata
+      Turkisa: gagalı memeli
+      Vyetnamsa: th&uacute; mỏ vịt
 kwalita:
   term: kwalita
   word class: b
@@ -117188,10 +118044,14 @@ kwangu:
     - - erco
     spa:
     - - mena (<em>minería</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Erz
+    fra:
+    - - minerai
+    rus:
+    - - руда
+    zho:
+    - - 矿石
   etymology:
     natlang:
       Koreasa: 광석 &ldquo;gwangsok&rdquo;, 광 &ldquo;gwang&rdquo;
@@ -117397,10 +118257,18 @@ kwarentin:
     spa:
     - - cuarentena
     - - poner en cuarentena
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Quarantäne
+    - - unter Quarantäne stellen
+    fra:
+    - - quarantaine
+    - - mettre en quarantaine
+    rus:
+    - - карантин
+    - - помещать на карантин
+    zho:
+    - - 隔离
+      - 检疫
   etymology:
     natlang:
       Arabisa: كَرَنْتِينَة &ldquo;karantina&rdquo;
@@ -117426,9 +118294,12 @@ kwarentindo:
     - - kvarantenigita
     spa:
     - - en cuarentena
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - unter Quarantäne gestellt
+    fra:
+    - - mis en quarantaine
+    rus:
+    - - на карантине
     zho: []
   etymology:
     derived:
@@ -117446,10 +118317,15 @@ kwarku:
     - - kvarko
     spa:
     - - cuark
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Quark
+    fra:
+    - - quark
+    rus:
+    - - кварк
+    zho:
+    - - 夸克
+      - 层子
   etymology:
     natlang:
       Arabisa: كُوَارْك&lrm; &ldquo;kuwark&rdquo;
@@ -117480,10 +118356,16 @@ kwarzo:
     - - kvarco
     spa:
     - - cuarzo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Quarz
+    fra:
+    - - quartz
+      - cristal de roche
+    rus:
+    - - кварц
+    zho:
+    - - 水晶
+      - 石英
   etymology:
     natlang:
       Arabisa: كَوَارْتْز &ldquo;kawartz&rdquo;
@@ -117558,7 +118440,10 @@ kwasiatre:
     spa:
     - - padrastro
       - madrastra
-    deu: []
+    deu:
+    - - Stiefelternteil
+      - Stiefvater
+      - Stiefmutter
     fra: []
     rus: []
     zho: []
@@ -117584,7 +118469,10 @@ kwasibete:
       - vicfratino
     spa:
     - - hijastro
-    deu: []
+    deu:
+    - - Stiefkind
+      - Stiefsohn
+      - Stieftochter
     fra: []
     rus: []
     zho: []
@@ -117650,7 +118538,8 @@ kwasipatre:
     - - vicpatro
     spa:
     - - padrastro
-    deu: []
+    deu:
+    - - Stiefvater
     fra: []
     rus: []
     zho: []
@@ -117693,7 +118582,10 @@ kwasisodar:
     - - vicfrato
     spa:
     - - hermanastro
-    deu: []
+    deu:
+    - - Stiefgeschwister
+      - Stiefbruder
+      - Stiefschwester
     fra: []
     rus: []
     zho: []
@@ -117796,10 +118688,14 @@ kwir:
       - GLAT-e
     spa:
     - - <em>queer</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - queer
+    fra:
+    - - queer
+    rus:
+    - - квир
+    zho:
+    - - 酷儿
   etymology:
     natlang:
       Arabisa: كُوير &ldquo;kuyr&rdquo;
@@ -117864,10 +118760,24 @@ kyamatu:
       - armagedón
       - día del juicio
       - fin del mundo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Apokalypse
+      - Endzeit
+      - Jüngster Tag
+      - Jüngstes Gericht
+    fra:
+    - - apocalypse
+      - fin des temps
+      - jugement dernier
+    rus:
+    - - апокалипсис
+      - Армагеддон
+      - конец света
+      - судный день
+    zho:
+    - - 世界末日
+      - 末日
+      - 时间终结
   etymology:
     natlang:
       Arabisa: الْقِيَامَة &ldquo;al-qiyama&rdquo;
@@ -118193,10 +119103,16 @@ labirin:
     - - labirinto
     spa:
     - - laberinto
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Labyrinth
+      - Irrgarten
+    fra:
+    - - labyrinthe
+      - dédale
+    rus:
+    - - лабиринт
+    zho:
+    - - 迷宫
   etymology:
     natlang:
       Doycisa: Labyrinth
@@ -118221,10 +119137,14 @@ lablabu:
     spa:
     - - hiedra
       - <em>Hedera</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Efeu
+    fra:
+    - - lierre
+    rus:
+    - - плющ
+    zho:
+    - - 常春藤
   etymology:
     natlang:
       Arabisa: لَبْلَاب &ldquo;lablab&rdquo;
@@ -118277,10 +119197,15 @@ labya:
     - - lipo
     spa:
     - - labio
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Lippe
+      - Lefze
+    fra:
+    - - lèvre
+    rus:
+    - - губа
+    zho:
+    - - 嘴唇
   etymology:
     natlang:
       Doycisa: labial
@@ -118303,10 +119228,16 @@ labyali:
     - - lipe
     spa:
     - - labial
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Lippen-
+      - labial
+    fra:
+    - - labial
+    rus:
+    - - губной
+      - лабиальный
+    zho:
+    - - 唇的
   etymology:
     derived:
     - labya
@@ -118373,10 +119304,16 @@ lagun:
     - - laguna (costera)
       - albufera
       - estero
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Lagune
+    fra:
+    - - lagon
+      - lagune
+      - étang
+    rus:
+    - - лагуна
+    zho:
+    - - 潟湖
   etymology:
     natlang:
       Arabisa: لَاجُون &ldquo;lajun&rdquo;
@@ -118405,10 +119342,14 @@ laklake:
     spa:
     - - cigüeña
       - <em>Ciconiiformes</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Storch
+    fra:
+    - - cigongne
+    rus:
+    - - аист
+    zho:
+    - - 鹳鸟
   etymology:
     natlang:
       Arabisa: لَقْلَق &ldquo;laqlaq&rdquo;
@@ -118471,10 +119412,22 @@ lala:
     spa:
     - - canción
     - - cantar
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Lied
+      - Gesang
+      - Song
+    - - singen
+    fra:
+    - - chanson
+    - - chanter
+    rus:
+    - - песня
+    - - петь
+      - спеть
+    zho:
+    - - 歌曲
+      - 唱儿
+      - 唱歌
   etymology:
     natlang:
       Englisa: lullaby, la la la
@@ -118601,10 +119554,12 @@ lama:
       - praa
     spa:
     - - viejo (<em>antónimo de nuevo</em>)
-    deu: []
+    deu:
+    - - alt (<em>nicht neu</em>)
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 旧
   etymology:
     natlang:
       Indonesisa: lama
@@ -118801,10 +119756,14 @@ lampu:
     - - lampo
     spa:
     - - lámpara
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Lampe
+    fra:
+    - - lampe
+    rus:
+    - - лампа
+    zho:
+    - - 灯
   etymology:
     natlang:
       Arabisa: لَمْبة &ldquo;lamba&rdquo;
@@ -118976,10 +119935,14 @@ lantanum:
     spa:
     - - lantano
       - La
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Lanthan
+    fra:
+    - - lanthane
+    rus:
+    - - лантан
+    zho:
+    - - 镧
   etymology:
     natlang:
       Arabisa: لَنْثَانُوم &ldquo;lantanum&rdquo;
@@ -118992,7 +119955,7 @@ lantanum:
       Niponsa: ランタン &ldquo;rantan&rdquo;
       Parsisa: لانتان &ldquo;lantan&rdquo;
       Pilipinasa: lanatano, lanthanum
-      Putunhwa: 鑭 &ldquo;lan&rdquo;
+      Putunhwa: 镧 &ldquo;lan&rdquo;
       Rusisa: лантан &ldquo;lantan&rdquo;
       Swahilisa: lanthani
       Telugusa: లాంథనం &ldquo;lantanam&rdquo;
@@ -119010,10 +119973,12 @@ lao:
     spa:
     - - viejo (<em>antónimo de joven</em>)
       - mayor
-    deu: []
+    deu:
+    - - alt (<em>nicht jung</em>)
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 老
   etymology:
     natlang:
       Niponsa: 老 &ldquo;ro&rdquo;
@@ -119228,11 +120193,14 @@ laringe:
     - - laringo
     spa:
     - - laringe
-    deu: []
-    fra: []
+    deu:
+    - - Kehlkopf
+    fra:
+    - - larynx
     rus:
     - - гортанный
-    zho: []
+    zho:
+    - - 喉头
   etymology:
     natlang:
       Doycisa: Laryngitis
@@ -119255,10 +120223,14 @@ larva:
     - - larvo
     spa:
     - - larva
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Larve
+    fra:
+    - - larve
+    rus:
+    - - личинка
+    zho:
+    - - 幼虫
   etymology:
     natlang:
       Doycisa: Larve
@@ -119281,10 +120253,14 @@ laser:
     - - lasero
     spa:
     - - láser
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Laser
+    fra:
+    - - laser
+    rus:
+    - - лазер
+    zho:
+    - - 激光
   etymology:
     natlang:
       Arabisa: لَيْزِر&lrm; &ldquo;layzir&rdquo;
@@ -119314,10 +120290,14 @@ lateksu:
     - - latekso
     spa:
     - - látex
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Latex
+    fra:
+    - - latex
+    rus:
+    - - латекс
+    zho:
+    - - 橡浆
   etymology:
     natlang:
       Arabisa: لاتكس &ldquo;latiks&rdquo;
@@ -123048,6 +124028,7 @@ lilhaliju:
   trans:
     eng:
     - - bay
+      - cove
     epo:
     - - golfeto
     spa:
@@ -123057,9 +124038,12 @@ lilhaliju:
     deu:
     - - Bucht
       - Meeresbucht
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - baie
+    rus:
+    - - бухта
+    zho:
+    - - 小灣
   etymology:
     derived:
     - lil-
@@ -152448,7 +153432,7 @@ oboe:
     - - 双簧管
   etymology:
     natlang:
-      Arabisa: أُوبُوَا  &ldquo;ubuwa&rdquo;
+      Arabisa: أُوبُوَا &ldquo;ubuwa&rdquo;
       Doycisa: Oboe
       Englisa: oboe
       Espanisa: oboe
@@ -166034,6 +167018,33 @@ porgi:
     - por
     - +
     - -gi
+pori:
+  term: pori
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - pore
+    epo:
+    - - poro
+    spa:
+    - - poro
+    deu:
+    - - Pore
+    fra:
+    - - pore
+    rus:
+    - - пора
+    zho:
+    - - 毛孔
+  etymology:
+    natlang:
+      Doycisa: Pore
+      Englisa: pore
+      Espanisa: poro
+      Fransesa: pore
+      Indonesisa: pori
+      Rusisa: пора &ldquo;pora&rdquo;
 poriji:
   term: poriji
   word class: b
@@ -180164,6 +181175,32 @@ sargaso:
       Swahilisa: Sargasso
       Turkisa: sargasso
       Vyetnamsa: Sargasso
+sari:
+  term: sari
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - starling
+      - <em>Sturnidae</em>
+    epo:
+    - - sturno
+    spa:
+    - - estornino
+      - <em>Sturnidae</em>
+    deu:
+    - - Star (<em>Vogel</em>)
+    fra:
+    - - étourneau
+    rus:
+    - - скворец
+    zho:
+    - - 椋鸟
+  etymology:
+    natlang:
+      Hindi (सारिका &ldquo;sarika&rdquo;, शारि &ldquo;xari&rdquo;) Telugusa: శారి
+        &ldquo;xari&rdquo;
+      Parsisa: سار &ldquo;s&acirc;r&rdquo;, ساری &ldquo;s&acirc;ri&rdquo; - guxi
 sarjenti:
   term: sarjenti
   word class: b
@@ -181113,6 +182150,40 @@ sefani:
       Telugusa: జెఫన్యా &quot;Jefanya&quot;
       Turkisa: Sefanya
       Vyetnamsa: S&ocirc;-ph&ocirc;-ni
+sefardi:
+  term: Sefardi
+  word class: su t
+  category: proper word
+  trans:
+    eng:
+    - - Sephardi
+      - Sephardic
+    epo:
+    - - sefarda
+    spa:
+    - - sefardí
+      - sefardita
+    deu:
+    - - sephardisch
+      - sefardisch
+    fra:
+    - - séfarade
+    rus:
+    - - сефардский
+    zho:
+    - - 塞法迪
+  etymology:
+    natlang:
+      Arabisa (سِفَارْدِيّ &ldquo;Sifardiy&rdquo;) Hindi: सेफ़र्डी &ldquo;Sefardi&rdquo;
+      Englisa (Sephardi, Sephardic) Doycisa (sephardisch, sefardisch) Espanisa: sefard&iacute;
+      Fransesa: s&eacute;farade
+      Indonesisa: Sefardi
+      Koreasa: 스파라드 &ldquo;Suparadu&rdquo;
+      Niponsa (セファルディム &ldquo;Sefarudimu&rdquo;) Parsisa: سِفاردی &ldquo;Sef&acirc;rdi&rdquo;
+      Putunhwa: 塞法迪 &ldquo;Sayfadi&rdquo;
+      Rusisa: сефардский &ldquo;sefardskiy&rdquo;
+      Turkisa: Sefaradi
+      Vyetnamsa: Người Do Th&aacute;i Sephardi
 sefide:
   term: sefide
   word class: t
@@ -187420,11 +188491,14 @@ somali:
       - Somalujo
     spa:
     - - Somalia
-    deu: []
-    fra: []
+    deu:
+    - - Somalia
+    fra:
+    - - Somalie
     rus:
     - - Сомали
-    zho: []
+    zho:
+    - - 索马里
   etymology:
     natlang:
       Somalisa: Soomaaliya
@@ -188221,11 +189295,16 @@ sovyeti:
     - - sovete
     spa:
     - - soviético
-    deu: []
-    fra: []
+    deu:
+    - - sowjetisch
+      - Sowjet-
+    fra:
+    - - soviétique
     rus:
     - - советский
-    zho: []
+    zho:
+    - - 苏维埃
+      - 苏联的
   etymology:
     natlang:
       Rusisa: советский &ldquo;sovyetskiy&rdquo;, совет &ldquo;sovyet&rdquo;
@@ -188431,11 +189510,14 @@ sudan:
     - - Sudano
     spa:
     - - Sudán
-    deu: []
-    fra: []
+    deu:
+    - - Sudan
+    fra:
+    - - Soudan
     rus:
     - - Судан
-    zho: []
+    zho:
+    - - 苏丹
   etymology:
     natlang:
       Arabisa: السودان&lrm; &ldquo;as-Sūdān&rdquo;
@@ -188478,11 +189560,14 @@ sudeafrika:
     - - Sud-Afriko
     spa:
     - - Sudáfrica
-    deu: []
-    fra: []
+    deu:
+    - - Südafrika
+    fra:
+    - - Afrique du Sud
     rus:
     - - Южная Африка
-    zho: []
+    zho:
+    - - 南非
   etymology:
     derived:
     - sude
@@ -188588,11 +189673,14 @@ sudekorea:
       - Sud-Koreujo
     spa:
     - - Corea del Sur
-    deu: []
-    fra: []
+    deu:
+    - - Südkorea
+    fra:
+    - - Corée du Sud
     rus:
     - - Южная Корея
-    zho: []
+    zho:
+    - - 韩国
   etymology:
     derived:
     - sude
@@ -188633,11 +189721,14 @@ sudesudan:
       - Suda Sudano
     spa:
     - - Sudán del Sur
-    deu: []
-    fra: []
+    deu:
+    - - Südsudan
+    fra:
+    - - Sud-Soudan
     rus:
     - - Южный Судан
-    zho: []
+    zho:
+    - - 南苏丹
   etymology:
     derived:
     - sude
@@ -188742,7 +189833,7 @@ suhecu:
   category: derived
   trans:
     eng:
-    - - dry
+    - - (become) dry
     epo:
     - - sekiĝo
     - - sekiĝi
@@ -188783,7 +189874,7 @@ suhegi:
   category: derived
   trans:
     eng:
-    - - dry
+    - - dry (something)
     epo:
     - - sekigo
     - - sekigi
@@ -189283,11 +190374,14 @@ sulawesi:
     spa:
     - - Célebes (<em>mar</em>)
       - Sulawesi
-    deu: []
-    fra: []
+    deu:
+    - - Sulawesi
+    fra:
+    - - Sulawesi
     rus:
     - - Сулавеси
-    zho: []
+    zho:
+    - - 苏拉威西
   etymology:
     natlang:
       Arabisa: سولاوسي &ldquo;Sulawisi&rdquo;
@@ -189433,11 +190527,14 @@ sulu:
     - - Suluo
     spa:
     - - Joló (<em>mar</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Sulu (<em>Provinz</em>)
+    fra:
+    - - Sulu (<em>province</em>)
     rus:
     - - Сулу
-    zho: []
+    zho:
+    - - 苏禄省
   etymology:
     natlang:
       Arabisa: سولو &ldquo;Sulu&rdquo;
@@ -190431,11 +191528,14 @@ suri:
     - - Sirio
     spa:
     - - Siria
-    deu: []
-    fra: []
+    deu:
+    - - Syrien
+    fra:
+    - - Syrie
     rus:
     - - Сирия
-    zho: []
+    zho:
+    - - 叙利亚
   etymology:
     natlang:
       Arabisa: سوريا&lrm; Sūriyā
@@ -190450,11 +191550,16 @@ surinam:
     - - Surinamo
     spa:
     - - Surinam
-    deu: []
-    fra: []
+    deu:
+    - - Suriname
+      - Surinam
+    fra:
+    - - Suriname
+      - Surinam
     rus:
     - - Суринам
-    zho: []
+    zho:
+    - - 苏里南
   etymology:
     natlang:
       Nederisa: Suriname
@@ -191004,11 +192109,15 @@ swahili:
     - - svahile
     spa:
     - - suajili
-    deu: []
-    fra: []
+    deu:
+    - - swahili
+      - suaheli
+    fra:
+    - - swahili
     rus:
     - - суахили
-    zho: []
+    zho:
+    - - 斯瓦希里
   etymology:
     natlang:
       Swahilisa: Swahili
@@ -191095,11 +192204,17 @@ swatini:
     spa:
     - - Suazilandia
       - Esuatini
-    deu: []
-    fra: []
+    deu:
+    - - Eswatini
+      - Swasiland
+    fra:
+    - - Eswatini
+      - Swaziland
     rus:
     - - Эсватини
-    zho: []
+    zho:
+    - - 斯威士兰
+      - 史瓦帝尼
   etymology:
     natlang:
       Englisa: Eswatini, Swati
@@ -191158,11 +192273,14 @@ sweri:
       - Svedujo
     spa:
     - - Suecia
-    deu: []
-    fra: []
+    deu:
+    - - Schweden
+    fra:
+    - - Suède
     rus:
     - - Швеция
-    zho: []
+    zho:
+    - - 瑞典
   etymology:
     natlang:
       Swerisa: Sverige
@@ -191554,11 +192672,14 @@ switze:
       - Svisujo
     spa:
     - - Suiza
-    deu: []
-    fra: []
+    deu:
+    - - Schweiz
+    fra:
+    - - Suisse
     rus:
     - - Швейцария
-    zho: []
+    zho:
+    - - 瑞士
   etymology:
     natlang:
       Doycisa: Schweiz
@@ -191615,11 +192736,14 @@ swomi:
     - - Finnlando
     spa:
     - - Finlandia
-    deu: []
-    fra: []
+    deu:
+    - - Finnland
+    fra:
+    - - Finlande
     rus:
     - - Финляндия
-    zho: []
+    zho:
+    - - 芬兰
   etymology:
     natlang:
       Swomisa: Suomi
@@ -191901,11 +193025,14 @@ syeraleon:
       - Siera-Leono
     spa:
     - - Sierra Leona
-    deu: []
-    fra: []
+    deu:
+    - - Sierra Leone
+    fra:
+    - - Sierra Leone
     rus:
     - - Сьерра-Леоне
-    zho: []
+    zho:
+    - - 塞拉利昂
   etymology:
     natlang:
       Englisa: Sierra Leone
@@ -191920,10 +193047,14 @@ syon:
     - - Ciono
     spa:
     - - Sion
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Zion
+    fra:
+    - - Sion
+    rus:
+    - - Сион
+    zho:
+    - - 锡安
   etymology:
     natlang:
       Arabisa: صَهْيُون &ldquo;Sahyun&rdquo;
@@ -193093,11 +194224,14 @@ tamil:
       - Tamilio
     spa:
     - - Tamil Nadu (<em>estado de India</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Tamil Nadu
+    fra:
+    - - Tamil Nadu
     rus:
     - - Тамилнад
-    zho: []
+    zho:
+    - - 泰米尔纳德
   etymology:
     natlang:
       Tamilsa: தமிழ் நாடு &ldquo;tamil nadu&rdquo;
@@ -193481,11 +194615,14 @@ tanzani:
     - - Tanzanio
     spa:
     - - Tanzania
-    deu: []
-    fra: []
+    deu:
+    - - Tansania
+    fra:
+    - - Tanzanie
     rus:
     - - Танзания
-    zho: []
+    zho:
+    - - 坦桑尼亚
   etymology:
     natlang:
       Swahilisa: Tanzania
@@ -194429,11 +195566,14 @@ tay:
     - - Tajlando
     spa:
     - - Tailandia
-    deu: []
-    fra: []
+    deu:
+    - - Thailand
+    fra:
+    - - Thaïlande
     rus:
     - - Таиланд
-    zho: []
+    zho:
+    - - 泰国
   etymology:
     natlang:
       Taysa: ไทย &ldquo;thai&rdquo;
@@ -194686,11 +195826,15 @@ taywan:
       - Tajujo
     spa:
     - - Taiwán
-    deu: []
-    fra: []
+    deu:
+    - - Taiwan
+    fra:
+    - - Taïwan
     rus:
     - - Тайвань
-    zho: []
+    zho:
+    - - 臺灣
+      - 台湾
   etymology:
     natlang:
       Putunhwa: 臺灣 &ldquo;T&aacute;iwān&rdquo;
@@ -195534,11 +196678,15 @@ telugu:
     - - telugue
     spa:
     - - télugu
-    deu: []
-    fra: []
+    deu:
+    - - telugisch
+      - telugu
+    fra:
+    - - télougou
     rus:
     - - телугу
-    zho: []
+    zho:
+    - - 泰卢固
   etymology:
     natlang:
       Telugusa: తెలుగు &ldquo;Telugu&rdquo;
@@ -196160,11 +197308,14 @@ tenwo:
     - - Urano (<em>planedo</em>)
     spa:
     - - Urano (<em>planeta</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Uranus
+    fra:
+    - - Uranus
     rus:
     - - Уран
-    zho: []
+    zho:
+    - - 天王星
   etymology:
     natlang:
       Koreasa: 천왕성 &ldquo;cheon-wangseong&rdquo;
@@ -196902,10 +198053,18 @@ tesaloni:
     spa:
     - - Tesalónica
       - Salónica
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Thessaloniki
+      - Saloniki
+    fra:
+    - - Thessalonique
+      - Salonique
+    rus:
+    - - Салоники
+      - Фессалоники
+    zho:
+    - - 塞萨洛尼基
+      - 帖撒罗尼迦
   etymology:
     natlang:
       Arabisa: سالونيك &quot;Salunik&quot;
@@ -197952,10 +199111,14 @@ tireni:
     - - Tirreno (<em>mar</em>)
       - Tirrenia (<em>región</em>)
       - Etruria
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Tyrrhenisches
+    fra:
+    - - Tyrrhénienne
+    rus:
+    - - Тирренское
+    zho:
+    - - 第勒尼安
   etymology:
     natlang:
       Arabisa: الْتِيرَانِيّ &ldquo;al-Tiraniy&rdquo;
@@ -198129,11 +199292,14 @@ tobago:
     - - Tobago
     spa:
     - - Tobago
-    deu: []
-    fra: []
+    deu:
+    - - Tobago
+    fra:
+    - - Tobago
     rus:
     - - Тобаго
-    zho: []
+    zho:
+    - - 多巴哥岛
   etymology:
     natlang:
       Englisa: Tobago
@@ -199093,11 +200259,14 @@ tonga:
     - - Tongo
     spa:
     - - Tonga
-    deu: []
-    fra: []
+    deu:
+    - - Tonga
+    fra:
+    - - Tonga
     rus:
     - - Тонга
-    zho: []
+    zho:
+    - - 汤加
   etymology:
     natlang:
       Englisa: Tonga
@@ -202121,11 +203290,14 @@ tunisi:
     - - Tunizio
     spa:
     - - Túnez
-    deu: []
-    fra: []
+    deu:
+    - - Tunisien
+    fra:
+    - - Tunisie
     rus:
     - - Тунис
-    zho: []
+    zho:
+    - - 突尼斯
   etymology:
     natlang:
       Arabisa: التونسية &ldquo;al-tūnisiyah&rdquo;
@@ -202399,11 +203571,14 @@ turki:
       - Turkio
     spa:
     - - Turquía
-    deu: []
-    fra: []
+    deu:
+    - - Türkei
+    fra:
+    - - Turkquie
     rus:
     - - Турция
-    zho: []
+    zho:
+    - - 土耳其
   etymology:
     natlang:
       Turkisa: T&uuml;rkiye
@@ -202480,12 +203655,15 @@ turkmeni:
       - Turkmenujo
     spa:
     - - Turkmenistán
-    deu: []
-    fra: []
+    deu:
+    - - Turkmenistan
+    fra:
+    - - Turkménistan
     rus:
     - - Туркменистан
       - Туркмения
-    zho: []
+    zho:
+    - - 土库曼斯坦
   etymology:
     natlang:
       Turkmenisa: T&uuml;rkmenistan
@@ -202793,11 +203971,14 @@ tuvalu:
     - - Tuvalo
     spa:
     - - Tuvalu
-    deu: []
-    fra: []
+    deu:
+    - - Tuvalu
+    fra:
+    - - Tuvalu
     rus:
     - - Тувалу
-    zho: []
+    zho:
+    - - 图瓦卢
   etymology:
     natlang:
       Englisa: Tuvalu
@@ -203265,11 +204446,14 @@ uganda:
     - - Ugando
     spa:
     - - Uganda
-    deu: []
-    fra: []
+    deu:
+    - - Uganda
+    fra:
+    - - Ouganda
     rus:
     - - Уганда
-    zho: []
+    zho:
+    - - 乌干达
   etymology:
     natlang:
       Swahilisa: Uganda
@@ -203393,11 +204577,14 @@ ukraina:
       - Ukrajno
     spa:
     - - Ucrania
-    deu: []
-    fra: []
+    deu:
+    - - Ukraine
+    fra:
+    - - Ukraine
     rus:
     - - Украина
-    zho: []
+    zho:
+    - - 乌克兰
   etymology:
     natlang:
       Ukrainasa: Україна &ldquo;Ukrayina&rdquo;
@@ -204677,7 +205864,8 @@ urdu:
       - la urdua (lingvo)
     spa:
     - - (idioma) urdu
-    deu: []
+    deu:
+    - - Urdu
     fra:
     - - ourdou
     rus:
@@ -204698,11 +205886,14 @@ urdun:
     - - Jordanio
     spa:
     - - Jordania
-    deu: []
-    fra: []
+    deu:
+    - - Jordanien
+    fra:
+    - - Jordanie
     rus:
     - - Иордания
-    zho: []
+    zho:
+    - - 约旦
   etymology:
     natlang:
       Arabisa: الأردن &ldquo;al-ʾUrdunn&rdquo;
@@ -204741,11 +205932,14 @@ urugway:
     - - Urugvajo
     spa:
     - - Uruguay
-    deu: []
-    fra: []
+    deu:
+    - - Uruguay
+    fra:
+    - - Uruguay
     rus:
     - - Уругвай
-    zho: []
+    zho:
+    - - 乌拉圭
   etymology:
     natlang:
       Espanisa: Uruguay
@@ -204765,13 +205959,22 @@ usa:
       - EE UU
       - EUA
       - <em>USA</em>
-    deu: []
-    fra: []
+    deu:
+    - - Vereinigte Staaten (von Amerika)
+      - Amerika
+      - USA
+    fra:
+    - - États-Unis (d'Amérique)
+      - Amérique
+      - ÉUA
+      - USA
     rus:
     - - Соединённые Штаты (Америки)
       - США
       - Америка
-    zho: []
+    zho:
+    - - 美利坚合众国
+      - 美国
   etymology:
     natlang:
       Englisa: U.S.A
@@ -205609,11 +206812,14 @@ vanwatu:
     - - Vanuatuo
     spa:
     - - Vanuatu
-    deu: []
-    fra: []
+    deu:
+    - - Vanuatu
+    fra:
+    - - Vanuatu
     rus:
     - - Вануату
-    zho: []
+    zho:
+    - - 瓦努阿图
   etymology:
     natlang:
       Bislama: Vanuatu
@@ -205973,11 +207179,15 @@ venezwela:
     - - Venezuelo
     spa:
     - - Venezuela
-    deu: []
-    fra: []
+    deu:
+    - - Venezuela
+    fra:
+    - - Venezuela
+      - Vénézuéla
     rus:
     - - Венесуэла
-    zho: []
+    zho:
+    - - 委内瑞拉
   etymology:
     natlang:
       Espanisa: Venezuela
@@ -207192,11 +208402,16 @@ vyetnam:
       - Vjetnamujo
     spa:
     - - Vietnam
-    deu: []
-    fra: []
+    deu:
+    - - Vietnam
+    fra:
+    - - Vietnam
+      - Viet Nam
+      - Viêt Nam
     rus:
     - - Вьетнам
-    zho: []
+    zho:
+    - - 越南
   etymology:
     natlang:
       Vyetnamsa: Việt Nam
@@ -209266,6 +210481,7 @@ wiski:
   trans:
     eng:
     - - whiskey
+      - whisky
     epo:
     - - viskio
     spa:
@@ -209294,6 +210510,44 @@ wiski:
       Swahilisa: wiski
       Telugusa: విస్కీ &ldquo;viski&rdquo;
       Vyetnamsa: whisky, whiskey, u&yacute;t-ki
+wisterya:
+  term: wisterya
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - wisteria
+    epo:
+    - - visterio
+    spa:
+    - - glicina
+      - glicinia
+      - <em>Wisteria</em>
+    deu:
+    - - Blauregen
+      - Wisterie
+      - Wistarie
+      - Glyzinie
+      - Glyzine
+      - Glycine
+      - Glycinie
+    fra:
+    - - glycine
+      - <em>Wisteria</em>
+    rus:
+    - - глициния
+      - вистерия
+    zho:
+    - - 紫藤
+  etymology:
+    natlang:
+      Arabisa: الوِسْتارية &ldquo;alwistarya&rdquo;
+      Doycisa: Wisterie
+      Englisa: wisteria
+      Espanisa: wisteria
+      Hindi: विस्टीरिया &ldquo;vistiriya&rdquo;
+      Rusisa: вистерия &ldquo;visteriya&rdquo;
+      Telugusa: విస్టేరియా &ldquo;visteriya&rdquo;
 wixin:
   term: wixin
   word class: b
@@ -210556,11 +211810,14 @@ xani:
     - - Saturno (<em>planedo</em>)
     spa:
     - - Saturno (<em>planeta</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Saturn
+    fra:
+    - - Saturne
     rus:
     - - Сатурн
-    zho: []
+    zho:
+    - - 土星
   etymology:
     natlang:
       Hindi: शनि &ldquo;śani&rdquo;
@@ -215201,12 +216458,15 @@ yehudi:
     - - jude
     spa:
     - - judío
-    deu: []
-    fra: []
+    deu:
+    - - jüdisch
+    fra:
+    - - juif
     rus:
     - - иудейский
       - еврейский
-    zho: []
+    zho:
+    - - 犹太
   etymology:
     natlang:
       Ivrisa: יְהוּדִי &ldquo;yehudi&rdquo;
@@ -215264,11 +216524,14 @@ yemen:
     - - Jemeno
     spa:
     - - Yemen
-    deu: []
-    fra: []
+    deu:
+    - - Jemen
+    fra:
+    - - Yémen
     rus:
     - - Йемен
-    zho: []
+    zho:
+    - - 也门
   etymology:
     natlang:
       Arabisa: ٱلْيَمَن &ldquo;yaman&rdquo;
@@ -215397,10 +216660,14 @@ yerusalem:
     - - Jerusalemo
     spa:
     - - Jerusalén
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Jerusalem
+    fra:
+    - - Jérusalem
+    rus:
+    - - Иерусалим
+    zho:
+    - - 耶路撒冷
   etymology:
     natlang:
       Doycisa: Jerusalem
@@ -215587,10 +216854,18 @@ yidix:
     - - yidis
       - yiddish
       - ídish
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Jiddisch
+      - Jüdischdeutsch
+      - Judendeutsch
+    fra:
+    - - yiddish
+      - yidich
+    rus:
+    - - Идиш
+    zho:
+    - - 意第绪语
+      - 依地语
   etymology:
     natlang:
       Arabisa: اليديشية &ldquo;al-yidixiya&rdquo;
@@ -216317,11 +217592,18 @@ yonyo:
     spa:
     - - Jónico (<em>mar</em>)
       - Jónicas (<em>islas</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Ionisches Meer
+      - Ionischen Inseln
+    fra:
+    - - îles Ioniennes
+      - mer Ionienne
     rus:
-    - - Ионическое
-    zho: []
+    - - Ионические острова
+      - Ионическое море
+    zho:
+    - - 伊奥尼亚群岛
+      - 伊奥尼亚海
   etymology:
     natlang:
       Arabisa: الأيوني &ldquo;al-Ayuni&rdquo;
@@ -217480,11 +218762,14 @@ zambi:
     - - Zambio
     spa:
     - - Zambia
-    deu: []
-    fra: []
+    deu:
+    - - Sambia
+    fra:
+    - - Zambie
     rus:
     - - Замбия
-    zho: []
+    zho:
+    - - 赞比亚
   etymology:
     natlang:
       Englisa: Zambia
@@ -217877,11 +219162,14 @@ zimbabwe:
     - - Zimbabvo
     spa:
     - - Zimbabue
-    deu: []
-    fra: []
+    deu:
+    - - Simbabwe
+    fra:
+    - - Zimbabwe
     rus:
     - - Зимбабве
-    zho: []
+    zho:
+    - - 津巴布韦
   etymology:
     natlang:
       Batongasa: Zimbabwe
@@ -218289,11 +219577,14 @@ zuhura:
     - - Venuso
     spa:
     - - Venus (<em>planeta</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Venus
+    fra:
+    - - Vénus
     rus:
     - - Венера
-    zho: []
+    zho:
+    - - 金星
   etymology:
     natlang:
       Arabisa: الزهرة &ldquo;alzahra&rdquo;
