@@ -1834,7 +1834,7 @@ antidokya:
   term: antidokya
   class: b.oj
   category: derived
-  translation: kontraŭveneno, antidoto
+  translation: kontraŭveneno, antiveneno, antidoto
 antigutonente:
   term: antigutonente
   class: b
@@ -2134,7 +2134,7 @@ arpun:
   term: arpun
   class: b.oj
   category: root
-  translation: harpuno
+  translation: harpuno; harpuni
 arseniko:
   term: arseniko
   class: b
@@ -2424,7 +2424,7 @@ asuransu:
   term: asuransu
   class: b.oj
   category: root
-  translation: asekuro
+  translation: asekuro; asekuri
 asuransuli_kontrata:
   term: asuransuli kontrata
   class: b
@@ -2699,12 +2699,12 @@ awjuicu:
   term: awjuicu
   class: b.nenoj
   category: derived
-  translation: malatentiĝi, distriĝi
+  translation: malatentiĝo, distriĝo; malatentiĝi, distriĝi
 awjuigi:
   term: awjuigi
   class: b.oj
   category: derived
-  translation: malatentigi, distri
+  translation: malatentigo, distro; malatentigi, distri
 awmafu:
   term: awmafu
   class: b.oj
@@ -2714,7 +2714,7 @@ awmotsu:
   term: awmotsu
   class: b.oj
   category: derived
-  translation: forviŝi, forskrapi, deskrapi
+  translation: forviŝo, forskrapo, deskrapo; forviŝi, forskrapi, deskrapi
 awmotsutul:
   term: awmotsutul
   class: b
@@ -3120,7 +3120,7 @@ bagor:
   term: bagor
   class: b.oj
   category: root
-  translation: barilo
+  translation: barilo; ĉirkaŭi per barilo
 bahama:
   term: Bahama
   class: su n
@@ -4685,7 +4685,7 @@ blogu:
   term: blogu
   class: b.oj
   category: root
-  translation: blogo
+  translation: blogo; blogi
 bloki:
   term: bloki
   class: b.oj
@@ -5080,7 +5080,7 @@ bowlin:
   term: bowlin
   class: b.oj.ru
   category: root
-  translation: kegloludo
+  translation: kegloludo; kegli
 bowlinbol:
   term: bowlinbol
   class: b
@@ -5280,7 +5280,7 @@ broxa:
   term: broxa
   class: b.oj
   category: root
-  translation: broso
+  translation: broso; brosi
 brunay:
   term: Brunay
   class: su n
@@ -5400,7 +5400,7 @@ bulbula:
   term: bulbula
   class: b.nenoj
   category: root
-  translation: bobelo
+  translation: bobelo; bobeli
 bulbulu:
   term: bulbulu
   class: b
@@ -5600,7 +5600,7 @@ burinforme:
   term: burinforme
   class: b.oj
   category: derived
-  translation: disinformo, (intenca) misinformo; disinforme, (intence) misinformi
+  translation: disinformo, (intenca) misinformo; disinformi, (intence) misinformi
 burinsanli:
   term: burinsanli
   class: t
@@ -5746,7 +5746,7 @@ buter:
   term: buter
   class: b.oj
   category: root
-  translation: butero
+  translation: butero; buteri
 buterpul:
   term: buterpul
   class: t
@@ -5871,7 +5871,7 @@ caluneskeyti:
   term: caluneskeyti
   class: b.oj.ru
   category: derived
-  translation: rulsketado
+  translation: rulsketado; rulsketi
 calunkursi:
   term: calunkursi
   class: b
@@ -6632,6 +6632,11 @@ cita:
   class: b
   category: root
   translation: gepardo
+citrus:
+  term: citrus
+  class: b
+  category: root
+  translation: citruso
 civil:
   term: civil
   class: t
@@ -7262,6 +7267,11 @@ dao:
   class: b.oj.ru
   category: root
   translation: vojo, irejo; vojaĝi, laŭiri, veturi
+daodo:
+  term: daodo
+  class: t
+  category: derived
+  translation: vojaĝita, laŭirita, veturita
 daoismo:
   term: daoismo
   class: b
@@ -7882,6 +7892,11 @@ daysurprisane:
   class: t
   category: derived
   translation: surprizega; surprizege
+daytabasum:
+  term: daytabasum
+  class: b.oj.ru
+  category: derived
+  translation: larĝa rideto; larĝe rideti
 daytermopul:
   term: daytermopul
   class: t
@@ -8062,7 +8077,7 @@ delusi:
   class: b.oj
   category: root
   translation: deluzio, (psikopatologia) miskredo, deliraĵo, sintrompa iluzio, falsa
-    ideo
+    ideo; kredigi (falsaĵon), iluzii
 delusido:
   term: delusido
   class: t
@@ -8522,7 +8537,7 @@ detale:
   term: detale
   class: b.oj
   category: root
-  translation: detalo
+  translation: detalo; detali
 detalepul:
   term: detalepul
   class: t
@@ -9728,6 +9743,11 @@ dyabolsim:
   class: t
   category: derived
   translation: diaboleca; diabolece
+dyafragma:
+  term: dyafragma
+  class: b
+  category: root
+  translation: diafragmo
 dyer:
   term: dyer
   class: t
@@ -10037,7 +10057,7 @@ eletri:
   term: eletri
   class: b.oj
   category: root
-  translation: elektro
+  translation: elektro; elektri
 eletrigitara:
   term: eletrigitara
   class: b
@@ -10148,11 +10168,6 @@ emanwel:
   class: su n
   category: proper word
   translation: Emanuel
-embasidom:
-  term: embasidom
-  class: b
-  category: derived
-  translation: ambasadejo
 emblema:
   term: emblema
   class: b
@@ -10197,7 +10212,7 @@ energi:
   term: energi
   class: b.oj
   category: root
-  translation: energio
+  translation: energio; energii
 energipul:
   term: energipul
   class: t
@@ -10978,7 +10993,7 @@ estigma:
   term: estigma
   class: b.oj
   category: root
-  translation: stigmato
+  translation: stigmato; stigmatizi
 estigmado:
   term: estigmado
   class: t
@@ -11029,7 +11044,7 @@ estoka:
   term: estoka
   class: b.oj
   category: root
-  translation: stoko, inventaro
+  translation: stoko, inventaro; stoki
 estomotsufono:
   term: estomotsufono
   class: b
@@ -11044,7 +11059,7 @@ estrategi:
   term: estrategi
   class: b.oj
   category: root
-  translation: strategio
+  translation: strategio; fari strategion
 estrategili:
   term: estrategili
   class: t
@@ -11062,6 +11077,11 @@ estres:
   translation: streso; stresigi, esti stresita
 estresdo:
   term: estresdo
+  class: t
+  category: derived
+  translation: stresigita, stresiĝinta
+estrespul:
+  term: estrespul
   class: t
   category: derived
   translation: stresiĝinta, stresigita
@@ -11534,7 +11554,7 @@ exya:
   term: exya
   class: b.oj
   category: derived
-  translation: ekstero
+  translation: ekstero; esti en la ekstero (de)
 eya:
   term: eya
   class: b
@@ -11699,7 +11719,7 @@ falya:
   term: falya
   class: b.oj
   category: derived
-  translation: de, fare de
+  translation: esti (farita) de
 famil:
   term: famil
   class: b
@@ -13462,7 +13482,7 @@ fosil:
   term: fosil
   class: b.oro
   category: root
-  translation: fosilio
+  translation: 'fosilio; tr: fosiliigi, netr: fosiliiĝi'
 fosilcu:
   term: fosilcu
   class: b.nenoj
@@ -13518,6 +13538,11 @@ fransyum:
   class: b
   category: root
   translation: franciumo, francio
+fratal:
+  term: fratal
+  class: b
+  category: root
+  translation: fraktalo, frakto
 fremu:
   term: fremu
   class: b.oj
@@ -15069,7 +15094,7 @@ grupo:
   term: grupo
   class: b.oj
   category: root
-  translation: grupo
+  translation: grupo; grupigi
 grupoxube:
   term: grupoxube
   class: b
@@ -18914,7 +18939,7 @@ jensikwir:
   translation: genrokvira
 jento:
   term: jento
-  class: b.oj
+  class: b.oj.ru
   category: root
   translation: batalo; batali
 jentodalu:
@@ -22943,7 +22968,7 @@ kuvu:
   term: kuvu
   class: b
   category: root
-  translation: ŝimo, melduo
+  translation: ŝimo, melduo; ŝimi
 kuvupul:
   term: kuvupul
   class: t
@@ -23641,7 +23666,8 @@ lefegaminame:
   term: lefegaminame
   class: b
   category: derived
-  translation: fraŭlina nomo, fraŭla nomo
+  translation: denaska nomo, antaŭedziniĝa nomo, antaŭedziĝa nomo, fraŭlina nomo,
+    fraŭla nomo
 lefeixara:
   term: lefeixara
   class: b.oj
@@ -23783,11 +23809,6 @@ lesbo:
   category: proper word
   translation: Lesbo
 lesboyen:
-  term: lesboyen
-  class: "n"
-  category: derived
-  translation: lesbanino, samseksemulino, gejino
-lesboyen_demo:
   term: Lesboyen
   class: "n"
   category: derived
@@ -34925,6 +34946,11 @@ safir:
   class: b
   category: root
   translation: ambasadoro
+safirdom:
+  term: safirdom
+  class: b
+  category: derived
+  translation: ambasadejo
 safran:
   term: safran
   class: b
@@ -37912,11 +37938,21 @@ tadiku:
   class: b.oj
   category: root
   translation: konfirmo; konfirmi
+tadikudo:
+  term: tadikudo
+  class: t
+  category: derived
+  translation: konfirmita
 tafasir:
   term: tafasir
   class: b.oj
   category: root
   translation: interpretado; interpreti
+tafasirdo:
+  term: tafasirdo
+  class: t
+  category: derived
+  translation: interpretita
 tahal:
   term: tahal
   class: b
@@ -37931,7 +37967,7 @@ tahta:
   term: tahta
   class: b
   category: root
-  translation: tabulo
+  translation: tabulo, dilo
 tahtu:
   term: tahtu
   class: b
@@ -38132,6 +38168,11 @@ tangente:
   class: b
   category: root
   translation: tangento
+tangeya:
+  term: tangeya
+  class: b
+  category: derived
+  translation: streĉiteco
 tanke:
   term: tanke
   class: b
@@ -38247,6 +38288,11 @@ tasaduf:
   class: b.nenoj
   category: root
   translation: koincido; koincidi
+tasadufli:
+  term: tasadufli
+  class: t
+  category: derived
+  translation: koincida; koincide
 taseri:
   term: taseri
   class: b.oj
@@ -38267,6 +38313,11 @@ taslum:
   class: b.oj
   category: root
   translation: ricevo; ricevi
+taslumdo:
+  term: taslumdo
+  class: t
+  category: derived
+  translation: ricevita
 taslumyen:
   term: taslumyen
   class: b
@@ -38292,6 +38343,11 @@ tatika:
   class: b
   category: root
   translation: taktiko
+tatikali:
+  term: tatikali
+  class: t
+  category: derived
+  translation: taktika; taktike
 tatmini:
   term: tatmini
   class: b.oj
@@ -38312,6 +38368,11 @@ tatua:
   class: b.oj
   category: root
   translation: tatuo, tatuaĵo; tatui
+tatuado:
+  term: tatuado
+  class: t
+  category: derived
+  translation: tatuita
 tavusi:
   term: tavusi
   class: b
@@ -38332,6 +38393,11 @@ tawni:
   class: b.oj
   category: root
   translation: pesto, plago, infestado; plagi, infesti
+tawnido:
+  term: tawnido
+  class: t
+  category: derived
+  translation: plagita, infestita
 tay:
   term: Tay
   class: su n
@@ -38367,6 +38433,11 @@ taypu:
   class: b.oj
   category: root
   translation: tajpo; tajpi
+taypudo:
+  term: taypudo
+  class: t
+  category: derived
+  translation: tajpita
 tayputora:
   term: tayputora
   class: b
@@ -38382,6 +38453,11 @@ tayti:
   class: b.oj
   category: root
   translation: anstataŭo, anstataŭaĵo; anstataŭi, anstataŭigi
+taytido:
+  term: taytido
+  class: t
+  category: derived
+  translation: anstataŭigita
 taywan:
   term: Taywan
   class: su n
@@ -38397,6 +38473,11 @@ taze:
   class: t
   category: root
   translation: freŝa; freŝe
+tazeya:
+  term: tazeya
+  class: b
+  category: derived
+  translation: freŝeco
 te:
   term: te
   class: pn
@@ -38407,6 +38488,11 @@ teatro:
   class: b
   category: root
   translation: teatro
+teatroli:
+  term: teatroli
+  class: t
+  category: derived
+  translation: teatra; teatre
 teatroxey:
   term: teatroxey
   class: b
@@ -38417,11 +38503,21 @@ tehdidu:
   class: b.oj
   category: root
   translation: minaco; minaci
+tehdidudo:
+  term: tehdidudo
+  class: t
+  category: derived
+  translation: minacita
 tejam:
   term: tejam
   class: t
   category: root
   translation: akra, pinta; akre, pinte
+tejamya:
+  term: tejamya
+  class: b
+  category: derived
+  translation: akreco
 tekila:
   term: tekila
   class: b
@@ -38597,6 +38693,11 @@ tembal:
   class: t
   category: root
   translation: pigra, nelaborema; pigre, nelaboreme
+tembalya:
+  term: tembalya
+  class: b
+  category: derived
+  translation: pigreco
 temfikir:
   term: temfikir
   class: b.oj
@@ -38647,6 +38748,11 @@ tenis:
   class: b
   category: root
   translation: teniso
+tenisyen:
+  term: tenisyen
+  class: b
+  category: derived
+  translation: tenisisto, tenisanto
 tenjire:
   term: tenjire
   class: b
@@ -38742,6 +38848,11 @@ terapi:
   class: b
   category: root
   translation: terapio, kuracado; terapii
+terapiyen:
+  term: terapiyen
+  class: b
+  category: derived
+  translation: terapiisto
 terbyum:
   term: terbyum
   class: b
@@ -38757,6 +38868,16 @@ teritori:
   class: b
   category: root
   translation: teritorio
+teritorifil:
+  term: teritorifil
+  class: t
+  category: derived
+  translation: teritoria (<em>emas defendi sian teritorion</em>)
+teritorili:
+  term: teritorili
+  class: t
+  category: derived
+  translation: teritoria (<em>pri teritorio</em>)
 terminal:
   term: terminal
   class: b
@@ -38817,6 +38938,11 @@ teror:
   class: b.oj
   category: root
   translation: timego, teruro; timegigi, terurigi
+terordo:
+  term: terordo
+  class: t
+  category: derived
+  translation: timegigita, terurigita
 tesaloni:
   term: Tesaloni
   class: su n
@@ -38887,6 +39013,11 @@ teyan:
   class: b.oj
   category: root
   translation: oferto; oferti
+teyando:
+  term: teyando
+  class: t
+  category: derived
+  translation: ofertita
 tibya:
   term: tibya
   class: b
@@ -39039,9 +39170,14 @@ tito:
   translation: Tito
 titulo:
   term: titulo
-  class: b
+  class: b.oj
   category: root
-  translation: titolo
+  translation: titolo; titoli
+titulodo:
+  term: titulodo
+  class: t
+  category: derived
+  translation: titolita
 to:
   term: to
   class: pn
@@ -39057,6 +39193,11 @@ todzi:
   class: b.oj
   category: root
   translation: investo, investado; investi
+todzido:
+  term: todzido
+  class: t
+  category: derived
+  translation: investita
 todziyen:
   term: todziyen
   class: b
@@ -39102,6 +39243,16 @@ tohin:
   class: b.oj
   category: root
   translation: insulto; insulti
+tohinne:
+  term: tohinne
+  class: t
+  category: derived
+  translation: insultanta, insulta; insultante, insulte
+tohinpul:
+  term: tohinpul
+  class: t
+  category: derived
+  translation: insulta, insultanta; insulte, insultante
 tojiki:
   term: Tojiki
   class: su n
@@ -39397,11 +39548,21 @@ tosa:
   class: b.oj
   category: root
   translation: amasbuĉado, masakro; amasbuĉi, masakri
+tosado:
+  term: tosado
+  class: t
+  category: derived
+  translation: amasbuĉita, masakrita
 tosifu:
   term: tosifu
   class: b.oj
   category: root
   translation: priskribo; priskribi
+tosifudo:
+  term: tosifudo
+  class: t
+  category: derived
+  translation: priskribita
 tosifulexi:
   term: tosifulexi
   class: b
@@ -39412,6 +39573,11 @@ tosta:
   class: b.oj
   category: root
   translation: rostado; rosti
+tostado:
+  term: tostado
+  class: t
+  category: derived
+  translation: rostita
 tostaroti:
   term: tostaroti
   class: b
@@ -39492,6 +39658,16 @@ tragedi:
   class: b
   category: root
   translation: tragedio
+tragedili:
+  term: tragedili
+  class: t
+  category: derived
+  translation: tragedia (<em>pri tragedio</em>)
+tragedipul:
+  term: tragedipul
+  class: t
+  category: derived
+  translation: tragika, tragedia; tragike, tragedie
 trampolin:
   term: trampolin
   class: b
@@ -39587,6 +39763,11 @@ trasporta:
   class: b.oj
   category: derived
   translation: transporto, transportado; transporti
+trastyao:
+  term: trastyao
+  class: b.oj
+  category: derived
+  translation: transsalto; transsalti
 trasya:
   term: trasya
   class: b.oj
@@ -39602,6 +39783,11 @@ trawma:
   class: b
   category: root
   translation: traŭmato
+trawmapul:
+  term: trawmapul
+  class: t
+  category: derived
+  translation: traŭmata; traŭmate
 treme:
   term: treme
   class: b.oro
@@ -39627,6 +39813,11 @@ treyna:
   class: b.oj
   category: root
   translation: trejnado; trejni
+treynado:
+  term: treynado
+  class: t
+  category: derived
+  translation: trejnita
 treynayen:
   term: treynayen
   class: b
@@ -39662,6 +39853,11 @@ trol:
   class: b.oj
   category: root
   translation: trolo (<em>fantazia, interreta</em>); troli
+troldo:
+  term: troldo
+  class: t
+  category: derived
+  translation: trolita
 trombon:
   term: trombon
   class: b
@@ -39682,6 +39878,11 @@ tropika:
   class: b
   category: root
   translation: tropiko, tropikoj
+tropikali:
+  term: tropikali
+  class: t
+  category: derived
+  translation: tropika
 trufel:
   term: trufel
   class: b
@@ -39707,6 +39908,11 @@ trutigine:
   class: t
   category: derived
   translation: kontentiganta; kontentigante
+trutiya:
+  term: trutiya
+  class: b
+  category: derived
+  translation: kontento, kontenteco
 tuba:
   term: tuba
   class: b
@@ -39717,6 +39923,11 @@ tubihu:
   class: b.oj
   category: root
   translation: admono, riproĉo, skoldo, mallaŭdo; admoni, riproĉi, skoldi, mallaŭdi
+tubihudo:
+  term: tubihudo
+  class: t
+  category: derived
+  translation: admonita, riproĉita, skoldita, mallaŭdita
 tubo:
   term: tubo
   class: b
@@ -39852,6 +40063,11 @@ turi:
   class: b.oj
   category: root
   translation: vizito, vojaĝo; viziti, vojaĝi (en), turismi
+turido:
+  term: turido
+  class: t
+  category: derived
+  translation: vizitita, vojaĝinta (en), turisminta (en)
 turiya:
   term: turiya
   class: b
@@ -39912,6 +40128,11 @@ turxi:
   class: b.oj
   category: root
   translation: peklaĵo; pekli
+turxido:
+  term: turxido
+  class: t
+  category: derived
+  translation: peklita
 turxisawsa:
   term: turxisawsa
   class: b
@@ -39992,6 +40213,11 @@ tweji:
   class: b.nenoj
   category: root
   translation: emeriteco; emeritiĝi
+twejido:
+  term: twejido
+  class: t
+  category: derived
+  translation: emerita
 tyan:
   term: tyan
   class: b
@@ -40004,9 +40230,9 @@ tyanvirgul:
   translation: punktokomo
 tyao:
   term: tyao
-  class: b.oj
+  class: b.oj.ru
   category: root
-  translation: salto; salti
+  translation: salto; salti, trassalti
 tyenga:
   term: tyenga
   class: b
@@ -40029,11 +40255,26 @@ uflasi:
   class: b.oro
   category: root
   translation: bankroto; bankroti, bankrotigi
+uflasido:
+  term: uflasido
+  class: t
+  category: derived
+  translation: bankrota
 ufue:
   term: ufue
   class: b.oro; il
   category: root
-  translation: abomeno; abomeni, naŭzi; pu, fi
+  translation: abomeno; abomeni, naŭziĝi, naŭzi, abomenigi; pu, fi
+ufuedo:
+  term: ufuedo
+  class: t
+  category: derived
+  translation: naŭzita, abomenigita
+ufuene:
+  term: ufuene
+  class: t
+  category: derived
+  translation: naŭza, abomena, fia
 ufuku:
   term: ufuku
   class: b
