@@ -1,6 +1,8 @@
 ---
 '#':
 - haxtagu
+(cause) disgust:
+- ufue
 -'s:
 - de
 -able:
@@ -30,6 +32,8 @@
 - -ismo
 -ist:
 - -ista
+-itis:
+- -itis
 -less:
 - -kal
 -like:
@@ -371,9 +375,13 @@ acaudate:
 - kodakal
 accelerate:
 - maxvelosicu
+- maxvelosigi
+- velosicu
 - velosigi
 acceleration:
 - maxvelosicu
+- maxvelosigi
+- velosicu
 - velosigi
 accent:
 - aksento
@@ -401,6 +409,10 @@ accessibly:
 - inidiible
 accident:
 - xigo
+accidental:
+- xigoli
+accidentally:
+- xigoli
 accipitridae:
 - bazu
 accompaniment:
@@ -879,6 +891,7 @@ agitate:
 - hunfun
 - kalapa
 agitated:
+- hunfundo
 - kalapado
 agitation:
 - hunfun
@@ -1139,6 +1152,8 @@ am:
 - sen
 amaze:
 - wao
+amazed:
+- waodo
 amazement:
 - wao
 amazing:
@@ -1858,6 +1873,7 @@ arousal:
 arouse:
 - hunfun
 aroused:
+- hunfundo
 - seksovole
 arrange:
 - ordenu
@@ -1915,6 +1931,7 @@ artery:
 - domaku
 arthritic:
 - artroitisli
+- artroitispul
 arthritis:
 - artroitis
 arthropod:
@@ -1963,8 +1980,14 @@ as:
 - kwas
 as a consequence of:
 - fe_folo_fe
+- fe_folo_ki
+as a consequence of + clause:
+- fe_folo_ki
 as a result of:
 - fe_folo_fe
+- fe_folo_ki
+as a result of + clause:
+- fe_folo_ki
 as few as possible:
 - minimum_te
 - minimum_to
@@ -2114,6 +2137,7 @@ asthma attack:
 - astamakrisis
 asthmatic:
 - astamali
+- astamapul
 - astamayen
 astonish:
 - daysurprisa
@@ -2198,6 +2222,7 @@ atlas:
 - atlas_name
 - haritalari
 atm:
+- atmosfer
 - bankomaxina
 atmosphere:
 - atmosfer
@@ -2241,6 +2266,8 @@ attained:
 - dadaldo
 attempt:
 - xidu
+attempted:
+- xidudo
 attend:
 - inpresen
 attendance:
@@ -2439,8 +2466,6 @@ avoided:
 avowal:
 - seyeku
 aw:
-- way
-aw denoting tenderness:
 - way
 await:
 - intizar
@@ -2886,12 +2911,84 @@ be:
 - berilyum
 - feya
 - sen
+be  agitated:
+- hunfun
+be  amazed:
+- wao
+be  annoyed:
+- lawfen
+be  aroused:
+- hunfun
+be  astonished:
+- daysurprisa
+be  baffled:
+- konhwoku
+be  bewildered:
+- konhwoku
+be  bothered:
+- lawfen
+be  bugged:
+- lawfen
+be  comfortable:
+- konforta
+be  confused:
+- konhwoku
+be  depressed:
+- depresi
+be  disgusted:
+- ufue
+be  embarrassed:
+- xyuci
+be  endeared:
+- kawaywao
+be  enthused:
+- joxu
+be  excited:
+- hunfun
+- joxu
+be  frightened:
+- fobi
+be  frustrated:
+- frustra
+be  grossed out:
+- ufue
+be  humiliated:
+- xyuci
+be  impressed:
+- inxo
 be  inflamed:
 - itis
 be  injured:
 - juruha
+be  inspired:
+- ilhamu
+be  motivated:
+- estimula
+be  obsessed:
+- obsesi
+be  paranoid:
+- paranoy
+be  perplexed:
+- konhwoku
+be  scared:
+- fobi
+be  shamed:
+- xyuci
+be  stimulated:
+- estimula
+- hunfun
+be  stressed:
+- estres
+be  surprised:
+- surprisa
+be  tired:
+- pilo
+be  vexed:
+- lawfen
 be  wounded:
 - juruha
+be  wowed:
+- wao
 be a sign of:
 - lefeixara
 be able:
@@ -2938,6 +3035,10 @@ be applicable (to):
 - aplika
 be around:
 - weyya
+be arthritic:
+- artroitis
+be asthmatic:
+- astama
 be at:
 - feya
 be aware:
@@ -2966,18 +3067,24 @@ be cautious:
 - riskojui
 be conscious:
 - ixi
+be constipated:
+- bembi
 be contingent:
 - offolo
 be contingent on:
 - offolo
+be courageous:
+- yunki
 be crouching:
 - eskwati
 be dangerous:
 - hatari
 be determined to:
 - daykarar
-be disgusted:
-- ufue
+be diabetic:
+- dyabetes
+be dizzy:
+- cakare
 be done by:
 - falya
 be done by means of:
@@ -3002,8 +3109,6 @@ be found in:
 - feya
 be from:
 - ofya
-be grossed out:
-- ufue
 be guilty:
 - yozay
 be hanging:
@@ -3012,6 +3117,8 @@ be here:
 - presen
 be horny:
 - seksovole
+be hot:
+- termo
 be hungry:
 - yamvole
 be ignorant of:
@@ -3052,6 +3159,8 @@ be intelligent:
 - cinon
 be interested (in):
 - interes
+be invalid:
+- posyukyo
 be involved:
 - rol
 be involved in:
@@ -3097,8 +3206,6 @@ be outside:
 - exya
 be outside of:
 - exya
-be paranoid:
-- paranoy
 be pleasing to:
 - hoxgi
 - sukigi
@@ -3188,56 +3295,6 @@ be wont to:
 - xugwan
 be worth:
 - jaci
-be/feel agitated:
-- hunfun
-be/feel annoyed:
-- lawfen
-be/feel aroused:
-- hunfun
-be/feel astonished:
-- daysurprisa
-be/feel baffled:
-- konhwoku
-be/feel bewildered:
-- konhwoku
-be/feel bothered:
-- lawfen
-be/feel bugged:
-- lawfen
-be/feel comfortable:
-- konforta
-be/feel confused:
-- konhwoku
-be/feel depressed:
-- depresi
-be/feel endeared:
-- kawaywao
-be/feel enthused:
-- joxu
-be/feel excited:
-- hunfun
-- joxu
-be/feel frightened:
-- fobi
-be/feel frustrated:
-- frustra
-be/feel impressed:
-- inxo
-be/feel inspired:
-- ilhamu
-be/feel motivated:
-- estimula
-be/feel perplexed:
-- konhwoku
-be/feel scared:
-- fobi
-be/feel stimulated:
-- estimula
-- hunfun
-be/feel stressed:
-- estres
-be/feel vexed:
-- lawfen
 beach:
 - sahel
 beach towel:
@@ -3328,6 +3385,8 @@ become big:
 - daycu
 become bigger:
 - maxdaycu
+become certain:
+- yakincu
 become clear:
 - mingucu
 become complex:
@@ -3425,6 +3484,8 @@ become strong:
 - balacu
 become stronger:
 - maxbalacu
+become sure:
+- yakincu
 become thin:
 - dambocu
 become thinner:
@@ -3442,8 +3503,8 @@ become yes:
 becoming:
 - sencu
 becquerel:
-- bekerel
 - bekerel_name
+- bekerel
 bed:
 - bistar
 bedouin:
@@ -3507,6 +3568,8 @@ beginner:
 - xoruyen
 beginning:
 - xoru
+begun:
+- xorudo
 behave:
 - aksyon
 - konduta
@@ -3624,6 +3687,10 @@ benzene:
 - benzol
 benzole:
 - benzol
+bequeath:
+- wasyatu
+bequeathed:
+- wasyatudo
 bequest:
 - wasyatu
 bering:
@@ -3831,6 +3898,8 @@ bite away:
 - awyao
 biting away:
 - awyao
+bitten:
+- yaodo
 bitter:
 - amaro
 - bunmanpul
@@ -3871,6 +3940,8 @@ blackjack:
 - blakjaku
 blackmail:
 - xantaje
+blackmailer:
+- xantajeyen
 blackness:
 - syaheya
 bladder:
@@ -3879,6 +3950,8 @@ blade:
 - bleydo
 blame:
 - yozay
+blamed:
+- yozaydo
 blanket:
 - termokumax
 blast:
@@ -3992,6 +4065,8 @@ boast:
 - xehi
 boast about:
 - xehi
+boaster:
+- xehiyen
 boat:
 - lilnavi
 - navi
@@ -4216,6 +4291,10 @@ brag:
 - xehi
 brag about:
 - xehi
+braggart:
+- xehiyen
+bragger:
+- xehiyen
 braid:
 - jadala
 braille:
@@ -4515,6 +4594,8 @@ burnish:
 - polixo
 burnished:
 - polixodo
+burnt:
+- yakedo
 burp:
 - gepu
 burrito:
@@ -4715,6 +4796,7 @@ californium:
 call:
 - telifon
 - voka
+- vokaya
 call forth:
 - celvoka
 calligraphy:
@@ -4915,8 +4997,8 @@ cardamom:
 cardboard:
 - karton
 cardigan:
-- kardigan
 - kardigan_name
+- kardigan
 cardinal:
 - kardinal
 cardiology:
@@ -5110,16 +5192,28 @@ causative/transitive marker:
 cause:
 - -gi
 - kosa
-cause  to be paranoid:
-- paranoy
-cause disgust:
-- ufue
+cause arthritis:
+- artroitis
+cause asthma:
+- astama
+cause constipation:
+- bembi
+cause diabetes:
+- dyabetes
+cause dizziness:
+- cakare
 cause flatulence:
 - prutegi
+cause somebody to be paranoid:
+- paranoy
 cause somebody to become aware:
 - xorixi
 cause somebody to become conscious:
 - xorixi
+cause somebody to become fatigued:
+- xorpilo
+cause somebody to become tired:
+- xorpilo
 cause somebody to blink:
 - pelakegi
 cause somebody to cry:
@@ -5159,6 +5253,8 @@ cause to:
 cause to be:
 - -gi
 - sengi
+cause to be  comfortable:
+- konforta
 cause to be aware:
 - ixi
 cause to be conscious:
@@ -5171,6 +5267,8 @@ cause to be humble:
 - vinamragi
 cause to be intelligent:
 - cinon
+cause to be paranoid:
+- paranoy
 cause to be small or little:
 - lilgi
 cause to be smaller:
@@ -5179,14 +5277,16 @@ cause to be talented:
 - talento
 cause to be violent:
 - bawlu
-cause to be/feel comfortable:
-- konforta
 cause to become:
 - sengi
 cause to become aware:
 - xorixi
 cause to become conscious:
 - xorixi
+cause to become fatigued:
+- xorpilo
+cause to become tired:
+- xorpilo
 cause to belch:
 - gepugi
 cause to bleed:
@@ -5284,6 +5384,8 @@ cause to work:
 - ergogi
 cause to yawn:
 - hwamgi
+cause vertigo:
+- cakare
 caution:
 - jingo
 - riskojui
@@ -5522,6 +5624,10 @@ chat room:
 - bladom
 chatter:
 - burbla
+chauffeur:
+- xofer
+chauffeured:
+- xoferdo
 chauvin:
 - xovin
 chauvinism:
@@ -6222,6 +6328,8 @@ command:
 - amiru
 commandeer:
 - zabatu
+commandeered:
+- zabatudo
 commanding:
 - amirufil
 commandment:
@@ -6431,6 +6539,8 @@ concern:
 - yolyu
 concerned:
 - yolyudo
+concerning:
+- yolyune
 concert:
 - musikaxow
 concession:
@@ -6461,9 +6571,9 @@ condition:
 - jotay
 - xarti
 conditional:
-- xartili
+- xartipul
 conditionally:
-- xartili
+- xartipul
 condom:
 - kondom
 conduct:
@@ -6509,6 +6619,8 @@ confirmed:
 - tadikudo
 confiscate:
 - zabatu
+confiscated:
+- zabatudo
 confiscation:
 - zabatu
 confiture:
@@ -6632,6 +6744,7 @@ constipate:
 - bembi
 constipated:
 - bembido
+- bembipul
 constipation:
 - bembi
 constitute:
@@ -6653,6 +6766,10 @@ consultation:
 - moxwere
 consume:
 - xobi
+consumed:
+- xobido
+consumer:
+- xobiyen
 consumption:
 - xobi
 contact:
@@ -7472,6 +7589,8 @@ danish language:
 dare:
 - tyojan
 - yunki
+dare to:
+- yunki
 daring:
 - yunkipul
 daringly:
@@ -7746,6 +7865,8 @@ delusion:
 - delusi
 demand:
 - xucyo
+demanded:
+- xucyodo
 demigod:
 - semiteo
 demo:
@@ -7894,6 +8015,8 @@ designer:
 - disenoyen
 desire:
 - xiwon
+desired:
+- xiwondo
 desk:
 - eskrimesa
 desolate:
@@ -7990,8 +8113,8 @@ devotedly:
 devotion:
 - cungiya
 devtest:
-- devtest_1
 - devtest_2
+- devtest_1
 - devtest
 devtest0:
 - devtest
@@ -8003,6 +8126,9 @@ dhivehi:
 - divehisa
 diabetes:
 - dyabetes
+diabetic:
+- dyabetesli
+- dyabetespul
 diabolic:
 - dyabolsim
 diabolical:
@@ -8443,6 +8569,8 @@ divide:
 - vibaja
 divide up:
 - disbage
+divided:
+- vibajado
 divination:
 - mansi
 divine:
@@ -8686,6 +8814,7 @@ drive to:
 - -pel
 driven:
 - peldo
+- xoferdo
 driver:
 - xoferyen
 drizzle:
@@ -8696,6 +8825,8 @@ drone:
 - dron
 droop:
 - zubul
+drooped:
+- zubuldo
 drop:
 - katru
 - sokutu
@@ -8879,6 +9010,8 @@ early:
 - jaldi
 earn:
 - xuha
+earned:
+- xuhado
 earnest:
 - jidi
 earnestly:
@@ -8926,6 +9059,8 @@ eat for dessert:
 - xafeyam
 eat up:
 - awyam
+eaten:
+- yamdo
 eater:
 - yamyen
 eating utensil:
@@ -9030,9 +9165,10 @@ egypt:
 - masri
 egyptian:
 - masrili
-- masrisa
 - masriyen
-egyptian language:
+egyptian arabic:
+- masrisa
+egyptian arabic language:
 - masrisa
 eid al-adha:
 - dabihudin
@@ -9119,6 +9255,8 @@ electronically:
 - eletroni
 electronics:
 - eletroniya
+elegance:
+- zarifya
 elegant:
 - zarif
 elegantly:
@@ -9195,6 +9333,10 @@ embark:
 - xornavi
 embarrass:
 - xyuci
+embarrassed:
+- xyucido
+embarrassing:
+- xyucine
 embarrassment:
 - xyuci
 embassy:
@@ -9302,6 +9444,8 @@ encoded:
 encourage:
 - yunki
 - yunkigi
+encouraged:
+- yunkido
 encouragement:
 - yunkigi
 encyclopedia:
@@ -9852,6 +9996,7 @@ excite:
 - hunfun
 - joxu
 excited:
+- hunfundo
 - joxudo
 excitedly:
 - joxudo
@@ -9948,6 +10093,8 @@ expiation:
 - kafare
 explain:
 - xomin
+explained:
+- xomindo
 explanation:
 - xomin
 expletive:
@@ -9979,11 +10126,17 @@ export:
 - exporta
 express:
 - vyata
+expressed:
+- vyatado
 expression:
 - sugu
 - vyata
+expressive:
+- vyatapul
 expropriate:
 - zabatu
+expropriated:
+- zabatudo
 expropriation:
 - zabatu
 expulsion:
@@ -10007,6 +10160,8 @@ extort:
 - xantaje
 extortion:
 - xantaje
+extortionist:
+- xantajeyen
 extra:
 - maxpul
 extra-:
@@ -10113,6 +10268,8 @@ fairy:
 faith:
 - xinen
 - xinloy
+faith-filled:
+- xinenpul
 faithful:
 - cungi
 faithfully:
@@ -10320,6 +10477,7 @@ fee:
 - kima
 feed:
 - yamgi
+- yamgibe
 feel:
 - ganjon
 - ganjoncu
@@ -10327,24 +10485,16 @@ feel:
 - hisicu
 - jigam
 - pifucu
-feel amazed:
-- wao
 feel disgust:
 - ufue
-feel embarrassed:
-- xyuci
 feel fatigued:
 - pilo
-feel humiliated:
-- xyuci
 feel itched:
 - soyo
 feel itchy:
 - soyo
 feel like:
 - sen_peldo
-feel obsessed:
-- obsesi
 feel panic:
 - paniko
 feel paranoia:
@@ -10355,12 +10505,6 @@ feel remorse:
 - hwegay
 feel remorse for:
 - hwegay
-feel shamed:
-- xyuci
-feel tired:
-- pilo
-feel wowed:
-- wao
 feel/be amused:
 - amusa
 feel/be anxious:
@@ -10483,6 +10627,8 @@ fictitious:
 - fiksyondo
 fiddle:
 - vyolin
+fiddler:
+- vyolinyen
 field:
 - domeni
 - geomon
@@ -10678,6 +10824,7 @@ fix:
 - xuli
 fixed:
 - fiksado
+- xulido
 fixing:
 - fiksa
 fjord:
@@ -10832,6 +10979,8 @@ focus:
 - fokus
 fog:
 - ukungu
+foggy:
+- ukungupul
 fold:
 - perfleksi
 folder:
@@ -10965,6 +11114,8 @@ foreword:
 - lefelexi
 forfeit:
 - zabatu
+forfeited:
+- zabatudo
 forfeiture:
 - zabatu
 forget:
@@ -10977,6 +11128,8 @@ forgiveness:
 - mafu
 forgiving:
 - mafufil
+forgotten:
+- wanjido
 fork:
 - forke
 form:
@@ -11167,6 +11320,8 @@ freshness:
 - tazeya
 fret:
 - yolyu
+fretful:
+- yolyufil
 freud:
 - froyd
 fricative:
@@ -11256,6 +11411,8 @@ fuck:
 - faku
 fuel:
 - yanlyo
+fueled:
+- yanlyodo
 fulfill:
 - kompletogi
 full:
@@ -11352,6 +11509,7 @@ gain:
 - xuha
 gained:
 - cududo
+- xuhado
 gal:
 - femyen
 - juniyen
@@ -11582,8 +11740,6 @@ get complex:
 - fukuzacu
 get complicated:
 - fukuzacu
-get constipated:
-- bembi
 get damaged:
 - sungay
 get devastated:
@@ -11594,6 +11750,8 @@ get divorced:
 - posgamicu
 get engaged:
 - gamivada
+get fatigued:
+- xorpilo
 get glad:
 - hoxcu
 get good:
@@ -11687,6 +11845,8 @@ get thinner:
 - maxdambocu
 get through:
 - pascu
+get tired:
+- xorpilo
 get together:
 - toncu
 - tongocu
@@ -11839,6 +11999,8 @@ globally:
 - globali
 globasa:
 - globasa
+glorified:
+- xerafudo
 glorify:
 - xerafu
 glory:
@@ -12620,6 +12782,8 @@ hatred:
 - nefra
 haunt:
 - xabahu
+haunted:
+- xabahudo
 haunted house:
 - xabahubaytu
 have:
@@ -12640,12 +12804,20 @@ have an interest:
 - interes
 have an interest in:
 - interes
+have arthritis:
+- artroitis
 have as name:
 - name
+have asthma:
+- astama
 have breakfast:
 - sobayam
+have constipation:
+- bembi
 have dessert:
 - xafeyam
+have diabetes:
+- dyabetes
 have diarrhea:
 - ishal
 have dinner:
@@ -12683,6 +12855,8 @@ have to do with:
 - gwanxi
 have value:
 - jaci
+have vertigo:
+- cakare
 have yet:
 - no_uje
 have yet to:
@@ -12699,6 +12873,8 @@ hazel:
 - funduku
 hazelnut:
 - funduku
+hazy:
+- ukungupul
 he:
 - da
 - helyum
@@ -12747,7 +12923,7 @@ heart attack:
 - tutuminfarto
 heat:
 - termo
-heat up:
+heat (up):
 - termo
 heated:
 - termodo
@@ -12788,6 +12964,7 @@ heinie:
 - dumbu
 held:
 - hifazido
+- wojudo
 helen:
 - helena
 helicopter:
@@ -13030,6 +13207,8 @@ his own:
 - sesu
 hiss:
 - zixe
+hissing:
+- zixene
 histo-:
 - jojiki
 historian:
@@ -13134,6 +13313,8 @@ honor:
 - xerafu
 honorarium:
 - fisu
+honored:
+- xerafudo
 hood:
 - kapuco
 hoof:
@@ -13292,6 +13473,10 @@ humidity:
 - hawagileya
 humiliate:
 - xyuci
+humiliated:
+- xyucido
+humiliating:
+- xyucine
 humiliation:
 - xyuci
 humility:
@@ -13388,6 +13573,10 @@ hydrophobia:
 - suifobi
 hyena:
 - hyena
+hygenic:
+- wisenpul
+hygenically:
+- wisenpul
 hygiene:
 - wisen
 hymn:
@@ -13696,6 +13885,8 @@ in a hurry:
 - ajelado
 in a long time:
 - telixali
+in a panic:
+- panikopul
 in a rush:
 - ajelado
 in addition:
@@ -13792,6 +13983,8 @@ in place of:
 - fe_tayti_fe
 in reverse:
 - rupul
+in shock:
+- xokudo
 in some manner:
 - banmaner
 in some way:
@@ -14098,6 +14291,8 @@ inflame:
 inflammation:
 - -itis
 - itis
+inflammation of:
+- -itis
 inflammatory:
 - itisli
 inflect:
@@ -14171,6 +14366,8 @@ inherit:
 - warisa
 inheritance:
 - warisa
+inherited:
+- warisado
 inhuman:
 - burinsanli
 - burinsansim
@@ -14468,8 +14665,40 @@ intone:
 - adate
 'intr: adapt oneself':
 - adate
+'intr: be  amazed':
+- wao
+'intr: be  astonished':
+- daysurprisa
+'intr: be  bothered':
+- lawfen
+'intr: be  comfortable':
+- konforta
+'intr: be  confused':
+- konhwoku
+'intr: be  depressed':
+- depresi
+'intr: be  endeared':
+- kawaywao
+'intr: be  enthused':
+- joxu
+'intr: be  excited':
+- hunfun
+'intr: be  frustrated':
+- frustra
+'intr: be  impressed':
+- inxo
 'intr: be  inflamed':
 - itis
+'intr: be  inspired':
+- ilhamu
+'intr: be  paranoid':
+- paranoy
+'intr: be  stimulated':
+- estimula
+'intr: be  surprised':
+- surprisa
+'intr: be  tired':
+- pilo
 'intr: be  wounded':
 - juruha
 'intr: be ambitious':
@@ -14482,46 +14711,48 @@ intone:
 - ixi
 'intr: be based':
 - basi
+'intr: be constipated':
+- bembi
+'intr: be courageous':
+- yunki
 'intr: be dangerous':
 - hatari
+'intr: be famous':
+- xohra
+'intr: be guilty':
+- yozay
+'intr: be in shock':
+- xoku
 'intr: be intelligent':
 - cinon
 'intr: be interested':
 - interes
 'intr: be interested in':
 - interes
+'intr: be invalid':
+- posyukyo
+'intr: be talented':
+- talento
+'intr: be valid':
+- yukyo
 'intr: be violent':
 - bawlu
-'intr: be/feel astonished':
-- daysurprisa
-'intr: be/feel bothered':
-- lawfen
-'intr: be/feel comfortable':
-- konforta
-'intr: be/feel confused':
-- konhwoku
-'intr: be/feel depressed':
-- depresi
-'intr: be/feel endeared':
-- kawaywao
-'intr: be/feel enthused':
-- joxu
-'intr: be/feel excited':
-- hunfun
-'intr: be/feel frustrated':
-- frustra
-'intr: be/feel impressed':
-- inxo
-'intr: be/feel inspired':
-- ilhamu
-'intr: be/feel stimulated':
-- estimula
+'intr: be warm':
+- termo
+'intr: become aware':
+- xorixi
 'intr: become gaseous':
 - gas
+'intr: begin':
+- xoru
 'intr: burn':
 - atex
+'intr: catch fire':
+- xoratex
 'intr: end':
 - fini
+'intr: feel disgust':
+- ufue
 'intr: feel pleasure':
 - furaha
 'intr: feel/be anxious':
@@ -14532,24 +14763,52 @@ intone:
 - bardi
 'intr: feel/be comforted':
 - anwi
-'intr: get constipated':
-- bembi
+'intr: get damaged':
+- sungay
 'intr: get herniated':
 - herni
 'intr: get infected':
 - enfeksi
 'intr: get oneself hired':
 - inergo
+'intr: get paralyzed':
+- paralisi
 'intr: get ruined':
 - harabu
+'intr: go bankrupt':
+- uflasi
+'intr: have arthritis':
+- artroitis
+'intr: have asthma':
+- astama
 'intr: have fun':
 - amusa
+'intr: have vertigo':
+- cakare
+'intr: hide':
+- sangu
+'intr: itch':
+- soyo
+'intr: obsess':
+- obsesi
+'intr: panic':
+- paniko
+'intr: pause':
+- wakufa
 'intr: quit':
 - exergo
 'intr: stop':
 - esto
+'intr: surrender':
+- teslimu
+'intr: surrender to':
+- teslimu
 'intr: tense':
 - conlyoku
+'intr: tire':
+- xorpilo
+'intr: worry':
+- yolyu
 intransitive:
 - nenojetoli
 intransitive verb:
@@ -14591,6 +14850,12 @@ invade:
 - invasi
 invader:
 - invasiyen
+invalid:
+- yukyokal
+invalidate:
+- posyukyo
+invalidity:
+- posyukyo
 invasion:
 - invasi
 invent:
@@ -15232,6 +15497,8 @@ know how to:
 knowledge:
 - jixi
 - kone
+knowledgeable:
+- jixipul
 known:
 - jixido
 - konedo
@@ -15411,6 +15678,8 @@ lark:
 - alondra
 larva:
 - larva
+laryngeal:
+- laringeli
 larynx:
 - laringe
 laser:
@@ -15572,6 +15841,8 @@ learn:
 learned:
 - alimdo
 - eskoldo
+- jixipul
+- xwexido
 learner:
 - xwexiyen
 learning:
@@ -16479,6 +16750,8 @@ magpie:
 - kalaci
 maharashtra:
 - maharaxtra
+mahjong:
+- majangu
 maiden name:
 - lefegaminame
 mail:
@@ -16506,8 +16779,6 @@ maithili:
 - mitilasa
 maithili language:
 - mitilasa
-majong:
-- majangu
 major:
 - day
 majority:
@@ -16519,12 +16790,14 @@ make:
 - fale
 - krea
 - sengi
-make  paranoid:
-- paranoy
 make (somebody) ambitious:
 - ambisi
 make (somebody) anxious:
 - ansya
+make (somebody) aware:
+- xorixi
+make (somebody) paranoid:
+- paranoy
 make a mistake:
 - malxey
 make a reservation:
@@ -16553,6 +16826,9 @@ make comfortable:
 - konforta
 make conscious:
 - ixi
+- xorixi
+make couragous:
+- yunki
 make cry:
 - wawagi
 make dance:
@@ -16578,6 +16854,8 @@ make famous:
 - xohra
 make fat:
 - cibopulgi
+make fatigued:
+- xorpilo
 make flaccid:
 - laxogi
 make fun:
@@ -16604,6 +16882,8 @@ make inactive:
 - pasivogi
 make intelligent:
 - cinon
+make invalid:
+- posyukyo
 make large:
 - daygi
 make larger:
@@ -16674,6 +16954,8 @@ make snore:
 - horgi
 make somebody blink:
 - pelakegi
+make somebody conscious:
+- xorixi
 make somebody cry:
 - wawagi
 make somebody dance:
@@ -16720,6 +17002,7 @@ make stronger:
 - maxbalagi
 make sure:
 - yakingi
+- yakincu
 make talented:
 - talento
 make tear up:
@@ -16728,11 +17011,15 @@ make thin:
 - dambogi
 make thinner:
 - maxdambogi
+make tired:
+- xorpilo
 make understand:
 - ahamgi
 make up:
 - fiksyon
 - monkrea
+make valid:
+- yukyo
 make violent:
 - bawlu
 make want:
@@ -17011,6 +17298,11 @@ martin:
 - ababil
 martyr:
 - xahidu
+- xahidugi
+martyrdom:
+- xahihuya
+martyred:
+- xahidugido
 marvel:
 - daykefuku
 - waoxey
@@ -17339,6 +17631,8 @@ mentally ill:
 - sikobimar
 mention:
 - zekaru
+mentioned:
+- zekarudo
 menu:
 - menu
 menu item:
@@ -17622,6 +17916,8 @@ miss:
 - posjijon
 - wala
 - walaganjon
+missing:
+- poshayne
 mission:
 - misyon
 missionary:
@@ -17653,6 +17949,8 @@ mistreatment:
 - burdoyday
 mistress:
 - prabu
+misty:
+- ukungupul
 misunderstand:
 - malaham
 misunderstanding:
@@ -18157,6 +18455,10 @@ myrtus:
 - murto
 myself:
 - se
+mysterious:
+- ximbipul
+mysteriously:
+- ximbipul
 mystery:
 - ximbi
 myth:
@@ -18361,8 +18663,12 @@ negatively:
 - pesimaismoli
 negotiate:
 - zakere
+negotiated:
+- zakeredo
 negotiation:
 - zakere
+negotiator:
+- zakereyen
 nehemiah:
 - nehemia
 neigh:
@@ -18413,6 +18719,8 @@ neurologist:
 - nyurologiyen
 neurology:
 - nyurologi
+neurotic:
+- yolyufil
 neutral:
 - newtral
 neutrality:
@@ -18592,6 +18900,7 @@ noise:
 - daysoti
 nomad:
 - yumuku
+- yumukuyen
 nomadism:
 - yumuku
 non-:
@@ -19022,6 +19331,8 @@ of gold:
 - dahabuli
 of grave importance:
 - daymuhim
+of great faith:
+- xinenfil
 of great importance:
 - daymuhim
 of karnataka:
@@ -19464,6 +19775,10 @@ ornithorhynchidae:
 - kwakeconce
 orphan:
 - yatima
+orphanage:
+- yatimadom
+orphaned:
+- yatimado
 orthodox:
 - xinensahi
 orthodoxy:
@@ -19746,6 +20061,7 @@ panic attack:
 - panikokrisis
 panicked:
 - panikodo
+- panikopul
 panicking:
 - panikone
 pansexual:
@@ -19991,6 +20307,8 @@ paul:
 pause:
 - wakufa
 - wakufacu
+paused:
+- wakufado
 pavement:
 - pedadao
 pavilion:
@@ -20022,6 +20340,7 @@ pea:
 peace:
 - xanti
 peaceful:
+- xantifil
 - xantipul
 peacefully:
 - xantipul
@@ -20175,6 +20494,8 @@ performance:
 - ato
 - tafasir
 - xow
+performed:
+- xowdo
 perfume:
 - itru
 perhaps:
@@ -20694,6 +21015,7 @@ pledge:
 - vada
 pledged:
 - seyekudo
+- vadado
 plentiful:
 - daykwantipul
 plentifully:
@@ -21279,6 +21601,10 @@ previously:
 - leli
 prey:
 - bexikaryen
+prey on:
+- xikar
+prey upon:
+- xikar
 price:
 - kima
 pricey:
@@ -21442,6 +21768,8 @@ promethium:
 - prometyum
 promise:
 - vada
+promised:
+- vadado
 promote:
 - frongi
 promotion:
@@ -21660,6 +21988,8 @@ publicly:
 - demoli
 publish:
 - xupan
+published:
+- xupando
 pudding:
 - pudin
 puddle:
@@ -21922,6 +22252,9 @@ questionnaire:
 - enketa
 quick:
 - velosi
+quicken:
+- maxvelosigi
+- velosigi
 quickly:
 - velosi
 quickness:
@@ -22194,6 +22527,8 @@ really:
 - real
 reap:
 - xuha
+reaped:
+- xuhado
 rear:
 - ruke
 reason:
@@ -22579,6 +22914,8 @@ reoccurring:
 - riokurne
 repair:
 - xuli
+repaired:
+- xulido
 repay:
 - rupaya
 repayment:
@@ -22614,6 +22951,8 @@ representation:
 - wakil
 representative:
 - wakilyen
+represented:
+- wakildo
 reprimand:
 - tubihu
 reprimanded:
@@ -22634,6 +22973,8 @@ requested:
 - petido
 require:
 - xucyo
+required:
+- xucyodo
 requirement:
 - xucyo
 reread:
@@ -23184,6 +23525,8 @@ russian person:
 - rusiyen
 rust:
 - zangar
+rusty:
+- zangarpul
 ruth:
 - rutu
 ruthenium:
@@ -23348,6 +23691,7 @@ sandstorm:
 sandwich:
 - sandwici
 sandy:
+- xatupul
 - xatupul
 sanitize:
 - posenfeksi
@@ -23528,6 +23872,8 @@ scared:
 - fobido
 scarf:
 - weykumax
+scarred:
+- xanhundo
 scary:
 - fobine
 scene:
@@ -23737,6 +24083,8 @@ seething:
 - daygadibu
 seize:
 - zabatu
+seized:
+- zabatudo
 seizure:
 - krampe
 - zabatu
@@ -23886,6 +24234,8 @@ sequence:
 - serye
 sequestrate:
 - zabatu
+sequestrated:
+- zabatudo
 sequin:
 - payeta
 serb:
@@ -24042,6 +24392,8 @@ shake one&#039;s head:
 - kapinoya
 shake one's head:
 - kapinoya
+shaking:
+- treme
 shall:
 - xa
 shall not:
@@ -24056,6 +24408,8 @@ shaman:
 - xaman
 shame:
 - xyuci
+shamed:
+- xyucido
 shampoo:
 - xampu
 shan't:
@@ -24147,6 +24501,8 @@ shit:
 shock:
 - eletrixoku
 - xoku
+shocked:
+- xokudo
 shoe:
 - sapatu
 shoe store:
@@ -24314,8 +24670,8 @@ silent:
 silently:
 - sotikal
 silhouette:
-- silweta
 - silweta_name
+- silweta
 silicon:
 - silikon
 silk:
@@ -24547,6 +24903,8 @@ slant:
 - meylu
 slap:
 - xilepu
+slapped:
+- xilepudo
 slate:
 - ardwazi
 slaughter:
@@ -24661,6 +25019,8 @@ sm:
 - samaryum
 smack:
 - xilepu
+smacked:
+- xilepudo
 small:
 - lil
 - lil-
@@ -24762,6 +25122,7 @@ so much:
 - denmo_multi
 so that:
 - celki
+- ki_fe_folo
 so-so:
 - semi_semi
 soak:
@@ -24969,6 +25330,8 @@ sort:
 - tipo
 sort of:
 - semi
+sought:
+- xercado
 soul:
 - ruho
 sound:
@@ -25055,6 +25418,10 @@ spanish language:
 - espanisa
 spank:
 - xilepu
+spanked:
+- xilepudo
+spanking:
+- xilepu
 spanner:
 - espaner
 spark:
@@ -25123,6 +25490,8 @@ speed:
 - velosije
 speed up:
 - maxvelosicu
+- maxvelosigi
+- velosicu
 - velosigi
 speedometer:
 - velosimeter
@@ -25391,6 +25760,8 @@ starring:
 start:
 - xor-
 - xoru
+started:
+- xorudo
 state:
 - dawla
 - deklara
@@ -25511,6 +25882,7 @@ stimulate:
 - hunfun
 stimulated:
 - estimulado
+- hunfundo
 stimulation:
 - hunfun
 stimulus:
@@ -25692,6 +26064,8 @@ stroll:
 - sampo
 strong:
 - bala
+strong in faith:
+- xinenfil
 strongly:
 - bala
 strontium:
@@ -25765,6 +26139,8 @@ stylish:
 - zarif
 stylishly:
 - zarif
+stylishness:
+- zarifya
 sub-:
 - bax-
 subdue:
@@ -25861,7 +26237,7 @@ such a:
 such as:
 - denpul_kom
 such that:
-- fe_folo_ki
+- ki_fe_folo
 suck:
 - susu
 suckerfish:
@@ -26077,7 +26453,7 @@ surprised:
 surrender:
 - awizin
 - teslimu
-surrender to:
+surrender (to):
 - teslimu
 surround:
 - weygi
@@ -26198,6 +26574,7 @@ swine:
 - swini
 swing:
 - urjuha
+- urjuhatul
 swiss:
 - switzeli
 - switzeyen
@@ -26209,6 +26586,8 @@ switch on:
 - ativogi
 switzerland:
 - switze
+swollen:
+- warumdo
 sword:
 - xamxir
 sworn:
@@ -26675,10 +27054,16 @@ tempt:
 - yoho
 temptation:
 - yoho
+tempted:
+- yohodo
+tempter:
+- yohoyen
 tempting:
 - yohone
 temptingly:
 - yohone
+temptress:
+- yohoyen
 ten:
 - des
 ten cent piece:
@@ -26845,7 +27230,7 @@ that:
 - denmo
 - dente
 - dento
-- fe_folo_ki
+- ki_fe_folo
 - feki
 - hu
 - hu_da
@@ -27385,6 +27770,7 @@ tirabhukti:
 tire:
 - pilo
 - tair
+- xorpilo
 tired:
 - pilodo
 - pilopul
@@ -27568,6 +27954,10 @@ torture:
 - xikenje
 torture chamber:
 - xikenjeli_kamer
+tortured:
+- xikenjedo
+torturer:
+- xikenjeyen
 torus:
 - torus
 total:
@@ -27636,11 +28026,15 @@ toyshop:
 - fayda
 'tr/intr: boil':
 - boyle
+'tr/intr: bounce':
+- rutyao
 'tr/intr: break':
 - kasiru
 - kweten
 'tr/intr: bruise':
 - curuko
+'tr/intr: burn':
+- yake
 'tr/intr: center':
 - centro
 'tr/intr: close':
@@ -27655,24 +28049,38 @@ toyshop:
 - deylyu
 'tr/intr: crack':
 - daraki
+'tr/intr: cradle':
+- yoran
 'tr/intr: cycle':
 - cuki
 'tr/intr: digest':
 - hazam
+'tr/intr: dissolve':
+- solusi
 'tr/intr: dive':
 - gotas
+'tr/intr: flood':
+- sela
 'tr/intr: form':
 - forma
 'tr/intr: fossilize':
 - fosil
 'tr/intr: fracture':
 - guje
+'tr/intr: froth':
+- pena
+'tr/intr: incline':
+- meylu
+'tr/intr: ionize':
+- yoni
 'tr/intr: knot':
 - girehe
 'tr/intr: liquify':
 - likwido
 'tr/intr: lubricate':
 - lubrika
+'tr/intr: metabolize':
+- metabolis
 'tr/intr: mirror':
 - ayna
 'tr/intr: move':
@@ -27681,12 +28089,32 @@ toyshop:
 - buka
 'tr/intr: originate':
 - asel
+'tr/intr: play':
+- pley
 'tr/intr: pool':
 - birke
+'tr/intr: project':
+- proyeksi
+'tr/intr: pulverize':
+- pudra
+'tr/intr: puree':
+- pure
+'tr/intr: radiate':
+- radya
+'tr/intr: rotate':
+- rota
+'tr/intr: scar':
+- xanhun
+'tr/intr: shake':
+- treme
 'tr/intr: solidify':
 - guti
 'tr/intr: steam':
 - buhar
+'tr/intr: swing':
+- urjuha
+'tr/intr: synchronize':
+- sinkroniza
 'tr/intr: tear':
 - ciru
 'tr/intr: transform':
@@ -27695,22 +28123,50 @@ toyshop:
 - jwan
 'tr/intr: twist':
 - espiral
+'tr/intr: ulcerate':
+- ulcera
+'tr/intr: undulate':
+- moja
+'tr/intr: vibrate':
+- vibra
+'tr/intr: wrinkle':
+- oruga
+'tr/intr: zigzag':
+- zigzagu
 'tr: adapt':
 - adate
+'tr: amaze':
+- wao
 'tr: amuse':
 - amusa
 'tr: apply':
 - aplika
 'tr: astonish':
 - daysurprisa
+'tr: bankrupt':
+- uflasi
 'tr: base':
 - basi
+'tr: begin':
+- xoru
+'tr: blame':
+- yozay
 'tr: bother':
 - lawfen
 'tr: burn':
 - atex
+'tr: cause arthritis':
+- artroitis
+'tr: cause asthma':
+- astama
+'tr: cause diabetes':
+- dyabetes
+'tr: cause disgust':
+- ufue
 'tr: cause to turn gaseous':
 - gas
+'tr: cause vertigo':
+- cakare
 'tr: charm':
 - carme
 'tr: chill':
@@ -27721,8 +28177,12 @@ toyshop:
 - konhwoku
 'tr: constipate':
 - bembi
+'tr: damage':
+- sungay
 'tr: depress':
 - depresi
+'tr: disgust':
+- ufue
 'tr: endear':
 - kawaywao
 'tr: enthuse':
@@ -27737,8 +28197,14 @@ toyshop:
 - fobi
 'tr: frustrate':
 - frustra
+'tr: heat':
+- termo
+'tr: heat up':
+- termo
 'tr: herniate':
 - herni
+'tr: hide':
+- sangu
 'tr: hire':
 - inergo
 'tr: hurt':
@@ -27753,34 +28219,77 @@ toyshop:
 - ilhamu
 'tr: interest':
 - interes
+'tr: invalidate':
+- posyukyo
+'tr: itch':
+- soyo
 'tr: make ambitious':
 - ambisi
 'tr: make anxious':
 - ansya
 'tr: make aware':
 - ixi
+- xorixi
 'tr: make comfortable':
 - konforta
+'tr: make couragous':
+- yunki
 'tr: make dangerous':
 - hatari
+'tr: make famous':
+- xohra
 'tr: make intelligent':
 - cinon
+'tr: make paranoid':
+- paranoy
 'tr: make somebody ambitious':
 - ambisi
 'tr: make somebody anxious':
 - ansya
+'tr: make somebody aware':
+- xorixi
+'tr: make somebody paranoid':
+- paranoy
+'tr: make talented':
+- talento
+'tr: make tired':
+- xorpilo
 'tr: make violent':
 - bawlu
+'tr: obsess':
+- obsesi
+'tr: panic':
+- paniko
+'tr: paralyze':
+- paralisi
+'tr: pause':
+- wakufa
 'tr: pleasure':
 - furaha
 'tr: ruin':
 - harabu
+'tr: set on fire':
+- xoratex
+'tr: shame':
+- xyuci
+'tr: shock':
+- xoku
 'tr: stimulate':
 - estimula
 'tr: stop':
 - esto
+'tr: surprise':
+- surprisa
+'tr: surrender':
+- teslimu
 'tr: tension':
 - conlyoku
+'tr: tire':
+- pilo
+'tr: validate':
+- yukyo
+'tr: worry':
+- yolyu
 'tr: wound':
 - juruha
 trace:
@@ -27963,6 +28472,8 @@ tree:
 - drevo
 tremble:
 - treme
+trembling:
+- treme
 trench:
 - handaki
 trend:
@@ -28068,6 +28579,10 @@ trust:
 - xinloy
 trust-worthy:
 - xinloylaye
+trusted:
+- xinloydo
+trusting:
+- xinloyne
 trustworthily:
 - xinloylaye
 trustworthy:
@@ -28601,9 +29116,9 @@ unorthodox:
 unplanned:
 - nenplanido
 unpleasant:
-- posyukwe
+- nenyukwe
 unpleasantly:
-- posyukwe
+- nenyukwe
 unplug:
 - posplagu
 unplugged:
@@ -28787,6 +29302,8 @@ vacation:
 - vakasi
 vaccinate:
 - vaksina
+vaccinated:
+- vaksinado
 vaccine:
 - vaksina
 vagina:
@@ -28794,6 +29311,10 @@ vagina:
 - gigi
 - pepero
 - vagina
+vaginal:
+- vaginali
+vaginally:
+- vaginali
 vague:
 - nenmingu
 - nenpreciso
@@ -28803,8 +29324,10 @@ valentine:
 - valentin
 valid:
 - yukyo
+- yukyopul
 validate:
 - jacigi
+- yukyo
 validation:
 - jacigi
 validity:
@@ -28827,6 +29350,8 @@ valve:
 - valvu
 vampire:
 - vampiri
+vampiric:
+- vampirisim
 van:
 - van
 vanadium:
@@ -28852,6 +29377,8 @@ variously:
 - doyan
 varnish:
 - varnis
+varnished:
+- varnisdo
 vary:
 - aloya
 vaseline:
@@ -28995,6 +29522,8 @@ videha:
 - mitilayen
 video:
 - video
+video game:
+- videoyuxi
 vietnam:
 - vyetnam
 vietnamese:
@@ -29055,6 +29584,10 @@ violet:
 - vyoleta
 violin:
 - vyolin
+violin player:
+- vyolinyen
+violinist:
+- vyolinyen
 violoncello:
 - vyoloncel
 viper:
@@ -29092,6 +29625,8 @@ vision:
 - okoya
 visit:
 - visita
+visited:
+- visitado
 visitor:
 - visitayen
 visual:
@@ -29245,6 +29780,8 @@ wasabi:
 - wasabi
 wash:
 - woxa
+washed:
+- woxado
 washing machine:
 - woxatora
 wasp:
@@ -29636,6 +30173,8 @@ willow:
 - liu
 wilt:
 - zubul
+wilted:
+- zubuldo
 wily:
 - gomyo
 win:
@@ -29680,6 +30219,10 @@ wish:
 - xiwon
 wish for:
 - xiwon
+wished:
+- xiwondo
+wished for:
+- xiwondo
 wisteria:
 - wisterya
 witch:
@@ -29705,6 +30248,8 @@ with regards to:
 - tem
 wither:
 - zubul
+withered:
+- zubuldo
 withershins:
 - posfol_satumeter
 within:
@@ -29757,6 +30302,8 @@ woman:
 - ixu
 womb:
 - rahim
+won:
+- xuhado
 won't:
 - xa_no
 wonder:
@@ -29832,8 +30379,14 @@ worried:
 - yolyudo
 worrisome:
 - ansyafil
+- yolyune
+- yolyufil
 worry:
 - yolyu
+worrying:
+- yolyune
+worrywart:
+- yolyufilyen
 worsen:
 - maxburcu
 - maxburgi
@@ -30020,6 +30573,12 @@ yoga:
 - yoga
 yoghurt:
 - yogurtu
+yogi:
+- yogayen
+yogic:
+- yogali
+yogini:
+- yogayen
 yogourt:
 - yogurtu
 yogurt:

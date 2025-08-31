@@ -118,7 +118,7 @@
   term: -itis
   class: b xfik
   category: affix
-  translation: inflammation
+  translation: inflammation (of), -itis
 -je:
   term: -je
   class: b xfik
@@ -2227,14 +2227,19 @@ artro:
   translation: joint
 artroitis:
   term: artroitis
-  class: b
+  class: b.oro
   category: derived
-  translation: arthritis
+  translation: 'arthritis; tr: cause arthritis; intr: have arthritis, be arthritic'
 artroitisli:
   term: artroitisli
   class: t
   category: derived
   translation: arthritic
+artroitispul:
+  term: artroitispul
+  class: t
+  category: derived
+  translation: arthritic (<em>suffering from athritis</em>)
 artropeda:
   term: artropeda
   class: b
@@ -2387,9 +2392,9 @@ aspini:
   translation: pin
 astama:
   term: astama
-  class: b
+  class: b.oro
   category: root
-  translation: asthma
+  translation: 'asthma; tr: cause asthma; intr: have asthma, be asthmatic'
 astamakrisis:
   term: astamakrisis
   class: b
@@ -2400,6 +2405,11 @@ astamali:
   class: t
   category: derived
   translation: asthmatic (<em>relating to asthma</em>)
+astamapul:
+  term: astamapul
+  class: t
+  category: derived
+  translation: asthmatic (<em>suffering from asthma</em>)
 astamayen:
   term: astamayen
   class: b
@@ -2545,7 +2555,7 @@ atmosfer:
   term: atmosfer
   class: b
   category: root
-  translation: atmosphere
+  translation: atmosphere, atm
 ato:
   term: ato
   class: b.oj
@@ -4248,9 +4258,15 @@ bembi:
   term: bembi
   class: b.oro
   category: root
-  translation: 'constipation; tr: constipate; intr: get constipated'
+  translation: 'constipation; tr: constipate, cause constipation; intr: be constipated,
+    have constipation '
 bembido:
   term: bembido
+  class: t
+  category: derived
+  translation: constipated
+bembipul:
+  term: bembipul
   class: t
   category: derived
   translation: constipated
@@ -5856,9 +5872,10 @@ cakal:
   translation: jackal
 cakare:
   term: cakare
-  class: b
+  class: b.oro
   category: root
-  translation: vertigo, dizziness
+  translation: 'vertigo, dizziness; tr: cause vertigo, cause dizziness; intr: have
+    vertigo, be dizzy'
 cakarepul:
   term: cakarepul
   class: t
@@ -7916,7 +7933,7 @@ daysurprisa:
   term: daysurprisa
   class: b.oro
   category: derived
-  translation: 'astonishment; tr: astonish; intr: be/feel astonished'
+  translation: 'astonishment; tr: astonish; intr: be (<em>feel</em>) astonished'
 daysurprisane:
   term: daysurprisane
   class: t
@@ -8332,7 +8349,7 @@ depresi:
   term: depresi
   class: b.oro
   category: root
-  translation: 'depression; tr: depress; intr: be/feel depressed'
+  translation: 'depression; tr: depress; intr: be (<em>feel</em>) depressed'
 depresido:
   term: depresido
   class: t
@@ -8581,12 +8598,12 @@ devtest:
 devtest_1:
   term: devtest
   class: b
-  category: root
+  category: derived
   translation: devtest, devtest1
 devtest_2:
   term: devtest
   class: b
-  category: root
+  category: derived
   translation: devtest, devtest2
 dexa:
   term: dexa
@@ -9759,9 +9776,19 @@ dwerhantatul:
   translation: doorknob
 dyabetes:
   term: dyabetes
-  class: b
+  class: b.oro
   category: root
-  translation: diabetes
+  translation: 'diabetes; tr: cause diabetes; have diabetes, be diabetic '
+dyabetesli:
+  term: dyabetesli
+  class: t
+  category: derived
+  translation: diabetic (<em>of or relating to</em>)
+dyabetespul:
+  term: dyabetespul
+  class: t
+  category: derived
+  translation: diabetic (<em>suffering from</em>)
 dyabol:
   term: dyabol
   class: b
@@ -11042,8 +11069,8 @@ estimula:
   term: estimula
   class: b.oro
   category: root
-  translation: 'stimulus, motivation; tr: stimulate, motivate; intr: be/feel stimulated,
-    be/feel motivated'
+  translation: 'stimulus, motivation; tr: stimulate, motivate; intr: be (<em>feel</em>)
+    stimulated, be (<em>feel</em>) motivated'
 estimulado:
   term: estimulado
   class: t
@@ -11110,7 +11137,7 @@ estres:
   term: estres
   class: b.oro
   category: root
-  translation: stress; stress (out), be/feel stressed
+  translation: stress; stress (out), be (<em>feel</em>) stressed
 estresdo:
   term: estresdo
   class: t
@@ -12114,7 +12141,7 @@ fe_folo_ki:
   term: fe folo ki
   class: l
   category: phrase
-  translation: (such) that
+  translation: as a consequence of (+ <em>clause</em>), as a result of (+ <em>clause</em>)
 fe_folya:
   term: fe folya
   class: p jm
@@ -13248,7 +13275,8 @@ fobi:
   term: fobi
   class: b.oro
   category: root
-  translation: 'fear; tr: frighten, scare; be/feel frightened, be/feel scared'
+  translation: 'fear; tr: frighten, scare; be (<em>feel</em>) frightened, be (<em>feel</em>)
+    scared'
 fobido:
   term: fobido
   class: t
@@ -13653,7 +13681,7 @@ frustra:
   term: frustra
   class: b.oro
   category: root
-  translation: 'frustration; tr: frustrate; intr: be/feel frustrated'
+  translation: 'frustration; tr: frustrate; intr: be (<em>feel</em>) frustrated'
 frustrado:
   term: frustrado
   class: t
@@ -16985,7 +17013,13 @@ hunfun:
   class: b.oro
   category: root
   translation: 'excitement, arousal, stimulation, agitation; tr: excite, arouse, stimulate,
-    agitate; intr: be/feel excited, be/feel aroused, be/feel stimulated, be/feel agitated'
+    agitate; intr: be (<em>feel</em>) excited, be (<em>feel</em>) aroused, be (<em>feel</em>)
+    stimulated, be (<em>feel</em>) agitated'
+hunfundo:
+  term: hunfundo
+  class: t
+  category: derived
+  translation: excited, aroused, stimulated, agitated
 hura:
   term: hura
   class: b.oj; il
@@ -17286,7 +17320,7 @@ ilhamu:
   term: ilhamu
   class: b.oro
   category: root
-  translation: 'inspiration; tr: inspire; intr: be/feel inspired'
+  translation: 'inspiration; tr: inspire; intr: be (<em>feel</em>) inspired'
 ilhamudo:
   term: ilhamudo
   class: t
@@ -18017,7 +18051,7 @@ inxo:
   term: inxo
   class: b.oro
   category: root
-  translation: 'impression; tr: impress; intr: be/feel impressed'
+  translation: 'impression; tr: impress; intr: be (<em>feel</em>) impressed'
 inxodo:
   term: inxodo
   class: t
@@ -19259,6 +19293,11 @@ jixipeldo:
   class: t
   category: derived
   translation: curious; curiously
+jixipul:
+  term: jixipul
+  class: t
+  category: derived
+  translation: knowledgeable, learned
 jixivole:
   term: jixivole
   class: b.oj
@@ -19343,8 +19382,8 @@ joxu:
   term: joxu
   class: b.oro
   category: root
-  translation: 'enthusiasm, excitement, zeal; tr: enthuse, excite; intr: be/feel enthused,
-    be/feel excited'
+  translation: 'enthusiasm, excitement, zeal; tr: enthuse, excite; intr: be (<em>feel</em>)
+    enthused, be (<em>feel</em>) excited'
 joxudo:
   term: joxudo
   class: t
@@ -20871,7 +20910,7 @@ kawaywao:
   term: kawaywao
   class: b.oro
   category: derived
-  translation: 'endearment; tr: endear; intr: be/feel endeared'
+  translation: 'endearment; tr: endear; intr: be (<em>feel</em>) endeared'
 kawaywaodo:
   term: kawaywaodo
   class: t
@@ -21249,6 +21288,11 @@ ki:
   class: l
   category: root
   translation: that
+ki_fe_folo:
+  term: ki fe folo
+  class: l
+  category: phrase
+  translation: (such) that, (so) that
 kibiriti:
   term: kibiriti
   class: b
@@ -22096,8 +22140,8 @@ konforta:
   term: konforta
   class: b.oro
   category: root
-  translation: 'comfort; tr: make comfortable, cause to be/feel comfortable; intr:
-    be/feel comfortable'
+  translation: 'comfort; tr: make comfortable, cause to be (<em>feel</em>) comfortable;
+    intr: be (<em>feel</em>) comfortable'
 konfortane:
   term: konfortane
   class: t
@@ -22118,7 +22162,8 @@ konhwoku:
   class: b.oro
   category: root
   translation: 'confusion, perplexity, bafflement; tr: confuse, perplex, baffle, bewilder;
-    intr: be/feel confused, be/feel perplexed, be/feel baffled, be/feel bewildered'
+    intr: be (<em>feel</em>) confused, be (<em>feel</em>) perplexed, be (<em>feel</em>)
+    baffled, be (<em>feel</em>) bewildered'
 konhwokudo:
   term: konhwokudo
   class: t
@@ -23492,6 +23537,11 @@ laringe:
   class: b
   category: root
   translation: larynx
+laringeli:
+  term: laringeli
+  class: t
+  category: derived
+  translation: laryngeal
 larva:
   term: larva
   class: b
@@ -23566,8 +23616,9 @@ lawfen:
   term: lawfen
   class: b.oro
   category: root
-  translation: 'bother, annoyance, vexation; tr: bother, annoy, vex, bug; intr: be/feel
-    bothered, be/feel annoyed, be/feel vexed, be/feel bugged'
+  translation: 'bother, annoyance, vexation; tr: bother, annoy, vex, bug; intr: be
+    (<em>feel</em>) bothered, be (<em>feel</em>) annoyed, be (<em>feel</em>) vexed,
+    be (<em>feel</em>) bugged'
 lawfendo:
   term: lawfendo
   class: t
@@ -23663,7 +23714,7 @@ le_du-:
 le_no:
   term: le no
   class: jm
-  category: derived
+  category: phrase
   translation: did not, didn&#039;t
 leaxam:
   term: leaxam
@@ -24110,7 +24161,8 @@ likwido:
   term: likwido
   class: b.oro
   category: root
-  translation: 'liquid, fluid; tr/intr: liquify, liquefy (<em>turn or become liquid</em>)'
+  translation: 'liquid, fluid; tr/intr: liquify, liquefy (<em>turn into or become
+    liquid</em>)'
 likwidocu:
   term: likwidocu
   class: b.nenoj
@@ -25177,7 +25229,7 @@ majangu:
   term: majangu
   class: b
   category: root
-  translation: majong
+  translation: mahjong
 majeli:
   term: Majeli
   class: su n
@@ -25972,7 +26024,7 @@ masrisa:
   term: Masrisa
   class: b
   category: derived
-  translation: Egyptian (language)
+  translation: Egyptian Arabic (language)
 masriyen:
   term: Masriyen
   class: b
@@ -26403,6 +26455,11 @@ maxvelosicu:
   class: b.nenoj
   category: derived
   translation: acceleration; accelerate, speed up
+maxvelosigi:
+  term: maxvelosigi
+  class: b.oj
+  category: derived
+  translation: acceleration; accelerate, speed up, quicken
 maxya:
   term: maxya
   class: b
@@ -26928,7 +26985,7 @@ metabolis:
   term: metabolis
   class: b.oro
   category: root
-  translation: metabolism; metabolize
+  translation: 'metabolism; tr/intr: metabolize'
 metabolisli:
   term: metabolisli
   class: t
@@ -27063,8 +27120,8 @@ meylu:
   term: meylu
   class: b.oro
   category: root
-  translation: slope, inclination, incline, slant, bank, lean, oblique, tilt; incline,
-    tilt
+  translation: 'slope, inclination, incline, slant, bank, lean, oblique, tilt; tr/intr:
+    incline, tilt'
 meyludo:
   term: meyludo
   class: t
@@ -27666,7 +27723,7 @@ moja:
   term: moja
   class: b.oro
   category: root
-  translation: wave; undulate
+  translation: 'wave; tr/intr: undulate'
 moksay:
   term: moksay
   class: b
@@ -29337,6 +29394,11 @@ nenyon_na:
   class: p jm
   category: derived
   translation: without (<em>+ -ing</em>), not by (<em> + -ing</em>)
+nenyukwe:
+  term: nenyukwe
+  class: t
+  category: derived
+  translation: unpleasant; unpleasantly
 neo:
   term: neo
   class: t
@@ -30164,7 +30226,7 @@ obsesi:
   term: obsesi
   class: b.oro
   category: root
-  translation: obsession; obsess, feel obsessed
+  translation: 'obsession; tr: obsess; intr: obsess, be (<em>feel</em>) obsessed'
 obsesido:
   term: obsesido
   class: t
@@ -30834,7 +30896,7 @@ oruga:
   term: oruga
   class: b.oro
   category: root
-  translation: wrinkle, furrow; wrinkle
+  translation: 'wrinkle, furrow; tr/intr: wrinkle'
 orugado:
   term: orugado
   class: t
@@ -31249,7 +31311,7 @@ paniko:
   term: paniko
   class: b.oro
   category: root
-  translation: panic; panic, feel panic
+  translation: 'panic; tr: panic; intr: panic, feel panic'
 panikodo:
   term: panikodo
   class: t
@@ -31265,6 +31327,11 @@ panikone:
   class: t
   category: derived
   translation: panicking
+panikopul:
+  term: panikopul
+  class: t
+  category: derived
+  translation: panicked, in a panic
 panjabi:
   term: Panjabi
   class: su n
@@ -31429,7 +31496,7 @@ paralisi:
   term: paralisi
   class: b.oro
   category: root
-  translation: paralysis, palsy; paralyze, get paralyzed
+  translation: 'paralysis, palsy; tr: paralyze; intr: get paralyzed'
 paralisido:
   term: paralisido
   class: t
@@ -31444,8 +31511,8 @@ paranoy:
   term: paranoy
   class: b.oro
   category: root
-  translation: 'paranoia; be paranoid, feel paranoia; cause (<em>somebody</em>) to
-    be paranoid, make (<em>somebody</em>) paranoid '
+  translation: 'paranoia; tr: make (somebody) paranoid, cause (somebody) to be paranoid;
+    intr: be (<em>feel</em>) paranoid, feel paranoia '
 paranoydo:
   term: paranoydo
   class: t
@@ -31815,7 +31882,7 @@ pena:
   term: pena
   class: b.oro
   category: root
-  translation: foam, spume; froth
+  translation: 'foam, spume; tr/intr: froth'
 penci:
   term: penci
   class: b.oj
@@ -32281,7 +32348,7 @@ pilo:
   term: pilo
   class: b.oro
   category: root
-  translation: fatigue; tire, fatigue, feel tired, feel fatigued
+  translation: 'fatigue; tr: tire, fatigue; intr: be (<em>feel</em>) tired, feel fatigued'
 pilodo:
   term: pilodo
   class: t
@@ -32558,7 +32625,7 @@ pley:
   term: pley
   class: b.oro
   category: root
-  translation: playback; play (<em>video, music, button</em>)
+  translation: 'playback; tr/intr: play (<em>video, music, button</em>)'
 plu:
   term: plu
   class: t
@@ -33099,6 +33166,11 @@ poshay:
   class: b.nenoj
   category: derived
   translation: be missing
+poshayne:
+  term: poshayne
+  class: t
+  category: derived
+  translation: missing
 poshifazi:
   term: poshifazi
   class: b.oj
@@ -33293,7 +33365,12 @@ posyukwe:
   term: posyukwe
   class: t
   category: derived
-  translation: unpleasant, displeasing; unpleasantly, displeasingly
+  translation: displeasing; displeasingly
+posyukyo:
+  term: posyukyo
+  class: b.oro
+  category: derived
+  translation: 'invalidity; tr: invalidate, make invalid; intr: be invalid'
 potasyum:
   term: potasyum
   class: b
@@ -33645,7 +33722,7 @@ proyeksi:
   term: proyeksi
   class: b.oro
   category: root
-  translation: projection; project
+  translation: 'projection; tr/intr: project'
 proyeksido:
   term: proyeksido
   class: t
@@ -33675,7 +33752,7 @@ pudra:
   term: pudra
   class: b.oro
   category: root
-  translation: powder; pulverize
+  translation: 'powder; tr/intr: pulverize'
 pul:
   term: pul
   class: t
@@ -33725,7 +33802,7 @@ pure:
   term: pure
   class: b.oro
   category: root
-  translation: puree, pur&eacute;e, mash, mush; puree, grind, smash
+  translation: 'puree, pur&eacute;e, mash, mush; tr/intr: puree, grind, smash'
 purpuro:
   term: purpuro
   class: t
@@ -33795,7 +33872,7 @@ radya:
   term: radya
   class: b.oro
   category: root
-  translation: ray, beam; radiate
+  translation: 'ray, beam; tr/intr: radiate'
 radyagrafi:
   term: radyagrafi
   class: b
@@ -34590,7 +34667,7 @@ rota:
   term: rota
   class: b.oro
   category: root
-  translation: rotation; rotate, turn (around)
+  translation: 'rotation; tr/intr: rotate, turn (around)'
 rotacune:
   term: rotacune
   class: t
@@ -34892,7 +34969,7 @@ rutyao:
   term: rutyao
   class: b.oro
   category: derived
-  translation: bounce, rebound, spring (back), ricochet
+  translation: 'tr/intr: bounce, rebound, spring (back), ricochet'
 ruwoju:
   term: ruwoju
   class: b.oj
@@ -35479,7 +35556,7 @@ sangu:
   term: sangu
   class: b.oro
   category: root
-  translation: hide, go into hiding
+  translation: 'tr: hide; intr: hide, go into hiding'
 sangucu:
   term: sangucu
   class: b.nenoj
@@ -35925,7 +36002,7 @@ sela:
   term: sela
   class: b.oro
   category: root
-  translation: flood, deluge, inundation; flood, inundate
+  translation: 'flood, deluge, inundation; tr/intr: flood, inundate'
 selado:
   term: selado
   class: t
@@ -36635,7 +36712,7 @@ sinkroniza:
   term: sinkroniza
   class: b.oro
   category: root
-  translation: synchronization; synchronize, sync
+  translation: 'synchronization; tr/intr: synchronize, sync'
 sinkronizado:
   term: sinkronizado
   class: t
@@ -37020,7 +37097,7 @@ solusi:
   term: solusi
   class: b.oro
   category: root
-  translation: solution (<em>chemistry</em>); dissolve
+  translation: 'solution (<em>chemistry</em>); tr/intr: dissolve'
 solusido:
   term: solusido
   class: t
@@ -37220,7 +37297,7 @@ soyo:
   term: soyo
   class: b.oro
   category: root
-  translation: itch; itch, feel itched, feel itchy
+  translation: 'itch; tr: itch; intr: itch, feel itched, feel itchy'
 soyone:
   term: soyone
   class: t
@@ -37496,8 +37573,8 @@ sungay:
   term: sungay
   class: b.oro
   category: root
-  translation: damage, harm, injury; damage, harm, hurt, injure, get damaged, get
-    harmed, get hurt, get injured
+  translation: 'damage, harm, injury; tr: damage, harm, hurt, injure; intr: get damaged,
+    get harmed, get hurt, get injured'
 sungayne:
   term: sungayne
   class: t
@@ -37673,7 +37750,7 @@ surprisa:
   term: surprisa
   class: b.oro
   category: root
-  translation: surprise; surprise
+  translation: 'surprise; tr: surprise; intr: be (<em>feel</em>) surprised'
 surprisaatake:
   term: surprisaatake
   class: b.oj
@@ -38124,7 +38201,8 @@ talento:
   term: talento
   class: b.oro
   category: root
-  translation: talent, aptitute, knack; be talented, cause to be talented, make talented
+  translation: 'talent, aptitute, knack; tr: make talented, cause to be talented;
+    intr: be talented'
 talentopul:
   term: talentopul
   class: t
@@ -38987,7 +39065,7 @@ termo:
   term: termo
   class: b.oro
   category: root
-  translation: heat; be warm, heat (up), warm (up)
+  translation: 'heat; tr: heat (up), warm (up); intr: be warm, be hot'
 termoday:
   term: termoday
   class: t
@@ -39062,7 +39140,8 @@ teslimu:
   term: teslimu
   class: b.oro
   category: root
-  translation: surrender (to), succumb (to), give up, give in (to), resign, quit
+  translation: 'surrender; tr: surrender, quit; intr: surrender (to), succumb (to),
+    give in (to), give up, resign, quit'
 tesu:
   term: tesu
   class: su s
@@ -39892,7 +39971,7 @@ treme:
   term: treme
   class: b.oro
   category: root
-  translation: shake, tremble
+  translation: 'shaking, trembling; tr/intr: shake, tremble'
 tren:
   term: tren
   class: b
@@ -40352,7 +40431,7 @@ uflasi:
   term: uflasi
   class: b.oro
   category: root
-  translation: bankruptcy, insolvency; go bankrupt, bankrupt, become insolvent
+  translation: 'bankruptcy, insolvency; tr: bankrupt; intr: go bankrupt, become insolvent'
 uflasido:
   term: uflasido
   class: t
@@ -40362,8 +40441,8 @@ ufue:
   term: ufue
   class: b.oro; il
   category: root
-  translation: disgust, repugnance; feel disgust, be disgusted, be grossed out, (cause)
-    disgust, gross out; ew, yuck, ugh
+  translation: 'disgust, repugnance; tr: (cause) disgust, gross out; intr: feel disgust,
+    be (<em>feel</em>) disgusted, be (<em>feel</em>) grossed out; ew, yuck, ugh'
 ufuedo:
   term: ufuedo
   class: t
@@ -40434,11 +40513,16 @@ ukungu:
   class: b
   category: root
   translation: fog, mist, haze
+ukungupul:
+  term: ukungupul
+  class: t
+  category: derived
+  translation: foggy, hazy, misty
 ulcera:
   term: ulcera
   class: b.oro
   category: root
-  translation: ulcer, sore; ulcerate
+  translation: 'ulcer, sore; tr/intr: ulcerate'
 ultra:
   term: ultra
   class: p
@@ -40683,7 +40767,12 @@ urjuha:
   term: urjuha
   class: b.oro
   category: root
-  translation: swing; swing
+  translation: 'swing; tr/intr: swing'
+urjuhatul:
+  term: urjuhatul
+  class: b
+  category: derived
+  translation: swing (<em>playground equipment</em>)
 urugway:
   term: Urugway
   class: su n
@@ -40809,11 +40898,21 @@ vada:
   class: b.oj
   category: root
   translation: promise, pledge; promise, pledge
+vadado:
+  term: vadado
+  class: t
+  category: derived
+  translation: promised, pledged
 vagina:
   term: vagina
   class: b
   category: root
   translation: vagina
+vaginali:
+  term: vaginali
+  class: t
+  category: derived
+  translation: vaginal; vaginally
 vakasi:
   term: vakasi
   class: b.oj.ru
@@ -40829,6 +40928,11 @@ vaksina:
   class: b.oj
   category: root
   translation: vaccine; vaccinate
+vaksinado:
+  term: vaksinado
+  class: t
+  category: derived
+  translation: vaccinated
 valentin:
   term: Valentin
   class: su n
@@ -40844,6 +40948,11 @@ vampiri:
   class: b
   category: root
   translation: vampire
+vampirisim:
+  term: vampirisim
+  class: t
+  category: derived
+  translation: vampiric
 van:
   term: van
   class: b
@@ -40874,6 +40983,11 @@ varnis:
   class: b.oj
   category: root
   translation: varnish, lacquer; varnish, lacquer
+varnisdo:
+  term: varnisdo
+  class: t
+  category: derived
+  translation: varnished
 vaselin:
   term: vaselin
   class: b
@@ -40909,11 +41023,16 @@ velosi:
   class: t
   category: root
   translation: fast, quick, rapid; quickly, rapidly
+velosicu:
+  term: velosicu
+  class: b.nenoj
+  category: derived
+  translation: acceleration; accelerate, speed up
 velosigi:
   term: velosigi
   class: b.oj
   category: derived
-  translation: acceleration; accelerate, speed up
+  translation: acceleration; accelerate, speed up, quicken
 velosije:
   term: velosije
   class: b
@@ -40979,11 +41098,16 @@ vibaja:
   class: b.oj
   category: root
   translation: division; divide
+vibajado:
+  term: vibajado
+  class: t
+  category: derived
+  translation: divided
 vibra:
   term: vibra
   class: b.oro
   category: root
-  translation: vibration; vibrate
+  translation: 'vibration; tr/intr: vibrate'
 vibrafono:
   term: vibrafono
   class: b
@@ -40999,6 +41123,11 @@ video:
   class: b
   category: root
   translation: video
+videoyuxi:
+  term: videoyuxi
+  class: b
+  category: derived
+  translation: video game
 vinamra:
   term: vinamra
   class: t
@@ -41064,6 +41193,11 @@ visita:
   class: b.oj
   category: root
   translation: visit; visit
+visitado:
+  term: visitado
+  class: t
+  category: derived
+  translation: visited
 visitayen:
   term: visitayen
   class: b
@@ -41094,6 +41228,11 @@ vokafon:
   class: b
   category: derived
   translation: microphone
+vokaya:
+  term: vokaya
+  class: b
+  category: derived
+  translation: call
 vole:
   term: vole
   class: b.oj
@@ -41154,6 +41293,16 @@ vyata:
   class: b.oj
   category: root
   translation: expression; express
+vyatado:
+  term: vyatado
+  class: t
+  category: derived
+  translation: expressed
+vyatapul:
+  term: vyatapul
+  class: t
+  category: derived
+  translation: expressive
 vyayama:
   term: vyayama
   class: b.oj.ru
@@ -41204,6 +41353,11 @@ vyolin:
   class: b
   category: root
   translation: violin, fiddle
+vyolinyen:
+  term: vyolinyen
+  class: b
+  category: derived
+  translation: violinist, violin player, fiddler
 vyoloncel:
   term: vyoloncel
   class: b
@@ -41249,6 +41403,11 @@ wakil:
   class: b.oj
   category: root
   translation: representation; represent
+wakildo:
+  term: wakildo
+  class: t
+  category: derived
+  translation: represented
 wakilyen:
   term: wakilyen
   class: b
@@ -41263,12 +41422,17 @@ wakufa:
   term: wakufa
   class: b.oro
   category: root
-  translation: pause, break; pause, take a break
+  translation: 'pause, break; tr: pause; intr: pause, take a break'
 wakufacu:
   term: wakufacu
   class: b.nenoj
   category: derived
   translation: pause
+wakufado:
+  term: wakufado
+  class: t
+  category: derived
+  translation: paused
 wal:
   term: wal
   class: p
@@ -41329,11 +41493,22 @@ wanji:
   class: b.oj
   category: root
   translation: oblivion; forget
+wanjido:
+  term: wanjido
+  class: t
+  category: derived
+  translation: forgotten
 wao:
   term: wao
   class: b.oro; il
   category: root
-  translation: amazement, awe, wonder; amaze, wow, feel amazed, feel wowed
+  translation: 'amazement, awe, wonder; tr: amaze, wow; intr: be (<em>feel</em>) amazed,
+    be (<em>feel</em>) wowed'
+waodo:
+  term: waodo
+  class: t
+  category: derived
+  translation: amazed
 waone:
   term: waone
   class: t
@@ -41349,11 +41524,21 @@ warisa:
   class: b.oj
   category: root
   translation: inheritance; inherit
+warisado:
+  term: warisado
+  class: t
+  category: derived
+  translation: inherited
 warum:
   term: warum
   class: b.nenoj
   category: root
   translation: swelling; swell
+warumdo:
+  term: warumdo
+  class: t
+  category: derived
+  translation: swollen
 wasabi:
   term: wasabi
   class: b
@@ -41363,7 +41548,12 @@ wasyatu:
   term: wasyatu
   class: b.oj
   category: root
-  translation: will, testament, bequest
+  translation: will, testament, bequest; bequeath
+wasyatudo:
+  term: wasyatudo
+  class: t
+  category: derived
+  translation: bequeathed
 wati:
   term: wati
   class: b
@@ -41401,7 +41591,7 @@ watumonli:
   translation: periodic
 wawa:
   term: wawa
-  class: b.oj
+  class: b.oj.ru
   category: root
   translation: cry, weep; cry, weep
 wawagi:
@@ -41413,7 +41603,7 @@ way:
   term: way
   class: il
   category: root
-  translation: aw (denoting tenderness)
+  translation: aw (<em>denoting tenderness</em>)
 wazen:
   term: wazen
   class: b
@@ -41580,6 +41770,11 @@ wisen:
   class: b
   category: root
   translation: hygiene
+wisenpul:
+  term: wisenpul
+  class: t
+  category: derived
+  translation: hygenic; hygenically
 wiski:
   term: wiski
   class: b
@@ -41605,6 +41800,11 @@ woju:
   class: b.oj
   category: root
   translation: hold; hold (<em>in hands, etc.</em>)
+wojudo:
+  term: wojudo
+  class: t
+  category: derived
+  translation: held
 wojutul:
   term: wojutul
   class: b
@@ -41615,6 +41815,11 @@ woxa:
   class: b.oj
   category: root
   translation: wash; wash
+woxado:
+  term: woxado
+  class: t
+  category: derived
+  translation: washed
 woxatora:
   term: woxatora
   class: b
@@ -41645,6 +41850,11 @@ xabahubaytu:
   class: b
   category: derived
   translation: haunted house
+xabahudo:
+  term: xabahudo
+  class: t
+  category: derived
+  translation: haunted
 xabahuhikaye:
   term: xabahuhikaye
   class: b
@@ -41781,6 +41991,21 @@ xahidu:
   class: b
   category: root
   translation: martyr
+xahidugi:
+  term: xahidugi
+  class: b.oj
+  category: derived
+  translation: martyr
+xahidugido:
+  term: xahidugido
+  class: t
+  category: derived
+  translation: martyred
+xahihuya:
+  term: xahihuya
+  class: b
+  category: derived
+  translation: martyrdom
 xahin:
   term: xahin
   class: b
@@ -41855,7 +42080,12 @@ xanhun:
   term: xanhun
   class: b.oro
   category: root
-  translation: scar, cicatrix
+  translation: 'scar, cicatrix; tr/intr: scar'
+xanhundo:
+  term: xanhundo
+  class: t
+  category: derived
+  translation: scarred
 xani:
   term: Xani
   class: su n
@@ -41906,11 +42136,21 @@ xantaje:
   class: b.oj
   category: root
   translation: blackmail, extortion; blackmail, extort
+xantajeyen:
+  term: xantajeyen
+  class: b
+  category: derived
+  translation: extortionist, blackmailer
 xanti:
   term: xanti
   class: b; il
   category: root
   translation: peace; hello, bye
+xantifil:
+  term: xantifil
+  class: t
+  category: derived
+  translation: peaceful
 xantipul:
   term: xantipul
   class: t
@@ -41946,8 +42186,8 @@ xartikal:
   class: t
   category: derived
   translation: unconditional; unconditionally
-xartili:
-  term: xartili
+xartipul:
+  term: xartipul
   class: t
   category: derived
   translation: conditional; conditionally
@@ -41996,6 +42236,11 @@ xehi:
   class: b.oj
   category: root
   translation: brag, boast; brag (about), boast (about)
+xehiyen:
+  term: xehiyen
+  class: b
+  category: derived
+  translation: braggart, bragger, boaster
 xekaste:
   term: xekaste
   class: b.oj
@@ -42061,11 +42306,21 @@ xerafu:
   class: b.oj
   category: root
   translation: honor, glory; honor, glorify
+xerafudo:
+  term: xerafudo
+  class: t
+  category: derived
+  translation: honored, glorified
 xerca:
   term: xerca
   class: b.oj
   category: root
   translation: search; seek, look for, search for
+xercado:
+  term: xercado
+  class: t
+  category: derived
+  translation: sought
 xeritu:
   term: xeritu
   class: b
@@ -42111,11 +42366,21 @@ xidu:
   class: b.oj
   category: root
   translation: attempt, try; attempt, try
+xidudo:
+  term: xidudo
+  class: t
+  category: derived
+  translation: attempted
 xigo:
   term: xigo
   class: b
   category: root
   translation: accident
+xigoli:
+  term: xigoli
+  class: t
+  category: derived
+  translation: accidental; accidentally
 xijere:
   term: xijere
   class: b.oj
@@ -42125,7 +42390,7 @@ xikar:
   term: xikar
   class: b.oj
   category: root
-  translation: hunt; hunt
+  translation: hunt; hunt, prey on, prey upon
 xikaryen:
   term: xikaryen
   class: b
@@ -42136,11 +42401,21 @@ xikenje:
   class: b.oj
   category: root
   translation: torture; torture
+xikenjedo:
+  term: xikenjedo
+  class: t
+  category: derived
+  translation: tortured
 xikenjeli_kamer:
   term: xikenjeli kamer
   class: b
   category: phrase
   translation: torture chamber
+xikenjeyen:
+  term: xikenjeyen
+  class: b
+  category: derived
+  translation: torturer
 xikudo:
   term: xikudo
   class: b
@@ -42150,7 +42425,13 @@ xilepu:
   term: xilepu
   class: b.oj
   category: root
-  translation: slap, smack, clap, plap, swat, spank
+  translation: slap, smack, clap, plap, swat, spank, spanking; slap, smack, clap,
+    plap, swat, spank
+xilepudo:
+  term: xilepudo
+  class: t
+  category: derived
+  translation: slapped, smacked, spanked
 xilo:
   term: xilo
   class: b
@@ -42161,16 +42442,31 @@ ximbi:
   class: b
   category: root
   translation: mystery
+ximbipul:
+  term: ximbipul
+  class: t
+  category: derived
+  translation: mysterious; mysteriously
 xinen:
   term: xinen
   class: b
   category: root
   translation: faith, (religious) belief, conviction
+xinenfil:
+  term: xinenfil
+  class: t
+  category: derived
+  translation: of great faith, strong in faith
 xinenmal:
   term: xinenmal
   class: t
   category: derived
   translation: heretical, heterodox, unorthodox
+xinenpul:
+  term: xinenpul
+  class: t
+  category: derived
+  translation: faith-filled
 xinensahi:
   term: xinensahi
   class: t
@@ -42181,11 +42477,21 @@ xinloy:
   class: b.oj
   category: root
   translation: trust, faith, confidence; trust, rely (on), believe (in)
+xinloydo:
+  term: xinloydo
+  class: t
+  category: derived
+  translation: trusted
 xinloylaye:
   term: xinloylaye
   class: t
   category: derived
   translation: trust-worthy, trustworthy; trustworthily
+xinloyne:
+  term: xinloyne
+  class: t
+  category: derived
+  translation: trusting
 xinyon:
   term: xinyon
   class: b
@@ -42206,16 +42512,36 @@ xiwon:
   class: b.oj
   category: root
   translation: wish, desire; wish (for), desire
+xiwondo:
+  term: xiwondo
+  class: t
+  category: derived
+  translation: desired, wished (for)
 xobi:
   term: xobi
   class: b.oj
   category: root
   translation: consumption; consume
+xobido:
+  term: xobido
+  class: t
+  category: derived
+  translation: consumed
+xobiyen:
+  term: xobiyen
+  class: b
+  category: derived
+  translation: consumer
 xofer:
   term: xofer
   class: b.oj
   category: root
-  translation: drive; drive
+  translation: drive; drive, chauffeur
+xoferdo:
+  term: xoferdo
+  class: t
+  category: derived
+  translation: driven, chauffeured
 xoferyen:
   term: xoferyen
   class: b
@@ -42229,7 +42555,7 @@ xogyo:
 xogyobloki:
   term: xogyobloki
   class: b.oj
-  category: root
+  category: derived
   translation: embargo; embargo
 xogyoli:
   term: xogyoli
@@ -42240,7 +42566,7 @@ xohra:
   term: xohra
   class: b.oro
   category: root
-  translation: fame; be famous, cause to be famous, make famous
+  translation: 'fame; tr: make famous, cause to be famous; intr: be famous'
 xohrapul:
   term: xohrapul
   class: t
@@ -42255,12 +42581,22 @@ xoku:
   term: xoku
   class: b.oro
   category: root
-  translation: shock; be in shock, shock
+  translation: 'shock; tr: shock; intr: be in shock'
+xokudo:
+  term: xokudo
+  class: t
+  category: derived
+  translation: shocked, in shock
 xomin:
   term: xomin
   class: b.oj
   category: root
   translation: explanation; explain
+xomindo:
+  term: xomindo
+  class: t
+  category: derived
+  translation: explained
 xominnenible:
   term: xominnenible
   class: t
@@ -42285,7 +42621,7 @@ xoratex:
   term: xoratex
   class: b.oro
   category: derived
-  translation: set on fire, catch fire
+  translation: 'tr: set on fire; intr: catch fire'
 xorestay:
   term: xorestay
   class: b.nenoj
@@ -42345,8 +42681,9 @@ xorixi:
   term: xorixi
   class: b.oro
   category: derived
-  translation: 'become aware, become conscious, realize; cause (somebody) to become
-    aware, cause (somebody) to become conscious '
+  translation: 'tr: make (somebody) aware, make (somebody) conscious, cause (somebody)
+    to become aware, cause (somebody) to become conscious; intr: become aware, become
+    conscious, realize '
 xorjanu:
   term: xorjanu
   class: b.nenoj
@@ -42407,6 +42744,12 @@ xoroko:
   class: b.oj
   category: derived
   translation: glimpse; catch sight of
+xorpilo:
+  term: xorpilo
+  class: b.oro
+  category: derived
+  translation: 'tr: make tired, cause (somebody) to become tired, make fatigued, cause
+    (somebody) to become fatigued; intr: tire, get tired, get fatigued'
 xorsen:
   term: xorsen
   class: b
@@ -42431,7 +42774,13 @@ xoru:
   term: xoru
   class: b.oro
   category: root
-  translation: beginning, start, initiation; begin, start, initiate
+  translation: 'beginning, start, initiation; tr: begin, start, initiate; intr: begin,
+    start'
+xorudo:
+  term: xorudo
+  class: t
+  category: derived
+  translation: started, begun
 xorufilya:
   term: xorufilya
   class: b
@@ -42487,6 +42836,11 @@ xow:
   class: b.oj
   category: root
   translation: show, spectacle, performance; perform
+xowdo:
+  term: xowdo
+  class: t
+  category: derived
+  translation: performed
 xowpul:
   term: xowpul
   class: t
@@ -42502,6 +42856,11 @@ xucyo:
   class: b.oj
   category: root
   translation: demand, requirement; demand, require
+xucyodo:
+  term: xucyodo
+  class: t
+  category: derived
+  translation: demanded, required
 xucyofil:
   term: xucyofil
   class: t
@@ -42523,6 +42882,11 @@ xuha:
   class: b.oj
   category: root
   translation: harvest; reap, earn, gain, win
+xuhado:
+  term: xuhado
+  class: t
+  category: derived
+  translation: reaped, earned, gained, won
 xuhamosem:
   term: xuhamosem
   class: b
@@ -42559,6 +42923,11 @@ xuli:
   class: b.oj
   category: root
   translation: repair, fix; repair, fix
+xulido:
+  term: xulido
+  class: t
+  category: derived
+  translation: repaired, fixed
 xunjan:
   term: xunjan
   class: b.nenoj
@@ -42574,6 +42943,11 @@ xupan:
   class: b.oj
   category: root
   translation: publication; publish
+xupando:
+  term: xupando
+  class: t
+  category: derived
+  translation: published
 xupi:
   term: xupi
   class: b
@@ -42594,6 +42968,11 @@ xwexi:
   class: b.oj
   category: root
   translation: learning; learn
+xwexido:
+  term: xwexido
+  class: t
+  category: derived
+  translation: learned
 xwexiyen:
   term: xwexiyen
   class: b
@@ -42608,18 +42987,39 @@ xyuci:
   term: xyuci
   class: b.oro
   category: root
-  translation: shame, embarrassment, humiliation; shame, embarrass, humiliate, feel
-    shamed, feel embarrassed, feel humiliated
+  translation: 'shame, embarrassment, humiliation; tr: shame, embarrass, humiliate;
+    be (<em>feel</em>) shamed, be (<em>feel</em>) embarrassed, be (<em>feel</em>)
+    humiliated'
+xyucido:
+  term: xyucido
+  class: t
+  category: derived
+  translation: 'shamed, embarrassed, humiliated '
+xyucine:
+  term: xyucine
+  class: t
+  category: derived
+  translation: embarrassing, humiliating
 yake:
   term: yake
   class: b.oro
   category: root
-  translation: burn; burn
+  translation: 'burn; tr/intr: burn'
+yakedo:
+  term: yakedo
+  class: t
+  category: derived
+  translation: burnt
 yakin:
   term: yakin
   class: t
   category: root
   translation: sure, certain; surely, certainly
+yakincu:
+  term: yakincu
+  class: b.nenoj
+  category: derived
+  translation: make sure, become sure, become certain
 yakingi:
   term: yakingi
   class: b.oj
@@ -42640,6 +43040,11 @@ yam:
   class: b.oj.ru
   category: root
   translation: meal, food; eat
+yamdo:
+  term: yamdo
+  class: t
+  category: derived
+  translation: eaten
 yamdom:
   term: yamdom
   class: b
@@ -42660,6 +43065,11 @@ yamgi:
   class: b.oj
   category: derived
   translation: 'feed '
+yamgibe:
+  term: yamgibe
+  class: b.oj
+  category: derived
+  translation: feed
 yamible:
   term: yamible
   class: t
@@ -42712,9 +43122,14 @@ yamyen:
   translation: eater
 yanlyo:
   term: yanlyo
-  class: b
+  class: b.oj
   category: root
-  translation: fuel
+  translation: fuel; fuel
+yanlyodo:
+  term: yanlyodo
+  class: t
+  category: derived
+  translation: fueled
 yanmo:
   term: yanmo
   class: b
@@ -42725,6 +43140,11 @@ yao:
   class: b.oj
   category: root
   translation: bite; bite
+yaodo:
+  term: yaodo
+  class: t
+  category: derived
+  translation: bitten
 yarda:
   term: yarda
   class: b
@@ -42747,9 +43167,19 @@ yate:
   translation: yacht
 yatima:
   term: yatima
-  class: b
+  class: b.oj
   category: root
-  translation: orphan
+  translation: orphan; orphan
+yatimado:
+  term: yatimado
+  class: t
+  category: derived
+  translation: orphaned
+yatimadom:
+  term: yatimadom
+  class: b
+  category: derived
+  translation: orphanage
 yawxe:
   term: yawxe
   class: b
@@ -42860,6 +43290,16 @@ yoga:
   class: b
   category: root
   translation: yoga
+yogali:
+  term: yogali
+  class: t
+  category: derived
+  translation: yogic
+yogayen:
+  term: yogayen
+  class: b
+  category: derived
+  translation: yogi, yogini
 yogurtu:
   term: yogurtu
   class: b
@@ -42875,21 +43315,47 @@ yoho:
   class: b.oj
   category: root
   translation: temptation; tempt
+yohodo:
+  term: yohodo
+  class: t
+  category: derived
+  translation: tempted
 yohone:
   term: yohone
   class: t
   category: derived
   translation: tempting; temptingly
+yohoyen:
+  term: yohoyen
+  class: b
+  category: derived
+  translation: tempter, temptress
 yolyu:
   term: yolyu
   class: b.oro
   category: root
-  translation: worry, concern, care, preoccupation; worry, care, fret
+  translation: 'worry, concern, care, preoccupation; tr: worry; intr: worry, care,
+    fret'
 yolyudo:
   term: yolyudo
   class: t
   category: derived
   translation: worried, concerned, preoccupied
+yolyufil:
+  term: yolyufil
+  class: t
+  category: derived
+  translation: worrisome, fretful, neurotic
+yolyufilyen:
+  term: yolyufilyen
+  class: b
+  category: derived
+  translation: worrywart
+yolyune:
+  term: yolyune
+  class: t
+  category: derived
+  translation: worrying, worrisome, concerning
 yon:
   term: yon
   class: p
@@ -42944,7 +43410,7 @@ yoni:
   term: yoni
   class: b.oro
   category: root
-  translation: ion; ionize
+  translation: 'ion; tr/intr: ionize'
 yonidi:
   term: yonidi
   class: b.oj
@@ -42964,7 +43430,7 @@ yoran:
   term: yoran
   class: b.oro
   category: root
-  translation: cradle, crib; cradle, crib, rock, sway
+  translation: 'cradle, crib; tr/intr: cradle, rock, sway'
 yosef:
   term: Yosef
   class: su n
@@ -42994,7 +43460,12 @@ yozay:
   term: yozay
   class: b.oro
   category: root
-  translation: guilt, fault, blame; blame, be guilty
+  translation: 'guilt, fault, blame; tr: blame; intr: be guilty'
+yozaydo:
+  term: yozaydo
+  class: t
+  category: derived
+  translation: blamed
 yozaykal:
   term: yozaykal
   class: t
@@ -43037,9 +43508,19 @@ yukwe:
   translation: pleasant, pleasing, nice; pleasantly, nicely
 yukyo:
   term: yukyo
-  class: b.nenoj
+  class: b.oro
   category: root
-  translation: validity; be valid
+  translation: 'validity; tr: validate, make valid; intr: be valid'
+yukyokal:
+  term: yukyokal
+  class: t
+  category: derived
+  translation: invalid
+yukyopul:
+  term: yukyopul
+  class: t
+  category: derived
+  translation: valid
 yulaf:
   term: yulaf
   class: b
@@ -43065,11 +43546,22 @@ yumuku:
   class: b.nenoj
   category: root
   translation: nomadism; live as a nomad
+yumukuyen:
+  term: yumukuyen
+  class: b
+  category: derived
+  translation: nomad
 yunki:
   term: yunki
   class: b.oro
   category: root
-  translation: courage; dare, have the courage (to, for), encourage
+  translation: 'courage; tr: make couragous, encourage; intr: be courageous, have
+    the courage (to, for), dare (to)'
+yunkido:
+  term: yunkido
+  class: t
+  category: derived
+  translation: encouraged
 yunkigi:
   term: yunkigi
   class: b.oj
@@ -43156,6 +43648,11 @@ zabatu:
   category: root
   translation: confiscation, expropriation, forfeiture, seizure; confiscate, expropriate,
     seize, forfeit, sequestrate, commandeer
+zabatudo:
+  term: zabatudo
+  class: t
+  category: derived
+  translation: confiscated, expropriated, seized, forfeited, sequestrated, commandeered
 zakaria:
   term: Zakaria
   class: su n
@@ -43166,6 +43663,16 @@ zakere:
   class: b.oj
   category: root
   translation: negotiation; negotiate
+zakeredo:
+  term: zakeredo
+  class: t
+  category: derived
+  translation: negotiated
+zakereyen:
+  term: zakereyen
+  class: b
+  category: derived
+  translation: negotiator
 zambi:
   term: Zambi
   class: su n
@@ -43186,6 +43693,11 @@ zangar:
   class: b
   category: root
   translation: rust
+zangarpul:
+  term: zangarpul
+  class: t
+  category: derived
+  translation: rusty
 zaratuxtra:
   term: Zaratuxtra
   class: su n
@@ -43196,6 +43708,11 @@ zarif:
   class: t
   category: root
   translation: elegant, chic, stylish, fancy; elegantly, stylishly, fancily
+zarifya:
+  term: zarifya
+  class: b
+  category: derived
+  translation: elegance, stylishness
 zaxi:
   term: zaxi
   class: b
@@ -43211,6 +43728,11 @@ zekaru:
   class: b.oj
   category: root
   translation: mention; mention
+zekarudo:
+  term: zekarudo
+  class: t
+  category: derived
+  translation: mentioned
 zendana:
   term: zendana
   class: b
@@ -43235,7 +43757,7 @@ zigzagu:
   term: zigzagu
   class: b.oro
   category: root
-  translation: zigzag, zig-zag
+  translation: 'zigzag, zig-zag; tr/intr: zigzag, zig-zag'
 zigzagune:
   term: zigzagune
   class: t
@@ -43286,6 +43808,11 @@ zixe:
   class: b.oj.ru
   category: root
   translation: hiss; hiss
+zixene:
+  term: zixene
+  class: t
+  category: derived
+  translation: hissing
 zizi:
   term: zizi
   class: b
@@ -43316,6 +43843,11 @@ zubul:
   class: b.nenoj
   category: root
   translation: wither, wilt, droop
+zubuldo:
+  term: zubuldo
+  class: t
+  category: derived
+  translation: withered, wilted, drooped
 zuhura:
   term: Zuhura
   class: su n
