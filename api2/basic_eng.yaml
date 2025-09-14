@@ -384,11 +384,6 @@ absorbiabil:
   class: t
   category: derived
   translation: absorbent
-absorbigi:
-  term: absorbigi
-  class: b.oj
-  category: derived
-  translation: drench, saturate, soak
 absorbine:
   term: absorbine
   class: t
@@ -9778,7 +9773,7 @@ dyabetes:
   term: dyabetes
   class: b.oro
   category: root
-  translation: 'diabetes; tr: cause diabetes; have diabetes, be diabetic '
+  translation: 'diabetes; tr: cause diabetes; intr: have diabetes, be diabetic '
 dyabetesli:
   term: dyabetesli
   class: t
@@ -10098,7 +10093,7 @@ elastibendu:
   term: elastibendu
   class: b
   category: derived
-  translation: elastic
+  translation: elastic (band)
 elastiya:
   term: elastiya
   class: b
@@ -10377,9 +10372,10 @@ epikopul:
   translation: epic; epically
 epilepsi:
   term: epilepsi
-  class: b
+  class: b.oro
   category: root
-  translation: epilepsy
+  translation: 'epilepsy; tr: cause epilepsy; intr: have epilepsy, suffer from epilepsy,
+    be epileptic'
 epilepsili:
   term: epilepsili
   class: t
@@ -10514,7 +10510,7 @@ eskandal:
   term: eskandal
   class: b.nenoj
   category: root
-  translation: scandal; make a scandal
+  translation: scandal; scandalize, make a scandal
 eskandalpul:
   term: eskandalpul
   class: t
@@ -10587,9 +10583,10 @@ eskiyen:
   translation: skier
 eskizofreni:
   term: eskizofreni
-  class: b
+  class: b.oro
   category: root
-  translation: schizophrenia
+  translation: 'schizophrenia; tr: cause schizophrenia; intr: have schizophrenia,
+    suffer from schizophrenia, be schizophrenic '
 eskizofrenili:
   term: eskizofrenili
   class: t
@@ -10632,9 +10629,9 @@ eskolyen:
   translation: educator
 eskorbuto:
   term: eskorbuto
-  class: b
+  class: b.oro
   category: root
-  translation: scurvy
+  translation: 'scurvy; tr: cause scurvy; intr: have scurvy, suffer from scurvy'
 eskri:
   term: eskri
   class: b.oj
@@ -10664,7 +10661,7 @@ eskritahta:
   term: eskritahta
   class: b
   category: derived
-  translation: whiteboard, blackboard, chalkboard
+  translation: writing board, whiteboard, blackboard, chalkboard
 eskritul:
   term: eskritul
   class: b
@@ -11972,9 +11969,10 @@ fe:
   term: fe
   class: p
   category: root
-  translation: at (<em>time</em>), at (<em>unspecified place</em>), in (<em>time</em>),
+  translation: at (<em>time</em>), in (<em>month or year</em>), on (<em>date or day
+    of the week</em>), at (<em>phrasal preposition, or location other than within</em>),
     for (<em>for the first time, etc.</em>), of (<em>relating to, number, quantity,
-    amount</em>)
+    amount</em>), <em>forms common prepositional phrases</em>
 fe_alo_kaso:
   term: fe alo kaso
   class: p jm
@@ -12544,9 +12542,10 @@ fefu:
   translation: lung
 fefuitis:
   term: fefuitis
-  class: b
+  class: b.oro
   category: derived
-  translation: pneumonitis, pneumonia
+  translation: 'pneumonitis, pneumonia; tr: cause pneumonia; intr: have pneumonia,
+    suffer from pneumonia'
 feka:
   term: feka
   class: b.oj.ru
@@ -13805,9 +13804,9 @@ funduku:
   translation: hazel, hazelnut, <em>Corylus</em>
 funjin:
   term: funjin
-  class: b
+  class: b.oro
   category: root
-  translation: rubella
+  translation: 'rubella; tr: cause rubella; intr: have rubella, suffer from rubella'
 funsu:
   term: funsu
   class: b
@@ -14207,9 +14206,10 @@ ganzo:
   translation: liver
 ganzoitis:
   term: ganzoitis
-  class: b
+  class: b.oro
   category: derived
-  translation: hepatitis
+  translation: 'hepatitis; tr: cause hepatitis; intr: have hepatitis, suffer from
+    hepatitis'
 gao:
   term: gao
   class: t
@@ -14976,9 +14976,10 @@ gonginyen:
   translation: supplier, provider
 gonorey:
   term: gonorey
-  class: b
+  class: b.oro
   category: root
-  translation: gonorrhea
+  translation: 'gonorrhea; tr: cause gonorrhea; intr: have gonorrhea, suffer from
+    gonorrhea'
 gorila:
   term: gorila
   class: b
@@ -15340,7 +15341,7 @@ guton:
   class: b.oro
   category: root
   translation: 'pain, ache; tr: hurt (<em>cause pain</em>); intr: ache, hurt (<em>feel
-    pain</em>)'
+    pain, have pain, suffer from pain</em>)'
 gutonne:
   term: gutonne
   class: t
@@ -16383,9 +16384,9 @@ heroya:
   translation: heroism
 herpes:
   term: herpes
-  class: b
+  class: b.oro
   category: root
-  translation: herpes
+  translation: 'herpes; tr: cause herpes; intr: have herpes, suffer from herpes'
 hervatska:
   term: Hervatska
   class: su n
@@ -16749,9 +16750,10 @@ holocen:
   translation: Holocene
 homa:
   term: homa
-  class: b
+  class: b.oro
   category: root
-  translation: fever
+  translation: 'fever; tr; cause fever; intr: have a fever, suffer from fever, be
+    feverish'
 homapul:
   term: homapul
   class: t
@@ -24339,7 +24341,7 @@ lilnahir:
   term: lilnahir
   class: b
   category: derived
-  translation: stream, brook
+  translation: stream, brook, creek
 lilnavi:
   term: lilnavi
   class: b
@@ -24359,12 +24361,12 @@ lilpetra:
   term: lilpetra
   class: b
   category: derived
-  translation: pebbles
+  translation: pebble
 lilplaneta:
   term: lilplaneta
   class: b
   category: derived
-  translation: minor planet
+  translation: minor planet, planetoid
 lilsigaro:
   term: lilsigaro
   class: b
@@ -24384,7 +24386,7 @@ liltermopul:
   term: liltermopul
   class: t
   category: derived
-  translation: lukewarm
+  translation: lukewarm, tepid
 liltunge:
   term: liltunge
   class: b
@@ -24754,7 +24756,7 @@ lubrikaente:
   term: lubrikaente
   class: b
   category: derived
-  translation: lubricant
+  translation: lubricant, lube
 ludan:
   term: ludan
   class: b
@@ -24769,7 +24771,7 @@ luis:
   term: Luis
   class: su n
   category: proper word
-  translation: Lewis, Louis, Louise
+  translation: Lewis, Louis, Louise, Lois
 luka:
   term: Luka
   class: su n
@@ -34678,16 +34680,16 @@ rota:
   class: b.oro
   category: root
   translation: 'rotation; tr/intr: rotate, turn (around)'
-rotacune:
-  term: rotacune
-  class: t
-  category: derived
-  translation: rotating
 rotado:
   term: rotado
   class: t
   category: derived
   translation: rotated
+rotane:
+  term: rotane
+  class: t
+  category: derived
+  translation: rotating
 roti:
   term: roti
   class: b

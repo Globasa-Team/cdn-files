@@ -1941,37 +1941,6 @@ absorbiabil:
     - absorbi
     - +
     - -abil
-absorbigi:
-  term: absorbigi
-  word class: b.oj
-  category: derived
-  trans:
-    eng:
-    - - drench
-      - saturate
-      - soak
-    epo:
-    - - (tra)sorbigo
-      - trempado
-    - - (tra)sorbigi
-      - trempi
-    spa:
-    - - empapada
-      - enpapamiento
-      - ensopada
-      - remojo
-    - - empapar
-      - ensopar
-      - remojar
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-  etymology:
-    derived:
-    - absorbi
-    - +
-    - -gi
 absorbine:
   term: absorbine
   word class: t
@@ -42107,10 +42076,13 @@ dekartli:
     - - kartezia
     spa:
     - - cartesiano
-    deu: []
-    fra: []
+    deu:
+    - - kartesisch
+    fra:
+    - - cartésien
     rus: []
-    zho: []
+    zho:
+    - - 笛卡儿的
   etymology:
     derived:
     - Dekart
@@ -42413,11 +42385,15 @@ delta:
     - - delto
     spa:
     - - delta (<em>letra, fluvial</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Delta
+    fra:
+    - - delta
     rus:
     - - дельта
-    zho: []
+    zho:
+    - - 德尔塔
+      - 三角洲
   etymology:
     natlang:
       Arabisa: دِلْتَا &ldquo;dilta&rdquo;
@@ -42678,8 +42654,10 @@ demoni:
     - - demono
     spa:
     - - demonio
-    deu: []
-    fra: []
+    deu:
+    - - Dämon
+    fra:
+    - - démon
     rus:
     - - демон
     zho: []
@@ -42710,9 +42688,12 @@ demonili:
       - diabólico
       - maligno
       - malévolo
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - dämonisch
+    fra:
+    - - démoniaque
+    rus:
+    - - демонический
     zho: []
   etymology:
     derived:
@@ -42741,6 +42722,8 @@ den:
   etymology:
     natlang:
       Doycisa: den
+      Englisa: then - denwatu
+      Pilipinasa: diy&aacute;n - denloka
 denete:
   term: denete
   word class: pn
@@ -42777,11 +42760,14 @@ denim:
     spa:
     - - mezclilla
       - tela tejana
-    deu: []
-    fra: []
+    deu:
+    - - Denim
+    fra:
+    - - denim
     rus:
     - - деним
-    zho: []
+    zho:
+    - - 牛仔布
   etymology:
     natlang:
       Arabisa: دِينِم &ldquo;dinim&rdquo;
@@ -43234,11 +43220,14 @@ dentabroxa:
     - - dentbroso
     spa:
     - - cepillo de dientes
-    deu: []
-    fra: []
+    deu:
+    - - Zahnbürste
+    fra:
+    - - brosse à dents
     rus:
     - - зубная щётка
-    zho: []
+    zho:
+    - - 牙刷
   etymology:
     derived:
     - denta
@@ -43277,10 +43266,13 @@ dentakrema:
     spa:
     - - pasta de dientes
     deu: []
-    fra: []
+    fra:
+    - - dentifrice
+      - pâte à dents
     rus:
     - - зубная паста
-    zho: []
+    zho:
+    - - 牙膏
   etymology:
     derived:
     - denta
@@ -43472,6 +43464,8 @@ denya:
     - den
     - +
     - -ya
+    natlang similar:
+      Arabisa: هُوِيَّة
 deodoran:
   term: deodoran
   word class: b
@@ -44461,7 +44455,9 @@ destrui:
     - - destrucción
     - - destruir
     deu: []
-    fra: []
+    fra:
+    - - destruction
+    - - détruire
     rus: []
     zho: []
   etymology:
@@ -45086,13 +45082,17 @@ dildo:
     - - gadmeso
     spa:
     - - consolador (<em>juguete erótico</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Dildo
+    fra:
+    - - godemichet
+      - dildo
     rus:
     - - фаллоимитатор
       - дилдо
       - самотык
-    zho: []
+    zho:
+    - - 假阴茎
   etymology:
     natlang:
       Doycisa: Dildo
@@ -45117,10 +45117,17 @@ dimensi:
     - - dimensio
     spa:
     - - dimensión
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Dimension
+    fra:
+    - - dimension
+    rus:
+    - - размер
+      - размерность
+      - измерение
+    zho:
+    - - 维数
+      - 次元
   etymology:
     natlang:
       Doycisa: Dimension
@@ -45168,8 +45175,10 @@ dinamita:
     spa:
     - - dinamita
     - - dinamitar
-    deu: []
-    fra: []
+    deu:
+    - - Dynamit
+    fra:
+    - - dynamite
     rus:
     - - динамит
     zho: []
@@ -45274,10 +45283,13 @@ dini:
     - - religio
     spa:
     - - religión
-    deu: []
-    fra: []
+    deu:
+    - - Religion
+    fra:
+    - - religion
     rus: []
-    zho: []
+    zho:
+    - - 宗教
   etymology:
     natlang:
       Arabisa: دين &ldquo;din&rdquo;
@@ -45439,11 +45451,13 @@ dinkitabu:
     - - taglibro
     spa:
     - - diario (personal)
-    deu: []
+    deu:
+    - - Tagebuch
     fra: []
     rus:
     - - дневник
-    zho: []
+    zho:
+    - - 日记
   etymology:
     derived:
     - din
@@ -45495,11 +45509,14 @@ diplomasi:
     - - diplomatio
     spa:
     - - diplomacia
-    deu: []
-    fra: []
+    deu:
+    - - Diplomatie
+    fra:
+    - - diplomatie
     rus:
     - - дипломатия
-    zho: []
+    zho:
+    - - 外交
   etymology:
     natlang:
       Doycisa: Diplomatie
@@ -45523,11 +45540,15 @@ diplomasiyen:
     - - diplomato
     spa:
     - - diplomático
-    deu: []
-    fra: []
+    deu:
+    - - Diplomat
+    fra:
+    - - diplomate
     rus:
     - - дипломат
-    zho: []
+    zho:
+    - - 外交官
+      - 外交家
   etymology:
     derived:
     - diplomasi
@@ -45972,11 +45993,14 @@ disprosyum:
     spa:
     - - disprosio
       - Dy
-    deu: []
-    fra: []
+    deu:
+    - - Dysprosium
+    fra:
+    - - dysprosium
     rus:
     - - диспрозий
-    zho: []
+    zho:
+    - - 鏑
   etymology:
     natlang:
       Arabisa: دِيسْبْرُوسْيُوم &ldquo;disbrusyum&rdquo;
@@ -46232,6 +46256,7 @@ dixan:
   etymology:
     natlang:
       Putunhwa: 地上 &ldquo;d&igrave;sh&agrave;ng&rdquo;
+      Vyetnamsa: s&agrave;n
 dizel:
   term: Dizel
   word class: su n
@@ -46826,11 +46851,17 @@ dolar:
     spa:
     - - dólar
       - $
-    deu: []
-    fra: []
+    deu:
+    - - Dollar
+    fra:
+    - - dollar
     rus:
     - - доллар
-    zho: []
+    zho:
+    - - 圆
+      - 元
+      - 块
+      - 刀
   etymology:
     natlang:
       Arabisa: دُولَار&lrm; &ldquo;dular&rdquo;
@@ -46940,9 +46971,12 @@ domaku:
     spa:
     - - arteria
     deu: []
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - artère
+    rus:
+    - - артерия
+    zho:
+    - - 动脉
   etymology:
     natlang:
       Koreasa: 동맥 &ldquo;dongmek&rdquo;
@@ -47341,11 +47375,14 @@ dopamin:
     - - dopamino
     spa:
     - - dopamina
-    deu: []
-    fra: []
+    deu:
+    - - Dopamin
+    fra:
+    - - dopamine
     rus:
     - - дофамин
-    zho: []
+    zho:
+    - - 多巴胺
   etymology:
     natlang:
       Doycisa: Dopamin
@@ -48251,12 +48288,15 @@ drevo:
     - - arbo
     spa:
     - - árbol
-    deu: []
-    fra: []
+    deu:
+    - - Baum
+    fra:
+    - - arbre
     rus:
     - - дерево
       - древо
-    zho: []
+    zho:
+    - - 树木
   etymology:
     natlang:
       Parsisa: درخت &ldquo;derakht&rdquo;
@@ -48279,7 +48319,8 @@ drevogeo:
     fra: []
     rus:
     - - лес
-    zho: []
+    zho:
+    - - 森林
   etymology:
     derived:
     - drevo
@@ -48302,7 +48343,8 @@ drevolari:
     rus:
     - - лес
       - леса
-    zho: []
+    zho:
+    - - 森林
   etymology:
     derived:
     - drevo
@@ -48924,12 +48966,15 @@ duaglif:
       - digramo
     spa:
     - - dígrafo
-    deu: []
-    fra: []
+    deu:
+    - - Digraph
+    fra:
+    - - digramme
     rus:
     - - диграф
       - диграмма
-    zho: []
+    zho:
+    - - 二合字母
   etymology:
     derived:
     - dua
@@ -48948,10 +48993,12 @@ duagon:
     spa:
     - - dígono
     deu: []
-    fra: []
+    fra:
+    - - digone
     rus:
     - - двуугольник
-    zho: []
+    zho:
+    - - 二角形
   etymology:
     derived:
     - dua
@@ -48970,10 +49017,14 @@ duajensifil:
     - - ambaŭsekseme
     spa:
     - - bisexual
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - bisexuell
+    fra:
+    - - bisexuel
+    rus:
+    - - бисексуальный
+    zho:
+    - - 双性恋的
   etymology:
     derived:
     - dua
@@ -48992,11 +49043,14 @@ duajensifilya:
     - - ambaŭseksemo
     spa:
     - - bisexualidad
-    deu: []
-    fra: []
+    deu:
+    - - Bisexualität
+    fra:
+    - - bisexualité
     rus:
     - - бисексуальность
-    zho: []
+    zho:
+    - - 双性恋
   etymology:
     derived:
     - dua
@@ -49019,11 +49073,13 @@ dualabyali:
     spa:
     - - bilabial
     deu: []
-    fra: []
+    fra:
+    - - bilabial
     rus:
     - - билабиальный
       - губно-губной
-    zho: []
+    zho:
+    - - 双唇的
   etymology:
     derived:
     - dua
@@ -49062,12 +49118,18 @@ duamwin:
     - - diftongo
     spa:
     - - diptongo
-    deu: []
-    fra: []
+    deu:
+    - - Diphthong
+      - Doppellaut
+      - Zwielaut
+      - Zweilaut
+    fra:
+    - - diphtongue
     rus:
     - - дифтонг
       - двугласный
-    zho: []
+    zho:
+    - - 双元音
   etymology:
     derived:
     - dua
@@ -49086,8 +49148,10 @@ duapedali:
     spa:
     - - bípedo
     deu: []
-    fra: []
-    rus: []
+    fra:
+    - - bipède
+    rus:
+    - - двуногий
     zho: []
   etymology:
     derived:
@@ -49301,11 +49365,14 @@ dubnyum:
     spa:
     - - dubnio
       - Db
-    deu: []
-    fra: []
+    deu:
+    - - Dubnium
+    fra:
+    - - dubnium
     rus:
     - - дубний
-    zho: []
+    zho:
+    - - "\U000289C0"
   etymology:
     natlang:
       Arabisa: دُوبْنِيُوم &ldquo;dubniyum&rdquo;
@@ -49673,12 +49740,18 @@ duke:
       - dukino
     spa:
     - - duque
-    deu: []
-    fra: []
+    deu:
+    - - Herzog
+      - Herzogin
+    fra:
+    - - duc
+      - duchesse
     rus:
     - - герцог
       - герцогиня
-    zho: []
+    zho:
+    - - 公爵
+      - 女伯爵
   etymology:
     natlang:
       Arabisa: دوق &ldquo;duq&rdquo;, دُوقَة &ldquo;duqa&rdquo;
@@ -49687,7 +49760,7 @@ duke:
       Fransesa: duc, duchesse
       Hindi: ड्यूक &ldquo;dyuk&rdquo;, डचेस &ldquo;daces&rdquo;
       Parsisa: دوک &ldquo;duk&rdquo;, دوشس &ldquo;duxes&rdquo;
-      Pilipinasa: duke; dukesa
+      Pilipinasa: duke, dukesa
       Turkisa: d&uuml;k, duka, d&uuml;şes, dukesa
 dumarali:
   term: dumarali
@@ -49875,7 +49948,8 @@ dunyayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 地球人
   etymology:
     derived:
     - Dunya
@@ -50261,11 +50335,14 @@ duryan:
     spa:
     - - durián
       - <em>Durio</em>
-    deu: []
-    fra: []
+    deu:
+    - - Durian
+    fra:
+    - - durian
     rus:
     - - дуриан
-    zho: []
+    zho:
+    - - 榴梿
   etymology:
     natlang:
       Arabisa: دُرْيَان &ldquo;duryan&rdquo;
@@ -50301,9 +50378,18 @@ duxe:
     - - ducha (<em>acción</em>)
       - regaderazo
     - - duchar
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Dusche
+      - Brause
+    - - duschen
+      - Dusche nehmen
+    fra:
+    - - douche
+    - - doucher
+      - prendre une douche
+    rus:
+    - - душ
+    - - принимать душ
     zho: []
   etymology:
     natlang:
@@ -50380,11 +50466,14 @@ dwarfu:
     - - nano (<em>mitologio</em>)
     spa:
     - - enano (<em>mitología</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Zwerg
+    fra:
+    - - nain
     rus:
     - - карлик
-    zho: []
+    zho:
+    - - 矮人
   etymology:
     natlang:
       Doycisa: Zwerg
@@ -50403,11 +50492,14 @@ dwarfuplaneta:
     - - nanplanedo
     spa:
     - - planeta enano
-    deu: []
-    fra: []
+    deu:
+    - - Zwergplanet
+    fra:
+    - - planète naine
     rus:
     - - карликовая планета
-    zho: []
+    zho:
+    - - 矮行星
   etymology:
     derived:
     - dwarfu
@@ -50489,17 +50581,19 @@ dyabetes:
     eng:
     - - diabetes
     - - 'tr: cause diabetes'
-    - - have diabetes
+    - - 'intr: have diabetes'
       - be diabetic
     epo:
     - - diabeto
     spa:
     - - diabetes
     deu: []
-    fra: []
+    fra:
+    - - diabète
     rus:
     - - диабет
-    zho: []
+    zho:
+    - - 糖尿病
   etymology:
     natlang:
       Arabisa: دِيَابِيطَا &ldquo;diyabita&rdquo;
@@ -50563,8 +50657,10 @@ dyabol:
     - - diablo
     spa:
     - - diablo
-    deu: []
-    fra: []
+    deu:
+    - - Teufel
+    fra:
+    - - diable
     rus:
     - - дьявол
     zho: []
@@ -50804,11 +50900,14 @@ dyodo:
     - - diodo
     spa:
     - - diodo
-    deu: []
-    fra: []
+    deu:
+    - - Diodo
+    fra:
+    - - diode
     rus:
     - - диод
-    zho: []
+    zho:
+    - - 二极管
   etymology:
     natlang:
       Doycisa: Diode
@@ -50874,11 +50973,14 @@ dyorita:
     - - diorito
     spa:
     - - diorita
-    deu: []
-    fra: []
+    deu:
+    - - Diorit
+    fra:
+    - - diorite
     rus:
     - - диорит
-    zho: []
+    zho:
+    - - 闪长岩
   etymology:
     natlang:
       Arabisa: ديوريت &ldquo;diurit&rdquo;
@@ -51002,12 +51104,15 @@ ebanus:
     spa:
     - - ébano
       - <em>Diospyrus</em>
-    deu: []
-    fra: []
+    deu:
+    - - Ebenholz
+    fra:
+    - - ébène
     rus:
     - - эбеновое дерево
       - эбен
-    zho: []
+    zho:
+    - - 乌木
   etymology:
     natlang:
       Arabisa: آبَنُوس &ldquo;abanus&rdquo;
@@ -51147,7 +51252,8 @@ efelidi:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 雀斑
   etymology:
     natlang:
       Doycisa: Epheliden
@@ -51302,7 +51408,8 @@ efisyen:
     spa:
     - - eficiente
     - - eficientemente
-    deu: []
+    deu:
+    - - effizient
     fra: []
     rus: []
     zho: []
@@ -51513,7 +51620,8 @@ eger:
     spa:
     - - si
     deu: []
-    fra: []
+    fra:
+    - - si
     rus: []
     zho: []
   etymology:
@@ -51797,11 +51905,14 @@ ekologi:
       - ekoscienco
     spa:
     - - ecología
-    deu: []
-    fra: []
+    deu:
+    - - Ökologie
+    fra:
+    - - écologie
     rus:
     - - экология
-    zho: []
+    zho:
+    - - 生态学
   etymology:
     derived:
     - eko-
@@ -51818,10 +51929,14 @@ ekonomi:
     - - ekonomio
     spa:
     - - economía
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Ökonomie
+    fra:
+    - - économie
+    rus:
+    - - экономия
+    zho:
+    - - 经济
   etymology:
     natlang:
       Doycisa: '&Ouml;konomie'
@@ -51846,7 +51961,8 @@ ekonomili:
     - - económico (<em>relativo a la economía</em>)
     - - económicamente
     deu: []
-    fra: []
+    fra:
+    - - économique
     rus: []
     zho: []
   etymology:
@@ -51866,10 +51982,17 @@ ekonomilogi:
       - ekonomiscienco
     spa:
     - - economía (<em>ciencia</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Wirtschaftswissenschaft
+      - Ökonomik
+      - Ökonomie
+    fra:
+    - - économie
+      - (science) économique
+    rus:
+    - - экономика
+    zho:
+    - - 经济学
   etymology:
     derived:
     - ekonomi
@@ -51909,11 +52032,14 @@ ekosistema:
     - - ekosistemo
     spa:
     - - ecosistema
-    deu: []
-    fra: []
+    deu:
+    - - Ökosystem
+    fra:
+    - - écosystème
     rus:
     - - экосистема
-    zho: []
+    zho:
+    - - 生态系统
   etymology:
     derived:
     - eko-
@@ -51931,10 +52057,12 @@ ekrin:
     spa:
     - - pantalla
     deu: []
-    fra: []
+    fra:
+    - - écran
     rus:
     - - экран
-    zho: []
+    zho:
+    - - 屏幕
   etymology:
     natlang:
       Englisa: screen
@@ -52049,11 +52177,14 @@ ekwatora:
     - - ekvatoro
     spa:
     - - ecuador (<em>de esfera o planeta</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Äquator
+    fra:
+    - - équateur
     rus:
     - - экватор
-    zho: []
+    zho:
+    - - 赤道
   etymology:
     natlang:
       Doycisa: '&Auml;quator'
@@ -52166,7 +52297,7 @@ elastibendu:
   category: derived
   trans:
     eng:
-    - - elastic
+    - - elastic (band)
     epo:
     - - elasta bendo
     spa:
@@ -52248,11 +52379,14 @@ eleki:
       - <em>Amomum</em>
       - <em>Aframomum</em>
       - <em>Elettaria</em>
-    deu: []
-    fra: []
+    deu:
+    - - Kardamom
+    fra:
+    - - cardamome
     rus:
     - - кардамон
-    zho: []
+    zho:
+    - - 豆蔻
   etymology:
     natlang:
       Arabisa: هَال &ldquo;hal&rdquo;, هَيْل &ldquo;hayl&rdquo;
@@ -52302,11 +52436,14 @@ eletrigitara:
     - - elektra gitaro
     spa:
     - - guitarra (eléctrica)
-    deu: []
-    fra: []
+    deu:
+    - - Elektrogitarre
+    fra:
+    - - guitare électrique
     rus:
     - - электрогитара
-    zho: []
+    zho:
+    - - 电吉他
   etymology:
     derived:
     - eletri
@@ -52412,11 +52549,14 @@ eletron:
     - - elektrono
     spa:
     - - electrón
-    deu: []
-    fra: []
+    deu:
+    - - Elektron
+    fra:
+    - - électron
     rus:
     - - электрон
-    zho: []
+    zho:
+    - - 电子
   etymology:
     natlang:
       Arabisa: إِلَكْتْرُون &ldquo;ilaktrun&rdquo;
@@ -52498,12 +52638,17 @@ elfu:
     spa:
     - - duende
       - elfo
-    deu: []
-    fra: []
+    deu:
+    - - Elfe
+      - Alb
+      - Elb
+    fra:
+    - - elfe
     rus:
     - - эльф
       - альв
-    zho: []
+    zho:
+    - - 精灵
   etymology:
     natlang:
       Arabisa: آلْف &ldquo;alf&rdquo;
@@ -52698,11 +52843,14 @@ elipse:
     - - elipso
     spa:
     - - elipse
-    deu: []
-    fra: []
+    deu:
+    - - Ellipse
+    fra:
+    - - ellipse
     rus:
     - - эллипс
-    zho: []
+    zho:
+    - - 椭圆
   etymology:
     natlang:
       Doycisa: Ellipse
@@ -52787,10 +52935,12 @@ elite:
     spa:
     - - élite
     deu: []
-    fra: []
+    fra:
+    - - élite
     rus:
     - - элита
-    zho: []
+    zho:
+    - - 精英
   etymology:
     natlang:
       Doycisa: Elite
@@ -52904,8 +53054,10 @@ emblema:
     spa:
     - - emblema
       - símbolo
-    deu: []
-    fra: []
+    deu:
+    - - Emblem
+    fra:
+    - - emblème
     rus:
     - - эмблема
     zho: []
@@ -52931,11 +53083,14 @@ emoji:
       - emoĵio
     spa:
     - - <em>emoji</em>
-    deu: []
-    fra: []
+    deu:
+    - - Emoji
+    fra:
+    - - émoji
     rus:
     - - эмодзи
-    zho: []
+    zho:
+    - - 绘文字
   etymology:
     natlang:
       Arabisa: إِيمُوجِي &ldquo;imuji&rdquo;
@@ -53065,11 +53220,14 @@ enciklopedi:
     - - enciklopedio
     spa:
     - - enciclopedia
-    deu: []
-    fra: []
+    deu:
+    - - Enzyklopädie
+    fra:
+    - - encyclopédie
     rus:
     - - энциклопедия
-    zho: []
+    zho:
+    - - 百科(全书)
   etymology:
     natlang:
       Doycisa: Enzyklop&auml;die
@@ -53117,8 +53275,10 @@ encilada:
     - - enĉilado
     spa:
     - - enchilada
-    deu: []
-    fra: []
+    deu:
+    - - Enchilada
+    fra:
+    - - enchilada
     rus:
     - - энчилада
     zho: []
@@ -53139,10 +53299,14 @@ energi:
     spa:
     - - energía
     - - energizar
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Energie
+    fra:
+    - - énergie
+    rus:
+    - - энергия
+    zho:
+    - - 能量
   etymology:
     natlang:
       Doycisa: Energie
@@ -53276,9 +53440,12 @@ enfeksi:
     - - infectarse
       - contagiarse
     deu: []
-    fra: []
+    fra:
+    - - infection
+    - - infecter
     rus: []
-    zho: []
+    zho:
+    - - 传染
   etymology:
     natlang:
       Doycisa: Infektion
@@ -53596,12 +53763,16 @@ enzima:
     - - enzimo
     spa:
     - - enzima
-    deu: []
-    fra: []
+    deu:
+    - - Enzym
+    fra:
+    - - enzyme
     rus:
     - - фермент
       - энзим
-    zho: []
+    zho:
+    - - 酶
+      - 酵素
   etymology:
     natlang:
       Arabisa: انزيم
@@ -53671,11 +53842,15 @@ epikopul:
     - -pul
 epilepsi:
   term: epilepsi
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - epilepsy
+    - - 'tr: cause epilepsy'
+    - - 'intr: have epilepsy'
+      - suffer from epilepsy
+      - be epileptic
     epo:
     - - epilepsio
     spa:
@@ -53727,11 +53902,14 @@ erbyum:
     spa:
     - - erbio
       - Er
-    deu: []
-    fra: []
+    deu:
+    - - Erbium
+    fra:
+    - - erbium
     rus:
     - - эрбий
-    zho: []
+    zho:
+    - - 铒
   etymology:
     natlang:
       Arabisa: إِرْبِيُوم &ldquo;irbiyum&rdquo;
@@ -54244,10 +54422,14 @@ esfer:
     - - sfero
     spa:
     - - esfera
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Kugel
+    fra:
+    - - sphère
+    rus:
+    - - сфера
+    zho:
+    - - 球面
   etymology:
     natlang:
       Englisa: sphere
@@ -54287,10 +54469,12 @@ esfinter:
     spa:
     - - esfínter
     deu: []
-    fra: []
+    fra:
+    - - sphincter
     rus:
     - - сфинктер
-    zho: []
+    zho:
+    - - 括约肌
   etymology:
     natlang:
       Doycisa: Sphinkter
@@ -54379,13 +54563,19 @@ eskandal:
   trans:
     eng:
     - - scandal
-    - - make a scandal
+    - - scandalize
+      - make a scandal
     epo:
     - - skandalo
+    - - skandali
     spa:
     - - escándalo
+    - - escandalizar
     deu: []
-    fra: []
+    fra:
+    - - scandale
+    - - scandaliser
+      - faire scandale
     rus: []
     zho: []
   etymology:
@@ -54437,11 +54627,15 @@ eskandyum:
     spa:
     - - escandio
       - Sc
-    deu: []
-    fra: []
+    deu:
+    - - Scandium
+      - Skandium
+    fra:
+    - - scandium
     rus:
     - - скандий
-    zho: []
+    zho:
+    - - 钪
   etymology:
     natlang:
       Arabisa: سَكَانْدِيُوم &ldquo;sakandiyum&rdquo;
@@ -54477,7 +54671,8 @@ eskantora:
     fra: []
     rus:
     - - сканер
-    zho: []
+    zho:
+    - - 扫描器
   etymology:
     derived:
     - eskan
@@ -54612,11 +54807,14 @@ eskeleto:
     - - skeleto
     spa:
     - - esqueleto
-    deu: []
-    fra: []
+    deu:
+    - - Skelett
+    fra:
+    - - squelette
     rus:
     - - скелет
-    zho: []
+    zho:
+    - - 骨骼
   etymology:
     natlang:
       Doycisa: Skelett
@@ -54664,12 +54862,19 @@ eskeytitahta:
     - - rultabulo
     spa:
     - - patineta
-    deu: []
-    fra: []
+    deu:
+    - - Skateboard
+      - Rollbrett
+    fra:
+    - - skateboard
+      - skate
+      - planche à roulettes
+      - rouli-roulant
     rus:
     - - скейтборд
       - роликовая доска
-    zho: []
+    zho:
+    - - 滑板
   etymology:
     derived:
     - eskeyti
@@ -54713,7 +54918,9 @@ eski:
     - - esquí
     - - esquiar
     deu: []
-    fra: []
+    fra:
+    - - ski
+    - - skier
     rus: []
     zho: []
   etymology:
@@ -54742,11 +54949,15 @@ eskirti:
     - - jupo
     spa:
     - - falda
-    deu: []
-    fra: []
+    deu:
+    - - Rock (<em>Kleidung</em>)
+    fra:
+    - - jupe
     rus:
     - - юбка
-    zho: []
+    zho:
+    - - 裙子
+      - 裙
   etymology:
     natlang:
       Englisa: skirt
@@ -54765,7 +54976,8 @@ eskiyen:
     spa:
     - - esquiador
     deu: []
-    fra: []
+    fra:
+    - - skieur
     rus:
     - - лыжник
       - лыжница
@@ -54777,21 +54989,29 @@ eskiyen:
     - -yen
 eskizofreni:
   term: eskizofreni
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - schizophrenia
+    - - 'tr: cause schizophrenia'
+    - - 'intr: have schizophrenia'
+      - suffer from schizophrenia
+      - be schizophrenic
     epo:
     - - sĥizofrenio
       - skizofrenio
     spa:
     - - esquizofrenia
-    deu: []
-    fra: []
+    deu:
+    - - Schizophrenie
+    fra:
+    - - schizophrénie
     rus:
     - - шизофрения
-    zho: []
+    zho:
+    - - 精神分裂症
+      - 思覺失調症
   etymology:
     natlang:
       Arabisa: شيزوفرينيا &ldquo;xizufrenya&rdquo;
@@ -55012,15 +55232,22 @@ eskolyen:
     - -yen
 eskorbuto:
   term: eskorbuto
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - scurvy
+    - - 'tr: cause scurvy'
+    - - 'intr: have scurvy'
+      - suffer from scurvy
     epo:
-    - - skotbuto
+    - - skorbuto
+    - - trafi de skorbuto
+    - - trafiĝi de skorbuto
     spa:
     - - escorbuto
+    - - causar escorbuto
+    - - sufrir de escorbuto
     deu: []
     fra: []
     rus:
@@ -55172,7 +55399,8 @@ eskritahta:
   category: derived
   trans:
     eng:
-    - - whiteboard
+    - - writing board
+      - whiteboard
       - blackboard
       - chalkboard
     epo:
@@ -55184,9 +55412,17 @@ eskritahta:
       - pizarrón
       - pintarrón
     deu: []
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - tableau (blanc)
+      - tableau noir
+    rus:
+    - - (классная) доска
+      - школьная доска
+      - маркерная доска
+      - белая доска
+    zho:
+    - - 白板
+      - 黑板
   etymology:
     derived:
     - eskri
@@ -55475,10 +55711,16 @@ eslaydi:
     - - diapozitivo
     spa:
     - - diapositiva
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Folie
+      - Dia
+      - Diapositiv
+    fra:
+    - - diapositive
+    rus:
+    - - слайд
+    zho:
+    - - 幻灯片
   etymology:
     natlang:
       Englisa: slide
@@ -55503,9 +55745,12 @@ esliper:
     spa:
     - - pantufla
     deu: []
-    fra: []
+    fra:
+    - - chausson
+      - pantoufle
     rus: []
-    zho: []
+    zho:
+    - - 拖鞋
   etymology:
     natlang:
       Englisa: slipper
@@ -55732,8 +55977,10 @@ eslovi:
     - - eslavo
     deu:
     - - slawisch
-    fra: []
-    rus: []
+    fra:
+    - - slave
+    rus:
+    - - славянский
     zho:
     - - 斯拉夫
   etymology:
@@ -55770,11 +56017,14 @@ espageti:
     - - spageto(j)
     spa:
     - - espagueti
-    deu: []
-    fra: []
+    deu:
+    - - Spaghetti
+    fra:
+    - - spaghetti
     rus:
     - - спагетти
-    zho: []
+    zho:
+    - - 意大利面条
   etymology:
     natlang:
       Arabisa: سْبَاغِيتِي &ldquo;sbāḡītī&rdquo;
@@ -55807,9 +56057,19 @@ espam:
     spa:
     - - <em>spam</em>
       - correo basura
-    deu: []
-    fra: []
-    rus: []
+    - - spamear
+    deu:
+    - - Spam
+    - - spammen
+    fra:
+    - - spam
+      - courriel indésirable
+      - pourriel
+    - - spammer
+      - pourrieller
+    rus:
+    - - спам
+    - - спамить
     zho: []
   etymology:
     natlang:
@@ -55952,11 +56212,14 @@ esparago:
     spa:
     - - espárrago
       - <em>Asparagus officinalis</em>
-    deu: []
-    fra: []
+    deu:
+    - - Spargel
+    fra:
+    - - asperge
     rus:
     - - спаржа
-    zho: []
+    zho:
+    - - 芦笋
   etymology:
     natlang:
       Arabisa: أسفراج &ldquo;ʾasfarāj&rdquo;
@@ -56139,11 +56402,14 @@ espinaka:
     spa:
     - - espinaca
       - <em>Spinacia oleracea</em>
-    deu: []
-    fra: []
+    deu:
+    - - Spinat
+    fra:
+    - - épinards
     rus:
     - - шпинат
-    zho: []
+    zho:
+    - - 菠菜
   etymology:
     natlang:
       Arabisa: إِسْفَانَاخ &ldquo;isfanah&rdquo;
@@ -56238,10 +56504,14 @@ espora:
     spa:
     - - espora
       - esporo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Spore
+    fra:
+    - - spore
+    rus:
+    - - спора
+    zho:
+    - - 孢子
   etymology:
     natlang:
       Doycisa: Spore
@@ -56793,11 +57063,14 @@ estano:
     spa:
     - - estaño
       - Sn
-    deu: []
-    fra: []
+    deu:
+    - - Zinn
+    fra:
+    - - étain
     rus:
     - - олово
-    zho: []
+    zho:
+    - - 锡
   etymology:
     natlang:
       Doycisa: Zinn
@@ -56818,11 +57091,15 @@ estare:
     - - stelo
     spa:
     - - estrella
-    deu: []
-    fra: []
+    deu:
+    - - Stern
+    fra:
+    - - étoile
     rus:
     - - звезда
-    zho: []
+    zho:
+    - - 星
+      - 星星
   etymology:
     natlang:
       Doycisa: Stern
@@ -57699,11 +57976,14 @@ estrategi:
     spa:
     - - estrategia
     - - hacer una estrategia
-    deu: []
-    fra: []
+    deu:
+    - - Strategie
+    fra:
+    - - stratégie
     rus:
     - - стратегия
-    zho: []
+    zho:
+    - - 战略
   etymology:
     natlang:
       Arabisa: إستراتيجية &ldquo;istiratijya&rdquo;
@@ -57729,10 +58009,16 @@ estrategili:
     spa:
     - - estratégico
     - - estratégicamente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - strategisch
+    fra:
+    - - stratégique
+    - - stratégiquement
+    rus:
+    - - стратегический
+    - - стратегически
+    zho:
+    - - 战略的
   etymology:
     derived:
     - estrategi
@@ -57954,12 +58240,15 @@ estroberi:
     - - fresa
       - frutilla
       - <em>Fragaria</em> × <em>ananassa</em>
-    deu: []
-    fra: []
+    deu:
+    - - Erdbeere
+    fra:
+    - - fraise
     rus:
     - - клубника
       - земляника
-    zho: []
+    zho:
+    - - 草莓
   etymology:
     natlang:
       Englisa: strawberry
@@ -57980,11 +58269,14 @@ estrontyum:
     spa:
     - - estroncio
       - Sr
-    deu: []
-    fra: []
+    deu:
+    - - Strontium
+    fra:
+    - - strontium
     rus:
     - - стронций
-    zho: []
+    zho:
+    - - 锶
   etymology:
     natlang:
       Arabisa: اِسْتِرُونْتِيُوم &ldquo;istiruntiyum&rdquo;
@@ -58154,10 +58446,16 @@ estulu:
       - banquillo
       - banco
       - escabel
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Schemel
+      - Hocker
+    fra:
+    - - tabouret
+    rus:
+    - - табурет
+      - табуретка
+    zho:
+    - - 凳子
   etymology:
     natlang:
       Englisa: stool
@@ -58218,7 +58516,9 @@ etatu:
     - - obediencia
     - - obedecer
     deu: []
-    fra: []
+    fra:
+    - - obéissance
+    - - obéir
     rus: []
     zho: []
   etymology:
@@ -58289,7 +58589,11 @@ ete:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 他们
+      - 她们
+      - 祂们
+      - 它们
   etymology:
     am oko:
       te: te
@@ -58452,11 +58756,14 @@ etika:
     - - etiko
     spa:
     - - ética
-    deu: []
-    fra: []
+    deu:
+    - - Ethik
+    fra:
+    - - éthique
     rus:
     - - этика
-    zho: []
+    zho:
+    - - 伦理
   etymology:
     natlang:
       Doycisa: Ethik
@@ -58482,10 +58789,14 @@ etikali:
     - - ético
       - de la ética
     - - éticamente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - ethisch
+    fra:
+    - - éthique
+    rus:
+    - - этический
+    zho:
+    - - 伦理的
   etymology:
     derived:
     - etika
@@ -58783,10 +59094,14 @@ ewfonyum:
     spa:
     - - bombardino
       - eufonio
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Euphonium
+    fra:
+    - - euphonium
+    rus:
+    - - эуфониум
+    zho:
+    - - 粗管上低音号
   etymology:
     natlang:
       Doycisa: Euphonium
@@ -58809,11 +59124,14 @@ ewkalitus:
     spa:
     - - eucalipto
       - <em>Eucalyptus</em>
-    deu: []
-    fra: []
+    deu:
+    - - Eukalyptus
+    fra:
+    - - eucalyptus
     rus:
     - - эвкалипт
-    zho: []
+    zho:
+    - - 桉树
   etymology:
     natlang:
       Arabisa: أُوكَالِبْتُوس &ldquo;ūkālibtūs&rdquo;, يُوكَالِيبْتُوس &ldquo;yūkālībtūs&rdquo;
@@ -58882,10 +59200,14 @@ ewklideli:
     - - eŭklida
     spa:
     - - euclidiano
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - euklidisch
+    fra:
+    - - euclidien
+    rus:
+    - - евклидов
+    zho:
+    - - 欧几里得的
   etymology:
     derived:
     - Ewklide
@@ -59112,11 +59434,14 @@ ewskal:
       - Vasconia
       - Euskadi
       - Euskal Herria
-    deu: []
-    fra: []
+    deu:
+    - - Baskenland
+    fra:
+    - - Pays basque
     rus:
-    - - баскский
-    zho: []
+    - - Страна басков
+    zho:
+    - - 巴斯克地区
   etymology:
     natlang:
       Ewskalsa: euskal
@@ -59132,10 +59457,14 @@ ewskalli:
     spa:
     - - vasco
       - vascuence
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - baskisch
+    fra:
+    - - basque
+    rus:
+    - - баскский
+    zho:
+    - - 巴斯克
   etymology:
     derived:
     - Ewskal
@@ -59487,10 +59816,14 @@ exeskeleto:
       - ektoskeleto
     spa:
     - - exoesqueleto
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Exoskelett
+    fra:
+    - - exosquelette
+    rus:
+    - - экзоскелет
+    zho:
+    - - 外骨骼
   etymology:
     derived:
     - ex-
@@ -60499,10 +60832,13 @@ fabula:
     spa:
     - - fábula
       - apólogo
-    deu: []
-    fra: []
+    deu:
+    - - Fabel
+    fra:
+    - - fable
     rus: []
-    zho: []
+    zho:
+    - - 寓言
   etymology:
     natlang:
       Doycisa: Fabel
@@ -60524,10 +60860,14 @@ fadila:
     - - virto
     spa:
     - - virtud
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Tugend
+    fra:
+    - - vertu
+    rus:
+    - - добродетель
+    zho:
+    - - 美德
   etymology:
     natlang:
       Arabisa: فَضِيلَة &ldquo;faḍila&rdquo;
@@ -60869,11 +61209,15 @@ falafel:
     spa:
     - - faláfel
       - falafel
-    deu: []
-    fra: []
+    deu:
+    - - Falafel
+    fra:
+    - - falafel
     rus:
     - - фалафель
-    zho: []
+    zho:
+    - - 鹰嘴豆泥球
+      - 法拉费
   etymology:
     natlang:
       Arabisa: فَلَافِل &ldquo;falafil&rdquo;
@@ -60954,10 +61298,15 @@ falelexi:
       - i-vorto
     spa:
     - - verbo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Verb
+      - Zeitwort
+    fra:
+    - - verbe
+    rus:
+    - - глагол
+    zho:
+    - - 动词
   etymology:
     derived:
     - fale
@@ -61117,10 +61466,15 @@ familname:
     - - familinomo
     spa:
     - - apellido
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Nachname
+      - Familienname
+    fra:
+    - - nom de famille
+    rus:
+    - - фамилия
+    zho:
+    - - 姓氏
   etymology:
     derived:
     - famil
@@ -61138,10 +61492,15 @@ familyen:
     - - familiano
     spa:
     - - familiar
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Familienmitglied
+    fra:
+    - - parent
+    rus:
+    - - член семьи
+    zho:
+    - - 家属
+      - 家庭成员
   etymology:
     derived:
     - famil
@@ -61461,10 +61820,16 @@ farina:
     - - faruno
     spa:
     - - harina
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Mehl
+    fra:
+    - - farine
+    rus:
+    - - Мука
+    zho:
+    - - 面粉
+      - 小麦粉
+      - 粉
   etymology:
     natlang:
       Espanisa: harina
@@ -61596,8 +61961,10 @@ fasi:
     spa:
     - - fascista
       - facha
-    deu: []
-    fra: []
+    deu:
+    - - faschistisch
+    fra:
+    - - fasciste
     rus:
     - - фашистский
     zho: []
@@ -61699,10 +62066,14 @@ fasiismo:
     - - faŝismo
     spa:
     - - fascismo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Faschismus
+    fra:
+    - - fascisme
+    rus:
+    - - фашизм
+    zho:
+    - - 法西斯主义
   etymology:
     derived:
     - fasi
@@ -61719,9 +62090,12 @@ fasiista:
     - - faŝisto
     spa:
     - - fascista
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Faschist
+    fra:
+    - - fasciste
+    rus:
+    - - фашист
     zho: []
   etymology:
     derived:
@@ -61741,12 +62115,15 @@ fasul:
     - - frijol
       - fríjol
       - <em>Fabaceae</em>
-    deu: []
-    fra: []
+    deu:
+    - - Bohne
+    fra:
+    - - haricot
     rus:
     - - фасоль
       - боб
-    zho: []
+    zho:
+    - - 豆
   etymology:
     natlang:
       Arabisa: فاصوليا &ldquo;faswlya&rdquo;
@@ -61817,10 +62194,14 @@ fatmindoku:
     - - patenti
     spa:
     - - patente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Patent
+    fra:
+    - - brevet
+    rus:
+    - - патент
+    zho:
+    - - 专利
   etymology:
     derived:
     - fatmin
@@ -62061,10 +62442,12 @@ fe:
   trans:
     eng:
     - - at (<em>time</em>)
-      - at (<em>unspecified place</em>)
-      - in (<em>time</em>)
+      - in (<em>month or year</em>)
+      - on (<em>date or day of the week</em>)
+      - at (<em>phrasal preposition, or location other than within</em>)
       - for (<em>for the first time, etc.</em>)
       - of (<em>relating to, number, quantity, amount</em>)
+      - <em>forms common prepositional phrases</em>
     epo:
     - - je
       - en (<em>tempo aŭ loko</em>)
@@ -64824,10 +65207,15 @@ fefu:
     - - pulmo
     spa:
     - - pulmón
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Lunge
+    fra:
+    - - poumon
+    rus:
+    - - лёгкое
+    zho:
+    - - 肺
+      - 肺脏
   etymology:
     natlang:
       Banglasa: ফুসফুস &ldquo;phusphus&rdquo;
@@ -64838,12 +65226,15 @@ fefu:
       Vyetnamsa: phổi
 fefuitis:
   term: fefuitis
-  word class: b
+  word class: b.oro
   category: derived
   trans:
     eng:
     - - pneumonitis
       - pneumonia
+    - - 'tr: cause pneumonia'
+    - - 'intr: have pneumonia'
+      - suffer from pneumonia
     epo:
     - - pneŭmonito
       - pneŭmonio
@@ -71348,11 +71739,14 @@ funduku:
       Turkisa: fındık
 funjin:
   term: funjin
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - rubella
+    - - 'tr: cause rubella'
+    - - 'intr: have rubella'
+      - suffer from rubella
     epo:
     - - rubeolo
     spa:
@@ -73398,11 +73792,14 @@ ganzo:
       Vyetnamsa: gan
 ganzoitis:
   term: ganzoitis
-  word class: b
+  word class: b.oro
   category: derived
   trans:
     eng:
     - - hepatitis
+    - - 'tr: cause hepatitis'
+    - - 'intr: have hepatitis'
+      - suffer from hepatitis
     epo:
     - - hepatito
       - hepatoinflamo
@@ -77466,11 +77863,14 @@ gonginyen:
     - -yen
 gonorey:
   term: gonorey
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - gonorrhea
+    - - 'tr: cause gonorrhea'
+    - - 'intr: have gonorrhea'
+      - suffer from gonorrhea
     epo:
     - - gonoreo
     spa:
@@ -79450,7 +79850,7 @@ guton:
       - ache
     - - 'tr: hurt (<em>cause pain</em>)'
     - - 'intr: ache'
-      - hurt (<em>feel pain</em>)
+      - hurt (<em>feel pain, have pain, suffer from pain</em>)
     epo:
     - - doloro
     - - dolori
@@ -84080,7 +84480,8 @@ he_nil:
     - - absolutamente ningún
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - никакой
     zho: []
   etymology:
     derived:
@@ -84783,11 +85184,14 @@ heroya:
     - -ya
 herpes:
   term: herpes
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - herpes
+    - - 'tr: cause herpes'
+    - - 'intr: have herpes'
+      - suffer from herpes
     epo:
     - - herpeto
     spa:
@@ -86687,11 +87091,16 @@ holocen:
       Vyetnamsa: Holocen, Holoxen
 homa:
   term: homa
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - fever
+    - - tr
+    - - cause fever
+    - - 'intr: have a fever'
+      - suffer from fever
+      - be feverish
     epo:
     - - febro
     spa:
@@ -122332,7 +122741,8 @@ lawisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 老挝语
   etymology:
     derived:
     - Lawi
@@ -122351,9 +122761,11 @@ lawrel:
     spa:
     - - (hoja de) laurel
     deu: []
-    fra: []
+    fra:
+    - - laurier
     rus: []
-    zho: []
+    zho:
+    - - 月桂
   etymology:
     natlang:
       Englisa: laurel
@@ -122767,10 +123179,15 @@ leaxam:
       - antaŭa vespero
     spa:
     - - víspera
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Vorabend
+    fra:
+    - - veille
+    rus:
+    - - канун
+    zho:
+    - - 前夕
+      - 前夜
   etymology:
     derived:
     - le-
@@ -122957,9 +123374,11 @@ lefeatre:
     - - ancestro
       - antepasado
     deu: []
-    fra: []
+    fra:
+    - - ancêtre
     rus: []
-    zho: []
+    zho:
+    - - 祖先
   etymology:
     derived:
     - lefe-
@@ -122977,7 +123396,8 @@ lefeatrelogi:
     spa:
     - - genealogía
     deu: []
-    fra: []
+    fra:
+    - - généalogie
     rus: []
     zho: []
   etymology:
@@ -123342,7 +123762,8 @@ lega:
     spa:
     - - ley
     deu: []
-    fra: []
+    fra:
+    - - loi
     rus: []
     zho: []
   etymology:
@@ -124971,6 +125392,7 @@ lijun:
     - - profit
     epo:
     - - profito (ekonomika)
+    - - profiti
     spa:
     - - ganancia (<em>economía</em>)
       - beneficio
@@ -125906,14 +126328,21 @@ lilnahir:
     eng:
     - - stream
       - brook
+      - creek
     epo:
     - - rivereto
     spa:
     - - arroyo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Bach
+    fra:
+    - - ruisseau
+    rus:
+    - - ручей
+      - речка
+    zho:
+    - - 溪流
+      - 溪
   etymology:
     derived:
     - lil-
@@ -125996,15 +126425,17 @@ lilpetra:
   category: derived
   trans:
     eng:
-    - - pebbles
+    - - pebble
     epo:
     - - ŝtoneto
       - roketo
     spa:
     - - guijarro
     deu: []
-    fra: []
-    rus: []
+    fra:
+    - - galet
+    rus:
+    - - галька
     zho: []
   etymology:
     derived:
@@ -126018,15 +126449,22 @@ lilplaneta:
   trans:
     eng:
     - - minor planet
+      - planetoid
     epo:
     - - planedeto
     spa:
     - - planetoide
       - planeta menor
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Kleinplanet
+      - Planetoid
+    fra:
+    - - planète mineure
+      - petite planète
+    rus:
+    - - малая планета
+    zho:
+    - - 微型行星
   etymology:
     derived:
     - lil-
@@ -126124,6 +126562,7 @@ liltermopul:
   trans:
     eng:
     - - lukewarm
+      - tepid
     epo:
     - - varmeta
     - - varmete
@@ -126236,6 +126675,7 @@ lilyao:
     - - mordeto
     - - mordeti
     spa:
+    - - mordisqueo
     - - mordisquear
     deu: []
     fra: []
@@ -126343,8 +126783,10 @@ limagon:
     spa:
     - - pentágono
     deu: []
-    fra: []
-    rus: []
+    fra:
+    - - pentagone
+    rus:
+    - - пятиугольник
     zho: []
   etymology:
     derived:
@@ -126654,9 +127096,14 @@ lineali:
       - linear
       - en fila
     deu: []
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - linéaire
+    - - linéairement
+    rus:
+    - - линейный
+    - - линейно
+    zho:
+    - - 线性的
   etymology:
     derived:
     - linea
@@ -126677,7 +127124,8 @@ linfa:
     - - Lymphe
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 淋巴
   etymology:
     natlang:
       Arabisa: لمف &ldquo;lmf&rdquo;
@@ -126709,9 +127157,12 @@ linfali:
     spa:
     - - linfático
     deu: []
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - lymphatique
+    rus:
+    - - лимфатическая
+    zho:
+    - - 淋巴的
   etymology:
     derived:
     - linfa
@@ -126984,8 +127435,10 @@ literaturli:
     - - literario
     - - literariamente
     deu: []
-    fra: []
-    rus: []
+    fra:
+    - - littéraire
+    rus:
+    - - литературный
     zho: []
   etymology:
     derived:
@@ -127761,10 +128214,19 @@ lori:
     spa:
     - - camión (de carga)
       - camioneta
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Lastkraftwagen
+      - Lastwagen
+      - Camion
+      - Laster
+      - Truck
+    fra:
+    - - camion
+    rus:
+    - - грузовик
+      - грузовой автомобиль
+    zho:
+    - - 货车
   etymology:
     natlang:
       Arabisa: لُورِي &ldquo;luri&rdquo;
@@ -128121,6 +128583,7 @@ lubrikaente:
   trans:
     eng:
     - - lubricant
+      - lube
     epo:
     - - lubrikaĵo
     spa:
@@ -128201,6 +128664,7 @@ luis:
     - - Lewis
       - Louis
       - Louise
+      - Lois
     epo:
     - - Ludoviko
       - Luizo
@@ -128211,6 +128675,7 @@ luis:
     - - Ludwig
     fra:
     - - Louis
+      - Louise
     rus:
     - - Луи
     zho:
@@ -129461,10 +129926,14 @@ maderi:
     - - materio
     spa:
     - - materia (<em>componente estructural básico del universo</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Materie
+    fra:
+    - - matière
+    rus:
+    - - материя
+    zho:
+    - - 物质
   etymology:
     natlang:
       Arabisa: مادة &ldquo;mada&rdquo;
@@ -129486,9 +129955,12 @@ maderiismo:
     - - materiismo
     spa:
     - - materialismo
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Materialismus
+    fra:
+    - - matérialisme
+    rus:
+    - - материализм
     zho: []
   etymology:
     derived:
@@ -129506,9 +129978,12 @@ maderiista:
     - - materiisto
     spa:
     - - materialista
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Materialist
+    fra:
+    - - matérialiste
+    rus:
+    - - материалист
     zho: []
   etymology:
     derived:
@@ -130514,10 +130989,14 @@ mahiyow:
     - - fiŝoleo
     spa:
     - - aceite de pescado
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Fischöl
+    fra:
+    - - huile de poisson
+    rus:
+    - - рыбий жир
+    zho:
+    - - 鱼油
   etymology:
     derived:
     - mahi
@@ -130550,9 +131029,14 @@ mais:
       - avatí
       - <em>Zea mays</em>
     deu: []
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - maïs
+    rus:
+    - - кукуруза
+      - маис
+    zho:
+    - - 玉米
+      - 玉蜀黍
   etymology:
     natlang:
       Doycisa: Mais
@@ -131857,6 +132341,8 @@ malxengi:
     - xen
     - +
     - -gi
+    natlang similar:
+      Doycisa: Fehlgeburt
 malxey:
   term: malxey
   word class: b.nenoj
@@ -132805,9 +133291,15 @@ manjaniku:
     spa:
     - - catapulta
     - - catapultar
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Katapult
+    - - katapultieren
+    fra:
+    - - catapulte
+    - - catapulter
+    rus:
+    - - катапульта
+    - - катапультировать
     zho: []
   etymology:
     natlang:
@@ -132827,8 +133319,10 @@ manjanikudo:
     spa:
     - - catapultado
       - lanzado
-    deu: []
-    fra: []
+    deu:
+    - - katapultiert
+    fra:
+    - - catapulté
     rus: []
     zho: []
   etymology:
@@ -133787,8 +134281,12 @@ marine:
     spa:
     - - marinado
     - - marinar
-    deu: []
-    fra: []
+    deu:
+    - - Marinade
+    - - marinieren
+    fra:
+    - - marinade
+    - - mariner
     rus: []
     zho: []
   etymology:
@@ -134503,9 +135001,15 @@ masku:
     - - maski
     spa:
     - - máscara
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Maske
+    - - maskieren
+    fra:
+    - - masque
+    - - masquer
+    rus:
+    - - маска
+    - - маскировать
     zho: []
   etymology:
     natlang:
@@ -134534,9 +135038,12 @@ maskudo:
     - - maskite
     spa:
     - - enmascarado
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - maskiert
+    fra:
+    - - masqué
+    rus:
+    - - маскированный
     zho: []
   etymology:
     derived:
@@ -134768,7 +135275,8 @@ masrili:
     - - egipta
     spa:
     - - egipcio
-    deu: []
+    deu:
+    - - ägyptisch
     fra: []
     rus: []
     zho: []
@@ -135016,10 +135524,14 @@ matematili:
     spa:
     - - matemático
     - - matemáticamente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - mathematisch
+    fra:
+    - - mathématique
+    rus:
+    - - математический
+    zho:
+    - - 数学的
   etymology:
     derived:
     - matemati
@@ -179097,30 +179609,6 @@ rota:
       Indonesisa: rotasi
       Polskasa: rotacja
       Turkisa: rotasyon
-rotacune:
-  term: rotacune
-  word class: t
-  category: derived
-  trans:
-    eng:
-    - - rotating
-    epo:
-    - - rotacianta
-    spa:
-    - - giratorio
-      - rotador
-      - rotante
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-  etymology:
-    derived:
-    - rota
-    - +
-    - -cu
-    - +
-    - -ne
 rotado:
   term: rotado
   word class: t
@@ -179142,6 +179630,28 @@ rotado:
     - rota
     - +
     - -do
+rotane:
+  term: rotane
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - rotating
+    epo:
+    - - rotacianta
+    spa:
+    - - giratorio
+      - rotador
+      - rotante
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - rota
+    - +
+    - -ne
 roti:
   term: roti
   word class: b
