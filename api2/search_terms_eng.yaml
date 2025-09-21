@@ -605,6 +605,8 @@ adapt:
 adapt (oneself):
 - adate
 adaptable:
+- adateabil
+- adatecuabil
 - adateible
 adaptation:
 - adate
@@ -646,6 +648,8 @@ adhesion:
 - adhesixey
 adhesive:
 - adhesiabil
+- adhesicuabil
+- adhesicune
 - adhesiente
 - adhesine
 adjacent:
@@ -1154,10 +1158,12 @@ amaze:
 - wao
 amazed:
 - waodo
+- waopul
 amazement:
 - wao
 amazing:
 - waone
+- waopul
 amazingly:
 - waone
 ambassador:
@@ -1268,6 +1274,7 @@ amuse:
 - amusa
 amused:
 - amusado
+- amusapul
 amusement:
 - amusa
 amusement park:
@@ -1541,6 +1548,8 @@ antidepressant:
 - antidepresiente
 antidote:
 - antidokya
+antifire:
+- antiatexli
 antigua and barbuda:
 - antigwa_ji_barbuda
 antimony:
@@ -1875,6 +1884,8 @@ arouse:
 aroused:
 - hunfundo
 - seksovole
+arousing:
+- hunfunne
 arrange:
 - ordenu
 arrangement:
@@ -2074,6 +2085,9 @@ aspire:
 aspire to:
 - ambisi
 - hasratu
+aspiring:
+- ambisicune
+- ambisine
 assam:
 - ohom
 assamese:
@@ -2956,8 +2970,6 @@ be  humiliated:
 - xyuci
 be  impressed:
 - inxo
-be  inflamed:
-- itis
 be  injured:
 - juruha
 be  inspired:
@@ -3063,6 +3075,8 @@ be by means of:
 - yonya
 be called:
 - name
+be cancerous:
+- kancer
 be cautious:
 - riskojui
 be conscious:
@@ -3129,6 +3143,8 @@ be ignorant of:
 - posjixi
 be in:
 - inya
+be in a coma:
+- koma
 be in exchange for:
 - porya
 be in favor:
@@ -3155,6 +3171,8 @@ be inclined:
 - filya
 be inclined to:
 - filya
+be inflamed:
+- itis
 be inside:
 - inya
 be inside of:
@@ -3178,6 +3196,8 @@ be located in:
 - feya
 be lying:
 - leta
+be manic:
+- manika
 be missing:
 - poshay
 - wala
@@ -3188,6 +3208,8 @@ be named:
 - name
 be on:
 - perya
+be on one's period:
+- hayzi
 be on the other side:
 - trasya
 be on the other side of:
@@ -3210,6 +3232,8 @@ be outside:
 - exya
 be outside of:
 - exya
+be paralyzed:
+- paralisi
 be pleasing to:
 - hoxgi
 - sukigi
@@ -3267,6 +3291,8 @@ be toward:
 - hoyya
 be towards:
 - hoyya
+be traumatized:
+- trawma
 be unable:
 - nenabil
 - nenabilya
@@ -3395,6 +3421,8 @@ become certain:
 - yakincu
 become clear:
 - mingucu
+become comatose:
+- inkoma
 become complex:
 - fukuzacu
 become complicated:
@@ -3496,6 +3524,8 @@ become thin:
 - dambocu
 become thinner:
 - maxdambocu
+become tumorous:
+- tumor
 become used (to):
 - xorxugwan
 become weak:
@@ -3509,8 +3539,8 @@ become yes:
 becoming:
 - sencu
 becquerel:
-- bekerel_name
 - bekerel
+- bekerel_name
 bed:
 - bistar
 bedouin:
@@ -3574,6 +3604,8 @@ beginner:
 - xoruyen
 beginning:
 - xoru
+- xorucune
+- xorune
 begun:
 - xorudo
 behave:
@@ -4103,6 +4135,7 @@ boiled egg:
 boiler:
 - boyletora
 boiling:
+- boylecune
 - boylene
 bold:
 - yunkipul
@@ -4233,6 +4266,9 @@ boulevard:
 - bulevar
 bounce:
 - rutyao
+bouncing:
+- rutyaocune
+- rutyaone
 bound:
 - poshuru
 bouquet:
@@ -4596,6 +4632,11 @@ burmese language:
 burn:
 - atex
 - yake
+burning:
+- atexcune
+- atexne
+- yakecune
+- yakene
 burnish:
 - polixo
 burnished:
@@ -4868,8 +4909,6 @@ can:
 - banka
 can be bent:
 - fleksiible
-can bend:
-- fleksiabil
 can opener:
 - bankabukatul
 can't:
@@ -4898,6 +4937,7 @@ cancer:
 - kancer
 cancerous:
 - kancerdo
+- kancerpul
 candela:
 - kandela
 candidate:
@@ -5005,8 +5045,8 @@ cardamom:
 cardboard:
 - karton
 cardigan:
-- kardigan_name
 - kardigan
+- kardigan_name
 cardinal:
 - kardinal
 cardiology:
@@ -5165,6 +5205,8 @@ catastrophic:
 - afatupul
 catch:
 - bujo
+catch a cold:
+- zukam
 catch fire:
 - xoratex
 catch sight of:
@@ -5200,16 +5242,36 @@ causative/transitive marker:
 cause:
 - -gi
 - kosa
+cause (somebody) to be in a coma:
+- koma
+cause a panic attack:
+- panikokrisis
+cause a pathology:
+- osis
 cause arthritis:
 - artroitis
 cause asthma:
 - astama
+cause cancer:
+- kancer
+cause cataracts:
+- katarata
+cause cholera:
+- kolera
+cause cholesterol:
+- kolesterol
+cause colds:
+- zukam
 cause constipation:
 - bembi
 cause diabetes:
 - dyabetes
+cause diarrhea:
+- ishal
 cause dizziness:
 - cakare
+cause encephalitis:
+- mogeitis
 cause epilepsy:
 - epilepsi
 cause fever:
@@ -5222,8 +5284,24 @@ cause hepatitis:
 - ganzoitis
 cause herpes:
 - herpes
+cause hypothermia:
+- infratermo
+cause influenza:
+- influenza
+cause leprosy:
+- juzam
+cause malaria:
+- malarya
+cause mania:
+- manika
+cause measles:
+- majin
+cause paralysis:
+- paralisi
 cause pneumonia:
 - fefuitis
+cause rheumatism:
+- rewmati
 cause rubella:
 - funjin
 cause schizophrenia:
@@ -5410,6 +5488,10 @@ cause to work:
 - ergogi
 cause to yawn:
 - hwamgi
+cause trauma:
+- trawma
+cause tumors:
+- tumor
 cause vertigo:
 - cakare
 caution:
@@ -5625,6 +5707,8 @@ charged:
 charisma:
 - karisma
 charismatic:
+- karismapul
+charismatically:
 - karismapul
 charm:
 - carme
@@ -6065,6 +6149,7 @@ closeness:
 closet:
 - labasalkoba
 closing:
+- klosicune
 - klosine
 closure:
 - klosi
@@ -6947,6 +7032,9 @@ cool:
 - suprem
 cool down:
 - bardi
+cooling:
+- bardiabil
+- bardine
 cooperate:
 - tonaksyon
 cooperation:
@@ -7421,6 +7509,8 @@ culicidae:
 - namoka
 cult:
 - kultu
+cultivar:
+- genixube
 cultivation:
 - nongyo
 cultural:
@@ -7989,8 +8079,13 @@ depress:
 - depresi
 depressed:
 - depresido
+depressing:
+- depresine
 depression:
 - depresi
+depressive:
+- depresigine
+- depresili
 deprivation:
 - awcudu
 deprive:
@@ -8277,10 +8372,13 @@ digest:
 - hazam
 digested:
 - hazamdo
+digesting:
+- hazamne
 digestion:
 - hazam
 digestive:
 - hazamli
+- hazamne
 digged:
 - goyudo
 digged up:
@@ -8607,6 +8705,9 @@ divine:
 - mansi
 divine message:
 - anjil
+diving:
+- gotascune
+- gotasne
 division:
 - disbage
 - vibaja
@@ -8617,6 +8718,8 @@ dizziness:
 - cakare
 dizzy:
 - cakarepul
+dizzying:
+- cakarene
 djibouti:
 - jibuti
 do:
@@ -9506,6 +9609,10 @@ endearment:
 - kawaywao
 endecagon:
 - desungon
+ending:
+- fini
+- finicune
+- finine
 endless:
 - finikal
 endlessly:
@@ -9600,10 +9707,13 @@ enter:
 - incu
 - ingi
 - inidi
+enter a coma:
+- inkoma
 entertain:
 - amusa
 entertained:
 - amusado
+- amusapul
 entertainer:
 - amusayen
 entertaining:
@@ -10033,6 +10143,9 @@ excitedly:
 excitement:
 - hunfun
 - joxu
+exciting:
+- joxune
+- joxupul
 exclaim:
 - dayloga
 exclude:
@@ -10339,6 +10452,8 @@ falseness:
 - falsoya
 fame:
 - xohra
+famed:
+- xohrado
 familiar:
 - bonkonedo
 - kone
@@ -10686,6 +10801,10 @@ fight against:
 - antijento
 fighter:
 - jentoyen
+figurative:
+- istyareli
+figuratively:
+- istyareli
 figure:
 - figura
 figure of speech:
@@ -10781,6 +10900,8 @@ finish:
 - fini
 finished:
 - finido
+finishing:
+- finine
 finite:
 - finipul
 finitely:
@@ -10802,9 +10923,15 @@ fire:
 - exergogi
 - pam
 fired:
+- exergodo
 - pamdo
 fireplace:
 - atexdom
+fireproof:
+- antiatexli
+- atexcunenabil
+- atexnenabil
+- atexnenible
 fireworks:
 - arteatex
 firing:
@@ -10923,8 +11050,10 @@ flexibility:
 - fleksiibleya
 flexible:
 - fleksiabil
+- fleksicuabil
 flexibly:
 - fleksiabil
+- fleksicuabil
 flight:
 - fley
 flint:
@@ -11354,6 +11483,8 @@ fret:
 - yolyu
 fretful:
 - yolyufil
+fretting:
+- yolyucune
 freud:
 - froyd
 fricative:
@@ -11458,6 +11589,7 @@ fume:
 fun:
 - amusa
 - amusane
+- amusapul
 function:
 - funsyon
 functional:
@@ -11475,6 +11607,8 @@ fundamentally:
 fungal:
 - futruli
 fungally:
+- futruli
+fungous:
 - futruli
 fungus:
 - futru
@@ -11632,6 +11766,8 @@ gazella:
 - gazela
 gazelle:
 - gazela
+gazette:
+- gazeta
 gd:
 - gadolinyum
 ge:
@@ -11744,6 +11880,10 @@ get:
 - haregi
 - sencu
 - taslum
+get a cold:
+- zukam
+get a tumor:
+- tumor
 get accustomed (to):
 - xorxugwan
 get across:
@@ -11806,6 +11946,8 @@ get in bed:
 - inbistar
 get infected:
 - enfeksi
+get infected with a virus:
+- virus
 get injured:
 - sungay
 get large:
@@ -11836,8 +11978,6 @@ get out of bed:
 - exbistar
 get pallid:
 - cambaycu
-get paralyzed:
-- paralisi
 get pregnant:
 - hamilecu
 get ready:
@@ -11884,6 +12024,8 @@ get tired:
 get together:
 - toncu
 - tongocu
+get tumors:
+- tumor
 get underneath:
 - baxcu
 get up:
@@ -12090,6 +12232,8 @@ go for a walk:
 - sampo
 go in:
 - inidi
+go into a coma:
+- inkoma
 go into hiding:
 - sangu
 - sangucu
@@ -12827,10 +12971,16 @@ have a fever:
 - homa
 have a nightmare:
 - burroya
+have a panic attack:
+- panikokrisis
 have a particular smell:
 - nasacu
+have a pathology:
+- osis
 have a picnic:
 - pikniku
+have a trauma:
+- trawma
 have age of:
 - lamaje
 - laoje
@@ -12848,6 +12998,14 @@ have asthma:
 - astama
 have breakfast:
 - sobayam
+have cancer:
+- kancer
+have cataracts:
+- katarata
+have cholera:
+- kolera
+have cholesterol:
+- kolesterol
 have constipation:
 - bembi
 have dessert:
@@ -12858,6 +13016,8 @@ have diarrhea:
 - ishal
 have dinner:
 - axamyam
+have encephalitis:
+- mogeitis
 have epilepsy:
 - epilepsi
 have fun:
@@ -12868,16 +13028,30 @@ have hepatitis:
 - ganzoitis
 have herpes:
 - herpes
+have hypothermia:
+- infratermo
+have influenza:
+- influenza
 have just:
 - jale
+have leprosy:
+- juzam
+have malaria:
+- malarya
+have measles:
+- majin
 have nightmares:
 - burroya
+have paralysis:
+- paralisi
 have permission:
 - harizin
 have permission to:
 - harizin
 have pneumonia:
 - fefuitis
+have rheumatism:
+- rewmati
 have rubella:
 - funjin
 have schizophrenia:
@@ -12982,6 +13156,9 @@ heated:
 heathen:
 - pagan
 - paganyen
+heating:
+- termoabil
+- termone
 heaven:
 - janatu
 heavenly:
@@ -13028,6 +13205,8 @@ helix:
 hell:
 - jahanom
 hellish:
+- jahanomsim
+hellishly:
 - jahanomsim
 hello:
 - halow
@@ -13242,6 +13421,8 @@ hire:
 - goyon
 - inergo
 - inergogi
+hired:
+- inergodo
 hiring:
 - goyon
 - inergo
@@ -13599,6 +13780,8 @@ hurry up:
 hurt:
 - guton
 - sungay
+hurting:
+- gutoncune
 husband:
 - gami
 - mangami
@@ -13716,10 +13899,14 @@ idiot:
 - boboyen
 idol:
 - idol
+idol worship:
+- idolibada
+idolatrize:
+- idolibada
 idolatry:
 - idolibada
 idolize:
-- idol
+- idolgi
 if:
 - eger
 - kwas
@@ -13900,6 +14087,7 @@ impressed:
 impression:
 - inxo
 impressive:
+- inxoabil
 - inxone
 imprisoned:
 - poshuru
@@ -14315,6 +14503,8 @@ infarction:
 - infarto
 infect:
 - enfeksi
+infect with a virus:
+- virus
 infected:
 - enfeksido
 infection:
@@ -14326,6 +14516,10 @@ inferiority:
 - infraya
 inferiorly:
 - infrali
+infernal:
+- jahanomsim
+infernally:
+- jahanomsim
 infest:
 - tawni
 infestation:
@@ -14526,11 +14720,15 @@ inspection:
 inspiration:
 - ilhamu
 inspirational:
+- ilhamuabil
+- ilhamune
 - ilhamune
 inspire:
 - ilhamu
 inspired:
 - ilhamudo
+inspiring:
+- ilhamune
 instability:
 - nenandinya
 install:
@@ -14711,176 +14909,420 @@ intonation:
 - entona
 intone:
 - entona
-'intr: ache':
+'intr : ache':
 - guton
-'intr: adapt':
+'intr : adapt':
 - adate
-'intr: adapt oneself':
-- adate
-'intr: be  amazed':
+'intr : be amazed':
 - wao
-'intr: be  astonished':
-- daysurprisa
-'intr: be  bothered':
-- lawfen
-'intr: be  comfortable':
-- konforta
-'intr: be  confused':
-- konhwoku
-'intr: be  depressed':
-- depresi
-'intr: be  endeared':
-- kawaywao
-'intr: be  enthused':
-- joxu
-'intr: be  excited':
-- hunfun
-'intr: be  frustrated':
-- frustra
-'intr: be  impressed':
-- inxo
-'intr: be  inflamed':
-- itis
-'intr: be  inspired':
-- ilhamu
-'intr: be  paranoid':
-- paranoy
-'intr: be  stimulated':
-- estimula
-'intr: be  surprised':
-- surprisa
-'intr: be  tired':
-- pilo
-'intr: be  wounded':
-- juruha
-'intr: be ambitious':
+'intr : be ambitious':
 - ambisi
-'intr: be applicable':
+'intr : be applicable':
 - aplika
-'intr: be applicable to':
-- aplika
-'intr: be aware':
+'intr : be astonished':
+- daysurprisa
+'intr : be aware':
 - ixi
-'intr: be based':
+'intr : be based':
 - basi
-'intr: be constipated':
-- bembi
-'intr: be courageous':
+'intr : be bothered':
+- lawfen
+'intr : be comfortable':
+- konforta
+'intr : be confused':
+- konhwoku
+'intr : be courageous':
 - yunki
-'intr: be dangerous':
+'intr : be dangerous':
 - hatari
-'intr: be famous':
+'intr : be depressed':
+- depresi
+'intr : be endeared':
+- kawaywao
+'intr : be enthused':
+- joxu
+'intr : be excited':
+- hunfun
+'intr : be famous':
 - xohra
-'intr: be guilty':
+'intr : be frustrated':
+- frustra
+'intr : be guilty':
 - yozay
-'intr: be in shock':
+'intr : be impressed':
+- inxo
+'intr : be in a coma':
+- koma
+'intr : be in shock':
 - xoku
-'intr: be intelligent':
+'intr : be inspired':
+- ilhamu
+'intr : be intelligent':
 - cinon
-'intr: be interested':
+'intr : be interested':
 - interes
-'intr: be interested in':
-- interes
-'intr: be invalid':
+'intr : be invalid':
 - posyukyo
-'intr: be talented':
+'intr : be paranoid':
+- paranoy
+'intr : be stimulated':
+- estimula
+'intr : be surprised':
+- surprisa
+'intr : be talented':
 - talento
-'intr: be valid':
+'intr : be tired':
+- pilo
+'intr : be valid':
 - yukyo
-'intr: be violent':
+'intr : be violent':
 - bawlu
-'intr: be warm':
+'intr : be warm':
 - termo
-'intr: become aware':
+'intr : be wounded':
+- juruha
+'intr : become aware':
 - xorixi
-'intr: become gaseous':
+'intr : become gaseous':
 - gas
-'intr: begin':
+'intr : begin':
 - xoru
-'intr: burn':
+'intr : burn':
 - atex
-'intr: catch fire':
+'intr : catch fire':
 - xoratex
-'intr: end':
+'intr : end':
 - fini
-'intr: feel disgust':
+'intr : feel disgust':
 - ufue
-'intr: feel pleasure':
+'intr : feel pleasure':
 - furaha
-'intr: feel/be anxious':
+'intr : feel/be anxious':
 - ansya
-'intr: feel/be charmed':
+'intr : feel/be charmed':
 - carme
-'intr: feel/be cold':
+'intr : feel/be cold':
 - bardi
-'intr: feel/be comforted':
+'intr : feel/be comforted':
 - anwi
-'intr: get damaged':
+'intr : get a cold':
+- zukam
+'intr : get a tumor':
+- tumor
+'intr : get damaged':
 - sungay
-'intr: get herniated':
+'intr : get herniated':
 - herni
-'intr: get infected':
+'intr : get infected':
 - enfeksi
-'intr: get oneself hired':
+'intr : get infected with a virus':
+- virus
+'intr : get oneself hired':
 - inergo
-'intr: get paralyzed':
-- paralisi
-'intr: get ruined':
+'intr : get ruined':
 - harabu
-'intr: go bankrupt':
+'intr : go bankrupt':
 - uflasi
-'intr: have a fever':
+'intr : have a fever':
 - homa
-'intr: have arthritis':
+'intr : have a panic attack':
+- panikokrisis
+'intr : have a pathology':
+- osis
+'intr : have a trauma':
+- trawma
+'intr : have arthritis':
 - artroitis
-'intr: have asthma':
+'intr : have asthma':
 - astama
-'intr: have diabetes':
+'intr : have cancer':
+- kancer
+'intr : have cataracts':
+- katarata
+'intr : have cholera':
+- kolera
+'intr : have cholesterol':
+- kolesterol
+'intr : have constipation':
+- bembi
+'intr : have diabetes':
 - dyabetes
-'intr: have epilepsy':
+'intr : have diarrhea':
+- ishal
+'intr : have encephalitis':
+- mogeitis
+'intr : have epilepsy':
 - epilepsi
-'intr: have fun':
+'intr : have fun':
 - amusa
-'intr: have gonorrhea':
+'intr : have gonorrhea':
 - gonorey
-'intr: have hepatitis':
+'intr : have hepatitis':
 - ganzoitis
-'intr: have herpes':
+'intr : have herpes':
 - herpes
-'intr: have pneumonia':
+'intr : have hypothermia':
+- infratermo
+'intr : have influenza':
+- influenza
+'intr : have leprosy':
+- juzam
+'intr : have malaria':
+- malarya
+'intr : have measles':
+- majin
+'intr : have paralysis':
+- paralisi
+'intr : have pneumonia':
 - fefuitis
-'intr: have rubella':
+'intr : have rheumatism':
+- rewmati
+'intr : have rubella':
 - funjin
-'intr: have schizophrenia':
+'intr : have schizophrenia':
 - eskizofreni
-'intr: have scurvy':
+'intr : have scurvy':
 - eskorbuto
-'intr: have vertigo':
+'intr : have vertigo':
 - cakare
-'intr: hide':
+'intr : hide':
 - sangu
-'intr: itch':
+'intr : itch':
 - soyo
-'intr: obsess':
+'intr : obsess':
 - obsesi
-'intr: panic':
+'intr : panic':
 - paniko
-'intr: pause':
+'intr : pause':
 - wakufa
-'intr: quit':
+'intr : quarantine':
+- sekwarentin
+'intr : quit':
 - exergo
-'intr: stop':
+'intr : slip into a coma':
+- inkoma
+'intr : stop':
 - esto
-'intr: surrender':
+'intr : suffer from inflammation':
+- itis
+'intr : suffer from mania':
+- manika
+'intr : surrender':
 - teslimu
-'intr: surrender to':
-- teslimu
-'intr: tense':
+'intr : tense':
 - conlyoku
-'intr: tire':
+'intr : tire':
 - xorpilo
-'intr: worry':
+'intr : worry':
 - yolyu
+'intr optional -cu: ache':
+- guton
+'intr optional -cu: adapt oneself':
+- adate
+'intr optional -cu: be  amazed':
+- wao
+'intr optional -cu: be  astonished':
+- daysurprisa
+'intr optional -cu: be  bothered':
+- lawfen
+'intr optional -cu: be  comfortable':
+- konforta
+'intr optional -cu: be  confused':
+- konhwoku
+'intr optional -cu: be  depressed':
+- depresi
+'intr optional -cu: be  endeared':
+- kawaywao
+'intr optional -cu: be  enthused':
+- joxu
+'intr optional -cu: be  excited':
+- hunfun
+'intr optional -cu: be  frustrated':
+- frustra
+'intr optional -cu: be  impressed':
+- inxo
+'intr optional -cu: be  inspired':
+- ilhamu
+'intr optional -cu: be  paranoid':
+- paranoy
+'intr optional -cu: be  stimulated':
+- estimula
+'intr optional -cu: be  surprised':
+- surprisa
+'intr optional -cu: be  tired':
+- pilo
+'intr optional -cu: be  wounded':
+- juruha
+'intr optional -cu: be ambitious':
+- ambisi
+'intr optional -cu: be applicable to':
+- aplika
+'intr optional -cu: be aware':
+- ixi
+'intr optional -cu: be based':
+- basi
+'intr optional -cu: be courageous':
+- yunki
+'intr optional -cu: be dangerous':
+- hatari
+'intr optional -cu: be famous':
+- xohra
+'intr optional -cu: be guilty':
+- yozay
+'intr optional -cu: be in a coma':
+- koma
+'intr optional -cu: be in shock':
+- xoku
+'intr optional -cu: be intelligent':
+- cinon
+'intr optional -cu: be interested in':
+- interes
+'intr optional -cu: be invalid':
+- posyukyo
+'intr optional -cu: be talented':
+- talento
+'intr optional -cu: be valid':
+- yukyo
+'intr optional -cu: be violent':
+- bawlu
+'intr optional -cu: be warm':
+- termo
+'intr optional -cu: become aware':
+- xorixi
+'intr optional -cu: become gaseous':
+- gas
+'intr optional -cu: begin':
+- xoru
+'intr optional -cu: burn':
+- atex
+'intr optional -cu: catch fire':
+- xoratex
+'intr optional -cu: end':
+- fini
+'intr optional -cu: feel disgust':
+- ufue
+'intr optional -cu: feel pleasure':
+- furaha
+'intr optional -cu: feel/be anxious':
+- ansya
+'intr optional -cu: feel/be charmed':
+- carme
+'intr optional -cu: feel/be cold':
+- bardi
+'intr optional -cu: feel/be comforted':
+- anwi
+'intr optional -cu: get a cold':
+- zukam
+'intr optional -cu: get a tumor':
+- tumor
+'intr optional -cu: get damaged':
+- sungay
+'intr optional -cu: get herniated':
+- herni
+'intr optional -cu: get infected':
+- enfeksi
+'intr optional -cu: get infected with a virus':
+- virus
+'intr optional -cu: get oneself hired':
+- inergo
+'intr optional -cu: get ruined':
+- harabu
+'intr optional -cu: go bankrupt':
+- uflasi
+'intr optional -cu: have a fever':
+- homa
+'intr optional -cu: have a panic attack':
+- panikokrisis
+'intr optional -cu: have a pathology':
+- osis
+'intr optional -cu: have a trauma':
+- trawma
+'intr optional -cu: have arthritis':
+- artroitis
+'intr optional -cu: have asthma':
+- astama
+'intr optional -cu: have cancer':
+- kancer
+'intr optional -cu: have cataracts':
+- katarata
+'intr optional -cu: have cholera':
+- kolera
+'intr optional -cu: have cholesterol':
+- kolesterol
+'intr optional -cu: have constipation':
+- bembi
+'intr optional -cu: have diabetes':
+- dyabetes
+'intr optional -cu: have diarrhea':
+- ishal
+'intr optional -cu: have encephalitis':
+- mogeitis
+'intr optional -cu: have epilepsy':
+- epilepsi
+'intr optional -cu: have fun':
+- amusa
+'intr optional -cu: have gonorrhea':
+- gonorey
+'intr optional -cu: have hepatitis':
+- ganzoitis
+'intr optional -cu: have herpes':
+- herpes
+'intr optional -cu: have hypothermia':
+- infratermo
+'intr optional -cu: have influenza':
+- influenza
+'intr optional -cu: have leprosy':
+- juzam
+'intr optional -cu: have malaria':
+- malarya
+'intr optional -cu: have measles':
+- majin
+'intr optional -cu: have paralysis':
+- paralisi
+'intr optional -cu: have pneumonia':
+- fefuitis
+'intr optional -cu: have rheumatism':
+- rewmati
+'intr optional -cu: have rubella':
+- funjin
+'intr optional -cu: have schizophrenia':
+- eskizofreni
+'intr optional -cu: have scurvy':
+- eskorbuto
+'intr optional -cu: have vertigo':
+- cakare
+'intr optional -cu: hide':
+- sangu
+'intr optional -cu: itch':
+- soyo
+'intr optional -cu: obsess':
+- obsesi
+'intr optional -cu: panic':
+- paniko
+'intr optional -cu: pause':
+- wakufa
+'intr optional -cu: quarantine oneself':
+- sekwarentin
+'intr optional -cu: quit':
+- exergo
+'intr optional -cu: slip into a coma':
+- inkoma
+'intr optional -cu: stop':
+- esto
+'intr optional -cu: suffer from inflammation':
+- itis
+'intr optional -cu: suffer from mania':
+- manika
+'intr optional -cu: surrender to':
+- teslimu
+'intr optional -cu: tense':
+- conlyoku
+'intr optional -cu: tire':
+- xorpilo
+'intr optional -cu: worry':
+- yolyu
+'intr: be  stressed':
+- estres
 intransitive:
 - nenojetoli
 intransitive verb:
@@ -15504,8 +15946,8 @@ kindness:
 - lutuf
 - lutufxey
 king:
-- manwangu
 - wangu
+- manwangu
 kingdom:
 - wangudom
 kinghood:
@@ -16639,6 +17081,9 @@ lubricate:
 - lubrika
 lubricated:
 - lubrikado
+lubricating:
+- lubrikaabil
+- lubrikane
 lubrication:
 - lubrika
 lucas:
@@ -17079,8 +17524,8 @@ make strong:
 make stronger:
 - maxbalagi
 make sure:
-- yakingi
 - yakincu
+- yakingi
 make talented:
 - talento
 make tear up:
@@ -17344,6 +17789,8 @@ marriage:
 - gamiya
 married:
 - gamido
+married couple:
+- gamiduayen
 marrow:
 - majam
 marry:
@@ -17375,6 +17822,7 @@ martian:
 martin:
 - ababil
 martyr:
+- xahidugi
 - xahidu
 - xahidugi
 martyrdom:
@@ -17776,6 +18224,8 @@ metaphoric:
 - istyareli
 metaphorical:
 - istyareli
+metaphorically:
+- istyareli
 meteor:
 - meteor
 meteorite:
@@ -17871,8 +18321,8 @@ milk:
 milky way:
 - milkodao
 mill:
-- frese
 - mule
+- frese
 - muletul
 mill metal:
 - frese
@@ -17885,8 +18335,8 @@ millimeter:
 millimetre:
 - milimetro
 milling:
-- frese
 - mule
+- frese
 million:
 - mega
 millionennium:
@@ -18061,6 +18511,9 @@ moat:
 - handaki
 mob:
 - bodontim
+mobile:
+- harkaabil
+- harkacuabil
 mock:
 - coxo
 mocked:
@@ -18346,6 +18799,8 @@ motivate:
 - estimula
 motivated:
 - estimulado
+motivating:
+- estimulane
 motivation:
 - estimula
 motor:
@@ -18386,6 +18841,9 @@ movie camera:
 - filmetul
 movie theater:
 - filmedom
+moving:
+- harkacune
+- harkane
 mozambique:
 - mozambiki
 mr.:
@@ -18525,6 +18983,8 @@ my gosh:
 - fe_geo
 myanmar:
 - myanma
+mycotic:
+- futruli
 myocardial infarction:
 - tutuminfarto
 myocarditis:
@@ -18974,6 +19434,8 @@ nocturnally:
 - noceli
 nod:
 - kapisiya
+node:
+- girehe
 noise:
 - bursoti
 - colosoti
@@ -19689,6 +20151,8 @@ open-air:
 - baxasmanli
 opening:
 - buka
+- bukacune
+- bukane
 - bukaxey
 openly:
 - bukado
@@ -19840,6 +20304,9 @@ originally:
 - fe_asel
 originate:
 - asel
+originating:
+- aselcune
+- aselne
 orissa:
 - orisa
 - orisali
@@ -20144,6 +20611,7 @@ panicked:
 - panikodo
 - panikopul
 panicking:
+- panikocune
 - panikone
 pansexual:
 - moyjensifil
@@ -20360,6 +20828,8 @@ path:
 - dao
 pathological:
 - osisli
+pathologize:
+- osis
 pathology:
 - -osis
 - osis
@@ -21134,6 +21604,9 @@ plundered:
 - ganimado
 plunge:
 - gotas
+plunging:
+- gotascune
+- gotasne
 plural:
 - pluyali
 plurality:
@@ -22217,6 +22690,8 @@ put forth effort to, towards:
 put in:
 - ingi
 - inplasi
+put in a coma:
+- inkoma
 put in charge:
 - masulgi
 put in danger:
@@ -22300,6 +22775,8 @@ quantum:
 - kwantum
 quarantine:
 - kwarentin
+quarantine (oneself):
+- sekwarentin
 quarantined:
 - kwarentindo
 quark:
@@ -22313,8 +22790,8 @@ quartz:
 quattuordecuple:
 - descareple
 queen:
-- femwangu
 - wangu
+- femwangu
 queen-bee:
 - wangubeze
 queenhood:
@@ -23415,7 +23892,6 @@ robust:
 rock:
 - petra
 - roku
-- yoran
 rock music:
 - roku
 rock paper scissors:
@@ -23501,6 +23977,7 @@ rotate:
 rotated:
 - rotado
 rotating:
+- rotacune
 - rotane
 rotation:
 - rota
@@ -23580,6 +24057,8 @@ ruling:
 rum:
 - rum
 rumor:
+- fumbun
+rumour:
 - fumbun
 run:
 - funsyongi
@@ -24478,6 +24957,8 @@ shake one's head:
 - kapinoya
 shaking:
 - treme
+- tremecune
+- tremene
 shall:
 - xa
 shall not:
@@ -24565,8 +25046,8 @@ shield:
 shin:
 - tibya
 shine:
-- brila
 - polixo
+- brila
 shined:
 - polixodo
 shiny:
@@ -24587,6 +25068,9 @@ shock:
 - xoku
 shocked:
 - xokudo
+shocking:
+- xokuabil
+- xokune
 shoe:
 - sapatu
 shoe store:
@@ -24754,8 +25238,8 @@ silent:
 silently:
 - sotikal
 silhouette:
-- silweta_name
 - silweta
+- silweta_name
 silicon:
 - silikon
 silk:
@@ -25038,6 +25522,8 @@ slimness:
 slip:
 - deleza
 - lildahun
+slip into a coma:
+- inkoma
 slip of paper:
 - lildahun
 slipper:
@@ -25631,6 +26117,9 @@ spinoff:
 - ofxey
 spiral:
 - espiral
+spiraling:
+- espiralcune
+- espiralne
 spirit:
 - ruho
 - xabahu
@@ -25844,6 +26333,9 @@ start:
 - xoru
 started:
 - xorudo
+starting:
+- xorucune
+- xorune
 state:
 - dawla
 - deklara
@@ -25944,6 +26436,8 @@ stick:
 - gumbo
 sticky:
 - adhesiabil
+- adhesicuabil
+- adhesicune
 - adhesine
 stiff:
 - sahte
@@ -25965,6 +26459,9 @@ stimulate:
 stimulated:
 - estimulado
 - hunfundo
+stimulating:
+- estimulane
+- hunfunne
 stimulation:
 - hunfun
 stimulus:
@@ -26014,6 +26511,9 @@ stopped:
 - estodo
 stopper:
 - plagu
+stopping:
+- estocune
+- estone
 stopwatch:
 - watumeter
 store:
@@ -26101,13 +26601,19 @@ strengthening:
 stress:
 - enfasis
 - estres
-stress out:
+stress (out):
 - estres
 stress-laden:
 - estrespul
 stressed:
 - estresdo
 - estrespul
+- estrespul
+stressful:
+- estresne
+- estrespul
+stressing:
+- estresne
 stretch:
 - conlyoku
 strict:
@@ -26247,6 +26753,9 @@ submarine:
 - baxbaharili
 submerge:
 - gotas
+submerging:
+- gotascune
+- gotasne
 submersion:
 - gotas
 submission:
@@ -26342,8 +26851,24 @@ suffer:
 - suferi
 suffer from:
 - suferi
+suffer from a panic attack:
+- panikokrisis
+suffer from a pathology:
+- osis
+suffer from cancer:
+- kancer
+suffer from cataracts:
+- katarata
+suffer from cholera:
+- kolera
+suffer from cholesterol:
+- kolesterol
+suffer from constipation:
+- bembi
 suffer from diarrhea:
 - ishal
+suffer from encephalitis:
+- mogeitis
 suffer from epilepsy:
 - epilepsi
 suffer from fever:
@@ -26354,14 +26879,36 @@ suffer from hepatitis:
 - ganzoitis
 suffer from herpes:
 - herpes
+suffer from hypothermia:
+- infratermo
+suffer from inflammation:
+- itis
+suffer from influenza:
+- influenza
+suffer from leprosy:
+- juzam
+suffer from malaria:
+- malarya
+suffer from mania:
+- manika
+suffer from measles:
+- majin
+suffer from paralysis:
+- paralisi
 suffer from pneumonia:
 - fefuitis
+suffer from rheumatism:
+- rewmati
 suffer from rubella:
 - funjin
 suffer from schizophrenia:
 - eskizofreni
 suffer from scurvy:
 - eskorbuto
+suffer from shock:
+- xoku
+suffer from trauma:
+- trawma
 suffering:
 - suferi
 sufficient:
@@ -26611,8 +27158,6 @@ swarm of bees:
 - bezelari
 swat:
 - xilepu
-sway:
-- yoran
 swear:
 - burlexi
 - seyeku
@@ -26675,6 +27220,9 @@ swine:
 swing:
 - urjuha
 - urjuhatul
+swinging:
+- urjuhacune
+- urjuhane
 swiss:
 - switzeli
 - switzeyen
@@ -26934,6 +27482,7 @@ tale:
 talent:
 - talento
 talented:
+- talentodo
 - talentopul
 talisman:
 - talisman
@@ -27332,11 +27881,11 @@ that:
 - denmo
 - dente
 - dento
-- ki_fe_folo
 - feki
 - hu
 - hu_da
 - ki
+- ki_fe_folo
 - temki
 that amount:
 - denkwanti
@@ -27880,6 +28429,8 @@ tirhut:
 - mitila
 tirhutiya:
 - mitilayen
+tiring:
+- pilone
 tissue:
 - jojiki
 tit:
@@ -28118,124 +28669,239 @@ toyshop:
 - yuxituldukan
 tr:
 - homa
-'tr/intr: absorb':
+'tr/intr : absorb':
 - absorbi
-'tr/intr: adhere':
+'tr/intr : adhere':
 - adhesi
-'tr/intr: alcoholize':
+'tr/intr : alcoholize':
 - alkohol
-'tr/intr: bend':
+'tr/intr : bend':
 - fleksi
-'tr/intr: benefit':
+'tr/intr : benefit':
 - fayda
-'tr/intr: boil':
+'tr/intr : boil':
 - boyle
-'tr/intr: bounce':
+'tr/intr : bounce':
 - rutyao
-'tr/intr: break':
+'tr/intr : break':
 - kasiru
 - kweten
-'tr/intr: bruise':
+'tr/intr : bruise':
 - curuko
-'tr/intr: burn':
+'tr/intr : burn':
 - yake
-'tr/intr: center':
+'tr/intr : center':
 - centro
-'tr/intr: close':
+'tr/intr : close':
 - klosi
-'tr/intr: combine':
+'tr/intr : combine':
 - kombina
-'tr/intr: contract':
+'tr/intr : contract':
 - krampe
-'tr/intr: contrast':
+'tr/intr : contrast':
 - kontraste
-'tr/intr: convect':
+'tr/intr : convect':
 - deylyu
-'tr/intr: crack':
+'tr/intr : crack':
 - daraki
-'tr/intr: cradle':
-- yoran
-'tr/intr: cycle':
+'tr/intr : cycle':
 - cuki
-'tr/intr: digest':
+'tr/intr : digest':
 - hazam
-'tr/intr: dissolve':
+'tr/intr : dissolve':
 - solusi
-'tr/intr: dive':
+'tr/intr : dive':
 - gotas
-'tr/intr: flood':
+'tr/intr : flood':
 - sela
-'tr/intr: form':
+'tr/intr : form':
 - forma
-'tr/intr: fossilize':
+'tr/intr : fossilize':
 - fosil
-'tr/intr: fracture':
+'tr/intr : fracture':
 - guje
-'tr/intr: froth':
+'tr/intr : froth':
 - pena
-'tr/intr: incline':
+'tr/intr : incline':
 - meylu
-'tr/intr: ionize':
+'tr/intr : ionize':
 - yoni
-'tr/intr: knot':
+'tr/intr : knot':
 - girehe
-'tr/intr: liquify':
+'tr/intr : liquify':
 - likwido
-'tr/intr: lubricate':
+'tr/intr : lubricate':
 - lubrika
-'tr/intr: metabolize':
+'tr/intr : metabolize':
 - metabolis
-'tr/intr: mirror':
+'tr/intr : mirror':
 - ayna
-'tr/intr: move':
+'tr/intr : move':
 - harka
-'tr/intr: open':
+'tr/intr : open':
 - buka
-'tr/intr: originate':
+'tr/intr : originate':
 - asel
-'tr/intr: play':
+'tr/intr : play':
 - pley
-'tr/intr: pool':
+'tr/intr : pool':
 - birke
-'tr/intr: project':
+'tr/intr : project':
 - proyeksi
-'tr/intr: pulverize':
+'tr/intr : pulverize':
 - pudra
-'tr/intr: puree':
+'tr/intr : puree':
 - pure
-'tr/intr: radiate':
+'tr/intr : radiate':
 - radya
-'tr/intr: rotate':
+'tr/intr : rotate':
 - rota
-'tr/intr: scar':
+'tr/intr : scar':
 - xanhun
-'tr/intr: shake':
+'tr/intr : shake':
 - treme
-'tr/intr: solidify':
+'tr/intr : solidify':
 - guti
-'tr/intr: steam':
+'tr/intr : steam':
 - buhar
-'tr/intr: swing':
+'tr/intr : swing':
 - urjuha
-'tr/intr: synchronize':
+'tr/intr : synchronize':
 - sinkroniza
-'tr/intr: tear':
+'tr/intr : tear':
 - ciru
-'tr/intr: transform':
+'tr/intr : transform':
 - aloforma
-'tr/intr: turn':
+'tr/intr : turn':
 - jwan
-'tr/intr: twist':
+'tr/intr : twist':
 - espiral
-'tr/intr: ulcerate':
+'tr/intr : ulcerate':
 - ulcera
-'tr/intr: undulate':
+'tr/intr : undulate':
 - moja
-'tr/intr: vibrate':
+'tr/intr : vibrate':
 - vibra
-'tr/intr: wrinkle':
+'tr/intr : wrinkle':
 - oruga
-'tr/intr: zigzag':
+'tr/intr : zigzag':
+- zigzagu
+'tr/intr optional -cu: absorb':
+- absorbi
+'tr/intr optional -cu: adhere':
+- adhesi
+'tr/intr optional -cu: alcoholize':
+- alkohol
+'tr/intr optional -cu: bend':
+- fleksi
+'tr/intr optional -cu: benefit':
+- fayda
+'tr/intr optional -cu: boil':
+- boyle
+'tr/intr optional -cu: bounce':
+- rutyao
+'tr/intr optional -cu: break':
+- kasiru
+- kweten
+'tr/intr optional -cu: bruise':
+- curuko
+'tr/intr optional -cu: burn':
+- yake
+'tr/intr optional -cu: center':
+- centro
+'tr/intr optional -cu: close':
+- klosi
+'tr/intr optional -cu: combine':
+- kombina
+'tr/intr optional -cu: contract':
+- krampe
+'tr/intr optional -cu: contrast':
+- kontraste
+'tr/intr optional -cu: convect':
+- deylyu
+'tr/intr optional -cu: crack':
+- daraki
+'tr/intr optional -cu: cycle':
+- cuki
+'tr/intr optional -cu: digest':
+- hazam
+'tr/intr optional -cu: dissolve':
+- solusi
+'tr/intr optional -cu: dive':
+- gotas
+'tr/intr optional -cu: flood':
+- sela
+'tr/intr optional -cu: form':
+- forma
+'tr/intr optional -cu: fossilize':
+- fosil
+'tr/intr optional -cu: fracture':
+- guje
+'tr/intr optional -cu: froth':
+- pena
+'tr/intr optional -cu: incline':
+- meylu
+'tr/intr optional -cu: ionize':
+- yoni
+'tr/intr optional -cu: knot':
+- girehe
+'tr/intr optional -cu: liquify':
+- likwido
+'tr/intr optional -cu: lubricate':
+- lubrika
+'tr/intr optional -cu: metabolize':
+- metabolis
+'tr/intr optional -cu: mirror':
+- ayna
+'tr/intr optional -cu: move':
+- harka
+'tr/intr optional -cu: open':
+- buka
+'tr/intr optional -cu: originate':
+- asel
+'tr/intr optional -cu: play':
+- pley
+'tr/intr optional -cu: pool':
+- birke
+'tr/intr optional -cu: project':
+- proyeksi
+'tr/intr optional -cu: pulverize':
+- pudra
+'tr/intr optional -cu: puree':
+- pure
+'tr/intr optional -cu: radiate':
+- radya
+'tr/intr optional -cu: rotate':
+- rota
+'tr/intr optional -cu: scar':
+- xanhun
+'tr/intr optional -cu: shake':
+- treme
+'tr/intr optional -cu: solidify':
+- guti
+'tr/intr optional -cu: steam':
+- buhar
+'tr/intr optional -cu: swing':
+- urjuha
+'tr/intr optional -cu: synchronize':
+- sinkroniza
+'tr/intr optional -cu: tear':
+- ciru
+'tr/intr optional -cu: transform':
+- aloforma
+'tr/intr optional -cu: turn':
+- jwan
+'tr/intr optional -cu: twist':
+- espiral
+'tr/intr optional -cu: ulcerate':
+- ulcera
+'tr/intr optional -cu: undulate':
+- moja
+'tr/intr optional -cu: vibrate':
+- vibra
+'tr/intr optional -cu: wrinkle':
+- oruga
+'tr/intr optional -cu: zigzag':
 - zigzagu
 'tr: adapt':
 - adate
@@ -28259,14 +28925,30 @@ tr:
 - lawfen
 'tr: burn':
 - atex
+'tr: cause a panic attack':
+- panikokrisis
 'tr: cause arthritis':
 - artroitis
 'tr: cause asthma':
 - astama
+'tr: cause cancer':
+- kancer
+'tr: cause cataracts':
+- katarata
+'tr: cause cholera':
+- kolera
+'tr: cause cholesterol':
+- kolesterol
+'tr: cause colds':
+- zukam
 'tr: cause diabetes':
 - dyabetes
+'tr: cause diarrhea':
+- ishal
 'tr: cause disgust':
 - ufue
+'tr: cause encephalitis':
+- mogeitis
 'tr: cause epilepsy':
 - epilepsi
 'tr: cause gonorrhea':
@@ -28275,16 +28957,36 @@ tr:
 - ganzoitis
 'tr: cause herpes':
 - herpes
+'tr: cause hypothermia':
+- infratermo
+'tr: cause influenza':
+- influenza
+'tr: cause leprosy':
+- juzam
+'tr: cause malaria':
+- malarya
+'tr: cause mania':
+- manika
+'tr: cause measles':
+- majin
 'tr: cause pneumonia':
 - fefuitis
+'tr: cause rheumatism':
+- rewmati
 'tr: cause rubella':
 - funjin
 'tr: cause schizophrenia':
 - eskizofreni
 'tr: cause scurvy':
 - eskorbuto
+'tr: cause somebody to be in a coma':
+- koma
+'tr: cause to be in a coma':
+- koma
 'tr: cause to turn gaseous':
 - gas
+'tr: cause tumors':
+- tumor
 'tr: cause vertigo':
 - cakare
 'tr: charm':
@@ -28333,6 +29035,8 @@ tr:
 - inxo
 'tr: infect':
 - enfeksi
+'tr: infect with a virus':
+- virus
 'tr: inflame':
 - itis
 'tr: inspire':
@@ -28382,10 +29086,14 @@ tr:
 - paniko
 'tr: paralyze':
 - paralisi
+'tr: pathologize':
+- osis
 'tr: pause':
 - wakufa
 'tr: pleasure':
 - furaha
+'tr: put in a coma':
+- inkoma
 'tr: ruin':
 - harabu
 'tr: set on fire':
@@ -28398,6 +29106,10 @@ tr:
 - estimula
 'tr: stop':
 - esto
+'tr: stress':
+- estres
+'tr: stress out':
+- estres
 'tr: surprise':
 - surprisa
 'tr: surrender':
@@ -28406,6 +29118,8 @@ tr:
 - conlyoku
 'tr: tire':
 - pilo
+'tr: traumatize':
+- trawma
 'tr: validate':
 - yukyo
 'tr: worry':
@@ -28539,7 +29253,14 @@ trash:
 trauma:
 - trawma
 traumatic:
+- trawmane
 - trawmapul
+traumatize:
+- trawma
+traumatized:
+- trawmado
+traumatizing:
+- trawmane
 travel:
 - dao
 - turi
@@ -28594,6 +29315,8 @@ tremble:
 - treme
 trembling:
 - treme
+- tremecune
+- tremene
 trench:
 - handaki
 trend:
@@ -28808,6 +29531,9 @@ turn out to be:
 - finsen
 turned:
 - jwando
+turning:
+- jwancune
+- jwanne
 turnip:
 - xalgam
 turtle:
@@ -29003,10 +29729,16 @@ unblockable:
 - blokinenible
 unblockably:
 - blokinenible
+unbreakable:
+- kasirucunenabil
+- kasirunenabil
+- kasirunenible
 unburden:
 - posfuha
 unburdening:
 - posfuha
+unburnable:
+- atexnenible
 unbutton:
 - posbuton
 unbuttoning:
@@ -29109,6 +29841,8 @@ unfasten:
 - posbinde
 unfastening:
 - posbinde
+unfocussed:
+- fokuskal
 unfortunate:
 - burxanseli
 - burxansepul
@@ -29215,6 +29949,8 @@ unluckily:
 - xansebur
 unlucky:
 - xansebur
+unmarried:
+- gamikal
 unmask:
 - posmasku
 unmasking:
@@ -29490,6 +30226,7 @@ variant:
 - versyon
 variety:
 - doyanya
+- genixube
 variola:
 - cecake
 various:
@@ -29563,6 +30300,8 @@ venom:
 - dokya
 ventral:
 - fubuli
+ventrum:
+- fubu
 venture:
 - aventur
 venus:
@@ -29620,6 +30359,9 @@ vial:
 - vyalu
 vibrate:
 - vibra
+vibrating:
+- vibracune
+- vibrane
 vibration:
 - vibra
 vice:
@@ -30501,11 +31243,12 @@ worried:
 - yolyudo
 worrisome:
 - ansyafil
-- yolyune
 - yolyufil
+- yolyune
 worry:
 - yolyu
 worrying:
+- yolyucune
 - yolyune
 worrywart:
 - yolyufilyen
@@ -30514,6 +31257,8 @@ worsen:
 - maxburgi
 worship:
 - ibada
+worship idols:
+- idolibada
 worshiper:
 - ibadayen
 worshipper:
@@ -30779,6 +31524,7 @@ zig-zag:
 zigzag:
 - zigzagu
 zigzagging:
+- zigzagucune
 - zigzagune
 zimbabwe:
 - zimbabwe

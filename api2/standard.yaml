@@ -1883,7 +1883,7 @@ absorbi:
   trans:
     eng:
     - - absorption
-    - - 'tr/intr: absorb'
+    - - 'tr/intr (optional -cu): absorb'
     epo:
     - - sorbo
       - absorbo
@@ -2183,10 +2183,6 @@ acidihamir:
     - acidi
     - +
     - hamir
-    natlang similar:
-      Doycisa: Sauerteig
-      Englisa: sourdough
-      Turkisa: ekşi hamur
 acidije:
   term: acidije
   word class: b
@@ -2260,9 +2256,6 @@ acidiroti:
     - acidi
     - +
     - roti
-    natlang similar:
-      Indonesisa: roti asam
-      Parsisa: نان خمیر ترش
 acidiya:
   term: acidiya
   word class: b
@@ -2622,7 +2615,7 @@ adate:
     eng:
     - - adaptation
     - - 'tr: adapt'
-    - - 'intr: adapt (oneself)'
+    - - 'intr (optional -cu): adapt (oneself)'
     epo:
     - - adapto
     - - adaptiĝi
@@ -2650,13 +2643,53 @@ adate:
       Indonesisa: adaptasi
       Rusisa: адаптировать &ldquo;adaptirovat&rdquo;
       Turkisa: adapte
+adateabil:
+  term: adateabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - adaptable (<em>which can adapt</em>)
+    epo:
+    - - adaptiĝema
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - adate
+    - +
+    - -abil
+adatecuabil:
+  term: adatecuabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - adaptable (<em>which can adapt</em>)
+    epo:
+    - - adaptiĝema
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - adate
+    - +
+    - -cu
+    - +
+    - -abil
 adateible:
   term: adateible
   word class: t
   category: derived
   trans:
     eng:
-    - - adaptable
+    - - adaptable (<em>which can be adapted</em>)
     epo:
     - - adaptebla
     - - adapteble
@@ -2737,7 +2770,7 @@ adhesi:
   trans:
     eng:
     - - adhesion
-    - - 'tr/intr: adhere'
+    - - 'tr/intr (optional -cu): adhere'
       - stick
     epo:
     - - adhero
@@ -2796,6 +2829,56 @@ adhesiabil:
     - adhesi
     - +
     - -abil
+adhesicuabil:
+  term: adhesicuabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - adhesive
+      - sticky
+    epo:
+    - - adhera
+    - - adhere
+    spa:
+    - - adhesivo
+      - pegajoso
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - adhesi
+    - +
+    - -cu
+    - +
+    - -abil
+adhesicune:
+  term: adhesicune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - adhesive
+      - sticky
+    epo:
+    - - adhera
+    - - adhere
+    spa:
+    - - adhesivo
+      - pegajoso
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - adhesi
+    - +
+    - -cu
+    - +
+    - -ne
 adhesiente:
   term: adhesiente
   word class: b
@@ -3512,7 +3595,7 @@ afganili:
     zho: []
   etymology:
     derived:
-    - Afgani
+    - afgani
     - +
     - -li
 afganiyen:
@@ -3533,7 +3616,7 @@ afganiyen:
     zho: []
   etymology:
     derived:
-    - Afgani
+    - afgani
     - +
     - -yen
 afrika:
@@ -3590,7 +3673,7 @@ afrikali:
     zho: []
   etymology:
     derived:
-    - Afrika
+    - afrika
     - +
     - -li
 afrikanse:
@@ -3633,7 +3716,7 @@ afrikansesa:
     zho: []
   etymology:
     derived:
-    - Afrikanse
+    - afrikanse
     - +
     - -sa
 afrikanseyen:
@@ -3656,7 +3739,7 @@ afrikanseyen:
     zho: []
   etymology:
     derived:
-    - Afrikanse
+    - afrikanse
     - +
     - -yen
 afrikayen:
@@ -3679,7 +3762,7 @@ afrikayen:
     zho: []
   etymology:
     derived:
-    - Afrika
+    - afrika
     - +
     - -yen
 afsane:
@@ -4468,7 +4551,7 @@ akileli:
     - - 阿喀琉斯式的
   etymology:
     derived:
-    - Akile
+    - akile
     - +
     - -li
 akiletendon:
@@ -4494,7 +4577,7 @@ akiletendon:
       - 阿基里斯腱
   etymology:
     derived:
-    - Akile
+    - akile
     - +
     - tendon
 akne:
@@ -4921,8 +5004,6 @@ aksetyan:
     - akse
     - +
     - tyan
-    natlang similar:
-      Swahilisa: majiranukta
 aksyoma:
   term: aksyoma
   word class: b
@@ -5888,7 +5969,7 @@ alkohol:
   trans:
     eng:
     - - alcohol
-    - - 'tr/intr: alcoholize'
+    - - 'tr/intr (optional -cu): alcoholize'
     epo:
     - - alkoholo
     - - alkoholizi
@@ -6295,7 +6376,7 @@ aloforma:
   trans:
     eng:
     - - transformation
-    - - 'tr/intr: transform'
+    - - 'tr/intr (optional -cu): transform'
     epo:
     - - aliformiĝo
       - metamorfozo
@@ -7197,7 +7278,7 @@ amarali:
     zho: []
   etymology:
     derived:
-    - Amara
+    - amara
     - +
     - -li
 amarasa:
@@ -7217,7 +7298,7 @@ amarasa:
     zho: []
   etymology:
     derived:
-    - Amara
+    - amara
     - +
     - -sa
 amarayen:
@@ -7238,7 +7319,7 @@ amarayen:
     zho: []
   etymology:
     derived:
-    - Amara
+    - amara
     - +
     - -yen
 amaro:
@@ -7335,7 +7416,7 @@ ambisi:
     eng:
     - - ambition
     - - 'tr: make (somebody) ambitious'
-    - - 'intr: be ambitious'
+    - - 'intr (optional -cu): be ambitious'
       - aspire (to)
     epo:
     - - ambicio
@@ -7361,6 +7442,27 @@ ambisi:
       Indonesisa: ambisi
       Magyarsa: amb&iacute;ci&oacute;
       Rusisa: амбиция &ldquo;ambitsiya&rdquo;
+ambisicune:
+  term: ambisicune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - aspiring
+    epo:
+    - - aspiranta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - ambisi
+    - +
+    - -cu
+    - +
+    - -ne
 ambisifil:
   term: ambisifil
   word class: t
@@ -7412,6 +7514,25 @@ ambisikal:
     - ambisi
     - +
     - -kal
+ambisine:
+  term: ambisine
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - aspiring
+    epo:
+    - - aspiranta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - ambisi
+    - +
+    - -ne
 ambisinenfil:
   term: ambisinenfil
   word class: t
@@ -7595,7 +7716,7 @@ amerikali:
     zho: []
   etymology:
     derived:
-    - Amerika
+    - amerika
     - +
     - -li
 amerikayen:
@@ -7619,7 +7740,7 @@ amerikayen:
     zho: []
   etymology:
     derived:
-    - Amerika
+    - amerika
     - +
     - -yen
 amerikyum:
@@ -8118,7 +8239,7 @@ amusa:
       - fun
     - - 'tr: amuse'
       - entertain
-    - - 'intr: have fun'
+    - - 'intr (optional -cu): have fun'
       - feel/be amused
       - feel/be entertained
     epo:
@@ -8215,6 +8336,28 @@ amusaparke:
     - amusa
     - +
     - parke
+amusapul:
+  term: amusapul
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - fun (<em>day, etc.</em>)
+      - amused
+      - entertained
+    epo:
+    - - amuza
+      - amuzita
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - amusa
+    - +
+    - -pul
 amusaxey:
   term: amusaxey
   word class: b
@@ -9240,7 +9383,7 @@ angolali:
     zho: []
   etymology:
     derived:
-    - Angola
+    - angola
     - +
     - -li
 angolayen:
@@ -9262,7 +9405,7 @@ angolayen:
     zho: []
   etymology:
     derived:
-    - Angola
+    - angola
     - +
     - -yen
 anima:
@@ -9612,7 +9755,7 @@ ansya:
     eng:
     - - anxiety
     - - 'tr: make (somebody) anxious'
-    - - 'intr: feel/be anxious'
+    - - 'intr (optional -cu): feel/be anxious'
     epo:
     - - anksio
     spa:
@@ -9827,6 +9970,29 @@ anti-:
   etymology:
     am oko:
       anti: anti
+antiatexli:
+  term: antiatexli
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - antifire
+      - fireproof
+    epo:
+    - - kontraŭfajra
+      - nebruligebla
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - anti-
+    - +
+    - atex
+    - +
+    - -li
 antibakuterili:
   term: antibakuterili
   word class: t
@@ -10285,7 +10451,7 @@ anwi:
     - - 'tr: comfort'
       - console
       - cheer (up)
-    - - 'intr: feel/be comforted'
+    - - 'intr (optional -cu): feel/be comforted'
       - feel/be consoled
       - cheer (up)
     epo:
@@ -10516,7 +10682,7 @@ aplika:
     eng:
     - - application
     - - 'tr: apply (<em>bring or put into operation or practical use</em>)'
-    - - 'intr: be applicable (to)'
+    - - 'intr (optional -cu): be applicable (to)'
     epo:
     - - apliko
     - - apliki
@@ -10720,7 +10886,7 @@ arabili:
     zho: []
   etymology:
     derived:
-    - Arabi
+    - arabi
     - +
     - -li
 arabisa:
@@ -10740,7 +10906,7 @@ arabisa:
     zho: []
   etymology:
     derived:
-    - Arabi
+    - arabi
     - +
     - -sa
 arabiyen:
@@ -10760,7 +10926,7 @@ arabiyen:
     zho: []
   etymology:
     derived:
-    - Arabi
+    - arabi
     - +
     - -yen
 arafura:
@@ -10855,7 +11021,7 @@ aramsa:
       - 亚兰文
   etymology:
     derived:
-    - Aram
+    - aram
     - +
     - -sa
 arcivo:
@@ -11112,7 +11278,7 @@ argentinali:
     zho: []
   etymology:
     derived:
-    - Argentina
+    - argentina
     - +
     - -li
 argentinayen:
@@ -11135,7 +11301,7 @@ argentinayen:
     zho: []
   etymology:
     derived:
-    - Argentina
+    - argentina
     - +
     - -yen
 argon:
@@ -12073,7 +12239,7 @@ artroitis:
     eng:
     - - arthritis
     - - 'tr: cause arthritis'
-    - - 'intr: have arthritis'
+    - - 'intr (optional -cu): have arthritis'
       - be arthritic
     epo:
     - - artrito
@@ -12311,7 +12477,7 @@ asel:
     eng:
     - - origin
       - source
-    - - 'tr/intr: originate'
+    - - 'tr/intr (optional -cu): originate'
     epo:
     - - deveno
     - - deveni
@@ -12330,6 +12496,27 @@ asel:
       Indonesisa: asal
       Parsisa: اصل &ldquo;asl&rdquo;
       Swahilisa: asili
+aselcune:
+  term: aselcune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - originating
+    epo:
+    - - devenanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - asel
+    - +
+    - -cu
+    - +
+    - -ne
 aselli:
   term: aselli
   word class: t
@@ -12357,6 +12544,25 @@ aselli:
     - asel
     - +
     - -li
+aselne:
+  term: aselne
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - originating
+    epo:
+    - - devenanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - asel
+    - +
+    - -ne
 aselpul:
   term: aselpul
   word class: t
@@ -12469,7 +12675,7 @@ asiali:
     zho: []
   etymology:
     derived:
-    - Asia
+    - asia
     - +
     - -li
 asiayen:
@@ -12490,7 +12696,7 @@ asiayen:
     zho: []
   etymology:
     derived:
-    - Asia
+    - asia
     - +
     - -yen
 asif:
@@ -12885,7 +13091,7 @@ astama:
     eng:
     - - asthma
     - - 'tr: cause asthma'
-    - - 'intr: have asthma'
+    - - 'intr (optional -cu): have asthma'
       - be asthmatic
     epo:
     - - astmo
@@ -13292,7 +13498,7 @@ atex:
     - - fire
     - - 'tr: burn (<em>destroy with fire</em>)'
       - light (<em>with fire</em>)
-    - - 'intr: burn (<em>be on fire, be consumed by fire</em>)'
+    - - 'intr (optional -cu): burn (<em>be on fire, be consumed by fire</em>)'
     epo:
     - - fajro
     - - fajri (<em>konsumiĝi de fajro</em>)
@@ -13312,6 +13518,51 @@ atex:
       Hindi: आतिश &ldquo;ātiś&rdquo;
       Parsisa: آتش &ldquo;&acirc;ta&scaron;&rdquo;
       Turkisa: ateş
+atexcune:
+  term: atexcune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - burning
+    epo:
+    - - fajra
+      - brulanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - atex
+    - +
+    - -cu
+    - +
+    - -ne
+atexcunenabil:
+  term: atexcunenabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - fireproof
+    epo:
+    - - nebruliĝema
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - atex
+    - +
+    - -cu
+    - +
+    - nen-
+    - +
+    - -abil
 atexdom:
   term: atexdom
   word class: b
@@ -13353,6 +13604,69 @@ atexmon:
     - atex
     - +
     - -mon
+atexne:
+  term: atexne
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - burning
+    epo:
+    - - fajra
+      - brulanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - atex
+    - +
+    - -ne
+atexnenabil:
+  term: atexnenabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - fireproof
+    epo:
+    - - nebruliĝema
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - atex
+    - +
+    - nen-
+    - +
+    - -abil
+atexnenible:
+  term: atexnenible
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - unburnable
+      - fireproof
+    epo:
+    - - nebruligebla
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - atex
+    - +
+    - nen-
+    - +
+    - -ible
 atinyum:
   term: atinyum
   word class: b
@@ -14263,8 +14577,6 @@ awbujo:
     - aw-
     - +
     - bujo
-    natlang similar:
-      Doycisa: entf&uuml;hren
 awcu:
   term: awcu
   word class: b.nenoj
@@ -14933,8 +15245,6 @@ awsenjenmin:
     - sen
     - +
     - jenmin
-    natlang similar:
-      Putunhwa: 不在场证明 &ldquo;budzaycangjengming&rdquo;
 awsenli:
   term: awsenli
   word class: t
@@ -15069,7 +15379,7 @@ awstralili:
     zho: []
   etymology:
     derived:
-    - Awstrali
+    - awstrali
     - +
     - -li
 awstraliyen:
@@ -15091,7 +15401,7 @@ awstraliyen:
     zho: []
   etymology:
     derived:
-    - Awstrali
+    - awstrali
     - +
     - -yen
 awtenti:
@@ -15979,7 +16289,7 @@ ayna:
   trans:
     eng:
     - - mirror
-    - - 'tr/intr: mirror'
+    - - 'tr/intr (optional -cu): mirror'
       - reflect
     epo:
     - - spegulo
@@ -16221,11 +16531,6 @@ aysenahir:
     - ayse
     - +
     - nahir
-    natlang similar:
-      Koreasa: 빙하
-      Niponsa: 冰河
-      Putunhwa: 冰川, 冰河
-      Vyetnamsa: s&ocirc;ng băng, băng h&agrave;
 aysepul:
   term: aysepul
   word class: t
@@ -16288,7 +16593,7 @@ azerbayjanli:
     zho: []
   etymology:
     derived:
-    - Azerbayjan
+    - azerbayjan
     - +
     - -li
 azerbayjansa:
@@ -16311,7 +16616,7 @@ azerbayjansa:
     zho: []
   etymology:
     derived:
-    - Azerbayjan
+    - azerbayjan
     - +
     - -sa
 azerbayjanyen:
@@ -16334,7 +16639,7 @@ azerbayjanyen:
     zho: []
   etymology:
     derived:
-    - Azerbayjan
+    - azerbayjan
     - +
     - -yen
 azizu:
@@ -16880,7 +17185,7 @@ bahamayen:
     zho: []
   etymology:
     derived:
-    - Bahama
+    - bahama
     - +
     - -yen
 bahari:
@@ -16928,7 +17233,7 @@ bahari_antartiko:
     derived:
     - bahari
     - ','
-    - Antartiko
+    - antartiko
 bahari_artiko:
   term: Bahari Artiko
   word class: b
@@ -16950,7 +17255,7 @@ bahari_artiko:
     derived:
     - bahari
     - ','
-    - Artiko
+    - artiko
 bahari_atlantiko:
   term: Bahari Atlantiko
   word class: b
@@ -16972,7 +17277,7 @@ bahari_atlantiko:
     derived:
     - bahari
     - ','
-    - Atlantiko
+    - atlantiko
 bahari_hindiko:
   term: Bahari Hindiko
   word class: b
@@ -16993,7 +17298,7 @@ bahari_hindiko:
     derived:
     - bahari
     - ','
-    - Hindiko
+    - hindiko
 bahari_pacifiko:
   term: Bahari Pacifiko
   word class: b
@@ -17015,7 +17320,7 @@ bahari_pacifiko:
     derived:
     - bahari
     - ','
-    - Pacifiko
+    - pacifiko
 bahariestare:
   term: bahariestare
   word class: b
@@ -17066,10 +17371,6 @@ baharigardan:
     - bahari
     - +
     - gardan
-    natlang similar:
-      Doycisa: Meerenge
-      Hindi: जलडमरूमध्य
-      Turkisa: boğaz
 baharigebo:
   term: baharigebo
   word class: b
@@ -17094,8 +17395,6 @@ baharigebo:
     - bahari
     - +
     - gebo
-    natlang similar:
-      Fransesa: bras de mer
 baharikacupa:
   term: baharikacupa
   word class: b
@@ -17271,7 +17570,7 @@ bahraynyen:
     zho: []
   etymology:
     derived:
-    - Bahrayn
+    - bahrayn
     - +
     - -yen
 baji:
@@ -17335,9 +17634,6 @@ bakalao:
       Arabisa: بَقَلَة &ldquo;baqala&rdquo;
       Espanisa: bacalao
       Pilipinasa: bakalaw
-    natlang similar:
-      Doycisa: Kabeljau
-      Fransesa: cabillaud
 bakugamon:
   term: bakugamon
   word class: b
@@ -17428,11 +17724,6 @@ bakxixi:
       Parsisa: بخشیش &ldquo;bax&scaron;i&scaron;&rdquo;
       Swahilisa: bakshishi
       Turkisa: bahşiş
-    natlang similar:
-      Doycisa: Bakschisch
-      Englisa: baksheesh
-      Fransesa: bakchich
-      Rusisa: бакшиш &ldquo;bakxix&rdquo;
 bala:
   term: bala
   word class: t
@@ -17561,8 +17852,6 @@ balangu:
     natlang:
       Indonesisa: belalang
       Pilipinasa: balang
-    natlang similar:
-      Espanisa: langosta
 balaxey:
   term: balaxey
   word class: b
@@ -18304,7 +18593,7 @@ bangladexa:
     zho: []
   etymology:
     derived:
-    - Bangla
+    - bangla
     - +
     - dexa
     natlang:
@@ -18326,7 +18615,7 @@ banglali:
     zho: []
   etymology:
     derived:
-    - Bangla
+    - bangla
     - +
     - -li
 banglasa:
@@ -18346,7 +18635,7 @@ banglasa:
     zho: []
   etymology:
     derived:
-    - Bangla
+    - bangla
     - +
     - -sa
 banglayen:
@@ -18366,7 +18655,7 @@ banglayen:
     zho: []
   etymology:
     derived:
-    - Bangla
+    - bangla
     - +
     - -yen
 bangura:
@@ -19116,7 +19405,7 @@ baratili:
     zho: []
   etymology:
     derived:
-    - Barati
+    - barati
     - +
     - -li
 baratiyen:
@@ -19136,7 +19425,7 @@ baratiyen:
     zho: []
   etymology:
     derived:
-    - Barati
+    - barati
     - +
     - -yen
 barbado:
@@ -19180,7 +19469,7 @@ barbadoyen:
     zho: []
   etymology:
     derived:
-    - Barbado
+    - barbado
     - +
     - -yen
 barbara:
@@ -19378,7 +19667,7 @@ bardi:
     - - 'tr: chill'
       - cool (down)
       - make cold
-    - - 'intr: feel/be cold'
+    - - 'intr (optional -cu): feel/be cold'
       - cool (down)
     epo:
     - - malvarmo
@@ -19397,6 +19686,25 @@ bardi:
     natlang:
       Arabisa: البرد &ldquo;bard&rdquo;
       Swahilisa: baridi
+bardiabil:
+  term: bardiabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - cooling
+    epo:
+    - - malvarmiga
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - bardi
+    - +
+    - -abil
 bardiday:
   term: bardiday
   word class: t
@@ -19462,6 +19770,25 @@ bardimosem:
     - bardi
     - +
     - -mosem
+bardine:
+  term: bardine
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - cooling
+    epo:
+    - - malvarmiga
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - bardi
+    - +
+    - -ne
 bardipul:
   term: bardipul
   word class: t
@@ -19660,9 +19987,6 @@ barixababil:
     - ababil
     natlang:
       Turkisa: ebabil
-    natlang similar:
-      Niponsa: 雨燕
-      Putunhwa: 雨燕
 barixkalya:
   term: barixkalya
   word class: b
@@ -20173,7 +20497,7 @@ basi:
       - base
       - foundation
     - - 'tr: base'
-    - - 'intr: be based'
+    - - 'intr (optional -cu): be based'
     epo:
     - - bazo
     - - bazi
@@ -20603,10 +20927,6 @@ batizaatre:
     - batiza
     - +
     - atre
-    natlang similar:
-      Doycisa: Taufpate
-      Indonesisa: ibu baptis
-      Turkisa: vaftiz baba
 batizali:
   term: batizali
   word class: t
@@ -20749,7 +21069,7 @@ bawlu:
     - - violence
     - - 'tr: make violent'
       - cause to be violent
-    - - 'intr: be violent'
+    - - 'intr (optional -cu): be violent'
     epo:
     - - perforto
       - violento
@@ -21112,12 +21432,6 @@ baxjungwi:
     - bax-
     - +
     - jungwi
-    natlang similar:
-      Fransesa: sous-lieutenant
-      Koreasa: 소위
-      Niponsa: 少尉
-      Putunhwa: 少尉
-      Vyetnamsa: thiếu u&yacute;
 baxli:
   term: baxli
   word class: t
@@ -22111,7 +22425,7 @@ belarussa:
     zho: []
   etymology:
     derived:
-    - Belarus
+    - belarus
     - +
     - -sa
 belaw:
@@ -22180,7 +22494,7 @@ belgili:
     zho: []
   etymology:
     derived:
-    - Belgi
+    - belgi
     - +
     - -li
 belgiyen:
@@ -22202,7 +22516,7 @@ belgiyen:
     zho: []
   etymology:
     derived:
-    - Belgi
+    - belgi
     - +
     - -yen
 belinshawsen:
@@ -22280,7 +22594,7 @@ belizeyen:
     zho: []
   etymology:
     derived:
-    - Belize
+    - belize
     - +
     - -yen
 belo:
@@ -22492,8 +22806,9 @@ bembi:
     - - constipation
     - - 'tr: constipate'
       - cause constipation
-    - - 'intr: be constipated'
-      - have constipation
+    - - 'intr (optional -cu): have constipation'
+      - suffer from constipation
+      - be constipated
     epo:
     - - konstipo
       - mallakso
@@ -22699,9 +23014,6 @@ benge:
       Koreasa: 핑계 &ldquo;pinggye&rdquo;
       Niponsa: 弁解 &ldquo;benkai&rdquo;
       Putunhwa: 辩解 &ldquo;byenjye&rdquo;
-    natlang similar:
-      Parsisa: بهانه &ldquo;bah&acirc;ne&rdquo;
-      Turkisa: bahane
 benin:
   term: Benin
   word class: su n
@@ -22741,7 +23053,7 @@ beninyen:
     zho: []
   etymology:
     derived:
-    - Benin
+    - benin
     - +
     - -yen
 benji:
@@ -24470,7 +24782,7 @@ birke:
     eng:
     - - pool
       - puddle
-    - - 'tr/intr: pool'
+    - - 'tr/intr (optional -cu): pool'
     epo:
     - - flako
     - - flakiĝi
@@ -25232,9 +25544,6 @@ blueberi:
       Parsisa: بلوبری &ldquo;bluberi&rdquo;
       Swahilisa: buluuberi
       Telugusa: బ్లూబెర్రీ &ldquo;bluberi&rdquo;
-    natlang similar:
-      Putunhwa: 藍莓
-      Vyetnamsa: việt quất xanh
 blueya:
   term: blueya
   word class: b
@@ -26755,7 +27064,7 @@ borosa:
     zho: []
   etymology:
     derived:
-    - Boro
+    - boro
     - +
     - -sa
 boroyen:
@@ -26778,7 +27087,7 @@ boroyen:
     zho: []
   etymology:
     derived:
-    - Boro
+    - boro
     - +
     - -yen
 borsuke:
@@ -27017,22 +27326,6 @@ boti:
     natlang:
       Botisa: བོད &ldquo;Po, Bod&rdquo;
       Hindi: भोट &ldquo;Bot&rdquo;
-    natlang similar:
-      Arabisa: التِّبِت &ldquo;at-tibit&rdquo;, تُبَّت &ldquo;tubbat&rdquo;
-      Doycisa: Tibet
-      Englisa: Tibet
-      Espanisa: T&iacute;bet
-      Fransesa: Tibet
-      Hindi: तिब्बत &ldquo;Tibat&rdquo;
-      Indonesisa: Tibet
-      Koreasa: 티베트 &ldquo;Tibetu&rdquo;
-      Niponsa: チベット &ldquo;Cibeto&rdquo;
-      Parsisa: تبت &ldquo;Tebbet, Tabbat&rdquo;
-      Putunhwa: 吐蕃 &ldquo;Tubwo&rdquo; - guxi
-      Rusisa: Тибет &ldquo;Tibet&rdquo;
-      Swahilisa: Tibet
-      Telugusa: తిబెట్ &ldquo;Tibet&rdquo;
-      Turkisa: Tibet
 botswana:
   term: Botswana
   word class: su n
@@ -27221,7 +27514,7 @@ boyle:
   trans:
     eng:
     - - boil
-    - - 'tr/intr: boil'
+    - - 'tr/intr (optional -cu): boil'
     epo:
     - - bolo
     - - boli
@@ -27250,6 +27543,29 @@ boyle:
       Telugusa: బాయిలర్ &ldquo;baylar&rdquo;
     am kompara:
       lide: lide
+boylecune:
+  term: boylecune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - boiling
+    epo:
+    - - bolanta
+    spa:
+    - - hirviendo
+      - en ebullición
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - boyle
+    - +
+    - -cu
+    - +
+    - -ne
 boyledo:
   term: boyledo
   word class: t
@@ -27414,7 +27730,7 @@ boysenberi:
     zho: []
   etymology:
     derived:
-    - Boysen
+    - boysen
     - +
     - beri
 bozi:
@@ -27689,7 +28005,7 @@ brazilli:
     zho: []
   etymology:
     derived:
-    - Brazil
+    - brazil
     - +
     - -li
 brazilyen:
@@ -27711,7 +28027,7 @@ brazilyen:
     zho: []
   etymology:
     derived:
-    - Brazil
+    - brazil
     - +
     - -yen
 brendan:
@@ -27934,7 +28250,7 @@ britili:
     zho: []
   etymology:
     derived:
-    - Briti
+    - briti
     - +
     - -li
 britiyen:
@@ -27956,7 +28272,7 @@ britiyen:
     zho: []
   etymology:
     derived:
-    - Briti
+    - briti
     - +
     - -yen
 broda:
@@ -28391,7 +28707,7 @@ budaismo:
     zho: []
   etymology:
     derived:
-    - Buda
+    - buda
     - +
     - -ismo
 budaista:
@@ -28414,7 +28730,7 @@ budaista:
     zho: []
   etymology:
     derived:
-    - Buda
+    - buda
     - +
     - -ista
 budu:
@@ -28458,7 +28774,7 @@ bududin:
     zho: []
   etymology:
     derived:
-    - Budu
+    - budu
     - +
     - -din
 bufeti:
@@ -28503,7 +28819,7 @@ buhar:
     eng:
     - - steam
       - vapor
-    - - 'tr/intr: steam'
+    - - 'tr/intr (optional -cu): steam'
     epo:
     - - vaporo
     - - vaporkuiri
@@ -28668,7 +28984,7 @@ buka:
   trans:
     eng:
     - - opening
-    - - 'tr/intr: open'
+    - - 'tr/intr (optional -cu): open'
     epo:
     - - malfermo
     - - malfermi
@@ -28684,6 +29000,27 @@ buka:
     natlang:
       Indonesisa: buka
       Pilipinasa: buka, buksan, ibukas
+bukacune:
+  term: bukacune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - opening
+    epo:
+    - - malfermanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - buka
+    - +
+    - -cu
+    - +
+    - -ne
 bukado:
   term: bukado
   word class: t
@@ -28694,6 +29031,7 @@ bukado:
     - - openly
     epo:
     - - malferma
+      - malfermita
     - - malferme
     spa:
     - - abierto
@@ -28706,6 +29044,25 @@ bukado:
     - buka
     - +
     - -do
+bukane:
+  term: bukane
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - opening
+    epo:
+    - - malfermanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - buka
+    - +
+    - -ne
 bukaxey:
   term: bukaxey
   word class: b
@@ -28833,7 +29190,7 @@ buleli:
     zho: []
   etymology:
     derived:
-    - Bule
+    - bule
     - +
     - -li
 bulevar:
@@ -28909,7 +29266,7 @@ bulgarisa:
     zho: []
   etymology:
     derived:
-    - Bulgari
+    - bulgari
     - +
     - -sa
 bulgariyen:
@@ -28931,7 +29288,7 @@ bulgariyen:
     zho: []
   etymology:
     derived:
-    - Bulgari
+    - bulgari
     - +
     - -yen
 bulyon:
@@ -30875,7 +31232,7 @@ cadili:
     zho: []
   etymology:
     derived:
-    - Cadi
+    - cadi
     - +
     - -li
 cadiyen:
@@ -30896,7 +31253,7 @@ cadiyen:
     zho: []
   etymology:
     derived:
-    - Cadi
+    - cadi
     - +
     - -yen
 cakal:
@@ -30945,11 +31302,14 @@ cakare:
       - dizziness
     - - 'tr: cause vertigo'
       - cause dizziness
-    - - 'intr: have vertigo'
+    - - 'intr (optional -cu): have vertigo'
       - be dizzy
     epo:
     - - kapturno
       - vertiĝo
+    - - kapturnigi
+    - - kapturniĝi
+      - vertiĝi
     spa:
     - - vértigo
       - mareo
@@ -30961,6 +31321,27 @@ cakare:
     natlang:
       Hindi: चक्कर &ldquo;cakkar&rdquo;
       Telugusa: చక్కర్ &ldquo;cakkar&rdquo;
+cakarene:
+  term: cakarene
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - dizzying
+    epo:
+    - - kapturniga
+    spa:
+    - - vertiginoso
+      - mareante
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - cakare
+    - +
+    - -ne
 cakarepul:
   term: cakarepul
   word class: t
@@ -31609,7 +31990,7 @@ carme:
       - enchantment
     - - 'tr: charm'
       - enchant
-    - - 'intr: feel/be charmed'
+    - - 'intr (optional -cu): feel/be charmed'
       - feel/be enchanted
     epo:
     - - ĉarmo
@@ -33035,7 +33416,7 @@ centro:
     eng:
     - - center
       - centre
-    - - 'tr/intr: center'
+    - - 'tr/intr (optional -cu): center'
       - centre
     epo:
     - - centro
@@ -33085,10 +33466,7 @@ centroafrika:
     derived:
     - centro
     - +
-    - Afrika
-    natlang similar:
-      Fransesa: Centrafrique
-      Sango: B&ecirc;afr&icirc;ka
+    - afrika
 centrodo:
   term: centrodo
   word class: t
@@ -33347,7 +33725,7 @@ cernagorali:
     zho: []
   etymology:
     derived:
-    - Cernagora
+    - cernagora
     - +
     - -li
 cernagorasa:
@@ -33367,7 +33745,7 @@ cernagorasa:
     zho: []
   etymology:
     derived:
-    - Cernagora
+    - cernagora
     - +
     - -sa
 cernagorayen:
@@ -33389,7 +33767,7 @@ cernagorayen:
     zho: []
   etymology:
     derived:
-    - Cernagora
+    - cernagora
     - +
     - -yen
 ceryum:
@@ -33514,7 +33892,7 @@ ceskili:
     zho: []
   etymology:
     derived:
-    - Ceski
+    - ceski
     - +
     - -li
 ceskisa:
@@ -33534,7 +33912,7 @@ ceskisa:
     zho: []
   etymology:
     derived:
-    - Ceski
+    - ceski
     - +
     - -sa
 ceskiyen:
@@ -33556,7 +33934,7 @@ ceskiyen:
     zho: []
   etymology:
     derived:
-    - Ceski
+    - ceski
     - +
     - -yen
 cesyum:
@@ -33966,7 +34344,7 @@ cileli:
     zho: []
   etymology:
     derived:
-    - Cile
+    - cile
     - +
     - -li
 cileyen:
@@ -33988,7 +34366,7 @@ cileyen:
     zho: []
   etymology:
     derived:
-    - Cile
+    - cile
     - +
     - -yen
 cilindro:
@@ -34289,7 +34667,7 @@ cinon:
     - - intelligence
     - - 'tr: make intelligent'
       - cause to be intelligent
-    - - 'intr: be intelligent'
+    - - 'intr (optional -cu): be intelligent'
     epo:
     - - inteligenteco
       - inteligento
@@ -34744,7 +35122,7 @@ ciru:
     - - tear
       - rip
       - rend
-    - - 'tr/intr: tear'
+    - - 'tr/intr (optional -cu): tear'
       - rip
       - rend
     epo:
@@ -34991,11 +35369,6 @@ citrus:
       Indonesisa: sitrus
       Rusisa: цитрус &ldquo;tsitrus&rdquo;
       Telugusa: సిట్రస్ &ldquo;sitras&rdquo;
-    natlang similar:
-      Espanisa: c&iacute;trico
-      Parsisa: سیتریک &ldquo;sitrik&rdquo;
-      Swahilisa: sitriki
-      Turkisa: sitrik
 civil:
   term: civil
   word class: t
@@ -35317,7 +35690,7 @@ conlyoku:
     - - 'tr: tension'
       - tense
       - stretch
-    - - 'intr: tense'
+    - - 'intr (optional -cu): tense'
       - stretch
     epo:
     - - streĉo
@@ -36055,10 +36428,6 @@ cugaku:
       Niponsa: 触角 &ldquo;xokkaku&rdquo;
       Putunhwa: 触角 &ldquo;cujyaw&rdquo;
       Vyetnamsa: x&uacute;c gi&aacute;c
-    natlang similar:
-      Parsisa: شاخک &ldquo;xahak&rdquo;
-      Pilipinasa: sungot
-      Rusisa: сяжок &ldquo;syajok&rdquo;
 cuki:
   term: cuki
   word class: b.oro
@@ -36066,7 +36435,7 @@ cuki:
   trans:
     eng:
     - - cycle
-    - - 'tr/intr: cycle'
+    - - 'tr/intr (optional -cu): cycle'
     epo:
     - - ciklo
     - - cikligi
@@ -36291,11 +36660,9 @@ cungwodama:
     - - (中国)跳棋
   etymology:
     derived:
-    - Cungwo
+    - cungwo
     - +
     - dama
-    natlang similar:
-      Putunhwa: 中國跳棋
 cungwoli:
   term: Cungwoli
   word class: t
@@ -36317,7 +36684,7 @@ cungwoli:
     - - 中国的
   etymology:
     derived:
-    - Cungwo
+    - cungwo
     - +
     - -li
 cungwoyen:
@@ -36342,7 +36709,7 @@ cungwoyen:
     - - 中国人
   etymology:
     derived:
-    - Cungwo
+    - cungwo
     - +
     - -yen
 curuko:
@@ -36353,7 +36720,7 @@ curuko:
     eng:
     - - bruise
       - contusion
-    - - 'tr/intr: bruise'
+    - - 'tr/intr (optional -cu): bruise'
     epo:
     - - kontuzo
     - - kontuziĝi
@@ -37201,11 +37568,6 @@ dahunkabiji:
     - dahun
     - +
     - kabiji
-    natlang similar:
-      Englisa: leaf cabbage
-      Parsisa: کلم برگ
-      Rusisa: листовая капуста
-      Turkisa: yaprak lahana
 dahunxirani:
   term: dahunxirani
   word class: b
@@ -37236,10 +37598,6 @@ dahunxirani:
     - dahun
     - +
     - xirani
-    natlang similar:
-      Doycisa: Blattlaus
-      Indonesisa: kutu daun
-      Turkisa: yaprak biti
 daifu:
   term: daifu
   word class: t
@@ -37921,7 +38279,7 @@ danisa:
     - - 丹麦语
   etymology:
     derived:
-    - Dani
+    - dani
     - +
     - -sa
 daniyen:
@@ -37946,7 +38304,7 @@ daniyen:
     - - 丹麦人
   etymology:
     derived:
-    - Dani
+    - dani
     - +
     - -yen
 danju:
@@ -38523,7 +38881,7 @@ daraki:
       - slit
       - rift
       - cleft
-    - - 'tr/intr: crack'
+    - - 'tr/intr (optional -cu): crack'
     epo:
     - - fendo
       - fendaĵo
@@ -39257,7 +39615,7 @@ dawn:
     rus:
     - - Даун
     zho:
-    - - 唐 (名)
+    - - 唐 (名字)
   etymology:
     natlang:
       Englisa: Down
@@ -39382,10 +39740,6 @@ dayantru:
     - day-
     - +
     - antru
-    natlang similar:
-      Koreasa: 대장
-      Niponsa: 大腸
-      Putunhwa: 大肠
 dayatex:
   term: dayatex
   word class: b
@@ -39612,9 +39966,6 @@ daybeze:
     - day-
     - +
     - beze
-    natlang similar:
-      Espanisa: abejarr&oacute;n
-      Putunhwa: 大黃蜂 &ldquo;dahwangfeng&rdquo;
 daybon:
   term: daybon
   word class: t
@@ -39659,7 +40010,7 @@ daybriti:
     derived:
     - day-
     - +
-    - Briti
+    - briti
 daybur:
   term: daybur
   word class: t
@@ -41422,7 +41773,7 @@ daysurprisa:
     eng:
     - - astonishment
     - - 'tr: astonish'
-    - - 'intr: be (<em>feel</em>) astonished'
+    - - 'intr (optional -cu): be (<em>feel</em>) astonished'
     epo:
     - - surprizego
     - - surprizegi
@@ -42085,7 +42436,7 @@ dekartli:
     - - 笛卡儿的
   etymology:
     derived:
-    - Dekart
+    - dekart
     - +
     - -li
 deklara:
@@ -43464,8 +43815,6 @@ denya:
     - den
     - +
     - -ya
-    natlang similar:
-      Arabisa: هُوِيَّة
 deodoran:
   term: deodoran
   word class: b
@@ -43529,7 +43878,7 @@ depresi:
     eng:
     - - depression
     - - 'tr: depress'
-    - - 'intr: be (<em>feel</em>) depressed'
+    - - 'intr (optional -cu): be (<em>feel</em>) depressed'
     epo:
     - - depresio
       - deprimo
@@ -43575,6 +43924,65 @@ depresido:
     - depresi
     - +
     - -do
+depresigine:
+  term: depresigine
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - depressive
+    epo:
+    - - deprimiga
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - depresi
+    - +
+    - -gi
+    - +
+    - -ne
+depresili:
+  term: depresili
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - depressive
+    epo:
+    - - deprima
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - depresi
+    - +
+    - -li
+depresine:
+  term: depresine
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - depressing
+    epo:
+    - - deprimiga
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - depresi
+    - +
+    - -ne
 des:
   term: des
   word class: num
@@ -44922,7 +45330,7 @@ deylyu:
   trans:
     eng:
     - - convection
-    - - 'tr/intr: convect'
+    - - 'tr/intr (optional -cu): convect'
     epo:
     - - konvekto
     - - konvekti
@@ -46234,7 +46642,7 @@ divehisa:
     zho: []
   etymology:
     derived:
-    - Divehi
+    - divehi
     - +
     - -sa
 dixan:
@@ -46570,7 +46978,7 @@ dograsa:
     zho: []
   etymology:
     derived:
-    - Dogra
+    - dogra
     - +
     - -sa
 dograyen:
@@ -46590,7 +46998,7 @@ dograyen:
     zho: []
   etymology:
     derived:
-    - Dogra
+    - dogra
     - +
     - -yen
 doku:
@@ -46983,9 +47391,6 @@ domaku:
       Niponsa: 動脈 &ldquo;domyaku&rdquo;
       Putunhwa: 动脉 &ldquo;dongmay&rdquo;
       Vyetnamsa: động mạch
-    natlang similar:
-      Hindi: धमनी &ldquo;damni&rdquo;
-      Telugusa: ధమని &ldquo;damani&rdquo;
 domakuli:
   term: domakuli
   word class: t
@@ -48031,7 +48436,7 @@ doycili:
     zho: []
   etymology:
     derived:
-    - Doyci
+    - doyci
     - +
     - -li
 doycisa:
@@ -48052,7 +48457,7 @@ doycisa:
     zho: []
   etymology:
     derived:
-    - Doyci
+    - doyci
     - +
     - -sa
 doyciyen:
@@ -48074,7 +48479,7 @@ doyciyen:
     zho: []
   etymology:
     derived:
-    - Doyci
+    - doyci
     - +
     - -yen
 doyday:
@@ -48196,11 +48601,6 @@ dragonfruta:
       Fransesa: fruit du dragon
       Niponsa: ドラゴンフルーツ &ldquo;doragonfurūtsu&rdquo;
       Rusisa: драконий фрукт &ldquo;drakoniy frukt&rdquo;
-    natlang similar:
-      Arabisa: فَاكِهَة تِنِّين&lrm; &ldquo;fākihat tinnīn&rdquo;
-      Indonesisa: buah naga
-      Koreasa: 용과 &ldquo;yonggwa&rdquo;
-      Putunhwa: 火龙果 &ldquo;huǒl&oacute;ngguǒ&rdquo;
 drama:
   term: drama
   word class: b
@@ -48476,7 +48876,7 @@ drukili:
     zho: []
   etymology:
     derived:
-    - Druki
+    - druki
     - +
     - -li
 drukisa:
@@ -48500,7 +48900,7 @@ drukisa:
     zho: []
   etymology:
     derived:
-    - Druki
+    - druki
     - +
     - -sa
 drukiyen:
@@ -48522,7 +48922,7 @@ drukiyen:
     zho: []
   etymology:
     derived:
-    - Druki
+    - druki
     - +
     - -yen
 drumu:
@@ -49247,15 +49647,6 @@ duatyan:
     - dua
     - +
     - tyan
-    natlang similar:
-      Arabisa: نُقْطَة مُزْدَوِجَة&lrm;
-      Doycisa: Doppelpunkt
-      Espanisa: dos puntos
-      Fransesa: deux points
-      Indonesisa: titik dua
-      Rusisa: двоеточие
-      Swahilisa: nukta mbili
-      Turkisa: iki nokta
 duaxey:
   term: duaxey
   word class: b
@@ -49952,7 +50343,7 @@ dunyayen:
     - - 地球人
   etymology:
     derived:
-    - Dunya
+    - dunya
     - +
     - -yen
 duofcori:
@@ -50360,9 +50751,6 @@ duryan:
       Swahilisa: duriani
       Tamilsa: துரியான் &ldquo;turiyan&rdquo;
       Turkisa: durian
-    natlang similar:
-      Putunhwa: 榴连, 榴莲, 榴梿 &ldquo;lyoulyen&rdquo;
-      Vyetnamsa: sầu ri&ecirc;ng
 duxe:
   term: duxe
   word class: b.oj
@@ -50581,7 +50969,7 @@ dyabetes:
     eng:
     - - diabetes
     - - 'tr: cause diabetes'
-    - - 'intr: have diabetes'
+    - - 'intr (optional -cu): have diabetes'
       - be diabetic
     epo:
     - - diabeto
@@ -52142,7 +52530,7 @@ ekwadorli:
     zho: []
   etymology:
     derived:
-    - Ekwador
+    - ekwador
     - +
     - -li
 ekwadoryen:
@@ -52163,7 +52551,7 @@ ekwadoryen:
     zho: []
   etymology:
     derived:
-    - Ekwador
+    - ekwador
     - +
     - -yen
 ekwatora:
@@ -52473,12 +52861,6 @@ eletrikaxa:
     - eletri
     - +
     - -kaxa
-    natlang similar:
-      Hindi: विद्युत कोष
-      Koreasa: 전지
-      Niponsa: 電池
-      Putunhwa: 电池
-      Vyetnamsa: b&igrave;nh điện
 eletrili:
   term: eletrili
   word class: t
@@ -52786,7 +53168,7 @@ elinili:
     zho: []
   etymology:
     derived:
-    - Elini
+    - elini
     - +
     - -li
 elinisa:
@@ -52807,7 +53189,7 @@ elinisa:
     zho: []
   etymology:
     derived:
-    - Elini
+    - elini
     - +
     - -sa
 eliniyen:
@@ -52829,7 +53211,7 @@ eliniyen:
     zho: []
   etymology:
     derived:
-    - Elini
+    - elini
     - +
     - -yen
 elipse:
@@ -53428,7 +53810,7 @@ enfeksi:
     eng:
     - - infection
     - - 'tr: infect'
-    - - 'intr: get infected'
+    - - 'intr (optional -cu): get infected'
     epo:
     - - infekto
     - - infekti
@@ -53522,7 +53904,7 @@ englikorno:
     - - 英国管
   etymology:
     derived:
-    - Engli
+    - engli
     - +
     - korno
 englili:
@@ -53542,7 +53924,7 @@ englili:
     zho: []
   etymology:
     derived:
-    - Engli
+    - engli
     - +
     - -li
 englisa:
@@ -53563,7 +53945,7 @@ englisa:
     zho: []
   etymology:
     derived:
-    - Engli
+    - engli
     - +
     - -sa
 engliyen:
@@ -53586,7 +53968,7 @@ engliyen:
     zho: []
   etymology:
     derived:
-    - Engli
+    - engli
     - +
     - -yen
 engyan:
@@ -53848,7 +54230,7 @@ epilepsi:
     eng:
     - - epilepsy
     - - 'tr: cause epilepsy'
-    - - 'intr: have epilepsy'
+    - - 'intr (optional -cu): have epilepsy'
       - suffer from epilepsy
       - be epileptic
     epo:
@@ -54995,7 +55377,7 @@ eskizofreni:
     eng:
     - - schizophrenia
     - - 'tr: cause schizophrenia'
-    - - 'intr: have schizophrenia'
+    - - 'intr (optional -cu): have schizophrenia'
       - suffer from schizophrenia
       - be schizophrenic
     epo:
@@ -55238,7 +55620,7 @@ eskorbuto:
     eng:
     - - scurvy
     - - 'tr: cause scurvy'
-    - - 'intr: have scurvy'
+    - - 'intr (optional -cu): have scurvy'
       - suffer from scurvy
     epo:
     - - skorbuto
@@ -55828,7 +56210,7 @@ eslovakili:
     zho: []
   etymology:
     derived:
-    - Eslovaki
+    - eslovaki
     - +
     - -li
 eslovakisa:
@@ -55849,7 +56231,7 @@ eslovakisa:
     zho: []
   etymology:
     derived:
-    - Eslovaki
+    - eslovaki
     - +
     - -sa
 eslovakiyen:
@@ -55872,7 +56254,7 @@ eslovakiyen:
     zho: []
   etymology:
     derived:
-    - Eslovaki
+    - eslovaki
     - +
     - -yen
 esloveni:
@@ -55916,7 +56298,7 @@ eslovenili:
     zho: []
   etymology:
     derived:
-    - Esloveni
+    - esloveni
     - +
     - -li
 eslovenisa:
@@ -55937,7 +56319,7 @@ eslovenisa:
     zho: []
   etymology:
     derived:
-    - Esloveni
+    - esloveni
     - +
     - -sa
 esloveniyen:
@@ -55960,7 +56342,7 @@ esloveniyen:
     zho: []
   etymology:
     derived:
-    - Esloveni
+    - esloveni
     - +
     - -yen
 eslovi:
@@ -56154,7 +56536,7 @@ espanili:
     zho: []
   etymology:
     derived:
-    - Espani
+    - espani
     - +
     - -li
 espanisa:
@@ -56175,7 +56557,7 @@ espanisa:
     zho: []
   etymology:
     derived:
-    - Espani
+    - espani
     - +
     - -sa
 espaniyen:
@@ -56197,7 +56579,7 @@ espaniyen:
     zho: []
   etymology:
     derived:
-    - Espani
+    - espani
     - +
     - -yen
 esparago:
@@ -56429,7 +56811,7 @@ espiral:
     eng:
     - - spiral
       - helix
-    - - 'tr/intr: twist'
+    - - 'tr/intr (optional -cu): twist'
     epo:
     - - spiralo
       - tordo
@@ -56459,6 +56841,50 @@ espiral:
       Rusisa: спираль &ldquo;spiral&rdquo;
       Telugusa: సర్పిలం &ldquo;sarpilam&rdquo;
       Turkisa: spiral
+espiralcune:
+  term: espiralcune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - spiraling
+    epo:
+    - - spiralanta
+      - tordanta
+      - kurbanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - espiral
+    - +
+    - -cu
+    - +
+    - -ne
+espiralne:
+  term: espiralne
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - spiraling
+    epo:
+    - - spiralanta
+      - tordanta
+      - kurbanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - espiral
+    - +
+    - -ne
 esponji:
   term: esponji
   word class: b
@@ -56849,7 +57275,7 @@ esrilankali:
     zho: []
   etymology:
     derived:
-    - Esrilanka
+    - esrilanka
     - +
     - -li
 esrilankayen:
@@ -56869,7 +57295,7 @@ esrilankayen:
     zho: []
   etymology:
     derived:
-    - Esrilanka
+    - esrilanka
     - +
     - -yen
 establi:
@@ -57157,9 +57583,6 @@ estarefruta:
       Doycisa: Sternfrucht
       Englisa: starfruit
       Niponsa: スターフルーツ &ldquo;suta-furutsu&rdquo;
-    natlang similar:
-      Arabisa: فَاكِهَةْ اَلنَّجْمَة
-      Espanisa: fruta de estrella
 estarelari:
   term: estarelari
   word class: b
@@ -57396,8 +57819,6 @@ estayli:
     - estay
     - +
     - -li
-    natlang similar:
-      Arabisa: قَائِم
 estayne:
   term: estayne
   word class: t
@@ -57694,7 +58115,7 @@ estimula:
       - motivation
     - - 'tr: stimulate'
       - motivate
-    - - 'intr: be (<em>feel</em>) stimulated'
+    - - 'intr (optional -cu): be (<em>feel</em>) stimulated'
       - be (<em>feel</em>) motivated
     epo:
     - - stimulo
@@ -57755,6 +58176,29 @@ estimulado:
     - estimula
     - +
     - -do
+estimulane:
+  term: estimulane
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - stimulating
+      - motivating
+    epo:
+    - - stimulanta
+      - instiganta
+      - incitanta
+      - motivanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - estimula
+    - +
+    - -ne
 estisa:
   term: Estisa
   word class: b
@@ -57772,7 +58216,7 @@ estisa:
     zho: []
   etymology:
     derived:
-    - Esti
+    - esti
     - +
     - -sa
 estiyen:
@@ -57792,7 +58236,7 @@ estiyen:
     zho: []
   etymology:
     derived:
-    - Esti
+    - esti
     - +
     - -yen
 esto:
@@ -57805,7 +58249,7 @@ esto:
       - halt
     - - 'tr: stop (<em>bring to a stop</em>)'
       - halt (<em>bring to a halt</em>)
-    - - 'intr: stop (<em>come to a stop</em>)'
+    - - 'intr (optional -cu): stop (<em>come to a stop</em>)'
       - halt (<em>come to a halt</em>)
       - cease
       - quit
@@ -57834,6 +58278,28 @@ esto:
       Magribili Arabisa: سطوب &ldquo;stup&rdquo;
       Parsisa: ایست &ldquo;ist&rdquo;
       Rusisa: стоп &ldquo;stop&rdquo;
+estocune:
+  term: estocune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - stopping
+    epo:
+    - - ĉesanta
+      - haltanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - esto
+    - +
+    - -cu
+    - +
+    - -ne
 estodo:
   term: estodo
   word class: t
@@ -57938,6 +58404,26 @@ estomotsufono:
     - motsu
     - +
     - fono
+estone:
+  term: estone
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - stopping
+    epo:
+    - - ĉesanta
+      - haltanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - esto
+    - +
+    - -ne
 estovu:
   term: estovu
   word class: b
@@ -58059,8 +58545,8 @@ estres:
   trans:
     eng:
     - - stress
-    - - stress (out)
-      - be (<em>feel</em>) stressed
+    - - 'tr: stress (out)'
+    - - 'intr: be (<em>feel</em>) stressed'
     epo:
     - - streso
     - - stresigi
@@ -58110,23 +58596,39 @@ estresdo:
     - estres
     - +
     - -do
+estresne:
+  term: estresne
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - stressing
+      - stressful
+    epo:
+    - - stresiganta
+      - stresiga
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - estres
+    - +
+    - -ne
 estrespul:
   term: estrespul
   word class: t
   category: derived
   trans:
     eng:
-    - - stressed
-      - stress-laden
+    - - stressful (<em>day, etc.</em>)
+      - stressed
     epo:
-    - - stresiĝinta
+    - - stresiga
       - stresigita
-    spa:
-    - - lleno de estrés
-      - estresado
-      - agobiado
-      - preocupado
-      - abrumado
+    spa: []
     deu: []
     fra: []
     rus: []
@@ -59210,7 +59712,7 @@ ewklideli:
     - - 欧几里得的
   etymology:
     derived:
-    - Ewklide
+    - ewklide
     - +
     - -li
 ewnike:
@@ -59361,7 +59863,7 @@ ewropali:
     zho: []
   etymology:
     derived:
-    - Ewropa
+    - ewropa
     - +
     - -li
 ewropayen:
@@ -59381,7 +59883,7 @@ ewropayen:
     zho: []
   etymology:
     derived:
-    - Ewropa
+    - ewropa
     - +
     - -yen
 ewropyum:
@@ -59467,7 +59969,7 @@ ewskalli:
     - - 巴斯克
   etymology:
     derived:
-    - Ewskal
+    - ewskal
     - +
     - -li
 ewskalsa:
@@ -59490,7 +59992,7 @@ ewskalsa:
     zho: []
   etymology:
     derived:
-    - Ewskal
+    - ewskal
     - +
     - -sa
 ewskalyen:
@@ -59511,7 +60013,7 @@ ewskalyen:
     zho: []
   etymology:
     derived:
-    - Ewskal
+    - ewskal
     - +
     - -yen
 ex:
@@ -59708,7 +60210,7 @@ exdunyayen:
     derived:
     - ex-
     - +
-    - Dunya
+    - dunya
     - +
     - -yen
 exergo:
@@ -59721,7 +60223,7 @@ exergo:
       - firing
       - resignation
     - - 'tr: fire'
-    - - 'intr: quit'
+    - - 'intr (optional -cu): quit'
       - resign
     epo:
     - - maldungo
@@ -59770,6 +60272,28 @@ exergocu:
     - ergo
     - +
     - -cu
+exergodo:
+  term: exergodo
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - fired
+    epo:
+    - - demisiita
+      - eksigita
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - ex-
+    - +
+    - ergo
+    - +
+    - -do
 exergogi:
   term: exergogi
   word class: b.oj
@@ -60051,7 +60575,7 @@ exkiperisa:
     zho: []
   etymology:
     derived:
-    - Exkiperi
+    - exkiperi
     - +
     - -sa
 exkiperiyen:
@@ -60071,7 +60595,7 @@ exkiperiyen:
     zho: []
   etymology:
     derived:
-    - Exkiperi
+    - exkiperi
     - +
     - -yen
 exkludi:
@@ -60662,7 +61186,7 @@ eyresa:
     zho: []
   etymology:
     derived:
-    - Eyre
+    - eyre
     - +
     - -sa
 eyreyen:
@@ -60683,7 +61207,7 @@ eyreyen:
     zho: []
   etymology:
     derived:
-    - Eyre
+    - eyre
     - +
     - -yen
 ezra:
@@ -61633,11 +62157,6 @@ fankosokitan:
     - fanko
     - +
     - sokitan
-    natlang similar:
-      Koreasa: 이탄
-      Niponsa: 泥炭
-      Putunhwa: 泥炭
-      Vyetnamsa: than b&ugrave;n
 fantasi:
   term: fantasi
   word class: b
@@ -62337,7 +62856,7 @@ fayda:
   trans:
     eng:
     - - benefit
-    - - 'tr/intr: benefit'
+    - - 'tr/intr (optional -cu): benefit'
     epo:
     - - profito
     - - profiti
@@ -63405,8 +63924,6 @@ fe_gwaho:
     - fe
     - ','
     - gwaho
-    natlang similar:
-      Esperanto: parenteze
 fe_hataya:
   term: fe hataya
   word class: p jm
@@ -65233,7 +65750,7 @@ fefuitis:
     - - pneumonitis
       - pneumonia
     - - 'tr: cause pneumonia'
-    - - 'intr: have pneumonia'
+    - - 'intr (optional -cu): have pneumonia'
       - suffer from pneumonia
     epo:
     - - pneŭmonito
@@ -65398,12 +65915,15 @@ felto:
     spa:
     - - fieltro
       - hieltro
-    deu: []
-    fra: []
+    deu:
+    - - Filz
+    fra:
+    - - feutre
     rus:
     - - войлок
       - фетр
-    zho: []
+    zho:
+    - - 毡
   etymology:
     natlang:
       Doycisa: Filtz
@@ -66014,10 +66534,14 @@ femteo:
     - - diino
     spa:
     - - diosa
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Göttin
+    fra:
+    - - déesse
+    rus:
+    - - богиня
+    zho:
+    - - 女神
   etymology:
     derived:
     - fem-
@@ -66286,11 +66810,14 @@ fenxui:
       - ventakviko
     spa:
     - - feng( )shui
-    deu: []
-    fra: []
+    deu:
+    - - Fengshui
+    fra:
+    - - feng shui
     rus:
     - - фэншуй
-    zho: []
+    zho:
+    - - 风水
   etymology:
     natlang:
       Arabisa: فنغ شوي &ldquo;finḡ xuy&rdquo;
@@ -66322,11 +66849,14 @@ feodal:
     - - feŭde
     spa:
     - - feudal
-    deu: []
-    fra: []
+    deu:
+    - - feudal
+    fra:
+    - - féodal
     rus:
     - - феодальный
-    zho: []
+    zho:
+    - - 封建的
   etymology:
     natlang:
       Doycisa: feudal, Feudalismus
@@ -66349,10 +66879,14 @@ feodalismo:
     - - feŭdismo
     spa:
     - - feudalismo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Feudalismus
+    fra:
+    - - féodalisme
+    rus:
+    - - феодализм
+    zho:
+    - - 封建制度
   etymology:
     derived:
     - feodal
@@ -66453,11 +66987,14 @@ fermyum:
     spa:
     - - fermio
       - Fm
-    deu: []
-    fra: []
+    deu:
+    - - Fermium
+    fra:
+    - - fermium
     rus:
     - - фермий
-    zho: []
+    zho:
+    - - 镄
   etymology:
     natlang:
       Arabisa: فِرْمِيُوم &ldquo;firmiyum&rdquo;
@@ -66499,8 +67036,10 @@ ferne:
       - dentabrón
       - filmarón
       - <em>Polypodiophyta</em>
-    deu: []
-    fra: []
+    deu:
+    - - Farn
+    fra:
+    - - fougère
     rus:
     - - папоротник
     zho: []
@@ -66642,11 +67181,14 @@ fida:
       - argén
       - argent
       - Ag
-    deu: []
-    fra: []
+    deu:
+    - - Silber
+    fra:
+    - - argent
     rus:
     - - серебро
-    zho: []
+    zho:
+    - - 银
   etymology:
     natlang:
       Arabisa: فضة &ldquo;fiḍḍa&rdquo;
@@ -66795,7 +67337,7 @@ fijili:
     zho: []
   etymology:
     derived:
-    - Fiji
+    - fiji
     - +
     - -li
 fijisa:
@@ -66815,7 +67357,7 @@ fijisa:
     zho: []
   etymology:
     derived:
-    - Fiji
+    - fiji
     - +
     - -sa
 fijiyen:
@@ -66835,7 +67377,7 @@ fijiyen:
     zho: []
   etymology:
     derived:
-    - Fiji
+    - fiji
     - +
     - -yen
 fikir:
@@ -67639,12 +68181,13 @@ fini:
   trans:
     eng:
     - - end
+      - ending
       - conclusion
     - - 'tr: finish'
       - end
       - finalize
       - be done with
-    - - 'intr: end'
+    - - 'intr (optional -cu): end'
       - conclude
     epo:
     - - fino
@@ -67673,6 +68216,27 @@ fini:
       Niponsa: フィナーレ &ldquo;finale&rdquo;
       Rusisa: финиш &ldquo;finix&rdquo;
       Turkisa: finiş, final
+finicune:
+  term: finicune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - ending
+    epo:
+    - - finiĝanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - fini
+    - +
+    - -cu
+    - +
+    - -ne
 finido:
   term: finido
   word class: t
@@ -67807,6 +68371,26 @@ finili_eksame:
     - -li
     - ','
     - eksame
+finine:
+  term: finine
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - finishing
+      - ending
+    epo:
+    - - finiĝanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - fini
+    - +
+    - -ne
 finipul:
   term: finipul
   word class: t
@@ -68255,7 +68839,7 @@ fleksi:
     eng:
     - - bend
       - flex
-    - - 'tr/intr: bend'
+    - - 'tr/intr (optional -cu): bend'
       - flex
     epo:
     - - flekso
@@ -68287,8 +68871,7 @@ fleksiabil:
   category: derived
   trans:
     eng:
-    - - flexible
-      - can bend
+    - - flexible (<em> which can bend</em>)
     - - flexibly
     epo:
     - - fleksiĝipova
@@ -68332,6 +68915,29 @@ fleksiabilya:
     - -abil
     - +
     - -ya
+fleksicuabil:
+  term: fleksicuabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - flexible (<em> which can bend</em>)
+    - - flexibly
+    epo:
+    - - fleksiĝipova
+      - kurbiĝipova
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - fleksi
+    - +
+    - -cu
+    - +
+    - -abil
 fleksido:
   term: fleksido
   word class: t
@@ -68417,10 +69023,14 @@ flerovyum:
     spa:
     - - flerovio
       - Fl
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Flerovium
+    fra:
+    - - flérovium
+    rus:
+    - - флеровий
+    zho:
+    - - "\U0002B4E7"
   etymology:
     natlang:
       Arabisa: فليروفيوم &ldquo;falirufyum&rdquo;
@@ -68832,9 +69442,13 @@ fluores:
     - - fluorescencia
     - - tener fluorescencia
     deu: []
-    fra: []
+    fra:
+    - - fluorescence
+    - - fluorescer
     rus: []
-    zho: []
+    zho:
+    - - 荧光
+    - - 发荧光
   etymology:
     natlang:
       Arabisa: فلوري &ldquo;fuluri&rdquo;, فلورية &ldquo;fuluriya&rdquo;
@@ -68858,10 +69472,14 @@ fluorin:
     spa:
     - - flúor
       - F
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Fluor
+    fra:
+    - - fluor
+    rus:
+    - - фтор
+    zho:
+    - - 氟
   etymology:
     natlang:
       Arabisa: فِلُور &ldquo;filur&rdquo;
@@ -68925,10 +69543,16 @@ flurakabiji:
       - |-
         <em>
         Brassica oleracea</em> var. <em>botrytis</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Blumenkohl
+    fra:
+    - - chou-fleur
+    rus:
+    - - цветная капуста
+    zho:
+    - - 花椰菜
+      - 菜花
+      - 花菜
   etymology:
     derived:
     - flura
@@ -69238,6 +69862,7 @@ fokuskal:
   trans:
     eng:
     - - distracted
+      - unfocussed
     epo:
     - - senfokusa
       - distrita
@@ -69480,10 +70105,14 @@ folder:
     - - dosierujo
     spa:
     - - carpeta
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Ordner
+    fra:
+    - - dossier
+    rus:
+    - - папка
+    zho:
+    - - 文件夹
   etymology:
     natlang:
       Englisa: folder
@@ -69632,7 +70261,8 @@ folklor:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 民俗
   etymology:
     natlang:
       Arabisa: فلكلور &ldquo;folklor&rdquo;
@@ -69840,6 +70470,10 @@ folo:
     natlang:
       Doycisa: folgen
       Englisa: follow
+      Fransesa: follower - foloyen
+      Hindisa: फ़ॉलो-अप &ldquo;folo-ap&rdquo;
+      Koresa: 팔로우 &ldquo;pallow&rdquo;
+      Niponsa: フォロー &ldquo;foro&rdquo;
 foloyen:
   term: foloyen
   word class: b
@@ -69852,10 +70486,18 @@ foloyen:
     spa:
     - - seguidor
       - secuaz
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Folger
+      - Follower
+    fra:
+    - - suiveur. abonné
+      - follower
+    rus:
+    - - последователь
+      - подписчик
+    zho:
+    - - 追随者
+      - 关注者
   etymology:
     derived:
     - folo
@@ -69942,7 +70584,8 @@ fon:
     spa:
     - - dispositivo de sonido
     deu:
-    - - -fon(-phon)
+    - - -fon
+      - -phon
       - Gerät oder Instrument
       - das Laute oder Klänge erzeugt
     fra: []
@@ -70172,10 +70815,14 @@ forke:
     - - forko
     spa:
     - - tenedor
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gabel
+    fra:
+    - - fourchette
+    rus:
+    - - вилка
+    zho:
+    - - 叉子
   etymology:
     natlang:
       Englisa: fork
@@ -70192,7 +70839,7 @@ forma:
   trans:
     eng:
     - - form
-    - - 'tr/intr: form'
+    - - 'tr/intr (optional -cu): form'
     epo:
     - - formo
     - - formiĝi
@@ -70348,10 +70995,13 @@ fosfato:
     - - fosfato
     spa:
     - - fosfato
-    deu: []
-    fra: []
+    deu:
+    - - Phosphat
+    fra:
+    - - phosphate
     rus: []
-    zho: []
+    zho:
+    - - 磷酸盐
   etymology:
     natlang:
       Arabisa: فوسفات &ldquo;fusfat&rdquo;
@@ -70380,10 +71030,14 @@ fosforo:
     spa:
     - - fósforo (<em>elemento</em>)
       - P
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Phosphor
+    fra:
+    - - phosphore
+    rus:
+    - - фосфор
+    zho:
+    - - 磷
   etymology:
     natlang:
       Arabisa: فُسْفُور &ldquo;fusfur&rdquo;
@@ -70407,15 +71061,21 @@ fosil:
   trans:
     eng:
     - - fossil
-    - - 'tr/intr: fossilize'
+    - - 'tr/intr (optional -cu): fossilize'
     epo:
     - - fosilio
     - - 'tr: fosiliigi'
       - 'netr: fosiliiĝi'
     spa:
     - - fósil
-    deu: []
-    fra: []
+    - - fosilizar
+    - - fosilizarse
+    deu:
+    - - Fossil
+    - - fossilisieren
+    fra:
+    - - fossile
+    - - fossiliser
     rus: []
     zho: []
   etymology:
@@ -70636,7 +71296,7 @@ franseli:
     zho: []
   etymology:
     derived:
-    - Franse
+    - franse
     - +
     - -li
 fransesa:
@@ -70656,7 +71316,7 @@ fransesa:
     zho: []
   etymology:
     derived:
-    - Franse
+    - franse
     - +
     - -sa
 franseyen:
@@ -70677,7 +71337,7 @@ franseyen:
     zho: []
   etymology:
     derived:
-    - Franse
+    - franse
     - +
     - -yen
 fransyum:
@@ -70694,10 +71354,14 @@ fransyum:
     spa:
     - - francio
       - Fr
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Francium
+    fra:
+    - - francium
+    rus:
+    - - франций
+    zho:
+    - - 钫
   etymology:
     natlang:
       Arabisa: فَرَنْسِيُوم &ldquo;faransiyum&rdquo;
@@ -71100,7 +71764,7 @@ frustra:
     eng:
     - - frustration
     - - 'tr: frustrate'
-    - - 'intr: be (<em>feel</em>) frustrated'
+    - - 'intr (optional -cu): be (<em>feel</em>) frustrated'
     epo:
     - - frustriĝo
       - frustracio
@@ -71176,10 +71840,15 @@ fruta:
     spa:
     - - fruta
       - fruto
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Frucht
+    fra:
+    - - fruit
+    rus:
+    - - плод
+      - фрукты
+    zho:
+    - - 水果
   etymology:
     natlang:
       Doycisa: Frucht
@@ -71203,10 +71872,15 @@ frutosu:
     spa:
     - - fructosa
       - levulosa
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Fructose
+      - Fruchtzucker
+    fra:
+    - - fructose
+    rus:
+    - - фруктоза
+    zho:
+    - - 果糖
   etymology:
     natlang:
       Arabisa: فركتوز &ldquo;fraktuz&rdquo;
@@ -71286,6 +71960,7 @@ fubu:
     - - abdomen
       - belly
       - gut
+      - ventrum
     epo:
     - - abdomeno
       - ventro
@@ -71552,10 +72227,14 @@ fuladi:
     spa:
     - - acero
       - alinde
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Stahl
+    fra:
+    - - acier
+    rus:
+    - - сталь
+    zho:
+    - - 钢
   etymology:
     natlang:
       Arabisa: فُولَاذ &ldquo;fulaḏ&rdquo;
@@ -71577,10 +72256,15 @@ fuladili:
       - acerero
       - acerado
       - acerino
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - stählern
+    fra:
+    - - en acier
+      - d'acier
+    rus:
+    - - стальной
+    zho:
+    - - 钢的
   etymology:
     derived:
     - fuladi
@@ -71593,14 +72277,18 @@ fumbun:
   trans:
     eng:
     - - rumor
+      - rumour
     epo:
     - - onidiro
     spa:
     - - rumor
       - hablilla
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Gerücht
+    fra:
+    - - rumeur
+    rus:
+    - - слухи
     zho: []
   etymology:
     natlang:
@@ -71621,10 +72309,15 @@ funci:
     spa:
     - - sátira
     - - satirizar
-    deu: []
-    fra: []
+    deu:
+    - - Satire
+    - - eine Satire machen auf
+    fra:
+    - - satire
+    - - faire la satire de
     rus: []
-    zho: []
+    zho:
+    - - 讽刺
   etymology:
     natlang:
       Koreasa: 풍자 &ldquo;pungja&rdquo;
@@ -71644,10 +72337,14 @@ funcili:
     spa:
     - - satírico
     - - satíricamente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - satirisch
+    fra:
+    - - satirique
+    rus:
+    - - сатирический
+    zho:
+    - - 讽刺的
   etymology:
     derived:
     - funci
@@ -71681,7 +72378,9 @@ fundo:
       - intentar
       - tratar
       - bregar
-    deu: []
+    deu:
+    - - Kampf
+    - - kämpfen
     fra: []
     rus: []
     zho: []
@@ -71704,7 +72403,8 @@ fundone:
     spa:
     - - en apuros
       - en aprietos
-    deu: []
+    deu:
+    - - kämpfend
     fra: []
     rus: []
     zho: []
@@ -71745,7 +72445,7 @@ funjin:
     eng:
     - - rubella
     - - 'tr: cause rubella'
-    - - 'intr: have rubella'
+    - - 'intr (optional -cu): have rubella'
       - suffer from rubella
     epo:
     - - rubeolo
@@ -71870,7 +72570,7 @@ furaha:
       - pleasure
     - - 'tr: pleasure'
       - please
-    - - 'intr: feel pleasure'
+    - - 'intr (optional -cu): feel pleasure'
       - enjoy oneself
     epo:
     - - ĝuo
@@ -72215,10 +72915,14 @@ fustan:
     - - robo
     spa:
     - - vestido
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Kleid
+    fra:
+    - - robe
+    rus:
+    - - платье
+    zho:
+    - - 连衣裙
   etymology:
     natlang:
       Arabisa: فستان &ldquo;fusatan&rdquo;
@@ -72309,10 +73013,18 @@ futru:
     spa:
     - - hongo
       - <em>Fungi</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Pilz
+    fra:
+    - - fongus
+      - champignon
+    rus:
+    - - гриб
+      - грибок
+    zho:
+    - - 真菌
+      - 菌类
+      - 蘑菇
   etymology:
     natlang:
       Arabisa: فطر &ldquo;fuṭr&rdquo;
@@ -72323,6 +73035,8 @@ futruli:
   trans:
     eng:
     - - fungal
+      - fungous
+      - mycotic
     - - fungally
     epo:
     - - funga
@@ -72331,8 +73045,11 @@ futruli:
     - - micótico
       - fúngico
     deu: []
-    fra: []
-    rus: []
+    fra:
+    - - fongique
+      - champignonneux
+    rus:
+    - - грибковый
     zho: []
   etymology:
     derived:
@@ -72401,10 +73118,14 @@ fyordo:
     - - fjordo
     spa:
     - - fiordo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Fjord
+    fra:
+    - - fjord
+    rus:
+    - - фьорд
+    zho:
+    - - 峡湾
   etymology:
     natlang:
       Doycisa: Fjord
@@ -72432,10 +73153,14 @@ fyusi:
     spa:
     - - fusible
       - plomo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Sicherung
+    fra:
+    - - fusible
+    rus:
+    - - (электрический) предохранитель
+    zho:
+    - - 保险丝
   etymology:
     natlang:
       Englisa: fuse
@@ -72616,10 +73341,14 @@ gadolinyum:
     spa:
     - - gadolinio
       - Gd
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gadolinium
+    fra:
+    - - gadolinium
+    rus:
+    - - гадолиний
+    zho:
+    - - 釓
   etymology:
     natlang:
       Arabisa: جَدُولِينْيُوم &ldquo;gadulinyum&rdquo;
@@ -72719,10 +73448,14 @@ galaksi:
     - - galaksio
     spa:
     - - galaxia
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Galaxie
+    fra:
+    - - galaxie
+    rus:
+    - - галактика
+    zho:
+    - - 星系
   etymology:
     natlang:
       Doycisa: Galaxie
@@ -72733,6 +73466,7 @@ galaksi:
       Indonesisa: galaksi
       Pilipinasa: galaksiya
       Rusisa: галактика &ldquo;galaktika&rdquo;
+      Swahilisa: galaksi
       Turkisa: galaksi
 galaksili:
   term: galaksili
@@ -72748,10 +73482,14 @@ galaksili:
     spa:
     - - galáctico
     - - galácticamente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - galaktisch
+    fra:
+    - - galactique
+    rus:
+    - - галактический
+    zho:
+    - - 星系的
   etymology:
     derived:
     - galaksi
@@ -72807,10 +73545,14 @@ galon:
     spa:
     - - galón (<em>unidad de volumen</em>)
       - gal
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gallone
+    fra:
+    - - gallon
+    rus:
+    - - галлон
+    zho:
+    - - 加仑
   etymology:
     natlang:
       Arabisa: غَالُون &ldquo;ḡalun&rdquo;
@@ -72842,10 +73584,14 @@ galyum:
     spa:
     - - galio
       - Ga
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gallium
+    fra:
+    - - gallium
+    rus:
+    - - галлий
+    zho:
+    - - 镓
   etymology:
     natlang:
       Arabisa: جَالْيُوم &ldquo;galyum&rdquo;
@@ -72999,8 +73745,11 @@ gami-:
     - - bo-
     spa:
     - - político (<em>parentesco</em>)
-    deu: []
-    fra: []
+    deu:
+    - - schwieger-
+    fra:
+    - - beau-
+      - belle-
     rus: []
     zho: []
   etymology:
@@ -73108,7 +73857,7 @@ gamiduayen:
   category: derived
   trans:
     eng:
-    - - couple
+    - - (married) couple
       - spouses
       - husband and wife
     epo:
@@ -73186,6 +73935,7 @@ gamikal:
   trans:
     eng:
     - - single
+      - unmarried
     epo:
     - - senedza
       - senedzina
@@ -73375,7 +74125,7 @@ ganali:
     zho: []
   etymology:
     derived:
-    - Gana
+    - gana
     - +
     - -li
 ganayen:
@@ -73396,7 +74146,7 @@ ganayen:
     zho: []
   etymology:
     derived:
-    - Gana
+    - gana
     - +
     - -yen
 gancaw:
@@ -73412,10 +74162,17 @@ gancaw:
     spa:
     - - regaliz
       - orozuz
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Lakritz
+      - Süßholz
+    fra:
+    - - réglisse
+    rus:
+    - - солодка
+      - лакрица
+    zho:
+    - - 甘草
+      - 甘草糖
   etymology:
     natlang:
       Koreasa: 감초 &ldquo;gamco&rdquo;
@@ -73487,10 +74244,14 @@ gandum:
     spa:
     - - trigo
       - <em>Triticum</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Weizen
+    fra:
+    - - blé
+    rus:
+    - - пшеница
+    zho:
+    - - 小麦
   etymology:
     natlang:
       Hindi: गोधूम &ldquo;godhūm&rdquo;
@@ -73676,10 +74437,17 @@ ganmoku:
       - trunkarbusto
     spa:
     - - arbusto
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Strauch
+      - Busch
+    fra:
+    - - buisson
+      - arbrisseau
+    rus:
+    - - кустарник
+      - куст
+    zho:
+    - - 灌木
   etymology:
     natlang:
       Koreasa: 관목 &ldquo;gwanmok&rdquo;
@@ -73728,10 +74496,14 @@ gante:
     - - ganto
     spa:
     - - guante
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Handschuh
+    fra:
+    - - gant
+    rus:
+    - - перчатка
+    zho:
+    - - 手套
   etymology:
     natlang:
       Espanisa: guante
@@ -73780,10 +74552,14 @@ ganzo:
     - - hepato
     spa:
     - - hígado
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Leber
+    fra:
+    - - foie
+    rus:
+    - - печень
+    zho:
+    - - 肝脏
   etymology:
     natlang:
       Koreasa: 간장 &ldquo;ganjang&rdquo;
@@ -73798,7 +74574,7 @@ ganzoitis:
     eng:
     - - hepatitis
     - - 'tr: cause hepatitis'
-    - - 'intr: have hepatitis'
+    - - 'intr (optional -cu): have hepatitis'
       - suffer from hepatitis
     epo:
     - - hepatito
@@ -73806,10 +74582,15 @@ ganzoitis:
       - hepatobrulumo
     spa:
     - - hepatitis
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hepatitis
+      - Leberentzündung
+    fra:
+    - - hépatite
+    rus:
+    - - гепатит
+    zho:
+    - - 肝炎
   etymology:
     derived:
     - ganzo
@@ -74157,10 +74938,16 @@ gardan:
     - - kolo
     spa:
     - - cuello
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hals
+    fra:
+    - - cou
+    rus:
+    - - шея
+    zho:
+    - - 脖子
+      - 颈项
+      - 颈部
   etymology:
     natlang:
       Hindi: गरदन &ldquo;garadan&rdquo;
@@ -74362,9 +75149,12 @@ garize:
     spa:
     - - instinto
       - naturaleza
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Instinkt
+    fra:
+    - - instinct
+    rus:
+    - - инстинкт
     zho: []
   etymology:
     natlang:
@@ -74451,7 +75241,7 @@ gas:
     eng:
     - - gas
     - - 'tr: cause to turn gaseous'
-    - - 'intr: become gaseous'
+    - - 'intr (optional -cu): become gaseous'
     epo:
     - - gaso
     spa:
@@ -74739,6 +75529,7 @@ gazeta:
   trans:
     eng:
     - - newspaper
+      - gazette
     epo:
     - - gazeto
       - ĵurnalo
@@ -74770,8 +75561,10 @@ gebo:
     - - brako
     spa:
     - - brazo
-    deu: []
-    fra: []
+    deu:
+    - - Arm
+    fra:
+    - - bras
     rus: []
     zho: []
   etymology:
@@ -74818,10 +75611,13 @@ general:
     - - generalo
     spa:
     - - general (<em>oficial</em>)
-    deu: []
-    fra: []
+    deu:
+    - - General
+    fra:
+    - - général (d'armée)
     rus: []
-    zho: []
+    zho:
+    - - 将军
   etymology:
     natlang:
       Arabisa: جِنِرال &ldquo;jiniral&rdquo;
@@ -74847,10 +75643,14 @@ generasi:
     - - generacio
     spa:
     - - generación
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Generation (<em>Gesellschaft</em>)
+    fra:
+    - - génération
+    rus:
+    - - поколение
+    zho:
+    - - 世代
   etymology:
     natlang:
       Doycisa: Generation
@@ -74872,10 +75672,14 @@ geni:
     - - geno
     spa:
     - - gen
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gen
+    fra:
+    - - gène
+    rus:
+    - - ген
+    zho:
+    - - 基因
   etymology:
     natlang:
       Arabisa: جين &ldquo;jin&rdquo;
@@ -74902,6 +75706,8 @@ genixube:
   trans:
     eng:
     - - strain (<em>of a virus, etc.</em>)
+      - cultivar
+      - variety
     epo:
     - - variaĵo (<em>de viruso ktp</em>)
     spa:
@@ -74926,10 +75732,14 @@ genu:
     - - radiko
     spa:
     - - raíz
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Wurzel
+    fra:
+    - - racine
+    rus:
+    - - корень
+    zho:
+    - - 根
   etymology:
     natlang:
       Putunhwa: 根 &ldquo;gēn&rdquo;
@@ -74999,10 +75809,14 @@ geobunhway:
     - - derrumbe
       - corrimiento
       - desprendimiento
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Erdrutsch
+    fra:
+    - - glissement de terrain
+    rus:
+    - - оползень
+    zho:
+    - - 山崩
   etymology:
     derived:
     - geo
@@ -75030,9 +75844,6 @@ geogardan:
     - geo
     - +
     - gardan
-    natlang similar:
-      Doycisa: Landenge
-      Hindi: भूडमरूमध्य
 geografi:
   term: geografi
   word class: b
@@ -75044,10 +75855,15 @@ geografi:
     - - geografio
     spa:
     - - geografía
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Geographie
+      - Erdkunde
+    fra:
+    - - géographie
+    rus:
+    - - география
+    zho:
+    - - 地理学
   etymology:
     derived:
     - geo
@@ -75307,9 +76123,13 @@ geotreme:
       - temblor
     deu:
     - - Erdbeben
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - séisme
+      - tremblement de terre
+    rus:
+    - - землетрясение
+    zho:
+    - - 地震
   etymology:
     derived:
     - geo
@@ -76453,17 +77273,25 @@ girehe:
   trans:
     eng:
     - - knot
-    - - 'tr/intr: knot'
+      - node
+    - - 'tr/intr (optional -cu): knot'
     epo:
     - - nodo
     spa:
     - - nudo
     - - anudar
     - - anudarse
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Knoten
+    - - knoten
+    fra:
+    - - nœud
+    - - nouer
+    rus:
+    - - узел
+    - - завязать узлом
+    zho:
+    - - 结
   etymology:
     natlang:
       Hindi: गिरह &ldquo;girah&rdquo;
@@ -76862,9 +77690,9 @@ glif:
       - marca
       - signo
     deu:
-    - - Buchstabe
-      - (Schrift)zeichen
+    - - (Schrift)zeichen
       - Symbol
+      - Buchstabe
     fra:
     - - caractère (écrit)
       - glyphe
@@ -77703,7 +78531,7 @@ gonali:
     eng:
     - - angular (<em>of or relating to</em>)
     epo:
-    - - angula (<em>de/pri anguloj</em>)
+    - - angula (<em>pri anguloj</em>)
     spa:
     - - angular (<em>relativo a los ángulos</em>)
     - - angularmente
@@ -77869,7 +78697,7 @@ gonorey:
     eng:
     - - gonorrhea
     - - 'tr: cause gonorrhea'
-    - - 'intr: have gonorrhea'
+    - - 'intr (optional -cu): have gonorrhea'
       - suffer from gonorrhea
     epo:
     - - gonoreo
@@ -77999,7 +78827,7 @@ gotas:
     - - dive
       - plunge
       - submersion
-    - - 'tr/intr: dive'
+    - - 'tr/intr (optional -cu): dive'
       - plunge
       - submerge
     epo:
@@ -78028,6 +78856,48 @@ gotas:
       Arabisa: غَطَسَ &ldquo;gatasa&rdquo;
       Hindi: ग़ोता &ldquo;gota&rdquo;
       Parsisa: غوطه &ldquo;ğute&rdquo;
+gotascune:
+  term: gotascune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - diving
+      - plunging
+      - submerging
+    epo: []
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - gotas
+    - +
+    - -cu
+    - +
+    - -ne
+gotasne:
+  term: gotasne
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - diving
+      - plunging
+      - submerging
+    epo: []
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - gotas
+    - +
+    - -ne
 gotaspiu:
   term: gotaspiu
   word class: b
@@ -78060,13 +78930,6 @@ gotaspiu:
     - gotas
     - +
     - piu
-    natlang similar:
-      Arabisa: غَطَّاس &ldquo;gatas&rdquo;
-      Doycisa: Taucher
-      Englisa: dabchick
-      Espanisa: somorgujo
-      Hindi: पनडुब्बी पक्षी &ldquo;pandubi pakxi&rdquo;
-      Vyetnamsa: chim lặn
 gotasyen:
   term: gotasyen
   word class: b
@@ -78843,7 +79706,7 @@ grenadali:
     zho: []
   etymology:
     derived:
-    - Grenada
+    - grenada
     - +
     - -li
 grenadayen:
@@ -78863,7 +79726,7 @@ grenadayen:
     zho: []
   etymology:
     derived:
-    - Grenada
+    - grenada
     - +
     - -yen
 gresa:
@@ -79207,10 +80070,18 @@ gude:
     - - cosquillas
     - - hacer cosquillas
       - cosquill(e)ar
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Kitzeln
+    - - kitzeln
+    fra:
+    - - chatouille
+    - - chatouiller
+    rus:
+    - - щекотка
+    - - щекотать
+    zho:
+    - - 搔痒
+      - 胳肢
   etymology:
     natlang:
       Bulgarisa: гъдел &ldquo;gudel&rdquo;
@@ -79357,7 +80228,7 @@ gujaratili:
     zho: []
   etymology:
     derived:
-    - Gujarati
+    - gujarati
     - +
     - -li
 gujaratisa:
@@ -79377,7 +80248,7 @@ gujaratisa:
     zho: []
   etymology:
     derived:
-    - Gujarati
+    - gujarati
     - +
     - -sa
 gujaratiyen:
@@ -79397,7 +80268,7 @@ gujaratiyen:
     zho: []
   etymology:
     derived:
-    - Gujarati
+    - gujarati
     - +
     - -yen
 guje:
@@ -79407,7 +80278,7 @@ guje:
   trans:
     eng:
     - - fracture
-    - - 'tr/intr: fracture (<em>become fractured or cause to fracture</em>)'
+    - - 'tr/intr (optional -cu): fracture (<em>become fractured or cause to fracture</em>)'
     epo:
     - - frakasiĝo
     - - frakasiĝi
@@ -79802,7 +80673,7 @@ guti:
   trans:
     eng:
     - - solid
-    - - 'tr/intr: solidify (<em>cause to turn into or become solid</em>)'
+    - - 'tr/intr (optional -cu): solidify (<em>cause to turn into or become solid</em>)'
     epo:
     - - solido
     spa:
@@ -79849,7 +80720,7 @@ guton:
     - - pain
       - ache
     - - 'tr: hurt (<em>cause pain</em>)'
-    - - 'intr: ache'
+    - - 'intr (optional -cu): ache'
       - hurt (<em>feel pain, have pain, suffer from pain</em>)
     epo:
     - - doloro
@@ -79868,6 +80739,27 @@ guton:
     natlang:
       Koreasa: 고통 &ldquo;gotong&rdquo;
       Putunhwa: 苦痛 &ldquo;kǔt&ograve;ng&rdquo;
+gutoncune:
+  term: gutoncune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - hurting
+    epo:
+    - - dolora
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - guton
+    - +
+    - -cu
+    - +
+    - -ne
 gutonne:
   term: gutonne
   word class: t
@@ -80298,7 +81190,7 @@ gwatemalali:
     zho: []
   etymology:
     derived:
-    - Gwatemala
+    - gwatemala
     - +
     - -li
 gwatemalayen:
@@ -80318,7 +81210,7 @@ gwatemalayen:
     zho: []
   etymology:
     derived:
-    - Gwatemala
+    - gwatemala
     - +
     - -yen
 ha:
@@ -80957,7 +81849,8 @@ hakeyen:
     - - jáquer
       - <em>hacker</em>
       - pirata informático
-    deu: []
+    deu:
+    - - Hacker
     fra: []
     rus: []
     zho: []
@@ -81861,8 +82754,6 @@ hantabendu:
     - hanta
     - +
     - bendu
-    natlang similar:
-      Parsisa: دستبند &ldquo;dastband&rdquo;
 hantabol:
   term: hantabol
   word class: b
@@ -82096,7 +82987,7 @@ harabu:
       - spoil
       - desolate
       - devastate
-    - - 'intr: get ruined'
+    - - 'intr (optional -cu): get ruined'
       - get wrecked
       - get spoiled
       - get devastated
@@ -82194,7 +83085,11 @@ harase:
     - - hostigar
       - acosar
       - vejar
-    deu: []
+    deu:
+    - - Belästigung
+      - Schikane
+    - - belästigen
+      - schikanieren
     fra: []
     rus: []
     zho: []
@@ -82217,10 +83112,14 @@ hardal:
     spa:
     - - mostaza
       - jenab(l)e
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Senf
+    fra:
+    - - moutarde
+    rus:
+    - - горчица
+    zho:
+    - - 芥末
   etymology:
     natlang:
       Arabisa: خَرْدَل &ldquo;hardal&rdquo;
@@ -82242,10 +83141,14 @@ hardwer:
     - - <em>hardware</em>
       - equipo
       - soporte físico
-    deu: []
-    fra: []
+    deu:
+    - - Hardware
+    fra:
+    - - matériel (informatique)
+      - hardware
     rus: []
-    zho: []
+    zho:
+    - - 硬件
   etymology:
     natlang:
       Doycisa: Hardaware
@@ -82395,10 +83298,14 @@ hariri:
     - - silko
     spa:
     - - seda
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Seide
+    fra:
+    - - soie
+    rus:
+    - - шёлк
+    zho:
+    - - 丝绸
   etymology:
     natlang:
       Arabisa: حَرِير &ldquo;harir&rdquo;
@@ -82419,8 +83326,11 @@ haririsim:
       - sedeño
       - con sedas
     deu: []
-    fra: []
-    rus: []
+    fra:
+    - - soyeux
+    rus:
+    - - шелковистый
+      - шёлковый
     zho: []
   etymology:
     derived:
@@ -82437,8 +83347,10 @@ harita:
     - - map
     epo:
     - - mapo
+    - - mapi
     spa:
     - - mapa
+    - - mapear
     deu: []
     fra: []
     rus: []
@@ -82502,7 +83414,7 @@ harka:
     - - move
       - motion
       - movement
-    - - 'tr/intr: move'
+    - - 'tr/intr (optional -cu): move'
     epo:
     - - movo
       - movado
@@ -82522,6 +83434,67 @@ harka:
       Hindi: हरकत &ldquo;harkat&rdquo;
       Parsisa: حرکت &ldquo;harakat&rdquo;
       Turkisa: hareket
+harkaabil:
+  term: harkaabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - mobile
+    epo:
+    - - mova
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - harka
+    - +
+    - -abil
+harkacuabil:
+  term: harkacuabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - mobile
+    epo:
+    - - mova
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - harka
+    - +
+    - -cu
+    - +
+    - -abil
+harkacune:
+  term: harkacune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - moving
+    epo:
+    - - movanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - harka
+    - +
+    - -cu
+    - +
+    - -ne
 harkakal:
   term: harkakal
   word class: t
@@ -82544,6 +83517,25 @@ harkakal:
     - harka
     - +
     - -kal
+harkane:
+  term: harkane
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - moving
+    epo:
+    - - movanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - harka
+    - +
+    - -ne
 harki:
   term: harki
   word class: l
@@ -82580,10 +83572,20 @@ harufi:
     spa:
     - - letra
     - - deletrear
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Buchstabe
+    - - buchstabieren
+      - schreiben
+    fra:
+    - - lettre (<em>alphabet</em>)
+    - - épeler
+    rus:
+    - - буква
+    - - произносить по буквам
+    zho:
+    - - 字母
+    - - 拼写
+      - 拼字
   etymology:
     natlang:
       Arabisa: حرف &ldquo;harf&rdquo;
@@ -82648,10 +83650,14 @@ harxaf:
     - - skvamo
     spa:
     - - escama
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Schuppe
+    fra:
+    - - écaille
+    rus:
+    - - чешуя
+    zho:
+    - - 鳞
   etymology:
     natlang:
       Arabisa: حَرْشَف &ldquo;harxaf&rdquo;
@@ -82780,6 +83786,7 @@ haseda:
   trans:
     eng:
     - - envy
+    - - envy
     epo:
     - - envio
     - - envii
@@ -82875,10 +83882,14 @@ hasyum:
     spa:
     - - hassio
       - Hs
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hassium
+    fra:
+    - - hassium
+    rus:
+    - - хассий
+    zho:
+    - - "\U0002CB76"
   etymology:
     natlang:
       Arabisa: هَسْيُوم &ldquo;hasyum&rdquo;
@@ -82980,7 +83991,7 @@ hatari:
     - - danger
     - - 'tr: make dangerous'
       - cause to be dangerous
-    - - 'intr: be dangerous'
+    - - 'intr (optional -cu): be dangerous'
     epo:
     - - danĝero
     - - esti danĝera
@@ -83109,9 +84120,15 @@ haulsa:
     spa:
     - - aullido
     - - aullar
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Heulen
+    - - heulen
+    fra:
+    - - hurlement
+    - - hurler
+    rus:
+    - - вой
+    - - выть
     zho: []
   etymology:
     derived:
@@ -83173,10 +84190,14 @@ hawa:
     - - aero
     spa:
     - - aire
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Luft
+    fra:
+    - - air
+    rus:
+    - - воздух
+    zho:
+    - - 空气
   etymology:
     natlang:
       Arabisa: هواء &ldquo;hawa&rdquo;
@@ -83199,9 +84220,11 @@ hawa-:
     spa:
     - - aero-
     deu: []
-    fra: []
+    fra:
+    - - aéro-
     rus: []
-    zho: []
+    zho:
+    - - 空气-
   etymology:
     am oko:
       hawa: hawa
@@ -83444,10 +84467,14 @@ haxi:
       - haŝio(j)
     spa:
     - - palillos (chinos) (<em>utensilios para comer</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Essstäbchen
+    fra:
+    - - baguettes (<em>couverts</em>)
+    rus:
+    - - палочки (для еды)
+    zho:
+    - - 筷子
   etymology:
     natlang:
       Banglasa: হাশি &ldquo;haxi&rdquo;
@@ -83552,7 +84579,7 @@ hayasa:
     zho: []
   etymology:
     derived:
-    - Haya
+    - haya
     - +
     - -sa
 hayayen:
@@ -83572,7 +84599,7 @@ hayayen:
     zho: []
   etymology:
     derived:
-    - Haya
+    - haya
     - +
     - -yen
 hayti:
@@ -83632,6 +84659,7 @@ hayzi:
     - - menstruation
       - period
     - - menstruate
+      - be on one's period
     epo:
     - - menstruo
       - monataĵo
@@ -83659,15 +84687,19 @@ hazam:
   trans:
     eng:
     - - digestion
-    - - 'tr/intr: digest'
+    - - 'tr/intr (optional -cu): digest'
     epo:
     - - digesto
     - - digesti
+    - - digestiĝi
     spa:
     - - digestión
     - - digerir
     - - digerirse
-    deu: []
+    deu:
+    - - Verdauung
+    - - verdauen
+    - - verdaulich sein
     fra: []
     rus: []
     zho: []
@@ -83687,8 +84719,10 @@ hazamdo:
     - - digestita
     spa:
     - - digerido
-    deu: []
-    fra: []
+    deu:
+    - - verdaut
+    fra:
+    - - digéré
     rus: []
     zho: []
   etymology:
@@ -83716,6 +84750,26 @@ hazamli:
     - hazam
     - +
     - -li
+hazamne:
+  term: hazamne
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - digesting
+      - digestive
+    epo:
+    - - digestanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - hazam
+    - +
+    - -ne
 hazina:
   term: hazina
   word class: b
@@ -84659,8 +85713,10 @@ hegemoni:
     - - hegemonio
     spa:
     - - hegemonía
-    deu: []
-    fra: []
+    deu:
+    - - hégémonie
+    fra:
+    - - hégémonie
     rus: []
     zho: []
   etymology:
@@ -84790,10 +85846,14 @@ helyum:
     spa:
     - - helio
       - He
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Helium
+    fra:
+    - - hélium
+    rus:
+    - - гелий
+    zho:
+    - - 氦
   etymology:
     natlang:
       Arabisa: هِيلْيُوم &ldquo;hilyum&rdquo;
@@ -84876,7 +85936,7 @@ henri:
     rus:
     - - генри
     zho:
-    - - 亨利
+    - - 亨利 (单位)
   etymology:
     natlang:
       Arabisa: هنري &ldquo;hinri&rdquo;
@@ -84912,7 +85972,7 @@ henrik:
     rus:
     - - Генрих
     zho:
-    - - 亨利
+    - - 亨利 (名字)
   etymology:
     natlang:
       Arabisa: هنري &ldquo;Hinri&rdquo;
@@ -85037,7 +86097,7 @@ herkuleli:
     zho: []
   etymology:
     derived:
-    - Herkule
+    - herkule
     - +
     - -li
 herkulesim:
@@ -85057,7 +86117,7 @@ herkulesim:
     zho: []
   etymology:
     derived:
-    - Herkule
+    - herkule
     - +
     - -sim
 herni:
@@ -85068,10 +86128,11 @@ herni:
     eng:
     - - hernia
     - - 'tr: herniate'
-    - - 'intr: get herniated'
+    - - 'intr (optional -cu): get herniated'
     epo:
     - - hernio
     - - herniigi
+    - - herniiĝi
     spa:
     - - hernia
     - - herniar
@@ -85104,10 +86165,19 @@ hero:
     spa:
     - - héroe
       - heroína
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Held
+      - Heldin
+      - Heros
+      - Heroin
+    fra:
+    - - héros
+      - héroïne
+    rus:
+    - - герой
+      - героиня
+    zho:
+    - - 英雄
   etymology:
     natlang:
       Doycisa: Heros
@@ -85130,10 +86200,14 @@ heroina:
     - - heroeno
     spa:
     - - heroína (<em>droga</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Heroin
+    fra:
+    - - héroïne
+    rus:
+    - - героин
+    zho:
+    - - 海洛因
   etymology:
     derived:
     - hero
@@ -85190,7 +86264,7 @@ herpes:
     eng:
     - - herpes
     - - 'tr: cause herpes'
-    - - 'intr: have herpes'
+    - - 'intr (optional -cu): have herpes'
       - suffer from herpes
     epo:
     - - herpeto
@@ -85198,11 +86272,14 @@ herpes:
     - - herpe(s)
       - (herpes) zóster
       - fuego (pérsico)
-    deu: []
-    fra: []
+    deu:
+    - - Herpes
+    fra:
+    - - herpès
     rus:
     - - герпес
-    zho: []
+    zho:
+    - - 疱疹
   etymology:
     natlang:
       Arabisa: هربس &ldquo;hirbis&rdquo;
@@ -85322,10 +86399,14 @@ hewan:
     spa:
     - - animal
       - <em>Animalia</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Tier
+    fra:
+    - - animal
+    rus:
+    - - животное
+    zho:
+    - - 动物
   etymology:
     natlang:
       Arabisa: حيوان &ldquo;hayawan&rdquo;
@@ -85346,9 +86427,17 @@ hewandom:
       - zoo
     spa:
     - - zoológico
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Zoo
+      - Tiergarten
+      - Tierpark
+    fra:
+    - - zoo
+      - parc zoologique
+      - jardin zoologique
+    rus:
+    - - зоопарк
+      - зоосад
     zho: []
   etymology:
     derived:
@@ -85554,14 +86643,18 @@ hidrogen:
     spa:
     - - hidrógeno
       - H
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Wasserstoff
+    fra:
+    - - hydrogène
+    rus:
+    - - водород
+    zho:
+    - - 氢
   etymology:
     natlang:
       Arabisa: هِيدْرُوجِين &ldquo;hidrojen&rdquo;, هَيْدْرُوجِين &ldquo;haydrojin&rdquo;
-      Doycisa: Hydrogen, Hydrogenium
+      Doycisa: Hydrogen - guxi
       Englisa: hydrogen
       Espanisa: hidr&oacute;geno
       Fransesa: hydrog&egrave;ne
@@ -85835,10 +86928,14 @@ hilal:
     spa:
     - - creciente (<em>forma de la luna</em>)
       - lúnula
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Mondsichel
+    fra:
+    - - croissant
+    rus:
+    - - полумесяц
+    zho:
+    - - 月牙
   etymology:
     natlang:
       Arabisa: هِلَال &ldquo;hilal&rdquo;
@@ -85861,10 +86958,15 @@ hilu:
     spa:
     - - talón
       - tacón
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Ferse
+    fra:
+    - - talon
+    rus:
+    - - пятка
+    zho:
+    - - 脚跟
+      - 后跟
   etymology:
     natlang:
       Englisa: heel
@@ -85974,7 +87076,7 @@ hindiyen:
     zho: []
   etymology:
     derived:
-    - Hindi
+    - hindi
     - +
     - -yen
 hindu:
@@ -86010,13 +87112,17 @@ hinduismo:
     - - Hinduismo
     spa:
     - - hinduismo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hinduismus
+    fra:
+    - - hindouisme
+    rus:
+    - - индуизм
+    zho:
+    - - 印度教
   etymology:
     derived:
-    - Hindu
+    - hindu
     - +
     - -ismo
 hinete:
@@ -86507,10 +87613,14 @@ hipu:
     spa:
     - - cadera
       - cox-
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hüfte
+    fra:
+    - - hanche
+    rus:
+    - - бедро
+    zho:
+    - - 髋
   etymology:
     natlang:
       Doycisa: H&uuml;fte
@@ -86694,10 +87804,16 @@ histerika:
     - - histerio
     spa:
     - - histeria
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hysterie
+    fra:
+    - - hystérie
+    rus:
+    - - истерия
+      - истерика
+    zho:
+    - - 歇斯底里
+      - 癔症
   etymology:
     natlang:
       Arabisa: هِسْتِيرْيَا &ldquo;histirya&rdquo;
@@ -86823,7 +87939,8 @@ historiyen:
     spa:
     - - historiador
     deu: []
-    fra: []
+    fra:
+    - - historien
     rus: []
     zho: []
   etymology:
@@ -86872,10 +87989,14 @@ hodaw:
     spa:
     - - nuez (<em>fruto del nogal</em>)
       - <em>Juglans</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Walnuss
+    fra:
+    - - (noix de) noyer
+    rus:
+    - - (грецкий) орех
+    zho:
+    - - 核桃
   etymology:
     natlang:
       Koreasa: 호두 &ldquo;hodu&rdquo;
@@ -86919,10 +88040,14 @@ hoki:
     spa:
     - - <em>hockey</em>
       - jóquey
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hockey
+    fra:
+    - - hockey
+    rus:
+    - - хоккей
+    zho:
+    - - 曲棍球
   etymology:
     natlang:
       Arabisa: هُوكِي &ldquo;huki&rdquo;
@@ -86952,7 +88077,8 @@ hokiyen:
     spa:
     - - jugador de <em>hockey</em>
     deu: []
-    fra: []
+    fra:
+    - - hockeyeur
     rus: []
     zho: []
   etymology:
@@ -87002,10 +88128,14 @@ holmyum:
     spa:
     - - holmio
       - Ho
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Holmium
+    fra:
+    - - holmium
+    rus:
+    - - гольмий
+    zho:
+    - - 鈥
   etymology:
     natlang:
       Arabisa: هُلْمِيُوم &ldquo;hulmiyum&rdquo;
@@ -87041,10 +88171,14 @@ holoba:
       - fenogreco
       - fenugreco
       - <em>Trigonella</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Bockshornklee
+    fra:
+    - - fenugrec
+    rus:
+    - - пажитник (сенной)
+    zho:
+    - - 胡芦巴
   etymology:
     natlang:
       Espanisa: alholva
@@ -87098,7 +88232,7 @@ homa:
     - - fever
     - - tr
     - - cause fever
-    - - 'intr: have a fever'
+    - - 'intr (optional -cu): have a fever'
       - suffer from fever
       - be feverish
     epo:
@@ -87185,14 +88319,16 @@ honcay:
     spa:
     - - iris (<em>anatomía</em>)
     deu: []
-    fra: []
+    fra:
+    - - iris
     rus: []
-    zho: []
+    zho:
+    - - 虹膜
   etymology:
     natlang:
       Koreasa: 홍채 &ldquo;hongce&rdquo;
       Niponsa: 虹彩 &ldquo;kōsai&rdquo;
-      Putunhwa: 虹彩 &ldquo;hongcay&rdquo;
+      Putunhwa: 虹彩 &ldquo;hongcay&rdquo; - guxi
 hondura:
   term: Hondura
   word class: su n
@@ -87232,7 +88368,7 @@ hondurali:
     zho: []
   etymology:
     derived:
-    - Hondura
+    - hondura
     - +
     - -li
 hondurayen:
@@ -87252,7 +88388,7 @@ hondurayen:
     zho: []
   etymology:
     derived:
-    - Hondura
+    - hondura
     - +
     - -yen
 hongu:
@@ -87325,10 +88461,18 @@ hor:
     spa:
     - - ronquido
     - - roncar
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Schnarchen
+    - - schnarchen
+    fra:
+    - - ronflement
+    - - ronfler
+    rus:
+    - - храп
+    - - храпеть
+    zho:
+    - - 鼾声
+    - - 打鼾
   etymology:
     kwasilexi:
       Arabisa: شَخْر &ldquo;xahr&rdquo;
@@ -87379,10 +88523,15 @@ hormona:
     - - hormono
     spa:
     - - hormona
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hormon
+    fra:
+    - - hormone
+    rus:
+    - - гормон
+    zho:
+    - - 激素
+      - 荷尔蒙
   etymology:
     natlang:
       Arabisa: هُرْمُون &ldquo;hurmun&rdquo;
@@ -87416,10 +88565,17 @@ hormonali:
     spa:
     - - hormonal
     - - hormonalmente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - hormonal
+    fra:
+    - - hormonal
+    - - hormonalement
+    rus:
+    - - гормональный
+    - - гормонально
+    zho:
+    - - 激素的
+      - 荷尔蒙的
   etymology:
     derived:
     - hormona
@@ -87436,9 +88592,12 @@ horne:
     - - ronkanta
     spa:
     - - roncante
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - schnarchend
+    fra:
+    - - ronflant
+    rus:
+    - - храпящий
     zho: []
   etymology:
     derived:
@@ -87458,10 +88617,17 @@ hortum:
     spa:
     - - trompa
       - probóscide
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Rüssel
+    fra:
+    - - proboscis
+      - trompe
+    rus:
+    - - хоботок
+      - хобот
+    zho:
+    - - 长鼻
+      - 象鼻
   etymology:
     natlang:
       Arabisa: خُرْطُوم &ldquo;hurtum&rdquo;
@@ -87540,10 +88706,15 @@ hosu:
     - - lago
     spa:
     - - lago
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - See
+    fra:
+    - - lac
+    rus:
+    - - озеро
+    zho:
+    - - 湖泊
+      - 湖
   etymology:
     natlang:
       Koreasa: 호수 &ldquo;hosu&rdquo;
@@ -87562,10 +88733,15 @@ hotdogu:
     - - <em>hotdog</em>
       - perr(it)o caliente
       - jocho
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hotdog
+      - Bratwurst im Brötchen
+    fra:
+    - - hot-dog
+    rus:
+    - - хот-дог
+    zho:
+    - - 热狗
   etymology:
     natlang:
       Arabisa: هُوت دُوج &ldquo;hut dug&rdquo;
@@ -87632,6 +88808,8 @@ hotuba:
     - - prediki
     spa:
     - - sermón
+      - prédica
+      - discurso
     - - predicar
     deu: []
     fra: []
@@ -88101,9 +89279,6 @@ huf:
       Doycisa: Huf
       Englisa: hoof
       Indonesisa: huf
-    natlang similar:
-      Hindisa: खुर &ldquo;hur&rdquo;
-      Koreasa: 굽 &ldquo;gup&rdquo;
 hufax:
   term: hufax
   word class: b
@@ -88180,6 +89355,7 @@ huhusa:
   category: derived
   trans:
     eng:
+    - - hoot
     - - hoot
     epo:
     - - ululo
@@ -88436,10 +89612,14 @@ humus:
       - humuso
     spa:
     - - hum(m)us (bi tahina)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Hummus
+    fra:
+    - - houmous
+    rus:
+    - - хумус
+    zho:
+    - - 鹰嘴豆泥
   etymology:
     natlang:
       Arabisa: حمص بطحينة &ldquo;hummus bi tahini&rdquo;
@@ -88471,7 +89651,7 @@ hunfun:
       - arouse
       - stimulate
       - agitate
-    - - 'intr: be (<em>feel</em>) excited'
+    - - 'intr (optional -cu): be (<em>feel</em>) excited'
       - be (<em>feel</em>) aroused
       - be (<em>feel</em>) stimulated
       - be (<em>feel</em>) agitated
@@ -88524,6 +89704,27 @@ hunfundo:
     - hunfun
     - +
     - -do
+hunfunne:
+  term: hunfunne
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - arousing
+      - stimulating
+    epo:
+    - - ekscitanta
+      - agitanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - hunfun
+    - +
+    - -ne
 hura:
   term: hura
   word class: b.oj; il
@@ -88543,6 +89744,9 @@ hura:
     - - hurai (al)
     - - hura
     spa:
+    - - hurra
+      - vítor
+    - - vitorear
     - - hurra
     deu: []
     fra: []
@@ -88595,10 +89799,15 @@ hurma:
     spa:
     - - dátil
       - <em>Phoenix dactylifera</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Dattel
+    fra:
+    - - datte
+    rus:
+    - - финик
+    zho:
+    - - 椰枣
+      - 海枣
   etymology:
     natlang:
       Indonesisa: kurma
@@ -88749,10 +89958,18 @@ hwam:
     spa:
     - - bostezo
     - - bostezar
-    deu: []
-    fra: []
+    deu:
+    - - Gähnen
+    - - gähnen
+    fra:
+    - - bâillement
+    - - bâiller
     rus: []
-    zho: []
+    zho:
+    - - 哈欠
+      - 呵欠
+    - - 打哈欠
+      - 打呵欠
   etymology:
     kwasilexi:
       Doycisa: g&auml;hn
@@ -88797,8 +90014,10 @@ hwamne:
     - - oscedanta
     spa:
     - - bostezante
-    deu: []
-    fra: []
+    deu:
+    - - gähnend
+    fra:
+    - - bâillant
     rus: []
     zho: []
   etymology:
@@ -88820,10 +90039,14 @@ hwandun:
       - auricalco
       - azófar
       - calco-
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Messing
+    fra:
+    - - laiton
+    rus:
+    - - латунь
+    zho:
+    - - 黄铜
   etymology:
     natlang:
       Koreasa: 황동 &ldquo;hwangdong&rdquo;
@@ -88943,14 +90166,18 @@ hwese:
     - - grize
     spa:
     - - (de color) gris
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - grau
+    fra:
+    - - gris
+    rus:
+    - - серый
+    zho:
+    - - 灰色
   etymology:
     natlang:
-      Koreasa: 회색 &ldquo;hoesaeg&rdquo;
-      Putunhwa: 灰色 &ldquo;huīs&egrave;&rdquo;
+      Koreasa: 회색 &ldquo;hwesek&rdquo;
+      Putunhwa: 灰色 &ldquo;hweyse&rdquo;
 hyanatu:
   term: hyanatu
   word class: b.oj
@@ -88967,10 +90194,15 @@ hyanatu:
     spa:
     - - traición
     - - traicionar
-    deu: []
-    fra: []
+    deu:
+    - - Verrat
+    - - verraten
+    fra:
+    - - trahison
+    - - trahir
     rus: []
-    zho: []
+    zho:
+    - - 背叛
   etymology:
     natlang:
       Arabisa: خِيَانَة &ldquo;hiyana&rdquo;, الْخِيَانَةُ &ldquo;al-hiyanatu&rdquo;
@@ -88991,8 +90223,10 @@ hyanatudo:
     spa:
     - - traicionado
       - delatado
-    deu: []
-    fra: []
+    deu:
+    - - verraten
+    fra:
+    - - trahi
     rus: []
     zho: []
   etymology:
@@ -89011,8 +90245,10 @@ hyanatuyen:
     - - perfidulo
     spa:
     - - traidor
-    deu: []
-    fra: []
+    deu:
+    - - Verräter
+    fra:
+    - - traître
     rus: []
     zho: []
   etymology:
@@ -89032,10 +90268,15 @@ hyara:
     spa:
     - - pepino
       - <em>Cucumis sativus</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gurke
+    fra:
+    - - concombre
+    rus:
+    - - огурец
+    zho:
+    - - 黄瓜
+      - 胡瓜
   etymology:
     natlang:
       Arabisa: خيار &ldquo;khiar&rdquo;
@@ -89085,20 +90326,23 @@ hyerarki:
       - nhierarĥio
     spa:
     - - jerarquía
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Hierarchie
+    fra:
+    - - hiérarchie
+    rus:
+    - - иерархия
     zho: []
   etymology:
     natlang:
-      Doycisa: Hierarchie &ldquo;hyerarhi&rdquo;
-      Englisa: hierachy
-      Espanisa: jerarqu&iacute;a &ldquo;herarkia&rdquo;
-      Fransesa: hi&eacute;rarchie &ldquo;yerarxi&rdquo;
+      Doycisa: Hierarchie
+      Englisa: hierarchy
+      Espanisa: jerarqu&iacute;a
+      Fransesa: hi&eacute;rarchie
       Indonesisa: hirarki
       Pilipinasa: herarkiya
       Rusisa: иерархия &ldquo;ierarhiya&rdquo;
-      Turkisa: hiyerarşi &ldquo;hyerarxi&rdquo;
+      Turkisa: hiyerarşi
 hyerarkili:
   term: hyerarkili
   word class: t
@@ -89441,18 +90685,15 @@ idi:
       Vyetnamsa: đi
 idol:
   term: idol
-  word class: b.oj
+  word class: b
   category: root
   trans:
     eng:
     - - idol
-    - - idolize
     epo:
     - - idolo
     spa:
     - - ídolo
-    - - idolatrar
-      - idolizar
     deu: []
     fra: []
     rus: []
@@ -89472,6 +90713,28 @@ idol:
       Putunhwa: 愛豆 &ldquo;aydow&rdquo;
       Rusisa: идол &ldquo;idol&rdquo;
       Turkisa: idol
+idolgi:
+  term: idolgi
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - idolize
+    epo:
+    - - idoligo
+    - - idoligi
+    spa:
+    - - idolatrar
+      - idolizar
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - idol
+    - +
+    - -gi
 idolibada:
   term: idolibada
   word class: b
@@ -89479,6 +90742,9 @@ idolibada:
   trans:
     eng:
     - - idolatry
+      - idol worship
+    - - idolatrize
+      - worship idols
     epo:
     - - idolismo
       - idolservo
@@ -89486,9 +90752,12 @@ idolibada:
     spa:
     - - idolatría
     deu: []
-    fra: []
+    fra:
+    - - idolâtrie
+    - - idolâtrer
     rus: []
-    zho: []
+    zho:
+    - - 偶像崇拜
   etymology:
     derived:
     - idol
@@ -89598,8 +90867,12 @@ ihtilas:
       - malversación
     - - desfalcar
       - malversar
-    deu: []
-    fra: []
+    deu:
+    - - Unterschlagung
+    - - unterschlagen
+    fra:
+    - - détournement
+    - - détourner
     rus: []
     zho: []
   etymology:
@@ -89884,14 +91157,22 @@ ikono:
       - bildeto
     spa:
     - - ícono (<em>religión, popular, informática </em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Ikone
+      - Icon
+    fra:
+    - - icône
+    rus:
+    - - икона
+      - иконка
+      - значок
+    zho:
+    - - 圣像
+      - 图标
   etymology:
     natlang:
       Arabisa: أَيْقُونَة &ldquo;ayquna&rdquo;
-      Doycisa: Ikone
+      Doycisa: Ikone, Icon
       Englisa: icon
       Espanisa: icono
       Fransesa: ic&ocirc;ne &ldquo;ikon&rdquo;
@@ -89916,8 +91197,12 @@ iksir:
     - - poción
       - pócima
       - elíxir
-    deu: []
-    fra: []
+    deu:
+    - - Elixier
+      - Trank
+    fra:
+    - - potion
+      - élixir
     rus: []
     zho: []
   etymology:
@@ -89957,7 +91242,7 @@ ilhamu:
     eng:
     - - inspiration
     - - 'tr: inspire'
-    - - 'intr: be (<em>feel</em>) inspired'
+    - - 'intr (optional -cu): be (<em>feel</em>) inspired'
     epo:
     - - inspiro
     - - inspiri
@@ -89976,6 +91261,25 @@ ilhamu:
       Hindi: इलहाम &ldquo;ilham&rdquo;
       Parsisa: الهام &ldquo;elham&rdquo;
       Turkisa: ilham vermek
+ilhamuabil:
+  term: ilhamuabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - inspirational
+    epo:
+    - - inspira
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - ilhamu
+    - +
+    - -abil
 ilhamudo:
   term: ilhamudo
   word class: t
@@ -90003,7 +91307,8 @@ ilhamune:
   category: derived
   trans:
     eng:
-    - - inspirational
+    - - inspiring
+      - inspirational
     epo:
     - - inspiranta
     - - inspirante
@@ -90034,7 +91339,9 @@ ilusi:
     - - ilusión
     - - ilusionar
     deu: []
-    fra: []
+    fra:
+    - - illusion
+    - - illusionner
     rus: []
     zho: []
   etymology:
@@ -90489,9 +91796,12 @@ imperi:
     spa:
     - - imperio
     deu: []
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - empire
+    rus:
+    - - империя
+    zho:
+    - - 帝国
   etymology:
     natlang:
       Arabisa: إِمْبْرَاطُور &ldquo;imbratur&rdquo; - imperikef, إِمْبِرَاطُورِيّ
@@ -90517,10 +91827,14 @@ imperiismo:
       - imperialismo
     spa:
     - - imperialismo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Imperialismus
+    fra:
+    - - impérialisme
+    rus:
+    - - империализм
+    zho:
+    - - 帝国主义
   etymology:
     derived:
     - imperi
@@ -90538,9 +91852,12 @@ imperikef:
     spa:
     - - emperador
     deu: []
-    fra: []
+    fra:
+    - - empereur
     rus: []
-    zho: []
+    zho:
+    - - 皇帝
+      - 帝王
   etymology:
     derived:
     - imperi
@@ -90561,7 +91878,8 @@ imperili:
       - señorial
       - real
     deu: []
-    fra: []
+    fra:
+    - - impérial
     rus: []
     zho: []
   etymology:
@@ -90773,10 +92091,16 @@ incesto:
       - incesto
     spa:
     - - incesto
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Inzest
+    fra:
+    - - inceste
+    rus:
+    - - инцест
+      - кровосмешение
+    zho:
+    - - 近親性行為
+      - 近親相姦
   etymology:
     natlang:
       Doycisa: Inzest
@@ -90804,8 +92128,10 @@ incestoli:
       - inceste
     spa:
     - - incestuoso
-    deu: []
-    fra: []
+    deu:
+    - - inzestuös
+    fra:
+    - - incestueux
     rus: []
     zho: []
   etymology:
@@ -90932,7 +92258,7 @@ indonesili:
     zho: []
   etymology:
     derived:
-    - Indonesi
+    - indonesi
     - +
     - -li
 indonesisa:
@@ -90952,7 +92278,7 @@ indonesisa:
     zho: []
   etymology:
     derived:
-    - Indonesi
+    - indonesi
     - +
     - -sa
 indonesiyen:
@@ -90972,7 +92298,7 @@ indonesiyen:
     zho: []
   etymology:
     derived:
-    - Indonesi
+    - indonesi
     - +
     - -yen
 industri:
@@ -91082,7 +92408,7 @@ inergo:
     eng:
     - - hiring
     - - 'tr: hire'
-    - - 'intr: get oneself hired'
+    - - 'intr (optional -cu): get oneself hired'
     epo:
     - - dungo
     - - dungiĝi
@@ -91101,6 +92427,27 @@ inergo:
     - in-
     - +
     - ergo
+inergodo:
+  term: inergodo
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - hired
+    epo:
+    - - dungita
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - in-
+    - +
+    - ergo
+    - +
+    - -do
 inergogi:
   term: inergogi
   word class: b.oj
@@ -91176,13 +92523,16 @@ infer:
       Fransesa: inf&eacute;rieur
 influenza:
   term: influenza
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - flu
       - influenza
       - grippe
+    - - 'tr: cause influenza'
+    - - 'intr (optional -cu): have influenza'
+      - suffer from influenza
     epo:
     - - gripo
       - influenco
@@ -91560,11 +92910,14 @@ infraroso:
     - roso
 infratermo:
   term: infratermo
-  word class: b
+  word class: b.oro
   category: derived
   trans:
     eng:
     - - hypothermia
+    - - 'tr: cause hypothermia'
+    - - 'intr (optional -cu): have hypothermia'
+      - suffer from hypothermia
     epo:
     - - hipotermio
     spa:
@@ -92113,6 +93466,32 @@ inkludi:
       Espanisa: incluir
       Fransesa: inclure
       Rusisa: инклюзия &ldquo;inklyuziya&rdquo;
+inkoma:
+  term: inkoma
+  word class: b.oro
+  category: derived
+  trans:
+    eng:
+    - - 'tr: put in a coma'
+    - - 'intr (optional -cu): slip into a coma'
+      - go into a coma
+      - enter a coma
+      - become comatose
+    epo:
+    - - enkomatiĝo
+      - enkomatigo
+    - - enkomatiĝi
+      - enkomatigi
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - in-
+    - +
+    - koma
 inkopi:
   term: inkopi
   word class: b.oj
@@ -92298,7 +93677,8 @@ innetoli:
       - conectado
       - en la red
     deu: []
-    fra: []
+    fra:
+    - - en ligne
     rus: []
     zho: []
   etymology:
@@ -92567,8 +93947,10 @@ insanli:
       - antrope
     spa:
     - - humano
-    deu: []
-    fra: []
+    deu:
+    - - menschlich
+    fra:
+    - - humain
     rus: []
     zho: []
   etymology:
@@ -92661,7 +94043,7 @@ interes:
     eng:
     - - interest
     - - 'tr: interest'
-    - - 'intr: be interested (in)'
+    - - 'intr (optional -cu): be interested (in)'
       - have an interest (in)
     epo:
     - - intereso
@@ -92884,9 +94266,14 @@ intikamfil:
     spa:
     - - vengativo
       - vindicativo
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - rachsüchtig
+    fra:
+    - - vindicatif
+      - revanchiste
+    rus:
+    - - мстительный
+    - - мстительно
     zho: []
   etymology:
     derived:
@@ -93041,10 +94428,14 @@ intregalaksili:
     - - intergalaksia
     spa:
     - - intergaláctico
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - intergalaktisch
+    fra:
+    - - intergalactique
+    rus:
+    - - межгалактический
+    zho:
+    - - 星系际
   etymology:
     derived:
     - intre
@@ -93346,9 +94737,12 @@ intyazupul:
     spa:
     - - privilegiado
       - pudiente
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - privilegiert
+    fra:
+    - - privilégié
+    rus:
+    - - привилегированный
     zho: []
   etymology:
     derived:
@@ -93434,7 +94828,7 @@ inxo:
     eng:
     - - impression
     - - 'tr: impress'
-    - - 'intr: be (<em>feel</em>) impressed'
+    - - 'intr (optional -cu): be (<em>feel</em>) impressed'
     epo:
     - - impreso
       - efekto
@@ -93456,6 +94850,26 @@ inxo:
       Niponsa: 印象 &ldquo;inshō&rdquo;
       Putunhwa: 印象 &ldquo;y&igrave;nxi&agrave;ng&rdquo;
       Vyetnamsa: ấn tượng
+inxoabil:
+  term: inxoabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - impressive
+    epo:
+    - - impresa
+      - efekta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - inxo
+    - +
+    - -abil
 inxodo:
   term: inxodo
   word class: t
@@ -93639,7 +95053,7 @@ irakili:
     zho: []
   etymology:
     derived:
-    - Iraki
+    - iraki
     - +
     - -li
 irakiyen:
@@ -93659,7 +95073,7 @@ irakiyen:
     zho: []
   etymology:
     derived:
-    - Iraki
+    - iraki
     - +
     - -yen
 iran:
@@ -93701,7 +95115,7 @@ iranli:
     zho: []
   etymology:
     derived:
-    - Iran
+    - iran
     - +
     - -li
 iranyen:
@@ -93721,7 +95135,7 @@ iranyen:
     zho: []
   etymology:
     derived:
-    - Iran
+    - iran
     - +
     - -yen
 ire:
@@ -93816,7 +95230,7 @@ irisplanta:
     zho: []
   etymology:
     derived:
-    - Iris
+    - iris
     - +
     - planta
 irminger:
@@ -93892,9 +95306,13 @@ ironipul:
       - contradictorio
     - - irónicamente
       - paradójicamente
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - ironisch
+    fra:
+    - - ironique
+    rus:
+    - - иронический
+      - ироничный
     zho: []
   etymology:
     derived:
@@ -94005,12 +95423,13 @@ ise:
     a priori: true
 ishal:
   term: ishal
-  word class: b.nenoj
+  word class: b.oro
   category: root
   trans:
     eng:
     - - diarrhea
-    - - have diarrhea
+    - - 'tr: cause diarrhea'
+    - - 'intr (optional -cu): have diarrhea'
       - suffer from diarrhea
     epo:
     - - diareo
@@ -94085,7 +95504,7 @@ islamiya:
     zho: []
   etymology:
     derived:
-    - Islami
+    - islami
     - +
     - -ya
 islamiyen:
@@ -94106,7 +95525,7 @@ islamiyen:
     zho: []
   etymology:
     derived:
-    - Islami
+    - islami
     - +
     - -yen
 islandi:
@@ -94148,7 +95567,7 @@ islandisa:
     zho: []
   etymology:
     derived:
-    - Islandi
+    - islandi
     - +
     - -sa
 islandiyen:
@@ -94168,7 +95587,7 @@ islandiyen:
     zho: []
   etymology:
     derived:
-    - Islandi
+    - islandi
     - +
     - -yen
 ismael:
@@ -94276,9 +95695,12 @@ istalado:
     - - instalite
     spa:
     - - instalado
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - installiert
+    fra:
+    - - installé
+    rus:
+    - - установленный
     zho: []
   etymology:
     derived:
@@ -94395,6 +95817,9 @@ istyareli:
     eng:
     - - metaphoric
       - metaphorical
+      - figurative
+    - - metaphorically
+      - figuratively
     epo:
     - - metafora
       - tropa
@@ -94406,7 +95831,11 @@ istyareli:
     - - metafórico
     - - metafóricamente
     deu: []
-    fra: []
+    fra:
+    - - métaphorique
+      - figuré
+    - - métaphoriquement
+      - figurément
     rus: []
     zho: []
   etymology:
@@ -94523,7 +95952,7 @@ italili:
     zho: []
   etymology:
     derived:
-    - Itali
+    - itali
     - +
     - -li
 italisa:
@@ -94543,7 +95972,7 @@ italisa:
     zho: []
   etymology:
     derived:
-    - Itali
+    - itali
     - +
     - -sa
 italiyen:
@@ -94563,7 +95992,7 @@ italiyen:
     zho: []
   etymology:
     derived:
-    - Itali
+    - itali
     - +
     - -yen
 ite:
@@ -94675,7 +96104,8 @@ itis:
     eng:
     - - inflammation
     - - 'tr: inflame'
-    - - 'intr: be (<em>feel</em>) inflamed'
+    - - 'intr (optional -cu): suffer from inflammation'
+      - be inflamed
     epo:
     - - inflamo
     - - inflami
@@ -94840,7 +96270,7 @@ ityopili:
     zho: []
   etymology:
     derived:
-    - Ityopi
+    - ityopi
     - +
     - -li
 ityopiyen:
@@ -94861,7 +96291,7 @@ ityopiyen:
     zho: []
   etymology:
     derived:
-    - Ityopi
+    - ityopi
     - +
     - -yen
 ive:
@@ -94929,7 +96359,7 @@ ivrisa:
     zho: []
   etymology:
     derived:
-    - Ivri
+    - ivri
     - +
     - -sa
 ivriyen:
@@ -94949,7 +96379,7 @@ ivriyen:
     zho: []
   etymology:
     derived:
-    - Ivri
+    - ivri
     - +
     - -yen
 iwe:
@@ -95209,7 +96639,7 @@ ixi:
       - cause to be aware
       - make conscious
       - cause to be conscious
-    - - 'intr: be aware'
+    - - 'intr (optional -cu): be aware'
       - be conscious
     epo:
     - - konscio
@@ -95950,7 +97380,10 @@ jahanomsim:
   category: derived
   trans:
     eng:
-    - - hellish
+    - - infernal
+      - hellish
+    - - infernally
+      - hellishly
     epo:
     - - infereca
       - infera
@@ -95961,8 +97394,10 @@ jahanomsim:
       - diabólico
       - horroroso
       - horrible
-    deu: []
-    fra: []
+    deu:
+    - - höllisch
+    fra:
+    - - infernal
     rus: []
     zho: []
   etymology:
@@ -96082,7 +97517,9 @@ jakulyeli:
     - - adrenal
       - suprarrenal
     deu: []
-    fra: []
+    fra:
+    - - infernal
+      - surrénal
     rus: []
     zho: []
   etymology:
@@ -96341,10 +97778,14 @@ jalo:
     - - flave
     spa:
     - - (de color) amarillo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gelb
+    fra:
+    - - jaune
+    rus:
+    - - жёлтый
+    zho:
+    - - 黄色
   etymology:
     natlang:
       Englisa: yellow
@@ -97684,7 +99125,7 @@ jazairli:
     zho: []
   etymology:
     derived:
-    - Jazair
+    - jazair
     - +
     - -li
 jazairyen:
@@ -97704,7 +99145,7 @@ jazairyen:
     zho: []
   etymology:
     derived:
-    - Jazair
+    - jazair
     - +
     - -yen
 jazu:
@@ -98184,9 +99625,11 @@ jensikal:
     - - agénero
       - sin género
     deu: []
-    fra: []
+    fra:
+    - - agenre
     rus: []
-    zho: []
+    zho:
+    - - 无性别
   etymology:
     derived:
     - jensi
@@ -98203,10 +99646,13 @@ jensikwir:
     - - genrokvira
     spa:
     - - <em>genderqueer</em>
-    deu: []
-    fra: []
+    deu:
+    - - genderqueer
+    fra:
+    - - genderqueer
     rus: []
-    zho: []
+    zho:
+    - - 性别酷儿
   etymology:
     derived:
     - jensi
@@ -99176,13 +100622,6 @@ jirin:
       Niponsa: チリンチリン &ldquo;cirincirin&rdquo;
       Parsisa: جیرینگ &ldquo;jiring&rdquo;
       Turkisa: şıngırtı
-    natlang similar:
-      Arabisa: جلجل &ldquo;jalajil&rdquo;
-      Espanisa: tintineo, retint&iacute;n
-      Hindi: छनकना &ldquo;cankna&rdquo;
-      Pilipinasa: taginting
-      Putunhwa: 叮噹 &ldquo;dingdang&rdquo;
-      Vyetnamsa: xủng xoảng
 jismu:
   term: jismu
   word class: b
@@ -99225,13 +100664,6 @@ jismukanu:
     - jismu
     - +
     - kanu
-    natlang similar:
-      Doycisa: K&ouml;rperstamm
-      Englisa: trunk
-      Fransesa: tronc
-      Parsisa: تَنِه&lrm;
-      Putunhwa: 躯干
-      Vyetnamsa: th&acirc;n
 jismuli:
   term: jismuli
   word class: t
@@ -100055,7 +101487,7 @@ joxu:
       - zeal
     - - 'tr: enthuse'
       - excite
-    - - 'intr: be (<em>feel</em>) enthused'
+    - - 'intr (optional -cu): be (<em>feel</em>) enthused'
       - be (<em>feel</em>) excited
     epo:
     - - entuziasmo
@@ -100131,13 +101563,34 @@ joxufil:
     - joxu
     - +
     - -fil
+joxune:
+  term: joxune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - exciting
+    epo:
+    - - entuziasmanta
+      - ekcitanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - joxu
+    - +
+    - -ne
 joxupul:
   term: joxupul
   word class: t
   category: derived
   trans:
     eng:
-    - - enthusiastic
+    - - exciting (<em>day, etc.</em>)
+      - enthusiastic
       - eager
     - - enthusiastically
       - eagerly
@@ -101181,9 +102634,6 @@ juni:
       Parsisa: جوان &ldquo;jav&acirc;n&rdquo;
       Rusisa: юный &ldquo;yuniy&rdquo;
       Telugusa: యువ &ldquo;yuva&rdquo;
-    natlang similar:
-      Hangusa: 젊다 &ldquo;jomda&rdquo;
-      Swahilisa: -changa
 juni-:
   term: juni-
   word class: lfik
@@ -101765,7 +103215,7 @@ juruha:
       - injury
     - - 'tr: wound'
       - injure
-    - - 'intr: be (<em>get</em>) wounded'
+    - - 'intr (optional -cu): be (<em>get</em>) wounded'
       - be (<em>get</em>) injured
     epo:
     - - vundo
@@ -101884,11 +103334,14 @@ juyuenyen:
     - -yen
 juzam:
   term: juzam
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - leprosy
+    - - 'tr: cause leprosy'
+    - - 'intr (optional -cu): have leprosy'
+      - suffer from leprosy
     epo:
     - - lepro
     spa:
@@ -101909,7 +103362,7 @@ jwan:
   trans:
     eng:
     - - turn
-    - - 'tr/intr: turn'
+    - - 'tr/intr (optional -cu): turn'
     epo:
     - - turno
     - - turni
@@ -101927,6 +103380,27 @@ jwan:
     natlang:
       Koreasa: 회전 &ldquo;hoejeon&rdquo;, 공전 &ldquo;gongjeon&rdquo;
       Putunhwa: 转 &ldquo;zhuǎn&rdquo;
+jwancune:
+  term: jwancune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - turning
+    epo:
+    - - turniĝanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - jwan
+    - +
+    - -cu
+    - +
+    - -ne
 jwando:
   term: jwando
   word class: t
@@ -101952,6 +103426,25 @@ jwando:
     - jwan
     - +
     - -do
+jwanne:
+  term: jwanne
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - turning
+    epo:
+    - - turniĝanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - jwan
+    - +
+    - -ne
 jyen:
   term: jyen
   word class: b.oj
@@ -103953,7 +105446,7 @@ kalvinismo:
     zho: []
   etymology:
     derived:
-    - Kalvin
+    - kalvin
     - +
     - -ismo
 kalya:
@@ -104120,7 +105613,7 @@ kamerunli:
     zho: []
   etymology:
     derived:
-    - Kamerun
+    - kamerun
     - +
     - -li
 kamerunyen:
@@ -104141,7 +105634,7 @@ kamerunyen:
     zho: []
   etymology:
     derived:
-    - Kamerun
+    - kamerun
     - +
     - -yen
 kamisa:
@@ -104386,7 +105879,7 @@ kampucili:
     zho: []
   etymology:
     derived:
-    - Kampuci
+    - kampuci
     - +
     - -li
 kampucisa:
@@ -104409,7 +105902,7 @@ kampucisa:
     zho: []
   etymology:
     derived:
-    - Kampuci
+    - kampuci
     - +
     - -sa
 kampuciyen:
@@ -104431,7 +105924,7 @@ kampuciyen:
     zho: []
   etymology:
     derived:
-    - Kampuci
+    - kampuci
     - +
     - -yen
 kanabis:
@@ -104506,7 +105999,7 @@ kanadali:
     zho: []
   etymology:
     derived:
-    - Kanada
+    - kanada
     - +
     - -li
 kanadayen:
@@ -104527,7 +106020,7 @@ kanadayen:
     zho: []
   etymology:
     derived:
-    - Kanada
+    - kanada
     - +
     - -yen
 kanan:
@@ -104684,7 +106177,7 @@ kanaripiu:
     - - 金丝雀
   etymology:
     derived:
-    - Kanari
+    - kanari
     - +
     - piu
     natlang:
@@ -104747,11 +106240,15 @@ kancali:
     - -li
 kancer:
   term: kancer
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - cancer
+    - - 'tr: cause cancer'
+    - - 'intr (optional -cu): have cancer'
+      - suffer from cancer
+      - be cancerous
     epo:
     - - kancero
     spa:
@@ -104834,6 +106331,25 @@ kancerne:
     - kancer
     - +
     - -ne
+kancerpul:
+  term: kancerpul
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - cancerous
+    epo:
+    - - kancera
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - kancer
+    - +
+    - -pul
 kandela:
   term: kandela
   word class: b
@@ -105394,10 +106910,6 @@ kapala:
     am kompara:
       kapi: kapi
       kapuco: kapuco
-    natlang similar:
-      Espanisa: calavera
-      Parsisa: کله &ldquo;kalle&rdquo;
-      Turkisa: kafatası
 kapi:
   term: kapi
   word class: b
@@ -106605,14 +108117,21 @@ karismapul:
   trans:
     eng:
     - - charismatic
+    - - charismatically
     epo:
     - - karisma
     - - karisme
     spa:
     - - carismático
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - charismatisch
+    fra:
+    - - charismatique
+    - - charismatiquement
+    rus:
+    - - харизматичный
+      - харизматический
+    - - харизматично
     zho: []
   etymology:
     derived:
@@ -106841,7 +108360,7 @@ karnatakali:
     zho: []
   etymology:
     derived:
-    - Karnataka
+    - karnataka
     - +
     - -li
 karnatakasa:
@@ -106864,7 +108383,7 @@ karnatakasa:
     zho: []
   etymology:
     derived:
-    - Karnataka
+    - karnataka
     - +
     - -sa
 karnatakayen:
@@ -106888,7 +108407,7 @@ karnatakayen:
     zho: []
   etymology:
     derived:
-    - Karnataka
+    - karnataka
     - +
     - -yen
 karneval:
@@ -107334,7 +108853,7 @@ kasiru:
   trans:
     eng:
     - - break
-    - - 'tr/intr: break'
+    - - 'tr/intr (optional -cu): break'
     epo:
     - - rompo
     - - rompi
@@ -107352,6 +108871,29 @@ kasiru:
       Fransesa: casser
       Parsisa: کسر &ldquo;kasr&rdquo;
       Turkisa: kasir
+kasirucunenabil:
+  term: kasirucunenabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - unbreakable
+    epo:
+    - - nerompebla
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - kasiru
+    - +
+    - -cu
+    - +
+    - nen-
+    - +
+    - -abil
 kasirudo:
   term: kasirudo
   word class: t
@@ -107373,6 +108915,48 @@ kasirudo:
     - kasiru
     - +
     - -do
+kasirunenabil:
+  term: kasirunenabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - unbreakable
+    epo:
+    - - nerompebla
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - kasiru
+    - +
+    - nen-
+    - +
+    - -abil
+kasirunenible:
+  term: kasirunenible
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - unbreakable
+    epo:
+    - - nerompebla
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - kasiru
+    - +
+    - nen-
+    - +
+    - -ible
 kaso:
   term: kaso
   word class: b
@@ -107695,11 +109279,14 @@ katar:
       Arabisa: قطر &ldquo;Qaṭar&rdquo;
 katarata:
   term: katarata
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - cataracts
+    - - 'tr: cause cataracts'
+    - - 'intr (optional -cu): have cataracts'
+      - suffer from cataracts
     epo:
     - - katarakto (de okuloj)
     spa:
@@ -107736,7 +109323,7 @@ katarli:
     zho: []
   etymology:
     derived:
-    - Katar
+    - katar
     - +
     - -li
 kataryen:
@@ -107756,7 +109343,7 @@ kataryen:
     zho: []
   etymology:
     derived:
-    - Katar
+    - katar
     - +
     - -yen
 katatul:
@@ -107990,8 +109577,11 @@ kavuke:
     - - kave
     spa:
     - - hueco
-    deu: []
-    fra: []
+    deu:
+    - - hohl
+    fra:
+    - - vide
+      - creux
     rus: []
     zho: []
   etymology:
@@ -108017,9 +109607,11 @@ kaway:
       - lindo
       - mono
     deu: []
-    fra: []
+    fra:
+    - - mignon
     rus: []
-    zho: []
+    zho:
+    - - 可爱
   etymology:
     natlang:
       Niponsa: 可愛い &ldquo;kawaii&rdquo;
@@ -108032,7 +109624,7 @@ kawaywao:
     eng:
     - - endearment
     - - 'tr: endear'
-    - - 'intr: be (<em>feel</em>) endeared'
+    - - 'intr (optional -cu): be (<em>feel</em>) endeared'
     epo:
     - - ĉarmiĝo
       - amigo
@@ -108325,7 +109917,7 @@ kaxmirli:
     zho: []
   etymology:
     derived:
-    - Kaxmir
+    - kaxmir
     - +
     - -li
 kaxmirsa:
@@ -108346,7 +109938,7 @@ kaxmirsa:
     zho: []
   etymology:
     derived:
-    - Kaxmir
+    - kaxmir
     - +
     - -sa
 kaxmiryen:
@@ -108366,7 +109958,7 @@ kaxmiryen:
     zho: []
   etymology:
     derived:
-    - Kaxmir
+    - kaxmir
     - +
     - -yen
 kaxoke:
@@ -108635,7 +110227,7 @@ kazakili:
     zho: []
   etymology:
     derived:
-    - Kazaki
+    - kazaki
     - +
     - -li
 kazakisa:
@@ -108655,7 +110247,7 @@ kazakisa:
     zho: []
   etymology:
     derived:
-    - Kazaki
+    - kazaki
     - +
     - -sa
 kazakiyen:
@@ -108675,7 +110267,7 @@ kazakiyen:
     zho: []
   etymology:
     derived:
-    - Kazaki
+    - kazaki
     - +
     - -yen
 ke:
@@ -109523,7 +111115,7 @@ keralali:
     zho: []
   etymology:
     derived:
-    - Kerala
+    - kerala
     - +
     - -li
 keralasa:
@@ -109544,7 +111136,7 @@ keralasa:
     zho: []
   etymology:
     derived:
-    - Kerala
+    - kerala
     - +
     - -sa
 keralayen:
@@ -109568,7 +111160,7 @@ keralayen:
     zho: []
   etymology:
     derived:
-    - Kerala
+    - kerala
     - +
     - -yen
 keran:
@@ -110788,7 +112380,7 @@ kiprosli:
     zho: []
   etymology:
     derived:
-    - Kipros
+    - kipros
     - +
     - -li
 kiprosyen:
@@ -110808,7 +112400,7 @@ kiprosyen:
     zho: []
   etymology:
     derived:
-    - Kipros
+    - kipros
     - +
     - -yen
 kiray:
@@ -110925,7 +112517,7 @@ kirgizisa:
     zho: []
   etymology:
     derived:
-    - Kirgizi
+    - kirgizi
     - +
     - -sa
 kirgiziyen:
@@ -110946,7 +112538,7 @@ kirgiziyen:
     zho: []
   etymology:
     derived:
-    - Kirgizi
+    - kirgizi
     - +
     - -yen
 kiribati:
@@ -110989,7 +112581,7 @@ kiribatisa:
     zho: []
   etymology:
     derived:
-    - Kiribati
+    - kiribati
     - +
     - -sa
 kisencun:
@@ -111747,7 +113339,7 @@ klosi:
   trans:
     eng:
     - - closure
-    - - 'tr/intr: close'
+    - - 'tr/intr (optional -cu): close'
       - shut
     epo:
     - - fermo
@@ -111766,6 +113358,28 @@ klosi:
       Englisa: close, closing
       Espanisa: clausura
       Fransesa: clos
+klosicune:
+  term: klosicune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - closing
+    epo:
+    - - fermanta
+    - - fermante
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - klosi
+    - +
+    - -cu
+    - +
+    - -ne
 klosido:
   term: klosido
   word class: t
@@ -112691,11 +114305,14 @@ kola:
       Vyetnamsa: c&ocirc;la
 kolera:
   term: kolera
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - cholera
+    - - 'tr: cause cholera'
+    - - 'intr (optional -cu): have cholera'
+      - suffer from cholera
     epo:
     - - ĥolero
       - kolerao
@@ -112723,11 +114340,14 @@ kolera:
       Turkisa: kolera
 kolesterol:
   term: kolesterol
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - cholesterol
+    - - 'tr: cause cholesterol'
+    - - 'intr (optional -cu): have cholesterol'
+      - suffer from cholesterol
     epo:
     - - ĥolesterolo
       - kolesterolo
@@ -112831,7 +114451,7 @@ kolombili:
     zho: []
   etymology:
     derived:
-    - Kolombi
+    - kolombi
     - +
     - -li
 kolombiyen:
@@ -112851,7 +114471,7 @@ kolombiyen:
     zho: []
   etymology:
     derived:
-    - Kolombi
+    - kolombi
     - +
     - -yen
 koloni:
@@ -113163,11 +114783,13 @@ kom:
       Swahilisa: kama
 koma:
   term: koma
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - coma
+    - - 'tr: cause (somebody) to be in a coma'
+    - - 'intr (optional -cu): be in a coma'
     epo:
     - - komato
     spa:
@@ -113196,7 +114818,7 @@ kombina:
   trans:
     eng:
     - - combination
-    - - 'tr/intr: combine'
+    - - 'tr/intr (optional -cu): combine'
     epo:
     - - kombino
     - - kombini
@@ -113374,7 +114996,7 @@ komorili:
     zho: []
   etymology:
     derived:
-    - Komori
+    - komori
     - +
     - -li
 komorisa:
@@ -113394,7 +115016,7 @@ komorisa:
     zho: []
   etymology:
     derived:
-    - Komori
+    - komori
     - +
     - -sa
 komoriyen:
@@ -113414,7 +115036,7 @@ komoriyen:
     zho: []
   etymology:
     derived:
-    - Komori
+    - komori
     - +
     - -yen
 kompara:
@@ -114395,7 +116017,7 @@ konforta:
     - - comfort
     - - 'tr: make comfortable'
       - cause to be (<em>feel</em>) comfortable
-    - - 'intr: be (<em>feel</em>) comfortable'
+    - - 'intr (optional -cu): be (<em>feel</em>) comfortable'
     epo:
     - - komforto
     - - komforti
@@ -114518,7 +116140,7 @@ konhwoku:
       - perplex
       - baffle
       - bewilder
-    - - 'intr: be (<em>feel</em>) confused'
+    - - 'intr (optional -cu): be (<em>feel</em>) confused'
       - be (<em>feel</em>) perplexed
       - be (<em>feel</em>) baffled
       - be (<em>feel</em>) bewildered
@@ -114650,7 +116272,7 @@ konkanli:
     zho: []
   etymology:
     derived:
-    - Konkan
+    - konkan
     - +
     - -li
 konkansa:
@@ -114670,7 +116292,7 @@ konkansa:
     zho: []
   etymology:
     derived:
-    - Konkan
+    - konkan
     - +
     - -sa
 konkanyen:
@@ -114690,7 +116312,7 @@ konkanyen:
     zho: []
   etymology:
     derived:
-    - Konkan
+    - konkan
     - +
     - -yen
 konkreto:
@@ -115046,7 +116668,7 @@ kontraste:
   trans:
     eng:
     - - contrast
-    - - 'tr/intr: contrast'
+    - - 'tr/intr (optional -cu): contrast'
     epo:
     - - kontrasto
     - - kontrasti
@@ -115480,7 +117102,7 @@ koreali:
     - - 朝鲜的
   etymology:
     derived:
-    - Korea
+    - korea
     - +
     - -li
 koreasa:
@@ -115504,7 +117126,7 @@ koreasa:
     - - 朝鲜语
   etymology:
     derived:
-    - Korea
+    - korea
     - +
     - -sa
 koreayen:
@@ -115529,7 +117151,7 @@ koreayen:
       - 朝鲜人
   etymology:
     derived:
-    - Korea
+    - korea
     - +
     - -yen
 koridor:
@@ -116122,7 +117744,7 @@ kostarikali:
     zho: []
   etymology:
     derived:
-    - Kostarika
+    - kostarika
     - +
     - -li
 kostarikayen:
@@ -116142,7 +117764,7 @@ kostarikayen:
     zho: []
   etymology:
     derived:
-    - Kostarika
+    - kostarika
     - +
     - -yen
 kostrui:
@@ -116637,7 +118259,7 @@ krampe:
       - spasm
       - cramp
       - twitch
-    - - 'tr/intr: contract'
+    - - 'tr/intr (optional -cu): contract'
       - convulse
       - spasm
       - twitch
@@ -117218,8 +118840,6 @@ krenberi:
       Parsisa: کرنبری &ldquo;krenberi&rdquo;
       Pilipinasa: kranberya, kranberi
       Swahilisa: kranberi
-    natlang similar:
-      Turkisa: turna yemişi
 kreol:
   term: kreol
   word class: b
@@ -117689,7 +119309,7 @@ kristodin:
     zho: []
   etymology:
     derived:
-    - Kristo
+    - kristo
     - +
     - -din
 kristofe:
@@ -117746,7 +119366,7 @@ kristoismo:
     zho: []
   etymology:
     derived:
-    - Kristo
+    - kristo
     - +
     - -ismo
 kristoista:
@@ -117766,7 +119386,7 @@ kristoista:
     zho: []
   etymology:
     derived:
-    - Kristo
+    - kristo
     - +
     - -ista
 kroa:
@@ -119884,17 +121504,6 @@ kwakeconce:
     - kwake
     - +
     - conce
-    natlang similar:
-      Arabisa: مِنقَارُ البَطَّة
-      Doycisa: Schnabeltier
-      Englisa: duckbill
-      Niponsa: 鴨嘴
-      Parsisa: نوک&zwnj;اردکی &ldquo;nok-ordaki&rdquo;
-      Putunhwa: 鸭嘴兽
-      Rusisa: утконос
-      Swahilisa: domobata
-      Turkisa: gagalı memeli
-      Vyetnamsa: th&uacute; mỏ vịt
 kwalita:
   term: kwalita
   word class: b
@@ -120567,7 +122176,7 @@ kweten:
     - - defect
       - flaw
       - shortcoming
-    - - 'tr/intr: break (<em>make or become defective</em>)'
+    - - 'tr/intr (optional -cu): break (<em>make or become defective</em>)'
     epo:
     - - difekto
     - - difekti
@@ -122414,7 +124023,7 @@ latinikayen:
     zho: []
   etymology:
     derived:
-    - Latinika
+    - latinika
     - +
     - -yen
 latinsa:
@@ -122435,7 +124044,7 @@ latinsa:
     zho: []
   etymology:
     derived:
-    - Latin
+    - latin
     - +
     - -sa
 latvi:
@@ -122478,7 +124087,7 @@ latvisa:
     zho: []
   etymology:
     derived:
-    - Latvi
+    - latvi
     - +
     - -sa
 latviyen:
@@ -122498,7 +124107,7 @@ latviyen:
     zho: []
   etymology:
     derived:
-    - Latvi
+    - latvi
     - +
     - -yen
 lava:
@@ -122619,7 +124228,7 @@ lawfen:
       - annoy
       - vex
       - bug
-    - - 'intr: be (<em>feel</em>) bothered'
+    - - 'intr (optional -cu): be (<em>feel</em>) bothered'
       - be (<em>feel</em>) annoyed
       - be (<em>feel</em>) vexed
       - be (<em>feel</em>) bugged
@@ -122745,7 +124354,7 @@ lawisa:
     - - 老挝语
   etymology:
     derived:
-    - Lawi
+    - lawi
     - +
     - -sa
 lawrel:
@@ -124280,7 +125889,7 @@ lesboyen:
     zho: []
   etymology:
     derived:
-    - Lesbo
+    - lesbo
     - +
     - -yen
 lesutu:
@@ -124374,8 +125983,6 @@ letali:
     - leta
     - +
     - -li
-    natlang similar:
-      Turkisa: yatay
 letane:
   term: letane
   word class: t
@@ -124848,7 +126455,7 @@ libili:
     zho: []
   etymology:
     derived:
-    - Libi
+    - libi
     - +
     - -li
 libiyen:
@@ -124868,7 +126475,7 @@ libiyen:
     zho: []
   etymology:
     derived:
-    - Libi
+    - libi
     - +
     - -yen
 lici:
@@ -125359,7 +126966,7 @@ lihtenstaynli:
     zho: []
   etymology:
     derived:
-    - Lihtenstayn
+    - lihtenstayn
     - +
     - -li
 lihtenstaynyen:
@@ -125379,7 +126986,7 @@ lihtenstaynyen:
     zho: []
   etymology:
     derived:
-    - Lihtenstayn
+    - lihtenstayn
     - +
     - -yen
 lijun:
@@ -125489,7 +127096,7 @@ likwido:
     eng:
     - - liquid
       - fluid
-    - - 'tr/intr: liquify'
+    - - 'tr/intr (optional -cu): liquify'
       - liquefy (<em>turn into or become liquid</em>)
     epo:
     - - likvo
@@ -128376,7 +129983,7 @@ lubanonyen:
     zho: []
   etymology:
     derived:
-    - Lubanon
+    - lubanon
     - +
     - -yen
 lubi:
@@ -128532,7 +130139,7 @@ lubrika:
   trans:
     eng:
     - - lubrication
-    - - 'tr/intr: lubricate'
+    - - 'tr/intr (optional -cu): lubricate'
     epo:
     - - lubriko
     - - lubrikiĝi
@@ -128553,6 +130160,25 @@ lubrika:
       Indonesisa: lubrikasi
       Pilipinasa: lubrikasyon
       Turkisa: lubrikasyon
+lubrikaabil:
+  term: lubrikaabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - lubricating
+    epo:
+    - - lubrika
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - lubrika
+    - +
+    - -ne
 lubrikado:
   term: lubrikado
   word class: t
@@ -128600,6 +130226,25 @@ lubrikaente:
     - lubrika
     - +
     - -ente
+lubrikane:
+  term: lubrikane
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - lubricating
+    epo:
+    - - lubrikanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - lubrika
+    - +
+    - -ne
 ludan:
   term: ludan
   word class: b
@@ -129121,7 +130766,7 @@ lunadin:
       - 週一
   etymology:
     derived:
-    - Luna
+    - luna
     - +
     - -din
 lunalumin:
@@ -129349,7 +130994,7 @@ luterismo:
       - 信义宗
   etymology:
     derived:
-    - Luter
+    - luter
     - +
     - -ismo
 lutesyum:
@@ -129465,7 +131110,7 @@ lutsemburgili:
     zho: []
   etymology:
     derived:
-    - Lutsemburgi
+    - lutsemburgi
     - +
     - -li
 lutsemburgisa:
@@ -129485,7 +131130,7 @@ lutsemburgisa:
     zho: []
   etymology:
     derived:
-    - Lutsemburgi
+    - lutsemburgi
     - +
     - -sa
 lutsemburgiyen:
@@ -129505,7 +131150,7 @@ lutsemburgiyen:
     zho: []
   etymology:
     derived:
-    - Lutsemburgi
+    - lutsemburgi
     - +
     - -yen
 lutuf:
@@ -129719,7 +131364,7 @@ lyetuvali:
     zho: []
   etymology:
     derived:
-    - Lyetuva
+    - lyetuva
     - +
     - -li
 lyetuvasa:
@@ -129739,7 +131384,7 @@ lyetuvasa:
     zho: []
   etymology:
     derived:
-    - Lyetuva
+    - lyetuva
     - +
     - -sa
 lyetuvayen:
@@ -129759,7 +131404,7 @@ lyetuvayen:
     zho: []
   etymology:
     derived:
-    - Lyetuva
+    - lyetuva
     - +
     - -yen
 lyudon:
@@ -130519,7 +132164,7 @@ magribili:
     zho: []
   etymology:
     derived:
-    - Magribi
+    - magribi
     - +
     - -li
 magribiyen:
@@ -130539,7 +132184,7 @@ magribiyen:
     zho: []
   etymology:
     derived:
-    - Magribi
+    - magribi
     - +
     - -yen
 magyar:
@@ -130582,7 +132227,7 @@ magyarli:
     zho: []
   etymology:
     derived:
-    - Magyar
+    - magyar
     - +
     - -li
 magyarsa:
@@ -130602,7 +132247,7 @@ magyarsa:
     zho: []
   etymology:
     derived:
-    - Magyar
+    - magyar
     - +
     - -sa
 magyaryen:
@@ -130622,7 +132267,7 @@ magyaryen:
     zho: []
   etymology:
     derived:
-    - Magyar
+    - magyar
     - +
     - -yen
 mahamel:
@@ -130787,7 +132432,7 @@ maharaxtrali:
     zho: []
   etymology:
     derived:
-    - Maharaxtra
+    - maharaxtra
     - +
     - -li
 maharaxtrasa:
@@ -130808,7 +132453,7 @@ maharaxtrasa:
     zho: []
   etymology:
     derived:
-    - Maharaxtra
+    - maharaxtra
     - +
     - -sa
 maharaxtrayen:
@@ -130829,7 +132474,7 @@ maharaxtrayen:
     zho: []
   etymology:
     derived:
-    - Maharaxtra
+    - maharaxtra
     - +
     - -yen
 mahi:
@@ -131148,16 +132793,19 @@ majelisa:
     zho: []
   etymology:
     derived:
-    - Majeli
+    - majeli
     - +
     - -sa
 majin:
   term: majin
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - measles
+    - - 'tr: cause measles'
+    - - 'intr (optional -cu): have measles'
+      - suffer from measles
     epo:
     - - morbilo
     spa:
@@ -131291,12 +132939,6 @@ majoram:
       Putunhwa: 墨角兰 &ldquo;mwojyawlan&rdquo;
       Rusisa: майоран &ldquo;mayoran&rdquo;
       Swahilisa: majorama
-    natlang similar:
-      Arabisa: مَرْدَقُوش &ldquo;mardaqux&rdquo;, مَرْزَنْجُوش &ldquo;marzanjux&rdquo;
-      Hindi: मरुआ &ldquo;marua&rdquo;
-      Parsisa: مرزنگوش &ldquo;marzangu&scaron;&rdquo;
-      Telugusa: మరువము &ldquo;maruvamu&rdquo;
-      Turkisa: mercank&ouml;şk, macaron - guxi
 makale:
   term: makale
   word class: b
@@ -131361,7 +133003,7 @@ makedonili:
     zho: []
   etymology:
     derived:
-    - Makedoni
+    - makedoni
     - +
     - -li
 makedonisa:
@@ -131381,7 +133023,7 @@ makedonisa:
     zho: []
   etymology:
     derived:
-    - Makedoni
+    - makedoni
     - +
     - -sa
 makedoniyen:
@@ -131401,7 +133043,7 @@ makedoniyen:
     zho: []
   etymology:
     derived:
-    - Makedoni
+    - makedoni
     - +
     - -yen
 maku:
@@ -131572,11 +133214,14 @@ malaki:
       Vyetnamsa: Ma-la-chi
 malarya:
   term: malarya
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - malaria
+    - - 'tr: cause malaria'
+    - - 'intr (optional -cu): have malaria'
+      - suffer from malaria
     epo:
     - - malario
     spa:
@@ -131648,7 +133293,7 @@ malawiyen:
     zho: []
   etymology:
     derived:
-    - Malawi
+    - malawi
     - +
     - -yen
 malaysi:
@@ -131691,7 +133336,7 @@ malaysili:
     zho: []
   etymology:
     derived:
-    - Malaysi
+    - malaysi
     - +
     - -li
 malaysisa:
@@ -131713,7 +133358,7 @@ malaysisa:
     zho: []
   etymology:
     derived:
-    - Malaysi
+    - malaysi
     - +
     - -sa
 malaysiyen:
@@ -131734,7 +133379,7 @@ malaysiyen:
     zho: []
   etymology:
     derived:
-    - Malaysi
+    - malaysi
     - +
     - -yen
 maldoxo:
@@ -132019,7 +133664,7 @@ maliyen:
     zho: []
   etymology:
     derived:
-    - Mali
+    - mali
     - +
     - -yen
 malkadam:
@@ -132179,7 +133824,7 @@ maltasa:
     zho: []
   etymology:
     derived:
-    - Malta
+    - malta
     - +
     - -sa
 maltayen:
@@ -132199,7 +133844,7 @@ maltayen:
     zho: []
   etymology:
     derived:
-    - Malta
+    - malta
     - +
     - -yen
 maluku:
@@ -132341,8 +133986,6 @@ malxengi:
     - xen
     - +
     - -gi
-    natlang similar:
-      Doycisa: Fehlgeburt
 malxey:
   term: malxey
   word class: b.nenoj
@@ -133114,11 +134757,14 @@ manhirxa:
     - hirxa
 manika:
   term: manika
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - mania
+    - - 'tr: cause mania'
+    - - 'intr (optional -cu): suffer from mania'
+      - be manic
     epo:
     - - manio
     spa:
@@ -133206,7 +134852,7 @@ manipurli:
     zho: []
   etymology:
     derived:
-    - Manipur
+    - manipur
     - +
     - -li
 manipursa:
@@ -133232,7 +134878,7 @@ manipursa:
     zho: []
   etymology:
     derived:
-    - Manipur
+    - manipur
     - +
     - -sa
 manipuryen:
@@ -133254,7 +134900,7 @@ manipuryen:
     zho: []
   etymology:
     derived:
-    - Manipur
+    - manipur
     - +
     - -yen
 manixu:
@@ -134207,7 +135853,7 @@ marihidin:
       - 週二
   etymology:
     derived:
-    - Marihi
+    - marihi
     - +
     - -din
 marihiyen:
@@ -134482,7 +136128,7 @@ markseismo:
     - - 马克思主义
   etymology:
     derived:
-    - Markse
+    - markse
     - +
     - -ismo
 marmelada:
@@ -135169,7 +136815,7 @@ masokismo:
     - - 性受虐狂
   etymology:
     derived:
-    - Masok
+    - masok
     - +
     - -ismo
 masokista:
@@ -135193,7 +136839,7 @@ masokista:
     - - 受虐狂
   etymology:
     derived:
-    - Masok
+    - masok
     - +
     - -ista
 masonenyamyen:
@@ -135282,7 +136928,7 @@ masrili:
     zho: []
   etymology:
     derived:
-    - Masri
+    - masri
     - +
     - -li
 masrisa:
@@ -135308,7 +136954,7 @@ masrisa:
     - - 埃及阿拉伯语
   etymology:
     derived:
-    - Masri
+    - masri
     - +
     - -sa
 masriyen:
@@ -135332,7 +136978,7 @@ masriyen:
     - - 埃及人
   etymology:
     derived:
-    - Masri
+    - masri
     - +
     - -yen
 masul:
@@ -135896,7 +137542,7 @@ mawrisli:
     zho: []
   etymology:
     derived:
-    - Mawris
+    - mawris
     - +
     - -li
 mawrisyen:
@@ -135916,7 +137562,7 @@ mawrisyen:
     zho: []
   etymology:
     derived:
-    - Mawris
+    - mawris
     - +
     - -yen
 mawson:
@@ -139608,8 +141254,6 @@ mesajabal:
     - mesa
     - +
     - jabal
-    natlang similar:
-      Doycisa: Tafelberg
 mesaje:
   term: mesaje
   word class: b.oj
@@ -140148,7 +141792,7 @@ metabolis:
   trans:
     eng:
     - - metabolism
-    - - 'tr/intr: metabolize'
+    - - 'tr/intr (optional -cu): metabolize'
     epo:
     - - metabolo
     - - metaboligi
@@ -140763,7 +142407,7 @@ mexikoli:
     zho: []
   etymology:
     derived:
-    - Mexiko
+    - mexiko
     - +
     - -li
 mexikoyen:
@@ -140784,7 +142428,7 @@ mexikoyen:
     zho: []
   etymology:
     derived:
-    - Mexiko
+    - mexiko
     - +
     - -yen
 meyar:
@@ -140865,7 +142509,7 @@ meylu:
       - lean
       - oblique
       - tilt
-    - - 'tr/intr: incline'
+    - - 'tr/intr (optional -cu): incline'
       - tilt
     epo:
     - - deklivo
@@ -141794,16 +143438,6 @@ milkodao:
     - milko
     - +
     - dao
-    natlang similar:
-      Doycisa: Milchstra&szlig;e
-      Englisa: Milky Way
-      Espanisa: V&iacute;a L&aacute;ctea
-      Fransesa: Voie lact&eacute;e
-      Hindi: क्षीरमार्ग
-      Parsisa: راه شیری
-      Rusisa: Млечный Путь
-      Swahilisa: Njia Nyeupe
-      Telugusa: పాలపుంత
 milkoproduti:
   term: milkoproduti
   word class: b
@@ -142973,7 +144607,7 @@ mitilali:
     zho: []
   etymology:
     derived:
-    - Mitila
+    - mitila
     - +
     - -li
 mitilasa:
@@ -142994,7 +144628,7 @@ mitilasa:
     zho: []
   etymology:
     derived:
-    - Mitila
+    - mitila
     - +
     - -sa
 mitilayen:
@@ -143018,7 +144652,7 @@ mitilayen:
     zho: []
   etymology:
     derived:
-    - Mitila
+    - mitila
     - +
     - -yen
 mitin:
@@ -143659,11 +145293,14 @@ mogebadam:
     - badam
 mogeitis:
   term: mogeitis
-  word class: b
+  word class: b.oro
   category: derived
   trans:
     eng:
     - - encephalitis
+    - - 'tr: cause encephalitis'
+    - - 'intr (optional -cu): have encephalitis'
+      - suffer from encephalitis
     epo:
     - - encefalito
       - cerbimflamo
@@ -143896,7 +145533,7 @@ moja:
   trans:
     eng:
     - - wave
-    - - 'tr/intr: undulate'
+    - - 'tr/intr (optional -cu): undulate'
     epo:
     - - ondo
       - ondumo
@@ -144085,7 +145722,7 @@ moldovali:
     zho: []
   etymology:
     derived:
-    - Moldova
+    - moldova
     - +
     - -li
 moldovayen:
@@ -144105,7 +145742,7 @@ moldovayen:
     zho: []
   etymology:
     derived:
-    - Moldova
+    - moldova
     - +
     - -yen
 molekul:
@@ -144357,7 +145994,7 @@ monakoyen:
     zho: []
   etymology:
     derived:
-    - Monako
+    - monako
     - +
     - -yen
 mongoli:
@@ -144400,7 +146037,7 @@ mongolisa:
     zho: []
   etymology:
     derived:
-    - Mongoli
+    - mongoli
     - +
     - -sa
 mongoliyen:
@@ -144420,7 +146057,7 @@ mongoliyen:
     zho: []
   etymology:
     derived:
-    - Mongoli
+    - mongoli
     - +
     - -yen
 mongusta:
@@ -145212,7 +146849,7 @@ mormonismo:
     - - 摩尔门教
   etymology:
     derived:
-    - Mormon
+    - mormon
     - +
     - -ismo
 morse:
@@ -147290,11 +148927,6 @@ murto:
       Pilipinasa: mirto
       Rusisa: мирт &ldquo;mirt&rdquo;
       Turkisa: murt
-    natlang similar:
-      Arabisa: مَرْسِين &ldquo;marsin&rdquo;
-      Parsisa: میرسین &ldquo;mirsin&rdquo;
-      Swahilisa: mhadasi
-      Turkisa: mersin
 museum:
   term: museum
   word class: b
@@ -147854,7 +149486,7 @@ muxtaridin:
     - - 星期四
   etymology:
     derived:
-    - Muxtari
+    - muxtari
     - +
     - -din
 muxti:
@@ -148053,7 +149685,7 @@ myanmasa:
     - - 缅甸语
   etymology:
     derived:
-    - Myanma
+    - myanma
     - +
     - -sa
 myaw:
@@ -148962,7 +150594,7 @@ namibili:
     zho: []
   etymology:
     derived:
-    - Namibi
+    - namibi
     - +
     - -li
 namibiyen:
@@ -148982,7 +150614,7 @@ namibiyen:
     zho: []
   etymology:
     derived:
-    - Namibi
+    - namibi
     - +
     - -yen
 namoka:
@@ -149187,7 +150819,7 @@ narcisoismo:
     zho: []
   etymology:
     derived:
-    - Narciso
+    - narciso
     - +
     - -ismo
 narcisoista:
@@ -149207,7 +150839,7 @@ narcisoista:
     zho: []
   etymology:
     derived:
-    - Narciso
+    - narciso
     - +
     - -ista
 narcisosim:
@@ -149232,7 +150864,7 @@ narcisosim:
     zho: []
   etymology:
     derived:
-    - Narciso
+    - narciso
     - +
     - -sim
 narem:
@@ -150043,7 +151675,7 @@ natziismo:
     zho: []
   etymology:
     derived:
-    - Natzi
+    - natzi
     - +
     - -ismo
 natziista:
@@ -150063,7 +151695,7 @@ natziista:
     zho: []
   etymology:
     derived:
-    - Natzi
+    - natzi
     - +
     - -ista
 nauru:
@@ -150106,7 +151738,7 @@ naurusa:
     zho: []
   etymology:
     derived:
-    - Nauru
+    - nauru
     - +
     - -sa
 navi:
@@ -150327,7 +151959,7 @@ nayjerili:
     zho: []
   etymology:
     derived:
-    - Nayjeri
+    - nayjeri
     - +
     - -li
 nayjeriyen:
@@ -150347,7 +151979,7 @@ nayjeriyen:
     zho: []
   etymology:
     derived:
-    - Nayjeri
+    - nayjeri
     - +
     - -yen
 naylon:
@@ -150451,7 +152083,7 @@ nederili:
     zho: []
   etymology:
     derived:
-    - Nederi
+    - nederi
     - +
     - -li
 nederisa:
@@ -150472,7 +152104,7 @@ nederisa:
     zho: []
   etymology:
     derived:
-    - Nederi
+    - nederi
     - +
     - -sa
 nederiyen:
@@ -150493,7 +152125,7 @@ nederiyen:
     zho: []
   etymology:
     derived:
-    - Nederi
+    - nederi
     - +
     - -yen
 nefra:
@@ -154345,7 +155977,7 @@ niponsa:
     zho: []
   etymology:
     derived:
-    - Nipon
+    - nipon
     - +
     - -sa
 nispatu:
@@ -154763,7 +156395,7 @@ nokotina:
     zho: []
   etymology:
     derived:
-    - Nikot
+    - nikot
     - +
     - -ina
 noli:
@@ -155006,7 +156638,7 @@ norgesa:
     zho: []
   etymology:
     derived:
-    - Norge
+    - norge
     - +
     - -sa
 norgeyen:
@@ -155026,7 +156658,7 @@ norgeyen:
     zho: []
   etymology:
     derived:
-    - Norge
+    - norge
     - +
     - -yen
 norma:
@@ -155510,11 +157142,6 @@ nudihalazun:
     - nudi
     - +
     - halazun
-    natlang similar:
-      Doycisa: Nacktschnecke
-      Indonesisa: siput telanjang, siput bugil
-      Koreasa: 민달팽이
-      Vyetnamsa: s&ecirc;n trần
 nudiismo:
   term: nudiismo
   word class: b
@@ -156095,13 +157722,6 @@ nururoya:
     - nuru
     - +
     - roya
-    natlang similar:
-      Doycisa: Tagtraum
-      Englisa: daydream
-      Hindisa: दिनी-स्वप्न
-      Koreasa: 백일몽
-      Niponsa: 白日夢
-      Putunhwa: 白日夢
 nyame:
   term: nyame
   word class: b
@@ -156561,7 +158181,7 @@ obsesi:
     eng:
     - - obsession
     - - 'tr: obsess'
-    - - 'intr: obsess'
+    - - 'intr (optional -cu): obsess'
       - be (<em>feel</em>) obsessed
     epo:
     - - obsedo
@@ -157572,7 +159192,7 @@ ohomli:
     zho: []
   etymology:
     derived:
-    - Ohom
+    - ohom
     - +
     - -li
 ohomsa:
@@ -157592,7 +159212,7 @@ ohomsa:
     zho: []
   etymology:
     derived:
-    - Ohom
+    - ohom
     - +
     - -sa
 ohomyen:
@@ -157612,7 +159232,7 @@ ohomyen:
     zho: []
   etymology:
     derived:
-    - Ohom
+    - ohom
     - +
     - -yen
 ohotski:
@@ -159629,7 +161249,7 @@ orisali:
     zho: []
   etymology:
     derived:
-    - Orisa
+    - orisa
     - +
     - -li
 orisasa:
@@ -159651,7 +161271,7 @@ orisasa:
     zho: []
   etymology:
     derived:
-    - Orisa
+    - orisa
     - +
     - -sa
 orisayen:
@@ -159674,7 +161294,7 @@ orisayen:
     zho: []
   etymology:
     derived:
-    - Orisa
+    - orisa
     - +
     - -yen
 orkestra:
@@ -159948,7 +161568,7 @@ oruga:
     eng:
     - - wrinkle
       - furrow
-    - - 'tr/intr: wrinkle'
+    - - 'tr/intr (optional -cu): wrinkle'
     epo:
     - - falto
       - sulko
@@ -160021,11 +161641,15 @@ osel:
       Rusisa: осёл &ldquo;osyol&rdquo;
 osis:
   term: osis
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - pathology
+    - - 'tr: pathologize'
+      - cause a pathology
+    - - 'intr (optional -cu): have a pathology'
+      - suffer from a pathology
     epo:
     - - patologio
     spa:
@@ -160125,7 +161749,7 @@ osmanli:
     zho: []
   etymology:
     derived:
-    - Osman
+    - osman
     - +
     - -li
 osmosi:
@@ -160264,7 +161888,7 @@ osteriyen:
     zho: []
   etymology:
     derived:
-    - Osteri
+    - osteri
     - +
     - -yen
 osto:
@@ -160773,7 +162397,7 @@ ozbekili:
     zho: []
   etymology:
     derived:
-    - Ozbeki
+    - ozbeki
     - +
     - -li
 ozbekisa:
@@ -160793,7 +162417,7 @@ ozbekisa:
     zho: []
   etymology:
     derived:
-    - Ozbeki
+    - ozbeki
     - +
     - -sa
 ozbekiyen:
@@ -160813,7 +162437,7 @@ ozbekiyen:
     zho: []
   etymology:
     derived:
-    - Ozbeki
+    - ozbeki
     - +
     - -yen
 ozon:
@@ -161209,7 +162833,7 @@ pakili:
     zho: []
   etymology:
     derived:
-    - Paki
+    - paki
     - +
     - -li
 pakiyen:
@@ -161229,7 +162853,7 @@ pakiyen:
     zho: []
   etymology:
     derived:
-    - Paki
+    - paki
     - +
     - -yen
 pala:
@@ -161908,7 +163532,7 @@ pangudunyaista:
     derived:
     - pangu
     - +
-    - Dunya
+    - dunya
     - +
     - -ista
 pangugeo:
@@ -162014,7 +163638,7 @@ paniko:
     eng:
     - - panic
     - - 'tr: panic'
-    - - 'intr: panic'
+    - - 'intr (optional -cu): panic'
       - feel panic
     epo:
     - - paniko
@@ -162041,6 +163665,29 @@ paniko:
       Parsisa: پانیک &ldquo;p&acirc;nik&rdquo;
       Rusisa: паника &ldquo;panika&rdquo;
       Turkisa: panik
+panikocune:
+  term: panikocune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - panicking
+    epo:
+    - - panikanta
+      - panika
+    spa:
+    - - en pánico
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - paniko
+    - +
+    - -cu
+    - +
+    - -ne
 panikodo:
   term: panikodo
   word class: t
@@ -162064,11 +163711,14 @@ panikodo:
     - -do
 panikokrisis:
   term: panikokrisis
-  word class: b
+  word class: b.oro
   category: derived
   trans:
     eng:
     - - panic attack
+    - - 'tr: cause a panic attack'
+    - - 'intr (optional -cu): have a panic attack'
+      - suffer from a panic attack
     epo:
     - - ekpaniko
       - panikatako
@@ -162171,7 +163821,7 @@ panjabili:
     zho: []
   etymology:
     derived:
-    - Panjabi
+    - panjabi
     - +
     - -li
 panjabisa:
@@ -162192,7 +163842,7 @@ panjabisa:
     zho: []
   etymology:
     derived:
-    - Panjabi
+    - panjabi
     - +
     - -sa
 panjabiyen:
@@ -162213,7 +163863,7 @@ panjabiyen:
     zho: []
   etymology:
     derived:
-    - Panjabi
+    - panjabi
     - +
     - -yen
 pankreas:
@@ -162939,7 +164589,7 @@ paragwayyen:
     zho: []
   etymology:
     derived:
-    - Paragway
+    - paragway
     - +
     - -yen
 paralel:
@@ -163002,7 +164652,10 @@ paralisi:
     - - paralysis
       - palsy
     - - 'tr: paralyze'
-    - - 'intr: get paralyzed'
+      - cause paralysis
+    - - 'intr (optional -cu): have paralysis'
+      - suffer from paralysis
+      - be paralyzed
     epo:
     - - paralizo
     - - paralizi
@@ -163086,7 +164739,7 @@ paranoy:
     - - paranoia
     - - 'tr: make (somebody) paranoid'
       - cause (somebody) to be paranoid
-    - - 'intr: be (<em>feel</em>) paranoid'
+    - - 'intr (optional -cu): be (<em>feel</em>) paranoid'
       - feel paranoia
     epo:
     - - paranojo
@@ -163364,7 +165017,7 @@ parsili:
     zho: []
   etymology:
     derived:
-    - Parsi
+    - parsi
     - +
     - -li
 parsisa:
@@ -163386,7 +165039,7 @@ parsisa:
     zho: []
   etymology:
     derived:
-    - Parsi
+    - parsi
     - +
     - -sa
 parsiyen:
@@ -163406,7 +165059,7 @@ parsiyen:
     zho: []
   etymology:
     derived:
-    - Parsi
+    - parsi
     - +
     - -yen
 parti:
@@ -164962,7 +166615,7 @@ pena:
     eng:
     - - foam
       - spume
-    - - 'tr/intr: froth'
+    - - 'tr/intr (optional -cu): froth'
     epo:
     - - ŝaumo
     - - ŝaumi
@@ -166186,7 +167839,7 @@ peruli:
     zho: []
   etymology:
     derived:
-    - Peru
+    - peru
     - +
     - -li
 peruyen:
@@ -166206,7 +167859,7 @@ peruyen:
     zho: []
   etymology:
     derived:
-    - Peru
+    - peru
     - +
     - -yen
 perya:
@@ -167270,7 +168923,7 @@ pilipinali:
     zho: []
   etymology:
     derived:
-    - Pilipina
+    - pilipina
     - +
     - -li
 pilipinasa:
@@ -167293,7 +168946,7 @@ pilipinasa:
     zho: []
   etymology:
     derived:
-    - Pilipina
+    - pilipina
     - +
     - -sa
 pilipinayen:
@@ -167315,7 +168968,7 @@ pilipinayen:
     zho: []
   etymology:
     derived:
-    - Pilipina
+    - pilipina
     - +
     - -yen
 pilo:
@@ -167327,7 +168980,7 @@ pilo:
     - - fatigue
     - - 'tr: tire'
       - fatigue
-    - - 'intr: be (<em>feel</em>) tired'
+    - - 'intr (optional -cu): be (<em>feel</em>) tired'
       - feel fatigued
     epo:
     - - laceco
@@ -167372,6 +169025,25 @@ pilodo:
     - pilo
     - +
     - -do
+pilone:
+  term: pilone
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - tiring
+    epo:
+    - - laciganta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - pilo
+    - +
+    - -ne
 pilopul:
   term: pilopul
   word class: t
@@ -167452,15 +169124,6 @@ pilpilminta:
     - pilpil
     - +
     - minta
-    natlang similar:
-      Arabisa: نَعْنَاع فِلْفِلِيّ
-      Doycisa: Pfefferminze
-      Englisa: peppermint
-      Espanisa: menta piperita
-      Fransesa: menthe poivr&eacute;e
-      Koreasa: 페퍼민트 &ldquo;pepomintu&rdquo;
-      Niponsa: ペパーミント &ldquo;pepaminto&rdquo;
-      Putunhwa: 胡椒薄荷
 pilula:
   term: pilula
   word class: b
@@ -168801,7 +170464,7 @@ platonli:
     zho: []
   etymology:
     derived:
-    - Platon
+    - platon
     - +
     - -li
 plax:
@@ -168860,7 +170523,7 @@ pley:
   trans:
     eng:
     - - playback
-    - - 'tr/intr: play (<em>video, music, button</em>)'
+    - - 'tr/intr (optional -cu): play (<em>video, music, button</em>)'
     epo:
     - - ludado
     - - ludi (muzikon, filmeton)
@@ -169729,7 +171392,7 @@ polskali:
     zho: []
   etymology:
     derived:
-    - Polska
+    - polska
     - +
     - -li
 polskasa:
@@ -169749,7 +171412,7 @@ polskasa:
     zho: []
   etymology:
     derived:
-    - Polska
+    - polska
     - +
     - -sa
 polskayen:
@@ -169769,7 +171432,7 @@ polskayen:
     zho: []
   etymology:
     derived:
-    - Polska
+    - polska
     - +
     - -yen
 polyester:
@@ -170413,14 +172076,6 @@ poro:
       Fransesa: poireau, porreau
       Niponsa: ポロねぎ &ldquo;poronegi&rdquo;, ポワロ &ldquo;powaro&rdquo;
       Vyetnamsa: h&agrave;nh boa r&ocirc;, h&agrave;nh ba r&ocirc;
-    natlang similar:
-      Doycisa: Porree
-      Espanisa: puerro
-      Fransesa: porr&eacute;e, poir&eacute;e
-      Indonesisa: prei
-      Koreasa: 파 &ldquo;pa&rdquo;
-      Rusisa: порей &ldquo;porey&rdquo;
-      Turkisa: pırasa
 porta:
   term: porta
   word class: b.oj
@@ -170600,7 +172255,7 @@ portugalsa:
     zho: []
   etymology:
     derived:
-    - Portugal
+    - portugal
     - +
     - -sa
 portugalyen:
@@ -170620,7 +172275,7 @@ portugalyen:
     zho: []
   etymology:
     derived:
-    - Portugal
+    - portugal
     - +
     - -yen
 porya:
@@ -172627,7 +174282,7 @@ posyukyo:
     - - invalidity
     - - 'tr: invalidate'
       - make invalid
-    - - 'intr: be invalid'
+    - - 'intr (optional -cu): be invalid'
     epo:
     - - nevalideco
     - - eksvalidigi
@@ -174491,7 +176146,7 @@ proyeksi:
   trans:
     eng:
     - - projection
-    - - 'tr/intr: project'
+    - - 'tr/intr (optional -cu): project'
     epo:
     - - projekcio
     - - projekcii
@@ -174660,7 +176315,7 @@ pudra:
   trans:
     eng:
     - - powder
-    - - 'tr/intr: pulverize'
+    - - 'tr/intr (optional -cu): pulverize'
     epo:
     - - pulvoro
     - - pulvorigi
@@ -174952,7 +176607,7 @@ pure:
       - purée
       - mash
       - mush
-    - - 'tr/intr: puree'
+    - - 'tr/intr (optional -cu): puree'
       - grind
       - smash
     epo:
@@ -175356,7 +177011,7 @@ radya:
     eng:
     - - ray
       - beam
-    - - 'tr/intr: radiate'
+    - - 'tr/intr (optional -cu): radiate'
     epo:
     - - radio (<em>fiziko</em>)
     - - radii
@@ -178082,8 +179737,6 @@ revende:
       Parsisa: ریوند &ldquo;rivand&rdquo;
       Rusisa: ревень &ldquo;reven&rdquo;
       Turkisa: ravent
-    natlang similar:
-      Telugusa: రేవల్చిని &ldquo;revalchini&rdquo;
 reviu:
   term: reviu
   word class: b.oj
@@ -178164,12 +179817,15 @@ reviuyen:
     - -yen
 rewmati:
   term: rewmati
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - rheumatism
       - rheum
+    - - 'tr: cause rheumatism'
+    - - 'intr (optional -cu): have rheumatism'
+      - suffer from rheumatism
     epo:
     - - reŭmatismo
     spa:
@@ -179582,7 +181238,7 @@ rota:
   trans:
     eng:
     - - rotation
-    - - 'tr/intr: rotate'
+    - - 'tr/intr (optional -cu): rotate'
       - turn (around)
     epo:
     - - rotacio
@@ -179609,6 +181265,27 @@ rota:
       Indonesisa: rotasi
       Polskasa: rotacja
       Turkisa: rotasyon
+rotacune:
+  term: rotacune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - rotating
+    epo:
+    - - rotacianta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - rota
+    - +
+    - -cu
+    - +
+    - -ne
 rotado:
   term: rotado
   word class: t
@@ -180419,17 +182096,6 @@ rukemajam:
     - ruke
     - +
     - majam
-    natlang similar:
-      Doycisa: R&uuml;ckenmark
-      English: spinal marrow
-      Espanisa: m&eacute;dula espinal
-      Fransesa: moelle &eacute;pini&egrave;re
-      Indonesisa: sumsum tulang belakang
-      Koreasa: 척수
-      Niponsa: 脊髄
-      Putunhwa: 脊髓
-      Turkisa: omurilik
-      Vyetnamsa: tuỷ sống
 rukesahni:
   term: rukesahni
   word class: b
@@ -180451,21 +182117,6 @@ rukesahni:
     - ruke
     - +
     - sahni
-    natlang similar:
-      Doycisa: Hintergrund
-      Englisa: background
-      Espanisa: trasfondo
-      Fransesa: arri&egrave;re-plan
-      Hindisa: पृष्ठभूमि &ldquo;prixthbumi&rdquo;
-      Indonesisa: latar belakang
-      Koreasa: 배경 &ldquo;begyong&rdquo;
-      Niponsa: 背景 &ldquo;haykey&rdquo;
-      Parsisa: پس&zwnj;زمینه &ldquo;pas-zamine&rdquo;
-      Putunhwa: 背景 &ldquo;beyjing&rdquo;
-      Rusisa: задний план &ldquo;zadniy plan&rdquo;
-      Swahilisa: mandharinyuma
-      Turkisa: arka plan
-      Vyetnamsa: bối cảnh
 rukesutun:
   term: rukesutun
   word class: b
@@ -180617,7 +182268,7 @@ rumanili:
     zho: []
   etymology:
     derived:
-    - Rumani
+    - rumani
     - +
     - -li
 rumanisa:
@@ -180637,7 +182288,7 @@ rumanisa:
     zho: []
   etymology:
     derived:
-    - Rumani
+    - rumani
     - +
     - -sa
 rumaniyen:
@@ -180657,7 +182308,7 @@ rumaniyen:
     zho: []
   etymology:
     derived:
-    - Rumani
+    - rumani
     - +
     - -yen
 rundi:
@@ -180953,7 +182604,7 @@ rusili:
     zho: []
   etymology:
     derived:
-    - Rusi
+    - rusi
     - +
     - -li
 rusisa:
@@ -180973,7 +182624,7 @@ rusisa:
     zho: []
   etymology:
     derived:
-    - Rusi
+    - rusi
     - +
     - -sa
 rusiyen:
@@ -180993,7 +182644,7 @@ rusiyen:
     zho: []
   etymology:
     derived:
-    - Rusi
+    - rusi
     - +
     - -yen
 rusoti:
@@ -181151,7 +182802,7 @@ rutyao:
   category: derived
   trans:
     eng:
-    - - 'tr/intr: bounce'
+    - - 'tr/intr (optional -cu): bounce'
       - rebound
       - spring (back)
       - ricochet
@@ -181173,6 +182824,50 @@ rutyao:
     - ru-
     - +
     - tyao
+rutyaocune:
+  term: rutyaocune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - bouncing
+    epo:
+    - - resaltanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - ru-
+    - +
+    - tyao
+    - +
+    - -cu
+    - +
+    - -ne
+rutyaone:
+  term: rutyaone
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - bouncing
+    epo:
+    - - resaltanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - ru-
+    - +
+    - tyao
+    - +
+    - -ne
 ruwoju:
   term: ruwoju
   word class: b.oj
@@ -181736,7 +183431,7 @@ sadismo:
     zho: []
   etymology:
     derived:
-    - Sad
+    - sad
     - +
     - -ismo
 sadista:
@@ -181757,7 +183452,7 @@ sadista:
     zho: []
   etymology:
     derived:
-    - Sad
+    - sad
     - +
     - -ista
 safe:
@@ -182518,7 +184213,7 @@ sakartwelosa:
     zho: []
   etymology:
     derived:
-    - Sakartwelo
+    - sakartwelo
     - +
     - -sa
 sakartweloyen:
@@ -182538,7 +184233,7 @@ sakartweloyen:
     zho: []
   etymology:
     derived:
-    - Sakartwelo
+    - sakartwelo
     - +
     - -yen
 sakfu:
@@ -183541,7 +185236,7 @@ samoali:
     zho: []
   etymology:
     derived:
-    - Samoa
+    - samoa
     - +
     - -li
 samoasa:
@@ -183561,7 +185256,7 @@ samoasa:
     zho: []
   etymology:
     derived:
-    - Samoa
+    - samoa
     - +
     - -sa
 samoayen:
@@ -183581,7 +185276,7 @@ samoayen:
     zho: []
   etymology:
     derived:
-    - Samoa
+    - samoa
     - +
     - -yen
 sampo:
@@ -184021,7 +185716,7 @@ sangu:
   trans:
     eng:
     - - 'tr: hide'
-    - - 'intr: hide'
+    - - 'intr (optional -cu): hide'
       - go into hiding
     epo:
     - - kaŝo
@@ -184136,8 +185831,6 @@ sanobar:
       Malaysisa: sanubar
       Parsisa: صنوبر &ldquo;sanowbar&rdquo;
       Swahilisa: msonobari
-    natlang similar:
-      Hindi: सनोबर &ldquo;sanobar&rdquo; - linxam
 sanskritam:
   term: Sanskritam
   word class: su n
@@ -184420,7 +186113,7 @@ sapfoli:
     zho: []
   etymology:
     derived:
-    - Sapfo
+    - sapfo
     - +
     - -li
 sara:
@@ -184949,7 +186642,7 @@ sawdili:
     zho: []
   etymology:
     derived:
-    - Sawdi
+    - sawdi
     - +
     - -li
 sawdiyen:
@@ -184973,7 +186666,7 @@ sawdiyen:
     zho: []
   etymology:
     derived:
-    - Sawdi
+    - sawdi
     - +
     - -yen
 sawna:
@@ -185734,8 +187427,6 @@ segil:
     natlang:
       Parsisa: زگیل &ldquo;zegil&rdquo;
       Turkisa: siğil
-    natlang similar:
-      Swahilisa: sugu
 segoyondo:
   term: segoyondo
   word class: t
@@ -186352,6 +188043,25 @@ sekundo:
       Rusisa: секунда &ldquo;sekunda&rdquo;
       Swahilisa: sekunde
       Telugusa: సెకండు &ldquo;sekandu&rdquo;
+sekwarentin:
+  term: sekwarentin
+  word class: b.nenoj
+  category: derived
+  trans:
+    eng:
+    - - 'intr (optional -cu): quarantine (oneself)'
+    epo:
+    - - kvaranteni(gi sin)
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - se-
+    - +
+    - kwarentin
 sela:
   term: sela
   word class: b.oro
@@ -186361,7 +188071,7 @@ sela:
     - - flood
       - deluge
       - inundation
-    - - 'tr/intr: flood'
+    - - 'tr/intr (optional -cu): flood'
       - inundate
     epo:
     - - inundo
@@ -187238,7 +188948,7 @@ senegalli:
     zho: []
   etymology:
     derived:
-    - Senegal
+    - senegal
     - +
     - -li
 senegalyen:
@@ -187259,7 +188969,7 @@ senegalyen:
     zho: []
   etymology:
     derived:
-    - Senegal
+    - senegal
     - +
     - -yen
 sengi:
@@ -187422,7 +189132,7 @@ serbisa:
     zho: []
   etymology:
     derived:
-    - Serbi
+    - serbi
     - +
     - -sa
 serbiyen:
@@ -187443,7 +189153,7 @@ serbiyen:
     zho: []
   etymology:
     derived:
-    - Serbi
+    - serbi
     - +
     - -yen
 serotonin:
@@ -189533,7 +191243,7 @@ sindili:
     zho: []
   etymology:
     derived:
-    - Sindi
+    - sindi
     - +
     - -li
 sindisa:
@@ -189553,7 +191263,7 @@ sindisa:
     zho: []
   etymology:
     derived:
-    - Sindi
+    - sindi
     - +
     - -sa
 sindiyen:
@@ -189573,7 +191283,7 @@ sindiyen:
     zho: []
   etymology:
     derived:
-    - Sindi
+    - sindi
     - +
     - -yen
 sindrom:
@@ -189629,7 +191339,7 @@ sindrom_asperger:
     derived:
     - sindrom
     - ','
-    - Asperger
+    - asperger
 sindrom_dawn:
   term: sindrom Dawn
   word class: b
@@ -189654,7 +191364,7 @@ sindrom_dawn:
     derived:
     - sindrom
     - ','
-    - Dawn
+    - dawn
 sinfoni:
   term: sinfoni
   word class: b
@@ -189842,7 +191552,7 @@ sinhalasa:
     zho: []
   etymology:
     derived:
-    - Sinhala
+    - sinhala
     - +
     - -sa
 sinjabu:
@@ -189882,7 +191592,7 @@ sinkroniza:
   trans:
     eng:
     - - synchronization
-    - - 'tr/intr: synchronize'
+    - - 'tr/intr (optional -cu): synchronize'
       - sync
     epo:
     - - sinkronigo
@@ -191447,17 +193157,6 @@ solabanyo:
     - sola
     - +
     - banyo
-    natlang similar:
-      Arabisa: ⁧حَمَّام شَمْس⁩
-      Doycisa: Sonnenbad
-      Englisa: sunbath
-      Espanisa: ba&ntilde;o de sol
-      Koreasa: 일광욕
-      Niponsa: 日光浴
-      Putunhwa: 日光浴
-      Rusisa: солнечная ванна
-      Turkisa: g&uuml;neş banyosu
-      Vyetnamsa: tắm nắng
 soladin:
   term: soladin
   word class: b
@@ -191475,7 +193174,7 @@ soladin:
     zho: []
   etymology:
     derived:
-    - Sola
+    - sola
     - +
     - -din
 solaflura:
@@ -191500,12 +193199,6 @@ solaflura:
     - sola
     - +
     - flura
-    natlang similar:
-      Arabisa: زَهْرَة اَلشَّمْس⁩
-      Doycisa: Sonnenblume
-      Englisa: sunflower
-      Indonesisa: bunga matahari
-      Putunhwa: 日頭花
 solainfracu:
   term: solainfracu
   word class: b.nenoj
@@ -191826,7 +193519,7 @@ solusi:
   trans:
     eng:
     - - solution (<em>chemistry</em>)
-    - - 'tr/intr: dissolve'
+    - - 'tr/intr (optional -cu): dissolve'
     epo:
     - - solvo (<em>kemio</em>)
     - - solvi
@@ -191926,7 +193619,7 @@ somalisa:
     zho: []
   etymology:
     derived:
-    - Somali
+    - somali
     - +
     - -sa
 somno:
@@ -192774,7 +194467,7 @@ soyo:
     eng:
     - - itch
     - - 'tr: itch'
-    - - 'intr: itch'
+    - - 'intr (optional -cu): itch'
       - feel itched
       - feel itchy
     epo:
@@ -192980,7 +194673,7 @@ sudeafrika:
     derived:
     - sude
     - +
-    - Afrika
+    - afrika
     natlang:
       Afrikansesa: Suid-Afrika
 sudeafrikali:
@@ -193002,7 +194695,7 @@ sudeafrikali:
     derived:
     - sude
     - +
-    - Afrika
+    - afrika
     - +
     - -li
 sudeafrikayen:
@@ -193024,7 +194717,7 @@ sudeafrikayen:
     derived:
     - sude
     - +
-    - Afrika
+    - afrika
     - +
     - -yen
 sudedongu:
@@ -193093,7 +194786,7 @@ sudekorea:
     derived:
     - sude
     - +
-    - Korea
+    - korea
 sudeli:
   term: sudeli
   word class: t
@@ -193141,7 +194834,7 @@ sudesudan:
     derived:
     - sude
     - +
-    - Sudan
+    - sudan
     natlang:
       Englisa: South Sudan
       Swahilisa: Sudan Kusini
@@ -194024,9 +195717,6 @@ sumbole:
     natlang:
       Arabisa: سُنْبُلَة &ldquo;sunbula&rdquo;
       Parsisa: سنبله &ldquo;sonbole&rdquo;
-    natlang similar:
-      Hindi: बाली &ldquo;bali&rdquo;
-      Indonesisa: bulir
 sumul:
   term: sumul
   word class: b
@@ -194161,7 +195851,7 @@ sungay:
       - harm
       - hurt
       - injure
-    - - 'intr: get damaged'
+    - - 'intr (optional -cu): get damaged'
       - get harmed
       - get hurt
       - get injured
@@ -195004,7 +196694,7 @@ surprisa:
     eng:
     - - surprise
     - - 'tr: surprise'
-    - - 'intr: be (<em>feel</em>) surprised'
+    - - 'intr (optional -cu): be (<em>feel</em>) surprised'
     epo:
     - - surprizo
     - - surprizi
@@ -195482,9 +197172,6 @@ suyontul:
     - -tul
     am kompara:
       fleytul: fleytul
-    natlang similar:
-      Fransesa: nageoire
-      Turkisa: y&uuml;zge&ccedil;
 suyonyen:
   term: suyonyen
   word class: b
@@ -195548,7 +197235,7 @@ swahilisa:
     zho: []
   etymology:
     derived:
-    - Swahili
+    - swahili
     - +
     - -sa
 swahiliyen:
@@ -195569,7 +197256,7 @@ swahiliyen:
     zho: []
   etymology:
     derived:
-    - Swahili
+    - swahili
     - +
     - -yen
 swal:
@@ -195710,7 +197397,7 @@ swerili:
     zho: []
   etymology:
     derived:
-    - Sweri
+    - sweri
     - +
     - -li
 swerisa:
@@ -195730,7 +197417,7 @@ swerisa:
     zho: []
   etymology:
     derived:
-    - Sweri
+    - sweri
     - +
     - -sa
 sweriyen:
@@ -195750,7 +197437,7 @@ sweriyen:
     zho: []
   etymology:
     derived:
-    - Sweri
+    - sweri
     - +
     - -yen
 sweta:
@@ -196123,7 +197810,7 @@ switzeli:
     zho: []
   etymology:
     derived:
-    - Switze
+    - switze
     - +
     - -li
 switzeyen:
@@ -196143,7 +197830,7 @@ switzeyen:
     zho: []
   etymology:
     derived:
-    - Switze
+    - switze
     - +
     - -yen
 swomi:
@@ -196186,7 +197873,7 @@ swomili:
     zho: []
   etymology:
     derived:
-    - Swomi
+    - swomi
     - +
     - -li
 swomisa:
@@ -196207,7 +197894,7 @@ swomisa:
     zho: []
   etymology:
     derived:
-    - Swomi
+    - swomi
     - +
     - -sa
 swomiyen:
@@ -196228,7 +197915,7 @@ swomiyen:
     zho: []
   etymology:
     derived:
-    - Swomi
+    - swomi
     - +
     - -yen
 syahe:
@@ -197284,7 +198971,7 @@ talento:
       - knack
     - - 'tr: make talented'
       - cause to be talented
-    - - 'intr: be talented'
+    - - 'intr (optional -cu): be talented'
     epo:
     - - talento
     - - esti talenta
@@ -197315,6 +199002,25 @@ talento:
       Pilipinasa: talento
       Rusisa: талант &ldquo;talant&rdquo;
       Swahilisa: talanta
+talentodo:
+  term: talentodo
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - talented
+    epo:
+    - - talenta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - talento
+    - +
+    - -do
 talentopul:
   term: talentopul
   word class: t
@@ -197807,7 +199513,7 @@ tamilli:
     zho: []
   etymology:
     derived:
-    - Tamil
+    - tamil
     - +
     - -li
 tamilsa:
@@ -197827,7 +199533,7 @@ tamilsa:
     zho: []
   etymology:
     derived:
-    - Tamil
+    - tamil
     - +
     - -sa
 tamilyen:
@@ -197847,7 +199553,7 @@ tamilyen:
     zho: []
   etymology:
     derived:
-    - Tamil
+    - tamil
     - +
     - -yen
 tamipatato:
@@ -197948,11 +199654,6 @@ tamlam:
       Niponsa: 貪婪 &ldquo;tanran&rdquo;
       Putunhwa: 贪婪 &ldquo;tanlan&rdquo;
       Vyetnamsa: tham lam
-    natlang similar:
-      Arabisa: طَمَع &ldquo;tama&rdquo;, طَمَّاع &ldquo;tamma&rdquo;
-      Indonesisa: tamak
-      Parsisa: طمع &ldquo;tama&rdquo;
-      Turkisa: tamah
 tampon:
   term: tampon
   word class: b
@@ -199390,7 +201091,7 @@ tayli:
     zho: []
   etymology:
     derived:
-    - Tay
+    - tay
     - +
     - -li
 taymi:
@@ -199509,7 +201210,7 @@ taysa:
     zho: []
   etymology:
     derived:
-    - Tay
+    - tay
     - +
     - -sa
 tayti:
@@ -199604,7 +201305,7 @@ tayyen:
     zho: []
   etymology:
     derived:
-    - Tay
+    - tay
     - +
     - -yen
 taze:
@@ -200577,7 +202278,7 @@ telugusa:
     zho: []
   etymology:
     derived:
-    - Telugu
+    - telugu
     - +
     - -sa
 teluguyen:
@@ -200597,7 +202298,7 @@ teluguyen:
     zho: []
   etymology:
     derived:
-    - Telugu
+    - telugu
     - +
     - -yen
 teluryum:
@@ -201757,7 +203458,7 @@ termo:
     - - heat
     - - 'tr: heat (up)'
       - warm (up)
-    - - 'intr: be warm'
+    - - 'intr (optional -cu): be warm'
       - be hot
     epo:
     - - varmo
@@ -201786,6 +203487,25 @@ termo:
       Pilipinasa: termometro
       Rusisa: термометр &ldquo;termometr&rdquo;
       Turkisa: termometre
+termoabil:
+  term: termoabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - heating
+    epo:
+    - - varmiga
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - termo
+    - +
+    - -abil
 termoday:
   term: termoday
   word class: t
@@ -201960,6 +203680,25 @@ termomosem:
     - termo
     - +
     - -mosem
+termone:
+  term: termone
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - heating
+    epo:
+    - - varmiga
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - termo
+    - +
+    - -ne
 termopul:
   term: termopul
   word class: t
@@ -202158,7 +203897,7 @@ teslimu:
     - - surrender
     - - 'tr: surrender'
       - quit
-    - - 'intr: surrender (to)'
+    - - 'intr (optional -cu): surrender (to)'
       - succumb (to)
       - give in (to)
       - give up
@@ -203715,7 +205454,7 @@ tojikili:
     zho: []
   etymology:
     derived:
-    - Tojiki
+    - tojiki
     - +
     - -li
 tojikisa:
@@ -203737,7 +205476,7 @@ tojikisa:
     zho: []
   etymology:
     derived:
-    - Tojiki
+    - tojiki
     - +
     - -sa
 tojikiyen:
@@ -203759,7 +205498,7 @@ tojikiyen:
     zho: []
   etymology:
     derived:
-    - Tojiki
+    - tojiki
     - +
     - -yen
 toka:
@@ -204413,7 +206152,7 @@ tongali:
     zho: []
   etymology:
     derived:
-    - Tonga
+    - tonga
     - +
     - -li
 tongasa:
@@ -204433,7 +206172,7 @@ tongasa:
     zho: []
   etymology:
     derived:
-    - Tonga
+    - tonga
     - +
     - -sa
 tongayen:
@@ -204453,7 +206192,7 @@ tongayen:
     zho: []
   etymology:
     derived:
-    - Tonga
+    - tonga
     - +
     - -yen
 tongi:
@@ -205312,10 +207051,6 @@ tosta:
       Parsisa: تستر &ldquo;toster&rdquo;
       Pilipinasa: tustador, tosta
       Rusisa: тостер &ldquo;toster&rdquo;
-    natlang similar:
-      Putunhwa: 吐司 &ldquo;tusi&rdquo;, 多士 &ldquo;dwoxi&rdquo; - tosteroti
-      Telugusa: టోస్ట్ &ldquo;tost&rdquo; - tosteroti
-      Turkisa: tost - tosteroti
 tostado:
   term: tostado
   word class: t
@@ -206208,6 +207943,7 @@ trasplanta:
   trans:
     eng:
     - - transplant
+    - - transplant
     epo:
     - - transplantado
     - - transplanti
@@ -206228,10 +207964,6 @@ trasplanta:
       Englisa: transplant
       Espanisa: trasplantar
       Fransesa: transplanter
-    natlang similar:
-      Koreasa: 이식
-      Niponsa: 移植
-      Putunhwa: 移植
 trasplasi:
   term: trasplasi
   word class: b.oj
@@ -206368,13 +208100,21 @@ trator:
       Turkisa: trakt&ouml;r
 trawma:
   term: trawma
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - trauma
+    - - 'tr: traumatize'
+      - cause trauma
+    - - 'intr (optional -cu): have a trauma'
+      - suffer from trauma
+      - be traumatized
     epo:
     - - traŭmato
+    - - traŭmatizi
+    - - traŭmatiziĝi
+      - esti traŭmatizita
     spa:
     - - trauma (<em>daño duradero</em>)
     deu:
@@ -206398,6 +208138,45 @@ trawma:
       Pilipinasa: trauma
       Rusisa: травма &ldquo;tr&aacute;vma&rdquo;
       Turkisa: travma
+trawmado:
+  term: trawmado
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - traumatized
+    epo:
+    - - traŭmatizita
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - trawma
+    - +
+    - -do
+trawmane:
+  term: trawmane
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - traumatizing
+      - traumatic
+    epo:
+    - - traŭmatizanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - trawma
+    - +
+    - -ne
 trawmapul:
   term: trawmapul
   word class: t
@@ -206429,7 +208208,7 @@ treme:
     eng:
     - - shaking
       - trembling
-    - - 'tr/intr: shake'
+    - - 'tr/intr (optional -cu): shake'
       - tremble
     epo:
     - - tremo
@@ -206453,6 +208232,48 @@ treme:
       Portugalsa: tremer
       Rusisa: трепетать &ldquo;trepetat&rdquo;
       Turkisa: titre- (titreme)
+tremecune:
+  term: tremecune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - shaking
+      - trembling
+    epo:
+    - - tremanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - treme
+    - +
+    - -cu
+    - +
+    - -ne
+tremene:
+  term: tremene
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - shaking
+      - trembling
+    epo:
+    - - tremanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - treme
+    - +
+    - -ne
 tren:
   term: tren
   word class: b
@@ -206645,11 +208466,11 @@ trinidad_ji_tobago:
     zho: []
   etymology:
     derived:
-    - Trinidad
+    - trinidad
     - ','
     - ji
     - ','
-    - Tobago
+    - tobago
 triunfa:
   term: triunfa
   word class: b.oj
@@ -207486,11 +209307,15 @@ tulyum:
       Vyetnamsa: tuli, thuli
 tumor:
   term: tumor
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - tumor
+    - - 'tr: cause tumors'
+    - - 'intr (optional -cu): get a tumor'
+      - get tumors
+      - become tumorous
     epo:
     - - tumoro
     spa:
@@ -208044,7 +209869,7 @@ turkili:
     zho: []
   etymology:
     derived:
-    - Turki
+    - turki
     - +
     - -li
 turkisa:
@@ -208064,7 +209889,7 @@ turkisa:
     zho: []
   etymology:
     derived:
-    - Turki
+    - turki
     - +
     - -sa
 turkiyen:
@@ -208084,7 +209909,7 @@ turkiyen:
     zho: []
   etymology:
     derived:
-    - Turki
+    - turki
     - +
     - -yen
 turkmeni:
@@ -208130,7 +209955,7 @@ turkmenili:
     zho: []
   etymology:
     derived:
-    - Turkmeni
+    - turkmeni
     - +
     - -li
 turkmenisa:
@@ -208151,7 +209976,7 @@ turkmenisa:
     zho: []
   etymology:
     derived:
-    - Turkmeni
+    - turkmeni
     - +
     - -sa
 turkmeniyen:
@@ -208172,7 +209997,7 @@ turkmeniyen:
     zho: []
   etymology:
     derived:
-    - Turkmeni
+    - turkmeni
     - +
     - -yen
 turno:
@@ -208422,12 +210247,6 @@ tutumnarem:
     - tutum
     - +
     - narem
-    natlang similar:
-      Doycisa: weichherzig
-      Englisa: tender-hearted
-      Putunhwa: 心腸軟的
-      Turkisa: yufka y&uuml;rekli
-      Vyetnamsa: tốt bụng
 tuvalu:
   term: Tuvalu
   word class: su n
@@ -208469,7 +210288,7 @@ tuvaluli:
     zho: []
   etymology:
     derived:
-    - Tuvalu
+    - tuvalu
     - +
     - -li
 tuvalusa:
@@ -208489,7 +210308,7 @@ tuvalusa:
     zho: []
   etymology:
     derived:
-    - Tuvalu
+    - tuvalu
     - +
     - -sa
 tuvaluyen:
@@ -208509,7 +210328,7 @@ tuvaluyen:
     zho: []
   etymology:
     derived:
-    - Tuvalu
+    - tuvalu
     - +
     - -yen
 twala:
@@ -208713,13 +210532,6 @@ tyanvirgul:
     - tyan
     - +
     - virgul
-    natlang similar:
-      Espanisa: punto y coma
-      Fransesa: point-virgule
-      Parsisa: نقطه&zwnj;ویرگول &ldquo;noqte-virgul&rdquo;
-      Pilipinasa: tuldok-kuwit
-      Turkisa: noktalı virg&uuml;l
-      Vyetnamsa: dấu chấm phẩy
 tyao:
   term: tyao
   word class: b.oj.ru
@@ -208828,7 +210640,7 @@ uflasi:
     - - bankruptcy
       - insolvency
     - - 'tr: bankrupt'
-    - - 'intr: go bankrupt'
+    - - 'intr (optional -cu): go bankrupt'
       - become insolvent
     epo:
     - - bankroto
@@ -208883,7 +210695,7 @@ ufue:
       - repugnance
     - - 'tr: (cause) disgust'
       - gross out
-    - - 'intr: feel disgust'
+    - - 'intr (optional -cu): feel disgust'
       - be (<em>feel</em>) disgusted
       - be (<em>feel</em>) grossed out
     - - ew
@@ -209040,7 +210852,7 @@ ugandali:
     zho: []
   etymology:
     derived:
-    - Uganda
+    - uganda
     - +
     - -li
 ugandayen:
@@ -209060,7 +210872,7 @@ ugandayen:
     zho: []
   etymology:
     derived:
-    - Uganda
+    - uganda
     - +
     - -yen
 uje:
@@ -209175,7 +210987,7 @@ ukrainali:
     zho: []
   etymology:
     derived:
-    - Ukraina
+    - ukraina
     - +
     - -li
 ukrainasa:
@@ -209195,7 +211007,7 @@ ukrainasa:
     zho: []
   etymology:
     derived:
-    - Ukraina
+    - ukraina
     - +
     - -sa
 ukrainayen:
@@ -209215,7 +211027,7 @@ ukrainayen:
     zho: []
   etymology:
     derived:
-    - Ukraina
+    - ukraina
     - +
     - -yen
 ukungu:
@@ -209275,7 +211087,7 @@ ulcera:
     eng:
     - - ulcer
       - sore
-    - - 'tr/intr: ulcerate'
+    - - 'tr/intr (optional -cu): ulcerate (<em>cause or get ulcers</em>)'
     epo:
     - - ulcero
     - - ulceriĝi
@@ -210507,7 +212319,7 @@ urjuha:
   trans:
     eng:
     - - swing
-    - - 'tr/intr: swing'
+    - - 'tr/intr (optional -cu): swing'
     epo:
     - - pendolo
     - - pendoli
@@ -210524,6 +212336,46 @@ urjuha:
       Parsisa: ارجوحة &ldquo;urjūḥat&rdquo;
       Tamilsa: ஊஞ்சல் &ldquo;unjal&rdquo;
       Telugusa: ఉయ్యాల &ldquo;uyyāla&rdquo;, ఊయల &ldquo;ūyala&rdquo;
+urjuhacune:
+  term: urjuhacune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - swinging
+    epo:
+    - - pendolanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - urjuha
+    - +
+    - -cu
+    - +
+    - -ne
+urjuhane:
+  term: urjuhane
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - swinging
+    epo:
+    - - pendolanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - urjuha
+    - +
+    - -ne
 urjuhatul:
   term: urjuhatul
   word class: b
@@ -210619,7 +212471,7 @@ usali:
     zho: []
   etymology:
     derived:
-    - Usa
+    - usa
     - +
     - -li
 usayen:
@@ -210639,7 +212491,7 @@ usayen:
     zho: []
   etymology:
     derived:
-    - Usa
+    - usa
     - +
     - -yen
 usta:
@@ -210819,7 +212671,7 @@ utarakorea:
     derived:
     - utara
     - +
-    - Korea
+    - korea
 utarali:
   term: utarali
   word class: t
@@ -210864,7 +212716,7 @@ utaramakedoni:
     derived:
     - utara
     - +
-    - Makedoni
+    - makedoni
 utu:
   term: utu
   word class: b.oj
@@ -212002,7 +213854,7 @@ venezwelali:
     zho: []
   etymology:
     derived:
-    - Venezwela
+    - venezwela
     - +
     - -li
 venezwelayen:
@@ -212022,7 +213874,7 @@ venezwelayen:
     zho: []
   etymology:
     derived:
-    - Venezwela
+    - venezwela
     - +
     - -yen
 vento:
@@ -212229,7 +214081,7 @@ vibra:
   trans:
     eng:
     - - vibration
-    - - 'tr/intr: vibrate'
+    - - 'tr/intr (optional -cu): vibrate'
     epo:
     - - vibrado
     - - vibri
@@ -212252,6 +214104,27 @@ vibra:
       Niponsa: バイブレータ &ldquo;baibureta&rdquo;
       Rusisa: вибрация &ldquo;vibratsiya&rdquo;
       Turkisa: vibrat&ouml;r
+vibracune:
+  term: vibracune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - vibrating
+    epo:
+    - - vibranta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - vibra
+    - +
+    - -cu
+    - +
+    - -ne
 vibrafono:
   term: vibrafono
   word class: b
@@ -212278,6 +214151,25 @@ vibrafono:
     - vibra
     - +
     - fono
+vibrane:
+  term: vibrane
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - vibrating
+    epo:
+    - - vibranta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - vibra
+    - +
+    - -ne
 vicenti:
   term: Vicenti
   word class: su n
@@ -212631,11 +214523,13 @@ virtwal:
       Telugusa: వర్చువల్ &ldquo;varcuval&rdquo;
 virus:
   term: virus
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - virus
+    - - 'tr: infect with a virus'
+    - - 'intr (optional -cu): get infected with a virus'
     epo:
     - - viruso
     spa:
@@ -213419,7 +215313,7 @@ vyetnamli:
     zho: []
   etymology:
     derived:
-    - Vyetnam
+    - vyetnam
     - +
     - -li
 vyetnamsa:
@@ -213439,7 +215333,7 @@ vyetnamsa:
     zho: []
   etymology:
     derived:
-    - Vyetnam
+    - vyetnam
     - +
     - -sa
 vyetnamyen:
@@ -213459,7 +215353,7 @@ vyetnamyen:
     zho: []
   etymology:
     derived:
-    - Vyetnam
+    - vyetnam
     - +
     - -yen
 vyola:
@@ -213661,14 +215555,6 @@ wadisusana:
     - wadi
     - +
     - susana
-    natlang similar:
-      Arabisa: زنبق الوادي &quot;zanbaq alwadi&quot;
-      Englisa: lily of the valley
-      Espanisa: lirio del valle
-      Hindisa: घाटी के लिली
-      Indonesisa: lili lembah
-      Parsisa: زنبق دره
-      Pilipinasa: liryo ng lambak
 wafle:
   term: wafle
   word class: b
@@ -213913,7 +215799,7 @@ wakufa:
     - - pause
       - break
     - - 'tr: pause'
-    - - 'intr: pause'
+    - - 'intr (optional -cu): pause'
       - take a break
     epo:
     - - paŭzo
@@ -214278,7 +216164,7 @@ wao:
       - wonder
     - - 'tr: amaze'
       - wow
-    - - 'intr: be (<em>feel</em>) amazed'
+    - - 'intr (optional -cu): be (<em>feel</em>) amazed'
       - be (<em>feel</em>) wowed
     epo:
     - - miro
@@ -214363,6 +216249,27 @@ waone:
     - wao
     - +
     - -ne
+waopul:
+  term: waopul
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - amazing (<em>day, etc.</em>)
+      - amazed
+    epo:
+    - - mira
+      - mirigita
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - wao
+    - +
+    - -pul
 waoxey:
   term: waoxey
   word class: b
@@ -215486,8 +217393,6 @@ weykumax:
     - wey-
     - +
     - -kumax
-    natlang similar:
-      Putunhwa: 圍巾 &ldquo;weyjin&rdquo;
 weyli:
   term: weyli
   word class: t
@@ -216860,9 +218765,6 @@ xahin:
       Hindi: शाहीन &ldquo;xahin&rdquo;
       Parsisa: شاهین &ldquo;&scaron;&acirc;hin&rdquo;
       Rusisa: шахин &ldquo;xahin&rdquo;
-    natlang similar:
-      Hindi: श्येन &ldquo;xyen&rdquo;
-      Telugusa: శ్యేనము &ldquo;xyenamu&rdquo;
 xahu:
   term: xahu
   word class: b.oj; il
@@ -217245,7 +219147,7 @@ xanhun:
     eng:
     - - scar
       - cicatrix
-    - - 'tr/intr: scar'
+    - - 'tr/intr (optional -cu): scar'
     epo:
     - - cikatro
     - - cikratrigi
@@ -217328,7 +219230,7 @@ xanidin:
       - 周六
   etymology:
     derived:
-    - Xani
+    - xani
     - +
     - -din
 xanka:
@@ -218846,8 +220748,6 @@ xikar:
     natlang:
       Hindi: शिकार &ldquo;xikar&rdquo;
       Parsisa: شکار &ldquo;xekar&rdquo;
-    natlang similar:
-      Niponsa: 狩る &ldquo;karu&rdquo;
 xikaryen:
   term: xikaryen
   word class: b
@@ -219723,7 +221623,7 @@ xohra:
     - - fame
     - - 'tr: make famous'
       - cause to be famous
-    - - 'intr: be famous'
+    - - 'intr (optional -cu): be famous'
     epo:
     - - famo
       - fameco
@@ -219747,6 +221647,25 @@ xohra:
       Arabisa: شهرة &ldquo;shuhra&rdquo;
       Parsisa: شهرت &ldquo;xohrat&rdquo;
       Turkisa: ş&ouml;hret
+xohrado:
+  term: xohrado
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - famed
+    epo:
+    - - famigita
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - xohra
+    - +
+    - -do
 xohrapul:
   term: xohrapul
   word class: t
@@ -219804,7 +221723,8 @@ xoku:
     eng:
     - - shock
     - - 'tr: shock'
-    - - 'intr: be in shock'
+    - - 'intr (optional -cu): be in shock'
+      - suffer from shock
     epo:
     - - ŝoko
     - - ŝokiĝi
@@ -219840,6 +221760,25 @@ xoku:
       Telugusa: షాక్ &ldquo;xak&rdquo;
       Turkisa: şok
       Vyetnamsa: sốc
+xokuabil:
+  term: xokuabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - shocking
+    epo:
+    - - ŝoka
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - xoku
+    - +
+    - -abil
 xokudo:
   term: xokudo
   word class: t
@@ -219849,7 +221788,7 @@ xokudo:
     - - shocked
       - in shock
     epo:
-    - - ŝoki
+    - - ŝokita
     spa:
     - - conmocionado
       - impactado
@@ -219863,6 +221802,25 @@ xokudo:
     - xoku
     - +
     - -do
+xokune:
+  term: xokune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - shocking
+    epo:
+    - - ŝokanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - xoku
+    - +
+    - -ne
 xomin:
   term: xomin
   word class: b.oj
@@ -220017,7 +221975,7 @@ xoratex:
   trans:
     eng:
     - - 'tr: set on fire'
-    - - 'intr: catch fire'
+    - - 'intr (optional -cu): catch fire'
     epo:
     - - flamiĝado
       - flamigado
@@ -220318,7 +222276,7 @@ xorixi:
       - make (somebody) conscious
       - cause (somebody) to become aware
       - cause (somebody) to become conscious
-    - - 'intr: become aware'
+    - - 'intr (optional -cu): become aware'
       - become conscious
       - realize
     epo:
@@ -220638,7 +222596,7 @@ xorpilo:
       - cause (somebody) to become tired
       - make fatigued
       - cause (somebody) to become fatigued
-    - - 'intr: tire'
+    - - 'intr (optional -cu): tire'
       - get tired
       - get fatigued
     epo:
@@ -220772,7 +222730,7 @@ xoru:
     - - 'tr: begin'
       - start
       - initiate
-    - - 'intr: begin'
+    - - 'intr (optional -cu): begin'
       - start
     epo:
     - - komenco
@@ -220796,6 +222754,30 @@ xoru:
       Arabisa: شُرُوع &ldquo;xuru&rdquo;
       Hindi: शुरू &ldquo;xuru&rdquo;
       Parsisa: شروع &ldquo;xoru&rdquo;
+xorucune:
+  term: xorucune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - beginning
+      - starting
+    epo:
+    - - ekanta
+      - komencanta
+      - startanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - xoru
+    - +
+    - -cu
+    - +
+    - -ne
 xorudo:
   term: xorudo
   word class: t
@@ -220866,6 +222848,28 @@ xoruli:
     - xoru
     - +
     - -li
+xorune:
+  term: xorune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - beginning
+      - starting
+    epo:
+    - - ekanta
+      - komencanta
+      - startanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - xoru
+    - +
+    - -ne
 xoruyen:
   term: xoruyen
   word class: b
@@ -221063,7 +223067,7 @@ xovinismo:
     - - 沙文主义
   etymology:
     derived:
-    - Xovin
+    - xovin
     - +
     - -ismo
 xow:
@@ -221933,7 +223937,7 @@ yake:
   trans:
     eng:
     - - burn
-    - - 'tr/intr: burn'
+    - - 'tr/intr (optional -cu): burn'
     epo:
     - - brulo
     - - bruli
@@ -221950,6 +223954,27 @@ yake:
     natlang:
       Niponsa: 火傷 &ldquo;yakedo&rdquo;
       Turkisa: yak-; yakmak
+yakecune:
+  term: yakecune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - burning
+    epo:
+    - - brulanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - yake
+    - +
+    - -cu
+    - +
+    - -ne
 yakedo:
   term: yakedo
   word class: t
@@ -221971,6 +223996,25 @@ yakedo:
     - yake
     - +
     - -do
+yakene:
+  term: yakene
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - burning
+    epo:
+    - - brulanta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - yake
+    - +
+    - -ne
 yakin:
   term: yakin
   word class: t
@@ -222999,7 +225043,7 @@ yehudiismo:
     - - 犹太教
   etymology:
     derived:
-    - Yehudi
+    - yehudi
     - +
     - -ismo
 yehudiyen:
@@ -223026,7 +225070,7 @@ yehudiyen:
     - - 犹太人
   etymology:
     derived:
-    - Yehudi
+    - yehudi
     - +
     - -yen
 yemen:
@@ -223824,7 +225868,7 @@ yolyu:
       - care
       - preoccupation
     - - 'tr: worry'
-    - - 'intr: worry'
+    - - 'intr (optional -cu): worry'
       - care
       - fret
     epo:
@@ -223848,6 +225892,28 @@ yolyu:
     natlang:
       Niponsa: 憂慮 &ldquo;yuryo&rdquo;
       Putunhwa: 忧虑 &ldquo;yowlyu&rdquo;
+yolyucune:
+  term: yolyucune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - worrying
+      - fretting
+    epo:
+    - - zorganta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - yolyu
+    - +
+    - -cu
+    - +
+    - -ne
 yolyudo:
   term: yolyudo
   word class: t
@@ -224220,7 +226286,7 @@ yoni:
   trans:
     eng:
     - - ion
-    - - 'tr/intr: ionize'
+    - - 'tr/intr (optional -cu): ionize'
     epo:
     - - jono
     - - joniĝi
@@ -224353,9 +226419,6 @@ yoran:
     eng:
     - - cradle
       - crib
-    - - 'tr/intr: cradle'
-      - rock
-      - sway
     epo:
     - - bebolito
       - lulilo
@@ -224557,7 +226620,7 @@ yozay:
       - fault
       - blame
     - - 'tr: blame'
-    - - 'intr: be guilty'
+    - - 'intr (optional -cu): be guilty'
     epo:
     - - kulpo
     - - kulpi
@@ -224844,7 +226907,7 @@ yukyo:
     - - validity
     - - 'tr: validate'
       - make valid
-    - - 'intr: be valid'
+    - - 'intr (optional -cu): be valid'
     epo:
     - - valideco
     - - validigi
@@ -225076,7 +227139,7 @@ yunki:
     - - courage
     - - 'tr: make couragous'
       - encourage
-    - - 'intr: be courageous'
+    - - 'intr (optional -cu): be courageous'
       - have the courage (to, for)
       - dare (to)
     epo:
@@ -225724,7 +227787,7 @@ zambili:
     zho: []
   etymology:
     derived:
-    - Zambi
+    - zambi
     - +
     - -li
 zambiyen:
@@ -225744,7 +227807,7 @@ zambiyen:
     zho: []
   etymology:
     derived:
-    - Zambi
+    - zambi
     - +
     - -yen
 zangar:
@@ -226120,7 +228183,7 @@ zigzagu:
     eng:
     - - zigzag
       - zig-zag
-    - - 'tr/intr: zigzag'
+    - - 'tr/intr (optional -cu): zigzag'
       - zig-zag
     epo:
     - - zigzago
@@ -226152,6 +228215,28 @@ zigzagu:
       Swahilisa: zigizaga
       Turkisa: zikzak
       Vyetnamsa: d&iacute;ch dắc
+zigzagucune:
+  term: zigzagucune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - zigzagging
+    epo:
+    - - zigzaganta
+      - zigzaga
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - zigzagu
+    - +
+    - -cu
+    - +
+    - -ne
 zigzagune:
   term: zigzagune
   word class: t
@@ -226224,7 +228309,7 @@ zimbabweli:
     zho: []
   etymology:
     derived:
-    - Zimbabwe
+    - zimbabwe
     - +
     - -li
 zimbabweyen:
@@ -226244,7 +228329,7 @@ zimbabweyen:
     zho: []
   etymology:
     derived:
-    - Zimbabwe
+    - zimbabwe
     - +
     - -yen
 zinko:
@@ -226703,16 +228788,19 @@ zuhuradin:
       - 周五
   etymology:
     derived:
-    - Zuhura
+    - zuhura
     - +
     - -din
 zukam:
   term: zukam
-  word class: b
+  word class: b.oro
   category: root
   trans:
     eng:
     - - (common) cold
+    - - 'tr: cause colds'
+    - - 'intr (optional -cu): get a cold'
+      - catch a cold
     epo:
     - - malvarmumo
     spa:
