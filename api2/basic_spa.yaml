@@ -393,6 +393,11 @@ absorbiabil:
   class: t
   category: derived
   translation: absorbente, hidr&oacute;filo
+absorbicu:
+  term: absorbicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 absorbine:
   term: absorbine
   class: t
@@ -425,9 +430,14 @@ abyasado:
   translation: ensayado, practicado
 acidi:
   term: acidi
-  class: b
+  class: b.oro
   category: root
   translation: '&aacute;cido'
+acidicu:
+  term: acidicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 acidigi:
   term: acidigi
   class: b.oj
@@ -525,6 +535,11 @@ adateabil:
   class: t
   category: derived
   translation: ""
+adatecu:
+  term: adatecu
+  class: b.nenoj
+  category: derived
+  translation: ""
 adatecuabil:
   term: adatecuabil
   class: t
@@ -555,6 +570,11 @@ adhesiabil:
   class: t
   category: derived
   translation: adhesivo, pegajoso
+adhesicu:
+  term: adhesicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 adhesicuabil:
   term: adhesicuabil
   class: t
@@ -1565,6 +1585,11 @@ amusado:
   class: t
   category: derived
   translation: entretenido, distra&iacute;do, divertido
+amusagiyen:
+  term: amusagiyen
+  class: b
+  category: derived
+  translation: animador, artista, entretenedor
 amusane:
   term: amusane
   class: t
@@ -1585,11 +1610,6 @@ amusaxey:
   class: b
   category: derived
   translation: diversi&oacute;n, pasatiempo
-amusayen:
-  term: amusayen
-  class: b
-  category: derived
-  translation: animador, artista, entretenedor
 ana:
   term: Ana
   class: su n
@@ -2173,9 +2193,14 @@ armadilo:
   translation: armadillo, <em>Cingulata</em>
 armoni:
   term: armoni
-  class: b
+  class: b.oro
   category: root
-  translation: (h)armon&iacute;a
+  translation: (h)armon&iacute;a; (h)armonizar(se)
+armonigi:
+  term: armonigi
+  class: b.oj
+  category: derived
+  translation: (h)armonizaci&oacute;n; (h)armonizar
 armonika:
   term: armonika
   class: b
@@ -7047,7 +7072,7 @@ cukotka:
   translation: Chukotka (<em>mar, distrito</em>)
 cundotu:
   term: cundotu
-  class: b.oj
+  class: b.oro
   category: root
   translation: colisi&oacute;n, choque, impacto; colisionar, chocar, impactar, topar
 cungi:
@@ -9770,6 +9795,11 @@ dudrilu:
   class: b
   category: derived
   translation: perforaci&oacute;n, barrenado, horadaci&oacute;n
+dudul:
+  term: dudul
+  class: b.oro
+  category: root
+  translation: mecedura; mecer, acunar, brezar, brizar, cimbrar; mecerse, cimbrarse
 dugaga:
   term: dugaga
   class: b
@@ -11357,7 +11387,7 @@ estrespul:
   term: estrespul
   class: t
   category: derived
-  translation: ""
+  translation: estresado, agobiado, preocupado, abrumado
 estrimi:
   term: estrimi
   class: b.oj
@@ -15598,6 +15628,11 @@ guti:
   class: b.oro
   category: root
   translation: s&oacute;lido; solidificar; solidificarse
+gutigi:
+  term: gutigi
+  class: ""
+  category: ""
+  translation: ""
 gutipul:
   term: gutipul
   class: t
@@ -17793,17 +17828,13 @@ inbao:
   translation: embolsar, meter a una bolsa
 inbistar:
   term: inbistar
-  class: b.nenoj
+  class: b.oro
   category: derived
-  translation: ir(se) a dormir, ir(se) a la cama, acostarse
-inbistargi:
-  term: inbistargi
-  class: b.oj
-  category: derived
-  translation: meter a la cama, poner a dormir
+  translation: meter a la cama, poner a dormir; ir(se) a dormir, ir(se) a la cama,
+    acostarse
 inbotela:
   term: inbotela
-  class: b.oj
+  class: b.oro
   category: derived
   translation: embotellado, embotellamiento; embotellar
 inbotelado:
@@ -17886,11 +17917,16 @@ inergodo:
   class: t
   category: derived
   translation: ""
-inergogi:
-  term: inergogi
-  class: b.oj
+inergogiyen:
+  term: inergogiyen
+  class: b
   category: derived
-  translation: contrataci&oacute;n; contratar
+  translation: ""
+inergoyen:
+  term: inergoyen
+  class: b
+  category: derived
+  translation: ""
 infarto:
   term: infarto
   class: b
@@ -18113,7 +18149,7 @@ inku:
   translation: tinta
 inlabas:
   term: inlabas
-  class: b.oj
+  class: b.oro
   category: derived
   translation: vestir
 inli:
@@ -18128,7 +18164,7 @@ inlide:
   translation: inducci&oacute;n; inducir
 inmemori:
   term: inmemori
-  class: b.oj
+  class: b.oro
   category: derived
   translation: memorizaci&oacute;n, aprendizaje; memorizar, aprenderse
 innafasu:
@@ -18183,7 +18219,7 @@ insan:
   translation: (ser) humano, <em>Homo</em>
 insanduku:
   term: insanduku
-  class: b.oj
+  class: b.oro
   category: derived
   translation: empaquetado, empaquetadura; empaquetar, meter en una caja, encajar
 insanlari:
@@ -18339,7 +18375,7 @@ intreya:
   translation: intermedialidad
 inturan:
   term: inturan
-  class: b.oj
+  class: b.oro
   category: derived
   translation: entierro, sepultura, sepelio, inhumaci&oacute;n; enterrar, sepultar,
     sepelir, inhumar
@@ -23736,11 +23772,6 @@ labasgebo:
   class: b
   category: derived
   translation: manga (<em>parte de la ropa donde entra cada brazo</em>)
-labasgi:
-  term: labasgi
-  class: b.oj
-  category: derived
-  translation: vestir
 labaskaxa:
   term: labaskaxa
   class: b
@@ -29793,11 +29824,6 @@ nensabar:
   class: t
   category: derived
   translation: impaciente; impacientemente
-nensehagiible:
-  term: nensehagiible
-  class: t
-  category: derived
-  translation: incurable
 nensekrasine:
   term: nensekrasine
   class: t
@@ -33219,7 +33245,7 @@ podikasti:
   term: podikasti
   class: b.oj
   category: root
-  translation: <em>podcast</em>
+  translation: p&oacute;dcast, <em>podcast</em>
 poema:
   term: poema
   class: b
@@ -34605,6 +34631,11 @@ rasuberi:
   category: root
   translation: frambuesa, <em>Rubus idaeus</em>, altimora, antimora, artimora, mora
     peluda, mora terrera, mora terrestre, sang&uuml;esa, uva de oso
+rasyon:
+  term: rasyon
+  class: ""
+  category: root
+  translation: ""
 rato:
   term: rato
   class: b
@@ -36460,6 +36491,11 @@ sehagine:
   class: t
   category: derived
   translation: curativo
+sehaginenible:
+  term: sehaginenible
+  class: t
+  category: derived
+  translation: incurable
 sehaya:
   term: sehaya
   class: b
@@ -40471,8 +40507,8 @@ trankwilogi:
   class: b.oj
   category: derived
   translation: tranquilizar
-trankwilogitul:
-  term: trankwilogitul
+trankwilogiente:
+  term: trankwilogiente
   class: b
   category: derived
   translation: tranquilizante
@@ -40722,6 +40758,16 @@ tuba:
   class: b
   category: root
   translation: tuba
+tuberkul:
+  term: tuberkul
+  class: b
+  category: root
+  translation: tub&eacute;rculo
+tuberkulosis:
+  term: tuberkulosis
+  class: b
+  category: root
+  translation: tuberculosis
 tubihu:
   term: tubihu
   class: b.oj
@@ -44143,7 +44189,7 @@ yoran:
   term: yoran
   class: b.oro
   category: root
-  translation: cuna, brezo; mecer, acunar, brezar, brizar, cimbrar; mecerse, cimbrarse
+  translation: cuna, brezo
 yosef:
   term: Yosef
   class: su n

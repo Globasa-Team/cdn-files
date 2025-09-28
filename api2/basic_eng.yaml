@@ -378,12 +378,17 @@ absorbi:
   term: absorbi
   class: b.oro
   category: root
-  translation: 'absorption; tr/intr (optional -cu): absorb'
+  translation: 'absorption; tr: absorb; intr (optional -cu): absorb, get absorbed'
 absorbiabil:
   term: absorbiabil
   class: t
   category: derived
   translation: absorbent
+absorbicu:
+  term: absorbicu
+  class: b.nenoj
+  category: derived
+  translation: 'absorption; intr: absord, get absorbed'
 absorbine:
   term: absorbine
   class: t
@@ -416,9 +421,14 @@ abyasado:
   translation: rehearsed
 acidi:
   term: acidi
-  class: b
+  class: b.oro
   category: root
-  translation: acid
+  translation: 'acid; tr/intr (optional -cu): acidify'
+acidicu:
+  term: acidicu
+  class: b.nenoj
+  category: derived
+  translation: 'acidification; intr: acidify'
 acidigi:
   term: acidigi
   class: b.oj
@@ -514,6 +524,11 @@ adateabil:
   class: t
   category: derived
   translation: adaptable (<em>which can adapt</em>)
+adatecu:
+  term: adatecu
+  class: b.nenoj
+  category: derived
+  translation: 'adaptation; intr: adapt (oneself)'
 adatecuabil:
   term: adatecuabil
   class: t
@@ -544,6 +559,11 @@ adhesiabil:
   class: t
   category: derived
   translation: adhesive, sticky
+adhesicu:
+  term: adhesicu
+  class: b.nenoj
+  category: derived
+  translation: 'adhesion; intr: adhere, stick'
 adhesicuabil:
   term: adhesicuabil
   class: t
@@ -1548,6 +1568,11 @@ amusado:
   class: t
   category: derived
   translation: amused, entertained
+amusagiyen:
+  term: amusagiyen
+  class: b
+  category: derived
+  translation: entertainer
 amusane:
   term: amusane
   class: t
@@ -1562,17 +1587,12 @@ amusapul:
   term: amusapul
   class: t
   category: derived
-  translation: fun (<em>day, etc.</em>), amused, entertained
+  translation: 'inanimate nouns: fun; animate nouns: amused, entertained'
 amusaxey:
   term: amusaxey
   class: b
   category: derived
   translation: pastime
-amusayen:
-  term: amusayen
-  class: b
-  category: derived
-  translation: entertainer
 ana:
   term: Ana
   class: su n
@@ -2153,9 +2173,14 @@ armadilo:
   translation: armadillo, <em>Cingulata</em>
 armoni:
   term: armoni
-  class: b
+  class: b.oro
   category: root
-  translation: harmony
+  translation: 'harmony; tr/intr (optional -cu): harmonize'
+armonigi:
+  term: armonigi
+  class: b.oj
+  category: derived
+  translation: harmonization; harmonize
 armonika:
   term: armonika
   class: b
@@ -7012,9 +7037,9 @@ cukotka:
   translation: Chukchi
 cundotu:
   term: cundotu
-  class: b.oj
+  class: b.oro
   category: root
-  translation: collision; collide, impact, crash
+  translation: 'collision, impact; tr: crash; intr: collide'
 cungi:
   term: cungi
   class: t
@@ -9717,6 +9742,11 @@ dudrilu:
   class: b
   category: derived
   translation: drilling (<em>act of</em>)
+dudul:
+  term: dudul
+  class: b.oro
+  category: root
+  translation: rock, sway, cradle
 dugaga:
   term: dugaga
   class: b
@@ -11302,7 +11332,7 @@ estrespul:
   term: estrespul
   class: t
   category: derived
-  translation: stressful (<em>day, etc.</em>), stressed
+  translation: 'inanimate nouns: stressful; animate nouns: stressed'
 estrimi:
   term: estrimi
   class: b.oj
@@ -11462,7 +11492,7 @@ evolu:
   term: evolu
   class: b.nenoj
   category: root
-  translation: evolution, development; evolve
+  translation: evolution; evolve
 evolucudo:
   term: evolucudo
   class: t
@@ -14525,7 +14555,7 @@ gas:
   term: gas
   class: b.oro
   category: root
-  translation: 'gas; tr: cause to turn gaseous; intr (optional -cu): become gaseous'
+  translation: 'gas; tr: turn gaseous; intr (optional -cu): become gaseous'
 gascu:
   term: gascu
   class: b.nenoj
@@ -15522,8 +15552,13 @@ guti:
   term: guti
   class: b.oro
   category: root
-  translation: 'solid; tr/intr (optional -cu): solidify (<em>cause to turn into or
-    become solid</em>)'
+  translation: 'solid; tr/intr (optional -cu): solidify (<em>turn into or become a
+    solid</em>)'
+gutigi:
+  term: gutigi
+  class: ""
+  category: ""
+  translation: solidification; solidify (<em>cause to become a solid</em>)
 gutipul:
   term: gutipul
   class: t
@@ -17718,17 +17753,12 @@ inbao:
   translation: bag (<em>put inside a bag</em>)
 inbistar:
   term: inbistar
-  class: b.nenoj
+  class: b.oro
   category: derived
-  translation: go to bed, get in bed
-inbistargi:
-  term: inbistargi
-  class: b.oj
-  category: derived
-  translation: put to bed
+  translation: 'tr: put to bed; intr: go to bed, get in bed'
 inbotela:
   term: inbotela
-  class: b.oj
+  class: b.oro
   category: derived
   translation: bottling; bottle
 inbotelado:
@@ -17811,11 +17841,16 @@ inergodo:
   class: t
   category: derived
   translation: hired
-inergogi:
-  term: inergogi
-  class: b.oj
+inergogiyen:
+  term: inergogiyen
+  class: b
   category: derived
-  translation: hire
+  translation: employer
+inergoyen:
+  term: inergoyen
+  class: b
+  category: derived
+  translation: employee
 infarto:
   term: infarto
   class: b
@@ -17957,7 +17992,7 @@ inhatari:
   term: inhatari
   class: b.oj
   category: root
-  translation: endangerment; put in danger, endanger
+  translation: 'endangerment; tr: put in danger, endanger'
 inidi:
   term: inidi
   class: b.oj
@@ -18002,7 +18037,7 @@ injir:
   term: injir
   class: b
   category: root
-  translation: fig
+  translation: fig, ficus
 inkilabu:
   term: inkilabu
   class: b.oj
@@ -18041,9 +18076,9 @@ inku:
   translation: ink
 inlabas:
   term: inlabas
-  class: b.oj
+  class: b.oro
   category: derived
-  translation: clothe
+  translation: 'tr: clothe, dress; intr: get dressed, dress oneself'
 inli:
   term: inli
   class: t
@@ -18056,9 +18091,9 @@ inlide:
   translation: induction; induce
 inmemori:
   term: inmemori
-  class: b.oj
+  class: b.oro
   category: derived
-  translation: memorization; memorize
+  translation: 'memorization; tr: memorize'
 innafasu:
   term: innafasu
   class: b.oj
@@ -18111,9 +18146,9 @@ insan:
   translation: human (being), people
 insanduku:
   term: insanduku
-  class: b.oj
+  class: b.oro
   category: derived
-  translation: box (<em>put into box</em>)
+  translation: 'tr: box (<em>put into box</em>)'
 insanlari:
   term: insanlari
   class: b
@@ -18267,9 +18302,9 @@ intreya:
   translation: in-betweenness; be between
 inturan:
   term: inturan
-  class: b.oj
+  class: b.oro
   category: derived
-  translation: burial; bury
+  translation: 'burial; tr: bury; intr: bury oneself'
 inturandom:
   term: inturandom
   class: b
@@ -19668,8 +19703,8 @@ joxupul:
   term: joxupul
   class: t
   category: derived
-  translation: exciting (<em>day, etc.</em>), enthusiastic, eager; enthusiastically,
-    eagerly
+  translation: 'inanimate nouns: exciting; animate nouns: excited, enthusiastic, eager;
+    excitedly, enthusiastically, eagerly'
 jozi:
   term: jozi
   class: b
@@ -23630,11 +23665,6 @@ labasgebo:
   class: b
   category: derived
   translation: sleeve
-labasgi:
-  term: labasgi
-  class: b.oj
-  category: derived
-  translation: dress, clothe
 labaskaxa:
   term: labaskaxa
   class: b
@@ -24495,7 +24525,7 @@ likwidogi:
   term: likwidogi
   class: b.oj
   category: derived
-  translation: liquefaction; liquify, liquefy (<em>turn into a liquid</em>)
+  translation: liquefaction; liquify, liquefy (<em>cause to become a liquid</em>)
 likwidopul:
   term: likwidopul
   class: t
@@ -29656,11 +29686,6 @@ nensabar:
   class: t
   category: derived
   translation: impatient; impatiently
-nensehagiible:
-  term: nensehagiible
-  class: t
-  category: derived
-  translation: incurable
 nensekrasine:
   term: nensekrasine
   class: t
@@ -32439,7 +32464,7 @@ persika:
   term: persika
   class: b
   category: root
-  translation: peach (<em>Prunus persica</em>)
+  translation: peach, <em>Prunus persica</em>
 person:
   term: person
   class: b
@@ -33102,7 +33127,7 @@ polisiyen:
   term: polisiyen
   class: b
   category: derived
-  translation: (police) officer, policeman
+  translation: (police) officer, policeman, cop
 politi:
   term: politi
   class: b
@@ -33397,7 +33422,7 @@ posbinde:
   term: posbinde
   class: b.oj
   category: derived
-  translation: untying, unfastening; untie, unfasten
+  translation: untying, unfastening, unbinding; untie, unfasten, unbind
 posbuton:
   term: posbuton
   class: b.oj
@@ -33617,7 +33642,7 @@ posplagu:
   term: posplagu
   class: b.oj
   category: derived
-  translation: unplug
+  translation: unplug, uncork
 posplagudo:
   term: posplagudo
   class: t
@@ -33728,7 +33753,7 @@ potasyum:
   term: potasyum
   class: b
   category: root
-  translation: potasium, K
+  translation: potassium, K
 prabu:
   term: prabu
   class: b
@@ -34427,6 +34452,11 @@ rasuberi:
   class: b
   category: root
   translation: raspberry, <em>Rubus idaeus</em>
+rasyon:
+  term: rasyon
+  class: ""
+  category: root
+  translation: ration(s), provision(s)
 rato:
   term: rato
   class: b
@@ -35184,7 +35214,7 @@ rukemajam:
   term: rukemajam
   class: b
   category: derived
-  translation: spinal cord
+  translation: spinal cord, spinal marrow, medulla spinalis
 rukesahni:
   term: rukesahni
   class: b
@@ -35524,12 +35554,12 @@ sahayli_falelexi:
   term: sahayli falelexi
   class: b
   category: derived
-  translation: auxiliary verb
+  translation: auxiliary verb, helping verb
 sahayyen:
   term: sahayyen
   class: b
   category: derived
-  translation: helper, aide
+  translation: helper, aide, assistant
 sahel:
   term: sahel
   class: b
@@ -36273,6 +36303,11 @@ sehagine:
   class: t
   category: derived
   translation: healing, healthy (<em>conducive to health</em>)
+sehaginenible:
+  term: sehaginenible
+  class: t
+  category: derived
+  translation: incurable
 sehaya:
   term: sehaya
   class: b
@@ -40257,8 +40292,8 @@ trankwilogi:
   class: b.oj
   category: derived
   translation: tranquilize, calm
-trankwilogitul:
-  term: trankwilogitul
+trankwilogiente:
+  term: trankwilogiente
   class: b
   category: derived
   translation: tranquilizer
@@ -40508,6 +40543,16 @@ tuba:
   class: b
   category: root
   translation: tuba
+tuberkul:
+  term: tuberkul
+  class: b
+  category: root
+  translation: tuber, tubercle
+tuberkulosis:
+  term: tuberkulosis
+  class: b
+  category: root
+  translation: tuberculosis
 tubihu:
   term: tubihu
   class: b.oj
@@ -41953,7 +41998,7 @@ waopul:
   term: waopul
   class: t
   category: derived
-  translation: amazing (<em>day, etc.</em>), amazed
+  translation: 'inanimate nouns: amazing; animate nouns: amazed'
 waoxey:
   term: waoxey
   class: b
@@ -44036,7 +44081,7 @@ yunki:
   term: yunki
   class: b.oro
   category: root
-  translation: 'courage; tr: make couragous, encourage; intr (optional -cu): be courageous,
+  translation: 'courage; tr: make courageous, encourage; intr (optional -cu): be courageous,
     have the courage (to, for), dare (to)'
 yunkido:
   term: yunkido

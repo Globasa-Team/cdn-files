@@ -384,6 +384,11 @@ absorbiabil:
   class: t
   category: derived
   translation: sorba, sorbema; sorbe, sorbeme
+absorbicu:
+  term: absorbicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 absorbine:
   term: absorbine
   class: t
@@ -416,9 +421,14 @@ abyasado:
   translation: ekzercita; ekzercite
 acidi:
   term: acidi
-  class: b
+  class: b.oro
   category: root
   translation: acido
+acidicu:
+  term: acidicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 acidigi:
   term: acidigi
   class: b.oj
@@ -514,6 +524,11 @@ adateabil:
   class: t
   category: derived
   translation: adaptiĝema
+adatecu:
+  term: adatecu
+  class: b.nenoj
+  category: derived
+  translation: ""
 adatecuabil:
   term: adatecuabil
   class: t
@@ -544,6 +559,11 @@ adhesiabil:
   class: t
   category: derived
   translation: adhera; adhere
+adhesicu:
+  term: adhesicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 adhesicuabil:
   term: adhesicuabil
   class: t
@@ -1540,6 +1560,11 @@ amusado:
   class: t
   category: derived
   translation: amuzita
+amusagiyen:
+  term: amusagiyen
+  class: b
+  category: derived
+  translation: amuzisto, amuzanto
 amusane:
   term: amusane
   class: t
@@ -1560,11 +1585,6 @@ amusaxey:
   class: b
   category: derived
   translation: amuzaĵo
-amusayen:
-  term: amusayen
-  class: b
-  category: derived
-  translation: amuzisto, amuzanto
 ana:
   term: Ana
   class: su n
@@ -2142,9 +2162,14 @@ armadilo:
   translation: armadelo, dazipo, cingulato
 armoni:
   term: armoni
-  class: b
+  class: b.oro
   category: root
-  translation: harmonio
+  translation: harmonio; harmoniigi; harmonii
+armonigi:
+  term: armonigi
+  class: b.oj
+  category: derived
+  translation: harmoniigo; harmoniigi
 armonika:
   term: armonika
   class: b
@@ -6979,7 +7004,7 @@ cukotka:
   translation: Ĉukĉa maro
 cundotu:
   term: cundotu
-  class: b.oj
+  class: b.oro
   category: root
   translation: kolizio, kunfrapo; kolizii
 cungi:
@@ -9678,6 +9703,11 @@ dudrilu:
   class: b
   category: derived
   translation: borado
+dudul:
+  term: dudul
+  class: b.oro
+  category: root
+  translation: balancado, balanciĝo, lulado; balanciĝi, balanci, luli
 dugaga:
   term: dugaga
   class: b
@@ -11254,7 +11284,7 @@ estrespul:
   term: estrespul
   class: t
   category: derived
-  translation: stresiga, stresigita
+  translation: stresiga, stresiĝinta, stresigita
 estrimi:
   term: estrimi
   class: b.oj
@@ -15457,6 +15487,11 @@ guti:
   class: b.oro
   category: root
   translation: solido
+gutigi:
+  term: gutigi
+  class: ""
+  category: ""
+  translation: solidigo; solidigi
 gutipul:
   term: gutipul
   class: t
@@ -17634,17 +17669,12 @@ inbao:
   translation: ensakigo; ensakigi
 inbistar:
   term: inbistar
-  class: b.nenoj
+  class: b.oro
   category: derived
-  translation: enlitiĝo; enlitiĝi
-inbistargi:
-  term: inbistargi
-  class: b.oj
-  category: derived
-  translation: enlitigo; enlitigi
+  translation: enlitigo; enlitigi; enlitiĝo; enlitiĝi
 inbotela:
   term: inbotela
-  class: b.oj
+  class: b.oro
   category: derived
   translation: enboteligi
 inbotelado:
@@ -17721,17 +17751,22 @@ inergo:
   term: inergo
   class: b.oro
   category: derived
-  translation: dungo; dungiĝi
+  translation: dungo; dungi, dungiĝi
 inergodo:
   term: inergodo
   class: t
   category: derived
   translation: dungita
-inergogi:
-  term: inergogi
-  class: b.oj
+inergogiyen:
+  term: inergogiyen
+  class: b
   category: derived
-  translation: dungo; dungi
+  translation: ""
+inergoyen:
+  term: inergoyen
+  class: b
+  category: derived
+  translation: ""
 infarto:
   term: infarto
   class: b
@@ -17954,7 +17989,7 @@ inku:
   translation: inko
 inlabas:
   term: inlabas
-  class: b.oj
+  class: b.oro
   category: derived
   translation: vesti
 inli:
@@ -17969,7 +18004,7 @@ inlide:
   translation: indukto; indukti
 inmemori:
   term: inmemori
-  class: b.oj
+  class: b.oro
   category: derived
   translation: enmemorigo, parkerigado; enmemorigi, parkerigi, parkeri
 innafasu:
@@ -18024,7 +18059,7 @@ insan:
   translation: homo
 insanduku:
   term: insanduku
-  class: b.oj
+  class: b.oro
   category: derived
   translation: enskatoligo; enskatoligi
 insanlari:
@@ -18179,7 +18214,7 @@ intreya:
   translation: intereco
 inturan:
   term: inturan
-  class: b.oj
+  class: b.oro
   category: derived
   translation: enterigo; enterigi
 inturandom:
@@ -23519,11 +23554,6 @@ labasgebo:
   class: b
   category: derived
   translation: maniko
-labasgi:
-  term: labasgi
-  class: b.oj
-  category: derived
-  translation: vestado; vesti
 labaskaxa:
   term: labaskaxa
   class: b
@@ -25003,7 +25033,7 @@ lula:
   term: lula
   class: b.oj
   category: root
-  translation: lulo; luli
+  translation: kvietigo, lulado; kvietigi, luli
 lumen:
   term: lumen
   class: b
@@ -29522,11 +29552,6 @@ nensabar:
   class: t
   category: derived
   translation: senpacienca; senpacience
-nensehagiible:
-  term: nensehagiible
-  class: t
-  category: derived
-  translation: neresanigebla, nekuracebla
 nensekrasine:
   term: nensekrasine
   class: t
@@ -32224,7 +32249,7 @@ perfiksa:
   term: perfiksa
   class: b.oj
   category: root
-  translation: munto; munti (<em>komputiko</em>)
+  translation: munto; munti
 perfiksado:
   term: perfiksado
   class: t
@@ -34281,6 +34306,11 @@ rasuberi:
   class: b
   category: root
   translation: frambo, ida rubuso
+rasyon:
+  term: rasyon
+  class: ""
+  category: root
+  translation: provianto, porcio
 rato:
   term: rato
   class: b
@@ -36122,6 +36152,11 @@ sehagine:
   class: t
   category: derived
   translation: saniga; sanige
+sehaginenible:
+  term: sehaginenible
+  class: t
+  category: derived
+  translation: neresanigebla, nekuracebla
 sehaya:
   term: sehaya
   class: b
@@ -40098,8 +40133,8 @@ trankwilogi:
   class: b.oj
   category: derived
   translation: trankviligo; trankviligi
-trankwilogitul:
-  term: trankwilogitul
+trankwilogiente:
+  term: trankwilogiente
   class: b
   category: derived
   translation: trankviligilo
@@ -40348,6 +40383,16 @@ tuba:
   class: b
   category: root
   translation: tubjo
+tuberkul:
+  term: tuberkul
+  class: b
+  category: root
+  translation: tubero, tuberkulo
+tuberkulosis:
+  term: tuberkulosis
+  class: b
+  category: root
+  translation: tuberkulozo
 tubihu:
   term: tubihu
   class: b.oj
@@ -43736,7 +43781,7 @@ yoran:
   term: yoran
   class: b.oro
   category: root
-  translation: bebolito, lulilo; balanciĝi, balanci, luli
+  translation: bebolito, lulilo
 yosef:
   term: Yosef
   class: su n
