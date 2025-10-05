@@ -388,7 +388,7 @@ absorbicu:
   term: absorbicu
   class: b.nenoj
   category: derived
-  translation: 'absorption; intr: absord, get absorbed'
+  translation: 'absorption; intr (optional -cu): absord (<em>get absorbed</em>)'
 absorbine:
   term: absorbine
   class: t
@@ -423,17 +423,12 @@ acidi:
   term: acidi
   class: b.oro
   category: root
-  translation: 'acid; tr/intr (optional -cu): acidify'
+  translation: 'acid; tr: acidify; intr (optional -cu): acidify, become acidified'
 acidicu:
   term: acidicu
   class: b.nenoj
   category: derived
-  translation: 'acidification; intr: acidify'
-acidigi:
-  term: acidigi
-  class: b.oj
-  category: derived
-  translation: acidification; acidify
+  translation: 'acidification; intr (optional -cu): acidify (<em>become acidified</em>)'
 acidihamir:
   term: acidihamir
   class: b
@@ -518,7 +513,7 @@ adate:
   term: adate
   class: b.oro
   category: root
-  translation: 'adaptation; tr: adapt; intr (optional -cu): adapt (oneself)'
+  translation: 'adaptation; tr: adapt; intr (optional -cu): adapt (oneself), get adapted'
 adateabil:
   term: adateabil
   class: t
@@ -528,7 +523,7 @@ adatecu:
   term: adatecu
   class: b.nenoj
   category: derived
-  translation: 'adaptation; intr: adapt (oneself)'
+  translation: 'adaptation; intr (optional -cu): adapt (oneself), get adapted'
 adatecuabil:
   term: adatecuabil
   class: t
@@ -553,7 +548,8 @@ adhesi:
   term: adhesi
   class: b.oro
   category: root
-  translation: 'adhesion; tr/intr (optional -cu): adhere, stick'
+  translation: 'adhesion; tr: adhere, stick; intr (optional -cu): adhere, get adhered,
+    stick, get stuck'
 adhesiabil:
   term: adhesiabil
   class: t
@@ -563,7 +559,8 @@ adhesicu:
   term: adhesicu
   class: b.nenoj
   category: derived
-  translation: 'adhesion; intr: adhere, stick'
+  translation: 'adhesion; intr (optional -cu): adhere (<em>get adhered</em>), stick
+    (<em>get stuck</em>)'
 adhesicuabil:
   term: adhesicuabil
   class: t
@@ -1135,7 +1132,12 @@ alkohol:
   term: alkohol
   class: b.oro
   category: root
-  translation: 'alcohol; tr/intr (optional -cu): alcoholize'
+  translation: 'alcohol; tr: alcoholize; intr (optional -cu): become alcoholized'
+alkoholcu:
+  term: alkoholcu
+  class: b.nenoj
+  category: derived
+  translation: 'alcoholization; intr (optional -cu): become alcoholized'
 alkoholdo:
   term: alkoholdo
   class: t
@@ -1216,6 +1218,11 @@ aloforma:
   class: b.oro
   category: derived
   translation: 'transformation; tr/intr (optional -cu): transform'
+aloformacu:
+  term: aloformacu
+  class: b.nenoj
+  category: derived
+  translation: 'transformation; intr (optional -cu): transform (<em>become transformed</em>)'
 alogi:
   term: alogi
   class: b.oj
@@ -1419,13 +1426,13 @@ ambisi:
   term: ambisi
   class: b.oro
   category: root
-  translation: 'ambition; tr: make (somebody) ambitious; intr (optional -cu): be ambitious,
-    aspire (to)'
-ambisicune:
-  term: ambisicune
-  class: t
+  translation: 'ambition; tr: make (somebody) ambitious; intr: be ambitious, aspire
+    (to)'
+ambisicu:
+  term: ambisicu
+  class: b.nenoj
   category: derived
-  translation: aspiring
+  translation: 'intr: become ambitious'
 ambisifil:
   term: ambisifil
   class: t
@@ -1561,8 +1568,13 @@ amusa:
   term: amusa
   class: b.oro
   category: root
-  translation: 'amusement, entertainment, fun; tr: amuse, entertain; intr (optional
-    -cu): have fun, feel/be amused, feel/be entertained'
+  translation: 'amusement, entertainment, fun; tr: amuse, entertain; intr: have fun,
+    amuse oneself, be (<em>feel</em>) amused, be (<em>feel</em>) entertained'
+amusacu:
+  term: amusacu
+  class: b.nenoj
+  category: derived
+  translation: 'intr: become amused, become entertained'
 amusado:
   term: amusado
   class: t
@@ -1837,8 +1849,12 @@ ansya:
   term: ansya
   class: b.oro
   category: root
-  translation: 'anxiety; tr: make (somebody) anxious; intr (optional -cu): feel/be
-    anxious'
+  translation: 'anxiety; tr: make (somebody) anxious; intr: be (<em>feel</em>) anxious'
+ansyacu:
+  term: ansyacu
+  class: b.nenoj
+  category: derived
+  translation: 'intr: become anxious'
 ansyafil:
   term: ansyafil
   class: t
@@ -1968,8 +1984,13 @@ anwi:
   term: anwi
   class: b.oro
   category: root
-  translation: 'consolation, solace; tr: comfort, console, cheer (up); intr (optional
-    -cu): feel/be comforted, feel/be consoled, cheer (up)'
+  translation: 'consolation, solace; tr: comfort, console, cheer (up); intr: be (<em>feel</em>)
+    comforted, be (<em>feel</em>) consoled'
+anwicu:
+  term: anwicu
+  class: b.nenoj
+  category: derived
+  translation: 'intr: become comforted, become consoled, cheer up'
 anwijayeza:
   term: anwijayeza
   class: b
@@ -2010,7 +2031,12 @@ aplika:
   class: b.oro
   category: root
   translation: 'application; tr: apply (<em>bring or put into operation or practical
-    use</em>); intr (optional -cu): be applicable (to)'
+    use</em>); intr (optional -cu): apply, be applicable (to)'
+aplikacu:
+  term: aplikacu
+  class: b.nenoj
+  category: derived
+  translation: 'intr (optional -cu): apply, be applicable (to)'
 aplikaible:
   term: aplikaible
   class: t
@@ -2175,7 +2201,12 @@ armoni:
   term: armoni
   class: b.oro
   category: root
-  translation: 'harmony; tr/intr (optional -cu): harmonize'
+  translation: 'harmony; tr: harmonize; intr (optional -cu): become harmonized'
+armonicu:
+  term: armonicu
+  class: b.nenoj
+  category: derived
+  translation: 'harmonization; intr (optional -cu): become harmonized'
 armonigi:
   term: armonigi
   class: b.oj
@@ -2290,8 +2321,13 @@ artroitis:
   term: artroitis
   class: b.oro
   category: derived
-  translation: 'arthritis; tr: cause arthritis; intr (optional -cu): have arthritis,
-    be arthritic'
+  translation: 'arthritis; tr: cause arthritis; intr: have arthritis, suffer from
+    arthritis, be arthritic'
+artroitiscu:
+  term: artroitiscu
+  class: b.nenoj
+  category: derived
+  translation: 'intr: become arthritic, get arthritis'
 artroitisli:
   term: artroitisli
   class: t
@@ -2342,6 +2378,11 @@ asel:
   class: b.oro
   category: root
   translation: 'origin, source; tr/intr (optional -cu): originate'
+aselcu:
+  term: aselcu
+  class: b.nenoj
+  category: derived
+  translation: 'intr: originate'
 aselcune:
   term: aselcune
   class: t
@@ -2466,7 +2507,13 @@ astama:
   term: astama
   class: b.oro
   category: root
-  translation: 'asthma; tr: cause asthma; intr (optional -cu): have asthma, be asthmatic'
+  translation: 'asthma; tr: cause asthma; intr: have asthma, suffer from asthma, be
+    asthmatic'
+astamacu:
+  term: astamacu
+  class: b.nenoj
+  category: derived
+  translation: 'intr: become asthmatic, get asthma'
 astamakrisis:
   term: astamakrisis
   class: b
@@ -2546,8 +2593,13 @@ atex:
   term: atex
   class: b.oro
   category: root
-  translation: 'fire; tr: burn (<em>destroy with fire</em>), light (<em>with fire</em>);
-    intr (optional -cu): burn (<em>be on fire, be consumed by fire</em>)'
+  translation: 'fire; tr: burn (<em>destroy with fire</em>); intr (optional -cu):
+    burn (<em>be on fire, be consumed by fire</em>)'
+atexcu:
+  term: atexcu
+  class: b.nenoj
+  category: derived
+  translation: 'intr (optional -cu): burn (<em>be on fire, be consumed by fire</em>)'
 atexcune:
   term: atexcune
   class: t
@@ -3084,7 +3136,13 @@ ayna:
   term: ayna
   class: b.oro
   category: root
-  translation: 'mirror; tr/intr (optional -cu): mirror, reflect'
+  translation: 'mirror; tr: mirror, reflect; intr (optional -cu): mirror, get mirrored,
+    reflect, get reflected'
+aynacu:
+  term: aynacu
+  class: b.nenoj
+  category: derived
+  translation: 'intr (optional -cu): mirror, get mirrored, reflect, get reflected'
 aynaya:
   term: aynaya
   class: b
@@ -3739,7 +3797,7 @@ bardi:
   term: bardi
   class: b.oro
   category: root
-  translation: 'cold; tr: chill, cool (down), make cold; intr (optional -cu): feel/be
+  translation: 'cold; tr: chill, cool (down), make cold; intr: be (<em>feel</em>)
     cold, cool (down)'
 bardiabil:
   term: bardiabil
@@ -3900,7 +3958,8 @@ basi:
   term: basi
   class: b.oro
   category: root
-  translation: 'basis, base, foundation; tr: base; intr (optional -cu): be based'
+  translation: 'basis, base, foundation; tr: base; intr (optional -cu): be based (<em>base
+    itself</em>)'
 basibol:
   term: basibol
   class: b
@@ -4015,8 +4074,7 @@ bawlu:
   term: bawlu
   class: b.oro
   category: root
-  translation: 'violence; tr: make violent, cause to be violent; intr (optional -cu):
-    be violent'
+  translation: 'violence; tr: make violent, cause to be violent; intr: be violent'
 bawlukrasi:
   term: bawlukrasi
   class: b
@@ -4366,8 +4424,8 @@ bembi:
   term: bembi
   class: b.oro
   category: root
-  translation: 'constipation; tr: constipate, cause constipation; intr (optional -cu):
-    have constipation, suffer from constipation, be constipated '
+  translation: 'constipation; tr: constipate, cause constipation; intr: have constipation,
+    suffer from constipation, be constipated '
 bembido:
   term: bembido
   class: t
@@ -5997,8 +6055,8 @@ cakare:
   term: cakare
   class: b.oro
   category: root
-  translation: 'vertigo, dizziness; tr: cause vertigo, cause dizziness; intr (optional
-    -cu): have vertigo, be dizzy'
+  translation: 'vertigo, dizziness; tr: cause vertigo, cause dizziness; intr: have
+    vertigo, suffer from vertigo, be dizzy'
 cakarene:
   term: cakarene
   class: t
@@ -6148,8 +6206,8 @@ carme:
   term: carme
   class: b.oro
   category: root
-  translation: 'charm, enchantment; tr: charm, enchant; intr (optional -cu): feel/be
-    charmed, feel/be enchanted'
+  translation: 'charm, enchantment; tr: charm, enchant; intr: be (<em>feel</em>) charmed,
+    be (<em>feel</em>) enchanted'
 carmedo:
   term: carmedo
   class: t
@@ -6679,8 +6737,8 @@ cinon:
   term: cinon
   class: b.oro
   category: root
-  translation: 'intelligence; tr: make intelligent, cause to be intelligent; intr
-    (optional -cu): be intelligent'
+  translation: 'intelligence, smartness; tr: make intelligent, make smart, cause to
+    be intelligent, cause to be smart; intr: be intelligent, be smart'
 cinonday:
   term: cinonday
   class: t
@@ -7039,7 +7097,7 @@ cundotu:
   term: cundotu
   class: b.oro
   category: root
-  translation: 'collision, impact; tr: crash; intr: collide'
+  translation: 'collision, impact, crash; tr: crash; intr (optional -cu): collide'
 cungi:
   term: cungi
   class: t
@@ -8063,8 +8121,7 @@ daysurprisa:
   term: daysurprisa
   class: b.oro
   category: derived
-  translation: 'astonishment; tr: astonish; intr (optional -cu): be (<em>feel</em>)
-    astonished'
+  translation: 'astonishment; tr: astonish; intr: be (<em>feel</em>) astonished'
 daysurprisane:
   term: daysurprisane
   class: t
@@ -8480,7 +8537,7 @@ depresi:
   term: depresi
   class: b.oro
   category: root
-  translation: 'depression; tr: depress; intr (optional -cu): be (<em>feel</em>) depressed'
+  translation: 'depression; tr: depress; intr: be (<em>feel</em>) depressed'
 depresido:
   term: depresido
   class: t
@@ -9746,7 +9803,7 @@ dudul:
   term: dudul
   class: b.oro
   category: root
-  translation: rock, sway, cradle
+  translation: 'rocking, swaying; tr/intr (optional -cu): rock, sway'
 dugaga:
   term: dugaga
   class: b
@@ -9929,8 +9986,7 @@ dyabetes:
   term: dyabetes
   class: b.oro
   category: root
-  translation: 'diabetes; tr: cause diabetes; intr (optional -cu): have diabetes,
-    be diabetic '
+  translation: 'diabetes; tr: cause diabetes; intr: have diabetes, be diabetic '
 dyabetesli:
   term: dyabetesli
   class: t
@@ -10268,9 +10324,14 @@ eleki:
   translation: cardamom, elaichi
 eletri:
   term: eletri
-  class: b.oj
+  class: b.oro
   category: root
-  translation: electricity; electrify
+  translation: 'electricity; tr: electrify; intr (optional -cu): become electrified'
+eletricu:
+  term: eletricu
+  class: b.nenoj
+  category: derived
+  translation: 'electrification; intr (optional -cu): become electrified'
 eletrigitara:
   term: eletrigitara
   class: b
@@ -10531,8 +10592,8 @@ epilepsi:
   term: epilepsi
   class: b.oro
   category: root
-  translation: 'epilepsy; tr: cause epilepsy; intr (optional -cu): have epilepsy,
-    suffer from epilepsy, be epileptic'
+  translation: 'epilepsy; tr: cause epilepsy; intr: have epilepsy, suffer from epilepsy,
+    be epileptic'
 epilepsili:
   term: epilepsili
   class: t
@@ -10742,8 +10803,8 @@ eskizofreni:
   term: eskizofreni
   class: b.oro
   category: root
-  translation: 'schizophrenia; tr: cause schizophrenia; intr (optional -cu): have
-    schizophrenia, suffer from schizophrenia, be schizophrenic '
+  translation: 'schizophrenia; tr: cause schizophrenia; intr: have schizophrenia,
+    suffer from schizophrenia, be schizophrenic '
 eskizofrenili:
   term: eskizofrenili
   class: t
@@ -10788,8 +10849,7 @@ eskorbuto:
   term: eskorbuto
   class: b.oro
   category: root
-  translation: 'scurvy; tr: cause scurvy; intr (optional -cu): have scurvy, suffer
-    from scurvy'
+  translation: 'scurvy; tr: cause scurvy; intr: have scurvy, suffer from scurvy'
 eskri:
   term: eskri
   class: b.oj
@@ -11004,7 +11064,7 @@ espiral:
   term: espiral
   class: b.oro
   category: root
-  translation: 'spiral, helix; tr/intr (optional -cu): twist'
+  translation: 'spiral, helix; tr/intr (optional -cu): twist, spiral'
 espiralcune:
   term: espiralcune
   class: t
@@ -11234,8 +11294,8 @@ estimula:
   term: estimula
   class: b.oro
   category: root
-  translation: 'stimulus, motivation; tr: stimulate, motivate; intr (optional -cu):
-    be (<em>feel</em>) stimulated, be (<em>feel</em>) motivated'
+  translation: 'stimulus, motivation; tr: stimulate, motivate; intr: be (<em>feel</em>)
+    stimulated, be (<em>feel</em>) motivated'
 estimulado:
   term: estimulado
   class: t
@@ -11477,7 +11537,7 @@ etnoli:
   term: etnoli
   class: t
   category: derived
-  translation: ethnic
+  translation: ethnic; ethnically
 etnotim:
   term: etnotim
   class: b
@@ -11608,8 +11668,8 @@ exbao:
   class: b.oj
   category: derived
   translation: take out of bag
-exbistar:
-  term: exbistar
+exbistarcu:
+  term: exbistarcu
   class: b.nenoj
   category: derived
   translation: get out of bed, get up
@@ -11628,27 +11688,21 @@ exdunyayen:
   class: b
   category: derived
   translation: alien, extraterrestrial
-exergo:
-  term: exergo
-  class: b.oro
-  category: derived
-  translation: 'exit from work, firing, resignation; tr: fire; intr (optional -cu):
-    quit, resign'
 exergocu:
   term: exergocu
   class: b.nenoj
   category: derived
   translation: resignation; resign, quit
-exergodo:
-  term: exergodo
-  class: t
-  category: derived
-  translation: fired
 exergogi:
   term: exergogi
   class: b.oj
   category: derived
   translation: fire, oust
+exergogido:
+  term: exergogido
+  class: t
+  category: derived
+  translation: fired
 exeskeleto:
   term: exeskeleto
   class: b
@@ -12738,8 +12792,8 @@ fefuitis:
   term: fefuitis
   class: b.oro
   category: derived
-  translation: 'pneumonitis, pneumonia; tr: cause pneumonia; intr (optional -cu):
-    have pneumonia, suffer from pneumonia'
+  translation: 'pneumonitis, pneumonia; tr: cause pneumonia; intr: have pneumonia,
+    suffer from pneumonia'
 feka:
   term: feka
   class: b.oj.ru
@@ -13464,6 +13518,11 @@ flura:
   category: root
   translation: flower, vagina (<em>sexualized</em>), vulva (<em>sexualized</em>),
     pussy; bloom, blossom
+fluragubar:
+  term: fluragubar
+  class: b
+  category: derived
+  translation: pollen
 flurakabiji:
   term: flurakabiji
   class: b
@@ -13483,8 +13542,8 @@ fobi:
   term: fobi
   class: b.oro
   category: root
-  translation: 'fear; tr: frighten, scare; be (<em>feel</em>) frightened, be (<em>feel</em>)
-    scared'
+  translation: 'fear; tr: frighten, scare; intr: be (<em>feel</em>) frightened, be
+    (<em>feel</em>) scared'
 fobido:
   term: fobido
   class: t
@@ -13759,17 +13818,17 @@ fosil:
   term: fosil
   class: b.oro
   category: root
-  translation: 'fossil; tr/intr (optional -cu): fossilize'
+  translation: fossil
 fosilcu:
   term: fosilcu
   class: b.nenoj
   category: derived
-  translation: fossilization; fossilize
+  translation: fossilization; fossilize (<em>become a fossil</em>)
 fosilgi:
   term: fosilgi
   class: b.oj
   category: derived
-  translation: fossilization; fossilize
+  translation: fossilization; fossilize (<em>cause to become a fossil</em>)
 foto:
   term: foto
   class: b.oj
@@ -13889,8 +13948,7 @@ frustra:
   term: frustra
   class: b.oro
   category: root
-  translation: 'frustration; tr: frustrate; intr (optional -cu): be (<em>feel</em>)
-    frustrated'
+  translation: 'frustration; tr: frustrate; intr: be (<em>feel</em>) frustrated'
 frustrado:
   term: frustrado
   class: t
@@ -14016,8 +14074,7 @@ funjin:
   term: funjin
   class: b.oro
   category: root
-  translation: 'rubella; tr: cause rubella; intr (optional -cu): have rubella, suffer
-    from rubella'
+  translation: 'rubella; tr: cause rubella; intr: have rubella, suffer from rubella'
 funsu:
   term: funsu
   class: b
@@ -14042,8 +14099,8 @@ furaha:
   term: furaha
   class: b.oro
   category: root
-  translation: 'enjoyment, pleasure; tr: pleasure, please; intr (optional -cu): feel
-    pleasure, enjoy oneself'
+  translation: 'enjoyment, pleasure; tr: pleasure, please; intr: feel pleasure, enjoy
+    oneself'
 furahado:
   term: furahado
   class: t
@@ -14419,8 +14476,8 @@ ganzoitis:
   term: ganzoitis
   class: b.oro
   category: derived
-  translation: 'hepatitis; tr: cause hepatitis; intr (optional -cu): have hepatitis,
-    suffer from hepatitis'
+  translation: 'hepatitis; tr: cause hepatitis; intr: have hepatitis, suffer from
+    hepatitis'
 gao:
   term: gao
   class: t
@@ -14553,19 +14610,19 @@ garudo:
   translation: scratched
 gas:
   term: gas
-  class: b.oro
+  class: b
   category: root
-  translation: 'gas; tr: turn gaseous; intr (optional -cu): become gaseous'
+  translation: gas
 gascu:
   term: gascu
   class: b.nenoj
   category: derived
-  translation: become a gas
+  translation: 'gasification; intr: gasify (<em>become a gas</em>)'
 gasgi:
   term: gasgi
   class: b.oj
   category: derived
-  translation: (cause to) turn into a gas
+  translation: 'gasification; tr: gasify (cause to become a gas)'
 gasolin:
   term: gasolin
   class: b
@@ -15189,8 +15246,8 @@ gonorey:
   term: gonorey
   class: b.oro
   category: root
-  translation: 'gonorrhea; tr: cause gonorrhea; intr (optional -cu): have gonorrhea,
-    suffer from gonorrhea'
+  translation: 'gonorrhea; tr: cause gonorrhea; intr: have gonorrhea, suffer from
+    gonorrhea'
 gorila:
   term: gorila
   class: b
@@ -15550,13 +15607,17 @@ gurumane:
   translation: growling, grunting, grumbling, muttering
 guti:
   term: guti
-  class: b.oro
+  class: b
   category: root
-  translation: 'solid; tr/intr (optional -cu): solidify (<em>turn into or become a
-    solid</em>)'
+  translation: solid
+guticu:
+  term: guticu
+  class: b.nenoj
+  category: derived
+  translation: solidification; solidify (<em>become a solid</em>)
 gutigi:
   term: gutigi
-  class: ""
+  class: b.oj
   category: ""
   translation: solidification; solidify (<em>cause to become a solid</em>)
 gutipul:
@@ -15568,8 +15629,8 @@ guton:
   term: guton
   class: b.oro
   category: root
-  translation: 'pain, ache; tr: hurt (<em>cause pain</em>); intr (optional -cu): ache,
-    hurt (<em>feel pain, have pain, suffer from pain</em>)'
+  translation: 'pain, ache; tr: hurt (<em>cause pain</em>); intr: ache, hurt (<em>feel
+    pain, have pain, suffer from pain</em>)'
 gutoncune:
   term: gutoncune
   class: t
@@ -16183,8 +16244,7 @@ hatari:
   term: hatari
   class: b.oro
   category: root
-  translation: 'danger; tr: make dangerous, cause to be dangerous; intr (optional
-    -cu): be dangerous'
+  translation: 'danger; tr: make dangerous, cause to be dangerous; intr: be dangerous'
 hatarido:
   term: hatarido
   class: t
@@ -16645,8 +16705,7 @@ herpes:
   term: herpes
   class: b.oro
   category: root
-  translation: 'herpes; tr: cause herpes; intr (optional -cu): have herpes, suffer
-    from herpes'
+  translation: 'herpes; tr: cause herpes; intr: have herpes, suffer from herpes'
 hervatska:
   term: Hervatska
   class: su n
@@ -17012,8 +17071,8 @@ homa:
   term: homa
   class: b.oro
   category: root
-  translation: 'fever; tr; cause fever; intr (optional -cu): have a fever, suffer
-    from fever, be feverish'
+  translation: 'fever; tr; cause fever; intr: have a fever, suffer from fever, be
+    feverish'
 homapul:
   term: homapul
   class: t
@@ -17275,8 +17334,8 @@ hunfun:
   class: b.oro
   category: root
   translation: 'excitement, arousal, stimulation, agitation; tr: excite, arouse, stimulate,
-    agitate; intr (optional -cu): be (<em>feel</em>) excited, be (<em>feel</em>) aroused,
-    be (<em>feel</em>) stimulated, be (<em>feel</em>) agitated'
+    agitate; intr: be (<em>feel</em>) excited, be (<em>feel</em>) aroused, be (<em>feel</em>)
+    stimulated, be (<em>feel</em>) agitated'
 hunfundo:
   term: hunfundo
   class: t
@@ -17594,8 +17653,7 @@ ilhamu:
   term: ilhamu
   class: b.oro
   category: root
-  translation: 'inspiration; tr: inspire; intr (optional -cu): be (<em>feel</em>)
-    inspired'
+  translation: 'inspiration; tr: inspire; intr: be (<em>feel</em>) inspired'
 ilhamuabil:
   term: ilhamuabil
   class: t
@@ -17746,23 +17804,23 @@ inama:
   class: b.oj.ru
   category: root
   translation: bow, reverence, curtsey; bow (down)
-inbao:
-  term: inbao
+inbaogi:
+  term: inbaogi
   class: b.oj
   category: derived
   translation: bag (<em>put inside a bag</em>)
-inbistar:
-  term: inbistar
-  class: b.oro
+inbistarcu:
+  term: inbistarcu
+  class: b.nenoj
   category: derived
-  translation: 'tr: put to bed; intr: go to bed, get in bed'
-inbotela:
-  term: inbotela
-  class: b.oro
+  translation: go to bed, get in bed
+inbotelagi:
+  term: inbotelagi
+  class: b.oj
   category: derived
   translation: bottling; bottle
-inbotelado:
-  term: inbotelado
+inbotelagido:
+  term: inbotelagido
   class: t
   category: derived
   translation: bottled
@@ -17831,13 +17889,13 @@ ine:
   class: b
   category: root
   translation: letter n
-inergo:
-  term: inergo
-  class: b.oro
+inergogi:
+  term: inergogi
+  class: b.oj
   category: derived
-  translation: 'hiring; tr: hire; intr (optional -cu): get oneself hired'
-inergodo:
-  term: inergodo
+  translation: hiring; hire
+inergogido:
+  term: inergogido
   class: t
   category: derived
   translation: hired
@@ -17846,11 +17904,6 @@ inergogiyen:
   class: b
   category: derived
   translation: employer
-inergoyen:
-  term: inergoyen
-  class: b
-  category: derived
-  translation: employee
 infarto:
   term: infarto
   class: b
@@ -17865,8 +17918,8 @@ influenza:
   term: influenza
   class: b.oro
   category: root
-  translation: 'flu, influenza, grippe; tr: cause influenza; intr (optional -cu):
-    have influenza, suffer from influenza'
+  translation: 'flu, influenza, grippe; tr: cause influenza; intr: have the flu, suffer
+    from influenza'
 infon:
   term: infon
   class: b
@@ -17946,8 +17999,8 @@ infratermo:
   term: infratermo
   class: b.oro
   category: derived
-  translation: 'hypothermia; tr: cause hypothermia; intr (optional -cu): have hypothermia,
-    suffer from hypothermia'
+  translation: 'hypothermia; tr: cause hypothermia; intr: have hypothermia, suffer
+    from hypothermia'
 infratui:
   term: infratui
   class: b
@@ -17988,11 +18041,11 @@ inhareabilya:
   class: b
   category: derived
   translation: capacity
-inhatari:
-  term: inhatari
+inhatarigi:
+  term: inhatarigi
   class: b.oj
   category: root
-  translation: 'endangerment; tr: put in danger, endanger'
+  translation: endangerment; put in danger, endanger
 inidi:
   term: inidi
   class: b.oj
@@ -18058,12 +18111,16 @@ inkludi:
   class: b.oj
   category: root
   translation: inclusion; include, involve, entail
-inkoma:
-  term: inkoma
-  class: b.oro
+inkomacu:
+  term: inkomacu
+  class: b.nenoj
   category: derived
-  translation: 'tr: put in a coma; intr (optional -cu): slip into a coma, go into
-    a coma, enter a coma, become comatose'
+  translation: slip into a coma, go into a coma, enter a coma, become comatose
+inkomagi:
+  term: inkomagi
+  class: b.oj
+  category: derived
+  translation: put in a coma
 inkopi:
   term: inkopi
   class: b.oj
@@ -18074,11 +18131,16 @@ inku:
   class: b
   category: root
   translation: ink
-inlabas:
-  term: inlabas
-  class: b.oro
+inlabascu:
+  term: inlabascu
+  class: b.nenoj
   category: derived
-  translation: 'tr: clothe, dress; intr: get dressed, dress oneself'
+  translation: get dressed, dress oneself
+inlabasgi:
+  term: inlabasgi
+  class: b.oj
+  category: derived
+  translation: 'tr: clothe, dress'
 inli:
   term: inli
   class: t
@@ -18089,9 +18151,9 @@ inlide:
   class: b.oj
   category: derived
   translation: induction; induce
-inmemori:
-  term: inmemori
-  class: b.oro
+inmemorigi:
+  term: inmemorigi
+  class: b.oj
   category: derived
   translation: 'memorization; tr: memorize'
 innafasu:
@@ -18144,9 +18206,9 @@ insan:
   class: b
   category: root
   translation: human (being), people
-insanduku:
-  term: insanduku
-  class: b.oro
+insandukugi:
+  term: insandukugi
+  class: b.oj
   category: derived
   translation: 'tr: box (<em>put into box</em>)'
 insanlari:
@@ -18178,8 +18240,8 @@ interes:
   term: interes
   class: b.oro
   category: root
-  translation: 'interest; tr: interest; intr (optional -cu): be interested (in), have
-    an interest (in)'
+  translation: 'interest; tr: interest; intr: be interested (in), have an interest
+    (in)'
 interesdo:
   term: interesdo
   class: t
@@ -18300,16 +18362,16 @@ intreya:
   class: b.oj
   category: derived
   translation: in-betweenness; be between
-inturan:
-  term: inturan
-  class: b.oro
-  category: derived
-  translation: 'burial; tr: bury; intr: bury oneself'
 inturandom:
   term: inturandom
   class: b
   category: derived
   translation: burial grounds
+inturangi:
+  term: inturangi
+  class: b.oj
+  category: derived
+  translation: burial; bury
 intyazu:
   term: intyazu
   class: b
@@ -18344,7 +18406,7 @@ inxo:
   term: inxo
   class: b.oro
   category: root
-  translation: 'impression; tr: impress; intr (optional -cu): be (<em>feel</em>) impressed'
+  translation: 'impression; tr: impress; intr: be (<em>feel</em>) impressed'
 inxoabil:
   term: inxoabil
   class: t
@@ -18469,8 +18531,7 @@ ishal:
   term: ishal
   class: b.oro
   category: root
-  translation: 'diarrhea; tr: cause diarrhea; intr (optional -cu): have diarrhea,
-    suffer from diarrhea'
+  translation: 'diarrhea; tr: cause diarrhea; intr: have diarrhea, suffer from diarrhea'
 islami:
   term: Islami
   class: su t
@@ -18605,8 +18666,7 @@ itis:
   term: itis
   class: b.oro
   category: root
-  translation: 'inflammation; tr: inflame; intr (optional -cu): suffer from inflammation,
-    be inflamed'
+  translation: 'inflammation; tr: inflame; intr: suffer from inflammation, be inflamed'
 itisli:
   term: itisli
   class: t
@@ -18717,7 +18777,7 @@ ixi:
   class: b.oro
   category: root
   translation: 'consciousness, awareness; tr: make aware, cause to be aware, make
-    conscious, cause to be conscious; intr (optional -cu): be aware, be conscious'
+    conscious, cause to be conscious; intr: be aware, be conscious'
 ixikal:
   term: ixikal
   class: t
@@ -19022,7 +19082,7 @@ jangefil:
   term: jangefil
   class: t
   category: derived
-  translation: warlike
+  translation: militant, warlike
 jangemon:
   term: jangemon
   class: b
@@ -19587,7 +19647,7 @@ jixipel:
   term: jixipel
   class: b.oj
   category: derived
-  translation: make wonder
+  translation: intrigue; intrigue, make wonder
 jixipeldo:
   term: jixipeldo
   class: t
@@ -19643,6 +19703,11 @@ joker:
   class: b
   category: root
   translation: joker (card)
+joki:
+  term: joki
+  class: b
+  category: root
+  translation: jockey
 jongere:
   term: jongere
   class: b
@@ -19682,8 +19747,8 @@ joxu:
   term: joxu
   class: b.oro
   category: root
-  translation: 'enthusiasm, excitement, zeal; tr: enthuse, excite; intr (optional
-    -cu): be (<em>feel</em>) enthused, be (<em>feel</em>) excited'
+  translation: 'enthusiasm, excitement, zeal; tr: enthuse, excite; intr: be (<em>feel</em>)
+    enthused, be (<em>feel</em>) excited'
 joxudo:
   term: joxudo
   class: t
@@ -20070,8 +20135,7 @@ juzam:
   term: juzam
   class: b.oro
   category: root
-  translation: 'leprosy; tr: cause leprosy; intr (optional -cu): have leprosy, suffer
-    from leprosy'
+  translation: 'leprosy; tr: cause leprosy; intr: have leprosy, suffer from leprosy'
 jwan:
   term: jwan
   class: b.oro
@@ -20622,8 +20686,8 @@ kancer:
   term: kancer
   class: b.oro
   category: root
-  translation: 'cancer; tr: cause cancer; intr (optional -cu): have cancer, suffer
-    from cancer, be cancerous'
+  translation: 'cancer; tr: cause cancer; intr: have cancer, suffer from cancer, be
+    cancerous'
 kancerdo:
   term: kancerdo
   class: t
@@ -21183,8 +21247,8 @@ katarata:
   term: katarata
   class: b.oro
   category: root
-  translation: 'cataracts; tr: cause cataracts; intr (optional -cu): have cataracts,
-    suffer from cataracts'
+  translation: 'cataracts; tr: cause cataracts; intr: have cataracts, suffer from
+    cataracts'
 katarli:
   term: Katarli
   class: t
@@ -21249,7 +21313,7 @@ kawaywao:
   term: kawaywao
   class: b.oro
   category: derived
-  translation: 'endearment; tr: endear; intr (optional -cu): be (<em>feel</em>) endeared'
+  translation: 'endearment; tr: endear; intr: be (<em>feel</em>) endeared'
 kawaywaodo:
   term: kawaywaodo
   class: t
@@ -22163,14 +22227,13 @@ kolera:
   term: kolera
   class: b.oro
   category: root
-  translation: 'cholera; tr: cause cholera; intr (optional -cu): have cholera, suffer
-    from cholera'
+  translation: 'cholera; tr: cause cholera; intr: have cholera, suffer from cholera'
 kolesterol:
   term: kolesterol
   class: b.oro
   category: root
-  translation: 'cholesterol; tr: cause cholesterol; intr (optional -cu): have cholesterol,
-    suffer from cholesterol'
+  translation: 'cholesterol; tr: cause cholesterol; intr: have cholesterol, suffer
+    from cholesterol'
 kolibri:
   term: kolibri
   class: b
@@ -22253,10 +22316,9 @@ kom:
   translation: as (<em>comparable to</em>), than (<em>as compared with</em>)
 koma:
   term: koma
-  class: b.oro
+  class: b
   category: root
-  translation: 'coma; tr: cause (somebody) to be in a coma; intr (optional -cu): be
-    in a coma'
+  translation: coma
 kombina:
   term: kombina
   class: b.oro
@@ -22488,7 +22550,7 @@ konforta:
   class: b.oro
   category: root
   translation: 'comfort; tr: make comfortable, cause to be (<em>feel</em>) comfortable;
-    intr (optional -cu): be (<em>feel</em>) comfortable'
+    intr: be (<em>feel</em>) comfortable'
 konfortane:
   term: konfortane
   class: t
@@ -22509,8 +22571,8 @@ konhwoku:
   class: b.oro
   category: root
   translation: 'confusion, perplexity, bafflement; tr: confuse, perplex, baffle, bewilder;
-    intr (optional -cu): be (<em>feel</em>) confused, be (<em>feel</em>) perplexed,
-    be (<em>feel</em>) baffled, be (<em>feel</em>) bewildered'
+    intr: be (<em>feel</em>) confused, be (<em>feel</em>) perplexed, be (<em>feel</em>)
+    baffled, be (<em>feel</em>) bewildered'
 konhwokudo:
   term: konhwokudo
   class: t
@@ -23964,9 +24026,9 @@ lawfen:
   term: lawfen
   class: b.oro
   category: root
-  translation: 'bother, annoyance, vexation; tr: bother, annoy, vex, bug; intr (optional
-    -cu): be (<em>feel</em>) bothered, be (<em>feel</em>) annoyed, be (<em>feel</em>)
-    vexed, be (<em>feel</em>) bugged'
+  translation: 'bother, annoyance, vexation; tr: bother, annoy, vex, bug; intr: be
+    (<em>feel</em>) bothered, be (<em>feel</em>) annoyed, be (<em>feel</em>) vexed,
+    be (<em>feel</em>) bugged'
 lawfendo:
   term: lawfendo
   class: t
@@ -24507,10 +24569,9 @@ likakendi:
   translation: lollipop
 likwido:
   term: likwido
-  class: b.oro
+  class: b
   category: root
-  translation: 'liquid, fluid; tr/intr (optional -cu): liquify, liquefy (<em>turn
-    into or become liquid</em>)'
+  translation: liquid, fluid
 likwidocu:
   term: likwidocu
   class: b.nenoj
@@ -25602,8 +25663,7 @@ majin:
   term: majin
   class: b.oro
   category: root
-  translation: 'measles; tr: cause measles; intr (optional -cu): have measles, suffer
-    from measles'
+  translation: 'measles; tr: cause measles; intr: have measles, suffer from measles'
 majnuni:
   term: majnuni
   class: t
@@ -25683,8 +25743,7 @@ malarya:
   term: malarya
   class: b.oro
   category: root
-  translation: 'malaria; tr: cause malaria; intr (optional -cu): have malaria, suffer
-    from malaria'
+  translation: 'malaria; tr: cause malaria; intr: have malaria, suffer from malaria'
 malawi:
   term: Malawi
   class: su n
@@ -25979,8 +26038,7 @@ manika:
   term: manika
   class: b.oro
   category: root
-  translation: 'mania; tr: cause mania; intr (optional -cu): suffer from mania, be
-    manic'
+  translation: 'mania; tr: cause mania; intr: suffer from mania, be manic'
 manikali:
   term: manikali
   class: t
@@ -27111,7 +27169,7 @@ memesa:
   term: memesa
   class: b.nenoj
   category: derived
-  translation: meh, bah
+  translation: meh, bah, bleat
 memesim:
   term: memesim
   class: t
@@ -28039,8 +28097,8 @@ mogeitis:
   term: mogeitis
   class: b.oro
   category: derived
-  translation: 'encephalitis; tr: cause encephalitis; intr (optional -cu): have encephalitis,
-    suffer from encephalitis'
+  translation: 'encephalitis; tr: cause encephalitis; intr: have encephalitis, suffer
+    from encephalitis'
 mogekal:
   term: mogekal
   class: t
@@ -28243,7 +28301,7 @@ mor:
   term: mor
   class: t
   category: root
-  translation: dead
+  translation: dead, deceased
 morcu:
   term: morcu
   class: b.nenoj
@@ -30583,8 +30641,7 @@ obsesi:
   term: obsesi
   class: b.oro
   category: root
-  translation: 'obsession; tr: obsess; intr (optional -cu): obsess, be (<em>feel</em>)
-    obsessed'
+  translation: 'obsession; tr: obsess; intr: obsess, be (<em>feel</em>) obsessed'
 obsesido:
   term: obsesido
   class: t
@@ -30695,8 +30752,8 @@ offolo:
   class: b.oj
   category: derived
   translation: depend (on), be contingent (on)
-ofgeo:
-  term: ofgeo
+ofgeocu:
+  term: ofgeocu
   class: b.nenoj
   category: derived
   translation: take off
@@ -31269,8 +31326,13 @@ osis:
   term: osis
   class: b.oro
   category: root
-  translation: 'pathology; tr: pathologize, cause a pathology; intr (optional -cu):
-    have a pathology, suffer from a pathology'
+  translation: 'pathology, pathosis; tr: cause a pathology; intr: have a pathology,
+    suffer from a pathology'
+osisgi:
+  term: osisgi
+  class: b.oj
+  category: derived
+  translation: pathologization; pathologize (<em>regard or treat as a pathology</em>)
 osisli:
   term: osisli
   class: t
@@ -31670,7 +31732,7 @@ paniko:
   term: paniko
   class: b.oro
   category: root
-  translation: 'panic; tr: panic; intr (optional -cu): panic, feel panic'
+  translation: 'panic; tr: panic; intr: panic, feel panic, be in a panic'
 panikocune:
   term: panikocune
   class: t
@@ -31685,8 +31747,8 @@ panikokrisis:
   term: panikokrisis
   class: b.oro
   category: derived
-  translation: 'panic attack; tr: cause a panic attack; intr (optional -cu): have
-    a panic attack, suffer from a panic attack'
+  translation: 'panic attack; tr: cause a panic attack; intr (optional -cu): get a
+    panic attack'
 panikone:
   term: panikone
   class: t
@@ -31866,8 +31928,8 @@ paralisi:
   term: paralisi
   class: b.oro
   category: root
-  translation: 'paralysis, palsy; tr: paralyze, cause paralysis; intr (optional -cu):
-    have paralysis, suffer from paralysis, be paralyzed'
+  translation: 'paralysis, palsy; tr: paralyze, cause paralysis; intr: have paralysis,
+    suffer from paralysis, be paralyzed'
 paralisido:
   term: paralisido
   class: t
@@ -31883,7 +31945,7 @@ paranoy:
   class: b.oro
   category: root
   translation: 'paranoia; tr: make (somebody) paranoid, cause (somebody) to be paranoid;
-    intr (optional -cu): be (<em>feel</em>) paranoid, feel paranoia '
+    intr: be (<em>feel</em>) paranoid, feel paranoia '
 paranoydo:
   term: paranoydo
   class: t
@@ -32410,8 +32472,8 @@ perforado:
   class: t
   category: derived
   translation: perforated, punctured
-pergeo:
-  term: pergeo
+pergeocu:
+  term: pergeocu
   class: b.nenoj
   category: derived
   translation: landing; land
@@ -32719,8 +32781,7 @@ pilo:
   term: pilo
   class: b.oro
   category: root
-  translation: 'fatigue; tr: tire, fatigue; intr (optional -cu): be (<em>feel</em>)
-    tired, feel fatigued'
+  translation: 'fatigue; tr: tire, fatigue; intr: be (<em>feel</em>) tired, feel fatigued'
 pilodo:
   term: pilodo
   class: t
@@ -33000,9 +33061,14 @@ plaxdo:
   translation: splashed, splattered
 pley:
   term: pley
-  class: b.oro
+  class: b.nenoj
   category: root
-  translation: 'playback; tr/intr (optional -cu): play (<em>video, music, button</em>)'
+  translation: 'playback; intr: play, be playing (<em>video, music, button</em>)'
+pleygi:
+  term: pleygi
+  class: b.oj
+  category: derived
+  translation: playing; play (<em>video, music, button</em>)
 plu:
   term: plu
   class: t
@@ -33747,8 +33813,7 @@ posyukyo:
   term: posyukyo
   class: b.oro
   category: derived
-  translation: 'invalidity; tr: invalidate, make invalid; intr (optional -cu): be
-    invalid'
+  translation: 'invalidity; tr: invalidate, make invalid; intr: be invalid'
 potasyum:
   term: potasyum
   class: b
@@ -34128,9 +34193,19 @@ pudin:
   translation: pudding
 pudra:
   term: pudra
-  class: b.oro
+  class: b
   category: root
-  translation: 'powder; tr/intr (optional -cu): pulverize'
+  translation: powder
+pudracu:
+  term: pudracu
+  class: b.nenoj
+  category: derived
+  translation: 'pulveration; intr: pulverize (<em>become powder</em>)'
+pudragi:
+  term: pudragi
+  class: b.oj
+  category: derived
+  translation: 'pulveration; tr: pulverize (<em>cause to become powder</em>)'
 pul:
   term: pul
   class: t
@@ -34178,10 +34253,15 @@ pupe:
   translation: 'doll '
 pure:
   term: pure
-  class: b.oro
+  class: b
   category: root
-  translation: 'puree, pur&eacute;e, mash, mush; tr/intr (optional -cu): puree, grind,
-    smash'
+  translation: puree, pur&eacute;e, mash, mush
+puregi:
+  term: puregi
+  class: b.oj
+  category: derived
+  translation: pureeing, pur&eacute;eing, grinding, smashing; puree, pur&eacute;e,
+    grind, smash
 purpuro:
   term: purpuro
   class: t
@@ -34786,8 +34866,8 @@ rewmati:
   term: rewmati
   class: b.oro
   category: root
-  translation: 'rheumatism, rheum; tr: cause rheumatism; intr (optional -cu): have
-    rheumatism, suffer from rheumatism'
+  translation: 'rheumatism, rheum; tr: cause rheumatism; intr: have rheumatism, suffer
+    from rheumatism'
 reylu:
   term: reylu
   class: b
@@ -35954,9 +36034,9 @@ sandwici:
   translation: sandwich
 sangu:
   term: sangu
-  class: b.oro
+  class: b.oj
   category: root
-  translation: 'tr: hide; intr (optional -cu): hide, go into hiding'
+  translation: hiding, concealment; hide, conceal
 sangucu:
   term: sangucu
   class: b.nenoj
@@ -36693,6 +36773,11 @@ sesam:
   class: b
   category: root
   translation: sesame
+sesangu:
+  term: sesangu
+  class: b.nenoj
+  category: derived
+  translation: hiding; hide (oneself), go into hiding, conceal (oneself)
 sesekso:
   term: sesekso
   class: b.nenoj
@@ -37438,6 +37523,12 @@ solaflura:
   class: b
   category: derived
   translation: sunflower
+solagenu:
+  term: solagenu
+  class: b
+  category: derived
+  translation: Jerusalem artichoke, sunroot, sunchok, wild sunflower, topinambur,
+    earth apple
 solainfracu:
   term: solainfracu
   class: b.nenoj
@@ -37590,9 +37681,9 @@ somuroti:
   translation: garlic bread
 sonxi:
   term: sonxi
-  class: b.oj
+  class: b.oro
   category: root
-  translation: loss; lose (<em>opposite of ewreka</em>)
+  translation: 'loss; tr: lose (<em>opposite of ewreka</em>); intr: get lost'
 sonxido:
   term: sonxido
   class: t
@@ -38160,7 +38251,7 @@ surprisa:
   term: surprisa
   class: b.oro
   category: root
-  translation: 'surprise; tr: surprise; intr (optional -cu): be (<em>feel</em>) surprised'
+  translation: 'surprise; tr: surprise; intr: be (<em>feel</em>) surprised'
 surprisaatake:
   term: surprisaatake
   class: b.oj
@@ -38612,7 +38703,7 @@ talento:
   class: b.oro
   category: root
   translation: 'talent, aptitute, knack; tr: make talented, cause to be talented;
-    intr (optional -cu): be talented'
+    intr: be talented'
 talentodo:
   term: talentodo
   class: t
@@ -38978,7 +39069,7 @@ tawakeke:
   term: tawakeke
   class: b
   category: derived
-  translation: pancake
+  translation: pancake, crepe
 tawni:
   term: tawni
   class: b.oj
@@ -39480,7 +39571,7 @@ termo:
   term: termo
   class: b.oro
   category: root
-  translation: 'heat; tr: heat (up), warm (up); intr (optional -cu): be warm, be hot'
+  translation: 'heat; tr: heat (up), warm (up); intr: be warm, be hot'
 termoabil:
   term: termoabil
   class: t
@@ -40026,7 +40117,7 @@ tongilexi:
   term: tongilexi
   class: b
   category: derived
-  translation: derived word
+  translation: compound word, derived word
 tongo:
   term: tongo
   class: t
@@ -40251,7 +40342,7 @@ towa:
   term: towa
   class: b
   category: root
-  translation: tower
+  translation: tower, rook
 trafiko:
   term: trafiko
   class: b
@@ -40386,8 +40477,8 @@ trawma:
   term: trawma
   class: b.oro
   category: root
-  translation: 'trauma; tr: traumatize, cause trauma; intr (optional -cu): have a
-    trauma, suffer from trauma, be traumatized'
+  translation: 'trauma; tr: traumatize, cause trauma; intr: have a trauma, suffer
+    from trauma, be traumatized'
 trawmado:
   term: trawmado
   class: t
@@ -43051,8 +43142,7 @@ xohra:
   term: xohra
   class: b.oro
   category: root
-  translation: 'fame; tr: make famous, cause to be famous; intr (optional -cu): be
-    famous'
+  translation: 'fame; tr: make famous, cause to be famous; intr: be famous'
 xohrado:
   term: xohrado
   class: t
@@ -43072,7 +43162,7 @@ xoku:
   term: xoku
   class: b.oro
   category: root
-  translation: 'shock; tr: shock; intr (optional -cu): be in shock, suffer from shock'
+  translation: 'shock; tr: shock; intr: be in shock, suffer from shock'
 xokuabil:
   term: xokuabil
   class: t
@@ -43122,7 +43212,8 @@ xoratex:
   term: xoratex
   class: b.oro
   category: derived
-  translation: 'tr: set on fire; intr (optional -cu): catch fire'
+  translation: 'tr: set on fire, light (<em>with fire</em>); intr (optional -cu):
+    catch fire'
 xorestay:
   term: xorestay
   class: b.nenoj
@@ -43183,8 +43274,8 @@ xorixi:
   class: b.oro
   category: derived
   translation: 'tr: make (somebody) aware, make (somebody) conscious, cause (somebody)
-    to become aware, cause (somebody) to become conscious; intr (optional -cu): become
-    aware, become conscious, realize '
+    to become aware, cause (somebody) to become conscious; intr: become aware, become
+    conscious, realize '
 xorjanu:
   term: xorjanu
   class: b.nenoj
@@ -43250,7 +43341,7 @@ xorpilo:
   class: b.oro
   category: derived
   translation: 'tr: make tired, cause (somebody) to become tired, make fatigued, cause
-    (somebody) to become fatigued; intr (optional -cu): tire, get tired, get fatigued'
+    (somebody) to become fatigued; intr: tire, get tired, get fatigued'
 xorsen:
   term: xorsen
   class: b
@@ -43499,7 +43590,7 @@ xyuci:
   class: b.oro
   category: root
   translation: 'shame, embarrassment, humiliation; tr: shame, embarrass, humiliate;
-    be (<em>feel</em>) shamed, be (<em>feel</em>) embarrassed, be (<em>feel</em>)
+    intr: be (<em>feel</em>) ashamed, be (<em>feel</em>) embarrassed, be (<em>feel</em>)
     humiliated'
 xyucido:
   term: xyucido
@@ -43855,8 +43946,8 @@ yolyu:
   term: yolyu
   class: b.oro
   category: root
-  translation: 'worry, concern, care, preoccupation; tr: worry; intr (optional -cu):
-    worry, care, fret'
+  translation: 'worry, concern, care, preoccupation; tr: worry; intr: worry, care,
+    fret'
 yolyucune:
   term: yolyucune
   class: t
@@ -43934,14 +44025,24 @@ yonguyen:
   translation: user
 yoni:
   term: yoni
-  class: b.oro
+  class: b
   category: root
-  translation: 'ion; tr/intr (optional -cu): ionize'
+  translation: ion
+yonicu:
+  term: yonicu
+  class: b.nenoj
+  category: derived
+  translation: 'ionization; intr: ionize (<em>become an ion</em>)'
 yonidi:
   term: yonidi
   class: b.oj
   category: derived
   translation: ride
+yonigi:
+  term: yonigi
+  class: b.oj
+  category: derived
+  translation: 'ionization; tr: ionize (<em>cause to become an ion</em>)'
 yonya:
   term: yonya
   class: b.oj
@@ -43954,7 +44055,7 @@ yonyo:
   translation: Ionian (Sea)
 yoran:
   term: yoran
-  class: b.oro
+  class: b
   category: root
   translation: cradle, crib
 yosef:
@@ -44430,4 +44531,14 @@ zway:
   class: b
   category: root
   translation: fly (<em>insect</em>), <em>Diptera</em>
+zyaratu:
+  term: zyaratu
+  class: ""
+  category: root
+  translation: pilgrimage; (go on a) pilgrimage, peregrinate
+zyaratuyen:
+  term: zyaratuyen
+  class: b
+  category: derived
+  translation: pilgrim
 ...

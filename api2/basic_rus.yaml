@@ -431,11 +431,6 @@ acidicu:
   class: b.nenoj
   category: derived
   translation: ""
-acidigi:
-  term: acidigi
-  class: b.oj
-  category: derived
-  translation: ""
 acidihamir:
   term: acidihamir
   class: b
@@ -1136,6 +1131,11 @@ alkohol:
   class: b.oro
   category: root
   translation: спирт, алкоголь
+alkoholcu:
+  term: alkoholcu
+  class: b.nenoj
+  category: derived
+  translation: ""
 alkoholdo:
   term: alkoholdo
   class: t
@@ -1214,6 +1214,11 @@ aloete:
 aloforma:
   term: aloforma
   class: b.oro
+  category: derived
+  translation: ""
+aloformacu:
+  term: aloformacu
+  class: b.nenoj
   category: derived
   translation: ""
 alogi:
@@ -1416,9 +1421,9 @@ ambisi:
   class: b.oro
   category: root
   translation: ""
-ambisicune:
-  term: ambisicune
-  class: t
+ambisicu:
+  term: ambisicu
+  class: b.nenoj
   category: derived
   translation: ""
 ambisifil:
@@ -1555,6 +1560,11 @@ amusa:
   term: amusa
   class: b.oro
   category: root
+  translation: ""
+amusacu:
+  term: amusacu
+  class: b.nenoj
+  category: derived
   translation: ""
 amusado:
   term: amusado
@@ -1831,6 +1841,11 @@ ansya:
   class: b.oro
   category: root
   translation: ""
+ansyacu:
+  term: ansyacu
+  class: b.nenoj
+  category: derived
+  translation: ""
 ansyafil:
   term: ansyafil
   class: t
@@ -1961,6 +1976,11 @@ anwi:
   class: b.oro
   category: root
   translation: ""
+anwicu:
+  term: anwicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 anwijayeza:
   term: anwijayeza
   class: b
@@ -2000,6 +2020,11 @@ aplika:
   term: aplika
   class: b.oro
   category: root
+  translation: ""
+aplikacu:
+  term: aplikacu
+  class: b.nenoj
+  category: derived
   translation: ""
 aplikaible:
   term: aplikaible
@@ -2166,6 +2191,11 @@ armoni:
   class: b.oro
   category: root
   translation: 'гармония '
+armonicu:
+  term: armonicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 armonigi:
   term: armonigi
   class: b.oj
@@ -2281,6 +2311,11 @@ artroitis:
   class: b.oro
   category: derived
   translation: артрит
+artroitiscu:
+  term: artroitiscu
+  class: b.nenoj
+  category: derived
+  translation: ""
 artroitisli:
   term: artroitisli
   class: t
@@ -2330,6 +2365,11 @@ asel:
   term: asel
   class: b.oro
   category: root
+  translation: ""
+aselcu:
+  term: aselcu
+  class: b.nenoj
+  category: derived
   translation: ""
 aselcune:
   term: aselcune
@@ -2456,6 +2496,11 @@ astama:
   class: b.oro
   category: root
   translation: астма
+astamacu:
+  term: astamacu
+  class: b.nenoj
+  category: derived
+  translation: ""
 astamakrisis:
   term: astamakrisis
   class: b
@@ -2535,6 +2580,11 @@ atex:
   term: atex
   class: b.oro
   category: root
+  translation: ""
+atexcu:
+  term: atexcu
+  class: b.nenoj
+  category: derived
   translation: ""
 atexcune:
   term: atexcune
@@ -3071,6 +3121,11 @@ ayna:
   class: b.oro
   category: root
   translation: ""
+aynacu:
+  term: aynacu
+  class: b.nenoj
+  category: derived
+  translation: ""
 aynaya:
   term: aynaya
   class: b
@@ -3480,7 +3535,7 @@ banda:
   term: Banda
   class: su n
   category: proper word
-  translation: ""
+  translation: Банда (<em>море, архипелаг</em>)
 bandekutu:
   term: bandekutu
   class: b
@@ -4285,7 +4340,7 @@ belgili:
   term: Belgili
   class: t
   category: derived
-  translation: ""
+  translation: бельгийский
 belgiyen:
   term: Belgiyen
   class: b
@@ -9152,7 +9207,7 @@ domakuli:
   term: domakuli
   class: t
   category: derived
-  translation: ""
+  translation: артериальный
 domeni:
   term: domeni
   class: b
@@ -10226,8 +10281,13 @@ eleki:
   translation: кардамон
 eletri:
   term: eletri
-  class: b.oj
+  class: b.oro
   category: root
+  translation: ""
+eletricu:
+  term: eletricu
+  class: b.nenoj
+  category: derived
   translation: ""
 eletrigitara:
   term: eletrigitara
@@ -11508,7 +11568,7 @@ ewropali:
   term: Ewropali
   class: t
   category: derived
-  translation: ""
+  translation: европейский
 ewropayen:
   term: Ewropayen
   class: b
@@ -11559,8 +11619,8 @@ exbao:
   class: b.oj
   category: derived
   translation: ""
-exbistar:
-  term: exbistar
+exbistarcu:
+  term: exbistarcu
   class: b.nenoj
   category: derived
   translation: ""
@@ -11579,24 +11639,19 @@ exdunyayen:
   class: b
   category: derived
   translation: ""
-exergo:
-  term: exergo
-  class: b.oro
-  category: derived
-  translation: ""
 exergocu:
   term: exergocu
   class: b.nenoj
   category: derived
   translation: ""
-exergodo:
-  term: exergodo
-  class: t
-  category: derived
-  translation: ""
 exergogi:
   term: exergogi
   class: b.oj
+  category: derived
+  translation: ""
+exergogido:
+  term: exergogido
+  class: t
   category: derived
   translation: ""
 exeskeleto:
@@ -11633,7 +11688,7 @@ exikili:
   term: exikili
   class: t
   category: derived
-  translation: ""
+  translation: пороговый
 exizin:
   term: exizin
   class: b.oj
@@ -13404,6 +13459,11 @@ flura:
   class: b.nenoj
   category: root
   translation: ""
+fluragubar:
+  term: fluragubar
+  class: b
+  category: derived
+  translation: пыльца
 flurakabiji:
   term: flurakabiji
   class: b
@@ -13803,7 +13863,7 @@ fronpul:
   term: fronpul
   class: t
   category: derived
-  translation: ""
+  translation: французский
 fronta:
   term: fronta
   class: b
@@ -14486,7 +14546,7 @@ garudo:
   translation: ""
 gas:
   term: gas
-  class: b.oro
+  class: b
   category: root
   translation: ""
 gascu:
@@ -15476,12 +15536,17 @@ gurumane:
   translation: ""
 guti:
   term: guti
-  class: b.oro
+  class: b
   category: root
+  translation: ""
+guticu:
+  term: guticu
+  class: b.nenoj
+  category: derived
   translation: ""
 gutigi:
   term: gutigi
-  class: ""
+  class: b.oj
   category: ""
   translation: ""
 gutipul:
@@ -16808,7 +16873,7 @@ hipotesisli:
   term: hipotesisli
   class: t
   category: derived
-  translation: ""
+  translation: гипотетический; гипотетически
 hipu:
   term: hipu
   class: b
@@ -17654,23 +17719,23 @@ inama:
   class: b.oj.ru
   category: root
   translation: ""
-inbao:
-  term: inbao
+inbaogi:
+  term: inbaogi
   class: b.oj
   category: derived
   translation: ""
-inbistar:
-  term: inbistar
-  class: b.oro
+inbistarcu:
+  term: inbistarcu
+  class: b.nenoj
   category: derived
   translation: ""
-inbotela:
-  term: inbotela
-  class: b.oro
+inbotelagi:
+  term: inbotelagi
+  class: b.oj
   category: derived
   translation: ""
-inbotelado:
-  term: inbotelado
+inbotelagido:
+  term: inbotelagido
   class: t
   category: derived
   translation: ""
@@ -17739,23 +17804,18 @@ ine:
   class: b
   category: root
   translation: ""
-inergo:
-  term: inergo
-  class: b.oro
+inergogi:
+  term: inergogi
+  class: b.oj
   category: derived
   translation: ""
-inergodo:
-  term: inergodo
+inergogido:
+  term: inergogido
   class: t
   category: derived
   translation: ""
 inergogiyen:
   term: inergogiyen
-  class: b
-  category: derived
-  translation: ""
-inergoyen:
-  term: inergoyen
   class: b
   category: derived
   translation: ""
@@ -17894,8 +17954,8 @@ inhareabilya:
   class: b
   category: derived
   translation: ""
-inhatari:
-  term: inhatari
+inhatarigi:
+  term: inhatarigi
   class: b.oj
   category: root
   translation: ""
@@ -17964,9 +18024,14 @@ inkludi:
   class: b.oj
   category: root
   translation: ""
-inkoma:
-  term: inkoma
-  class: b.oro
+inkomacu:
+  term: inkomacu
+  class: b.nenoj
+  category: derived
+  translation: ""
+inkomagi:
+  term: inkomagi
+  class: b.oj
   category: derived
   translation: ""
 inkopi:
@@ -17979,9 +18044,14 @@ inku:
   class: b
   category: root
   translation: ""
-inlabas:
-  term: inlabas
-  class: b.oro
+inlabascu:
+  term: inlabascu
+  class: b.nenoj
+  category: derived
+  translation: ""
+inlabasgi:
+  term: inlabasgi
+  class: b.oj
   category: derived
   translation: ""
 inli:
@@ -17994,9 +18064,9 @@ inlide:
   class: b.oj
   category: derived
   translation: ""
-inmemori:
-  term: inmemori
-  class: b.oro
+inmemorigi:
+  term: inmemorigi
+  class: b.oj
   category: derived
   translation: ""
 innafasu:
@@ -18049,9 +18119,9 @@ insan:
   class: b
   category: root
   translation: человек
-insanduku:
-  term: insanduku
-  class: b.oro
+insandukugi:
+  term: insandukugi
+  class: b.oj
   category: derived
   translation: ""
 insanlari:
@@ -18204,14 +18274,14 @@ intreya:
   class: b.oj
   category: derived
   translation: ""
-inturan:
-  term: inturan
-  class: b.oro
-  category: derived
-  translation: ""
 inturandom:
   term: inturandom
   class: b
+  category: derived
+  translation: ""
+inturangi:
+  term: inturangi
+  class: b.oj
   category: derived
   translation: ""
 intyazu:
@@ -18473,7 +18543,7 @@ italili:
   term: Italili
   class: t
   category: derived
-  translation: ""
+  translation: итальянский
 italisa:
   term: Italisa
   class: b
@@ -18913,12 +18983,12 @@ janela:
   term: janela
   class: b
   category: root
-  translation: ""
+  translation: окно
 jange:
   term: jange
   class: b
   category: root
-  translation: ""
+  translation: война
 jangefil:
   term: jangefil
   class: t
@@ -18943,7 +19013,7 @@ janin:
   term: janin
   class: b
   category: root
-  translation: ""
+  translation: плод, эмбрион, зародыш
 janinli:
   term: janinli
   class: t
@@ -18973,7 +19043,7 @@ jarden:
   term: jarden
   class: b
   category: root
-  translation: ""
+  translation: сад
 jardenya:
   term: jardenya
   class: b
@@ -18993,7 +19063,7 @@ jaror:
   term: jaror
   class: b
   category: root
-  translation: ""
+  translation: (выдвижной) ящик
 jaru:
   term: jaru
   class: b.oj
@@ -19008,7 +19078,7 @@ jasumin:
   term: jasumin
   class: b
   category: root
-  translation: ""
+  translation: жасмин
 jasusi:
   term: jasusi
   class: b.oj
@@ -19133,7 +19203,7 @@ jazu:
   term: jazu
   class: b
   category: root
-  translation: ""
+  translation: джаз
 jebu:
   term: jebu
   class: b
@@ -19143,7 +19213,7 @@ jebulampu:
   term: jebulampu
   class: b
   category: derived
-  translation: ""
+  translation: (ручной) фонарь, карманный фонарь
 jedwal:
   term: jedwal
   class: b.oj
@@ -19168,12 +19238,12 @@ jeksitul:
   term: jeksitul
   class: b
   category: derived
-  translation: ""
+  translation: шприц
 jelatin:
   term: jelatin
   class: b
   category: root
-  translation: ""
+  translation: желатин
 jencatu:
   term: jencatu
   class: b.oj
@@ -19348,7 +19418,7 @@ jinam:
   term: jinam
   class: b
   category: root
-  translation: ""
+  translation: седло
 jine:
   term: jine
   class: b
@@ -19383,12 +19453,12 @@ jinmaku:
   term: jinmaku
   class: b
   category: root
-  translation: ""
+  translation: вена
 jinsen:
   term: jinsen
   class: b
   category: root
-  translation: ""
+  translation: джинсы
 jinsu:
   term: jinsu
   class: b
@@ -19433,7 +19503,7 @@ jivaki:
   term: jivaki
   class: b
   category: root
-  translation: ""
+  translation: ртуть
 jiwa:
   term: jiwa
   class: b.oj.ru
@@ -19443,7 +19513,7 @@ jiwagrafi:
   term: jiwagrafi
   class: b
   category: derived
-  translation: ""
+  translation: биография
 jiwajotay:
   term: jiwajotay
   class: b
@@ -19483,7 +19553,7 @@ jixilogi:
   term: jixilogi
   class: b
   category: derived
-  translation: ""
+  translation: эпистемология
 jixipel:
   term: jixipel
   class: b.oj
@@ -19544,6 +19614,11 @@ joker:
   class: b
   category: root
   translation: ""
+joki:
+  term: joki
+  class: b
+  category: root
+  translation: жокей
 jongere:
   term: jongere
   class: b
@@ -19553,7 +19628,7 @@ jongu:
   term: jongu
   class: b
   category: root
-  translation: ""
+  translation: (биологический) вид
 jotay:
   term: jotay
   class: b
@@ -19758,7 +19833,7 @@ jumhuri:
   term: jumhuri
   class: b
   category: root
-  translation: ""
+  translation: республика
 jumle:
   term: jumle
   class: b
@@ -20138,17 +20213,17 @@ kafeina:
   term: kafeina
   class: b
   category: derived
-  translation: ""
+  translation: кофеин
 kafetora:
   term: kafetora
   class: b
   category: derived
-  translation: ""
+  translation: кофеварка
 kafur:
   term: kafur
   class: b
   category: root
-  translation: ""
+  translation: камфора
 kafya:
   term: kafya
   class: b.nenoj
@@ -20183,7 +20258,7 @@ kahruba:
   term: kahruba
   class: b
   category: root
-  translation: ""
+  translation: янтарь
 kain:
   term: Kain
   class: su n
@@ -20233,7 +20308,7 @@ kakutus:
   term: kakutus
   class: b
   category: root
-  translation: ""
+  translation: кактус
 kal:
   term: kal
   class: t
@@ -20278,7 +20353,7 @@ kalcita:
   term: kalcita
   class: b
   category: root
-  translation: ""
+  translation: кальцит
 kalcu:
   term: kalcu
   class: b.nenoj
@@ -20288,7 +20363,7 @@ kalcyum:
   term: kalcyum
   class: b
   category: root
-  translation: ""
+  translation: кальций
 kaleb:
   term: Kaleb
   class: su n
@@ -20308,7 +20383,7 @@ kalendar:
   term: kalendar
   class: b
   category: root
-  translation: ""
+  translation: Календарь
 kalgi:
   term: kalgi
   class: b
@@ -20328,7 +20403,7 @@ kalifornyum:
   term: kalifornyum
   class: b
   category: root
-  translation: ""
+  translation: калифорний
 kalkulus:
   term: kalkulus
   class: b
@@ -20338,7 +20413,7 @@ kalori:
   term: kalori
   class: b
   category: root
-  translation: ""
+  translation: калория
 kalorili:
   term: kalorili
   class: t
@@ -20353,7 +20428,7 @@ kalvinismo:
   term: Kalvinismo
   class: b
   category: derived
-  translation: ""
+  translation: кальвинизм
 kalya:
   term: kalya
   class: b
@@ -20508,7 +20583,7 @@ kanca:
   term: kanca
   class: b
   category: root
-  translation: ""
+  translation: стекло
 kancali:
   term: kancali
   class: t
@@ -20528,7 +20603,7 @@ kancerente:
   term: kancerente
   class: b
   category: derived
-  translation: ""
+  translation: канцероген
 kancerne:
   term: kancerne
   class: t
@@ -20548,7 +20623,7 @@ kandidato:
   term: kandidato
   class: b
   category: root
-  translation: ""
+  translation: кандидат
 kanguru:
   term: kanguru
   class: b
@@ -20593,7 +20668,7 @@ kanoe:
   term: kanoe
   class: b
   category: root
-  translation: ""
+  translation: каноэ
 kanon:
   term: kanon
   class: b
@@ -22141,7 +22216,7 @@ kom:
   translation: ""
 koma:
   term: koma
-  class: b.oro
+  class: b
   category: root
   translation: ""
 kombina:
@@ -24381,7 +24456,7 @@ likakendi:
   translation: леденец
 likwido:
   term: likwido
-  class: b.oro
+  class: b
   category: root
   translation: ""
 likwidocu:
@@ -27644,12 +27719,12 @@ minoriya:
   term: minoriya
   class: b
   category: derived
-  translation: ""
+  translation: меньшинство
 minta:
   term: minta
   class: b
   category: root
-  translation: ""
+  translation: мята
 minus:
   term: minus
   class: p
@@ -27679,7 +27754,7 @@ minuto:
   term: minuto
   class: b
   category: root
-  translation: ""
+  translation: минута
 minxi:
   term: minxi
   class: t
@@ -27719,7 +27794,7 @@ mismari:
   term: mismari
   class: b
   category: root
-  translation: ""
+  translation: гвоздь
 misu:
   term: misu
   class: su s
@@ -27779,7 +27854,7 @@ mito:
   term: mito
   class: b
   category: root
-  translation: ""
+  translation: миф
 mitoli:
   term: mitoli
   class: t
@@ -27789,7 +27864,7 @@ mitologi:
   term: mitologi
   class: b
   category: derived
-  translation: ""
+  translation: мифология
 mitologili:
   term: mitologili
   class: t
@@ -27834,7 +27909,7 @@ miza:
   term: miza
   class: b
   category: root
-  translation: ""
+  translation: месса
 mizani:
   term: mizani
   class: b
@@ -27899,7 +27974,7 @@ mogeitis:
   term: mogeitis
   class: b.oro
   category: derived
-  translation: ""
+  translation: энцефалит
 mogekal:
   term: mogekal
   class: t
@@ -27999,7 +28074,7 @@ molidenum:
   term: molidenum
   class: b
   category: root
-  translation: ""
+  translation: молибден
 moluska:
   term: moluska
   class: b
@@ -28109,7 +28184,7 @@ morcuabil:
   term: morcuabil
   class: t
   category: derived
-  translation: ""
+  translation: смертный
 morcuabilya:
   term: morcuabilya
   class: b
@@ -28249,7 +28324,7 @@ motormenxar:
   term: motormenxar
   class: b
   category: derived
-  translation: ""
+  translation: цепная пила
 motsu:
   term: motsu
   class: b.oj
@@ -28574,7 +28649,7 @@ muraba:
   term: muraba
   class: b
   category: root
-  translation: ""
+  translation: квадрат
 murace:
   term: murace
   class: b
@@ -28699,7 +28774,7 @@ muxti:
   term: muxti
   class: b
   category: root
-  translation: ""
+  translation: кулак
 mwa:
   term: mwa
   class: b.oj
@@ -28724,7 +28799,7 @@ mwinli:
   term: mwinli
   class: t
   category: derived
-  translation: ""
+  translation: гласный
 myanma:
   term: Myanma
   class: su n
@@ -28779,7 +28854,7 @@ nafiku:
   term: nafiku
   class: b
   category: root
-  translation: ""
+  translation: лицемерие
 nafikupul:
   term: nafikupul
   class: t
@@ -28864,7 +28939,7 @@ namake:
   term: namake
   class: b
   category: root
-  translation: ""
+  translation: соль
 namakekaxa:
   term: namakekaxa
   class: b
@@ -28874,7 +28949,7 @@ namakepul:
   term: namakepul
   class: t
   category: derived
-  translation: ""
+  translation: солёный
 name:
   term: name
   class: b.oj
@@ -28964,7 +29039,7 @@ narcisosim:
   term: narcisosim
   class: t
   category: derived
-  translation: ""
+  translation: нарциссический
 narem:
   term: narem
   class: t
@@ -29019,7 +29094,7 @@ naseri:
   term: naseri
   class: b
   category: root
-  translation: ""
+  translation: проза
 nasibu:
   term: nasibu
   class: b.oj
@@ -29104,7 +29179,7 @@ naturaafatu:
   term: naturaafatu
   class: b
   category: derived
-  translation: ""
+  translation: стихийное бедствие
 naturali:
   term: naturali
   class: t
@@ -29119,7 +29194,7 @@ natziismo:
   term: Natziismo
   class: b
   category: derived
-  translation: ""
+  translation: нацизм
 natziista:
   term: Natziista
   class: b
@@ -29189,7 +29264,7 @@ naylon:
   term: naylon
   class: b
   category: root
-  translation: ""
+  translation: нейлон
 naytu:
   term: naytu
   class: b
@@ -30540,8 +30615,8 @@ offolo:
   class: b.oj
   category: derived
   translation: ""
-ofgeo:
-  term: ofgeo
+ofgeocu:
+  term: ofgeocu
   class: b.nenoj
   category: derived
   translation: ""
@@ -31114,6 +31189,11 @@ osis:
   term: osis
   class: b.oro
   category: root
+  translation: ""
+osisgi:
+  term: osisgi
+  class: b.oj
+  category: derived
   translation: ""
 osisli:
   term: osisli
@@ -32250,8 +32330,8 @@ perforado:
   class: t
   category: derived
   translation: ""
-pergeo:
-  term: pergeo
+pergeocu:
+  term: pergeocu
   class: b.nenoj
   category: derived
   translation: ""
@@ -32837,8 +32917,13 @@ plaxdo:
   translation: ""
 pley:
   term: pley
-  class: b.oro
+  class: b.nenoj
   category: root
+  translation: ""
+pleygi:
+  term: pleygi
+  class: b.oj
+  category: derived
   translation: ""
 plu:
   term: plu
@@ -33962,8 +34047,18 @@ pudin:
   translation: ""
 pudra:
   term: pudra
-  class: b.oro
+  class: b
   category: root
+  translation: ""
+pudracu:
+  term: pudracu
+  class: b.nenoj
+  category: derived
+  translation: ""
+pudragi:
+  term: pudragi
+  class: b.oj
+  category: derived
   translation: ""
 pul:
   term: pul
@@ -34012,8 +34107,13 @@ pupe:
   translation: ""
 pure:
   term: pure
-  class: b.oro
+  class: b
   category: root
+  translation: ""
+puregi:
+  term: puregi
+  class: b.oj
+  category: derived
   translation: ""
 purpuro:
   term: purpuro
@@ -35782,7 +35882,7 @@ sandwici:
   translation: сэндвич
 sangu:
   term: sangu
-  class: b.oro
+  class: b.oj
   category: root
   translation: ""
 sangucu:
@@ -35824,7 +35924,7 @@ santo_biskopodom:
   term: Santo Biskopodom
   class: su n
   category: phrase
-  translation: ""
+  translation: Святой Престол
 santo_papa:
   term: Santo Papa
   class: b
@@ -36520,6 +36620,11 @@ sesam:
   class: b
   category: root
   translation: ""
+sesangu:
+  term: sesangu
+  class: b.nenoj
+  category: derived
+  translation: ""
 sesekso:
   term: sesekso
   class: b.nenoj
@@ -37154,7 +37259,7 @@ sodyum:
   term: sodyum
   class: b
   category: root
-  translation: ""
+  translation: натрий
 sofa:
   term: sofa
   class: b
@@ -37174,12 +37279,12 @@ sofilogi:
   term: sofilogi
   class: b
   category: derived
-  translation: ""
+  translation: философия
 sofilogiyen:
   term: sofilogiyen
   class: b
   category: derived
-  translation: ""
+  translation: фило́соф
 sofipul:
   term: sofipul
   class: t
@@ -37189,7 +37294,7 @@ softwer:
   term: softwer
   class: b
   category: root
-  translation: ""
+  translation: софтвер, программное обеспечение
 soho:
   term: soho
   class: t
@@ -37209,7 +37314,7 @@ sokitan:
   term: sokitan
   class: b
   category: root
-  translation: ""
+  translation: углерод
 sokrate:
   term: Sokrate
   class: su n
@@ -37259,9 +37364,14 @@ soladin:
   term: soladin
   class: b
   category: derived
-  translation: ""
+  translation: воскресенье
 solaflura:
   term: solaflura
+  class: b
+  category: derived
+  translation: подсолнечник, подсолнух
+solagenu:
+  term: solagenu
   class: b
   category: derived
   translation: ""
@@ -37404,7 +37514,7 @@ somu:
   term: somu
   class: b
   category: root
-  translation: ""
+  translation: чеснок
 somupul:
   term: somupul
   class: t
@@ -37414,10 +37524,10 @@ somuroti:
   term: somuroti
   class: b
   category: derived
-  translation: ""
+  translation: чесночный хлеб
 sonxi:
   term: sonxi
-  class: b.oj
+  class: b.oro
   category: root
   translation: ""
 sonxido:
@@ -37434,7 +37544,7 @@ sonzaylogi:
   term: sonzaylogi
   class: b
   category: derived
-  translation: ""
+  translation: онтология
 sonzayne:
   term: sonzayne
   class: t
@@ -37444,12 +37554,12 @@ soprano:
   term: soprano
   class: b
   category: root
-  translation: ""
+  translation: сопрано
 soseji:
   term: soseji
   class: b
   category: root
-  translation: ""
+  translation: колбаса
 soso:
   term: soso
   class: b
@@ -37464,7 +37574,7 @@ sosyallogi:
   term: sosyallogi
   class: b
   category: derived
-  translation: ""
+  translation: социология
 sosyaltim:
   term: sosyaltim
   class: b
@@ -37529,7 +37639,7 @@ soya:
   term: soya
   class: b
   category: root
-  translation: ""
+  translation: соя
 soyo:
   term: soyo
   class: b.oro
@@ -37634,7 +37744,7 @@ suhegeo:
   term: suhegeo
   class: b
   category: derived
-  translation: ""
+  translation: пустыня
 suhegi:
   term: suhegi
   class: b.oj
@@ -37644,12 +37754,12 @@ suhegras:
   term: suhegras
   class: b
   category: derived
-  translation: ""
+  translation: сено
 suheprumu:
   term: suheprumu
   class: b
   category: derived
-  translation: ""
+  translation: чернослив
 suheputo:
   term: suheputo
   class: b
@@ -37659,7 +37769,7 @@ sui:
   term: sui
   class: b
   category: root
-  translation: ""
+  translation: вода
 suibloki:
   term: suibloki
   class: b
@@ -37699,7 +37809,7 @@ sukeri:
   term: sukeri
   class: b
   category: root
-  translation: ""
+  translation: сахар
 sukeripul:
   term: sukeripul
   class: t
@@ -37734,7 +37844,7 @@ sukwa:
   term: sukwa
   class: b
   category: root
-  translation: ""
+  translation: арбуз
 sulawesi:
   term: Sulawesi
   class: su n
@@ -37744,7 +37854,7 @@ sulfur:
   term: sulfur
   class: b
   category: root
-  translation: ""
+  translation: сера
 sulfurli:
   term: sulfurli
   class: t
@@ -37774,7 +37884,7 @@ sumake:
   term: sumake
   class: b
   category: root
-  translation: ""
+  translation: сумах
 sumbole:
   term: sumbole
   class: b
@@ -37794,7 +37904,7 @@ sunami:
   term: sunami
   class: b
   category: root
-  translation: ""
+  translation: цунами
 sunatofa:
   term: sunatofa
   class: b
@@ -37804,7 +37914,7 @@ sunayen:
   term: sunayen
   class: b
   category: derived
-  translation: ""
+  translation: андроид
 sungay:
   term: sungay
   class: b.oro
@@ -37834,7 +37944,7 @@ sungo:
   term: sungo
   class: b
   category: root
-  translation: ""
+  translation: рог
 suo:
   term: suo
   class: t
@@ -37979,7 +38089,7 @@ surka:
   term: surka
   class: b
   category: root
-  translation: ""
+  translation: уксус
 surprisa:
   term: surprisa
   class: b.oro
@@ -37999,7 +38109,7 @@ susana:
   term: susana
   class: b
   category: root
-  translation: ""
+  translation: лилия
 susana_name:
   term: Susana
   class: su n
@@ -38014,7 +38124,7 @@ sutun:
   term: sutun
   class: b
   category: root
-  translation: ""
+  translation: колонна, колонка, столбец
 sutyen:
   term: sutyen
   class: b
@@ -38264,7 +38374,7 @@ syensi:
   term: syensi
   class: b
   category: root
-  translation: ""
+  translation: наука
 syensili:
   term: syensili
   class: t
@@ -38294,7 +38404,7 @@ tabako:
   term: tabako
   class: b
   category: root
-  translation: ""
+  translation: табак
 tabar:
   term: tabar
   class: b.oj
@@ -38314,12 +38424,12 @@ tabel:
   term: tabel
   class: b
   category: root
-  translation: ""
+  translation: таблица
 tableta:
   term: tableta
   class: b
   category: root
-  translation: ""
+  translation: табличка, (электронный) планшет
 tabriku:
   term: tabriku
   class: b.oj; il
@@ -38329,12 +38439,12 @@ tabu:
   term: tabu
   class: b
   category: root
-  translation: ""
+  translation: табу
 tabutu:
   term: tabutu
   class: b
   category: root
-  translation: ""
+  translation: гроб
 taco:
   term: taco
   class: b
@@ -38499,7 +38609,7 @@ tamal:
   term: tamal
   class: b
   category: root
-  translation: ""
+  translation: тамале
 tamaluku:
   term: tamaluku
   class: b.oj
@@ -38509,17 +38619,17 @@ tamarin:
   term: tamarin
   class: b
   category: root
-  translation: ""
+  translation: тамаринд
 tamba:
   term: tamba
   class: b
   category: root
-  translation: ""
+  translation: медь
 tamburin:
   term: tamburin
   class: b
   category: root
-  translation: ""
+  translation: бубен
 tami:
   term: tami
   class: t
@@ -38549,7 +38659,7 @@ tamipatato:
   term: tamipatato
   class: b
   category: derived
-  translation: ""
+  translation: батат
 tamixey:
   term: tamixey
   class: b
@@ -38569,7 +38679,7 @@ tampon:
   term: tampon
   class: b
   category: root
-  translation: ""
+  translation: тампон
 tange:
   term: tange
   class: t
@@ -38579,7 +38689,7 @@ tangente:
   term: tangente
   class: b
   category: root
-  translation: ""
+  translation: касательная
 tangeya:
   term: tangeya
   class: b
@@ -38589,12 +38699,12 @@ tanke:
   term: tanke
   class: b
   category: root
-  translation: ""
+  translation: танк
 tantalum:
   term: tantalum
   class: b
   category: root
-  translation: ""
+  translation: тантал
 tanxiku:
   term: tanxiku
   class: b.oj.ru
@@ -38644,17 +38754,17 @@ tarahon:
   term: tarahon
   class: b
   category: root
-  translation: ""
+  translation: эстрагон, тархун
 tarbux:
   term: tarbux
   class: b
   category: root
-  translation: ""
+  translation: феска, фес
 tarhaxkun:
   term: tarhaxkun
   class: b
   category: root
-  translation: ""
+  translation: одуванчик
 tarihe:
   term: tarihe
   class: b
@@ -38674,12 +38784,12 @@ taroto:
   term: taroto
   class: b
   category: root
-  translation: ""
+  translation: таро
 taru:
   term: taru
   class: b
   category: root
-  translation: ""
+  translation: дёготь
 taruta:
   term: taruta
   class: b.nenoj
@@ -38799,7 +38909,7 @@ tawakeke:
   term: tawakeke
   class: b
   category: derived
-  translation: ""
+  translation: блин, панкейк
 tawni:
   term: tawni
   class: b.oj
@@ -38854,7 +38964,7 @@ tayputora:
   term: tayputora
   class: b
   category: derived
-  translation: ""
+  translation: пишущая машинка
 taysa:
   term: Taysa
   class: b
@@ -38939,7 +39049,7 @@ teknesyum:
   term: teknesyum
   class: b
   category: root
-  translation: ""
+  translation: технеций
 teknika:
   term: teknika
   class: b
@@ -39034,7 +39144,7 @@ teligrafi:
   term: teligrafi
   class: b
   category: derived
-  translation: ""
+  translation: телеграмма
 teliharka:
   term: teliharka
   class: b
@@ -39054,7 +39164,7 @@ teliokotul:
   term: teliokotul
   class: b
   category: derived
-  translation: ""
+  translation: телескоп
 telixali:
   term: telixali
   class: t
@@ -39084,7 +39194,7 @@ teluryum:
   term: teluryum
   class: b
   category: root
-  translation: ""
+  translation: теллур
 tem:
   term: tem
   class: p
@@ -39124,7 +39234,7 @@ templato:
   term: templato
   class: b
   category: root
-  translation: ""
+  translation: шаблон
 temwawa:
   term: temwawa
   class: b.oj
@@ -39139,32 +39249,32 @@ tenda:
   term: tenda
   class: b
   category: root
-  translation: ""
+  translation: палатка
 tendon:
   term: tendon
   class: b
   category: root
-  translation: ""
+  translation: сухожилие
 tenesin:
   term: tenesin
   class: b
   category: root
-  translation: ""
+  translation: теннессин
 tengu:
   term: tengu
   class: b
   category: root
-  translation: ""
+  translation: лоза
 tenis:
   term: tenis
   class: b
   category: root
-  translation: ""
+  translation: теннис
 tenisyen:
   term: tenisyen
   class: b
   category: derived
-  translation: ""
+  translation: теннисист
 tenjire:
   term: tenjire
   class: b
@@ -39184,17 +39294,17 @@ tenor:
   term: tenor
   class: b
   category: root
-  translation: ""
+  translation: тенор
 tensor:
   term: tensor
   class: b
   category: root
-  translation: ""
+  translation: тензор
 tentakul:
   term: tentakul
   class: b
   category: root
-  translation: ""
+  translation: щупальце
 tenwo:
   term: Tenwo
   class: su n
@@ -39204,7 +39314,7 @@ teo:
   term: teo
   class: b
   category: root
-  translation: ""
+  translation: бог, богиня, божество, Бог
 teoamiru:
   term: teoamiru
   class: b
@@ -39214,32 +39324,32 @@ teoista:
   term: teoista
   class: b
   category: derived
-  translation: ""
+  translation: теист
 teokalismo:
   term: teokalismo
   class: b
   category: derived
-  translation: ""
+  translation: атеизм
 teokalista:
   term: teokalista
   class: b
   category: derived
-  translation: ""
+  translation: атеист
 teologi:
   term: teologi
   class: b
   category: derived
-  translation: ""
+  translation: богословие, теология
 teologiyen:
   term: teologiyen
   class: b
   category: derived
-  translation: ""
+  translation: богослов, теолог
 teori:
   term: teori
   class: b
   category: root
-  translation: ""
+  translation: теория
 teorili:
   term: teorili
   class: t
@@ -39254,7 +39364,7 @@ terakota:
   term: terakota
   class: b
   category: root
-  translation: ""
+  translation: терракота
 terapi:
   term: terapi
   class: b
@@ -39269,7 +39379,7 @@ terbyum:
   term: terbyum
   class: b
   category: root
-  translation: ""
+  translation: тербий
 teresa:
   term: Teresa
   class: su n
@@ -39294,7 +39404,7 @@ terminal:
   term: terminal
   class: b
   category: root
-  translation: ""
+  translation: терминал
 termo:
   term: termo
   class: b.oro
@@ -39319,12 +39429,12 @@ termoje:
   term: termoje
   class: b
   category: derived
-  translation: ""
+  translation: температура
 termokrasitul:
   term: termokrasitul
   class: b
   category: derived
-  translation: ""
+  translation: термостат
 termokumax:
   term: termokumax
   class: b
@@ -39339,12 +39449,12 @@ termometer:
   term: termometer
   class: b
   category: derived
-  translation: ""
+  translation: термометр
 termomosem:
   term: termomosem
   class: b
   category: derived
-  translation: ""
+  translation: лето
 termone:
   term: termone
   class: t
@@ -39414,7 +39524,7 @@ teve:
   term: teve
   class: b
   category: root
-  translation: ""
+  translation: ТВ
 textil:
   term: textil
   class: b
@@ -39424,7 +39534,7 @@ texto:
   term: texto
   class: b
   category: root
-  translation: ""
+  translation: текст
 textura:
   term: textura
   class: b
@@ -39464,7 +39574,7 @@ tigacen:
   term: tigacen
   class: b
   category: derived
-  translation: ""
+  translation: триста
 tigades:
   term: tigades
   class: num
@@ -39494,12 +39604,12 @@ tigagontul:
   term: tigagontul
   class: b
   category: derived
-  translation: ""
+  translation: треугольник
 tigamwin:
   term: tigamwin
   class: b
   category: derived
-  translation: ""
+  translation: трифтонг
 tigaple:
   term: tigaple
   class: t
@@ -39554,7 +39664,7 @@ timpani:
   term: timpani
   class: b
   category: root
-  translation: ""
+  translation: литавры
 tipo:
   term: tipo
   class: b
@@ -39844,7 +39954,7 @@ tongilexi:
   term: tongilexi
   class: b
   category: derived
-  translation: ""
+  translation: сложное слово
 tongo:
   term: tongo
   class: t
@@ -39904,7 +40014,7 @@ tontexto:
   term: tontexto
   class: b
   category: derived
-  translation: ""
+  translation: контекст
 tonya:
   term: tonya
   class: b.oj
@@ -39929,7 +40039,7 @@ topi:
   term: topi
   class: b
   category: root
-  translation: ""
+  translation: шляпа
 topifutru:
   term: topifutru
   class: b
@@ -40069,7 +40179,7 @@ towa:
   term: towa
   class: b
   category: root
-  translation: ""
+  translation: башня
 trafiko:
   term: trafiko
   class: b
@@ -40094,7 +40204,7 @@ trampolin:
   term: trampolin
   class: b
   category: root
-  translation: ""
+  translation: батут
 tramu:
   term: tramu
   class: b
@@ -40124,7 +40234,7 @@ trapesi:
   term: trapesi
   class: b
   category: root
-  translation: ""
+  translation: трапеция
 tras:
   term: tras
   class: p
@@ -40199,7 +40309,7 @@ trator:
   term: trator
   class: b
   category: root
-  translation: ""
+  translation: трактор
 trawma:
   term: trawma
   class: b.oro
@@ -40274,7 +40384,7 @@ trinidad_ji_tobago:
   term: Trinidad ji Tobago
   class: su n
   category: phrase
-  translation: ""
+  translation: Тринидад и Тобаго
 triunfa:
   term: triunfa
   class: b.oj
@@ -40304,12 +40414,12 @@ trombon:
   term: trombon
   class: b
   category: root
-  translation: ""
+  translation: тромбон
 trompeta:
   term: trompeta
   class: b
   category: root
-  translation: ""
+  translation: труба
 trompo:
   term: trompo
   class: b
@@ -40329,7 +40439,7 @@ trufel:
   term: trufel
   class: b
   category: root
-  translation: ""
+  translation: трюфель
 truta:
   term: truta
   class: b
@@ -40359,7 +40469,7 @@ tuba:
   term: tuba
   class: b
   category: root
-  translation: ""
+  translation: туба
 tuberkul:
   term: tuberkul
   class: b
@@ -40399,7 +40509,7 @@ tui:
   term: tui
   class: b
   category: root
-  translation: ""
+  translation: нога
 tukan:
   term: tukan
   class: b
@@ -40414,7 +40524,7 @@ tuksedo:
   term: tuksedo
   class: b
   category: root
-  translation: ""
+  translation: смокинг
 tul:
   term: tul
   class: b
@@ -40424,7 +40534,7 @@ tulipa:
   term: tulipa
   class: b
   category: root
-  translation: ""
+  translation: тюльпан
 tullari:
   term: tullari
   class: b
@@ -40434,7 +40544,7 @@ tulyum:
   term: tulyum
   class: b
   category: root
-  translation: ""
+  translation: тулий
 tumor:
   term: tumor
   class: b.oro
@@ -40449,12 +40559,12 @@ tundra:
   term: tundra
   class: b
   category: root
-  translation: ""
+  translation: тундра
 tunel:
   term: tunel
   class: b
   category: root
-  translation: ""
+  translation: тоннель
 tunge:
   term: tunge
   class: b
@@ -40464,12 +40574,12 @@ tungesten:
   term: tungesten
   class: b
   category: root
-  translation: ""
+  translation: вольфрам
 tunika:
   term: tunika
   class: b
   category: root
-  translation: ""
+  translation: туника
 tunisi:
   term: Tunisi
   class: su n
@@ -40509,7 +40619,7 @@ turbin:
   term: turbin
   class: b
   category: root
-  translation: ""
+  translation: турбина
 turi:
   term: turi
   class: b.oj
@@ -40599,7 +40709,7 @@ tutum:
   term: tutum
   class: b
   category: root
-  translation: ""
+  translation: сердце
 tutuminfarto:
   term: tutuminfarto
   class: b
@@ -40614,7 +40724,7 @@ tutumlogi:
   term: tutumlogi
   class: b
   category: derived
-  translation: ""
+  translation: кардиология
 tutumnarem:
   term: tutumnarem
   class: t
@@ -40679,7 +40789,7 @@ tyanvirgul:
   term: tyanvirgul
   class: b
   category: derived
-  translation: ""
+  translation: точка с запятой
 tyao:
   term: tyao
   class: b.oj.ru
@@ -40969,7 +41079,7 @@ universita:
   term: universita
   class: b
   category: root
-  translation: ""
+  translation: университет
 unpersonli:
   term: unpersonli
   class: t
@@ -40984,12 +41094,12 @@ unteoismo:
   term: unteoismo
   class: b
   category: derived
-  translation: ""
+  translation: монотеизм, единобожие
 unteoista:
   term: unteoista
   class: b
   category: derived
-  translation: ""
+  translation: монотеист
 unvibrafono:
   term: unvibrafono
   class: b
@@ -41024,7 +41134,7 @@ uranyum:
   term: uranyum
   class: b
   category: root
-  translation: ""
+  translation: уран
 urdu:
   term: Urdu
   class: su n
@@ -41054,7 +41164,7 @@ urjuhatul:
   term: urjuhatul
   class: b
   category: derived
-  translation: ""
+  translation: качели
 urugway:
   term: Urugway
   class: su n
@@ -41124,7 +41234,7 @@ utaramakedoni:
   term: Utaramakedoni
   class: su n
   category: derived
-  translation: ""
+  translation: Северная Македония
 utu:
   term: utu
   class: b.oj
@@ -41134,7 +41244,7 @@ uvula:
   term: uvula
   class: b
   category: root
-  translation: ""
+  translation: (нёбный) язычок
 uvulali:
   term: uvulali
   class: t
@@ -41229,7 +41339,7 @@ vampiri:
   term: vampiri
   class: b
   category: root
-  translation: ""
+  translation: вампир
 vampirisim:
   term: vampirisim
   class: t
@@ -41244,7 +41354,7 @@ vanadyum:
   term: vanadyum
   class: b
   category: root
-  translation: ""
+  translation: ванадий
 vanila:
   term: vanila
   class: b
@@ -41279,7 +41389,7 @@ vaysu:
   term: vaysu
   class: b
   category: root
-  translation: ""
+  translation: тиски
 vegan:
   term: vegan
   class: t
@@ -41349,7 +41459,7 @@ vento:
   term: vento
   class: b
   category: root
-  translation: ""
+  translation: ветер
 ventopul:
   term: ventopul
   class: t
@@ -41479,7 +41589,7 @@ visa:
   term: visa
   class: b
   category: root
-  translation: ""
+  translation: виза
 visita:
   term: visita
   class: b.oj
@@ -43732,11 +43842,21 @@ yonguyen:
   translation: пользователь
 yoni:
   term: yoni
-  class: b.oro
+  class: b
   category: root
   translation: ион; ионизировать
+yonicu:
+  term: yonicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 yonidi:
   term: yonidi
+  class: b.oj
+  category: derived
+  translation: ""
+yonigi:
+  term: yonigi
   class: b.oj
   category: derived
   translation: ""
@@ -43752,7 +43872,7 @@ yonyo:
   translation: Ионические острова, Ионическое море
 yoran:
   term: yoran
-  class: b.oro
+  class: b
   category: root
   translation: ""
 yosef:
@@ -44225,4 +44345,14 @@ zway:
   class: b
   category: root
   translation: муха, двукрылое
+zyaratu:
+  term: zyaratu
+  class: ""
+  category: root
+  translation: ""
+zyaratuyen:
+  term: zyaratuyen
+  class: b
+  category: derived
+  translation: ""
 ...

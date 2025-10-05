@@ -4,10 +4,10 @@
 '#':
 - haxtagu
 -a:
-- su
 - -li
 - -su
 - -yum
+- su
 -a por pronomoj:
 - su
 -ado:
@@ -38,11 +38,11 @@
 -eble:
 - -ible
 -eca:
-- semi
 - -sim
+- semi
 -ece:
-- semi
 - -sim
+- semi
 -eco:
 - -ya
 -eg-:
@@ -51,16 +51,16 @@
 - -dom
 - -kamer
 -ema:
-- fil
 - -fil
+- fil
 -eme:
-- fil
 - -fil
+- fil
 -emo:
 - -pel
 -en:
-- cel-
 - cel
+- cel-
 -enda:
 - -bisu
 -ende:
@@ -91,10 +91,10 @@
 -igo:
 - -gi
 -ilo:
-- fon
 - -ente
 - -tora
 - -tul
+- fon
 -in-:
 - fem-
 -inda:
@@ -281,6 +281,9 @@ absorbi:
 - absorbi
 absorbiĝi:
 - absorbi
+- absorbicu
+absorbiĝo:
+- absorbicu
 absorbo:
 - absorbi
 abstrakta:
@@ -323,9 +326,12 @@ acideco:
 - acidije
 - acidiya
 acidigi:
-- acidigi
-acidigo:
-- acidigi
+- acidi
+acidiĝi:
+- acidi
+- acidicu
+acidiĝo:
+- acidicu
 acido:
 - acidi
 adamo:
@@ -343,6 +349,9 @@ adaptiĝema:
 - adatecuabil
 adaptiĝi:
 - adate
+- adatecu
+adaptiĝo:
+- adatecu
 adapto:
 - adate
 adeno:
@@ -361,16 +370,18 @@ adhere:
 - adhesine
 adheri:
 - adhesi
+- adhesicu
 adherigaĵo:
 - adhesiente
-adheriĝi:
+adherigi:
 - adhesi
 adhero:
 - adhesi
+- adhesicu
 adiaŭ:
 - bon_jiwa
-- xanti
 - weda
+- xanti
 adiaŭa:
 - wedali
 adiaŭe:
@@ -579,8 +590,8 @@ agemo:
 agentejo:
 - byuro
 agento:
-- byuroyen
 - -ente
+- byuroyen
 agi:
 - aksyon
 agitado:
@@ -588,8 +599,8 @@ agitado:
 agitanta:
 - hunfunne
 agiti:
-- kalapa
 - hunfun
+- kalapa
 agiti likvon:
 - kalapa
 agitita:
@@ -693,6 +704,10 @@ akiri:
 - xuha
 akiri per penado:
 - xuha
+akiri tumorojn:
+- tumor
+akiri tumoron:
+- tumor
 akirita:
 - cududo
 - xuhado
@@ -827,8 +842,8 @@ akvosalto:
 akĉento:
 - aksento
 al:
-- cel-
 - cel
+- cel-
 - hoy
 - tas
 al la fundo:
@@ -903,6 +918,7 @@ alglui:
 - adhesi
 algluiĝi:
 - adhesi
+- adhesicu
 algo:
 - alga
 algoj:
@@ -914,8 +930,8 @@ algoritme:
 algoritmo:
 - algoritma
 ali-:
-- alo-
 - alo
+- alo-
 alia:
 - alo
 alia kiomo da:
@@ -952,10 +968,16 @@ alies:
 - alosu
 aliflanke:
 - trasli
+aliformigi:
+- aloforma
+aliformigo:
+- aloforma
 aliformiĝi:
 - aloforma
+- aloformacu
 aliformiĝo:
 - aloforma
+- aloformacu
 aligatoro:
 - aligator
 aligi:
@@ -1022,8 +1044,13 @@ alko:
 - musu
 alkohola:
 - alkoholli
-alkoholizi:
+alkoholi:
 - alkohol
+alkoholiĝi:
+- alkohol
+- alkoholcu
+alkoholiĝo:
+- alkoholcu
 alkoholo:
 - alkohol
 alkovo:
@@ -1167,11 +1194,11 @@ amanto:
 - exkuyen
 - lubiyen
 amara:
-- amaroya
 - amaro
+- amaroya
 amare:
-- amaroya
 - amaro
+- amaroya
 amasbuĉado:
 - tosa
 amasbuĉi:
@@ -1214,8 +1241,12 @@ ambicieme:
 - ambisifil
 ambicii:
 - ambisi
+- ambisicu
+ambiciigi:
+- ambisi
 ambicio:
 - ambisi
+- ambisicu
 ambigua:
 - xankamenapul
 ambigue:
@@ -1372,6 +1403,9 @@ amuzita:
 - amusapul
 amuziĝi:
 - amusa
+- amusacu
+amuziĝo:
+- amusacu
 amuzo:
 - amusa
 amuzparko:
@@ -1565,9 +1599,9 @@ anono:
 ansero:
 - gansa
 anstataŭ:
+- fe_preferi_kom
 - fe_tayti_fe
 - fe_tayti_ki
-- fe_preferi_kom
 anstataŭaĵo:
 - tayti
 anstataŭe:
@@ -1587,8 +1621,8 @@ antarkta oceano. sudpolusa oceano:
 antarkta regiono. antarkto:
 - antartiko
 antaŭ:
-- fe_oko_de
 - fe_fronta_de
+- fe_oko_de
 - lefe
 antaŭ aŭ je:
 - lefe_or_fe
@@ -1628,9 +1662,9 @@ antaŭdiro:
 antaŭe:
 - fe_fronta
 - fe_leya
+- frontali
 - lefe_dento
 - lefe_to
-- frontali
 antaŭe is:
 - le_du-
 antaŭedziniĝa nomo:
@@ -1715,9 +1749,9 @@ antidoto:
 antigvo kaj barbudo:
 - antigwa_ji_barbuda
 antikva:
-- lama-
 - daylama
 - lama
+- lama-
 antikva egiptio:
 - kemeti
 antikva egiptujo:
@@ -1763,9 +1797,9 @@ aorto:
 aparataro:
 - hardwer
 aparato:
-- tora
 - -maxina
 - -tora
+- tora
 aparta:
 - jula
 aparta resto:
@@ -2026,8 +2060,8 @@ arkivo:
 arko:
 - arko
 arkta oceano:
-- bahari_artiko
 - artiko
+- bahari_artiko
 arkta regiono:
 - artiko
 arkta urso:
@@ -2220,8 +2254,8 @@ asociito:
 asociiĝi:
 - seasosya
 asocio:
-- asosyatim
 - asosya
+- asosyatim
 asparago:
 - esparago
 aspekti:
@@ -2243,12 +2277,15 @@ aspergita:
 aspergo:
 - esprey
 aspiranta:
-- ambisicune
 - ambisine
 aspiri:
 - ambisi
+- ambisicu
+aspirigi:
+- ambisi
 aspiro:
 - ambisi
+- ambisicu
 astato:
 - astatin
 asteroido:
@@ -2338,8 +2375,8 @@ atingo:
 atlantika oceano:
 - bahari_atlantiko
 atlantiko:
-- bahari_atlantiko
 - atlantiko
+- bahari_atlantiko
 atlaso:
 - atlas
 - atlas_name
@@ -2498,6 +2535,10 @@ aĥila tendono:
 - akiletendon
 aĥilo:
 - akile
+'aĵgenraj substantivoj: amuza':
+- amusapul
+'aĵgenraj substantivoj: mira':
+- waopul
 aĵo:
 - maderixey
 - xey
@@ -2747,13 +2788,13 @@ baldaŭ:
 baldaŭ antaŭ:
 - ner_lefe
 baldaŭ antaŭ ol:
-- ner_leki
 - ner_lefe_na
+- ner_leki
 baldaŭ post:
 - ner_xafe
 baldaŭ post kiam:
-- ner_xaki
 - ner_xafe_na
+- ner_xaki
 baldaŭa:
 - nerxali
 balearoj:
@@ -2977,13 +3018,13 @@ baterio:
 bateto:
 - unvibrafono
 bati:
-- nabiza
 - darbe
+- nabiza
 batita:
 - darbedo
 bato:
-- nabiza
 - darbe
+- nabiza
 batoideo:
 - hongyo
 baza:
@@ -2993,12 +3034,12 @@ bazalto:
 bazaro:
 - bazar
 baze:
+- basili
 - fe_basi
 - fe_benji
-- basili
 bazi:
-- offolo
 - basi
+- offolo
 bazi sur:
 - offolo
 bazilio:
@@ -3008,8 +3049,8 @@ bazita:
 bazlernejo:
 - basieskol
 bazo:
-- basidom
 - basi
+- basidom
 bazo loko:
 - basidom
 bazopilko:
@@ -3033,13 +3074,13 @@ bebolito:
 bedaŭra:
 - asifpul
 bedaŭre:
-- fe_asif
 - asifpul
+- fe_asif
 bedaŭreco:
 - asifpulya
 bedaŭri:
-- hwegay
 - asif
+- hwegay
 bedaŭrinde:
 - fe_asif
 bedaŭro:
@@ -3368,6 +3409,8 @@ blekegi:
 - pohyo
 blekego:
 - pohyo
+blenoreo:
+- gonorey
 blinda:
 - okonenabil
 blinde:
@@ -3543,11 +3586,11 @@ bonan ŝancon:
 bonbono:
 - kendi
 bone:
-- okey
 - bon
 - dodukubon
 - dodukusahi
 - melibon
+- okey
 bone farita:
 - afarin
 boneco:
@@ -3629,9 +3672,9 @@ bonŝanca:
 - bonxansepul
 - xansebon
 bonŝance:
-- fe_bonxanse
 - bonxanseli
 - bonxansepul
+- fe_bonxanse
 - xansebon
 bopatrino:
 - gamiatre
@@ -3791,6 +3834,7 @@ bruli:
 bruligaĵo:
 - yanlyo
 bruligi:
+- atex
 - yake
 bruligita:
 - yakedo
@@ -3995,9 +4039,9 @@ centobla:
 centoble:
 - cenple
 centono:
+- centi
 - ofcen
 - un_ofcen
-- centi
 centra:
 - centroli
 centra afriko:
@@ -4138,8 +4182,8 @@ cikligi:
 cikliĝi:
 - cuki
 ciklo:
-- duacalun
 - cuki
+- duacalun
 ciklono:
 - tufan
 cikonio:
@@ -4209,8 +4253,8 @@ citaĵo:
 citi:
 - inyo
 citilo:
-- inyosimbolo
 - inyo
+- inyosimbolo
 cito:
 - inyo
 citrolo:
@@ -4233,8 +4277,8 @@ civiliza:
 civilizacia:
 - tamadundo
 civilizacio:
-- tamaduntim
 - tamadun
+- tamaduntim
 civilizi:
 - tamadun
 civilizita:
@@ -4269,6 +4313,8 @@ damaĝanta:
 damaĝante:
 - sungayne
 damaĝi:
+- sungay
+damaĝiĝi:
 - sungay
 damaĝo:
 - sungay
@@ -4397,9 +4443,9 @@ daŭro:
 - dure
 - watuje
 de:
+- -li
 - de
 - fal
-- -li
 de antaŭ:
 - xorlefe
 de antaŭ kiam:
@@ -4637,8 +4683,8 @@ dekokoble:
 dekomence:
 - fe_xoru
 dekono:
-- un_ofdes
 - deci
+- un_ofdes
 dekora:
 - dekorali
 dekoracii:
@@ -4740,7 +4786,7 @@ demeto:
 demisii:
 - exergocu
 demisiita:
-- exergodo
+- exergogido
 demisio:
 - exergocu
 demokrata:
@@ -4994,15 +5040,18 @@ devenanta:
 - aselcune
 - aselne
 devene:
-- fe_asel
 - aselli
 - aselpul
+- fe_asel
 deveni:
+- asel
+- aselcu
 - ofata
+devenigi:
 - asel
 deveno:
-- ofata
 - asel
+- ofata
 devi:
 - musi
 deviga:
@@ -5089,8 +5138,8 @@ dialektiko:
 dialekto:
 - basaxube
 dialogo:
-- logalari
 - intrediskusi
+- logalari
 diamanta ringo:
 - almasihalke
 diamante:
@@ -5131,6 +5180,8 @@ difektita:
 - kwetendo
 difektite:
 - fubaydo
+difektiĝi:
+- kweten
 difekto:
 - kweten
 diferenca:
@@ -5173,6 +5224,7 @@ digramo:
 - duaglif
 diino:
 - femteo
+- teo
 diisto:
 - teoista
 diiĉo:
@@ -5394,8 +5446,8 @@ divinado:
 divini:
 - mansi
 divorci:
-- posgamicu
 - posgami
+- posgamicu
 divorco:
 - posgamicu
 dizelo:
@@ -5418,8 +5470,8 @@ doktoro:
 doktrino:
 - dotrina
 dokumento:
-- doku
 - -doku
+- doku
 dokumentujo:
 - dokukaxa
 dolarkvarona monero:
@@ -5695,9 +5747,9 @@ dulingve:
 dulipa:
 - dualabyali
 dum:
+- dur
 - durki
 - fe_kompara_ki
-- dur
 dum i:
 - dur_na
 dum kiam:
@@ -5716,22 +5768,24 @@ dumtempa:
 - durwatuli
 dunganto:
 - goyonyen
+- inergogiyen
 dungi:
 - goyon
-- inergo
+- inergogi
+dunginto:
+- goyonyen
+- inergogiyen
 dungita:
-- inergodo
+- inergogido
 dungitaro:
 - ergotim
 dungito:
 - begoyonyen
-dungiĝi:
-- inergo
 dungiĝo:
 - ergoxey
 dungo:
 - goyon
-- inergo
+- inergogi
 duno:
 - duna
 duo:
@@ -5843,8 +5897,8 @@ edzinigi:
 edzinigo:
 - gamigi
 edziniĝi:
-- gamicu
 - gami
+- gamicu
 edziniĝinta:
 - gamido
 edziniĝo:
@@ -5855,15 +5909,15 @@ edzino:
 edziĝa ringo:
 - gamihalke
 edziĝi:
-- gamicu
 - gami
+- gamicu
 edziĝinta:
 - gamido
 edziĝo:
 - gamicu
 edzo:
-- mangami
 - gami
+- mangami
 edzoj:
 - gamiduayen
 efekta:
@@ -5999,10 +6053,10 @@ ekflami:
 ekflamigi:
 - xoratex
 ekflugi:
-- ofgeo
+- ofgeocu
 - xorfley
 ekflugo:
-- ofgeo
+- ofgeocu
 - xorfley
 ekfrota konsonanto:
 - estomotsufono
@@ -6133,11 +6187,13 @@ eksedziĝo:
 eksedzo:
 - legami
 - posgami
+eksenti anksion:
+- ansyacu
 eksigi:
 - exergogi
 - exkludi
 eksigita:
-- exergodo
+- exergogido
 - exkludido
 eksigo:
 - exkludi
@@ -6198,15 +6254,15 @@ ekstaze:
 ekstazo:
 - dayhoxya
 ekster:
-- fe_exya_de
 - ex
+- fe_exya_de
 ekster-:
 - ex-
 ekstera:
 - exli
 ekstere:
-- fe_exya
 - exli
+- fe_exya
 ekstere de:
 - fe_exya_de
 eksteren:
@@ -6322,8 +6378,8 @@ ekzerciĝi:
 - vyayama
 ekzerco:
 - abyasa
-- vyayamagi
 - vyayama
+- vyayamagi
 ekzercokarto:
 - memorikarta
 ekzili:
@@ -6401,6 +6457,10 @@ elektre:
 elektri:
 - eletri
 - eletrixoku
+elektriĝi:
+- eletricu
+elektriĝo:
+- eletricu
 elektro:
 - eletri
 elektronika:
@@ -6412,8 +6472,8 @@ elektroniko:
 elektrono:
 - eletron
 elemento:
-- mon
 - -mon
+- mon
 elfa:
 - elfuli
 elfeca:
@@ -6467,9 +6527,9 @@ ellasi:
 ellaso:
 - exizin
 ellitiĝi:
-- exbistar
+- exbistarcu
 ellitiĝo:
-- exbistar
+- exbistarcu
 elmeti:
 - explasi
 elmeto:
@@ -6675,9 +6735,11 @@ enamiĝinta:
 - exkune
 - exkupul
 enboteligi:
-- inbotela
+- inbotelagi
 enboteligita:
-- inbotelado
+- inbotelagido
+enboteligo:
+- inbotelagi
 encefalito:
 - mogeitis
 enciklopedia:
@@ -6689,13 +6751,13 @@ enciklopedio:
 enda:
 - bisu
 endanĝerigi:
-- inhatari
+- inhatarigi
 endanĝerigita:
 - hatarido
 endanĝerigite:
 - hatarido
 endanĝerigo:
-- inhatari
+- inhatarigi
 ende:
 - bisu
 endormiĝi:
@@ -6728,6 +6790,8 @@ enhavi:
 - inhare
 enhavo:
 - inhare
+enhorarigi:
+- jedwal
 enhorarigita:
 - jedwaldo
 enigi:
@@ -6759,13 +6823,13 @@ enketo:
 - enketa
 - tupyogi
 enkomatigi:
-- inkoma
+- inkomagi
 enkomatigo:
-- inkoma
+- inkomagi
 enkomatiĝi:
-- inkoma
+- inkomacu
 enkomatiĝo:
-- inkoma
+- inkomacu
 enkondukado:
 - xorkonegi
 enkondukaĵo:
@@ -6784,14 +6848,10 @@ enlasi:
 - inizin
 enlaso:
 - inizin
-enlitigi:
-- inbistar
-enlitigo:
-- inbistar
 enlitiĝi:
-- inbistar
+- inbistarcu
 enlitiĝo:
-- inbistar
+- inbistarcu
 enloĝebla:
 - ogarible
 enloĝeble:
@@ -6801,9 +6861,9 @@ enloĝi:
 enmanigi:
 - hantacudu
 enmemorigi:
-- inmemori
+- inmemorigi
 enmemorigo:
-- inmemori
+- inmemorigi
 enmeti:
 - inplasi
 enmeto:
@@ -6817,13 +6877,13 @@ enreta:
 enrete:
 - innetoli
 ensakigi:
-- inbao
+- inbaogi
 ensakigo:
-- inbao
+- inbaogi
 enskatoligi:
-- insanduku
+- insandukugi
 enskatoligo:
-- insanduku
+- insandukugi
 enspezo:
 - inpesa
 enspiri:
@@ -6833,9 +6893,9 @@ enspiro:
 enterigejo:
 - inturandom
 enterigi:
-- inturan
+- inturangi
 enterigo:
-- inturan
+- inturangi
 entomologio:
 - koncunlogi
 entomologo:
@@ -6932,8 +6992,8 @@ erare informi:
 erareco:
 - malloga
 erari:
-- malxey
 - dolantan
+- malxey
 eraro:
 - malxey
 erbio:
@@ -6951,8 +7011,8 @@ ermito:
 ermitokrabo:
 - solokrabe
 ero:
-- lilbage
 - bage
+- lilbage
 erotika:
 - seksi
 erotike:
@@ -6976,8 +7036,8 @@ escepto:
 esenca:
 - benjili
 esence:
-- fe_benji
 - benjili
+- fe_benji
 esenco:
 - benji
 eseo:
@@ -7056,15 +7116,19 @@ estaĵo:
 ester:
 - ester
 esti:
-- sen
 - hay
+- sen
 esti agitita:
 - hunfun
 esti al:
 - hoyya
 - tasya
+esti anksia:
+- ansya
 esti antaŭ:
 - leya
+esti aplikebla:
+- aplikacu
 esti bonvena:
 - bonata
 esti danĝera:
@@ -7094,6 +7158,8 @@ esti erara:
 - malloga
 esti farita de:
 - falya
+esti harmonia:
+- armonicu
 esti impresita:
 - inxo
 esti in:
@@ -7106,6 +7172,8 @@ esti je:
 - feya
 esti je ĉi tiu flanko:
 - cisya
+esti kancera:
+- kancer
 esti komforta:
 - konforta
 esti kun:
@@ -7122,12 +7190,16 @@ esti malsupra:
 - infraya
 esti malĝusta:
 - malloga
+esti mania:
+- manika
 esti misa:
 - malloga
 esti onia vico:
 - turno
 esti panikita:
 - paniko
+esti paranoja:
+- paranoy
 esti perforta:
 - bawlu
 esti permesata:
@@ -7173,6 +7245,8 @@ estinta:
 - leli
 estinteco:
 - leya
+estiĝi anksia:
+- ansyacu
 esto:
 - sen
 estonio:
@@ -7183,12 +7257,12 @@ estonta:
 - xa-
 - xali
 estonte:
-- xa-
 - fe_xaya
+- xa-
 - xali
 estontece:
-- xadin
 - fe_xaya
+- xadin
 estonteco:
 - xaya
 estonujo:
@@ -7215,9 +7289,9 @@ etaĝlito:
 etaĝo:
 - cengu
 ete:
-- lilmo
 - daylil
 - lil
+- lilmo
 eteco:
 - lilya
 eterna:
@@ -7425,6 +7499,7 @@ fajrero:
 - lilatex
 fajri:
 - atex
+- atexcu
 fajro:
 - atex
 fajroŝtono:
@@ -7432,9 +7507,9 @@ fajroŝtono:
 fakcio:
 - grupoxube
 fako:
+- -logi
 - domeni
 - logi
-- -logi
 faksi:
 - faksi
 faksilo:
@@ -7446,8 +7521,8 @@ fakso:
 fakta:
 - fatoli
 fakte:
-- fe_fato
 - fatoli
+- fe_fato
 fakto:
 - fato
 faktoro:
@@ -7679,6 +7754,8 @@ febliĝo:
 - maxdaifucu
 febra:
 - homapul
+febri:
+- homa
 febro:
 - homa
 februaro:
@@ -7815,6 +7892,8 @@ fermita:
 - klosido
 fermite:
 - klosido
+fermiĝi:
+- klosi
 fermo:
 - klosi
 fero:
@@ -7995,9 +8074,9 @@ filo:
 - bete
 - manbete
 filozofio:
+- -logi
 - logi
 - sofilogi
-- -logi
 filozofio de:
 - logi
 filozofo:
@@ -8090,8 +8169,8 @@ fitrakto:
 fizika:
 - fisikali
 fizika ekzerco:
-- vyayamagi
 - vyayama
+- vyayamagi
 fizika sintenado:
 - postura
 fizike ekzerci:
@@ -8279,13 +8358,13 @@ flugpove:
 flugsciuro:
 - fleysinjabu
 flui:
-- lyudon
 - estrimi
+- lyudon
 fluigi:
 - lyudon
 fluo:
-- lyudon
 - estrimi
+- lyudon
 fluoreski:
 - fluores
 fluoresko:
@@ -8516,8 +8595,8 @@ forĵeto:
 fosado:
 - goyuya
 fosaĵo:
-- kangyodom
 - goyu
+- kangyodom
 fosfato:
 - fosfato
 fosforo:
@@ -8526,12 +8605,10 @@ fosi:
 - goyu
 fosiliigi:
 - fosilgi
-- fosil
 fosiliigo:
 - fosilgi
 fosiliiĝi:
 - fosilcu
-- fosil
 fosiliiĝo:
 - fosilcu
 fosilio:
@@ -8541,8 +8618,8 @@ fosilo:
 fosita:
 - goyudo
 foso:
-- handaki
 - goyu
+- handaki
 fota:
 - fotoli
 fote:
@@ -8579,7 +8656,7 @@ frakasite:
 - gujedo
 frakasiĝi:
 - guje
-frakasiĝo:
+frakaso:
 - guje
 fraktalo:
 - fratal
@@ -8592,8 +8669,8 @@ framo:
 franca:
 - franseli
 francio:
-- fransyum
 - franse
+- fransyum
 francisko:
 - francisko
 franciumo:
@@ -8605,8 +8682,8 @@ francujo:
 franjo:
 - soso
 frapeto:
-- unvibrafono
 - toka
+- unvibrafono
 frapi:
 - darbe
 - toka
@@ -8825,8 +8902,8 @@ funckie:
 fundamenta:
 - basili
 fundamente:
-- fe_basi
 - basili
+- fe_basi
 funebri:
 - temwawa
 funebro:
@@ -9018,8 +9095,8 @@ geedzigo:
 geedzineco:
 - gamiya
 geedziĝi:
-- gamicu
 - gami
+- gamicu
 geedziĝinta paro:
 - gamiduayen
 geedziĝintaj:
@@ -9106,8 +9183,8 @@ gepatroj:
 germana:
 - doycili
 germanio:
-- germanyum
 - doyci
+- germanyum
 germaniumo:
 - germanyum
 germano:
@@ -9246,14 +9323,15 @@ glugli:
 gluglo:
 - gargare
 glui:
-- leim
 - adhesi
+- leim
 gluita:
 - leimdo
 gluite:
 - leimdo
 gluiĝi:
 - adhesi
+- adhesicu
 glukozo:
 - glukosu
 gluo:
@@ -9310,8 +9388,8 @@ grada:
 grade:
 - darajeli
 grado:
-- daraje
 - -je
+- daraje
 grado de celsio:
 - selsyus
 grado de dikeco:
@@ -9372,8 +9450,8 @@ grandeco:
 grandega:
 - dayday
 grandege:
-- daydaymo
 - dayday
+- daydaymo
 grandegulo:
 - daydayyen
 grandigi:
@@ -9725,13 +9803,16 @@ haringo:
 - eringa
 harmonia:
 - armonipul
+harmoniado:
+- armonicu
 harmonie:
 - armonipul
 harmonii:
 - armoni
+- armonicu
 harmoniigi:
-- armonigi
 - armoni
+- armonigi
 harmoniigo:
 - armonigi
 harmoniko:
@@ -9842,8 +9923,8 @@ hejmo:
 hela:
 - luminpul
 hele:
-- sefidemo
 - luminpul
+- sefidemo
 heleno:
 - helena
 helianto:
@@ -9942,6 +10023,8 @@ herpeto:
 - herpes
 heterodoksa:
 - xinenmal
+heterodokseco:
+- malxinen
 heziti:
 - taradudu
 hezito:
@@ -10373,8 +10456,8 @@ image:
 imagi:
 - imaje
 imago:
-- imajeya
 - imaje
+- imajeya
 imanenta:
 - benjili
 imita:
@@ -10414,11 +10497,11 @@ imperio:
 impeto:
 - pel
 implici:
-- anximena
 - anxi
+- anximena
 implico:
-- anximena
 - anxi
+- anximena
 importi:
 - inporta
 importo:
@@ -10472,15 +10555,15 @@ incesto:
 incitanta:
 - estimulane
 inciti:
-- provoka
 - estimula
+- provoka
 incitita:
 - estimulado
 incitiĝi:
 - estimula
 incito:
-- provoka
 - estimula
+- provoka
 inda:
 - laye
 inde:
@@ -10590,8 +10673,14 @@ infarkto:
 - infarto
 infekti:
 - enfeksi
+infekti je viruso:
+- virus
 infektita:
 - enfeksido
+infektiĝi:
+- enfeksi
+infektiĝi je viruso:
+- virus
 infekto:
 - enfeksi
 infera:
@@ -10678,14 +10767,14 @@ injektilo:
 injekto:
 - injeksi
 inklina:
-- fil
 - -fil
+- fil
 inkline:
-- fil
 - -fil
+- fil
 inkline al:
-- fil
 - -fil
+- fil
 inklini:
 - filya
 inklino:
@@ -10867,8 +10956,8 @@ inteligentega:
 inteligentegulo:
 - daycinonyen
 inteligento:
-- daycinon
 - cinon
+- daycinon
 intenca misinformo:
 - burinforme
 intence misinformi:
@@ -11043,9 +11132,9 @@ intonacio:
 introspekti:
 - semoni
 introspekto:
+- inoko
 - seinoko
 - semoni
-- inoko
 intuicie scii:
 - jigam
 intuicii:
@@ -11058,6 +11147,8 @@ inundi:
 - sela
 inundita:
 - selado
+inundiĝi:
+- sela
 inundo:
 - sela
 invadanto:
@@ -11103,8 +11194,8 @@ invito:
 inĝenierii:
 - injeneri
 inĝenierio:
-- injeneriya
 - injeneri
+- injeneriya
 inĝeniero:
 - injeneriyen
 io:
@@ -11122,8 +11213,8 @@ iom:
 - banmo
 - semi
 iom ajn:
-- he_banmo
 - he_bankwanti
+- he_banmo
 iom post iom:
 - xosu_xafe_xosu
 iomete:
@@ -11231,11 +11322,13 @@ iĉa:
 iĉe:
 - man
 iĝi:
-- xorsen
 - sencu
+- xorsen
+iĝi anksia:
+- ansyacu
 iĝo:
-- xorsen
 - sencu
+- xorsen
 iĥtiologio:
 - mahilogi
 iŝi:
@@ -11366,9 +11459,13 @@ jona:
 jonatan:
 - yonatan
 jonigi:
-- yoni
+- yonigi
+jonigo:
+- yonigi
 joniĝi:
-- yoni
+- yonicu
+joniĝo:
+- yonicu
 jono:
 - yoni
 jordanio:
@@ -11398,6 +11495,8 @@ jugo:
 jujubo:
 - unabi
 juki:
+- soyo
+jukiĝi:
 - soyo
 juko:
 - soyo
@@ -11469,8 +11568,8 @@ kadavro:
 kadmio:
 - kadmyum
 kadro:
-- kadro
 - fremu
+- kadro
 kafaparato:
 - kafetora
 kafeino:
@@ -11484,8 +11583,8 @@ kahelo:
 kaino:
 - kain
 kaj:
-- ji
 - iji
+- ji
 kaj ankaŭ:
 - ji_pia
 kaj cetere:
@@ -11606,8 +11705,8 @@ kamerunano:
 kamerunio:
 - kamerun
 kameruno:
-- kamerunyen
 - kamerun
+- kamerunyen
 kamforo:
 - kafur
 kamioneto:
@@ -11804,8 +11903,8 @@ kapturno:
 kapuĉo:
 - kapuco
 kara:
-- azizuyen
 - azizu
+- azizuyen
 karaa maro:
 - kara
 karaa rivero:
@@ -12022,6 +12121,8 @@ kavinismo:
 - kalvinismo
 kavo:
 - gufa
+kayaki:
+- kayaki
 kazaĥa:
 - kazakili
 kazaĥio:
@@ -12039,8 +12140,10 @@ kazo:
 - kaso
 kazuaro:
 - kaswari
+kaĉig:
+- puregi
 kaĉigi:
-- pure
+- puregi
 kaĉo:
 - poriji
 - pure
@@ -12058,9 +12161,10 @@ kaŝite:
 - sangudo
 kaŝiĝi:
 - sangucu
-- sangu
+- sesangu
 kaŝiĝo:
 - sangucu
+- sesangu
 kaŝmira:
 - kaxmirli
 kaŝmirano:
@@ -12089,9 +12193,65 @@ kaŭzero:
 - kosamon
 kaŭzi:
 - kosa
+kaŭzi anksion:
+- ansya
+kaŭzi anksion al:
+- ansya
+kaŭzi artriton:
+- artroitis
+kaŭzi astmon:
+- astama
+kaŭzi diabeton:
+- dyabetes
+kaŭzi encefaliton:
+- mogeitis
+kaŭzi epilepsion:
+- epilepsi
+kaŭzi febron:
+- homa
+kaŭzi gonoreon:
+- gonorey
+kaŭzi hepatiton:
+- ganzoitis
+kaŭzi herpeton:
+- herpes
+kaŭzi hipotermion:
+- infratermo
+kaŭzi kanceron:
+- kancer
+kaŭzi katarakton:
+- katarata
+kaŭzi lakson:
+- ishal
+kaŭzi lepron:
+- juzam
+kaŭzi malarion:
+- malarya
+kaŭzi malsanon:
+- osis
+kaŭzi manion:
+- manika
+kaŭzi panikatakon:
+- panikokrisis
+kaŭzi paranojon:
+- paranoy
+kaŭzi reŭmatismon:
+- rewmati
+kaŭzi rubeolon:
+- funjin
+kaŭzi skizofrenion:
+- eskizofreni
+kaŭzi skorbuton:
+- eskorbuto
+kaŭzi tumorojn:
+- tumor
+kaŭzi tumoron:
+- tumor
+kaŭzi ĥoleron:
+- kolera
 kaŭzo:
-- seba
 - kosa
+- seba
 kaŭĉuka:
 - kawculi
 kaŭĉuko:
@@ -12165,8 +12325,8 @@ ki-:
 ki- por demandi pri la sekva vorto:
 - ke
 kia:
-- denpul_kom
 - daydenpul
+- denpul_kom
 - kepul
 kia !:
 - daydenpul
@@ -12187,16 +12347,16 @@ kidnapado:
 kidnapi:
 - awbujo
 kie:
+- denloka_hu
 - hu_denloka
 - hu_in_da
-- denloka_hu
 - keloka
 kiel:
 - denmaner_hu
 - denpul_kom
-- kom
 - kemaner
 - kepul
+- kom
 kiel eble plej:
 - maximummo
 kiel eble plej malmultaj:
@@ -12319,11 +12479,11 @@ kiu devas venki:
 kiu devus:
 - ingay
 kiu devus esti:
-- gimu
 - -gimu
+- gimu
 kiu estu:
-- gimu
 - -gimu
+- gimu
 kiu nombro:
 - kenumer
 kiu nombro da:
@@ -12673,6 +12833,8 @@ kombinita:
 - kombinado
 kombinite:
 - kombinado
+kombiniĝi:
+- kombina
 kombino:
 - kombina
 kombisto:
@@ -12695,6 +12857,8 @@ komenci:
 - xoru
 komencita:
 - xorudo
+komenciĝi:
+- xoru
 komenco:
 - xoru
 komenti:
@@ -12955,8 +13119,8 @@ kondiĉo en bona kondiĉo:
 kondomo:
 - kondom
 kondukado:
-- lideyenya
 - kwanli
+- lideyenya
 - xofer
 kondukanto:
 - lideyen
@@ -12977,8 +13141,8 @@ kondukita:
 kondukite:
 - lidedo
 konduko:
-- lideyenya
 - lide
+- lideyenya
 - paslide
 konduti:
 - konduta
@@ -13039,6 +13203,8 @@ konfuzita:
 - konhwokudo
 konfuzite:
 - konhwokudo
+konfuziĝi:
+- konhwoku
 konfuzo:
 - disordenu
 - konhwoku
@@ -13126,9 +13292,8 @@ konscie:
 - ixipul
 konscii:
 - ixi
-konscii pri:
-- ixi
 konsciigi:
+- ixi
 - xorixi
 konsciigo:
 - xorixi
@@ -13137,8 +13302,8 @@ konsciiĝi:
 konsciiĝo:
 - xorixi
 konscio:
-- yoxin
 - ixi
+- yoxin
 konsekvenco:
 - ofresulta
 konsenta:
@@ -13187,6 +13352,9 @@ konsoli:
 - anwi
 konsoliĝi:
 - anwi
+- anwicu
+konsoliĝo:
+- anwicu
 konsolo:
 - anwi
 konsonanto:
@@ -13217,8 +13385,8 @@ konstitui:
 konstruanto:
 - kostruiyen
 konstruaĵo:
-- kostruixey
 - -dom
+- kostruixey
 konstrui:
 - kostrui
 konstruisto:
@@ -13285,6 +13453,10 @@ kontrabaso:
 - duaple_baso
 kontrafagoto:
 - duaple_basun
+kontrahi:
+- krampe
+kontrahiĝi:
+- krampe
 kontrahiĝo:
 - krampe
 kontrakto:
@@ -13336,9 +13508,9 @@ kontraŭdiro:
 kontraŭdolorilo:
 - awgutonente
 kontraŭe:
+- antipul
 - fe_kompara_ki
 - fe_oposya
-- antipul
 kontraŭeco:
 - antiya
 kontraŭfajra:
@@ -13346,16 +13518,16 @@ kontraŭfajra:
 kontraŭhorloĝdirekte:
 - posfol_satumeter
 kontraŭi:
-- posfolya
 - antiya
+- posfolya
 kontraŭleĝa:
 - antilegali
 - legakal
 kontraŭleĝe:
 - legakal
 kontraŭo:
-- posfolya
 - antiya
+- posfolya
 kontraŭulo:
 - antiyen
 kontraŭveneno:
@@ -13413,8 +13585,12 @@ konvinki:
 konvinkita:
 - iknado
 konvinko:
-- xinen
 - ikna
+- xinen
+konvulsii:
+- krampe
+konvulsiigi:
+- krampe
 konvulsio:
 - krampe
 konzolo:
@@ -13633,6 +13809,10 @@ kraki:
 - xilepudo
 krako:
 - xilepu
+kramfi:
+- krampe
+kramfigi:
+- krampe
 kramfo:
 - krampe
 krampi:
@@ -13748,9 +13928,9 @@ kribrilo:
 kribrita:
 - girbilodo
 krii:
+- ayay
 - cihe
 - daypala
-- ayay
 kriigi:
 - ayaygi
 kriigo:
@@ -13768,9 +13948,9 @@ krimo:
 krimulo:
 - krimenyen
 krio:
+- ayay
 - cihe
 - daypala
-- ayay
 kriptono:
 - kriputon
 krispa brasiko:
@@ -13870,8 +14050,8 @@ ktp.:
 kuba respubliko:
 - kuba
 kubo:
-- kubo
 - kuba
+- kubo
 kubuto:
 - kudu
 kudrado:
@@ -13971,8 +14151,8 @@ kumino:
 kumkvato:
 - kunkwatu
 kun:
-- harki
 - har
+- harki
 - ton
 kun aldono de:
 - maxus
@@ -14050,6 +14230,8 @@ kunligi:
 - binde
 kunligo:
 - binde
+kunmetaĵo:
+- tongilexi
 kunmetita vorto:
 - tongilexi
 kunportado:
@@ -14059,13 +14241,13 @@ kunporti:
 kunpremanta:
 - nicodene
 kunpremi:
-- tonpresyon
 - nicode
+- tonpresyon
 kunpremita:
 - nicodedo
 kunpremo:
-- tonpresyon
 - nicode
+- tonpresyon
 kunpreni:
 - preporta
 kunpreno:
@@ -14090,8 +14272,8 @@ kunveni:
 - tonata
 kunveno:
 - mitin
-- tonatatim
 - tonata
+- tonatatim
 kuo:
 - kyu
 kupolo:
@@ -14134,8 +14316,8 @@ kuraĝi:
 kuraĝigado:
 - yunkigi
 kuraĝigi:
-- yunkigi
 - yunki
+- yunkigi
 kuraĝigistino:
 - hurakef
 kuraĝigisto:
@@ -14277,8 +14459,8 @@ kvara:
 kvarangulo:
 - caregon
 kvaranteni:
-- sekwarentin
 - kwarentin
+- sekwarentin
 kvarantenigi:
 - kwarentin
 kvarantenigi sin:
@@ -14889,8 +15071,8 @@ laboristo:
 labormaniulo:
 - ergofilyen
 laboro:
-- ergoxey
 - ergo
+- ergoxey
 laborpago:
 - ujira
 laborsemajno:
@@ -15351,8 +15533,8 @@ letero:
 levantenio:
 - levante
 levi:
-- lifti
 - levi
+- lifti
 levilo:
 - liftitul
 levita:
@@ -15473,8 +15655,8 @@ lieno:
 lifto:
 - liftitora
 ligi:
-- gwanxilinku
 - binde
+- gwanxilinku
 - linku
 ligilo:
 - linkutul
@@ -15493,10 +15675,10 @@ ligno:
 lignobloko:
 - moksayboloku
 ligo:
-- gwanxilinku
-- uncutim
 - binde
+- gwanxilinku
 - linku
+- uncutim
 ligo de rilato:
 - gwanxilinku
 ligverbo:
@@ -15509,7 +15691,6 @@ likve:
 - likwidopul
 likvigi:
 - likwidogi
-- likwido
 likvigita:
 - likwidodo
 likvigite:
@@ -15518,7 +15699,6 @@ likvigo:
 - likwidogi
 likviĝi:
 - likwidocu
-- likwido
 likviĝo:
 - likwidocu
 likvo:
@@ -15772,9 +15952,9 @@ lokiĝinta:
 lokiĝinte:
 - lokado
 loko:
-- lokamon
 - -dom
 - loka
+- lokamon
 lokulo:
 - lokayen
 lokusto:
@@ -15788,13 +15968,13 @@ longe:
 longe antaŭ:
 - teli_lefe
 longe antaŭ ol:
-- teli_leki
 - teli_lefe_na
+- teli_leki
 longe post:
 - teli_xafe
 longe post kiam:
-- teli_xaki
 - teli_xafe_na
+- teli_xaki
 longeco:
 - lungoje
 - lungoya
@@ -15835,8 +16015,8 @@ loĝantaro amplekso:
 loĝanto:
 - ogaryen
 loĝejo:
-- ogardom
 - ogar
+- ogardom
 loĝi:
 - ogar
 luado:
@@ -15858,8 +16038,8 @@ lubrikiĝi:
 lubriko:
 - lubrika
 ludado:
+- pleygi
 - sotigi
-- pley
 ludado de muzikilo:
 - sotigi
 ludanto:
@@ -15873,13 +16053,13 @@ ludema:
 ludeme:
 - yuxifil
 ludi:
+- pleygi
 - sotigi
 - yuxi
-- pley
 ludi muzikilon:
 - sotigi
 ludi muzikon, filmeton:
-- pley
+- pleygi
 ludila butiko:
 - yuxituldukan
 ludilbutiko:
@@ -15888,6 +16068,10 @@ ludilo:
 - yuxitul
 ludisto:
 - yuxiyen
+ludiĝi:
+- pley
+ludiĝo:
+- pley
 ludkubo:
 - dadu
 ludo:
@@ -15939,10 +16123,8 @@ lukto:
 - fundo
 lulado:
 - lula
-- dudul
 luli:
 - lula
-- dudul
 lulilo:
 - yoran
 luma:
@@ -16098,8 +16280,8 @@ makedono:
 maksimuma:
 - maximum
 maksimume:
-- maximummo
 - maximum
+- maximummo
 maksimumo:
 - maximumya
 makulo:
@@ -16407,10 +16589,6 @@ maldungado:
 - exergogi
 maldungi:
 - exergogi
-maldungiĝi:
-- exergo
-maldungo:
-- exergo
 male:
 - fe_oposya
 - opos
@@ -16538,8 +16716,8 @@ malglata:
 malglate:
 - motsupul
 malgranda:
-- lil-
 - lil
+- lil-
 malgranda pando:
 - lilpanda
 - rosopanda
@@ -16585,8 +16763,8 @@ malhavi:
 malhela:
 - luminkal
 malhele:
-- syahemo
 - luminkal
+- syahemo
 malhelpi:
 - possahay
 malhelpo:
@@ -16632,8 +16810,8 @@ malinteligento:
 malio:
 - mali
 maljuna:
-- lao-
 - lao
+- lao-
 maljunaĝo:
 - laoya
 maljuneco:
@@ -16874,11 +17052,11 @@ malnetigita:
 malneto:
 - muswada
 malnova:
-- lama-
 - lama
+- lama-
 malnoveco:
-- lamaya
 - lamaje
+- lamaya
 malo:
 - oposya
 malobea:
@@ -16909,6 +17087,8 @@ malordo:
 - disordenu
 malortodoksa:
 - xinenmal
+malortodokseco:
+- malxinen
 malpardonemo:
 - bunman
 malpeli:
@@ -16940,11 +17120,11 @@ malplaĉe:
 malplej:
 - minim
 malplena:
-- kal
 - -kal
+- kal
 malplene:
-- kal
 - -kal
+- kal
 malpleneco:
 - kalya
 malplenigi:
@@ -16988,11 +17168,11 @@ malprofunde:
 malprofundeco:
 - posamikuya
 malproksima:
-- teli-
 - teli
+- teli-
 malproksime:
-- teli-
 - teli
+- teli-
 malproksime de:
 - teli_fe
 - teli_of
@@ -17086,6 +17266,7 @@ malsaniĝo:
 - bimarcu
 malsano:
 - bimarya
+- osis
 malsanulejo:
 - bimaryendom
 - hospital
@@ -17143,8 +17324,8 @@ malsovaĝigi:
 malsovaĝigo:
 - posyesengi
 malstabileco:
-- nenandinya
 - nenandin
+- nenandinya
 malstreĉado:
 - laxogi
 malstreĉi:
@@ -17219,6 +17400,8 @@ maltrovi:
 - sonxi
 maltrovita:
 - sonxido
+maltroviĝi:
+- sonxi
 maltrovo:
 - sonxi
 malultila:
@@ -17250,6 +17433,10 @@ malvarmigi:
 - bardi
 malvarmo:
 - bardi
+malvarmumi:
+- zukam
+malvarmumigi:
+- zukam
 malvarmumo:
 - zukam
 malvenki:
@@ -17285,9 +17472,9 @@ malĝentile:
 - adabunenfil
 - fahex
 malĝentileco:
+- adabukalya
 - fahexya
 - nenadabu
-- adabukalya
 malĝoja:
 - hazuni
 malĝoje:
@@ -17309,8 +17496,8 @@ malĝusta:
 malĝuste:
 - mal
 malĝusteco:
-- malya
 - malloga
+- malya
 malŝargi:
 - posfuha
 malŝargo:
@@ -17413,8 +17600,8 @@ manuzi:
 manĝanto:
 - yamyen
 manĝaĵo:
-- yamxey
 - yam
+- yamxey
 manĝebla:
 - yamible
 manĝeble:
@@ -17584,7 +17771,6 @@ martireco:
 - xahihuya
 martirigi:
 - xahidugi
-- xahidugi
 martirigita:
 - xahidugido
 martiro:
@@ -17734,10 +17920,10 @@ maĝenta:
 maĝente:
 - magenta
 maŝino:
-- maxina
-- tora
 - -maxina
 - -tora
+- maxina
+- tora
 maŭricia:
 - mawrisli
 maŭriciano:
@@ -17984,6 +18170,9 @@ merdigo:
 - kakagi
 merdo:
 - kaka
+merganta:
+- gotascune
+- gotasne
 merganto:
 - gotasyen
 mergi:
@@ -18037,6 +18226,8 @@ metalo:
 metalurgio:
 - metallogi
 metamorfozi:
+- aloforma
+metamorfoziĝi:
 - aloforma
 metamorfozo:
 - aloforma
@@ -18743,8 +18934,8 @@ mortigo:
 mortinto:
 - moryen
 morto:
-- morya
 - morcu
+- morya
 mortpuni:
 - morgiseza
 mortpuno:
@@ -18773,9 +18964,9 @@ motivita:
 motiviĝi:
 - estimula
 motivo:
+- estimula
 - motif
 - seba
-- estimula
 motoro:
 - motor
 motorsegilo:
@@ -19570,8 +19761,6 @@ netaŭge:
 - nasibukal
 - nennasibune
 - nennasibupul
-'netr: fosiliiĝi':
-- fosil
 netransitiva:
 - nenojetoli
 netransitiva verbo:
@@ -19709,8 +19898,8 @@ nipono:
 nitrogeno:
 - nitrogen
 nivelo:
-- daraje
 - -je
+- daraje
 niĉeo:
 - nice
 niĉo:
@@ -19735,6 +19924,10 @@ noca:
 - sungayne
 noce:
 - sungayne
+nodi:
+- girehe
+nodiĝi:
+- girehe
 nodo:
 - girehe
 nokta:
@@ -19750,8 +19943,8 @@ nomadi:
 nomadismo:
 - yumuku
 nomado:
-- yumukuyen
 - namegi
+- yumukuyen
 nombra:
 - numerli
 nombre:
@@ -19796,8 +19989,8 @@ norme:
 normigi:
 - estandar
 normo:
-- norma
 - estandar
+- norma
 norvegio:
 - norge
 norvego:
@@ -19933,15 +20126,15 @@ obeema:
 obeeme:
 - etatufil
 obei:
-- fukujun
 - etatu
+- fukujun
 obeita:
 - etatudo
 obelisko:
 - obelisko
 obeo:
-- fukujun
 - etatu
+- fukujun
 objekta:
 - ojetoli
 objekte:
@@ -19951,8 +20144,8 @@ objektiva:
 objektive:
 - folfatoli
 objekto:
-- ojeto
 - -yen
+- ojeto
 oblikva:
 - meyludo
 oblikve:
@@ -20332,9 +20525,9 @@ ordoneme:
 ordoni:
 - amiru
 ordono:
+- amiru
 - dodukuamiru
 - teoamiru
-- amiru
 ore:
 - dahabuli
 oreca:
@@ -20358,8 +20551,8 @@ organizi:
 organizita:
 - organisado
 organizo:
-- organisatim
 - organisa
+- organisatim
 organo:
 - organo
 orgeno:
@@ -20387,8 +20580,8 @@ orisio:
 orislando:
 - orisa
 oriso:
-- orisayen
 - orisa
+- orisayen
 orkestrestro:
 - orkestrakef
 orkestro:
@@ -20756,6 +20949,8 @@ paralizi:
 - paralisi
 paralizita:
 - paralisido
+paraliziĝi:
+- paralisi
 paralizo:
 - paralisi
 parametro:
@@ -20818,12 +21013,10 @@ parkado:
 - parkin
 parkejo:
 - parkindom
-parkeri:
-- inmemori
-parkerigado:
-- inmemori
 parkerigi:
-- inmemori
+- inmemorigi
+parkerigo:
+- inmemorigi
 parki:
 - parkin
 parkita:
@@ -20893,8 +21086,8 @@ partio:
 - taraf
 - taraftim
 parto:
-- mon
 - bage
+- mon
 parto klare kaj intence definita:
 - mon
 partoprenanto:
@@ -20955,12 +21148,18 @@ pati:
 patkuko:
 - tawakeke
 pato:
-- tawa
 - patu
+- tawa
 patologia:
 - osisli
+patologia stato:
+- osis
 patologie:
 - osisli
+patologiigi:
+- osisgi
+patologiigo:
+- osisgi
 patologio:
 - -osis
 - osis
@@ -20991,8 +21190,8 @@ patrineco:
 patrini:
 - atre
 patrino:
-- matre
 - atre
+- matre
 patrinujo:
 - atredexa
 patrio:
@@ -21004,9 +21203,9 @@ patriotismo:
 patrioto:
 - dexafilyen
 patro:
+- atre
 - pare
 - patre
-- atre
 patrolando:
 - atredexa
 patrolingvo:
@@ -21033,8 +21232,8 @@ paĝo:
 paŝetulo:
 - juninini
 paŝi:
-- peda
 - kadam
+- peda
 paŝisto:
 - memeyen
 paŝo:
@@ -21044,8 +21243,8 @@ paŭlo:
 paŭso:
 - karduli_basatayti
 paŭzi:
-- wakufacu
 - wakufa
+- wakufacu
 paŭzigi:
 - rahatugi
 - wakufa
@@ -21058,8 +21257,8 @@ paŭziĝi:
 paŭziĝo:
 - wakufacu
 paŭzo:
-- wakufacu
 - wakufa
+- wakufacu
 pedagogia:
 - alimlogili
 pedagogie:
@@ -21134,16 +21333,19 @@ pendlito:
 - hamaka
 pendo:
 - pende
+pendolado:
+- urjuha
 pendolanta:
 - urjuhacune
 - urjuhane
 pendoli:
 - urjuha
+pendoligi:
+- urjuha
 pendolilo:
 - urjuhatul
 pendolo:
 - pendulo
-- urjuha
 pendseruro:
 - pendekuflu
 peni:
@@ -21184,8 +21386,8 @@ pepi:
 peponeto:
 - zukini
 per:
-- yon-
 - yon
+- yon-
 per i:
 - yon_na
 percepti:
@@ -21197,6 +21399,8 @@ perdi:
 - xorwala
 perdita:
 - sonxido
+perdiĝi:
+- sonxi
 perdo:
 - sonxi
 - xorwala
@@ -21296,6 +21500,8 @@ perpleksa:
 - konhwokudo
 perplekse:
 - konhwokudo
+perpleksi:
+- konhwoku
 perpleksiganta:
 - konhwokune
 perpleksigante:
@@ -21333,8 +21539,8 @@ persone:
 personeco:
 - personya
 personigita objekto:
-- yen
 - -yen
+- yen
 persono:
 - person
 - yen
@@ -21433,8 +21639,8 @@ piedfrapo:
 piedingo:
 - rekabu
 piediri:
-- peda
 - anda
+- peda
 piedirigi:
 - andagi
 piedirigo:
@@ -21486,6 +21692,16 @@ pikometro:
 - pikometro
 piktogramo:
 - ikono
+pilgrimado:
+- zyaratu
+pilgrimanto:
+- zyaratuyen
+pilgrimi:
+- zyaratu
+pilgrimo:
+- zyaratu
+pilgrimulo:
+- zyaratuyen
 pilko:
 - bol
 pilo:
@@ -21555,9 +21771,11 @@ piso:
 pistako:
 - pistacyo
 pisti:
-- pure
+- puregi
 pistilo:
 - havungumbo
+pisto:
+- puregi
 pistolo:
 - hantapamtul
 pistujo:
@@ -21571,8 +21789,8 @@ pitono:
 pizo:
 - wendu
 piĉo:
-- pepero
 - flura
+- pepero
 piĝino:
 - pijin
 piĵamo:
@@ -21605,6 +21823,7 @@ planedeto:
 planedo:
 - planeta
 plani:
+- jedwal
 - plani
 planita:
 - planido
@@ -21660,9 +21879,9 @@ plaĉa:
 plaĉe:
 - yukwe
 plaĉi:
+- furaha
 - hoxgi
 - sukigi
-- furaha
 plaĉita:
 - furahado
 plaĉo:
@@ -21760,9 +21979,9 @@ plezurita:
 plezuro:
 - furaha
 pli:
-- maxya
 - max
 - maxmo
+- maxya
 pli aŭ malpli:
 - maxmin
 - maxmo_or_minmo
@@ -21866,6 +22085,9 @@ plirapidiĝi:
 - maxvelosicu
 plirapidiĝo:
 - maxvelosicu
+plonĝanta:
+- gotascune
+- gotasne
 plonĝanto:
 - gotasyen
 plonĝi:
@@ -21911,8 +22133,8 @@ plumo skribilo:
 plur-:
 - plu-
 pluraj:
-- plu-
 - plu
+- plu-
 - pluyali
 plurangulo:
 - plugon
@@ -21970,8 +22192,8 @@ pluvguto:
 pluvi:
 - barix
 pluvo:
-- barixsokutu
 - barix
+- barixsokutu
 pneŭmatiko:
 - tair
 pneŭmonio:
@@ -22017,6 +22239,8 @@ pokero:
 - poker
 pola:
 - polskali
+poleno:
+- fluragubar
 policano:
 - polisiyen
 policejo:
@@ -22122,10 +22346,10 @@ popularigi:
 popularigo:
 - populergi
 por:
-- por-
 - cel
 - fe
 - por
+- por-
 - pro
 por favora/e al:
 - pro
@@ -22304,8 +22528,8 @@ potencego:
 potenco:
 - kowa
 pova:
-- kowapul
 - abil
+- kowapul
 pove:
 - kowapul
 povego:
@@ -22382,8 +22606,8 @@ prazeodimo:
 precipa:
 - cuyo
 precipe:
-- fe_espesyalya
 - cuyo
+- fe_espesyalya
 precipitaĵo:
 - suisokutu
 precipiti:
@@ -22737,15 +22961,15 @@ profilo:
 profitanto:
 - befaydayen
 profiti:
-- lijun
 - fayda
+- lijun
 profitiganto:
 - faydayen
 profitigi:
 - fayda
 profito:
-- lijun
 - fayda
+- lijun
 profito ekonomika:
 - lijun
 profunda:
@@ -22799,8 +23023,8 @@ prokrasti:
 prokrasto:
 - xafeplasi
 proksima:
-- ner-
 - ner
+- ner-
 proksime:
 - ner
 proksime al:
@@ -22891,15 +23115,15 @@ prosperi:
 prostato:
 - prostata
 prostituado:
-- kahabuya
 - kahabuergo
+- kahabuya
 prostitui:
 - kahabugi
 prostituito:
 - kahabu
 prostituo:
-- kahabuya
 - kahabuergo
+- kahabuya
 protagonisto:
 - cuyoatoyen
 protaktinio:
@@ -23060,7 +23284,11 @@ pulso:
 pulvo:
 - pampudra
 pulvorigi:
-- pudra
+- pudragi
+pulvorigo:
+- pudragi
+pulvoriĝo:
+- pudracu
 pulvoro:
 - pudra
 pumiko:
@@ -23106,7 +23334,9 @@ pure:
 pureco:
 - safeya
 pureigi:
-- pure
+- puregi
+pureigo:
+- puregi
 pureo:
 - pure
 purigi:
@@ -23114,11 +23344,11 @@ purigi:
 purigo:
 - safegi
 purpura:
-- vyoleta
 - purpuro
+- vyoleta
 purpure:
-- vyoleta
 - purpuro
+- vyoleta
 purpureca:
 - semipurpuro
 purpurece:
@@ -23194,15 +23424,17 @@ radiano:
 - radyan
 radii:
 - radya
+radiiĝi:
+- radya
 radiko:
 - genu
 radikvorto:
 - genulexi
 radio:
+- radya
 - radyo
 - radyofon
 - radyus
-- radya
 radiografaĵo:
 - radyagrafi
 radiosendilo:
@@ -23221,6 +23453,8 @@ rafano:
 - mulin
 rajdi:
 - yonidi
+rajdisto:
+- joki
 rajdo:
 - yonidi
 rajmundo:
@@ -23251,8 +23485,8 @@ rakontisto:
 rakontita:
 - hikayedo
 rakonto:
-- okurhikaye
 - hikaye
+- okurhikaye
 rakonto pri fantomoj:
 - xabahuhikaye
 ramfastedo:
@@ -23469,6 +23703,11 @@ referendumo:
 - referendum
 reflekti:
 - ayna
+reflektiĝi:
+- ayna
+- aynacu
+reflektiĝo:
+- aynacu
 reflekto:
 - aynaya
 reformacio:
@@ -23564,8 +23803,8 @@ relativa propozicio:
 - hu_denloka
 - hu_in_da
 relative:
-- relativomo
 - relativo
+- relativomo
 relegi:
 - ridoxo
 relego:
@@ -23772,8 +24011,8 @@ restanta:
 restante:
 - restane
 restaĵo:
-- resta
 - harabu
+- resta
 resti:
 - resta
 restigi:
@@ -24039,8 +24278,8 @@ rilata:
 rilate:
 - gwanxipul
 rilate al:
-- fe_tema_fe
 - -li
+- fe_tema_fe
 rilate ligi:
 - gwanxilinku
 rilati:
@@ -24479,8 +24718,8 @@ salutisto:
 saluto:
 - salom
 saluton:
-- xanti
 - salom
+- xanti
 salvadoro:
 - salvadori
 salvio:
@@ -24496,11 +24735,11 @@ sama tipo:
 sama tipo de:
 - samapul
 samario:
-- samaryum
 - samari
+- samaryum
 same:
-- samamo
 - sama
+- samamo
 samloke:
 - samaloka
 sammaniere:
@@ -24934,15 +25173,15 @@ semo:
 - bija
 sen:
 - nenhar
+- nenhar_na
 - nenton
 - wal
-- nenhar_na
 - wal_na
 sen i:
 - nenyon_na
 sen-:
-- wal-
 - -kal
+- wal-
 senagvigita:
 - nensuido
 senagvigite:
@@ -25028,8 +25267,8 @@ senegalano:
 senegalio:
 - senegal
 senegalo:
-- senegalyen
 - senegal
+- senegalyen
 senespera:
 - onxalakal
 senespere:
@@ -25159,8 +25398,8 @@ senmove:
 senmuskola:
 - adolakal
 sennoma:
-- namekalya
 - namekal
+- namekalya
 sennome:
 - namekal
 senodorigilo:
@@ -25219,12 +25458,16 @@ senteme:
 senti:
 - ganjon
 - hisi
+senti anksion:
+- ansya
 senti de interne:
 - ganjon
 senti mankon:
 - walaganjon
 senti mankon de:
 - walaganjon
+senti paranojon:
+- paranoy
 senti plezuron:
 - furaha
 sentima:
@@ -25373,15 +25616,15 @@ sevo:
 sezamo:
 - sesam
 sezono:
-- mosem
 - -mosem
+- mosem
 seĝo:
 - kursi
 sfera:
 - esferli
 sfero:
-- esfer
 - -bol
+- esfer
 sfinkso:
 - esfinxe
 sfinktero:
@@ -25626,6 +25869,8 @@ sinkronigi:
 sinkronigita:
 - sinkronizado
 sinkronigo:
+- sinkroniza
+sinkroniĝi:
 - sinkroniza
 sinmaskanto:
 - maskuyen
@@ -25933,6 +26178,10 @@ solidigi:
 - gutigi
 solidigo:
 - gutigi
+solidiĝi:
+- guticu
+solidiĝo:
+- guticu
 solido:
 - guti
 solinfano:
@@ -25946,6 +26195,8 @@ solvi:
 solvita:
 - halado
 - solusido
+solviĝi:
+- solusi
 solvo:
 - hala
 - solusi
@@ -26007,6 +26258,9 @@ sorbi:
 - absorbi
 sorbiĝi:
 - absorbi
+- absorbicu
+sorbiĝo:
+- absorbicu
 sorbo:
 - absorbi
 sorgo:
@@ -26054,6 +26308,10 @@ spami:
 - espam
 spamo:
 - espam
+spasmi:
+- krampe
+spasmigi:
+- krampe
 spasmo:
 - krampe
 spatelo:
@@ -26063,8 +26321,8 @@ spavo:
 speciala:
 - espesyal
 speciale:
-- fe_espesyalya
 - espesyal
+- fe_espesyalya
 specifa:
 - especifi
 specife:
@@ -26087,8 +26345,15 @@ specio:
 - jongu
 speco:
 - tipo
+spegulado:
+- aynaya
 speguli:
 - ayna
+speguliĝi:
+- ayna
+- aynacu
+speguliĝo:
+- aynacu
 spegulo:
 - ayna
 spektado:
@@ -26268,6 +26533,8 @@ startanta:
 - xorune
 starti:
 - xoru
+startigi:
+- xoru
 startita:
 - xorudo
 starto:
@@ -26431,8 +26698,8 @@ studio:
 studita:
 - estudido
 studo:
-- logi
 - estudi
+- logi
 studo de:
 - logi
 stuki:
@@ -26479,6 +26746,9 @@ subakvigi:
 - gotas
 subakvigo:
 - gotas
+subakviĝanta:
+- gotascune
+- gotasne
 subakviĝanto:
 - gotasyen
 subakviĝi:
@@ -26492,11 +26762,11 @@ subaĉeti:
 subaĉeto:
 - raxwaya
 sube:
-- fe_baxya
 - baxli
+- fe_baxya
 subeco:
-- infer
 - baxya
+- infer
 suben:
 - cel_bax
 subetaĝo:
@@ -26526,8 +26796,8 @@ submara:
 submare:
 - baxbaharili
 submeti:
-- fukujun
 - baxplasi
+- fukujun
 - submiti
 submeti sin:
 - fukujun
@@ -26643,8 +26913,8 @@ sufikso:
 sufiĉa:
 - kufi
 sufiĉe:
-- kufimo
 - kufi
+- kufimo
 sufiĉe granda:
 - kufiday
 sukceno:
@@ -26708,8 +26978,8 @@ sunleviĝi:
 sunleviĝo:
 - solasupracu
 suno:
-- sura
 - sola
+- sura
 sunplena:
 - solapul
 sunplene:
@@ -26768,9 +27038,9 @@ supra brako:
 supra-:
 - supra-
 supre:
-- fe_super
 - fe_kapi
 - fe_perya
+- fe_super
 - fe_supracengu
 - suprali
 supre sur:
@@ -26862,6 +27132,8 @@ surprizi:
 - surprisa
 surprizita:
 - surprisado
+surpriziĝi:
+- surprisa
 surprizo:
 - surprisa
 surrena:
@@ -26876,10 +27148,10 @@ surterigo:
 - pergeogi
 surteriĝi:
 - finfley
-- pergeo
+- pergeocu
 surteriĝo:
 - finfley
-- pergeo
+- pergeocu
 surtuto:
 - kotu
 surĉevaliĝi:
@@ -27195,8 +27467,8 @@ taŭismo:
 taŭisto:
 - daoista
 teamo:
-- tim
 - -tim
+- tim
 teatra:
 - teatroli
 teatraĵo:
@@ -27296,15 +27568,17 @@ templo:
 - dinidom
 - ibadadom
 tempo:
-- watu
 - kurto_watu
+- watu
+tempoplani:
+- jedwal
 tempoplano:
 - jedwal
 tendarfajro:
 - kampiatex
 tendenco:
-- moda
 - filya
+- moda
 tendeno:
 - tendon
 tendo:
@@ -27428,11 +27702,13 @@ ternuksa ŝmiraĵo:
 ternuksbutero:
 - pinatukrema
 tero:
+- dunya
 - geo
 - turan
-- dunya
 terpeco:
 - geomon
+terpiro:
+- solagenu
 terpomo:
 - patato
 tertremo:
@@ -27584,8 +27860,8 @@ timiganta:
 timige:
 - fobine
 timigi:
-- yonfobi
 - fobi
+- yonfobi
 timigita:
 - fobido
 timigite:
@@ -27620,17 +27896,17 @@ tio ĉi:
 tioj:
 - denoto
 tiom:
-- denkwanti
-- daydenmo
-- denmo
 - daydenkwanti
+- daydenmo
 - daydennumer
+- denkwanti
+- denmo
 tiom da:
 - daydenkwanti
 - daydennumer
 tiom multe:
-- denmo_multi
 - daydenmo_multi
+- denmo_multi
 tiom ĉi:
 - hinkwanti
 tiom... kiom...:
@@ -27726,6 +28002,8 @@ tonsilo:
 - kogebadam
 topazo:
 - topazi
+topinamburo:
+- solagenu
 tordanta:
 - espiralcune
 - espiralne
@@ -27769,8 +28047,6 @@ totale dum:
 - dur_total
 toŭfuo:
 - tofu
-'tr: fosiliigi':
-- fosil
 tra:
 - pas
 tra-:
@@ -27797,14 +28073,58 @@ trae:
 - pasli
 trafi:
 - jijon
-trafi de skorbuto:
-- eskorbuto
 trafiko:
 - trafiko
 trafikŝtopiĝo:
 - burtrafiko
+trafiĝi de artrito:
+- artroitis
+- artroitiscu
+trafiĝi de astmon:
+- astama
+- astamacu
+trafiĝi de diabeto:
+- dyabetes
+trafiĝi de encefalito:
+- mogeitis
+trafiĝi de epilepsio:
+- epilepsi
+trafiĝi de febro:
+- homa
+trafiĝi de gonoreo:
+- gonorey
+trafiĝi de hepatito:
+- ganzoitis
+trafiĝi de herpeto:
+- herpes
+trafiĝi de hipotermio:
+- infratermo
+trafiĝi de kancero:
+- kancer
+trafiĝi de katarakto:
+- katarata
+trafiĝi de lakso:
+- ishal
+trafiĝi de lepro:
+- juzam
+trafiĝi de malario:
+- malarya
+trafiĝi de malsano:
+- osis
+trafiĝi de manio:
+- manika
+trafiĝi de panikatako:
+- panikokrisis
+trafiĝi de reŭmatismo:
+- rewmati
+trafiĝi de rubeolo:
+- funjin
+trafiĝi de skizofrenio:
+- eskizofreni
 trafiĝi de skorbuto:
 - eskorbuto
+trafiĝi de ĥolero:
+- kolera
 trafo:
 - jijon
 tragedia:
@@ -27877,6 +28197,12 @@ transatlantike:
 - trasatlantikoli
 transe:
 - trasli
+transformi:
+- aloforma
+transformiĝi:
+- aloforma
+transformo:
+- aloforma
 transgenra:
 - trasjensili
 - trasli
@@ -28199,22 +28525,22 @@ tubsonoriloj:
 tuj:
 - fori
 tuj antaŭ:
-- jalefe
 - fori_lefe
+- jalefe
 tuj antaŭ ol:
-- fori_leki
-- jaleki
 - fori_lefe_na
+- fori_leki
 - jalefe_na
+- jaleki
 tuj kiam:
 - fori_xaki
 tuj post:
-- jaxafe
 - fori_xafe
+- jaxafe
 tuj post kiam:
-- jaxaki
 - fori_xafe_na
 - jaxafe_na
+- jaxaki
 tuj poste:
 - fori_xaki
 tuja:
@@ -28236,8 +28562,8 @@ tukano:
 tukmena:
 - turkmenili
 tuko:
-- kumax
 - -kumax
+- kumax
 tulio:
 - tulyum
 tulipo:
@@ -28331,8 +28657,8 @@ tutcerta:
 tutcerte:
 - totalyakin
 tute:
-- totalmo
 - total
+- totalmo
 tute dum:
 - total_dur
 tute ĉirkaŭ:
@@ -28391,10 +28717,16 @@ ukrainujo:
 - ukraina
 ukrajno:
 - ukraina
+ulcerigi:
+- ulcera
 ulceriĝi:
 - ulcera
 ulcero:
 - ulcera
+'ulgenraj substantivoj: amuzita':
+- amusapul
+'ulgenraj substantivoj: mirigita':
+- waopul
 ulino:
 - femyen
 ulmo:
@@ -28429,8 +28761,8 @@ unika:
 unike:
 - solunpul
 unio:
-- uncutim
 - uncu
+- uncutim
 uniri:
 - pixi
 unirigi:
@@ -28482,8 +28814,8 @@ unuiĝintaj arabaj emirlandoj:
 unuiĝinte:
 - uncudo
 unuiĝo:
-- uncutim
 - uncu
+- uncutim
 unukorno:
 - unsungoyen
 unukornulo:
@@ -28499,9 +28831,9 @@ ununura:
 ununure:
 - solunpul
 unuo:
+- -mon
 - unxey
 - unyen
-- -mon
 unuopaĵo:
 - un_solo
 unuopulo:
@@ -28628,9 +28960,9 @@ vagina:
 vagine:
 - vaginali
 vagino:
+- flura
 - pepero
 - vagina
-- flura
 vagono:
 - wagon
 vagulo:
@@ -28698,8 +29030,8 @@ vanilo:
 vanuatuo:
 - vanwatu
 vaporkuiri:
-- buharkoki
 - buhar
+- buharkoki
 vaporkuirita:
 - buhardo
 vaporkuiro:
@@ -29018,9 +29350,13 @@ vestaĉo:
 vestaĵo:
 - labas
 vesti:
-- inlabas
+- inlabasgi
+vestiĝi:
+- inlabascu
 vestiĝi per:
 - labas
+vestiĝo:
+- inlabascu
 vesto:
 - labas
 vestoŝranko:
@@ -29397,8 +29733,8 @@ vojaĝanta:
 vojaĝanto:
 - daoyen
 vojaĝi:
-- turi
 - dao
+- turi
 vojaĝi en:
 - turi
 vojaĝinta:
@@ -29411,9 +29747,9 @@ vojaĝo:
 - daoya
 - turi
 vojo:
+- dao
 - daydolo
 - dolo
-- dao
 vokala:
 - mwinli
 vokalo:
@@ -29421,8 +29757,8 @@ vokalo:
 voki:
 - voka
 voko:
-- vokaya
 - voka
+- vokaya
 vola:
 - volepul
 volanludo:
@@ -29515,10 +29851,10 @@ vulpo:
 vulturo:
 - nasru
 vulvo:
+- flura
 - pepero
 - vulva
 - vuvu
-- flura
 vundi:
 - juruha
 vundita:
@@ -29554,6 +29890,8 @@ zigzaganta:
 - zigzagucune
 - zigzagune
 zigzagi:
+- zigzagu
+zigzagigi:
 - zigzagu
 zigzago:
 - zigzagu
@@ -29661,6 +29999,8 @@ zumo:
 - lawfendo
 ĉagrenite:
 - lawfendo
+ĉagreniĝi:
+- lawfen
 ĉagreno:
 - lawfen
 ĉambro:
@@ -29742,15 +30082,15 @@ zumo:
 - presenli
 - presenne
 ĉeesti:
-- presen
 - inpresen
+- presen
 ĉeesti ion:
 - inpresen
 ĉeesti ĝenerale:
 - presen
 ĉeesto:
-- presen
 - inpresen
+- presen
 ĉefa:
 - cuyo
 ĉefa afergvida oficisto:
@@ -30020,8 +30360,8 @@ zumo:
 - lifafado
 ĉiu:
 - moy
-- moyun
 - moyte
+- moyun
 ĉiu ajn:
 - he_moy
 ĉiu alia:
@@ -30067,8 +30407,8 @@ zumo:
 ĉuri:
 - ejakula
 ĉuro:
-- ejakulaxey
 - ejakula
+- ejakulaxey
 ĉurovo:
 - bol
 - ceri
@@ -30110,6 +30450,8 @@ zumo:
 - lawfendo
 ĝenite:
 - lawfendo
+ĝeniĝi:
+- lawfen
 ĝeno:
 - lawfen
 ĝentila:
@@ -30149,10 +30491,10 @@ zumo:
 ĝirafo:
 - jirafa
 ĝis:
-- xanti
-- weda
 - finfe
 - lefe_or_fe
+- weda
+- xanti
 ĝis kiam:
 - finki
 ĝis la fundo:
@@ -30266,6 +30608,8 @@ zumo:
 - jinsu
 ĵipo:
 - jipu
+ĵokeo:
+- joki
 ĵokero:
 - joker
 ĵonglado:
@@ -30427,9 +30771,11 @@ zumo:
 ŝatokupo:
 - hobi
 - huruwatu
-ŝaumi:
+ŝaŭmi:
 - pena
-ŝaumo:
+ŝaŭmigi:
+- pena
+ŝaŭmo:
 - pena
 ŝelo:
 - kexru
@@ -30456,8 +30802,8 @@ zumo:
 ŝildi:
 - dalu
 ŝildo:
-- jentodalu
 - dalu
+- jentodalu
 ŝima:
 - kuvupul
 ŝimi:
@@ -30501,8 +30847,8 @@ zumo:
 ŝlosi:
 - kuflu
 ŝlosilo:
-- yawxe
 - kuflu
+- yawxe
 ŝlosita:
 - kufludo
 ŝlosite:
