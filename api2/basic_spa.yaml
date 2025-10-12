@@ -1230,8 +1230,8 @@ aloforma:
   term: aloforma
   class: b.oro
   category: derived
-  translation: transformaci&oacute;n, metamorfosis, tra(n)sfiguraci&oacute;n; transformar,
-    metamorfosear, tra(n)sfigurar; transformarse, metamorfosearse, tra(n)sfigurarse
+  translation: transformaci&oacute;n, tra(n)sfiguraci&oacute;n; transformar, tra(n)sfigurar;
+    transformarse, tra(n)sfigurarse
 aloformacu:
   term: aloformacu
   class: b.nenoj
@@ -1295,6 +1295,16 @@ alomo:
   category: derived
   translation: de manera diferente (<em>para describir adjetivos y adverbios</em>),
     de manera distinta, de otra manera, de otro modo
+alomorfo:
+  term: alomorfo
+  class: b.oro
+  category: derived
+  translation: metamorfosis; metamorfosear; metamorfosearse
+alomorfocu:
+  term: alomorfocu
+  class: b.nenoj
+  category: derived
+  translation: metamorfosis; metamorfosearse
 alondra:
   term: alondra
   class: b
@@ -2227,11 +2237,6 @@ armonicu:
   class: b.nenoj
   category: derived
   translation: ""
-armonigi:
-  term: armonigi
-  class: b.oj
-  category: derived
-  translation: (h)armonizaci&oacute;n; (h)armonizar
 armonika:
   term: armonika
   class: b
@@ -9676,6 +9681,11 @@ duacen:
   class: num
   category: derived
   translation: doscientos
+duacidi:
+  term: duacidi
+  class: b
+  category: derived
+  translation: ""
 duades:
   term: duades
   class: num
@@ -9731,6 +9741,11 @@ dualim:
   class: b
   category: derived
   translation: ense&ntilde;anza (<em>acci&oacute;n</em>)
+dualkohol:
+  term: dualkohol
+  class: b
+  category: derived
+  translation: ""
 duamwin:
   term: duamwin
   class: b
@@ -9756,6 +9771,11 @@ duaple_basun:
   class: b
   category: derived
   translation: contrafagot
+duarmoni:
+  term: duarmoni
+  class: b
+  category: derived
+  translation: ""
 duatyan:
   term: duatyan
   class: b
@@ -13575,7 +13595,7 @@ fluores:
   term: fluores
   class: b.nenoj
   category: root
-  translation: fluorescencia; tener fluorescencia
+  translation: fluorescencia; tener fluorescencia, ser fluorescente
 fluorin:
   term: fluorin
   class: b
@@ -14717,7 +14737,7 @@ gawluli:
   term: gawluli
   class: t
   category: derived
-  translation: gutural
+  translation: gutural; guturalmente
 gawni:
   term: gawni
   class: b
@@ -15700,7 +15720,7 @@ guticu:
 gutigi:
   term: gutigi
   class: b.oj
-  category: ""
+  category: derived
   translation: solidificaci&oacute;n; solidificar
 gutipul:
   term: gutipul
@@ -17504,6 +17524,11 @@ hwegay:
   category: root
   translation: arrepentimiento, remordimiento; arrepentirse (de), sentir remordimiento
     por
+hwehyon:
+  term: hwehyon
+  class: b
+  category: root
+  translation: hinojo
 hwepi:
   term: hwepi
   class: b.oj
@@ -27222,6 +27247,16 @@ mekuku:
   class: b
   category: root
   translation: lanzadera
+melankoli:
+  term: melankoli
+  class: t
+  category: root
+  translation: melanc&oacute;lico
+melankoliya:
+  term: melankoliya
+  class: b
+  category: derived
+  translation: melancol&iacute;a
 melase:
   term: melase
   class: b
@@ -34736,7 +34771,7 @@ rasuberi:
     peluda, mora terrera, mora terrestre, sang&uuml;esa, uva de oso
 rasyon:
   term: rasyon
-  class: ""
+  class: b.oj
   category: root
   translation: ""
 rato:
@@ -37229,8 +37264,8 @@ sili:
   class: t
   category: derived
   translation: afirmativo, positivo
-silikon:
-  term: silikon
+silicyum:
+  term: silicyum
   class: b
   category: root
   translation: silicio, Si
@@ -44793,7 +44828,7 @@ zway:
   translation: mosca, <em>Diptera</em>
 zyaratu:
   term: zyaratu
-  class: ""
+  class: b.nenoj
   category: root
   translation: peregrinaci&oacute;n, peregrinaje; peregrinar
 zyaratuyen:

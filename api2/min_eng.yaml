@@ -48,7 +48,7 @@
 -mosem: <em>(b xfik)</em> season
 -musi: <em>(t xfik)</em> which must
 -ne: <em>(t xfik)</em> <em>in an active state or process of</em>
--osis: <em>(b xfik)</em> pathology
+-osis: <em>(b xfik)</em> pathology, -osis
 -pel: <em>(b xfik)</em> drive to, make want to, cause to want to
 -ple: <em>(t xfik)</em> -uble, -iple, -uple
 -pul: <em>(t xfik)</em> with enough or more than enough, -ful, -ous
@@ -272,6 +272,9 @@ aloloka: <em>(m)</em> elsewhere, somewhere else
 alomaner: <em>(m)</em> by another manner, by a different manner, in another manner,
   in a different manner
 alomo: <em>(m)</em> to a different degree
+alomorfo: '<em>(b.oro)</em> metamorphosis; tr/intr (optional -cu): metamorphose, metamorphize'
+alomorfocu: '<em>(b.nenoj)</em> metamorphosis; intr (optional -cu): metamorphose,
+  metamorphize'
 alondra: <em>(b)</em> lark, <em>Alaudidae</em>
 alonumer: <em>(d)</em> a different number of
 aloopsyon: <em>(b)</em> alternative
@@ -464,7 +467,6 @@ arko: <em>(b)</em> arc, arch, bow
 armadilo: <em>(b)</em> armadillo, <em>Cingulata</em>
 armoni: '<em>(b.oro)</em> harmony; tr: harmonize; intr (optional -cu): become harmonized'
 armonicu: '<em>(b.nenoj)</em> harmonization; intr (optional -cu): become harmonized'
-armonigi: <em>(b.oj)</em> harmonization; harmonize
 armonika: <em>(b)</em> harmonica
 armonipul: <em>(t)</em> harmonious; harmoniously
 aron: <em>(su n)</em> Aaron
@@ -542,8 +544,9 @@ ata: <em>(b.nenoj)</em> coming; come
 atake: <em>(b.oj)</em> attack; attack, charge
 atakefil: <em>(t)</em> aggressive; aggressively
 atakeyen: <em>(b)</em> attacker
-atex: '<em>(b.oro)</em> fire; tr: burn (<em>destroy with fire</em>); intr (optional
-  -cu): burn (<em>be on fire, be consumed by fire</em>)'
+atex: '<em>(b.oro)</em> fire; tr: burn (<em>damage, destroy or consume with fire</em>);
+  intr (optional -cu): burn (<em>be on fire, be damaged, destroyed or consumed by
+  fire</em>)'
 atexcu: '<em>(b.nenoj)</em> intr (optional -cu): burn (<em>be on fire, be consumed
   by fire</em>)'
 atexcune: <em>(t)</em> burning
@@ -1983,6 +1986,7 @@ duabasayen: <em>(b)</em> bilingual speaker
 duabioyen: <em>(b)</em> amphibian
 duacalun: <em>(b)</em> bicycle
 duacen: <em>(num)</em> two hundred
+duacidi: <em>(b)</em> acidification
 duades: <em>(num)</em> twenty
 duadesgon: <em>(b)</em> icosagon, 20-gon
 duadesple: <em>(t)</em> vigintuple, twentyfold
@@ -1994,11 +1998,13 @@ duajensifil: <em>(t)</em> bisexual; bisexually
 duajensifilya: <em>(b)</em> bisexuality
 dualabyali: <em>(b)</em> bilabial
 dualim: <em>(b)</em> (act of) teaching
+dualkohol: <em>(b)</em> alcoholization
 duamwin: <em>(b)</em> diphthong
 duapedali: <em>(t)</em> bipedal; bipedally
 duaple: <em>(t)</em> double, twofold
 duaple_baso: <em>(b)</em> double bass, contrabass
 duaple_basun: <em>(b)</em> contrabassoon, double bassoon
+duarmoni: <em>(b)</em> harmonization
 duatyan: <em>(b)</em> colon (<em>punctuation</em>)
 duaxey: <em>(b)</em> duo, couple, pair
 duaya: <em>(b)</em> duality
@@ -3002,7 +3008,7 @@ garakune: <em>(t)</em> drowning, sinking
 garanti: <em>(b.oj)</em> guarantee, warranty; guarantee
 garantido: <em>(t)</em> guaranteed
 gardan: <em>(b)</em> neck
-gardanbendu: <em>(b)</em> necklace, neckband
+gardanbendu: <em>(b)</em> necklace, neckband, collar
 gardi: <em>(b.oj)</em> protection; guard, protect
 gardido: <em>(t)</em> protected, guarded
 gardiyen: <em>(b)</em> protector, guard
@@ -3019,7 +3025,7 @@ gasgi: '<em>(b.oj)</em> gasification; tr: gasify (cause to become a gas)'
 gasolin: <em>(b)</em> gasoline, gas, petrol
 gaspul: <em>(t)</em> gaseous
 gawlu: <em>(b)</em> throat
-gawluli: <em>(t)</em> guttural; gutturally
+gawluli: <em>(t)</em> guttural, throaty; gutturally, throatily
 gawni: <em>(b)</em> gown, robe
 gayser: <em>(b)</em> geyser
 gaza: <em>(su n)</em> Gaza (Strip)
@@ -3067,7 +3073,7 @@ gidado: <em>(t)</em> guided
 gidane: <em>(t)</em> guiding
 gidatul: <em>(b)</em> guide, legend, key
 gidayen: <em>(b)</em> guide
-giga: <em>(num)</em> billion, one billion
+giga: <em>(num)</em> billion, one billion, 10^9
 gigagon: <em>(b)</em> gigagon, 1000000000-gon
 giganyan: <em>(b)</em> gigayear
 gigi: <em>(b)</em> vagina (<em>non-clinical</em>)
@@ -3361,7 +3367,7 @@ hataya: <em>(b)</em> spite (<em>only in the sense of &ldquo;despite&rdquo; and &
 haul: <em>(b)</em> wolf, <em>Canis lupus</em>
 haulsa: <em>(b.nenoj)</em> howl
 havun: <em>(b)</em> mortar (<em>pounding vessel</em>)
-havungumbo: <em>(b)</em> pestle
+havungumbo: <em>(b)</em> pestle, muddler
 hawa: <em>(b)</em> air
 hawa-: <em>(lfik)</em> aero-, air-
 hawagile: <em>(t)</em> humid
@@ -3597,6 +3603,7 @@ hwamne: <em>(t)</em> yawning
 hwandun: <em>(b)</em> brass
 hwanjin: <em>(b)</em> environment, ambience, ambiance
 hwegay: <em>(b.oj)</em> remorse; repent, feel remorse (for)
+hwehyon: <em>(b)</em> fennel
 hwepi: <em>(b.oj)</em> avoidance, evasion; avoid, evade, dodge
 hwepido: <em>(t)</em> avoided, evaded, dodged
 hwese: <em>(t)</em> gray, grey
@@ -5582,6 +5589,8 @@ mekanili: <em>(t)</em> mechanic, mechanical; mechanically
 mekanilogi: <em>(b)</em> mechanics
 mekaniyen: <em>(b)</em> mechanic
 mekuku: <em>(b)</em> shuttle (<em>sewing tool or vehicle</em>)
+melankoli: <em>(t)</em> melancholic; melancholically
+melankoliya: <em>(b)</em> malancholy
 melase: <em>(b)</em> molasses, treacle
 meli: <em>(t)</em> beautiful, pretty; beautifully, prettily
 meli-: <em>(lfik)</em> beautiful, pretty
@@ -7108,7 +7117,7 @@ rasona: <em>(b.oj)</em> reason (<em>logical thought</em>), reasoning; reason
 rasonali: <em>(t)</em> rational; rationally
 rasonapul: <em>(t)</em> reasonable; reasonably
 rasuberi: <em>(b)</em> raspberry, <em>Rubus idaeus</em>
-rasyon: <em>()</em> ration(s), provision(s)
+rasyon: <em>(b.oj)</em> ration(s), provision(s); ration
 rato: <em>(b)</em> rat
 raxwa: <em>(b.oj)</em> bribe; bribe
 raxwaya: <em>(b)</em> bribery
@@ -7287,7 +7296,7 @@ rusi: <em>(su n)</em> Russia
 rusili: <em>(t)</em> Russian
 rusisa: <em>(b)</em> Russian (language)
 rusiyen: <em>(b)</em> Russian (person)
-rusoti: <em>(b)</em> echo
+rusoti: <em>(b)</em> echo; echo
 rutenyum: <em>(b)</em> ruthenium, Ru
 rutina: <em>(b)</em> routine
 rutinali: <em>(t)</em> routine; routinely
@@ -7614,7 +7623,7 @@ sikomedisyen: <em>(b)</em> psychiatrist
 sikoosis: <em>(b)</em> psychosis
 sikoosisli: <em>(t)</em> psychotic; psychotically
 sili: <em>(t)</em> affirmative, positive; affirmatively, positively
-silikon: <em>(b)</em> silicon, Si
+silicyum: <em>(b)</em> silicon, Si
 silofon: <em>(b)</em> xylophone
 silsila: <em>(b)</em> chain
 silsilamon: <em>(b)</em> link (<em>of chain</em>)
@@ -9157,6 +9166,6 @@ zungu: <em>(b)</em> trace, track, trail
 zungufolo: <em>(b)</em> tracking, tracing; track, trace
 zuraka: <em>(b)</em> jay (<em>bird</em>)
 zway: <em>(b)</em> fly (<em>insect</em>), <em>Diptera</em>
-zyaratu: <em>()</em> pilgrimage; (go on a) pilgrimage, peregrinate
+zyaratu: <em>(b.nenoj)</em> pilgrimage; (go on a) pilgrimage, peregrinate
 zyaratuyen: <em>(b)</em> pilgrim
 ...

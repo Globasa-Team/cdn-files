@@ -1214,8 +1214,8 @@ aloforma:
   term: aloforma
   class: b.oro
   category: derived
-  translation: transformo, metamorfozo, aliformiĝo, aliformigo; transformi, aliformigi,
-    metamorfozi; transformiĝi, aliformiĝi, metamorfoziĝi
+  translation: transformo, aliformiĝo, aliformigo; transformi, aliformigi; transformiĝi,
+    aliformiĝi
 aloformacu:
   term: aloformacu
   class: b.nenoj
@@ -1276,6 +1276,16 @@ alomo:
   class: m
   category: derived
   translation: aligrade
+alomorfo:
+  term: alomorfo
+  class: b.oro
+  category: derived
+  translation: metamorfozo; metamorfozi; metamorfoziĝi
+alomorfocu:
+  term: alomorfocu
+  class: b.nenoj
+  category: derived
+  translation: metamorfozo, metamorfoziĝo; metamorfoziĝi
 alondra:
   term: alondra
   class: b
@@ -2196,11 +2206,6 @@ armonicu:
   class: b.nenoj
   category: derived
   translation: harmoniado; harmonii, esti harmonia
-armonigi:
-  term: armonigi
-  class: b.oj
-  category: derived
-  translation: harmoniigo; harmoniigi
 armonika:
   term: armonika
   class: b
@@ -9584,6 +9589,11 @@ duacen:
   class: num
   category: derived
   translation: ducent
+duacidi:
+  term: duacidi
+  class: b
+  category: derived
+  translation: acidiĝo, acidigo
 duades:
   term: duades
   class: num
@@ -9639,6 +9649,11 @@ dualim:
   class: b
   category: derived
   translation: instruado
+dualkohol:
+  term: dualkohol
+  class: b
+  category: derived
+  translation: alkoholado, alkoholiĝo
 duamwin:
   term: duamwin
   class: b
@@ -9664,6 +9679,11 @@ duaple_basun:
   class: b
   category: derived
   translation: kontrafagoto
+duarmoni:
+  term: duarmoni
+  class: b
+  category: derived
+  translation: harmoniigo, harmoniado
 duatyan:
   term: duatyan
   class: b
@@ -14584,7 +14604,7 @@ gawluli:
   term: gawluli
   class: t
   category: derived
-  translation: gorĝa
+  translation: gorĝa; gorĝe
 gawni:
   term: gawni
   class: b
@@ -15557,7 +15577,7 @@ guticu:
 gutigi:
   term: gutigi
   class: b.oj
-  category: ""
+  category: derived
   translation: solidigo; solidigi
 gutipul:
   term: gutipul
@@ -17344,6 +17364,11 @@ hwegay:
   class: b.oj
   category: root
   translation: pento, memriproĉo; penti, bedaŭri
+hwehyon:
+  term: hwehyon
+  class: b
+  category: root
+  translation: fenkolo
 hwepi:
   term: hwepi
   class: b.oj
@@ -26969,6 +26994,16 @@ mekuku:
   class: b
   category: root
   translation: navedo, navedŝipo
+melankoli:
+  term: melankoli
+  class: t
+  category: root
+  translation: melankolia
+melankoliya:
+  term: melankoliya
+  class: b
+  category: derived
+  translation: melankolio
 melase:
   term: melase
   class: b
@@ -34411,7 +34446,7 @@ rasuberi:
   translation: frambo, ida rubuso
 rasyon:
   term: rasyon
-  class: ""
+  class: b.oj
   category: root
   translation: provianto, porcio
 rato:
@@ -35288,7 +35323,7 @@ rusoti:
   term: rusoti
   class: b
   category: derived
-  translation: eĥo, ekoo
+  translation: eĥo, ekoo; eĥi
 rutenyum:
   term: rutenyum
   class: b
@@ -36885,8 +36920,8 @@ sili:
   class: t
   category: derived
   translation: jesa; jese
-silikon:
-  term: silikon
+silicyum:
+  term: silicyum
   class: b
   category: root
   translation: silicio
@@ -44377,7 +44412,7 @@ zway:
   translation: muŝo
 zyaratu:
   term: zyaratu
-  class: ""
+  class: b.nenoj
   category: root
   translation: pilgrimo, pilgrimado; pilgrimi
 zyaratuyen:

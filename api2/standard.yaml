@@ -341,7 +341,7 @@
       - volver
       - tornar
     deu:
-    - - markiert transitive Verben_
+    - - <em>markiert transitive Verben</em>
       - machen
       - auslösen
     fra: []
@@ -1090,6 +1090,7 @@
   trans:
     eng:
     - - pathology
+      - -osis
     epo:
     - - patologio
       - -ozo
@@ -6490,24 +6491,18 @@ aloforma:
     - - 'tr/intr (optional -cu): transform'
     epo:
     - - transformo
-      - metamorfozo
       - aliformiĝo
       - aliformigo
     - - transformi
       - aliformigi
-      - metamorfozi
     - - transformiĝi
       - aliformiĝi
-      - metamorfoziĝi
     spa:
     - - transformación
-      - metamorfosis
       - tra(n)sfiguración
     - - transformar
-      - metamorfosear
       - tra(n)sfigurar
     - - transformarse
-      - metamorfosearse
       - tra(n)sfigurarse
     deu: []
     fra: []
@@ -6815,6 +6810,59 @@ alomo:
     - alo-
     - +
     - -mo
+alomorfo:
+  term: alomorfo
+  word class: b.oro
+  category: derived
+  trans:
+    eng:
+    - - metamorphosis
+    - - 'tr/intr (optional -cu): metamorphose'
+      - metamorphize
+    epo:
+    - - metamorfozo
+    - - metamorfozi
+    - - metamorfoziĝi
+    spa:
+    - - metamorfosis
+    - - metamorfosear
+    - - metamorfosearse
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - alo-
+    - +
+    - morfo
+alomorfocu:
+  term: alomorfocu
+  word class: b.nenoj
+  category: derived
+  trans:
+    eng:
+    - - metamorphosis
+    - - 'intr (optional -cu): metamorphose'
+      - metamorphize
+    epo:
+    - - metamorfozo
+      - metamorfoziĝo
+    - - metamorfoziĝi
+    spa:
+    - - metamorfosis
+    - - metamorfosearse
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - alo-
+    - +
+    - morfo
+    - +
+    - -cu
 alondra:
   term: alondra
   word class: b
@@ -11915,29 +11963,6 @@ armonicu:
     - armoni
     - +
     - -cu
-armonigi:
-  term: armonigi
-  word class: b.oj
-  category: derived
-  trans:
-    eng:
-    - - harmonization
-    - - harmonize
-    epo:
-    - - harmoniigo
-    - - harmoniigi
-    spa:
-    - - (h)armonización
-    - - (h)armonizar
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-  etymology:
-    derived:
-    - armoni
-    - +
-    - -gi
 armonika:
   term: armonika
   word class: b
@@ -13856,8 +13881,9 @@ atex:
   trans:
     eng:
     - - fire
-    - - 'tr: burn (<em>destroy with fire</em>)'
-    - - 'intr (optional -cu): burn (<em>be on fire, be consumed by fire</em>)'
+    - - 'tr: burn (<em>damage, destroy or consume with fire</em>)'
+    - - 'intr (optional -cu): burn (<em>be on fire, be damaged, destroyed or consumed
+        by fire</em>)'
     epo:
     - - fajro
     - - fajri (<em>konsumiĝi de fajro</em>)
@@ -49688,6 +49714,26 @@ duacen:
     - dua
     - +
     - cen
+duacidi:
+  term: duacidi
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - acidification
+    epo:
+    - - acidiĝo
+      - acidigo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - du-
+    - +
+    - acidi
 duades:
   term: duades
   word class: num
@@ -49956,6 +50002,26 @@ dualim:
     - du-
     - +
     - alim
+dualkohol:
+  term: dualkohol
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - alcoholization
+    epo:
+    - - alkoholado
+      - alkoholiĝo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - du-
+    - +
+    - alkohol
 duamwin:
   term: duamwin
   word class: b
@@ -50075,6 +50141,26 @@ duaple_basun:
     - dua
     - +
     - -ple
+duarmoni:
+  term: duarmoni
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - harmonization
+    epo:
+    - - harmoniigo
+      - harmoniado
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+  etymology:
+    derived:
+    - du-
+    - +
+    - armoni
 duatyan:
   term: duatyan
   word class: b
@@ -69953,10 +70039,11 @@ fluores:
     spa:
     - - fluorescencia
     - - tener fluorescencia
-    deu: []
-    fra:
-    - - fluorescence
-    - - fluorescer
+      - ser fluorescente
+    deu:
+    - - Fluoreszenz
+    - - fluoreszieren
+    fra: []
     rus: []
     zho:
     - - 荧光
@@ -70128,13 +70215,18 @@ flutu:
     - - fluto
     spa:
     - - flauta
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Flöte
+    fra:
+    - - flûte
+    rus:
+    - - флейта
+    zho:
+    - - 长笛
+      - 笛
   etymology:
     natlang:
-      Doycisa: fl&ouml;te
+      Doycisa: Fl&ouml;te
       Englisa: flute
       Espanisa: flauta
       Fransesa: fl&ucirc;te
@@ -71536,7 +71628,8 @@ fosfato:
     - - Phosphat
     fra:
     - - phosphate
-    rus: []
+    rus:
+    - - фосфат
     zho:
     - - 磷酸盐
   etymology:
@@ -75505,15 +75598,20 @@ gardanbendu:
     eng:
     - - necklace
       - neckband
+      - collar
     epo:
     - - kolĉeno
       - kolringo
     spa:
     - - collar
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Halskette
+    fra:
+    - - collier
+    rus:
+    - - ожерелье
+    zho:
+    - - 项链
   etymology:
     derived:
     - gardan
@@ -75927,13 +76025,21 @@ gawluli:
   trans:
     eng:
     - - guttural
+      - throaty
     - - gutturally
+      - throatily
     epo:
     - - gorĝa
+    - - gorĝe
     spa:
     - - gutural
-    deu: []
-    fra: []
+    - - guturalmente
+    deu:
+    - - guttural
+      - kehlig
+    fra:
+    - - guttural
+    - - gutturalement
     rus: []
     zho: []
   etymology:
@@ -75976,10 +76082,14 @@ gayser:
     - - geysero
     spa:
     - - géiser
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Geysir
+    fra:
+    - - geyser
+    rus:
+    - - гейзер
+    zho:
+    - - 间歇泉
   etymology:
     natlang:
       Doycisa: Geysir
@@ -77195,6 +77305,7 @@ giga:
     eng:
     - - billion
       - one billion
+      - 10^9
     epo:
     - - miliardo
     spa:
@@ -79767,10 +79878,16 @@ grafika:
     - - gráfico(s)
       - gráfica
     - - graficar
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Grafik(en)
+    fra:
+    - - graphique
+      - graphismes
+    rus:
+    - - графика
+      - рисунок
+    zho:
+    - - 图形
   etymology:
     natlang:
       Doycisa: grafik
@@ -80957,8 +81074,10 @@ gulamya:
     - - sklaveco
     spa:
     - - esclavitud
-    deu: []
-    fra: []
+    deu:
+    - - Sklaverei
+    fra:
+    - - esclavage
     rus: []
     zho: []
   etymology:
@@ -81239,10 +81358,15 @@ guti:
     - - solido
     spa:
     - - sólido
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Festkörper
+      - Feststoff
+    fra:
+    - - solide
+    rus:
+    - - твёрдое тело
+    zho:
+    - - 固体
   etymology:
     natlang:
       Koreasa: 고체 &ldquo;goce&rdquo;, 굳다 &ldquo;gutda&rdquo;
@@ -81274,7 +81398,7 @@ guticu:
 gutigi:
   term: gutigi
   word class: b.oj
-  category: ""
+  category: derived
   trans:
     eng:
     - - solidification
@@ -81309,7 +81433,8 @@ gutipul:
     - - sólido
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - твёрдый
     zho: []
   etymology:
     derived:
@@ -81457,10 +81582,15 @@ guzruf:
       - cartilágine
       - ternilla
       - condro-
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Knorpel
+    fra:
+    - - cartilage
+    rus:
+    - - хрящ
+    zho:
+    - - 软骨
+      - 脆骨
   etymology:
     natlang:
       Arabisa: غُضْرُوف &ldquo;ḡuḍruf&rdquo;
@@ -82589,10 +82719,14 @@ halapenyo:
     spa:
     - - (chile) jalapeño
       - <em>Capsicum annuum</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Jalapeño
+    fra:
+    - - (piment) jalapeño
+    rus:
+    - - халапеньо
+    zho:
+    - - 墨西哥辣椒
   etymology:
     natlang:
       Espanisa: jalape&ntilde;o
@@ -82806,8 +82940,10 @@ halu:
     - - cirkonstanco
     spa:
     - - circunstancia
-    deu: []
-    fra: []
+    deu:
+    - - Umstand
+    fra:
+    - - circonstance
     rus: []
     zho: []
   etymology:
@@ -82829,8 +82965,13 @@ halulari:
       - situacio
     spa:
     - - situación
-    deu: []
-    fra: []
+    deu:
+    - - Situation
+      - Lage
+      - Umstände
+      - Gegebenheiten
+    fra:
+    - - situation
     rus: []
     zho: []
   etymology:
@@ -83013,7 +83154,9 @@ hamilegi:
       - dejar embarazado
       - fecundar
       - preñar
-    deu: []
+    deu:
+    - - Befruchtung
+    - - befruchten
     fra: []
     rus: []
     zho: []
@@ -83033,7 +83176,9 @@ hamileya:
     - - gravedeco
     spa:
     - - embarazo
-    deu: []
+    deu:
+    - - Schwangerschaft
+      - Trächtigkeit
     fra: []
     rus: []
     zho: []
@@ -83322,14 +83467,10 @@ hanta:
     - - mano
     - - manipular
       - manejar (<em>con las manos</em>)
-    deu:
-    - - Hand
-    fra:
-    - - main
-    rus:
-    - - рука
-    zho:
-    - - 手
+    deu: []
+    fra: []
+    rus: []
+    zho: []
   etymology:
     natlang:
       Doycisa: Hand
@@ -84752,9 +84893,12 @@ havun:
     spa:
     - - mortero
       - molcajete
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Mörser
+    fra:
+    - - mortier
+    rus:
+    - - ступка
     zho: []
   etymology:
     natlang:
@@ -84769,15 +84913,20 @@ havungumbo:
   trans:
     eng:
     - - pestle
+      - muddler
     epo:
     - - pistilo
     spa:
     - - pistilo
       - tejolote
       - moledor
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Pistill
+      - Stößel
+    fra:
+    - - pilon
+    rus:
+    - - пестом
     zho: []
   etymology:
     derived:
@@ -86386,9 +86535,14 @@ helikoter:
     - - helikoptero
     spa:
     - - helicóptero
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Hubschrauber
+      - Helikopter
+      - Heli
+    fra:
+    - - hélicoptère
+    rus:
+    - - вертолёт
     zho: []
   etymology:
     natlang:
@@ -87181,7 +87335,8 @@ hey:
       - che
       - ce
     deu: []
-    fra: []
+    fra:
+    - - hé
     rus: []
     zho: []
   etymology:
@@ -89303,8 +89458,10 @@ hospital:
     - - hospital
       - nosocomio
     deu: []
-    fra: []
-    rus: []
+    fra:
+    - - hôpital
+    rus:
+    - - больница
     zho: []
   etymology:
     natlang:
@@ -89539,10 +89696,14 @@ hoxinlyo:
     - - spico
     spa:
     - - especia
-    deu: []
-    fra: []
+    deu:
+    - - Gewürz
+      - Würze
+    fra:
+    - - épice
     rus: []
-    zho: []
+    zho:
+    - - 香料
   etymology:
     natlang:
       Koreasa: 향신료 &ldquo;hyangxinyo&rdquo;
@@ -89888,10 +90049,15 @@ huf:
     spa:
     - - pezuña
       - casco
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Huf
+    fra:
+    - - sabot
+    rus:
+    - - копыто
+    zho:
+    - - 蹄
+      - 蹄子
   etymology:
     natlang:
       Arabisa: خُفّ &ldquo;huff&rdquo;
@@ -90006,7 +90172,9 @@ hukimu:
     - - juicio
     - - juzgar
     deu: []
-    fra: []
+    fra:
+    - - jugement
+    - - juger
     rus: []
     zho: []
   etymology:
@@ -90075,7 +90243,8 @@ hukimuyen:
     - - juez
       - jueza
     deu: []
-    fra: []
+    fra:
+    - - juge
     rus: []
     zho: []
   etymology:
@@ -90720,6 +90889,31 @@ hwegay:
     natlang:
       Koreasa: 회개 &ldquo;hoegae&rdquo;
       Putunhwa: 悔改 &ldquo;huǐgǎi&rdquo;
+hwehyon:
+  term: hwehyon
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - fennel
+    epo:
+    - - fenkolo
+    spa:
+    - - hinojo
+    deu:
+    - - Fenchel
+    fra:
+    - - fenouil
+    rus:
+    - - фенхель
+    zho:
+    - - 茴香
+  etymology:
+    natlang:
+      Koreasa: 회향 &ldquo;hwehyang&rdquo;
+      Niponsa: 茴香 &ldquo;uikyo&rdquo;
+      Putunhwa: 茴香 &ldquo;hweyxyang&rdquo;
+      Vyetnamsa: hồi hương
 hwepi:
   term: hwepi
   word class: b.oj
@@ -92269,10 +92463,16 @@ imi:
     - - ni
     spa:
     - - nosotros
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - wir
+    fra:
+    - - nous
+      - "on"
+    rus:
+    - - мы
+    zho:
+    - - 我们
+      - 俺们
   etymology:
     am oko:
       mi: mi
@@ -94203,10 +94403,15 @@ inku:
     - - inko
     spa:
     - - tinta
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Tinte
+    fra:
+    - - encre
+    rus:
+    - - чернила
+    zho:
+    - - 墨汁
+      - 墨水
   etymology:
     natlang:
       Englisa: ink
@@ -96422,10 +96627,15 @@ istala:
     spa:
     - - instalación
     - - instalar
-    deu: []
-    fra: []
+    deu:
+    - - Installation
+    - - installieren
+    fra:
+    - - installation
+    - - installer
     rus: []
-    zho: []
+    zho:
+    - - 安装
   etymology:
     natlang:
       Doycisa: Installation
@@ -98603,7 +98813,8 @@ jaloya:
     - - flavo
     spa:
     - - (el color) amarillo
-    deu: []
+    deu:
+    - - Gelb
     fra: []
     rus: []
     zho: []
@@ -120470,6 +120681,8 @@ kroa:
     zho:
     - - 青蛙
   etymology:
+    natlang:
+      Vyetnamsa: ngo&eacute;
     kwasilexi:
       Doycisa: quaak
       Englisa: croak
@@ -141177,6 +141390,64 @@ mekuku:
       Arabisa: مَكُّوك &ldquo;makuk&rdquo;
       Parsisa: ماکو &ldquo;m&acirc;ku&rdquo;
       Turkisa: mekik
+melankoli:
+  term: melankoli
+  word class: t
+  category: root
+  trans:
+    eng:
+    - - melancholic
+    - - melancholically
+    epo:
+    - - melankolia
+    spa:
+    - - melancólico
+    deu:
+    - - melancholisch
+      - schwermütig
+    fra:
+    - - mélancolique
+    rus:
+    - - меланхолический
+      - меланхоличный
+    zho: []
+  etymology:
+    natlang:
+      Doycisa: melancholisch
+      Englisa: melancholic
+      Espanisa: melanc&oacute;lico
+      Fransesa: m&eacute;lancolique
+      Indonesisa: melankolis
+      Koreasa: 멜랑콜리 &ldquo;melangkolli&rdquo; - melankoliya
+      Niponsa: メランコリック &ldquo;merankoriku&rdquo;
+      Parsisa: مالیخولیا &ldquo;mālikhūliyā&rdquo; - melankoliya
+      Rusisa: меланхолический &ldquo;melanholiceskiy&rdquo;
+      Swahilisa: melankolia - melankoliya
+      Turkisa: melankolik
+melankoliya:
+  term: melankoliya
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - malancholy
+    epo:
+    - - melankolio
+    spa:
+    - - melancolía
+    deu:
+    - - Melancholie
+      - Schwermut
+    fra:
+    - - mélancolie
+    rus:
+    - - меланхолия
+    zho: []
+  etymology:
+    derived:
+    - melankoli
+    - +
+    - -ya
 melase:
   term: melase
   word class: b
@@ -171109,6 +171380,7 @@ piu:
       Ceskisa: p&iacute;p
       Doycisa: piep
       Elinisa: '&tau;&sigma;ί&omicron;&upsilon; &ldquo;tsiu&rdquo;'
+      Englisa: peep
       Espanisa: pio
       Exkiperisa: ciu
       Ivrisa: צִיּוּץ&lrm; &ldquo;tsiy&uacute;ts&rdquo;
@@ -179816,12 +180088,13 @@ rasuberi:
       Swahilisa: rasiberi
 rasyon:
   term: rasyon
-  word class: ""
+  word class: b.oj
   category: root
   trans:
     eng:
     - - ration(s)
       - provision(s)
+    - - ration
     epo:
     - - provianto
       - porcio
@@ -183169,6 +183442,7 @@ roti:
       Doycisa: Brote
       Hindi: रोटी &ldquo;roti&rdquo;
       Indonesisa: roti
+      Nederisa: broodje
       Somalisa: rooti
       Telugusa: రొట్టె &ldquo;rotte&rdquo;
 rotidukan:
@@ -183555,9 +183829,12 @@ rufleksili:
     - - retrofleksa
     spa:
     - - retroflejo
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - retroflex
+    fra:
+    - - rétroflexe
+    rus:
+    - - ретрофлексный
     zho: []
   etymology:
     derived:
@@ -184114,9 +184391,15 @@ rumani:
     - - 罗马尼亚
   etymology:
     natlang:
+      Arabisa: رُومَانِيَا &ldquo;rumaniya&rdquo;
       Espanisa: Rumania
+      Koreasa: 루마니아 &ldquo;Rumania&rdquo;
+      Niponsa: ルーマニア &ldquo;Rumania&rdquo;
+      Parsisa: رومانی &ldquo;Rum&acirc;ni&rdquo;
+      Pilipinasa: Rumanya
       Rumanisa: Romania
       Rusisa: Румыния &ldquo;Rumyniya&rdquo;
+      Vyetnamsa: Ru-ma-ni
 rumanili:
   term: Rumanili
   word class: t
@@ -184128,9 +184411,12 @@ rumanili:
     - - rumana
     spa:
     - - rumano
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - rumänisch
+    fra:
+    - - roumain
+    rus:
+    - - румынский
     zho: []
   etymology:
     derived:
@@ -184468,9 +184754,13 @@ rusili:
     - - rusa
     spa:
     - - ruso
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - russisch
+    fra:
+    - - russe
+    rus:
+    - - российский
+      - русский
     zho: []
   etymology:
     derived:
@@ -184524,9 +184814,11 @@ rusoti:
   trans:
     eng:
     - - echo
+    - - echo
     epo:
     - - eĥo
       - ekoo
+    - - eĥi
     spa:
     - - eco
       - resonancia
@@ -192770,8 +193062,8 @@ sili:
     - si
     - +
     - -li
-silikon:
-  term: silikon
+silicyum:
+  term: silicyum
   word class: b
   category: root
   trans:
@@ -229379,10 +229671,15 @@ yoran:
     spa:
     - - cuna
       - brezo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Wiege
+    fra:
+    - - berceau
+    rus:
+    - - колыбель
+      - люлька
+    zho:
+    - - 摇篮
   etymology:
     natlang:
       Koreasa: 요람 &ldquo;yoram&rdquo;
@@ -229465,10 +229762,15 @@ yoxin:
     - - konscio
     spa:
     - - conciencia (<em>moral</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Gewissen
+    fra:
+    - - conscience (morale)
+    rus:
+    - - совесть
+    zho:
+    - - 良知
+      - 良心
   etymology:
     natlang:
       Koreasa: 양심 &ldquo;yangsim&rdquo;
@@ -229573,7 +229875,10 @@ yozay:
     - - culpa
     - - ser culpable
     - - culpar
-    deu: []
+    deu:
+    - - Schuld
+    - - beschuldigen
+    - - schuld sein
     fra: []
     rus: []
     zho: []
@@ -229592,7 +229897,8 @@ yozaydo:
     - - kulpigita
     spa:
     - - culpado
-    deu: []
+    deu:
+    - - beschuldigt
     fra: []
     rus: []
     zho: []
@@ -229615,8 +229921,11 @@ yozaykal:
     spa:
     - - inocente
       - no culpable
-    deu: []
-    fra: []
+    deu:
+    - - unschuldig
+    fra:
+    - - innocent
+    - - innocemment
     rus: []
     zho: []
   etymology:
@@ -229667,8 +229976,11 @@ yozaypul:
     spa:
     - - culpable
     - - culpablemente
-    deu: []
-    fra: []
+    deu:
+    - - schuldig
+    fra:
+    - - coupable
+    - - coupablement
     rus: []
     zho: []
   etymology:
@@ -230065,9 +230377,13 @@ yumukuyen:
     - - nomado
     spa:
     - - nómada
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Nomade
+    fra:
+    - - nomade
+    rus:
+    - - кочевник
+      - номад
     zho: []
   etymology:
     derived:
@@ -231997,7 +232313,7 @@ zway:
       Vyetnamsa: ruồi
 zyaratu:
   term: zyaratu
-  word class: ""
+  word class: b.nenoj
   category: root
   trans:
     eng:

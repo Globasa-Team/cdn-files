@@ -238,7 +238,7 @@
   term: -osis
   class: b xfik
   category: affix
-  translation: pathology
+  translation: pathology, -osis
 -pel:
   term: -pel
   class: b xfik
@@ -1281,6 +1281,16 @@ alomo:
   class: m
   category: derived
   translation: to a different degree
+alomorfo:
+  term: alomorfo
+  class: b.oro
+  category: derived
+  translation: 'metamorphosis; tr/intr (optional -cu): metamorphose, metamorphize'
+alomorfocu:
+  term: alomorfocu
+  class: b.nenoj
+  category: derived
+  translation: 'metamorphosis; intr (optional -cu): metamorphose, metamorphize'
 alondra:
   term: alondra
   class: b
@@ -2207,11 +2217,6 @@ armonicu:
   class: b.nenoj
   category: derived
   translation: 'harmonization; intr (optional -cu): become harmonized'
-armonigi:
-  term: armonigi
-  class: b.oj
-  category: derived
-  translation: harmonization; harmonize
 armonika:
   term: armonika
   class: b
@@ -2593,8 +2598,8 @@ atex:
   term: atex
   class: b.oro
   category: root
-  translation: 'fire; tr: burn (<em>destroy with fire</em>); intr (optional -cu):
-    burn (<em>be on fire, be consumed by fire</em>)'
+  translation: 'fire; tr: burn (<em>damage, destroy or consume with fire</em>); intr
+    (optional -cu): burn (<em>be on fire, be damaged, destroyed or consumed by fire</em>)'
 atexcu:
   term: atexcu
   class: b.nenoj
@@ -9624,6 +9629,11 @@ duacen:
   class: num
   category: derived
   translation: two hundred
+duacidi:
+  term: duacidi
+  class: b
+  category: derived
+  translation: acidification
 duades:
   term: duades
   class: num
@@ -9679,6 +9689,11 @@ dualim:
   class: b
   category: derived
   translation: (act of) teaching
+dualkohol:
+  term: dualkohol
+  class: b
+  category: derived
+  translation: alcoholization
 duamwin:
   term: duamwin
   class: b
@@ -9704,6 +9719,11 @@ duaple_basun:
   class: b
   category: derived
   translation: contrabassoon, double bassoon
+duarmoni:
+  term: duarmoni
+  class: b
+  category: derived
+  translation: harmonization
 duatyan:
   term: duatyan
   class: b
@@ -14557,7 +14577,7 @@ gardanbendu:
   term: gardanbendu
   class: b
   category: derived
-  translation: necklace, neckband
+  translation: necklace, neckband, collar
 gardi:
   term: gardi
   class: b.oj
@@ -14642,7 +14662,7 @@ gawluli:
   term: gawluli
   class: t
   category: derived
-  translation: guttural; gutturally
+  translation: guttural, throaty; gutturally, throatily
 gawni:
   term: gawni
   class: b
@@ -14878,7 +14898,7 @@ giga:
   term: giga
   class: num
   category: root
-  translation: billion, one billion
+  translation: billion, one billion, 10^9
 gigagon:
   term: gigagon
   class: b
@@ -15618,7 +15638,7 @@ guticu:
 gutigi:
   term: gutigi
   class: b.oj
-  category: ""
+  category: derived
   translation: solidification; solidify (<em>cause to become a solid</em>)
 gutipul:
   term: gutipul
@@ -16280,7 +16300,7 @@ havungumbo:
   term: havungumbo
   class: b
   category: derived
-  translation: pestle
+  translation: pestle, muddler
 hawa:
   term: hawa
   class: b
@@ -17416,6 +17436,11 @@ hwegay:
   class: b.oj
   category: root
   translation: remorse; repent, feel remorse (for)
+hwehyon:
+  term: hwehyon
+  class: b
+  category: root
+  translation: fennel
 hwepi:
   term: hwepi
   class: b.oj
@@ -27070,6 +27095,16 @@ mekuku:
   class: b
   category: root
   translation: shuttle (<em>sewing tool or vehicle</em>)
+melankoli:
+  term: melankoli
+  class: t
+  category: root
+  translation: melancholic; melancholically
+melankoliya:
+  term: melankoliya
+  class: b
+  category: derived
+  translation: malancholy
 melase:
   term: melase
   class: b
@@ -34534,9 +34569,9 @@ rasuberi:
   translation: raspberry, <em>Rubus idaeus</em>
 rasyon:
   term: rasyon
-  class: ""
+  class: b.oj
   category: root
-  translation: ration(s), provision(s)
+  translation: ration(s), provision(s); ration
 rato:
   term: rato
   class: b
@@ -35414,7 +35449,7 @@ rusoti:
   term: rusoti
   class: b
   category: derived
-  translation: echo
+  translation: echo; echo
 rutenyum:
   term: rutenyum
   class: b
@@ -37013,8 +37048,8 @@ sili:
   class: t
   category: derived
   translation: affirmative, positive; affirmatively, positively
-silikon:
-  term: silikon
+silicyum:
+  term: silicyum
   class: b
   category: root
   translation: silicon, Si
@@ -44533,7 +44568,7 @@ zway:
   translation: fly (<em>insect</em>), <em>Diptera</em>
 zyaratu:
   term: zyaratu
-  class: ""
+  class: b.nenoj
   category: root
   translation: pilgrimage; (go on a) pilgrimage, peregrinate
 zyaratuyen:

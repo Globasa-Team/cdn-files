@@ -1276,6 +1276,16 @@ alomo:
   class: m
   category: derived
   translation: ""
+alomorfo:
+  term: alomorfo
+  class: b.oro
+  category: derived
+  translation: ""
+alomorfocu:
+  term: alomorfocu
+  class: b.nenoj
+  category: derived
+  translation: ""
 alondra:
   term: alondra
   class: b
@@ -2194,11 +2204,6 @@ armoni:
 armonicu:
   term: armonicu
   class: b.nenoj
-  category: derived
-  translation: ""
-armonigi:
-  term: armonigi
-  class: b.oj
   category: derived
   translation: ""
 armonika:
@@ -9584,6 +9589,11 @@ duacen:
   class: num
   category: derived
   translation: ""
+duacidi:
+  term: duacidi
+  class: b
+  category: derived
+  translation: ""
 duades:
   term: duades
   class: num
@@ -9639,6 +9649,11 @@ dualim:
   class: b
   category: derived
   translation: ""
+dualkohol:
+  term: dualkohol
+  class: b
+  category: derived
+  translation: ""
 duamwin:
   term: duamwin
   class: b
@@ -9661,6 +9676,11 @@ duaple_baso:
   translation: ""
 duaple_basun:
   term: duaple basun
+  class: b
+  category: derived
+  translation: ""
+duarmoni:
+  term: duarmoni
   class: b
   category: derived
   translation: ""
@@ -13478,7 +13498,7 @@ flutu:
   term: flutu
   class: b
   category: root
-  translation: ""
+  translation: флейта
 fobi:
   term: fobi
   class: b.oro
@@ -13748,7 +13768,7 @@ fosfato:
   term: fosfato
   class: b
   category: root
-  translation: ""
+  translation: фосфат
 fosforo:
   term: fosforo
   class: b
@@ -14493,7 +14513,7 @@ gardanbendu:
   term: gardanbendu
   class: b
   category: derived
-  translation: ""
+  translation: ожерелье
 gardi:
   term: gardi
   class: b.oj
@@ -14588,7 +14608,7 @@ gayser:
   term: gayser
   class: b
   category: root
-  translation: ""
+  translation: гейзер
 gaza:
   term: Gaza
   class: su n
@@ -15268,7 +15288,7 @@ grafika:
   term: grafika
   class: b
   category: root
-  translation: ""
+  translation: графика, рисунок
 grafiti:
   term: grafiti
   class: b
@@ -15538,7 +15558,7 @@ guti:
   term: guti
   class: b
   category: root
-  translation: ""
+  translation: твёрдое тело
 guticu:
   term: guticu
   class: b.nenoj
@@ -15547,13 +15567,13 @@ guticu:
 gutigi:
   term: gutigi
   class: b.oj
-  category: ""
+  category: derived
   translation: ""
 gutipul:
   term: gutipul
   class: t
   category: derived
-  translation: ""
+  translation: твёрдый
 guton:
   term: guton
   class: b.oro
@@ -15583,7 +15603,7 @@ guzruf:
   term: guzruf
   class: b
   category: root
-  translation: ""
+  translation: хрящ
 gwaba:
   term: gwaba
   class: b
@@ -15798,7 +15818,7 @@ halapenyo:
   term: halapenyo
   class: b
   category: root
-  translation: ""
+  translation: халапеньо
 halazun:
   term: halazun
   class: b
@@ -15923,7 +15943,7 @@ hanta:
   term: hanta
   class: b.oj
   category: root
-  translation: рука
+  translation: ""
 hantabendu:
   term: hantabendu
   class: b
@@ -16198,12 +16218,12 @@ havun:
   term: havun
   class: b
   category: root
-  translation: ""
+  translation: ступка
 havungumbo:
   term: havungumbo
   class: b
   category: derived
-  translation: ""
+  translation: пестом
 hawa:
   term: hawa
   class: b
@@ -16543,7 +16563,7 @@ helikoter:
   term: helikoter
   class: b
   category: root
-  translation: ""
+  translation: вертолёт
 helmeto:
   term: helmeto
   class: b
@@ -17073,7 +17093,7 @@ hospital:
   term: hospital
   class: b
   category: root
-  translation: ""
+  translation: больница
 hosu:
   term: hosu
   class: b
@@ -17183,7 +17203,7 @@ huf:
   term: huf
   class: b
   category: root
-  translation: ""
+  translation: копыто
 hufax:
   term: hufax
   class: b
@@ -17334,6 +17354,11 @@ hwegay:
   class: b.oj
   category: root
   translation: ""
+hwehyon:
+  term: hwehyon
+  class: b
+  category: root
+  translation: фенхель
 hwepi:
   term: hwepi
   class: b.oj
@@ -17653,7 +17678,7 @@ imi:
   term: imi
   class: pn
   category: root
-  translation: ""
+  translation: мы
 imi_am:
   term: imi am
   class: jm
@@ -18043,7 +18068,7 @@ inku:
   term: inku
   class: b
   category: root
-  translation: ""
+  translation: чернила
 inlabascu:
   term: inlabascu
   class: b.nenoj
@@ -26950,6 +26975,16 @@ mekuku:
   class: b
   category: root
   translation: челнок
+melankoli:
+  term: melankoli
+  class: t
+  category: root
+  translation: меланхолический, меланхоличный
+melankoliya:
+  term: melankoliya
+  class: b
+  category: derived
+  translation: меланхолия
 melase:
   term: melase
   class: b
@@ -34387,7 +34422,7 @@ rasuberi:
   translation: малина
 rasyon:
   term: rasyon
-  class: ""
+  class: b.oj
   category: root
   translation: ""
 rato:
@@ -35074,7 +35109,7 @@ rufleksili:
   term: rufleksili
   class: t
   category: derived
-  translation: ""
+  translation: ретрофлексный
 rugbi:
   term: rugbi
   class: b
@@ -35179,7 +35214,7 @@ rumanili:
   term: Rumanili
   class: t
   category: derived
-  translation: ""
+  translation: румынский
 rumanisa:
   term: Rumanisa
   class: b
@@ -35249,7 +35284,7 @@ rusili:
   term: Rusili
   class: t
   category: derived
-  translation: ""
+  translation: российский, русский
 rusisa:
   term: Rusisa
   class: b
@@ -36860,8 +36895,8 @@ sili:
   class: t
   category: derived
   translation: ""
-silikon:
-  term: silikon
+silicyum:
+  term: silicyum
   class: b
   category: root
   translation: кремний
@@ -43874,7 +43909,7 @@ yoran:
   term: yoran
   class: b
   category: root
-  translation: ""
+  translation: колыбель, люлька
 yosef:
   term: Yosef
   class: su n
@@ -43889,7 +43924,7 @@ yoxin:
   term: yoxin
   class: b
   category: root
-  translation: ""
+  translation: совесть
 yoxwa:
   term: Yoxwa
   class: su n
@@ -43994,7 +44029,7 @@ yumukuyen:
   term: yumukuyen
   class: b
   category: derived
-  translation: ""
+  translation: кочевник, номад
 yunki:
   term: yunki
   class: b.oro
@@ -44347,7 +44382,7 @@ zway:
   translation: муха, двукрылое
 zyaratu:
   term: zyaratu
-  class: ""
+  class: b.nenoj
   category: root
   translation: ""
 zyaratuyen:
