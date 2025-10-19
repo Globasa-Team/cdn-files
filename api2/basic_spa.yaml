@@ -4287,7 +4287,7 @@ befaydayen:
   translation: beneficiario
 befobi:
   term: befobi
-  class: b.oj
+  class: b.nenoj; b.oj
   category: derived
   translation: temer
 befobido:
@@ -4297,7 +4297,7 @@ befobido:
   translation: temido
 befuraha:
   term: befuraha
-  class: b.oj
+  class: b.nenoj; b.oj
   category: derived
   translation: disfrutar (de)
 begiximyen:
@@ -4315,8 +4315,8 @@ beharemusi:
   class: t
   category: derived
   translation: indispensable
-behemot:
-  term: behemot
+behemotu:
+  term: behemotu
   class: "n"
   category: root
   translation: Behemot, Bahamut, B&eacute;gimo
@@ -4333,7 +4333,7 @@ beker:
 bekerel:
   term: bekerel
   class: b
-  category: derived
+  category: root
   translation: becquerel, Bq
 bekerel_name:
   term: Bekerel
@@ -4505,7 +4505,7 @@ benjilexi:
   term: benjilexi
   class: b
   category: derived
-  translation: sustantivo-verbo
+  translation: sustantivo, verbo, sustantivo-verbo
 benjili:
   term: benjili
   class: t
@@ -4576,7 +4576,7 @@ bete:
   term: bete
   class: b
   category: root
-  translation: hijo
+  translation: hijo, hija, hijos
 betekal:
   term: betekal
   class: t
@@ -4602,11 +4602,6 @@ bexin:
   class: b
   category: root
   translation: jurado
-bexorfobi:
-  term: bexorfobi
-  class: b.oj
-  category: derived
-  translation: asustarse
 beygel:
   term: beygel
   class: b
@@ -4964,6 +4959,11 @@ blusa:
   class: b
   category: root
   translation: blusa
+bobina:
+  term: bobina
+  class: b
+  category: root
+  translation: bobina, carrete
 bobo:
   term: bobo
   class: t
@@ -5073,6 +5073,11 @@ bolokuflutu:
   class: b
   category: derived
   translation: flauta dulce, flauta de pico
+boltu:
+  term: boltu
+  class: b.oj
+  category: root
+  translation: perno (<em>tornillo</em>), bul&oacute;n
 bomba:
   term: bomba
   class: b.oj
@@ -12273,6 +12278,11 @@ fatoli:
   class: t
   category: derived
   translation: real, factual; realmente, factualmente
+fatujon:
+  term: fatujon
+  class: b.nenoj
+  category: root
+  translation: celo, brama, barrea, estro; estar en celo
 fatura:
   term: fatura
   class: b
@@ -12954,6 +12964,11 @@ femgami:
   class: b
   category: derived
   translation: esposa, mujer
+femgeyyen:
+  term: femgeyyen
+  class: b
+  category: derived
+  translation: mujer gay, lesbiana
 femgwafu:
   term: femgwafu
   class: b
@@ -14917,7 +14932,7 @@ geyyen:
   term: geyyen
   class: b
   category: derived
-  translation: <em>gay</em> (<em>persona</em>)
+  translation: (persona) gay
 gibatu:
   term: gibatu
   class: b.oj
@@ -22173,6 +22188,11 @@ kloaka:
   class: b
   category: root
   translation: cloaca
+klon:
+  term: klon
+  class: b.oj
+  category: root
+  translation: clon; clonar
 klorin:
   term: klorin
   class: b
@@ -22551,7 +22571,7 @@ kompostu:
   term: kompostu
   class: b.oj
   category: root
-  translation: compost, humus
+  translation: compost, humus; compostar
 komputa:
   term: komputa
   class: b.oj
@@ -22940,6 +22960,16 @@ kos:
   class: p
   category: root
   translation: por, debido a, a causa de
+kos_dento:
+  term: kos dento
+  class: p jm
+  category: phrase
+  translation: ""
+kos_to:
+  term: kos to
+  class: p jm
+  category: phrase
+  translation: ""
 kosa:
   term: kosa
   class: b.oj
@@ -25866,6 +25896,11 @@ makedoniyen:
   class: b
   category: derived
   translation: macedonio (<em>persona</em>)
+makro:
+  term: makro
+  class: t
+  category: root
+  translation: macrosc&oacute;pico, macro-
 maku:
   term: maku
   class: b
@@ -26183,6 +26218,11 @@ manganis:
   class: b
   category: root
   translation: manganeso, Mn
+mangeyyen:
+  term: mangeyyen
+  class: b
+  category: derived
+  translation: (hombre) gay
 mango:
   term: mango
   class: b
@@ -28260,6 +28300,21 @@ modelo:
   class: b
   category: root
   translation: modelo
+modera:
+  term: modera
+  class: b.oj
+  category: root
+  translation: moderaci&oacute;n; moderar, templar
+moderado:
+  term: moderado
+  class: t
+  category: derived
+  translation: moderado
+moderayen:
+  term: moderayen
+  class: b
+  category: derived
+  translation: moderador
 moderno:
   term: moderno
   class: t
@@ -28401,6 +28456,16 @@ momo:
   class: b
   category: root
   translation: mama (<em>no cl&iacute;nico</em>), teta, bubi, chichi, lola
+momya:
+  term: momya
+  class: b
+  category: root
+  translation: momia
+momyagi:
+  term: momyagi
+  class: b.oj
+  category: derived
+  translation: momificaci&oacute;n; momificar
 mon:
   term: mon
   class: b
@@ -30586,6 +30651,11 @@ nota:
   class: b.oj
   category: root
   translation: nota, apunte; anotar, tomar nota, apuntar
+notu:
+  term: notu
+  class: b.oj
+  category: root
+  translation: tuerca, matriz
 novela:
   term: novela
   class: b
@@ -38637,7 +38707,7 @@ swe:
   term: swe
   class: b.oj
   category: root
-  translation: impuesto
+  translation: impuesto; gravar, cobrar impuestos sobre
 swedo:
   term: swedo
   class: t
@@ -42059,7 +42129,7 @@ vite:
   term: vite
   class: b.oj
   category: root
-  translation: tornillo
+  translation: tornillo; atornillar
 vodka:
   term: vodka
   class: b
@@ -42858,8 +42928,8 @@ xahidugido:
   class: t
   category: derived
   translation: martirizado
-xahihuya:
-  term: xahihuya
+xahiduya:
+  term: xahiduya
   class: b
   category: derived
   translation: martirio
@@ -43540,6 +43610,11 @@ xorfley:
   class: b.nenoj
   category: derived
   translation: despegue; despegar, emprender el vuelo
+xorfobi:
+  term: xorfobi
+  class: b.oro
+  category: derived
+  translation: asustarse
 xorganci:
   term: xorganci
   class: b.oj
@@ -44069,9 +44144,14 @@ yate:
   translation: yate
 yatima:
   term: yatima
-  class: b.oj
+  class: b
   category: root
-  translation: hu&eacute;rfano; quedar hu&eacute;rfano
+  translation: hu&eacute;rfano
+yatimacu:
+  term: yatimacu
+  class: b.nenoj
+  category: derived
+  translation: ""
 yatimado:
   term: yatimado
   class: t
@@ -44083,6 +44163,11 @@ yatimadom:
   category: derived
   translation: orfanato, orfanatorio, orfelinato, centro de acogida de menores, centro
     de protecci&oacute;n de menores
+yatimagi:
+  term: yatimagi
+  class: b.oj
+  category: derived
+  translation: dejar hu&eacute;rfano
 yawxe:
   term: yawxe
   class: b

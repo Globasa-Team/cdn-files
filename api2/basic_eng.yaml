@@ -4154,7 +4154,7 @@ baxjungwi:
   term: baxjungwi
   class: b
   category: derived
-  translation: ensign, second lieutenant
+  translation: ensign, second lieutenant, coronet
 baxli:
   term: baxli
   class: t
@@ -4267,9 +4267,9 @@ befaydayen:
   translation: beneficiary
 befobi:
   term: befobi
-  class: b.oj
+  class: b.nenoj; b.oj
   category: derived
-  translation: fear, be afraid (of)
+  translation: 'intr: be frightened (by); tr: fear, be afraid (of)'
 befobido:
   term: befobido
   class: t
@@ -4277,9 +4277,9 @@ befobido:
   translation: feared
 befuraha:
   term: befuraha
-  class: b.oj
+  class: b.nenoj; b.oj
   category: derived
-  translation: enjoy
+  translation: 'intr: be pleased, be pleasured (by); tr: enjoy'
 begiximyen:
   term: begiximyen
   class: b
@@ -4295,8 +4295,8 @@ beharemusi:
   class: t
   category: derived
   translation: indispensable; indispensablely
-behemot:
-  term: behemot
+behemotu:
+  term: behemotu
   class: "n"
   category: root
   translation: behemoth
@@ -4313,7 +4313,7 @@ beker:
 bekerel:
   term: bekerel
   class: b
-  category: derived
+  category: root
   translation: becquerel, Bq
 bekerel_name:
   term: Bekerel
@@ -4582,11 +4582,6 @@ bexin:
   class: b
   category: root
   translation: jury
-bexorfobi:
-  term: bexorfobi
-  class: b.oj
-  category: derived
-  translation: get scared (of)
 beygel:
   term: beygel
   class: b
@@ -4781,7 +4776,7 @@ biotekno:
   term: biotekno
   class: b
   category: derived
-  translation: biotechnology
+  translation: biotech, biotechnology
 bioyen:
   term: bioyen
   class: b
@@ -4939,6 +4934,11 @@ blusa:
   class: b
   category: root
   translation: blouse
+bobina:
+  term: bobina
+  class: b
+  category: root
+  translation: bobbin, spool, reel
 bobo:
   term: bobo
   class: t
@@ -5045,6 +5045,11 @@ bolokuflutu:
   class: b
   category: derived
   translation: recorder, block flute
+boltu:
+  term: boltu
+  class: b.oj
+  category: root
+  translation: bolt
 bomba:
   term: bomba
   class: b.oj
@@ -9899,7 +9904,7 @@ dupul:
   term: dupul
   class: m
   category: derived
-  translation: <em>continuative aspect</em>
+  translation: <em>continuative aspect</em>, have been
 dur:
   term: dur
   class: p
@@ -12208,6 +12213,11 @@ fatoli:
   class: t
   category: derived
   translation: actual, factual; actually, factually
+fatujon:
+  term: fatujon
+  class: b.nenoj
+  category: root
+  translation: rut, heat, estrus, musth; (be in) rut, be in heat, estruate
 fatura:
   term: fatura
   class: b
@@ -12889,6 +12899,11 @@ femgami:
   class: b
   category: derived
   translation: wife
+femgeyyen:
+  term: femgeyyen
+  class: b
+  category: derived
+  translation: gay woman, lesbian
 femgwafu:
   term: femgwafu
   class: b
@@ -13593,7 +13608,8 @@ fobipul:
   term: fobipul
   class: t
   category: derived
-  translation: afraid, fearful
+  translation: 'inanimate nouns: frightful, frightening, scary; animate nouns: fearful,
+    afraid'
 fokma:
   term: fokma
   class: b
@@ -16016,7 +16032,7 @@ hanta:
   term: hanta
   class: b.oj
   category: root
-  translation: hand; handle, hold (<em>with hands</em>)
+  translation: hand; handle, hold (<em>with hands</em>), manipulate
 hantabendu:
   term: hantabendu
   class: b
@@ -21303,7 +21319,7 @@ katinagi:
   term: katinagi
   class: b.oj
   category: derived
-  translation: hinderance; make difficult, hinder
+  translation: hindrance; make difficult, hinder
 katinaxey:
   term: katinaxey
   class: b
@@ -21956,7 +21972,7 @@ kitabudukan:
   term: kitabudukan
   class: b
   category: derived
-  translation: bookstore
+  translation: bookstore, bookshop
 kitabufilya:
   term: kitabufilya
   class: b
@@ -22057,6 +22073,11 @@ kloaka:
   class: b
   category: root
   translation: cloaca
+klon:
+  term: klon
+  class: b.oj
+  category: root
+  translation: clone
 klorin:
   term: klorin
   class: b
@@ -22121,7 +22142,7 @@ koda:
   term: koda
   class: b
   category: root
-  translation: tail
+  translation: tail, coda
 kodakal:
   term: kodakal
   class: t
@@ -22825,6 +22846,16 @@ kos:
   class: p
   category: root
   translation: because of, due to, for
+kos_dento:
+  term: kos dento
+  class: p jm
+  category: phrase
+  translation: because of that, due to that, so, therefore
+kos_to:
+  term: kos to
+  class: p jm
+  category: phrase
+  translation: because of it, due to it, so, therefore
 kosa:
   term: kosa
   class: b.oj
@@ -24366,7 +24397,7 @@ lesboyen:
   term: Lesboyen
   class: "n"
   category: derived
-  translation: Lesbian, inhabitant of Lesbos
+  translation: inhabitant of Lesbos
 lesutu:
   term: Lesutu
   class: su n
@@ -25734,6 +25765,11 @@ makedoniyen:
   class: b
   category: derived
   translation: Macedonian (person)
+makro:
+  term: makro
+  class: t
+  category: root
+  translation: macroscopic, macro-
 maku:
   term: maku
   class: b
@@ -26044,6 +26080,11 @@ manganis:
   class: b
   category: root
   translation: manganese, Mn
+mangeyyen:
+  term: mangeyyen
+  class: b
+  category: derived
+  translation: gay man
 mango:
   term: mango
   class: b
@@ -26168,7 +26209,7 @@ mansi:
   term: mansi
   class: b.oj
   category: root
-  translation: divination; divine, foretell, foresee
+  translation: divination, augury; divine, augur, foretell, foresee
 mansinga:
   term: mansinga
   class: b
@@ -27685,7 +27726,7 @@ mikro:
   term: mikro
   class: num
   category: root
-  translation: 10^-6, one millionth of, micro-
+  translation: micro-, 10^-6, one millionth of
 mikrobiologi:
   term: mikrobiologi
   class: b
@@ -27725,7 +27766,7 @@ mili:
   term: mili
   class: num
   category: root
-  translation: 10^-3, one thousandth of
+  translation: milli-, 10^-3, one thousandth of
 milimetro:
   term: milimetro
   class: b
@@ -28108,6 +28149,21 @@ modelo:
   class: b
   category: root
   translation: model
+modera:
+  term: modera
+  class: b.oj
+  category: root
+  translation: moderation; moderate, temper
+moderado:
+  term: moderado
+  class: t
+  category: derived
+  translation: moderate, moderated, temperate
+moderayen:
+  term: moderayen
+  class: b
+  category: derived
+  translation: moderator
 moderno:
   term: moderno
   class: t
@@ -28249,6 +28305,16 @@ momo:
   class: b
   category: root
   translation: breast (<em>non-clinical</em>), boob
+momya:
+  term: momya
+  class: b
+  category: root
+  translation: mummy
+momyagi:
+  term: momyagi
+  class: b.oj
+  category: derived
+  translation: mummification; mummify
 mon:
   term: mon
   class: b
@@ -30421,6 +30487,11 @@ nota:
   class: b.oj
   category: root
   translation: note; take notes, note (down)
+notu:
+  term: notu
+  class: b.oj
+  category: root
+  translation: nut
 novela:
   term: novela
   class: b
@@ -32781,7 +32852,7 @@ piko:
   term: piko
   class: num
   category: root
-  translation: 10^-12, one trillionth of
+  translation: pico-, 10^-12, one trillionth of
 pikometro:
   term: pikometro
   class: b
@@ -42612,8 +42683,8 @@ xahidugido:
   class: t
   category: derived
   translation: martyred
-xahihuya:
-  term: xahihuya
+xahiduya:
+  term: xahiduya
   class: b
   category: derived
   translation: martyrdom
@@ -43284,6 +43355,12 @@ xorfley:
   class: b.nenoj
   category: derived
   translation: takeoff; take off (<em>aircraft</em>)
+xorfobi:
+  term: xorfobi
+  class: b.oro
+  category: derived
+  translation: 'tr: cause (somebody) to become frightened, cause (somebody) to become
+    scared; intr: become frightened , become scared'
 xorganci:
   term: xorganci
   class: b.oj
@@ -43814,9 +43891,14 @@ yate:
   translation: yacht
 yatima:
   term: yatima
-  class: b.oj
+  class: b
   category: root
-  translation: orphan; orphan
+  translation: orphan
+yatimacu:
+  term: yatimacu
+  class: b.nenoj
+  category: derived
+  translation: 'intr: become an orphan, be orphaned'
 yatimado:
   term: yatimado
   class: t
@@ -43827,6 +43909,11 @@ yatimadom:
   class: b
   category: derived
   translation: orphanage
+yatimagi:
+  term: yatimagi
+  class: b.oj
+  category: derived
+  translation: 'tr: orphan'
 yawxe:
   term: yawxe
   class: b

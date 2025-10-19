@@ -1089,7 +1089,7 @@ alimyen:
   term: alimyen
   class: b
   category: derived
-  translation: instruanto
+  translation: instruisto, instruanto
 aljebra:
   term: aljebra
   class: b
@@ -4244,7 +4244,7 @@ befaydayen:
   translation: profitanto, beneficulo
 befobi:
   term: befobi
-  class: b.oj
+  class: b.nenoj; b.oj
   category: derived
   translation: timo; timi
 befobido:
@@ -4254,7 +4254,7 @@ befobido:
   translation: timita; timite
 befuraha:
   term: befuraha
-  class: b.oj
+  class: b.nenoj; b.oj
   category: derived
   translation: ĝui
 begiximyen:
@@ -4272,8 +4272,8 @@ beharemusi:
   class: t
   category: derived
   translation: havenda; havende
-behemot:
-  term: behemot
+behemotu:
+  term: behemotu
   class: "n"
   category: root
   translation: behemoto, biemoto
@@ -4290,7 +4290,7 @@ beker:
 bekerel:
   term: bekerel
   class: b
-  category: derived
+  category: root
   translation: bekerelo
 bekerel_name:
   term: Bekerel
@@ -4557,11 +4557,6 @@ bexin:
   class: b
   category: root
   translation: ĵurio
-bexorfobi:
-  term: bexorfobi
-  class: b.oj
-  category: derived
-  translation: ektimo, timiĝo; ektimi, timiĝi
 beygel:
   term: beygel
   class: b
@@ -4912,6 +4907,11 @@ blusa:
   class: b
   category: root
   translation: bluzo
+bobina:
+  term: bobina
+  class: b
+  category: root
+  translation: bobeno; bobeni
 bobo:
   term: bobo
   class: t
@@ -5017,6 +5017,11 @@ bolokuflutu:
   class: b
   category: derived
   translation: bekfluto
+boltu:
+  term: boltu
+  class: b.oj
+  category: root
+  translation: bolto
 bomba:
   term: bomba
   class: b.oj
@@ -8763,17 +8768,17 @@ devtest:
   term: Devtest
   class: b
   category: root
-  translation: devtest, devtest0
+  translation: ""
 devtest_1:
   term: devtest
   class: b
   category: derived
-  translation: devtest, devtest1
+  translation: ""
 devtest_2:
   term: devtest
   class: b
   category: derived
-  translation: devtest, devtest2
+  translation: ""
 dexa:
   term: dexa
   class: b
@@ -12161,6 +12166,11 @@ fatoli:
   class: t
   category: derived
   translation: fakta; fakte
+fatujon:
+  term: fatujon
+  class: b.nenoj
+  category: root
+  translation: seksardo, oestro, seksperiodo; esti en seksardo
 fatura:
   term: fatura
   class: b
@@ -12838,6 +12848,11 @@ femgami:
   class: b
   category: derived
   translation: edzino
+femgeyyen:
+  term: femgeyyen
+  class: b
+  category: derived
+  translation: gejino
 femgwafu:
   term: femgwafu
   class: b
@@ -21220,7 +21235,7 @@ katinagi:
   term: katinagi
   class: b.oj
   category: derived
-  translation: malfaciligi
+  translation: malfaciligo; malfaciligi
 katinaxey:
   term: katinaxey
   class: b
@@ -21971,6 +21986,11 @@ kloaka:
   class: b
   category: root
   translation: kloako (<em>biologio</em>)
+klon:
+  term: klon
+  class: b.oj
+  category: root
+  translation: klono; kloni
 klorin:
   term: klorin
   class: b
@@ -22731,6 +22751,16 @@ kos:
   class: p
   category: root
   translation: pro
+kos_dento:
+  term: kos dento
+  class: p jm
+  category: phrase
+  translation: pro tio, do
+kos_to:
+  term: kos to
+  class: p jm
+  category: phrase
+  translation: pro ĝi, do
 kosa:
   term: kosa
   class: b.oj
@@ -24320,7 +24350,7 @@ levura:
   term: levura
   class: b.oj
   category: root
-  translation: (bakista) gisto, fermentilo; fermenti
+  translation: (bakista) gisto, fermentilo; fermentigi (panon)
 levyatan:
   term: levyatan
   class: "n"
@@ -25637,6 +25667,11 @@ makedoniyen:
   class: b
   category: derived
   translation: makedono
+makro:
+  term: makro
+  class: t
+  category: root
+  translation: makroa, makro-
 maku:
   term: maku
   class: b
@@ -25947,6 +25982,11 @@ manganis:
   class: b
   category: root
   translation: mangano
+mangeyyen:
+  term: mangeyyen
+  class: b
+  category: derived
+  translation: gejo
 mango:
   term: mango
   class: b
@@ -28004,6 +28044,21 @@ modelo:
   class: b
   category: root
   translation: modelo
+modera:
+  term: modera
+  class: b.oj
+  category: root
+  translation: modero, kontrolo; moderigi, kontroli
+moderado:
+  term: moderado
+  class: t
+  category: derived
+  translation: modera, moderita, kontrolita
+moderayen:
+  term: moderayen
+  class: b
+  category: derived
+  translation: moderatoro, kontrolanto
 moderno:
   term: moderno
   class: t
@@ -28144,6 +28199,16 @@ momo:
   class: b
   category: root
   translation: mamo (<em>neklinika</em>)
+momya:
+  term: momya
+  class: b
+  category: root
+  translation: mumio
+momyagi:
+  term: momyagi
+  class: b.oj
+  category: derived
+  translation: mumiigo; mumiigi
 mon:
   term: mon
   class: b
@@ -30306,6 +30371,11 @@ nota:
   class: b.oj
   category: root
   translation: noto
+notu:
+  term: notu
+  class: b.oj
+  category: root
+  translation: boltingo, ŝraŭbingo
 novela:
   term: novela
   class: b
@@ -38280,7 +38350,7 @@ swe:
   term: swe
   class: b.oj
   category: root
-  translation: imposto
+  translation: imposto; imposti
 swedo:
   term: swedo
   class: t
@@ -41677,7 +41747,7 @@ vite:
   term: vite
   class: b.oj
   category: root
-  translation: ŝraŭbo
+  translation: ŝraŭbo; ŝraŭbi
 vodka:
   term: vodka
   class: b
@@ -42468,8 +42538,8 @@ xahidugido:
   class: t
   category: derived
   translation: martirigita
-xahihuya:
-  term: xahihuya
+xahiduya:
+  term: xahiduya
   class: b
   category: derived
   translation: martireco
@@ -43140,6 +43210,11 @@ xorfley:
   class: b.nenoj
   category: derived
   translation: ekflugo; ekflugi
+xorfobi:
+  term: xorfobi
+  class: b.oro
+  category: derived
+  translation: ektimo, timiĝo; ektimi, timiĝi
 xorganci:
   term: xorganci
   class: b.oj
@@ -43662,9 +43737,14 @@ yate:
   translation: jaĥto, jakto
 yatima:
   term: yatima
-  class: b.oj
+  class: b
   category: root
-  translation: orfo; orfigi
+  translation: orfo
+yatimacu:
+  term: yatimacu
+  class: b.nenoj
+  category: derived
+  translation: orfiĝo; orfiĝi
 yatimado:
   term: yatimado
   class: t
@@ -43675,6 +43755,11 @@ yatimadom:
   class: b
   category: derived
   translation: orfejo
+yatimagi:
+  term: yatimagi
+  class: b.oj
+  category: derived
+  translation: orfigo; orfigi
 yawxe:
   term: yawxe
   class: b
