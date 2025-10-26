@@ -6382,7 +6382,7 @@ celesta:
   term: celesta
   class: b
   category: root
-  translation: celeste
+  translation: celesta, celeste
 celidi:
   term: celidi
   class: b.oj
@@ -6402,7 +6402,7 @@ celul:
   term: celul
   class: b
   category: root
-  translation: cell (<em>biology</em>)
+  translation: cell
 celulli:
   term: celulli
   class: t
@@ -9323,7 +9323,7 @@ donmen:
   term: donmen
   class: b.nenoj
   category: root
-  translation: alliance; ally (<em>become allied with</em>)
+  translation: alliance, league; ally (<em>become allied with</em>)
 donmenyen:
   term: donmenyen
   class: b
@@ -13526,7 +13526,7 @@ flirtiyen:
   term: flirtiyen
   class: b
   category: derived
-  translation: flirt
+  translation: flirt, flirter
 flores:
   term: Flores
   class: su n
@@ -14558,7 +14558,7 @@ garaku:
   term: garaku
   class: b.nenoj
   category: root
-  translation: drowning; sinking; drown, sink
+  translation: drowning, sinking; drown, sink
 garakudo:
   term: garakudo
   class: t
@@ -16377,6 +16377,11 @@ hawanaviyen:
   class: b
   category: derived
   translation: pilot, aeronaut
+haxhaxa:
+  term: haxhaxa
+  class: ""
+  category: root
+  translation: rustle
 haxi:
   term: haxi
   class: b
@@ -27475,7 +27480,7 @@ meta:
   term: meta
   class: t
   category: root
-  translation: meta, meta-
+  translation: meta, meta-, autorefferential, recursive
 metabolis:
   term: metabolis
   class: b.oro
@@ -27485,7 +27490,7 @@ metabolisli:
   term: metabolisli
   class: t
   category: derived
-  translation: metabolic
+  translation: metabolic; metabolically
 metal:
   term: metal
   class: b
@@ -29292,7 +29297,7 @@ naremkogeli:
   term: naremkogeli
   class: t
   category: derived
-  translation: velar; velarly
+  translation: velar, of the soft palate; velarly
 nasa:
   term: nasa
   class: b.oj
@@ -29985,6 +29990,11 @@ ner_fe:
   class: p
   category: phrase
   translation: near, close to, approximately
+ner_le:
+  term: ner le
+  class: ""
+  category: derived
+  translation: have recently
 ner_lefe:
   term: ner lefe
   class: p jm
@@ -30005,6 +30015,11 @@ ner_of:
   class: p
   category: phrase
   translation: near, close to
+ner_xa:
+  term: ner xa
+  class: ""
+  category: derived
+  translation: will soon
 ner_xafe:
   term: ner xafe
   class: p jm
