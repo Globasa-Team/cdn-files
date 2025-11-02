@@ -1491,6 +1491,11 @@ amerikyum:
   class: b
   category: root
   translation: americio
+amerindi:
+  term: Amerindi
+  class: t
+  category: proper word
+  translation: Indiana, pri indiĝenaj amerikanoj
 ametisto:
   term: ametisto
   class: b
@@ -3527,6 +3532,11 @@ ban:
   class: d
   category: root
   translation: iu, i-
+ban_plu:
+  term: ban plu
+  class: d
+  category: derived
+  translation: iuj
 banana:
   term: banana
   class: b
@@ -3651,7 +3661,7 @@ bannumer:
   term: bannumer
   class: d
   category: derived
-  translation: iu nombro
+  translation: kelkaj
 banoto:
   term: banoto
   class: pn
@@ -3707,6 +3717,11 @@ bao:
   class: b
   category: root
   translation: sako
+baobabu:
+  term: baobabu
+  class: b
+  category: root
+  translation: baobabo
 baraka:
   term: baraka
   class: b.oj
@@ -4267,6 +4282,21 @@ begoyonyen:
   class: b
   category: derived
   translation: dungito
+behajakal:
+  term: behajakal
+  class: t
+  category: derived
+  translation: nenecesa; nenecese
+behajane:
+  term: behajane
+  class: t
+  category: derived
+  translation: necesa; necese
+behajapul:
+  term: behajapul
+  class: t
+  category: derived
+  translation: necesa; necese
 beharemusi:
   term: beharemusi
   class: t
@@ -12733,6 +12763,11 @@ fe_un_mara:
   class: jm p
   category: phrase
   translation: unufoje
+fe_xarti_ki:
+  term: fe xarti ki
+  class: l jm
+  category: phrase
+  translation: kondiĉe ke, se nur
 fe_xaya:
   term: fe xaya
   class: p jm
@@ -15779,11 +15814,21 @@ hajado:
   class: t
   category: derived
   translation: bezonita, necesa; bezonite, necese
+hajakal:
+  term: hajakal
+  class: t
+  category: derived
+  translation: memsufiĉa, nebezonanta
+hajane:
+  term: hajane
+  class: t
+  category: derived
+  translation: bezonanta, senhava
 hajapul:
   term: hajapul
   class: t
   category: derived
-  translation: bezonanta, bezona; bezonante
+  translation: bezonanta; bezonante
 haji:
   term: haji
   class: m
@@ -22760,12 +22805,12 @@ kos_dento:
   term: kos dento
   class: p jm
   category: phrase
-  translation: pro tio, do
+  translation: pro tio
 kos_to:
   term: kos to
   class: p jm
   category: phrase
-  translation: pro ĝi, do
+  translation: do
 kosa:
   term: kosa
   class: b.oj
@@ -24069,7 +24114,7 @@ le:
   term: le
   class: par
   category: root
-  translation: markilo de estinteca tempo (simile al -is)
+  translation: -is (<em>markilo de estinteca tempo</em>)
 le-:
   term: le-
   class: lfik
@@ -24266,6 +24311,11 @@ leli:
   class: t
   category: derived
   translation: antaŭa, pasinta, estinta
+leli_banwatu:
+  term: leli banwatu
+  class: m jm
+  category: derived
+  translation: je iu estinta fojo
 lemur:
   term: lemur
   class: b
@@ -26332,6 +26382,11 @@ mas_fe_hataya:
   class: l jm
   category: phrase
   translation: sed tamen, kaj tamen
+mas_sol_eger:
+  term: mas sol eger
+  class: j jm
+  category: phrase
+  translation: kondiĉe ke, se nur
 masaji:
   term: masaji
   class: b.oj
@@ -26819,11 +26874,6 @@ maxus:
   class: p
   category: root
   translation: plus, kun aldono de
-maxus_eger:
-  term: maxus eger
-  class: l jm
-  category: phrase
-  translation: kondiĉe ke, se nur
 maxusgi:
   term: maxusgi
   class: b.oj
@@ -29879,7 +29929,7 @@ ner_le:
   term: ner le
   class: ""
   category: derived
-  translation: ""
+  translation: antaŭ ne longe ___is
 ner_lefe:
   term: ner lefe
   class: p jm
@@ -29904,7 +29954,7 @@ ner_xa:
   term: ner xa
   class: ""
   category: derived
-  translation: ""
+  translation: baldaŭ ___os
 ner_xafe:
   term: ner xafe
   class: p jm
@@ -34629,6 +34679,11 @@ reguladoku:
   class: b
   category: derived
   translation: ĉarto
+regulakal:
+  term: regulakal
+  class: t
+  category: derived
+  translation: neregula; neregule
 regulapul:
   term: regulapul
   class: t
@@ -35309,6 +35364,11 @@ rukone:
   class: b.oj
   category: derived
   translation: rekono; rekoni
+ruli:
+  term: ruli
+  class: t
+  category: derived
+  translation: ""
 rum:
   term: rum
   class: b
@@ -37559,7 +37619,7 @@ solosekso:
   term: solosekso
   class: b.nenoj
   category: derived
-  translation: memmasturbado, sinmasturbado, memmasturbu, sinmasturbi
+  translation: memmasturbado, sinmasturbado, memmasturbi, sinmasturbi
 soloya:
   term: soloya
   class: b
@@ -42598,6 +42658,11 @@ xali:
   class: t
   category: derived
   translation: estonta; estonte
+xali_banwatu:
+  term: xali banwatu
+  class: m jm
+  category: derived
+  translation: je iu estonta fojo
 xama:
   term: xama
   class: b

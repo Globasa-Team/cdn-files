@@ -297,6 +297,7 @@ amerika: '<em>(su n)</em> Америка '
 amerikali: <em>(t)</em> американский
 amerikayen: <em>(b)</em> американец, американка
 amerikyum: '<em>(b)</em> америций '
+amerindi: <em>(t)</em> индийский
 ametisto: '<em>(b)</em> аметист '
 amiku: '<em>(t)</em> '
 amikucu: '<em>(b.nenoj)</em> '
@@ -704,6 +705,7 @@ balutajozi: <em>(b)</em> жёлудь
 bambu: <em>(b)</em> бамбук
 bamya: '<em>(b)</em> '
 ban: '<em>(d)</em> '
+ban_plu: '<em>(d)</em> '
 banana: <em>(b)</em> банан
 bananadrevo: '<em>(b)</em> '
 banda: <em>(su n)</em> Банда (<em>море, архипелаг</em>)
@@ -740,6 +742,7 @@ banyo: '<em>(b.oj)</em> '
 banyokamer: '<em>(b)</em> '
 banyotwala: '<em>(b)</em> '
 bao: '<em>(b)</em> '
+baobabu: '<em>(b)</em> '
 baraka: '<em>(b.oj)</em> '
 barakado: '<em>(t)</em> '
 barakuda: <em>(b)</em> барракуда
@@ -852,6 +855,9 @@ befobido: '<em>(t)</em> '
 befuraha: '<em>(b.nenoj; b.oj)</em> '
 begiximyen: '<em>(b)</em> '
 begoyonyen: '<em>(b)</em> '
+behajakal: '<em>(t)</em> '
+behajane: '<em>(t)</em> '
+behajapul: '<em>(t)</em> '
 beharemusi: '<em>(t)</em> '
 behemotu: <em>(n)</em> бегемот
 beinterviuyen: '<em>(b)</em> '
@@ -2547,6 +2553,7 @@ fe_tiga_mara: '<em>(jm p)</em> '
 fe_totalya: '<em>(p jm)</em> '
 fe_ultraya: '<em>(p jm)</em> '
 fe_un_mara: '<em>(jm p)</em> '
+fe_xarti_ki: '<em>(l jm)</em> '
 fe_xaya: '<em>(p jm)</em> '
 fe_xoru: '<em>(p jm)</em> '
 fe_xugwan: '<em>(p jm)</em> '
@@ -3155,6 +3162,8 @@ hahagi: '<em>(b.oj)</em> '
 hahagine: '<em>(t)</em> '
 haja: '<em>(b.oj)</em> '
 hajado: '<em>(t)</em> '
+hajakal: '<em>(t)</em> '
+hajane: '<em>(t)</em> '
 hajapul: '<em>(t)</em> '
 haji: '<em>(m)</em> '
 hajul: '<em>(t)</em> '
@@ -3342,8 +3351,8 @@ hewan: <em>(b)</em> животное
 hewandom: <em>(b)</em> зоопарк, зоосад
 hewandomyen: '<em>(b)</em> '
 hewandotor: '<em>(b)</em> '
-hewanlogi: '<em>(b)</em> '
-hewanmedis: '<em>(b)</em> '
+hewanlogi: <em>(b)</em> зоология
+hewanmedis: <em>(b)</em> ветеринария, ветеринарная медицина
 hewanmedisyen: '<em>(b)</em> '
 hey: '<em>(il)</em> '
 hezekyel: <em>(su n)</em> Иезекииль
@@ -4169,17 +4178,17 @@ kara: <em>(su n)</em> Кара
 karakal: <em>(b)</em> каракал
 karamel: '<em>(b)</em> '
 karanfu: '<em>(b)</em> '
-karaoke: '<em>(b)</em> '
+karaoke: <em>(b)</em> караоке
 karar: '<em>(b.oj)</em> '
 kararfil: '<em>(t)</em> '
 kararpul: '<em>(t)</em> '
-karate: '<em>(b)</em> '
-karavan: '<em>(b)</em> '
-karawi: '<em>(b)</em> '
+karate: <em>(b)</em> карате, каратэ
+karavan: <em>(b)</em> караван
+karawi: <em>(b)</em> тмин
 karay: '<em>(t)</em> '
 karayje: '<em>(b)</em> '
 karayya: '<em>(b)</em> '
-karbon: '<em>(b)</em> '
+karbon: <em>(b)</em> углерод
 kardigan: '<em>(b)</em> '
 kardigan_name: <em>(su n)</em> Кардиган
 kardinal: <em>(b)</em> кардинал
@@ -4192,7 +4201,7 @@ kardulexi: '<em>(b)</em> '
 karduli_basatayti: '<em>(b)</em> '
 kareto: '<em>(b)</em> '
 karetra: '<em>(b)</em> '
-kargux: <em>(b)</em> кролик
+kargux: <em>(b)</em> кролик, заяц
 kargux_ci: '<em>(b)</em> '
 kari: '<em>(b.oj)</em> '
 karibe: <em>(su n)</em> Карибы
@@ -4203,8 +4212,8 @@ karismapul: <em>(t)</em> харизматичный, харизматическ�
 kariyen: '<em>(b)</em> '
 karkumbu: <em>(b)</em> синица
 karlo: <em>(su n)</em> Карл
-karma: '<em>(b)</em> '
-karmali: '<em>(t)</em> '
+karma: <em>(b)</em> карма
+karmali: <em>(t)</em> кармический
 karmel: <em>(su n)</em> Кармил
 karnataka: <em>(su n)</em> Карнатака
 karnatakali: '<em>(t)</em> '
@@ -4218,7 +4227,7 @@ karpe: <em>(b)</em> карп, сазан
 karpentari: <em>(su n)</em> Карпентария
 karta: '<em>(b)</em> '
 karta_aya: '<em>(b)</em> '
-kartel: '<em>(b)</em> '
+kartel: <em>(b)</em> картель
 karton: '<em>(b)</em> '
 karusel: '<em>(b)</em> '
 kasava: '<em>(b)</em> '
@@ -4232,7 +4241,7 @@ kasirunenible: '<em>(t)</em> '
 kaso: '<em>(b)</em> '
 kaspi: <em>(su n)</em> Каспийское море
 kasta: '<em>(b)</em> '
-kastani: '<em>(b)</em> '
+kastani: <em>(b)</em> каштан
 kastilo: '<em>(b)</em> '
 kaswari: <em>(b)</em> казуар
 kata: '<em>(b.oj)</em> '
@@ -4851,6 +4860,7 @@ leim: <em>(b.oj)</em> клей; клеить
 leimdo: '<em>(t)</em> '
 leki: '<em>(l)</em> '
 leli: '<em>(t)</em> '
+leli_banwatu: '<em>(m jm)</em> '
 lemur: <em>(b)</em> лемур
 lense: '<em>(b)</em> '
 lenterna: <em>(b)</em> фонарь
@@ -5265,6 +5275,7 @@ marximalo: <em>(b)</em> маршмэллоу
 maryami: <em>(b)</em> шалфей
 mas: '<em>(l)</em> '
 mas_fe_hataya: '<em>(l jm)</em> '
+mas_sol_eger: '<em>(j jm)</em> '
 masaji: '<em>(b.oj)</em> '
 masajiyen: '<em>(b)</em> '
 mase: '<em>(b)</em> '
@@ -5362,7 +5373,6 @@ maxpahnacu: '<em>(b.nenoj)</em> '
 maxpahnagi: '<em>(b.oj)</em> '
 maxpul: '<em>(t)</em> '
 maxus: '<em>(p)</em> '
-maxus_eger: '<em>(l jm)</em> '
 maxusgi: '<em>(b.oj)</em> '
 maxusli: '<em>(t)</em> '
 maxusxey: '<em>(b)</em> '
@@ -6924,6 +6934,7 @@ reforma: '<em>(b.oj)</em> '
 reformado: '<em>(t)</em> '
 regula: '<em>(b)</em> '
 reguladoku: '<em>(b)</em> '
+regulakal: '<em>(t)</em> '
 regulapul: '<em>(t)</em> '
 rehani: <em>(b)</em> базилик
 reheni: '<em>(b.oj)</em> '
@@ -7060,6 +7071,7 @@ rukesahni: <em>(b)</em> фон, задний план, бэкграунд
 rukesutun: '<em>(b)</em> '
 rukesutunyen: <em>(b)</em> позвоночное
 rukone: '<em>(b.oj)</em> '
+ruli: '<em>(t)</em> '
 rum: <em>(b)</em> ром
 rumani: <em>(su n)</em> Румыния
 rumanili: <em>(t)</em> румынский
@@ -8517,6 +8529,7 @@ xaki: '<em>(l)</em> '
 xalaf: '<em>(b)</em> '
 xalgam: '<em>(b)</em> '
 xali: '<em>(t)</em> '
+xali_banwatu: '<em>(m jm)</em> '
 xama: <em>(b)</em> свеча
 xamahole: '<em>(b)</em> '
 xaman: <em>(b)</em> шаман

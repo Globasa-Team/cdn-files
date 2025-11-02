@@ -54,7 +54,7 @@
 -pul: <em>(t xfik)</em> with enough or more than enough, -ful, -ous
 -sa: <em>(b xfik)</em> language, animal sounds
 -sim: <em>(t xfik)</em> -like, -ish (<em>added to nouns</em>)
--su: <em>(t xfik)</em> <em>possessive adjective marker</em>
+-su: <em>(t xfik)</em> <em>possessive adjective marker (applied only to pronouns)</em>
 -tim: <em>(b xfik)</em> team, body
 -tora: <em>(b xfik)</em> -ator, machine, device, apparatus, appliance (<em>attached
   to verbs</em>)
@@ -319,6 +319,7 @@ amerikali: '<em>(t)</em> North-American, South-American, American (<em>of or rel
   to the Americas</em>) '
 amerikayen: <em>(b)</em> North American, South American
 amerikyum: <em>(b)</em> americium, Am
+amerindi: <em>(t)</em> Amerindian, Native American, (American) Indian
 ametisto: <em>(b)</em> amethyst
 amiku: <em>(t)</em> deep, profound; deeply, profoundly
 amikucu: <em>(b.nenoj)</em> deepen, become deep, become deeper
@@ -742,12 +743,13 @@ balutajozi: <em>(b)</em> acorn
 bambu: <em>(b)</em> bamboo
 bamya: <em>(b)</em> okra
 ban: <em>(d)</em> some, certain
+ban_plu: <em>(d)</em> certain (<em>plural</em>), some (<em>plural</em>)
 banana: <em>(b)</em> banana, dick (<em>penis</em>, <em>vulgar</em>)
 bananadrevo: <em>(b)</em> banana tree
 banda: <em>(su n)</em> Banda
 bandekutu: <em>(b)</em> bandicoot
 bandera: <em>(b)</em> flag, banner
-banete: <em>(pn)</em> some of them
+banete: <em>(pn)</em> some people, some of them
 bangla: <em>(su n)</em> Bengal (<em>region</em>)
 bangladexa: <em>(su n)</em> Bangladesh
 banglali: <em>(t)</em> Bengali
@@ -783,6 +785,7 @@ banyo: <em>(b.oj)</em> bath; bathe
 banyokamer: <em>(b)</em> bathroom
 banyotwala: <em>(b)</em> bath towel
 bao: <em>(b)</em> bag
+baobabu: <em>(b)</em> baobab, <em>Adansonia</em>
 baraka: <em>(b.oj)</em> blessing; bless
 barakado: <em>(t)</em> blessed
 barakuda: <em>(b)</em> barracuda, Sphyraena
@@ -898,6 +901,9 @@ befobido: <em>(t)</em> feared
 befuraha: '<em>(b.nenoj; b.oj)</em> intr: be pleased, be pleasured (by); tr: enjoy'
 begiximyen: <em>(b)</em> suspect
 begoyonyen: <em>(b)</em> employee
+behajakal: <em>(t)</em> needless, unnecessary; needlessly
+behajane: <em>(t)</em> necessary; necessarily
+behajapul: <em>(t)</em> necessary; necessarily
 beharemusi: <em>(t)</em> indispensable; indispensablely
 behemotu: <em>(n)</em> behemoth
 beinterviuyen: <em>(b)</em> interviewee
@@ -2638,6 +2644,8 @@ fe_tiga_mara: <em>(jm p)</em> thrice
 fe_totalya: <em>(p jm)</em> in total, in all, overall
 fe_ultraya: <em>(p jm)</em> beyond
 fe_un_mara: <em>(jm p)</em> once, one time
+fe_xarti_ki: <em>(l jm)</em> as long as, so long as, provided (that), granted (that),
+  in case (that), in the event (that), on the condition that
 fe_xaya: <em>(p jm)</em> in the future, afterwards, later (on)
 fe_xoru: <em>(p jm)</em> at the start, in the beginning, initially
 fe_xugwan: <em>(p jm)</em> usually, typically
@@ -3272,7 +3280,9 @@ haha: <em>(b.oj.ru)</em> laugh, laughter; laugh
 hahagi: <em>(b.oj)</em> make laugh, cause to laugh
 hahagine: <em>(t)</em> ridiculous; ridiculously
 haja: <em>(b.oj)</em> necessity, need, want; need
-hajado: <em>(t)</em> needed, necessary; necessarily
+hajado: <em>(t)</em> needed, necessary
+hajakal: <em>(t)</em> self-sufficient, without need
+hajane: <em>(t)</em> in need, needy; needily
 hajapul: <em>(t)</em> needy; needily
 haji: <em>(m)</em> still, yet
 hajul: <em>(t)</em> shy, bashful, timid, coy; shyly, bashfully, timidly, coyly
@@ -3465,10 +3475,10 @@ hesabu: <em>(b.oj)</em> count, calculation; count, calculate
 hewan: <em>(b)</em> animal
 hewandom: <em>(b)</em> zoo
 hewandomyen: <em>(b)</em> zookeeper
-hewandotor: <em>(b)</em> veterinarian
+hewandotor: <em>(b)</em> veterinarian, vet
 hewanlogi: <em>(b)</em> zoology
 hewanmedis: <em>(b)</em> veterinary medicine
-hewanmedisyen: '<em>(b)</em> veterinarian '
+hewanmedisyen: <em>(b)</em> veterinarian, vet
 hey: <em>(il)</em> hey
 hezekyel: <em>(su n)</em> Ezekiel
 hidrogen: <em>(b)</em> hydrogen, H
@@ -4719,8 +4729,8 @@ korsaro: <em>(b)</em> pirate, corsair
 korseto: <em>(b)</em> corset
 koryandro: <em>(b)</em> coriander, cilantro
 kos: <em>(p)</em> because of, due to, for
-kos_dento: <em>(p jm)</em> because of that, due to that, so, therefore
-kos_to: <em>(p jm)</em> because of it, due to it, so, therefore
+kos_dento: <em>(p jm)</em> because of that, due to that
+kos_to: <em>(p jm)</em> so, therefore
 kosa: <em>(b.oj)</em> cause; cause
 kosamon: <em>(b)</em> factor
 kosino: <em>(b)</em> cosine
@@ -5030,6 +5040,7 @@ leim: <em>(b.oj)</em> glue; glue
 leimdo: <em>(t)</em> glued
 leki: <em>(l)</em> before (<em>+ sentence</em>)
 leli: <em>(t)</em> past, previous, former; previously, formerly, beforehand
+leli_banwatu: <em>(m jm)</em> at some point in the past , once upon a time
 lemur: <em>(b)</em> lemur, <em>Lemuroidea</em>
 lense: <em>(b)</em> lens
 lenterna: <em>(b)</em> lantern
@@ -5449,6 +5460,8 @@ marximalo: <em>(b)</em> marshmallow
 maryami: <em>(b)</em> sage, <em>Salvia</em>
 mas: <em>(l)</em> but
 mas_fe_hataya: <em>(l jm)</em> and yet, but nevertheless
+mas_sol_eger: <em>(j jm)</em> as long as, so long as, provided (that), granted (that),
+  in case (that), in the event (that), on the condition that
 masaji: <em>(b.oj)</em> massage; massage
 masajiyen: <em>(b)</em> massage therapist, masseur, masseuse
 mase: <em>(b)</em> mass (<em>physics</em>)
@@ -5553,8 +5566,6 @@ maxpul: '<em>(t)</em> further, another, extra, additional, additionally, in addi
   furthermore, moreover '
 maxus: <em>(p)</em> plus, in addition to, with addition of, besides, aside from, including,
   other than
-maxus_eger: <em>(l jm)</em> as long as, so long as, provided (that), granted (that),
-  in case (that), in the event (that)
 maxusgi: <em>(b.oj)</em> addition; add
 maxusli: <em>(t)</em> positive (<em>+1, +2, etc</em>)
 maxusxey: <em>(b)</em> addition, attachment, appendix
@@ -6837,10 +6848,10 @@ plax: <em>(b.oj)</em> splash, splatter; splash, splatter
 plaxdo: <em>(t)</em> splashed, splattered
 pley: '<em>(b.nenoj)</em> playback; intr: play, be playing (<em>video, music, button</em>)'
 pleygi: <em>(b.oj)</em> playing; play (<em>video, music, button</em>)
-plu: <em>(t)</em> multiple, <em>plurality marker</em>
+plu: <em>(t)</em> multiple, some (<em>several</em>),  <em>plurality marker</em>
 plu-: <em>(lfik)</em> <em>multiple</em>
 plubasayen: <em>(b)</em> polyglot
-plucelulli: <em>(t)</em> multicellular
+plucelulli: <em>(t)</em> multicellular, pluricellular
 plucu: <em>(b.nenoj)</em> multiplication; multiply
 plugi: <em>(b.oj)</em> multiplication; multiply
 plugon: <em>(b)</em> polygon
@@ -6964,7 +6975,7 @@ poskolonigi: <em>(b.oj)</em> decolonization; decolonize
 poskom: <em>(l)</em> unlike
 poslifti: <em>(b.oj)</em> lowering; lower
 posmasku: <em>(b.oj)</em> unmasking; unmask
-posnaturali: <em>(t)</em> artificial; artificially
+posnaturali: <em>(t)</em> unnatural, artificial; unnaturallly, artificially
 pospel: <em>(b.oj)</em> pull
 posplagu: <em>(b.oj)</em> unplug, uncork
 posplagudo: <em>(t)</em> unplugged
@@ -7155,7 +7166,8 @@ reforma: <em>(b.oj)</em> reformation; reform
 reformado: <em>(t)</em> reformed
 regula: <em>(b)</em> rule, regulation, policy
 reguladoku: <em>(b)</em> charter
-regulapul: <em>(t)</em> regular, rulebound; regularly
+regulakal: <em>(t)</em> irregular; irregularly
+regulapul: <em>(t)</em> regular; regularly
 rehani: <em>(b)</em> basil
 reheni: <em>(b.oj)</em> mortgage; mortgage
 rehina: <em>(b)</em> hostage
@@ -7215,7 +7227,7 @@ rifale: <em>(b.oj)</em> redo
 rigi: <em>(b.oj)</em> repeat
 rikrimenyen: <em>(b)</em> recividist
 rilabel: <em>(b.oj)</em> relabeling; relabel
-rili: <em>(t)</em> again
+rili: <em>(t)</em> again, once more, one more time
 rilide: <em>(b.oj)</em> redirection, referral; redirect, refer
 rimarali: <em>(t)</em> again, once more, one more time
 rinjon: <em>(b.nenoj)</em> bell; ring
@@ -7295,6 +7307,7 @@ rukesahni: <em>(b)</em> background
 rukesutun: <em>(b)</em> backbone, spine
 rukesutunyen: <em>(b)</em> vertebrate
 rukone: '<em>(b.oj)</em> recognition; recognize (<em>identify</em>) '
+ruli: <em>(t)</em> again (<em>back</em>)
 rum: <em>(b)</em> rum
 rumani: <em>(su n)</em> Romania
 rumanili: <em>(t)</em> Romanian
@@ -7564,7 +7577,7 @@ semorgi: <em>(b.nenoj)</em> suicide; commit suicide, kill oneself, take one&#039
   life
 sempay: <em>(t)</em> narrow; narrowly
 sempayya: <em>(b)</em> narrowness
-sen: <em>(b.lin)</em> be, am, is, are
+sen: <em>(b.lin)</em> being (<em>existence</em>); be, am, is, are
 sen_peldo: <em>(f jm)</em> feel like
 senaryo: <em>(b)</em> script, screenplay
 senato: <em>(b)</em> senate
@@ -7738,7 +7751,7 @@ soksu: <em>(b)</em> sock
 sokutu: <em>(b.nenoj)</em> fall, drop; fall
 sokutudo: <em>(t)</em> fallen
 sokutugi: <em>(b.oj)</em> dropping; drop
-sol: <em>(m)</em> only, merely, just, a mere
+sol: <em>(m)</em> only, merely, just, a mere, but (<em>poetic</em>)
 sol-: <em>(lfik)</em> only, merely, just
 sola: <em>(su n)</em> Sol, Sun (<em>in our planetary system</em>)
 solabanyo: <em>(b.oj)</em> sunbath; sunbathe
@@ -8787,6 +8800,7 @@ xaki: <em>(l)</em> after (<em>+ sentence</em>), once (<em>+ sentence</em>)
 xalaf: <em>(b)</em> whore, slut
 xalgam: <em>(b)</em> turnip
 xali: <em>(t)</em> future, afterwards, later
+xali_banwatu: <em>(m jm)</em> at some point in the future , eventually
 xama: <em>(b)</em> candle
 xamahole: <em>(b)</em> candlestick, candle holder
 xaman: <em>(b)</em> shaman

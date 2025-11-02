@@ -16,6 +16,7 @@ Unused?:
   report link: "FALSE"
   api link: "FALSE"
   Entry view: "FALSE"
+  entry translation missing: "FALSE"
   derived word list: "FALSE"
   synonym sentence: "FALSE"
   synonyms sentence: "FALSE"
@@ -136,6 +137,7 @@ glb:
   report link: ""
   api link: ""
   Entry view: ""
+  entry translation missing: ""
   derived word list: ""
   synonym sentence: ""
   synonyms sentence: ""
@@ -256,6 +258,7 @@ eng:
   report link: Report problems
   api link: API
   Entry view: ""
+  entry translation missing: '[Missing Translation]'
   derived word list: 'Derived Words:'
   synonym sentence: 'Synonym: %1$s'
   synonyms sentence: 'Synonyms: %1$s'
@@ -272,7 +275,7 @@ eng:
   entry etymology am kompara header: Compare with
   entry etymology link: See external link.
   etymology link: See external link.
-  entry natlang similar header: See Also
+  entry natlang similar header: Etymological support
   natlang search title bar: "English \U0001F852 Globasa"
   tags title: Vocabulary Lists
   single tag view: Vocabulary List
@@ -382,6 +385,7 @@ epo:
   report link: Atentigi pri problemo
   api link: API
   Entry view: ""
+  entry translation missing: "[Teksto ankora\u016D ne tradukita]"
   derived word list: 'Kunmetitaj Vortoj:'
   synonym sentence: 'Sinonimo: %1$s'
   synonyms sentence: 'Sinonimoj: %1$s'
@@ -398,7 +402,7 @@ epo:
   entry etymology am kompara header: Komparu kun
   entry etymology link: Vidu ekstera ligilo.
   etymology link: Vidu ekstera ligilo.
-  entry natlang similar header: "Vidu Anka\u016D"
+  entry natlang similar header: Etimologia apogo
   natlang search title bar: "Esperanto \U0001F852 Globasa"
   tags title: Vortlistoj
   single tag view: Vortlisto
@@ -506,6 +510,7 @@ deu:
   report link: ""
   api link: ""
   Entry view: ""
+  entry translation missing: ""
   derived word list: ""
   synonym sentence: ""
   synonyms sentence: ""
@@ -626,6 +631,7 @@ fra:
   report link: "Signaler un probl\xE8me"
   api link: API
   Entry view: ""
+  entry translation missing: '[Texte encore non traduit]'
   derived word list: ""
   synonym sentence: "<strong>Synonyme</strong>\u202F: %1$s"
   synonyms sentence: '<strong>Synonymes</strong> : %1$s'
@@ -751,6 +757,7 @@ rus:
   report link: ""
   api link: ""
   Entry view: ""
+  entry translation missing: ""
   derived word list: ""
   synonym sentence: ""
   synonyms sentence: ""
@@ -871,6 +878,7 @@ spa:
   report link: Reportar problemas
   api link: API
   Entry view: ""
+  entry translation missing: "[Texto a\xFAn sin traducir]"
   derived word list: 'Palabras Derivadas:'
   synonym sentence: "Sin\xF3nimo: %1$s"
   synonyms sentence: "Sin\xF3nimos: %1$s"
@@ -887,7 +895,7 @@ spa:
   entry etymology am kompara header: Comparar con
   entry etymology link: "V\xE9ase enlace externo."
   etymology link: "V\xE9ase enlace externo."
-  entry natlang similar header: "V\xE9ase Tambi\xE9n"
+  entry natlang similar header: "Respaldo etimol\xF3gico"
   natlang search title bar: "espa\xF1ol \U0001F852 Globasa"
   tags title: Listas de vocabulario
   single tag view: Lista de vocabulario
@@ -997,6 +1005,7 @@ zho:
   report link: ""
   api link: ""
   Entry view: ""
+  entry translation missing: ""
   derived word list: ""
   synonym sentence: ""
   synonyms sentence: ""
@@ -1117,6 +1126,7 @@ nld:
   report link: ""
   api link: API
   Entry view: ""
+  entry translation missing: ""
   derived word list: ""
   synonym sentence: ""
   synonyms sentence: ""
@@ -1237,6 +1247,7 @@ fry:
   report link: ""
   api link: API
   Entry view: ""
+  entry translation missing: ""
   derived word list: ""
   synonym sentence: ""
   synonyms sentence: ""
@@ -1357,6 +1368,7 @@ por:
   report link: ""
   api link: ""
   Entry view: ""
+  entry translation missing: ""
   derived word list: ""
   synonym sentence: ""
   synonyms sentence: ""

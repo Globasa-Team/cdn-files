@@ -275,7 +275,7 @@
   term: -su
   class: t xfik
   category: affix
-  translation: <em>&#039;s</em> (<em>marcador de adjetivo posesivo para pronombres</em>)
+  translation: <em>marcador de adjetivo posesivo para pronombres</em>
 -tim:
   term: -tim
   class: b xfik
@@ -1512,6 +1512,12 @@ amerikyum:
   class: b
   category: root
   translation: americio, Am
+amerindi:
+  term: Amerindi
+  class: t
+  category: proper word
+  translation: ind&iacute;gena, indio americano, amerindio, indoamericano, nativo
+    americano, abor&iacute;gen americano
 ametisto:
   term: ametisto
   class: b
@@ -3569,6 +3575,11 @@ ban:
   class: d
   category: root
   translation: un, cierto
+ban_plu:
+  term: ban plu
+  class: d
+  category: derived
+  translation: unos, ciertos
 banana:
   term: banana
   class: b
@@ -3749,6 +3760,11 @@ bao:
   class: b
   category: root
   translation: bolsa
+baobabu:
+  term: baobabu
+  class: b
+  category: root
+  translation: baobab, &aacute;rbol botella, pan de mono, <em>Adansonia</em>
 baraka:
   term: baraka
   class: b.oj
@@ -4310,6 +4326,21 @@ begoyonyen:
   class: b
   category: derived
   translation: empleado (<em>persona</em>)
+behajakal:
+  term: behajakal
+  class: t
+  category: derived
+  translation: ""
+behajane:
+  term: behajane
+  class: t
+  category: derived
+  translation: ""
+behajapul:
+  term: behajapul
+  class: t
+  category: derived
+  translation: ""
 beharemusi:
   term: beharemusi
   class: t
@@ -12849,6 +12880,11 @@ fe_un_mara:
   class: jm p
   category: phrase
   translation: una vez
+fe_xarti_ki:
+  term: fe xarti ki
+  class: l jm
+  category: phrase
+  translation: siempre y cuando, con tal (de) que, en tanto que, mientras que
 fe_xaya:
   term: fe xaya
   class: p jm
@@ -15922,6 +15958,16 @@ hajado:
   class: t
   category: derived
   translation: necesario; necesariamente
+hajakal:
+  term: hajakal
+  class: t
+  category: derived
+  translation: ""
+hajane:
+  term: hajane
+  class: t
+  category: derived
+  translation: ""
 hajapul:
   term: hajapul
   class: t
@@ -24288,7 +24334,7 @@ le:
   term: le
   class: par
   category: root
-  translation: -&oacute; (<em>marcador del tiempo pasado</em>)
+  translation: <em>marcador del tiempo pasado</em>
 le-:
   term: le-
   class: lfik
@@ -24486,6 +24532,11 @@ leli:
   class: t
   category: derived
   translation: pasado, anterior, previo; anteriormente, previamente
+leli_banwatu:
+  term: leli banwatu
+  class: m jm
+  category: derived
+  translation: en cierto punto del pasado, hubo una vez
 lemur:
   term: lemur
   class: b
@@ -26570,6 +26621,11 @@ mas_fe_hataya:
   class: l jm
   category: phrase
   translation: mas sin embargo
+mas_sol_eger:
+  term: mas sol eger
+  class: j jm
+  category: phrase
+  translation: siempre y cuando, con tal (de) que, en tanto que
 masaji:
   term: masaji
   class: b.oj
@@ -27070,11 +27126,6 @@ maxus:
   class: p
   category: root
   translation: adem&aacute;s de, aparte de
-maxus_eger:
-  term: maxus eger
-  class: l jm
-  category: phrase
-  translation: siempre y cuando, con tal (de) que, en tanto que, mientras que
 maxusgi:
   term: maxusgi
   class: b.oj
@@ -27811,7 +27862,7 @@ mi:
   term: mi
   class: pn
   category: root
-  translation: yo
+  translation: yo, me
 mida:
   term: mida
   class: b
@@ -33613,7 +33664,7 @@ populergi:
   term: populergi
   class: b.oj
   category: derived
-  translation: popularizar
+  translation: popularizaci&oacute;n; popularizar
 populerya:
   term: populerya
   class: b
@@ -34954,11 +35005,16 @@ reguladoku:
   class: b
   category: derived
   translation: acta constitutiva, estatuto
+regulakal:
+  term: regulakal
+  class: t
+  category: derived
+  translation: irregular; irregularmente
 regulapul:
   term: regulapul
   class: t
   category: derived
-  translation: regular (<em>conforme a una regla</em>); regularmente
+  translation: regular; regularmente
 rehani:
   term: rehani
   class: b
@@ -35644,6 +35700,11 @@ rukone:
   class: b.oj
   category: derived
   translation: reconocimiento; reconocer
+ruli:
+  term: ruli
+  class: t
+  category: derived
+  translation: volver a
 rum:
   term: rum
   class: b
@@ -36967,7 +37028,7 @@ sen:
   term: sen
   class: b.lin
   category: root
-  translation: ser, estar
+  translation: ser; ser, estar
 sen_peldo:
   term: sen peldo
   class: f jm
@@ -42989,6 +43050,11 @@ xali:
   class: t
   category: derived
   translation: futuro; despu&eacute;s, luego, en el futuro
+xali_banwatu:
+  term: xali banwatu
+  class: m jm
+  category: derived
+  translation: en cierto punto del futuro, eventualmente
 xama:
   term: xama
   class: b

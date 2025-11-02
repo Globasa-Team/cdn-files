@@ -268,7 +268,7 @@
   term: -su
   class: t xfik
   category: affix
-  translation: <em>possessive adjective marker</em>
+  translation: <em>possessive adjective marker (applied only to pronouns)</em>
 -tim:
   term: -tim
   class: b xfik
@@ -1499,6 +1499,11 @@ amerikyum:
   class: b
   category: root
   translation: americium, Am
+amerindi:
+  term: Amerindi
+  class: t
+  category: proper word
+  translation: Amerindian, Native American, (American) Indian
 ametisto:
   term: ametisto
   class: b
@@ -3544,6 +3549,11 @@ ban:
   class: d
   category: root
   translation: some, certain
+ban_plu:
+  term: ban plu
+  class: d
+  category: derived
+  translation: certain (<em>plural</em>), some (<em>plural</em>)
 banana:
   term: banana
   class: b
@@ -3573,7 +3583,7 @@ banete:
   term: banete
   class: pn
   category: derived
-  translation: some of them
+  translation: some people, some of them
 bangla:
   term: Bangla
   class: su n
@@ -3728,6 +3738,11 @@ bao:
   class: b
   category: root
   translation: bag
+baobabu:
+  term: baobabu
+  class: b
+  category: root
+  translation: baobab, <em>Adansonia</em>
 baraka:
   term: baraka
   class: b.oj
@@ -4290,6 +4305,21 @@ begoyonyen:
   class: b
   category: derived
   translation: employee
+behajakal:
+  term: behajakal
+  class: t
+  category: derived
+  translation: needless, unnecessary; needlessly
+behajane:
+  term: behajane
+  class: t
+  category: derived
+  translation: necessary; necessarily
+behajapul:
+  term: behajapul
+  class: t
+  category: derived
+  translation: necessary; necessarily
 beharemusi:
   term: beharemusi
   class: t
@@ -12783,6 +12813,12 @@ fe_un_mara:
   class: jm p
   category: phrase
   translation: once, one time
+fe_xarti_ki:
+  term: fe xarti ki
+  class: l jm
+  category: phrase
+  translation: as long as, so long as, provided (that), granted (that), in case (that),
+    in the event (that), on the condition that
 fe_xaya:
   term: fe xaya
   class: p jm
@@ -15842,7 +15878,17 @@ hajado:
   term: hajado
   class: t
   category: derived
-  translation: needed, necessary; necessarily
+  translation: needed, necessary
+hajakal:
+  term: hajakal
+  class: t
+  category: derived
+  translation: self-sufficient, without need
+hajane:
+  term: hajane
+  class: t
+  category: derived
+  translation: in need, needy; needily
 hajapul:
   term: hajapul
   class: t
@@ -16781,7 +16827,7 @@ hewandotor:
   term: hewandotor
   class: b
   category: derived
-  translation: veterinarian
+  translation: veterinarian, vet
 hewanlogi:
   term: hewanlogi
   class: b
@@ -16796,7 +16842,7 @@ hewanmedisyen:
   term: hewanmedisyen
   class: b
   category: derived
-  translation: 'veterinarian '
+  translation: veterinarian, vet
 hey:
   term: hey
   class: il
@@ -22855,12 +22901,12 @@ kos_dento:
   term: kos dento
   class: p jm
   category: phrase
-  translation: because of that, due to that, so, therefore
+  translation: because of that, due to that
 kos_to:
   term: kos to
   class: p jm
   category: phrase
-  translation: because of it, due to it, so, therefore
+  translation: so, therefore
 kosa:
   term: kosa
   class: b.oj
@@ -24363,6 +24409,11 @@ leli:
   class: t
   category: derived
   translation: past, previous, former; previously, formerly, beforehand
+leli_banwatu:
+  term: leli banwatu
+  class: m jm
+  category: derived
+  translation: at some point in the past , once upon a time
 lemur:
   term: lemur
   class: b
@@ -26430,6 +26481,12 @@ mas_fe_hataya:
   class: l jm
   category: phrase
   translation: and yet, but nevertheless
+mas_sol_eger:
+  term: mas sol eger
+  class: j jm
+  category: phrase
+  translation: as long as, so long as, provided (that), granted (that), in case (that),
+    in the event (that), on the condition that
 masaji:
   term: masaji
   class: b.oj
@@ -26919,12 +26976,6 @@ maxus:
   category: root
   translation: plus, in addition to, with addition of, besides, aside from, including,
     other than
-maxus_eger:
-  term: maxus eger
-  class: l jm
-  category: phrase
-  translation: as long as, so long as, provided (that), granted (that), in case (that),
-    in the event (that)
 maxusgi:
   term: maxusgi
   class: b.oj
@@ -33194,7 +33245,7 @@ plu:
   term: plu
   class: t
   category: root
-  translation: multiple, <em>plurality marker</em>
+  translation: multiple, some (<em>several</em>),  <em>plurality marker</em>
 plu-:
   term: plu-
   class: lfik
@@ -33209,7 +33260,7 @@ plucelulli:
   term: plucelulli
   class: t
   category: derived
-  translation: multicellular
+  translation: multicellular, pluricellular
 plucu:
   term: plucu
   class: b.nenoj
@@ -33819,7 +33870,7 @@ posnaturali:
   term: posnaturali
   class: t
   category: derived
-  translation: artificial; artificially
+  translation: unnatural, artificial; unnaturallly, artificially
 pospel:
   term: pospel
   class: b.oj
@@ -34753,11 +34804,16 @@ reguladoku:
   class: b
   category: derived
   translation: charter
+regulakal:
+  term: regulakal
+  class: t
+  category: derived
+  translation: irregular; irregularly
 regulapul:
   term: regulapul
   class: t
   category: derived
-  translation: regular, rulebound; regularly
+  translation: regular; regularly
 rehani:
   term: rehani
   class: b
@@ -35053,7 +35109,7 @@ rili:
   term: rili
   class: t
   category: derived
-  translation: again
+  translation: again, once more, one more time
 rilide:
   term: rilide
   class: b.oj
@@ -35436,6 +35492,11 @@ rukone:
   class: b.oj
   category: derived
   translation: 'recognition; recognize (<em>identify</em>) '
+ruli:
+  term: ruli
+  class: t
+  category: derived
+  translation: again (<em>back</em>)
 rum:
   term: rum
   class: b
@@ -36753,7 +36814,7 @@ sen:
   term: sen
   class: b.lin
   category: root
-  translation: be, am, is, are
+  translation: being (<em>existence</em>); be, am, is, are
 sen_peldo:
   term: sen peldo
   class: f jm
@@ -37618,7 +37679,7 @@ sol:
   term: sol
   class: m
   category: root
-  translation: only, merely, just, a mere
+  translation: only, merely, just, a mere, but (<em>poetic</em>)
 sol-:
   term: sol-
   class: lfik
@@ -42743,6 +42804,11 @@ xali:
   class: t
   category: derived
   translation: future, afterwards, later
+xali_banwatu:
+  term: xali banwatu
+  class: m jm
+  category: derived
+  translation: at some point in the future , eventually
 xama:
   term: xama
   class: b
