@@ -1494,6 +1494,11 @@ amerindi:
   class: t
   category: proper word
   translation: 印第安, 印地安
+amerindiyen:
+  term: Amerindiyen
+  class: b
+  category: derived
+  translation: ""
 ametisto:
   term: ametisto
   class: b
@@ -2633,6 +2638,11 @@ atexnenible:
   class: t
   category: derived
   translation: ""
+atexxeto:
+  term: atexxeto
+  class: b
+  category: derived
+  translation: ""
 atinyum:
   term: atinyum
   class: b
@@ -3542,7 +3552,7 @@ banana:
   term: banana
   class: b
   category: root
-  translation: ""
+  translation: 香蕉
 bananadrevo:
   term: bananadrevo
   class: b
@@ -4197,7 +4207,7 @@ bayti:
   term: bayti
   class: b
   category: root
-  translation: ""
+  translation: 字节
 baytu:
   term: baytu
   class: b
@@ -4822,7 +4832,7 @@ biskopo:
   term: biskopo
   class: b
   category: root
-  translation: ""
+  translation: 主教
 bismuto:
   term: bismuto
   class: b
@@ -5047,7 +5057,7 @@ bolokuflutu:
   term: bolokuflutu
   class: b
   category: derived
-  translation: ""
+  translation: 竖笛, 直笛
 boltu:
   term: boltu
   class: b.oj
@@ -5122,7 +5132,7 @@ bongeniismo:
   term: bongeniismo
   class: b
   category: derived
-  translation: ""
+  translation: 优生学, 善种学
 bongi:
   term: bongi
   class: b.oj
@@ -5232,7 +5242,7 @@ boron:
   term: boron
   class: b
   category: root
-  translation: ""
+  translation: 硼
 borosa:
   term: Borosa
   class: b
@@ -5267,7 +5277,7 @@ boryum:
   term: boryum
   class: b
   category: root
-  translation: ""
+  translation: "\U0002CB5B"
 bosna_ji_hertsegovina:
   term: Bosna ji Hertsegovina
   class: su n
@@ -5317,7 +5327,7 @@ boykoti:
   term: boykoti
   class: b.oj
   category: root
-  translation: ""
+  translation: 抵制, 杯葛
 boykotido:
   term: boykotido
   class: t
@@ -5367,7 +5377,7 @@ boysenberi:
   term: boysenberi
   class: b
   category: derived
-  translation: ""
+  translation: 博伊森莓
 bozi:
   term: bozi
   class: b
@@ -5382,7 +5392,7 @@ brandi:
   term: brandi
   class: b
   category: root
-  translation: ""
+  translation: 白兰地
 brawa:
   term: brawa
   class: b
@@ -5482,7 +5492,7 @@ bromin:
   term: bromin
   class: b
   category: root
-  translation: ""
+  translation: 溴
 bronki:
   term: bronki
   class: b
@@ -5492,7 +5502,7 @@ bronze:
   term: bronze
   class: b
   category: root
-  translation: ""
+  translation: 青铜
 bronzeli:
   term: bronzeli
   class: t
@@ -5547,12 +5557,12 @@ budaismo:
   term: Budaismo
   class: b
   category: derived
-  translation: ""
+  translation: 佛教
 budaista:
   term: Budaista
   class: b
   category: derived
-  translation: ""
+  translation: 佛教徒
 budu:
   term: Budu
   class: su n
@@ -6177,17 +6187,17 @@ care:
   term: care
   class: num
   category: root
-  translation: ""
+  translation: 四
 carecen:
   term: carecen
   class: b
   category: derived
-  translation: ""
+  translation: 四百
 caredes:
   term: caredes
   class: num
   category: derived
-  translation: ""
+  translation: 四十
 caredesyum:
   term: caredesyum
   class: t
@@ -6212,7 +6222,7 @@ careyum:
   term: careyum
   class: t
   category: derived
-  translation: ""
+  translation: 第四
 carme:
   term: carme
   class: b.oro
@@ -6427,7 +6437,7 @@ cen:
   term: cen
   class: num
   category: root
-  translation: ""
+  translation: 百
 cengon:
   term: cengon
   class: b
@@ -6627,7 +6637,7 @@ ciber-:
   term: ciber-
   class: lfik
   category: affix
-  translation: ""
+  translation: 赛博, 智能
 ciberneti:
   term: ciberneti
   class: b
@@ -6662,7 +6672,7 @@ cidrasurka:
   term: cidrasurka
   class: b
   category: derived
-  translation: ""
+  translation: 苹果醋
 cihe:
   term: cihe
   class: b.oj
@@ -8116,6 +8126,11 @@ daysoksu:
 daysoti:
   term: daysoti
   class: b
+  category: derived
+  translation: ""
+daysuki:
+  term: daysuki
+  class: b.oj
   category: derived
   translation: ""
 daysurprisa:
@@ -9612,7 +9627,7 @@ duabioyen:
   term: duabioyen
   class: b
   category: derived
-  translation: ""
+  translation: 两栖动物
 duacalun:
   term: duacalun
   class: b
@@ -11097,7 +11112,7 @@ esportu:
   term: esportu
   class: b
   category: root
-  translation: ""
+  translation: (体育)运动
 esportuyen:
   term: esportuyen
   class: b
@@ -12498,9 +12513,19 @@ fe_kapi_de:
   class: p
   category: phrase
   translation: ""
+fe_kaso_de:
+  term: fe kaso de
+  class: jm p
+  category: phrase
+  translation: ""
 fe_kaso_fe:
   term: fe kaso fe
   class: jm p
+  category: phrase
+  translation: ""
+fe_kaso_ki:
+  term: fe kaso ki
+  class: l
   category: phrase
   translation: ""
 fe_kolyo_ki:
@@ -13331,11 +13356,6 @@ finki:
 finrasona:
   term: finrasona
   class: b.oj
-  category: derived
-  translation: ""
-finsen:
-  term: finsen
-  class: b.lin
   category: derived
   translation: ""
 finto:
@@ -22763,11 +22783,26 @@ korno:
   class: b
   category: root
   translation: ""
+koro:
+  term: koro
+  class: b.oj
+  category: root
+  translation: 合唱
+koroli:
+  term: koroli
+  class: t
+  category: derived
+  translation: 合唱的
 koronel:
   term: koronel
   class: b
   category: root
   translation: 上校
+korotim:
+  term: korotim
+  class: b
+  category: derived
+  translation: 合唱团
 korsaro:
   term: korsaro
   class: b
@@ -23052,7 +23087,7 @@ kreditokarta:
   term: kreditokarta
   class: b
   category: derived
-  translation: ""
+  translation: 信用卡
 krema:
   term: krema
   class: b
@@ -23122,7 +23157,7 @@ kriputon:
   term: kriputon
   class: b
   category: root
-  translation: ""
+  translation: 氪
 krisis:
   term: krisis
   class: b
@@ -23137,7 +23172,7 @@ kristal:
   term: kristal
   class: b
   category: root
-  translation: ""
+  translation: 晶体
 kristalli:
   term: kristalli
   class: t
@@ -23152,7 +23187,7 @@ kristodin:
   term: Kristodin
   class: b
   category: derived
-  translation: ""
+  translation: 圣诞节
 kristofe:
   term: Kristofe
   class: su n
@@ -23162,12 +23197,12 @@ kristoismo:
   term: Kristoismo
   class: b
   category: derived
-  translation: ""
+  translation: 基督教, 基督宗教
 kristoista:
   term: Kristoista
   class: b
   category: derived
-  translation: ""
+  translation: 基督徒, 基督教徒
 kroa:
   term: kroa
   class: b
@@ -23182,12 +23217,12 @@ kromosom:
   term: kromosom
   class: b
   category: root
-  translation: ""
+  translation: 染色体
 kromyum:
   term: kromyum
   class: b
   category: root
-  translation: ""
+  translation: 铬
 kruasan:
   term: kruasan
   class: b
@@ -23317,7 +23352,7 @@ kulye:
   term: kulye
   class: b
   category: root
-  translation: ""
+  translation: 肾, 肾脏
 kumari:
   term: kumari
   class: b.oj
@@ -23702,7 +23737,7 @@ kyu:
   term: kyu
   class: b
   category: root
-  translation: (字母)q
+  translation: (字母)Q
 labas:
   term: labas
   class: b.oj
@@ -23976,18 +24011,18 @@ latin:
 latinika:
   term: Latinika
   class: b
-  category: root
-  translation: ""
+  category: proper word
+  translation: 拉丁美洲, 拉美
 latinikayen:
   term: Latinikayen
   class: b
   category: derived
-  translation: ""
+  translation: 拉丁美洲人, 拉美人
 latinsa:
   term: Latinsa
   class: b
   category: derived
-  translation: ""
+  translation: 拉丁语
 latvi:
   term: Latvi
   class: su n
@@ -23997,12 +24032,12 @@ latvisa:
   term: Latvisa
   class: b
   category: derived
-  translation: ""
+  translation: 拉脱维亚语
 latviyen:
   term: Latviyen
   class: b
   category: derived
-  translation: ""
+  translation: 拉脱维亚人
 lava:
   term: lava
   class: b
@@ -24412,12 +24447,12 @@ lexilogi:
   term: lexilogi
   class: b
   category: derived
-  translation: ""
+  translation: 词汇学
 leximon:
   term: leximon
   class: b
   category: derived
-  translation: ""
+  translation: 音节
 lexiyuxi:
   term: lexiyuxi
   class: b
@@ -24606,11 +24641,6 @@ lilaku:
 lilalogi:
   term: lilalogi
   class: b.oj
-  category: derived
-  translation: ""
-lilatex:
-  term: lilatex
-  class: b
   category: derived
   translation: ""
 lilbage:
@@ -24812,17 +24842,17 @@ lima:
   term: lima
   class: num
   category: root
-  translation: ""
+  translation: 五
 limacen:
   term: limacen
   class: b
   category: derived
-  translation: ""
+  translation: 五百
 limades:
   term: limades
   class: num
   category: derived
-  translation: ""
+  translation: 五十
 limadesyum:
   term: limadesyum
   class: t
@@ -25317,17 +25347,17 @@ lutsemburgili:
   term: Lutsemburgili
   class: t
   category: derived
-  translation: ""
+  translation: 卢森堡的
 lutsemburgisa:
   term: Lutsemburgisa
   class: b
   category: derived
-  translation: ""
+  translation: 卢森堡语
 lutsemburgiyen:
   term: Lutsemburgiyen
   class: b
   category: derived
-  translation: ""
+  translation: 卢森堡人
 lutuf:
   term: lutuf
   class: b
@@ -25392,7 +25422,7 @@ macete:
   term: macete
   class: b
   category: root
-  translation: ""
+  translation: 開山刀
 macwi:
   term: macwi
   class: b.oj
@@ -25522,12 +25552,12 @@ magribili:
   term: Magribili
   class: t
   category: derived
-  translation: ""
+  translation: 摩洛哥的
 magribiyen:
   term: Magribiyen
   class: b
   category: derived
-  translation: ""
+  translation: 摩洛哥人
 magyar:
   term: Magyar
   class: su n
@@ -25597,7 +25627,7 @@ mahi:
   term: mahi
   class: b.oj
   category: root
-  translation: 鱼
+  translation: 鱼; 钓鱼
 mahibujo:
   term: mahibujo
   class: b.oj
@@ -25862,12 +25892,12 @@ maltasa:
   term: Maltasa
   class: b
   category: derived
-  translation: ""
+  translation: 马耳他人
 maltayen:
   term: Maltayen
   class: b
   category: derived
-  translation: ""
+  translation: 马耳他语
 maluku:
   term: Maluku
   class: su n
@@ -29590,11 +29620,6 @@ nenhar:
   class: p
   category: derived
   translation: ""
-nenhar_jui_tem:
-  term: nenhar jui tem
-  class: p jm
-  category: phrase
-  translation: ""
 nenhar_na:
   term: nenhar na
   class: p jm
@@ -30629,7 +30654,7 @@ nyuro:
   term: nyuro
   class: b
   category: root
-  translation: ""
+  translation: 神经
 nyurologi:
   term: nyurologi
   class: b
@@ -31389,7 +31414,7 @@ osmyum:
   term: osmyum
   class: b
   category: root
-  translation: ""
+  translation: 锇
 ospuro:
   term: ospuro
   class: b
@@ -31404,7 +31429,7 @@ osteriyen:
   term: Osteriyen
   class: b
   category: derived
-  translation: ""
+  translation: 奥地利人
 osto:
   term: osto
   class: b
@@ -31434,7 +31459,7 @@ otimaismo:
   term: otimaismo
   class: b
   category: derived
-  translation: ""
+  translation: 乐观主义
 otimaismoli:
   term: otimaismoli
   class: t
@@ -31479,7 +31504,7 @@ ovari:
   term: ovari
   class: b
   category: root
-  translation: ""
+  translation: 卵巢
 ovarili:
   term: ovarili
   class: t
@@ -31514,7 +31539,7 @@ ozbekili:
   term: Ozbekili
   class: t
   category: derived
-  translation: ""
+  translation: 乌兹别克语
 ozbekisa:
   term: Ozbekisa
   class: b
@@ -31524,12 +31549,12 @@ ozbekiyen:
   term: Ozbekiyen
   class: b
   category: derived
-  translation: ""
+  translation: 乌兹别克人
 ozon:
   term: ozon
   class: b
   category: root
-  translation: ""
+  translation: 臭氧
 pacifiko:
   term: Pacifiko
   class: su n
@@ -31599,12 +31624,12 @@ pakili:
   term: Pakili
   class: t
   category: derived
-  translation: ""
+  translation: 巴基斯坦的
 pakiyen:
   term: Pakiyen
   class: b
   category: derived
-  translation: ""
+  translation: 巴基斯坦人
 pala:
   term: pala
   class: b.oj
@@ -31619,7 +31644,7 @@ paladyum:
   term: paladyum
   class: b
   category: root
-  translation: ""
+  translation: 钯
 palafil:
   term: palafil
   class: t
@@ -31654,7 +31679,7 @@ palme:
   term: palme
   class: b
   category: root
-  translation: ""
+  translation: 棕榈
 pam:
   term: pam
   class: b.oj
@@ -31709,7 +31734,7 @@ pandemi:
   term: pandemi
   class: b
   category: root
-  translation: ""
+  translation: 大流行病
 panden:
   term: panden
   class: b.oj
@@ -31799,17 +31824,17 @@ panjabili:
   term: Panjabili
   class: t
   category: derived
-  translation: ""
+  translation: 旁遮普的
 panjabisa:
   term: Panjabisa
   class: b
   category: derived
-  translation: ""
+  translation: 旁遮普语
 panjabiyen:
   term: Panjabiyen
   class: b
   category: derived
-  translation: ""
+  translation: 旁遮普人
 pankreas:
   term: pankreas
   class: b
@@ -31849,12 +31874,12 @@ papaya:
   term: papaya
   class: b
   category: root
-  translation: ""
+  translation: 番木瓜, 木瓜
 paper:
   term: paper
   class: b
   category: root
-  translation: ""
+  translation: 纸
 paperpesa:
   term: paperpesa
   class: b
@@ -31874,7 +31899,7 @@ paprika:
   term: paprika
   class: b
   category: root
-  translation: ""
+  translation: 辣椒粉
 papugay:
   term: papugay
   class: b
@@ -31889,7 +31914,7 @@ parabol:
   term: parabol
   class: b
   category: root
-  translation: ""
+  translation: 抛物线
 paracutu:
   term: paracutu
   class: b.nenoj
@@ -36413,6 +36438,11 @@ sehagine:
 sehaginenible:
   term: sehaginenible
   class: t
+  category: derived
+  translation: ""
+sehaje:
+  term: sehaje
+  class: b
   category: derived
   translation: ""
 sehaya:
@@ -42024,6 +42054,11 @@ wal-:
   term: wal-
   class: lfik
   category: affix
+  translation: ""
+wal_jui_tem:
+  term: wal jui tem
+  class: p jm
+  category: phrase
   translation: ""
 wal_na:
   term: wal na

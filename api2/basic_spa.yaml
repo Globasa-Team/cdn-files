@@ -1518,6 +1518,12 @@ amerindi:
   category: proper word
   translation: ind&iacute;gena, indio americano, amerindio, indoamericano, nativo
     americano, abor&iacute;gen americano
+amerindiyen:
+  term: Amerindiyen
+  class: b
+  category: derived
+  translation: ind&iacute;gena, indio americano, amerindio, indoamericano, nativo
+    americano, abor&iacute;gen americano
 ametisto:
   term: ametisto
   class: b
@@ -2647,7 +2653,7 @@ atexmon:
   term: atexmon
   class: b
   category: derived
-  translation: flama
+  translation: chispa
 atexne:
   term: atexne
   class: t
@@ -2663,6 +2669,11 @@ atexnenible:
   class: t
   category: derived
   translation: ""
+atexxeto:
+  term: atexxeto
+  class: b
+  category: derived
+  translation: flama
 atinyum:
   term: atinyum
   class: b
@@ -5233,7 +5244,7 @@ bonmorcu:
   term: bonmorcu
   class: b
   category: derived
-  translation: eutanasia
+  translation: eutanasia; estar eutanasiado
 bonnuru:
   term: bonnuru
   class: il
@@ -8207,6 +8218,11 @@ daysoti:
   class: b
   category: derived
   translation: ruido (sonoro)
+daysuki:
+  term: daysuki
+  class: b.oj
+  category: derived
+  translation: encantar(le)
 daysurprisa:
   term: daysurprisa
   class: b.oro
@@ -9721,7 +9737,7 @@ duacidi:
   term: duacidi
   class: b
   category: derived
-  translation: ""
+  translation: acidificaci&oacute;n
 duades:
   term: duades
   class: num
@@ -9781,7 +9797,7 @@ dualkohol:
   term: dualkohol
   class: b
   category: derived
-  translation: ""
+  translation: alcoholizaci&oacute;n
 duamwin:
   term: duamwin
   class: b
@@ -9926,7 +9942,7 @@ duke:
   term: duke
   class: b
   category: root
-  translation: duque
+  translation: duque, duquesa
 dumarali:
   term: dumarali
   class: t
@@ -12620,11 +12636,21 @@ fe_kapi_de:
   class: p
   category: phrase
   translation: en la cima de, hasta arriba de
+fe_kaso_de:
+  term: fe kaso de
+  class: jm p
+  category: phrase
+  translation: ""
 fe_kaso_fe:
   term: fe kaso fe
   class: jm p
   category: phrase
   translation: en el caso de
+fe_kaso_ki:
+  term: fe kaso ki
+  class: l
+  category: phrase
+  translation: ""
 fe_kolyo_ki:
   term: fe kolyo ki
   class: jm l
@@ -13461,11 +13487,6 @@ finrasona:
   class: b.oj
   category: derived
   translation: conclusi&oacute;n, deducci&oacute;n; concluir, deducir
-finsen:
-  term: finsen
-  class: b.lin
-  category: derived
-  translation: terminar (siendo), resultar (ser), demostrar ser
 finto:
   term: finto
   class: il
@@ -22986,11 +23007,26 @@ korno:
   class: b
   category: root
   translation: corno (<em>instrumento</em>), cuerno, trompa
+koro:
+  term: koro
+  class: b.oj
+  category: root
+  translation: coro (<em>composici&oacute;n</em>); cantar a coro
+koroli:
+  term: koroli
+  class: t
+  category: derived
+  translation: coral (<em>perteneciente al coro</em>); coralmente
 koronel:
   term: koronel
   class: b
   category: root
   translation: coronel
+korotim:
+  term: korotim
+  class: b
+  category: derived
+  translation: coro (<em>cojunto</em>)
 korsaro:
   term: korsaro
   class: b
@@ -23420,7 +23456,7 @@ kruel:
   term: kruel
   class: t
   category: root
-  translation: cruel
+  translation: cruel; cruelmente
 kruelya:
   term: kruelya
   class: b
@@ -24211,7 +24247,7 @@ latin:
 latinika:
   term: Latinika
   class: b
-  category: root
+  category: proper word
   translation: Am&eacute;rica Latina, Latinoam&eacute;rica
 latinikayen:
   term: Latinikayen
@@ -24847,11 +24883,6 @@ lilalogi:
   class: b.oj
   category: derived
   translation: modificaci&oacute;n, ajuste; modificar, ajustar
-lilatex:
-  term: lilatex
-  class: b
-  category: derived
-  translation: chispa
 lilbage:
   term: lilbage
   class: b
@@ -29883,11 +29914,6 @@ nenhar:
   class: p
   category: derived
   translation: sin (tener)
-nenhar_jui_tem:
-  term: nenhar jui tem
-  class: p jm
-  category: phrase
-  translation: sin importar, independientemente de, sin hacer caso de
 nenhar_na:
   term: nenhar na
   class: p jm
@@ -36780,6 +36806,11 @@ sehaginenible:
   class: t
   category: derived
   translation: incurable
+sehaje:
+  term: sehaje
+  class: b
+  category: derived
+  translation: ""
 sehaya:
   term: sehaya
   class: b
@@ -36880,7 +36911,7 @@ sekwarentin:
   term: sekwarentin
   class: b.nenoj
   category: derived
-  translation: ""
+  translation: ' '
 sela:
   term: sela
   class: b.oro
@@ -42439,6 +42470,11 @@ wal-:
   class: lfik
   category: affix
   translation: sin
+wal_jui_tem:
+  term: wal jui tem
+  class: p jm
+  category: phrase
+  translation: sin importar, independientemente de, sin hacer caso de
 wal_na:
   term: wal na
   class: p jm

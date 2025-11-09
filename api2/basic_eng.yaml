@@ -1504,6 +1504,11 @@ amerindi:
   class: t
   category: proper word
   translation: Amerindian, Native American, (American) Indian
+amerindiyen:
+  term: Amerindiyen
+  class: b
+  category: derived
+  translation: Amerindian, Native American, (American) Indian
 ametisto:
   term: ametisto
   class: b
@@ -2629,7 +2634,7 @@ atexmon:
   term: atexmon
   class: b
   category: derived
-  translation: flame
+  translation: spark
 atexne:
   term: atexne
   class: t
@@ -2645,6 +2650,11 @@ atexnenible:
   class: t
   category: derived
   translation: unburnable, fireproof
+atexxeto:
+  term: atexxeto
+  class: b
+  category: derived
+  translation: flame
 atinyum:
   term: atinyum
   class: b
@@ -3818,7 +3828,7 @@ bardi:
   class: b.oro
   category: root
   translation: 'cold; tr: chill, cool (down), make cold; intr: be (<em>feel</em>)
-    cold, cool (down)'
+    cold'
 bardiabil:
   term: bardiabil
   class: t
@@ -4531,7 +4541,7 @@ benjunfoli:
   term: benjunfoli
   class: t
   category: derived
-  translation: dialectical
+  translation: dialectical; dialectically
 benki:
   term: benki
   class: b
@@ -5204,7 +5214,7 @@ bonmorcu:
   term: bonmorcu
   class: b
   category: derived
-  translation: euthanasia
+  translation: euthanasia; be euthanized
 bonnuru:
   term: bonnuru
   class: il
@@ -8157,6 +8167,11 @@ daysoti:
   class: b
   category: derived
   translation: noise, loud sound, bang
+daysuki:
+  term: daysuki
+  class: b.oj
+  category: derived
+  translation: love; love, really like
 daysurprisa:
   term: daysurprisa
   class: b.oro
@@ -9648,7 +9663,7 @@ duabasayen:
   term: duabasayen
   class: b
   category: derived
-  translation: bilingual speaker
+  translation: bilingual (speaker)
 duabioyen:
   term: duabioyen
   class: b
@@ -12553,11 +12568,21 @@ fe_kapi_de:
   class: p
   category: phrase
   translation: on top of
+fe_kaso_de:
+  term: fe kaso de
+  class: jm p
+  category: phrase
+  translation: in one&#039;s case, in the case of, for
 fe_kaso_fe:
   term: fe kaso fe
   class: jm p
   category: phrase
   translation: in case of
+fe_kaso_ki:
+  term: fe kaso ki
+  class: l
+  category: phrase
+  translation: in case (<em>+ sentence</em>)
 fe_kolyo_ki:
   term: fe kolyo ki
   class: jm l
@@ -12817,8 +12842,8 @@ fe_xarti_ki:
   term: fe xarti ki
   class: l jm
   category: phrase
-  translation: as long as, so long as, provided (that), granted (that), in case (that),
-    in the event (that), on the condition that
+  translation: as long as, so long as, provided (that), granted (that), on the condition
+    that
 fe_xaya:
   term: fe xaya
   class: p jm
@@ -13392,11 +13417,6 @@ finrasona:
   class: b.oj
   category: derived
   translation: conclusion; conclude (that)
-finsen:
-  term: finsen
-  class: b.lin
-  category: derived
-  translation: end up being, turn out to be, prove
 finto:
   term: finto
   class: il
@@ -22872,11 +22892,26 @@ korno:
   class: b
   category: root
   translation: horn
+koro:
+  term: koro
+  class: b.oj
+  category: root
+  translation: chorus, choir, chorale; sing in chorus
+koroli:
+  term: koroli
+  class: t
+  category: derived
+  translation: choral; chorally
 koronel:
   term: koronel
   class: b
   category: root
   translation: colonel
+korotim:
+  term: korotim
+  class: b
+  category: derived
+  translation: choir (group)
 korsaro:
   term: korsaro
   class: b
@@ -23072,7 +23107,7 @@ krampe:
   class: b.oro
   category: root
   translation: 'contraction, convulsion, seizure, spasm, cramp, twitch; tr/intr (optional
-    -cu): contract, convulse, spasm, twitch, cramp'
+    -cu): contract, convulse, spasm, twitch, cramp, clench'
 krasi:
   term: krasi
   class: b.oj
@@ -23252,7 +23287,7 @@ kristalli:
   term: kristalli
   class: t
   category: derived
-  translation: (made of) crystal
+  translation: (made of) crystal, crystalline
 kristo:
   term: Kristo
   class: b
@@ -24087,7 +24122,7 @@ latin:
 latinika:
   term: Latinika
   class: b
-  category: root
+  category: proper word
   translation: '(Spanish and Portuguese speaking) Latin America '
 latinikayen:
   term: Latinikayen
@@ -24724,11 +24759,6 @@ lilalogi:
   class: b.oj
   category: derived
   translation: modification, adjustment; modify, adjust
-lilatex:
-  term: lilatex
-  class: b
-  category: derived
-  translation: spark
 lilbage:
   term: lilbage
   class: b
@@ -26485,8 +26515,7 @@ mas_sol_eger:
   term: mas sol eger
   class: j jm
   category: phrase
-  translation: as long as, so long as, provided (that), granted (that), in case (that),
-    in the event (that), on the condition that
+  translation: as long as, so long as, provided (that), granted (that)
 masaji:
   term: masaji
   class: b.oj
@@ -29726,11 +29755,6 @@ nenhar:
   class: p
   category: derived
   translation: without (<em>not having</em>)
-nenhar_jui_tem:
-  term: nenhar jui tem
-  class: p jm
-  category: phrase
-  translation: regardless (of), irrespective (of), no matter
 nenhar_na:
   term: nenhar na
   class: p jm
@@ -31829,7 +31853,7 @@ pamtul:
   term: pamtul
   class: b
   category: derived
-  translation: gun
+  translation: gun, firearm
 pamtulhole:
   term: pamtulhole
   class: b
@@ -31919,8 +31943,8 @@ panikokrisis:
   term: panikokrisis
   class: b.oro
   category: derived
-  translation: 'panic attack; tr: cause a panic attack; intr (optional -cu): get a
-    panic attack'
+  translation: 'panic attack; tr: cause a panic attack; intr (optional -cu): have
+    a panic attack'
 panikone:
   term: panikone
   class: t
@@ -36570,11 +36594,16 @@ sehaginenible:
   class: t
   category: derived
   translation: incurable
+sehaje:
+  term: sehaje
+  class: b
+  category: derived
+  translation: health
 sehaya:
   term: sehaya
   class: b
   category: derived
-  translation: health
+  translation: healthiness, health
 seinoko:
   term: seinoko
   class: b.nenoj
@@ -42196,6 +42225,11 @@ wal-:
   class: lfik
   category: affix
   translation: without
+wal_jui_tem:
+  term: wal jui tem
+  class: p jm
+  category: phrase
+  translation: regardless (of), irrespective (of), no matter
 wal_na:
   term: wal na
   class: p jm
@@ -42381,7 +42415,7 @@ wazenmeter:
   term: wazenmeter
   class: b.oj
   category: derived
-  translation: scale (<em>weighing instrument</em>); measure weight of
+  translation: scale (<em>weighing instrument</em>); weigh, measure weight of
 wazenpul:
   term: wazenpul
   class: t
@@ -42808,7 +42842,7 @@ xali_banwatu:
   term: xali banwatu
   class: m jm
   category: derived
-  translation: at some point in the future , eventually
+  translation: at some point in the future, eventually
 xama:
   term: xama
   class: b
@@ -44180,7 +44214,7 @@ yon:
   term: yon
   class: p
   category: root
-  translation: with, by, by means of, through, via
+  translation: with (the use of), by using, by means of, through, via
 yon-:
   term: yon-
   class: lfik

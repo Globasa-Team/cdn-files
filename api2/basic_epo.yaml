@@ -1496,6 +1496,11 @@ amerindi:
   class: t
   category: proper word
   translation: Indiana, pri indiĝenaj amerikanoj
+amerindiyen:
+  term: Amerindiyen
+  class: b
+  category: derived
+  translation: Indiano, indiĝena amerikano
 ametisto:
   term: ametisto
   class: b
@@ -2615,7 +2620,7 @@ atexmon:
   term: atexmon
   class: b
   category: derived
-  translation: flamo
+  translation: fajrero
 atexne:
   term: atexne
   class: t
@@ -2631,6 +2636,11 @@ atexnenible:
   class: t
   category: derived
   translation: nebruligebla
+atexxeto:
+  term: atexxeto
+  class: b
+  category: derived
+  translation: flamo
 atinyum:
   term: atinyum
   class: b
@@ -5176,7 +5186,7 @@ bonmorcu:
   term: bonmorcu
   class: b
   category: derived
-  translation: eŭtanazio
+  translation: eŭtanazio; eŭtanaziiĝi
 bonnuru:
   term: bonnuru
   class: il
@@ -8118,6 +8128,11 @@ daysoti:
   class: b
   category: derived
   translation: sonego
+daysuki:
+  term: daysuki
+  class: b.oj
+  category: derived
+  translation: ŝatego; ŝategi
 daysurprisa:
   term: daysurprisa
   class: b.oro
@@ -12503,11 +12518,21 @@ fe_kapi_de:
   class: p
   category: phrase
   translation: supre sur, sur
+fe_kaso_de:
+  term: fe kaso de
+  class: jm p
+  category: phrase
+  translation: okaze de
 fe_kaso_fe:
   term: fe kaso fe
   class: jm p
   category: phrase
   translation: kaze de, en kazo de
+fe_kaso_ki:
+  term: fe kaso ki
+  class: l
+  category: phrase
+  translation: por la okazo ke, en la okazo se
 fe_kolyo_ki:
   term: fe kolyo ki
   class: jm l
@@ -13338,11 +13363,6 @@ finrasona:
   class: b.oj
   category: derived
   translation: konkludo; konkludi (ke), findecidi
-finsen:
-  term: finsen
-  class: b.lin
-  category: derived
-  translation: montriĝi esti, rezulti esti, evidentiĝi esti, fine esti
 finto:
   term: finto
   class: il
@@ -22776,11 +22796,26 @@ korno:
   class: b
   category: root
   translation: korno (<em>muzikinstrumento</em>)
+koro:
+  term: koro
+  class: b.oj
+  category: root
+  translation: ĥoro (<em>muzikaĵo</em>), ĥoraĵo, koruso; ĥore kanti
+koroli:
+  term: koroli
+  class: t
+  category: derived
+  translation: ĥora, korusa; ĥore, koruse
 koronel:
   term: koronel
   class: b
   category: root
   translation: kolonelo
+korotim:
+  term: korotim
+  class: b
+  category: derived
+  translation: ĥoro (<em>aro</em>), koruso
 korsaro:
   term: korsaro
   class: b
@@ -23990,7 +24025,7 @@ latin:
 latinika:
   term: Latinika
   class: b
-  category: root
+  category: proper word
   translation: Latinameriko
 latinikayen:
   term: Latinikayen
@@ -24626,11 +24661,6 @@ lilalogi:
   class: b.oj
   category: derived
   translation: ŝanĝeto, modifo, agordo; ŝanĝeti, modifi, agordi
-lilatex:
-  term: lilatex
-  class: b
-  category: derived
-  translation: fajrero
 lilbage:
   term: lilbage
   class: b
@@ -29610,11 +29640,6 @@ nenhar:
   class: p
   category: derived
   translation: sen (<em>sen havi</em>)
-nenhar_jui_tem:
-  term: nenhar jui tem
-  class: p jm
-  category: phrase
-  translation: senrespekte al, senkonsidere de, sendepende de
 nenhar_na:
   term: nenhar na
   class: p jm
@@ -35368,7 +35393,7 @@ ruli:
   term: ruli
   class: t
   category: derived
-  translation: ""
+  translation: reen, returnire
 rum:
   term: rum
   class: b
@@ -36440,6 +36465,11 @@ sehaginenible:
   class: t
   category: derived
   translation: neresanigebla, nekuracebla
+sehaje:
+  term: sehaje
+  class: b
+  category: derived
+  translation: sano
 sehaya:
   term: sehaya
   class: b
@@ -42053,6 +42083,11 @@ wal-:
   class: lfik
   category: affix
   translation: sen-
+wal_jui_tem:
+  term: wal jui tem
+  class: p jm
+  category: phrase
+  translation: senrespekte al, senkonsidere de, sendepende de
 wal_na:
   term: wal na
   class: p jm
