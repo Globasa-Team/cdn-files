@@ -473,38 +473,6 @@ acumgi:
   class: b.oj
   category: derived
   translation: hacer estornudar
-adabu:
-  term: adabu
-  class: b
-  category: root
-  translation: cortes&iacute;a, buenos modales, buena educaci&oacute;n, cordialidad,
-    afabilidad
-adabufil:
-  term: adabufil
-  class: t
-  category: derived
-  translation: respetuoso, educado, correcto, cort&eacute;s, amable
-adabukal:
-  term: adabukal
-  class: t
-  category: derived
-  translation: descort&eacute;s, maleducado, grosero; descort&eacute;smente, groseramente
-adabukalya:
-  term: adabukalya
-  class: t
-  category: derived
-  translation: descortes&iacute;a, falta de civismo, groser&iacute;a, indecencia,
-    rudeza
-adabunenfil:
-  term: adabunenfil
-  class: t
-  category: derived
-  translation: descort&eacute;s, maleducado, grosero; descort&eacute;smente, groseramente
-adabupul:
-  term: adabupul
-  class: t
-  category: derived
-  translation: cort&eacute;s, respetuoso, educado, correcto; cort&eacute;smente
 adam:
   term: Adam
   class: su n
@@ -550,6 +518,38 @@ adatexey:
   class: b
   category: derived
   translation: adaptaci&oacute;n
+adebu:
+  term: adebu
+  class: b
+  category: root
+  translation: cortes&iacute;a, buenos modales, buena educaci&oacute;n, cordialidad,
+    afabilidad
+adebufil:
+  term: adebufil
+  class: t
+  category: derived
+  translation: respetuoso, educado, correcto, cort&eacute;s, amable
+adebukal:
+  term: adebukal
+  class: t
+  category: derived
+  translation: descort&eacute;s, maleducado, grosero; descort&eacute;smente, groseramente
+adebukalya:
+  term: adebukalya
+  class: t
+  category: derived
+  translation: descortes&iacute;a, falta de civismo, groser&iacute;a, indecencia,
+    rudeza
+adebunenfil:
+  term: adebunenfil
+  class: t
+  category: derived
+  translation: descort&eacute;s, maleducado, grosero; descort&eacute;smente, groseramente
+adebupul:
+  term: adebupul
+  class: t
+  category: derived
+  translation: cort&eacute;s, respetuoso, educado, correcto; cort&eacute;smente
 aden:
   term: Aden
   class: su n
@@ -2778,7 +2778,7 @@ atoya:
   term: atoya
   class: b
   category: derived
-  translation: actuaci&oacute;n
+  translation: ""
 atoyen:
   term: atoyen
   class: b
@@ -5125,11 +5125,6 @@ bomba:
   class: b.oj
   category: root
   translation: bomba (<em>explosivo</em>); bombardear
-bombaya:
-  term: bombaya
-  class: b
-  category: derived
-  translation: bombardeo
 bon:
   term: bon
   class: t
@@ -7613,6 +7608,11 @@ daone:
   class: t
   category: derived
   translation: itinerante, ambulante, n&oacute;mada
+daoxey:
+  term: daoxey
+  class: b
+  category: derived
+  translation: viaje
 daoya:
   term: daoya
   class: b
@@ -8353,6 +8353,11 @@ dekartli:
   class: t
   category: derived
   translation: cartesiano
+deki:
+  term: deki
+  class: b
+  category: root
+  translation: cubierta (<em>barco</em>)
 deklara:
   term: deklara
   class: b.oj
@@ -8500,7 +8505,7 @@ denloka:
   translation: all&aacute;, all&iacute;, ah&iacute;
 denloka_hu:
   term: denloka hu
-  class: m
+  class: l
   category: phrase
   translation: (en) donde
 denlokali:
@@ -8560,7 +8565,7 @@ denseba:
   translation: por esa raz&oacute;n, por eso
 denseba_hu:
   term: denseba hu
-  class: m
+  class: l
   category: phrase
   translation: por la raz&oacute;n que
 densu:
@@ -9276,6 +9281,11 @@ dograyen:
   class: b
   category: derived
   translation: dogra (<em>persona</em>)
+doki:
+  term: doki
+  class: b.oj
+  category: root
+  translation: muelle, puerto; atracar, acoplarse
 doku:
   term: doku
   class: b
@@ -9828,6 +9838,11 @@ duarmoni:
   class: b
   category: derived
   translation: ""
+duato:
+  term: duato
+  class: b
+  category: derived
+  translation: actuaci&oacute;n
 duatyan:
   term: duatyan
   class: b
@@ -9933,6 +9948,21 @@ dugaga:
   class: b
   category: derived
   translation: tartamudeo, tartajeo, tartamudez
+dugoyu:
+  term: dugoyu
+  class: b
+  category: derived
+  translation: excavaci&oacute;n
+duimaje:
+  term: duimaje
+  class: b
+  category: derived
+  translation: ""
+dujarden:
+  term: dujarden
+  class: b
+  category: derived
+  translation: ""
 dukan:
   term: dukan
   class: b
@@ -9958,11 +9988,21 @@ dumbumon:
   class: b
   category: derived
   translation: gl&uacute;teo (<em>cl&iacute;nico</em>), nalga
+dumeniki:
+  term: dumeniki
+  class: b
+  category: derived
+  translation: inmunizaci&oacute;n, vacuna
 duna:
   term: duna
   class: b
   category: root
   translation: duna, m&eacute;dano
+dunavi:
+  term: dunavi
+  class: b
+  category: derived
+  translation: navegaci&oacute;n
 dunerleli:
   term: dunerleli
   class: p jm
@@ -9998,6 +10038,11 @@ dupentu:
   class: b
   category: derived
   translation: pintura (<em>arte de pintar</em>)
+duproduti:
+  term: duproduti
+  class: b
+  category: derived
+  translation: producci&oacute;n, fabricaci&oacute;n, manufactura, creaci&oacute;n
 dupul:
   term: dupul
   class: m
@@ -10039,6 +10084,11 @@ duregi:
   class: b.oj
   category: derived
   translation: continuaci&oacute;n; continuar, seguir, proseguir
+dureporti:
+  term: dureporti
+  class: b
+  category: derived
+  translation: reportaje
 durepul:
   term: durepul
   class: t
@@ -15496,11 +15546,11 @@ goyutul:
   class: b
   category: derived
   translation: pala
-goyuya:
-  term: goyuya
+goyuxey:
+  term: goyuxey
   class: b
   category: derived
-  translation: excavaci&oacute;n
+  translation: ""
 grafi:
   term: grafi
   class: b.oj
@@ -23016,7 +23066,7 @@ koroli:
   term: koroli
   class: t
   category: derived
-  translation: coral (<em>perteneciente al coro</em>); coralmente
+  translation: coral (<em>perteneciente al o como coro</em>); coralmente
 koronel:
   term: koronel
   class: b
@@ -23026,7 +23076,7 @@ korotim:
   term: korotim
   class: b
   category: derived
-  translation: coro (<em>cojunto</em>)
+  translation: coro (<em>conjunto</em>)
 korsaro:
   term: korsaro
   class: b
@@ -25775,7 +25825,7 @@ magneto:
   term: magneto
   class: b.oj
   category: root
-  translation: im&aacute;n, atracci&oacute;n magn&eacute;tica; atraer
+  translation: im&aacute;n; magnetizar
 magnetoli:
   term: magnetoli
   class: t
@@ -27569,11 +27619,6 @@ menikipul:
   class: b
   category: derived
   translation: inmune
-menikiya:
-  term: menikiya
-  class: b
-  category: derived
-  translation: inmunizaci&oacute;n, vacuna
 menu:
   term: menu
   class: b
@@ -28887,6 +28932,11 @@ moyloka:
   class: m
   category: derived
   translation: en todo lugar, en todos lados
+moyloka_hu:
+  term: moyloka hu
+  class: l
+  category: phrase
+  translation: ""
 moymaner:
   term: moymaner
   class: m
@@ -29708,11 +29758,6 @@ navilari:
   class: b
   category: derived
   translation: flota
-naviya:
-  term: naviya
-  class: b
-  category: derived
-  translation: navegaci&oacute;n
 naviyen:
   term: naviyen
   class: b
@@ -29813,8 +29858,8 @@ nenabilya:
   class: b
   category: derived
   translation: incapacidad, inhabilidad
-nenadabu:
-  term: nenadabu
+nenadebu:
+  term: nenadebu
   class: b
   category: derived
   translation: descortes&iacute;a, falta de civismo, groser&iacute;a, indecencia,
@@ -34199,6 +34244,11 @@ posyesengi:
   class: b.oj
   category: derived
   translation: doma, domesticaci&oacute;n; domar, domesticar
+posyongu:
+  term: posyongu
+  class: b.oj
+  category: derived
+  translation: ""
 posyukwe:
   term: posyukwe
   class: t
@@ -34446,11 +34496,6 @@ produtidom:
   class: b
   category: derived
   translation: almac&eacute;n, bodega, dep&oacute;sito
-produtiya:
-  term: produtiya
-  class: b
-  category: derived
-  translation: producci&oacute;n, fabricaci&oacute;n, manufactura, creaci&oacute;n
 produtiyen:
   term: produtiyen
   class: b
@@ -35148,11 +35193,6 @@ reportido:
   class: t
   category: derived
   translation: reportado
-reportiya:
-  term: reportiya
-  class: b
-  category: derived
-  translation: reportaje
 reputasi:
   term: reputasi
   class: b
@@ -43542,6 +43582,11 @@ xinloyne:
   class: t
   category: derived
   translation: ""
+xinxiku:
+  term: xinxiku
+  class: b.oro
+  category: root
+  translation: ""
 xinyon:
   term: xinyon
   class: b
@@ -44268,12 +44313,12 @@ yatimacu:
   term: yatimacu
   class: b.nenoj
   category: derived
-  translation: ""
+  translation: quedar hu&eacute;rfano, dejarse hu&eacute;rfano
 yatimado:
   term: yatimado
   class: t
   category: derived
-  translation: (quedado) hu&eacute;rfano
+  translation: (quedado) hu&eacute;rfano, dejado hu&eacute;rfano
 yatimadom:
   term: yatimadom
   class: b
@@ -44284,7 +44329,7 @@ yatimagi:
   term: yatimagi
   class: b.oj
   category: derived
-  translation: dejar hu&eacute;rfano
+  translation: dejar hu&eacute;rfano (a)
 yawxe:
   term: yawxe
   class: b

@@ -464,36 +464,6 @@ acumgi:
   class: b.oj
   category: derived
   translation: ternigo; ternigi
-adabu:
-  term: adabu
-  class: b
-  category: root
-  translation: ĝentileco
-adabufil:
-  term: adabufil
-  class: t
-  category: derived
-  translation: ĝentila; ĝentile
-adabukal:
-  term: adabukal
-  class: t
-  category: derived
-  translation: malĝentila; malĝentile
-adabukalya:
-  term: adabukalya
-  class: t
-  category: derived
-  translation: malĝentileco
-adabunenfil:
-  term: adabunenfil
-  class: t
-  category: derived
-  translation: malĝentila; malĝentile
-adabupul:
-  term: adabupul
-  class: t
-  category: derived
-  translation: ĝentila; ĝentile
 adam:
   term: Adam
   class: su n
@@ -539,6 +509,36 @@ adatexey:
   class: b
   category: derived
   translation: adaptaĵo
+adebu:
+  term: adebu
+  class: b
+  category: root
+  translation: ĝentileco
+adebufil:
+  term: adebufil
+  class: t
+  category: derived
+  translation: ĝentila; ĝentile
+adebukal:
+  term: adebukal
+  class: t
+  category: derived
+  translation: malĝentila; malĝentile
+adebukalya:
+  term: adebukalya
+  class: t
+  category: derived
+  translation: malĝentileco
+adebunenfil:
+  term: adebunenfil
+  class: t
+  category: derived
+  translation: malĝentila; malĝentile
+adebupul:
+  term: adebupul
+  class: t
+  category: derived
+  translation: ĝentila; ĝentile
 aden:
   term: Aden
   class: su n
@@ -2745,7 +2745,7 @@ atoya:
   term: atoya
   class: b
   category: derived
-  translation: aktorado
+  translation: ""
 atoyen:
   term: atoyen
   class: b
@@ -5067,11 +5067,6 @@ bomba:
   class: b.oj
   category: root
   translation: bombo; bombi
-bombaya:
-  term: bombaya
-  class: b
-  category: derived
-  translation: bombado
 bon:
   term: bon
   class: t
@@ -7533,6 +7528,11 @@ daone:
   class: t
   category: derived
   translation: vojaĝanta, laŭiranta, veturanta
+daoxey:
+  term: daoxey
+  class: b
+  category: derived
+  translation: veturo, vojaĝo
 daoya:
   term: daoya
   class: b
@@ -8263,6 +8263,11 @@ dekartli:
   class: t
   category: derived
   translation: kartezia
+deki:
+  term: deki
+  class: b
+  category: root
+  translation: ferdeko
 deklara:
   term: deklara
   class: b.oj
@@ -8411,7 +8416,7 @@ denloka:
   translation: tie
 denloka_hu:
   term: denloka hu
-  class: m
+  class: l
   category: phrase
   translation: (tie,) kie
 denlokali:
@@ -8471,7 +8476,7 @@ denseba:
   translation: tial
 denseba_hu:
   term: denseba hu
-  class: m
+  class: l
   category: phrase
   translation: (tial,) kial
 densu:
@@ -9184,6 +9189,11 @@ dograyen:
   class: b
   category: derived
   translation: dogro
+doki:
+  term: doki
+  class: b.oj
+  category: root
+  translation: doko; endokigi
 doku:
   term: doku
   class: b
@@ -9734,6 +9744,11 @@ duarmoni:
   class: b
   category: derived
   translation: harmoniigo, harmoniado
+duato:
+  term: duato
+  class: b
+  category: derived
+  translation: aktorado
 duatyan:
   term: duatyan
   class: b
@@ -9839,6 +9854,21 @@ dugaga:
   class: b
   category: derived
   translation: balbutado
+dugoyu:
+  term: dugoyu
+  class: b
+  category: derived
+  translation: fosado, elfosado, elkavigo
+duimaje:
+  term: duimaje
+  class: b
+  category: derived
+  translation: ""
+dujarden:
+  term: dujarden
+  class: b
+  category: derived
+  translation: ""
 dukan:
   term: dukan
   class: b
@@ -9864,11 +9894,21 @@ dumbumon:
   class: b
   category: derived
   translation: sidvango, gluteo
+dumeniki:
+  term: dumeniki
+  class: b
+  category: derived
+  translation: imunigo
 duna:
   term: duna
   class: b
   category: root
   translation: duno
+dunavi:
+  term: dunavi
+  class: b
+  category: derived
+  translation: ŝipiro, navigado, navigacio, navigaciado
 dunerleli:
   term: dunerleli
   class: p jm
@@ -9904,6 +9944,11 @@ dupentu:
   class: b
   category: derived
   translation: pentrita
+duproduti:
+  term: duproduti
+  class: b
+  category: derived
+  translation: produktado
 dupul:
   term: dupul
   class: m
@@ -9944,6 +9989,11 @@ duregi:
   class: b.oj
   category: derived
   translation: daŭrigo; daŭrigi
+dureporti:
+  term: dureporti
+  class: b
+  category: derived
+  translation: raportado
 durepul:
   term: durepul
   class: t
@@ -15352,11 +15402,11 @@ goyutul:
   class: b
   category: derived
   translation: fosilo
-goyuya:
-  term: goyuya
+goyuxey:
+  term: goyuxey
   class: b
   category: derived
-  translation: fosado, elfosado, elkavigo
+  translation: ""
 grafi:
   term: grafi
   class: b.oj
@@ -17283,12 +17333,12 @@ hu_denloka:
   term: hu denloka
   class: l jm
   category: phrase
-  translation: relativa propozicio; kie
+  translation: 'relativa propozicio: kie, en kiu'
 hu_in_da:
   term: hu in da
   class: l jm
   category: phrase
-  translation: relativa propozicio; (en) kie, en kiu
+  translation: 'relativa propozicio: kie, en kiu'
 hudson:
   term: Hudson
   class: su n
@@ -25546,7 +25596,7 @@ magneto:
   term: magneto
   class: b.oj
   category: root
-  translation: magneto, (magneta) altiro; (magnete) altiri
+  translation: magneto
 magnetoli:
   term: magnetoli
   class: t
@@ -27314,11 +27364,6 @@ menikipul:
   class: b
   category: derived
   translation: imuna; imune
-menikiya:
-  term: menikiya
-  class: b
-  category: derived
-  translation: imunigo
 menu:
   term: menu
   class: b
@@ -28625,6 +28670,11 @@ moyloka:
   class: m
   category: derived
   translation: ĉie
+moyloka_hu:
+  term: moyloka hu
+  class: l
+  category: phrase
+  translation: ĉie kie, en ĉiu loko kie
 moymaner:
   term: moymaner
   class: m
@@ -29435,11 +29485,6 @@ navilari:
   class: b
   category: derived
   translation: ŝiparo
-naviya:
-  term: naviya
-  class: b
-  category: derived
-  translation: ŝipiro, navigado, navigacio, navigaciado
 naviyen:
   term: naviyen
   class: b
@@ -29540,8 +29585,8 @@ nenabilya:
   class: b
   category: derived
   translation: nekapableco
-nenadabu:
-  term: nenadabu
+nenadebu:
+  term: nenadebu
   class: b
   category: derived
   translation: malĝentileco
@@ -33879,6 +33924,11 @@ posyesengi:
   class: b.oj
   category: derived
   translation: malsovaĝigo; malsovaĝigi
+posyongu:
+  term: posyongu
+  class: b.oj
+  category: derived
+  translation: malŝparo; malŝpari
 posyukwe:
   term: posyukwe
   class: t
@@ -34124,11 +34174,6 @@ produtidom:
   class: b
   category: derived
   translation: magazeno, depoto, tenejo
-produtiya:
-  term: produtiya
-  class: b
-  category: derived
-  translation: produktado
 produtiyen:
   term: produtiyen
   class: b
@@ -34819,11 +34864,6 @@ reportido:
   class: t
   category: derived
   translation: raportita
-reportiya:
-  term: reportiya
-  class: b
-  category: derived
-  translation: raportado
 reputasi:
   term: reputasi
   class: b
@@ -43143,6 +43183,11 @@ xinloyne:
   class: t
   category: derived
   translation: fidanta
+xinxiku:
+  term: xinxiku
+  class: b.oro
+  category: root
+  translation: erodo, erozio; erodi, erozii; erodiĝi, eroziiĝi
 xinyon:
   term: xinyon
   class: b

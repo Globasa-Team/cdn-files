@@ -464,36 +464,6 @@ acumgi:
   class: b.oj
   category: derived
   translation: make sneeze, cause to sneeze
-adabu:
-  term: adabu
-  class: b
-  category: root
-  translation: politeness, courtesy
-adabufil:
-  term: adabufil
-  class: t
-  category: derived
-  translation: polite, courteous; politely, courteously
-adabukal:
-  term: adabukal
-  class: t
-  category: derived
-  translation: impolite, rude
-adabukalya:
-  term: adabukalya
-  class: t
-  category: derived
-  translation: impoliteness, rudeness
-adabunenfil:
-  term: adabunenfil
-  class: t
-  category: derived
-  translation: impolite, rude
-adabupul:
-  term: adabupul
-  class: t
-  category: derived
-  translation: polite, courteous; politely, courteously
 adam:
   term: Adam
   class: su n
@@ -539,6 +509,36 @@ adatexey:
   class: b
   category: derived
   translation: adaptation (<em>count noun</em>)
+adebu:
+  term: adebu
+  class: b
+  category: root
+  translation: politeness, courtesy
+adebufil:
+  term: adebufil
+  class: t
+  category: derived
+  translation: polite, courteous; politely, courteously
+adebukal:
+  term: adebukal
+  class: t
+  category: derived
+  translation: impolite, rude
+adebukalya:
+  term: adebukalya
+  class: t
+  category: derived
+  translation: impoliteness, rudeness
+adebunenfil:
+  term: adebunenfil
+  class: t
+  category: derived
+  translation: impolite, rude
+adebupul:
+  term: adebupul
+  class: t
+  category: derived
+  translation: polite, courteous; politely, courteously
 aden:
   term: Aden
   class: su n
@@ -2759,7 +2759,7 @@ atoya:
   term: atoya
   class: b
   category: derived
-  translation: acting
+  translation: acting (<em>discipline of</em>)
 atoyen:
   term: atoyen
   class: b
@@ -3668,7 +3668,8 @@ bankwanti:
   term: bankwanti
   class: d
   category: derived
-  translation: some amount (of), some quantify (of), some, a bit (of)
+  translation: some, some amount (of), some quantity (of), a bit (of); some, somewhat,
+    to some extent, a bit
 banloka:
   term: banloka
   class: m
@@ -3978,7 +3979,7 @@ basataytiyen:
   term: basataytiyen
   class: b
   category: derived
-  translation: translator, interpretor
+  translation: translator, interpreter
 basaxube:
   term: basaxube
   class: b
@@ -5095,11 +5096,6 @@ bomba:
   class: b.oj
   category: root
   translation: bomb; bomb
-bombaya:
-  term: bombaya
-  class: b
-  category: derived
-  translation: bombing
 bon:
   term: bon
   class: t
@@ -7569,6 +7565,11 @@ daone:
   class: t
   category: derived
   translation: traveling
+daoxey:
+  term: daoxey
+  class: b
+  category: derived
+  translation: trip, journey
 daoya:
   term: daoya
   class: b
@@ -8303,6 +8304,11 @@ dekartli:
   class: t
   category: derived
   translation: Cartesian
+deki:
+  term: deki
+  class: b
+  category: root
+  translation: deck
 deklara:
   term: deklara
   class: b.oj
@@ -8450,7 +8456,7 @@ denloka:
   translation: there
 denloka_hu:
   term: denloka hu
-  class: m
+  class: l
   category: phrase
   translation: 'subordinate clause: where, wherever'
 denlokali:
@@ -8507,10 +8513,10 @@ denseba:
   term: denseba
   class: m
   category: derived
-  translation: for that reason
+  translation: for that reason, therefore, consequently, so, thus, hence, then
 denseba_hu:
   term: denseba hu
-  class: m
+  class: l
   category: phrase
   translation: 'subordinate clause: why, how come'
 densu:
@@ -9223,6 +9229,11 @@ dograyen:
   class: b
   category: derived
   translation: Dogra (person)
+doki:
+  term: doki
+  class: b.oj
+  category: root
+  translation: dock, pier, wharf, quay; dock
 doku:
   term: doku
   class: b
@@ -9774,6 +9785,11 @@ duarmoni:
   class: b
   category: derived
   translation: harmonization
+duato:
+  term: duato
+  class: b
+  category: derived
+  translation: acting (<em>act of</em>)
 duatyan:
   term: duatyan
   class: b
@@ -9879,6 +9895,21 @@ dugaga:
   class: b
   category: derived
   translation: stuttering (<em>act of</em>)
+dugoyu:
+  term: dugoyu
+  class: b
+  category: derived
+  translation: excavation, excavating
+duimaje:
+  term: duimaje
+  class: b
+  category: derived
+  translation: imagining, imagination
+dujarden:
+  term: dujarden
+  class: b
+  category: derived
+  translation: gardening (<em>act of</em>)
 dukan:
   term: dukan
   class: b
@@ -9905,11 +9936,21 @@ dumbumon:
   class: b
   category: derived
   translation: butt cheek
+dumeniki:
+  term: dumeniki
+  class: b
+  category: derived
+  translation: immunization
 duna:
   term: duna
   class: b
   category: root
   translation: dune
+dunavi:
+  term: dunavi
+  class: b
+  category: derived
+  translation: navigation, navigating
 dunerleli:
   term: dunerleli
   class: p jm
@@ -9945,6 +9986,11 @@ dupentu:
   class: b
   category: derived
   translation: painting (<em>act of</em>)
+duproduti:
+  term: duproduti
+  class: b
+  category: derived
+  translation: production, producing
 dupul:
   term: dupul
   class: m
@@ -9987,6 +10033,11 @@ duregi:
   category: derived
   translation: continuation; continue (with), go on (with), keep going (with), carry
     on (with), keep (on)
+dureporti:
+  term: dureporti
+  class: b
+  category: derived
+  translation: reporting
 durepul:
   term: durepul
   class: t
@@ -12294,7 +12345,8 @@ fe:
   category: root
   translation: at (<em>time</em>), in (<em>month or year</em>), on (<em>date or day
     of the week</em>), at (<em>phrasal preposition, or location other than within</em>),
-    for (<em>for the first time, etc.</em>), of (<em>relating to, number, quantity,
+    for (<em>for the first time, etc.</em>), for (<em>in one&#039;s case or experience</em>,
+    <em>in the case or experience of</em>), of (<em>relating to, number, quantity,
     amount</em>), <em>forms common prepositional phrases</em>
 fe_alo_kaso:
   term: fe alo kaso
@@ -12452,7 +12504,7 @@ fe_folo:
   term: fe folo
   class: p jm
   category: phrase
-  translation: therefore, consequently, so, thus, then
+  translation: therefore, consequently, so, thus, hence, then
 fe_folo_fe:
   term: fe folo fe
   class: jm p
@@ -13354,7 +13406,7 @@ finfe_nunya:
   term: finfe nunya
   class: p jm
   category: derived
-  translation: so far, until now
+  translation: so far, thus far, until now
 finfley:
   term: finfley
   class: b.nenoj
@@ -13685,7 +13737,8 @@ fol:
   term: fol
   class: p
   category: root
-  translation: according to, along, alongside (of), by, for (<em>according to</em>)
+  translation: according to, along, alongside (of), by, for (<em>according to one&#039;s
+    opinion or belief</em>)
 fol-:
   term: fol-
   class: lfik
@@ -15415,8 +15468,8 @@ goyutul:
   class: b
   category: derived
   translation: shovel
-goyuya:
-  term: goyuya
+goyuxey:
+  term: goyuxey
   class: b
   category: derived
   translation: excavation
@@ -19249,7 +19302,7 @@ jardenya:
   term: jardenya
   class: b
   category: derived
-  translation: gardening
+  translation: gardening (<em>discipline of</em>)
 jaribi:
   term: jaribi
   class: b.oj
@@ -25645,7 +25698,7 @@ magneto:
   term: magneto
   class: b.oj
   category: root
-  translation: magnet, (magnetic) pull; attract
+  translation: magnet; magnetize
 magnetoli:
   term: magnetoli
   class: t
@@ -27416,11 +27469,6 @@ menikipul:
   class: b
   category: derived
   translation: immune
-menikiya:
-  term: menikiya
-  class: b
-  category: derived
-  translation: immunization
 menu:
   term: menu
   class: b
@@ -27972,7 +28020,7 @@ minimum_to:
   term: minimum to
   class: n jm
   category: phrase
-  translation: as few as possible
+  translation: as few as possible, as little as possible
 minimumismo:
   term: minimumismo
   class: b
@@ -28735,6 +28783,11 @@ moyloka:
   class: m
   category: derived
   translation: everywhere, throughout
+moyloka_hu:
+  term: moyloka hu
+  class: l
+  category: phrase
+  translation: wherever, in every place where
 moymaner:
   term: moymaner
   class: m
@@ -29550,11 +29603,6 @@ navilari:
   class: b
   category: derived
   translation: fleet of ships
-naviya:
-  term: naviya
-  class: b
-  category: derived
-  translation: navigation
 naviyen:
   term: naviyen
   class: b
@@ -29655,8 +29703,8 @@ nenabilya:
   class: b
   category: derived
   translation: inability, disability, incapacity, failure
-nenadabu:
-  term: nenadabu
+nenadebu:
+  term: nenadebu
   class: b
   category: derived
   translation: impoliteness, rudeness
@@ -31227,7 +31275,8 @@ onexa:
   term: onexa
   class: b.oj
   category: root
-  translation: showing, demonstration, display, demo; show, demonstrate, display
+  translation: showing, demonstration, display, demo, performance; show, demonstrate,
+    display, performance
 onexado:
   term: onexado
   class: t
@@ -34000,6 +34049,11 @@ posyesengi:
   class: b.oj
   category: derived
   translation: tame
+posyongu:
+  term: posyongu
+  class: b.oj
+  category: derived
+  translation: waste; waste
 posyukwe:
   term: posyukwe
   class: t
@@ -34245,11 +34299,6 @@ produtidom:
   class: b
   category: derived
   translation: warehouse, depot
-produtiya:
-  term: produtiya
-  class: b
-  category: derived
-  translation: production
 produtiyen:
   term: produtiyen
   class: b
@@ -34943,11 +34992,6 @@ reportido:
   class: t
   category: derived
   translation: reported
-reportiya:
-  term: reportiya
-  class: b
-  category: derived
-  translation: reporting
 reputasi:
   term: reputasi
   class: b
@@ -34997,7 +35041,7 @@ resmiya:
   term: resmiya
   class: b
   category: derived
-  translation: formality, formalness
+  translation: formality, formalness, officialness
 resta:
   term: resta
   class: b.nenoj
@@ -38301,7 +38345,7 @@ sungenkal:
   term: sungenkal
   class: t
   category: derived
-  translation: degrading
+  translation: degrading, undignified
 sungenkalgi:
   term: sungenkalgi
   class: b.oj
@@ -38832,7 +38876,7 @@ tafasir:
   term: tafasir
   class: b.oj
   category: root
-  translation: interpretation, rendering, performance; interpret, render, perform
+  translation: interpretation, rendering; interpret, render
 tafasirdo:
   term: tafasirdo
   class: t
@@ -43289,6 +43333,12 @@ xinloyne:
   class: t
   category: derived
   translation: trusting
+xinxiku:
+  term: xinxiku
+  class: b.oro
+  category: root
+  translation: 'erosion; tr: erode, wear down, eat away (at); intr (optional -cu):
+    erode, wear out, wear off'
 xinyon:
   term: xinyon
   class: b
@@ -44419,8 +44469,8 @@ yunki:
   term: yunki
   class: b.oro
   category: root
-  translation: 'courage; tr: make courageous, encourage; intr (optional -cu): be courageous,
-    have the courage (to, for), dare (to)'
+  translation: 'courage; tr: make courageous, encourage; intr: be courageous, have
+    the courage (to, for), dare (to)'
 yunkido:
   term: yunkido
   class: t

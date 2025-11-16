@@ -464,36 +464,6 @@ acumgi:
   class: b.oj
   category: derived
   translation: Niesen ausl&ouml;sen
-adabu:
-  term: adabu
-  class: b
-  category: root
-  translation: ""
-adabufil:
-  term: adabufil
-  class: t
-  category: derived
-  translation: ""
-adabukal:
-  term: adabukal
-  class: t
-  category: derived
-  translation: ""
-adabukalya:
-  term: adabukalya
-  class: t
-  category: derived
-  translation: ""
-adabunenfil:
-  term: adabunenfil
-  class: t
-  category: derived
-  translation: ""
-adabupul:
-  term: adabupul
-  class: t
-  category: derived
-  translation: ""
 adam:
   term: Adam
   class: su n
@@ -537,6 +507,36 @@ adateible:
 adatexey:
   term: adatexey
   class: b
+  category: derived
+  translation: ""
+adebu:
+  term: adebu
+  class: b
+  category: root
+  translation: ""
+adebufil:
+  term: adebufil
+  class: t
+  category: derived
+  translation: ""
+adebukal:
+  term: adebukal
+  class: t
+  category: derived
+  translation: ""
+adebukalya:
+  term: adebukalya
+  class: t
+  category: derived
+  translation: ""
+adebunenfil:
+  term: adebunenfil
+  class: t
+  category: derived
+  translation: ""
+adebupul:
+  term: adebupul
+  class: t
   category: derived
   translation: ""
 aden:
@@ -5065,11 +5065,6 @@ bomba:
   class: b.oj
   category: root
   translation: ""
-bombaya:
-  term: bombaya
-  class: b
-  category: derived
-  translation: ""
 bon:
   term: bon
   class: t
@@ -7531,6 +7526,11 @@ daone:
   class: t
   category: derived
   translation: ""
+daoxey:
+  term: daoxey
+  class: b
+  category: derived
+  translation: ""
 daoya:
   term: daoya
   class: b
@@ -8261,6 +8261,11 @@ dekartli:
   class: t
   category: derived
   translation: kartesisch
+deki:
+  term: deki
+  class: b
+  category: root
+  translation: Deck
 deklara:
   term: deklara
   class: b.oj
@@ -8408,7 +8413,7 @@ denloka:
   translation: ""
 denloka_hu:
   term: denloka hu
-  class: m
+  class: l
   category: phrase
   translation: ""
 denlokali:
@@ -8468,7 +8473,7 @@ denseba:
   translation: ""
 denseba_hu:
   term: denseba hu
-  class: m
+  class: l
   category: phrase
   translation: ""
 densu:
@@ -9181,6 +9186,11 @@ dograyen:
   class: b
   category: derived
   translation: ""
+doki:
+  term: doki
+  class: b.oj
+  category: root
+  translation: ""
 doku:
   term: doku
   class: b
@@ -9731,6 +9741,11 @@ duarmoni:
   class: b
   category: derived
   translation: ""
+duato:
+  term: duato
+  class: b
+  category: derived
+  translation: ""
 duatyan:
   term: duatyan
   class: b
@@ -9836,6 +9851,21 @@ dugaga:
   class: b
   category: derived
   translation: ""
+dugoyu:
+  term: dugoyu
+  class: b
+  category: derived
+  translation: ""
+duimaje:
+  term: duimaje
+  class: b
+  category: derived
+  translation: ""
+dujarden:
+  term: dujarden
+  class: b
+  category: derived
+  translation: ""
 dukan:
   term: dukan
   class: b
@@ -9861,11 +9891,21 @@ dumbumon:
   class: b
   category: derived
   translation: ""
+dumeniki:
+  term: dumeniki
+  class: b
+  category: derived
+  translation: ""
 duna:
   term: duna
   class: b
   category: root
   translation: D&uuml;ne
+dunavi:
+  term: dunavi
+  class: b
+  category: derived
+  translation: ""
 dunerleli:
   term: dunerleli
   class: p jm
@@ -9898,6 +9938,11 @@ duparacutu:
   translation: ""
 dupentu:
   term: dupentu
+  class: b
+  category: derived
+  translation: ""
+duproduti:
+  term: duproduti
   class: b
   category: derived
   translation: ""
@@ -9939,6 +9984,11 @@ dureabil:
 duregi:
   term: duregi
   class: b.oj
+  category: derived
+  translation: ""
+dureporti:
+  term: dureporti
+  class: b
   category: derived
   translation: ""
 durepul:
@@ -15342,8 +15392,8 @@ goyutul:
   class: b
   category: derived
   translation: Schaufel, Schippe
-goyuya:
-  term: goyuya
+goyuxey:
+  term: goyuxey
   class: b
   category: derived
   translation: ""
@@ -27292,11 +27342,6 @@ menikipul:
   class: b
   category: derived
   translation: ""
-menikiya:
-  term: menikiya
-  class: b
-  category: derived
-  translation: ""
 menu:
   term: menu
   class: b
@@ -28603,6 +28648,11 @@ moyloka:
   class: m
   category: derived
   translation: ""
+moyloka_hu:
+  term: moyloka hu
+  class: l
+  category: phrase
+  translation: ""
 moymaner:
   term: moymaner
   class: m
@@ -29413,11 +29463,6 @@ navilari:
   class: b
   category: derived
   translation: ""
-naviya:
-  term: naviya
-  class: b
-  category: derived
-  translation: ""
 naviyen:
   term: naviyen
   class: b
@@ -29518,8 +29563,8 @@ nenabilya:
   class: b
   category: derived
   translation: ""
-nenadabu:
-  term: nenadabu
+nenadebu:
+  term: nenadebu
   class: b
   category: derived
   translation: ""
@@ -31947,7 +31992,7 @@ paradoksa:
   term: paradoksa
   class: b
   category: root
-  translation: ""
+  translation: Paradoxon, Paradoxa, Paradox, Paradoxie
 paradoksali:
   term: paradoksali
   class: t
@@ -33853,6 +33898,11 @@ posyesengi:
   class: b.oj
   category: derived
   translation: ""
+posyongu:
+  term: posyongu
+  class: b.oj
+  category: derived
+  translation: ""
 posyukwe:
   term: posyukwe
   class: t
@@ -34095,11 +34145,6 @@ produti:
   translation: ""
 produtidom:
   term: produtidom
-  class: b
-  category: derived
-  translation: ""
-produtiya:
-  term: produtiya
   class: b
   category: derived
   translation: ""
@@ -34791,11 +34836,6 @@ reporti:
 reportido:
   term: reportido
   class: t
-  category: derived
-  translation: ""
-reportiya:
-  term: reportiya
-  class: b
   category: derived
   translation: ""
 reputasi:
@@ -38097,7 +38137,7 @@ sumbole:
   term: sumbole
   class: b
   category: root
-  translation: ""
+  translation: '&Auml;hre'
 sumul:
   term: sumul
   class: b
@@ -38327,7 +38367,7 @@ susu:
   term: susu
   class: b.oj
   category: root
-  translation: ""
+  translation: Saugen, Lutschen; saugen, lutschen
 sutun:
   term: sutun
   class: b
@@ -38367,7 +38407,7 @@ suyon:
   term: suyon
   class: b.oj.ru
   category: root
-  translation: ""
+  translation: Schwimmen; schwimmen
 suyondom:
   term: suyondom
   class: b
@@ -38397,7 +38437,7 @@ suyonyen:
   term: suyonyen
   class: b
   category: derived
-  translation: ""
+  translation: Schwimmer
 swahili:
   term: Swahili
   class: su t
@@ -38442,22 +38482,22 @@ swerili:
   term: Swerili
   class: t
   category: derived
-  translation: ""
+  translation: schwedisch
 swerisa:
   term: Swerisa
   class: b
   category: derived
-  translation: ""
+  translation: Schwedisch
 sweriyen:
   term: Sweriyen
   class: b
   category: derived
-  translation: ""
+  translation: Schwede
 sweta:
   term: sweta
   class: b.oj.ru
   category: root
-  translation: ""
+  translation: Schwei&szlig;; schwitzen
 swetagi:
   term: swetagi
   class: b.oj
@@ -38547,12 +38587,12 @@ swomisa:
   term: Swomisa
   class: b
   category: derived
-  translation: ""
+  translation: Finnisch
 swomiyen:
   term: Swomiyen
   class: b
   category: derived
-  translation: ""
+  translation: Finne, Finnl&auml;nder
 syahe:
   term: syahe
   class: t
@@ -38567,7 +38607,7 @@ syaheberi:
   term: syaheberi
   class: b
   category: derived
-  translation: ""
+  translation: Brombeere
 syahemo:
   term: syahemo
   class: m
@@ -38622,7 +38662,7 @@ tabasum:
   term: tabasum
   class: b.oj.ru
   category: root
-  translation: ""
+  translation: L&auml;cheln; l&auml;cheln
 tabasumgi:
   term: tabasumgi
   class: b.oj
@@ -43114,6 +43154,11 @@ xinloyne:
   class: t
   category: derived
   translation: ""
+xinxiku:
+  term: xinxiku
+  class: b.oro
+  category: root
+  translation: ""
 xinyon:
   term: xinyon
   class: b
@@ -43828,17 +43873,17 @@ yatimacu:
   term: yatimacu
   class: b.nenoj
   category: derived
-  translation: ""
+  translation: Waise werden, verwaisen
 yatimado:
   term: yatimado
   class: t
   category: derived
-  translation: ""
+  translation: verwaist, Waise geworden
 yatimadom:
   term: yatimadom
   class: b
   category: derived
-  translation: ""
+  translation: Waisenhaus
 yatimagi:
   term: yatimagi
   class: b.oj
