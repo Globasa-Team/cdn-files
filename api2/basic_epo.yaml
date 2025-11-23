@@ -53,7 +53,7 @@
   term: -ente
   class: b xfik
   category: affix
-  translation: (neviva) agento, -ilo
+  translation: (senviva) agento, -ilo
 -fil:
   term: -fil
   class: t xfik
@@ -66,7 +66,7 @@
   translation: -fobio
 -fon:
   term: -fon
-  class: b
+  class: b xfik
   category: affix
   translation: -fono (<em>telefono, megafono, mikrofono, vibrafono</em>)
 -gi:
@@ -1172,7 +1172,7 @@ almasihalke:
   translation: diamanta ringo
 alo:
   term: alo
-  class: t; d
+  class: d
   category: root
   translation: alia, malsama, diferenca, ali-
 alo-:
@@ -1860,22 +1860,33 @@ ansya:
   term: ansya
   class: b.oro
   category: root
-  translation: anksio; kaŭzi anksion (al); esti anksia, senti anksion
+  translation: anksio; kaŭzi anksion (al), anksiigi; esti anksia, senti anksion
 ansyacu:
   term: ansyacu
   class: b.nenoj
   category: derived
   translation: (est)iĝi anksia, eksenti anksion
+ansyado:
+  term: ansyado
+  class: t
+  category: derived
+  translation: anksia; anksie
 ansyafil:
   term: ansyafil
   class: t
   category: derived
   translation: zorgema, anksiema; zorgeme, anksieme
+ansyane:
+  term: ansyane
+  class: t
+  category: derived
+  translation: anksiiga; anksiige
 ansyapul:
   term: ansyapul
   class: t
   category: derived
-  translation: anksia
+  translation: 'aĵgenraj substantivoj: anksiiga; anksiige; ulgenraj substantivoj:
+    anksia; anksie'
 antartiko:
   term: Antartiko
   class: su n
@@ -2331,6 +2342,11 @@ artroitiscu:
   class: b.nenoj
   category: derived
   translation: trafiĝi de artrito
+artroitisdo:
+  term: artroitisdo
+  class: t
+  category: derived
+  translation: artrita (<em>trafita de artrito</em>)
 artroitisli:
   term: artroitisli
   class: t
@@ -2516,6 +2532,11 @@ astamacu:
   class: b.nenoj
   category: derived
   translation: trafiĝi de astmon
+astamado:
+  term: astamado
+  class: t
+  category: derived
+  translation: astma (<em>trafita de astmo</em>)
 astamakrisis:
   term: astamakrisis
   class: b
@@ -2745,7 +2766,7 @@ atoya:
   term: atoya
   class: b
   category: derived
-  translation: ""
+  translation: aktorado (<em>fako</em>)
 atoyen:
   term: atoyen
   class: b
@@ -3812,6 +3833,11 @@ bardiabil:
   class: t
   category: derived
   translation: malvarmiga
+bardicu:
+  term: bardicu
+  class: b.nenoj
+  category: derived
+  translation: malvarmiĝo; malvarmiĝi
 bardiday:
   term: bardiday
   class: t
@@ -3966,12 +3992,17 @@ basi:
   term: basi
   class: b.oro
   category: root
-  translation: bazo; bazi
+  translation: bazo; bazi; baziĝi
 basibol:
   term: basibol
   class: b
   category: derived
   translation: bazopilko, basbalo
+basicu:
+  term: basicu
+  class: b.nenoj
+  category: derived
+  translation: baziĝo; baziĝi
 basido:
   term: basido
   class: t
@@ -4082,6 +4113,11 @@ bawlu:
   class: b.oro
   category: root
   translation: perforto, violento; esti perforta, esti violenta, perfortigi, violentigi
+bawlucu:
+  term: bawlucu
+  class: b.nenoj
+  category: derived
+  translation: violentiĝo; violentiĝi
 bawlukrasi:
   term: bawlukrasi
   class: b
@@ -4446,12 +4482,22 @@ bembi:
   term: bembi
   class: b.oro
   category: root
-  translation: konstipo, mallakso; konstipi, konstipiĝi
+  translation: konstipo, mallakso; konstipi; konstipiĝi
+bembicu:
+  term: bembicu
+  class: b.nenoj
+  category: derived
+  translation: konstipiĝo; konstipiĝi
 bembido:
   term: bembido
   class: t
   category: derived
   translation: konstipita, mallaksa
+bembine:
+  term: bembine
+  class: t
+  category: derived
+  translation: konstipanta, konstipiga
 bembipul:
   term: bembipul
   class: t
@@ -5331,7 +5377,12 @@ boyle:
   term: boyle
   class: b.oro
   category: root
-  translation: bolo; boli, boligi
+  translation: bolo; boligi; boli
+boylecu:
+  term: boylecu
+  class: b.nenoj
+  category: derived
+  translation: bolado; boli
 boylecune:
   term: boylecune
   class: t
@@ -5576,7 +5627,12 @@ buhar:
   term: buhar
   class: b.oro
   category: root
-  translation: vaporo; vaporkuiri
+  translation: vaporo; vaporkuiri; vapori
+buharcu:
+  term: buharcu
+  class: b.nenoj
+  category: derived
+  translation: vaporado; vapori
 buhardo:
   term: buhardo
   class: t
@@ -5611,7 +5667,12 @@ buka:
   term: buka
   class: b.oro
   category: root
-  translation: malfermo; malfermi
+  translation: malfermo; malfermi; malfermiĝi
+bukacu:
+  term: bukacu
+  class: b.nenoj
+  category: derived
+  translation: malfermiĝo; malfermiĝi
 bukacune:
   term: bukacune
   class: t
@@ -6073,6 +6134,11 @@ cakare:
   class: b.oro
   category: root
   translation: kapturno, vertiĝo; kapturnigi; kapturniĝi, vertiĝi
+cakarecu:
+  term: cakarecu
+  class: b.nenoj
+  category: derived
+  translation: kapturniĝo, vertiĝo; kapturniĝi, ricevi vertiĝon
 cakarene:
   term: cakarene
   class: t
@@ -6222,7 +6288,12 @@ carme:
   term: carme
   class: b.oro
   category: root
-  translation: ĉarmo; ĉarmi
+  translation: ĉarmo; ĉarmi; ĉarmiĝi
+carmecu:
+  term: carmecu
+  class: b.nenoj
+  category: derived
+  translation: ĉarmiĝo; ĉarmiĝi
 carmedo:
   term: carmedo
   class: t
@@ -6237,7 +6308,8 @@ carmepul:
   term: carmepul
   class: t
   category: derived
-  translation: ĉarma; ĉarme
+  translation: 'aĵgenraj substantivoj: ĉarma; ĉarme; ulgenraj substantivoj: ĉarmita;
+    ĉarmite'
 cati:
   term: cati
   class: b
@@ -6512,12 +6584,17 @@ centro:
   term: centro
   class: b.oro
   category: root
-  translation: centro; centri
+  translation: centro; centri; centriĝi
 centroafrika:
   term: Centroafrika
   class: su n
   category: proper word
   translation: Centra Afriko
+centrocu:
+  term: centrocu
+  class: b.nenoj
+  category: derived
+  translation: centriĝo; centriĝi
 centrodo:
   term: centrodo
   class: t
@@ -6832,7 +6909,12 @@ ciru:
   term: ciru
   class: b.oro
   category: root
-  translation: ŝiro; ŝiri
+  translation: ŝiro; ŝiri; ŝiriĝi
+cirucu:
+  term: cirucu
+  class: b.nenoj
+  category: derived
+  translation: ŝiriĝo; ŝiriĝi
 cirudo:
   term: cirudo
   class: t
@@ -7010,7 +7092,7 @@ cotecu:
   translation: malaltiĝo; malaltiĝi
 cotegi:
   term: cotegi
-  class: d.oj
+  class: b.oj
   category: derived
   translation: malaltigo; malaltigi
 coteya:
@@ -7142,7 +7224,12 @@ curuko:
   term: curuko
   class: b.oro
   category: root
-  translation: kontuzo; kontuziĝi, kontuzi
+  translation: kontuzo; kontuzi; kontuziĝi
+curukocu:
+  term: curukocu
+  class: b.nenoj
+  category: derived
+  translation: kontuziĝo; kontuziĝi
 curukodo:
   term: curukodo
   class: t
@@ -7562,7 +7649,12 @@ daraki:
   term: daraki
   class: b.oro
   category: root
-  translation: fendo, fendaĵo; fendiĝi, fendi
+  translation: fendo, fendaĵo; fendi; fendiĝi
+darakicu:
+  term: darakicu
+  class: b.nenoj
+  category: derived
+  translation: fendiĝo; fendiĝi
 darakido:
   term: darakido
   class: t
@@ -8137,7 +8229,12 @@ daysurprisa:
   term: daysurprisa
   class: b.oro
   category: derived
-  translation: surprizego; surprizegi
+  translation: surprizego; surprizegi; surprizegiĝi
+daysurprisado:
+  term: daysurprisado
+  class: t
+  category: derived
+  translation: surprizegita
 daysurprisane:
   term: daysurprisane
   class: t
@@ -8558,7 +8655,12 @@ depresi:
   term: depresi
   class: b.oro
   category: root
-  translation: depresio, deprimo; deprimi, esti deprimita
+  translation: depresio, deprimo; deprimi; deprimiĝi, esti deprimita
+depresicu:
+  term: depresicu
+  class: b.nenoj
+  category: derived
+  translation: deprimiĝo; deprimiĝi
 depresido:
   term: depresido
   class: t
@@ -8579,6 +8681,11 @@ depresine:
   class: t
   category: derived
   translation: deprimiga
+depresipul:
+  term: depresipul
+  class: t
+  category: derived
+  translation: 'aĵgenraj substantivoj: deprimiga; ulgenraj substantivoj: deprimita'
 des:
   term: des
   class: num
@@ -9748,7 +9855,7 @@ duato:
   term: duato
   class: b
   category: derived
-  translation: aktorado
+  translation: aktorado (<em>ago</em>)
 duatyan:
   term: duatyan
   class: b
@@ -9789,6 +9896,11 @@ dubroxa:
   class: b
   category: derived
   translation: brosado
+dubuhar:
+  term: dubuhar
+  class: b
+  category: derived
+  translation: vaporado
 ducakix:
   term: ducakix
   class: b
@@ -9848,7 +9960,27 @@ dudul:
   term: dudul
   class: b.oro
   category: root
-  translation: balancado, balanciĝo; balanciĝi, balanci
+  translation: balancado, balanciĝo; balanci; balanciĝi
+dudulcu:
+  term: dudulcu
+  class: b.nenoj
+  category: derived
+  translation: balanciĝo; balanciĝi
+dudulcune:
+  term: dudulcune
+  class: t
+  category: derived
+  translation: balanciĝanta; balanciĝante
+dudulne:
+  term: dudulne
+  class: t
+  category: derived
+  translation: balanciĝanta; balanciĝante
+dueletri:
+  term: dueletri
+  class: b
+  category: derived
+  translation: elektriĝo; elektriĝi
 dugaga:
   term: dugaga
   class: b
@@ -9863,12 +9995,12 @@ duimaje:
   term: duimaje
   class: b
   category: derived
-  translation: ""
+  translation: imagado
 dujarden:
   term: dujarden
   class: b
   category: derived
-  translation: ""
+  translation: ĝardenado (<em>ado</em>)
 dukan:
   term: dukan
   class: b
@@ -10064,6 +10196,11 @@ dyabetes:
   class: b.oro
   category: root
   translation: diabeto; kaŭzi diabeton; trafiĝi de diabeto
+dyabetesdo:
+  term: dyabetesdo
+  class: t
+  category: derived
+  translation: diabeta (<em>trafita de diabeto</em>)
 dyabetesli:
   term: dyabetesli
   class: t
@@ -10403,7 +10540,7 @@ eletri:
   term: eletri
   class: b.oro
   category: root
-  translation: elektro; elektri
+  translation: elektro; elektri; elektriĝi
 eletricu:
   term: eletricu
   class: b.nenoj
@@ -10589,6 +10726,11 @@ enfeksi:
   class: b.oro
   category: root
   translation: infekto; infekti; infektiĝi
+enfeksicu:
+  term: enfeksicu
+  class: b.nenoj
+  category: derived
+  translation: infektiĝo; infektiĝi
 enfeksido:
   term: enfeksido
   class: t
@@ -10643,7 +10785,7 @@ ente:
   term: ente
   class: b
   category: root
-  translation: (neviva) aganto
+  translation: (senviva) aganto
 entona:
   term: entona
   class: b.oj
@@ -10674,6 +10816,11 @@ epilepsili:
   class: t
   category: derived
   translation: epilepsia
+epilepsipul:
+  term: epilepsipul
+  class: t
+  category: derived
+  translation: epilepsia (<em>trafita de epilepsio</em>)
 erbyum:
   term: erbyum
   class: b
@@ -10879,11 +11026,21 @@ eskizofreni:
   class: b.oro
   category: root
   translation: skizofrenio, sĥizofrenio; kaŭzi skizofrenion; trafiĝi de skizofrenio
+eskizofrenicu:
+  term: eskizofrenicu
+  class: b.nenoj
+  category: derived
+  translation: trafiĝi de skizofrenio
 eskizofrenili:
   term: eskizofrenili
   class: t
   category: derived
   translation: sĥizofrenia, skizofrenia; sĥizofrenie, skizofrenie
+eskizofrenipul:
+  term: eskizofrenipul
+  class: t
+  category: derived
+  translation: ""
 eskizofreniyen:
   term: eskizofreniyen
   class: b
@@ -11065,6 +11222,11 @@ eslovi:
   class: t
   category: root
   translation: slava; slave
+esnobi:
+  term: esnobi
+  class: t
+  category: root
+  translation: snoba
 espageti:
   term: espageti
   class: b
@@ -11310,6 +11472,11 @@ estay:
   class: b.nenoj
   category: root
   translation: staro; stari
+estaycu:
+  term: estaycu
+  class: b.nenoj
+  category: derived
+  translation: stariĝo, ekstaro; stariĝi, ekstari
 estayli:
   term: estayli
   class: t
@@ -11371,6 +11538,11 @@ estimula:
   category: root
   translation: stimulo, instigo, incito, motivo; stimuli, instigi, inciti, motivi,
     stimuliĝi, instigiĝi, incitiĝi, motiviĝi
+estimulacu:
+  term: estimulacu
+  class: b.nenoj
+  category: derived
+  translation: ""
 estimulado:
   term: estimulado
   class: t
@@ -11381,6 +11553,11 @@ estimulane:
   class: t
   category: derived
   translation: stimulanta, instiganta, incitanta, motivanta
+estimulapul:
+  term: estimulapul
+  class: t
+  category: derived
+  translation: ""
 estisa:
   term: Estisa
   class: b
@@ -11396,6 +11573,11 @@ esto:
   class: b.oro
   category: root
   translation: ĉeso, halto; ĉesigi, haltigi; ĉesi, halti
+estocu:
+  term: estocu
+  class: b.nenoj
+  category: derived
+  translation: ""
 estocune:
   term: estocune
   class: t
@@ -11451,6 +11633,11 @@ estres:
   class: b.oro
   category: root
   translation: streso; stresigi, esti stresita
+estrescu:
+  term: estrescu
+  class: b.nenoj
+  category: derived
+  translation: ""
 estresdo:
   term: estresdo
   class: t
@@ -11465,7 +11652,8 @@ estrespul:
   term: estrespul
   class: t
   category: derived
-  translation: stresiga, stresiĝinta, stresigita
+  translation: 'aĵgenraj substantivoj: stresiga; ulgenraj substantivoj: stresiĝinta,
+    stresigita'
 estrimi:
   term: estrimi
   class: b.oj
@@ -12143,7 +12331,7 @@ fankosokitan:
   translation: torfo
 fantasi:
   term: fantasi
-  class: b
+  class: b.oj.ru
   category: root
   translation: fantazio
 fantasisim:
@@ -12276,6 +12464,16 @@ fayda:
   class: b.oro
   category: root
   translation: profito; profiti, profitigi
+faydacu:
+  term: faydacu
+  class: b.nenoj
+  category: derived
+  translation: ""
+faydado:
+  term: faydado
+  class: t
+  category: derived
+  translation: ""
 faydayen:
   term: faydayen
   class: b
@@ -13363,6 +13561,11 @@ fini:
   class: b.oro
   category: root
   translation: fino; finiĝi, fini
+finicu:
+  term: finicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 finicune:
   term: finicune
   class: t
@@ -13488,6 +13691,11 @@ fleksiabilya:
   class: b
   category: derived
   translation: fleksiĝipovo, kurbiĝipovo, fleksipovo, kurbigipovo
+fleksicu:
+  term: fleksicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 fleksicuabil:
   term: fleksicuabil
   class: t
@@ -13629,6 +13837,11 @@ fobi:
   class: b.oro
   category: root
   translation: timo, fobio; timigi, timi
+fobicu:
+  term: fobicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 fobido:
   term: fobido
   class: t
@@ -13658,7 +13871,8 @@ fobipul:
   term: fobipul
   class: t
   category: derived
-  translation: tima; time
+  translation: 'aĵgenraj substantivoj: timiga; timige; ulgenraj substantivoj: tima;
+    time'
 fokma:
   term: fokma
   class: b
@@ -13869,6 +14083,16 @@ forma:
   class: b.oro
   category: root
   translation: formo; formiĝi, formi
+formacu:
+  term: formacu
+  class: b.nenoj
+  category: derived
+  translation: ""
+formado:
+  term: formado
+  class: t
+  category: derived
+  translation: ""
 formato:
   term: formato
   class: b
@@ -13901,7 +14125,7 @@ fosforo:
   translation: fosforo
 fosil:
   term: fosil
-  class: b.oro
+  class: b
   category: root
   translation: fosilio
 fosilcu:
@@ -13909,11 +14133,21 @@ fosilcu:
   class: b.nenoj
   category: derived
   translation: fosiliiĝo; fosiliiĝi
+fosilcudo:
+  term: fosilcudo
+  class: t
+  category: derived
+  translation: ""
 fosilgi:
   term: fosilgi
   class: b.oj
   category: derived
   translation: fosiliigo; fosiliigi
+fosilgido:
+  term: fosilgido
+  class: t
+  category: derived
+  translation: ""
 foto:
   term: foto
   class: b.oj
@@ -14034,6 +14268,11 @@ frustra:
   class: b.oro
   category: root
   translation: frustriĝo, frustracio; frustri, frustriĝi
+frustracu:
+  term: frustracu
+  class: b.nenoj
+  category: derived
+  translation: ""
 frustrado:
   term: frustrado
   class: t
@@ -14044,6 +14283,11 @@ frustrane:
   class: t
   category: derived
   translation: frustracia
+frustrapul:
+  term: frustrapul
+  class: t
+  category: derived
+  translation: ""
 fruta:
   term: fruta
   class: b
@@ -14184,6 +14428,11 @@ furaha:
   class: b.oro
   category: root
   translation: ĝuo, plezuro; plezuri, plaĉi, senti plezuron
+furahacu:
+  term: furahacu
+  class: b.nenoj
+  category: derived
+  translation: ""
 furahado:
   term: furahado
   class: t
@@ -14194,6 +14443,11 @@ furahane:
   class: t
   category: derived
   translation: plaĉa, plezura
+furahapul:
+  term: furahapul
+  class: t
+  category: derived
+  translation: ""
 furi:
   term: furi
   class: t
@@ -15406,7 +15660,7 @@ goyuxey:
   term: goyuxey
   class: b
   category: derived
-  translation: ""
+  translation: fosaĵo
 grafi:
   term: grafi
   class: b.oj
@@ -15714,11 +15968,21 @@ gutoncune:
   class: t
   category: derived
   translation: dolora
+gutondo:
+  term: gutondo
+  class: t
+  category: derived
+  translation: dolorita
 gutonne:
   term: gutonne
   class: t
   category: derived
   translation: dolora
+gutonpul:
+  term: gutonpul
+  class: t
+  category: derived
+  translation: ""
 guxi:
   term: guxi
   class: t
@@ -16234,6 +16498,11 @@ harkacune:
   class: t
   category: derived
   translation: movanta
+harkado:
+  term: harkado
+  class: t
+  category: derived
+  translation: movita
 harkakal:
   term: harkakal
   class: t
@@ -16329,11 +16598,6 @@ hatari:
   class: b.oro
   category: root
   translation: danĝero; esti danĝera, igi danĝera
-hatarido:
-  term: hatarido
-  class: t
-  category: derived
-  translation: endanĝerigita; endanĝerigite
 hataripul:
   term: hataripul
   class: t
@@ -16426,7 +16690,7 @@ hawanaviyen:
   translation: piloto, aviadisto, aeronaŭto, aerveturanto
 haxhaxa:
   term: haxhaxa
-  class: ""
+  class: b.nenoj
   category: root
   translation: susurado; susuri
 haxi:
@@ -16854,6 +17118,11 @@ hezekyel:
   class: su n
   category: proper word
   translation: Jeĥezkel
+hibrido:
+  term: hibrido
+  class: t
+  category: root
+  translation: hibrida
 hidrogen:
   term: hidrogen
   class: b
@@ -17044,11 +17313,6 @@ hipu:
   class: b
   category: root
   translation: kokso
-hirbido:
-  term: hirbido
-  class: t
-  category: root
-  translation: hibrida
 hirxa:
   term: hirxa
   class: b
@@ -17419,6 +17683,11 @@ hunfun:
   class: b.oro
   category: root
   translation: ekscito, agito; eksciti, agiti, esti ekscitita, esti agitita
+hunfuncu:
+  term: hunfuncu
+  class: b.nenoj
+  category: derived
+  translation: ""
 hunfundo:
   term: hunfundo
   class: t
@@ -17671,7 +17940,7 @@ ijen:
   translation: opinio; opinii
 iji:
   term: iji
-  class: m
+  class: l
   category: root
   translation: kaj (<em>kaj... kaj...</em>)
 ikaw:
@@ -17744,6 +18013,11 @@ ilhamuabil:
   class: t
   category: derived
   translation: inspira
+ilhamucu:
+  term: ilhamucu
+  class: b.nenoj
+  category: derived
+  translation: ""
 ilhamudo:
   term: ilhamudo
   class: t
@@ -18129,6 +18403,11 @@ inhatarigi:
   class: b.oj
   category: root
   translation: endanĝerigo; endanĝerigi
+inhatarigido:
+  term: inhatarigido
+  class: t
+  category: derived
+  translation: endanĝerigita; endanĝerigite
 inidi:
   term: inidi
   class: b.oj
@@ -18323,7 +18602,12 @@ interes:
   term: interes
   class: b.oro
   category: root
-  translation: intereso; interesi, interesiĝi (pri)
+  translation: intereso; interesi; interesiĝi
+interescu:
+  term: interescu
+  class: b.nenoj
+  category: derived
+  translation: ""
 interesdo:
   term: interesdo
   class: t
@@ -18334,6 +18618,11 @@ interesne:
   class: t
   category: derived
   translation: interesa; interese
+interespul:
+  term: interespul
+  class: t
+  category: derived
+  translation: ""
 interesyen:
   term: interesyen
   class: b
@@ -18494,6 +18783,11 @@ inxoabil:
   class: t
   category: derived
   translation: impresa, efekta
+inxocu:
+  term: inxocu
+  class: b.nenoj
+  category: derived
+  translation: ""
 inxodo:
   term: inxodo
   class: t
@@ -18859,6 +19153,11 @@ ixi:
   class: b.oro
   category: root
   translation: konscio; konsciigi; konscii
+ixicu:
+  term: ixicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 ixikal:
   term: ixikal
   class: t
@@ -19036,7 +19335,7 @@ jaldi:
   translation: frua; frue
 jale:
   term: jale
-  class: f par
+  class: par
   category: derived
   translation: ĵus, tujantaŭe
 jaledin:
@@ -19218,7 +19517,7 @@ jardenya:
   term: jardenya
   class: b
   category: derived
-  translation: ĝardenado
+  translation: ĝardenado (<em>fako</em>)
 jaribi:
   term: jaribi
   class: b.oj
@@ -19301,7 +19600,7 @@ jawherilari:
   translation: juvelaro
 jaxa:
   term: jaxa
-  class: f par
+  class: par
   category: derived
   translation: tujposte
 jaxadin:
@@ -19829,6 +20128,11 @@ joxu:
   class: b.oro
   category: root
   translation: entuziasmo, ekscito; entuziasmi, ekciti, esti entuziasmita, esti ekcitita
+joxucu:
+  term: joxucu
+  class: b.nenoj
+  category: derived
+  translation: ""
 joxudo:
   term: joxudo
   class: t
@@ -19848,7 +20152,8 @@ joxupul:
   term: joxupul
   class: t
   category: derived
-  translation: entuziasma; entuziasme
+  translation: 'aĵgenraj substantivoj: entuziasmiga; entuziasmige; ulgenraj substantivoj:
+    entuziasma; entuziasme'
 jozi:
   term: jozi
   class: b
@@ -20018,7 +20323,7 @@ jumun:
   term: jumun
   class: b.oj
   category: root
-  translation: sorĉo; sorĉi, meti sorĉaĵo
+  translation: sorĉo; sorĉi, meti sorĉaĵon
 jumundo:
   term: jumundo
   class: t
@@ -20385,8 +20690,8 @@ kafeina:
   class: b
   category: derived
   translation: kafeino
-kafetora:
-  term: kafetora
+kafemaxina:
+  term: kafemaxina
   class: b
   category: derived
   translation: kafaparato
@@ -21245,6 +21550,11 @@ kasiru:
   class: b.oro
   category: root
   translation: rompo; rompi
+kasirucu:
+  term: kasirucu
+  class: b.nenoj
+  category: derived
+  translation: ""
 kasirucunenabil:
   term: kasirucunenabil
   class: t
@@ -22121,6 +22431,11 @@ klosi:
   class: b.oro
   category: root
   translation: fermo; fermi; fermiĝi
+klosicu:
+  term: klosicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 klosicune:
   term: klosicune
   class: t
@@ -22626,6 +22941,16 @@ konforta:
   class: b.oro
   category: root
   translation: komforto; komforti; esti komforta
+konfortacu:
+  term: konfortacu
+  class: b.nenoj
+  category: derived
+  translation: ""
+konfortado:
+  term: konfortado
+  class: t
+  category: derived
+  translation: ""
 konfortane:
   term: konfortane
   class: t
@@ -22646,6 +22971,11 @@ konhwoku:
   class: b.oro
   category: root
   translation: konfuzo, perpleksigo; konfuzi, perpleksigi; konfuziĝi, perpleksi
+konhwokucu:
+  term: konhwokucu
+  class: b.nenoj
+  category: derived
+  translation: ""
 konhwokudo:
   term: konhwokudo
   class: t
@@ -24122,6 +24452,11 @@ lawfen:
   class: b.oro
   category: root
   translation: ĝeno, ĉagreno; ĝeni, ĉagreni; ĝeniĝi, ĉagreniĝi
+lawfencu:
+  term: lawfencu
+  class: b.nenoj
+  category: derived
+  translation: ""
 lawfendo:
   term: lawfendo
   class: t
@@ -24208,11 +24543,11 @@ le-:
 le_abil:
   term: le abil
   class: f.sah
-  category: derived
+  category: phrase
   translation: povis
 le_du-:
   term: le du-
-  class: f par
+  class: par
   category: phrase
   translation: (iam) kutimis <strong><em>i, iam </em></strong>adis, antaŭe ___is
 le_no:
@@ -24451,6 +24786,11 @@ leta:
   class: b.nenoj
   category: root
   translation: kuŝado; kuŝi
+letacu:
+  term: letacu
+  class: b.nenoj
+  category: derived
+  translation: kuŝiĝi
 letagi:
   term: letagi
   class: b.oj
@@ -26147,6 +26487,11 @@ manikali:
   class: t
   category: derived
   translation: mania; manie
+manikapul:
+  term: manikapul
+  class: t
+  category: derived
+  translation: ""
 manipur:
   term: Manipur
   class: su n
@@ -26464,7 +26809,7 @@ mas_fe_hataya:
   translation: sed tamen, kaj tamen
 mas_sol_eger:
   term: mas sol eger
-  class: j jm
+  class: l jm
   category: phrase
   translation: kondiĉe ke, se nur
 masaji:
@@ -26749,7 +27094,7 @@ maxcotecu:
   translation: malaltiĝo; malaltiĝi
 maxcotegi:
   term: maxcotegi
-  class: d.oj
+  class: b.oj
   category: derived
   translation: malaltigo; malaltigi
 maxcu:
@@ -29870,6 +30215,11 @@ nensuido:
   class: t
   category: derived
   translation: senagvigita; senagvigite
+nensungaydo:
+  term: nensungaydo
+  class: t
+  category: derived
+  translation: nedamaĝita
 nensungayne:
   term: nensungayne
   class: t
@@ -29997,7 +30347,7 @@ ner_fe:
   translation: proksime de, proksime al
 ner_le:
   term: ner le
-  class: ""
+  class: par
   category: derived
   translation: antaŭ ne longe ___is
 ner_lefe:
@@ -30022,7 +30372,7 @@ ner_of:
   translation: proksime al, proksime de
 ner_xa:
   term: ner xa
-  class: ""
+  class: par
   category: derived
   translation: baldaŭ ___os
 ner_xafe:
@@ -30765,12 +31115,22 @@ obsesi:
   term: obsesi
   class: b.oro
   category: root
-  translation: obsedo; obsediĝi, obsedi
+  translation: obsedo; obsedi; obsediĝi
+obsesicu:
+  term: obsesicu
+  class: b.nenoj
+  category: derived
+  translation: obsediĝo; obsediĝi
 obsesido:
   term: obsesido
   class: t
   category: derived
-  translation: obsesita
+  translation: obsedita
+obsesifil:
+  term: obsesifil
+  class: t
+  category: derived
+  translation: obsedema
 obsesili:
   term: obsesili
   class: t
@@ -31003,7 +31363,7 @@ ojetoli_falelexi:
   translation: transitiva verbo
 okey:
   term: okey
-  class: il
+  class: t; il
   category: root
   translation: bone, okej
 oko:
@@ -31541,7 +31901,7 @@ oto:
   term: oto
   class: pn
   category: root
-  translation: ili (<em>neviva</em>)
+  translation: ili (<em>senviva</em>)
 otosu:
   term: otosu
   class: su s
@@ -31857,6 +32217,11 @@ paniko:
   class: b.oro
   category: root
   translation: paniko; paniki; esti panikita
+panikocu:
+  term: panikocu
+  class: b.nenoj
+  category: derived
+  translation: ""
 panikocune:
   term: panikocune
   class: t
@@ -32051,7 +32416,12 @@ paralisi:
   term: paralisi
   class: b.oro
   category: root
-  translation: paralizo; paralizi; paraliziĝi
+  translation: paralizo; paraliziĝi; paralizi
+paralisicu:
+  term: paralisicu
+  class: b.nenoj
+  category: derived
+  translation: paraliziĝo; paraliziĝi
 paralisido:
   term: paralisido
   class: t
@@ -32072,6 +32442,11 @@ paranoydo:
   class: t
   category: derived
   translation: paranoja; paranoje
+paranoyne:
+  term: paranoyne
+  class: t
+  category: derived
+  translation: ""
 paranoypul:
   term: paranoypul
   class: t
@@ -32904,6 +33279,11 @@ pilo:
   class: b.oro
   category: root
   translation: laceco; lacigi; laci
+pilocu:
+  term: pilocu
+  class: b.nenoj
+  category: derived
+  translation: laciĝo; laciĝi
 pilodo:
   term: pilodo
   class: t
@@ -35276,7 +35656,7 @@ rotidukan:
   translation: panejo, bakejo
 roya:
   term: roya
-  class: b.oj
+  class: b.oj.ru
   category: root
   translation: sonĝo; sonĝi
 royayen:
@@ -37015,6 +37395,11 @@ side:
   class: b.nenoj
   category: root
   translation: sido; sidi
+sidecu:
+  term: sidecu
+  class: b.nenoj
+  category: derived
+  translation: sidiĝo; sidiĝi
 sidegi:
   term: sidegi
   class: b.oj
@@ -37805,11 +38190,16 @@ sonxi:
   class: b.oro
   category: root
   translation: perdo, maltrovo; perdi, maltrovi; perdiĝi, maltroviĝi
+sonxicu:
+  term: sonxicu
+  class: b.nenoj
+  category: derived
+  translation: perdiĝo; perdiĝi
 sonxido:
   term: sonxido
   class: t
   category: derived
-  translation: 'perdita, maltrovita; '
+  translation: perdita; perdite
 sonzay:
   term: sonzay
   class: b.nenoj
@@ -38196,11 +38586,26 @@ sungay:
   class: b.oro
   category: root
   translation: damaĝo; damaĝi; damaĝiĝi
+sungaydo:
+  term: sungaydo
+  class: t
+  category: derived
+  translation: damaĝita
+sungaykal:
+  term: sungaykal
+  class: t
+  category: derived
+  translation: nedamaĝita, sendamaĝa
 sungayne:
   term: sungayne
   class: t
   category: derived
   translation: damaĝanta, noca; damaĝante, noce
+sungaypul:
+  term: sungaypul
+  class: t
+  category: derived
+  translation: damaĝita
 sungen:
   term: sungen
   class: b
@@ -38376,11 +38781,26 @@ surprisaatake:
   class: b.oj
   category: derived
   translation: surpriza atako
+surprisacu:
+  term: surprisacu
+  class: b.nenoj
+  category: derived
+  translation: surpriziĝo; surpriziĝi
 surprisado:
   term: surprisado
   class: t
   category: derived
   translation: surprizita
+surprisane:
+  term: surprisane
+  class: t
+  category: derived
+  translation: surpriza, surprizanta; surprize
+surprisapul:
+  term: surprisapul
+  class: t
+  category: derived
+  translation: 'aĵgenraj substantivoj: surpriza; ulgenraj substantivoj: surprizita'
 susana:
   term: susana
   class: b
@@ -39691,6 +40111,11 @@ termoabil:
   class: t
   category: derived
   translation: varmiga
+termocu:
+  term: termocu
+  class: b.nenoj
+  category: derived
+  translation: varmiĝo; varmiĝi
 termoday:
   term: termoday
   class: t
@@ -40591,6 +41016,11 @@ trawma:
   class: b.oro
   category: root
   translation: traŭmato; traŭmatizi; traŭmatiziĝi, esti traŭmatizita
+trawmacu:
+  term: trawmacu
+  class: b.nenoj
+  category: derived
+  translation: traŭmatiziĝo; traŭmatiziĝi
 trawmado:
   term: trawmado
   class: t
@@ -41103,6 +41533,11 @@ ufue:
   class: b.oro; il
   category: root
   translation: abomeno; naŭzi, abomenigi; abomeni, naŭziĝi; pu, fi
+ufuecu:
+  term: ufuecu
+  class: b.nenoj
+  category: derived
+  translation: naŭziĝo; naŭziĝi
 ufuedo:
   term: ufuedo
   class: t
@@ -42188,6 +42623,11 @@ wao:
   class: b.oro; il
   category: root
   translation: miro; mirigi; miri; ŭaŭ, vaŭ
+waocu:
+  term: waocu
+  class: b.nenoj
+  category: derived
+  translation: miriĝo; miriĝi
 waodo:
   term: waodo
   class: t
@@ -42202,7 +42642,8 @@ waopul:
   term: waopul
   class: t
   category: derived
-  translation: 'aĵgenraj substantivoj: mira; ulgenraj substantivoj: mirigita'
+  translation: 'aĵgenraj substantivoj: mira, miriga; mirige; ulgenraj substantivoj:
+    mirigita; mirigite'
 waoxey:
   term: waoxey
   class: b
@@ -43188,6 +43629,11 @@ xinxiku:
   class: b.oro
   category: root
   translation: erodo, erozio; erodi, erozii; erodiĝi, eroziiĝi
+xinxikudo:
+  term: xinxikudo
+  class: t
+  category: derived
+  translation: erodita, eroziita
 xinyon:
   term: xinyon
   class: b
@@ -43265,6 +43711,11 @@ xohra:
   class: b.oro
   category: root
   translation: famo, fameco; famigi; fami
+xohracu:
+  term: xohracu
+  class: b.nenoj
+  category: derived
+  translation: famiĝo; famiĝi
 xohrado:
   term: xohrado
   class: t
@@ -43489,7 +43940,12 @@ xoru:
   term: xoru
   class: b.oro
   category: root
-  translation: komenco, starto; komenci, startigi; eki, starti, komenciĝi
+  translation: komenco, starto; komenci, startigi; komenciĝi, starti, eki
+xorucu:
+  term: xorucu
+  class: b.nenoj
+  category: derived
+  translation: komenciĝo, starto, eko; komenciĝi, starti, eki
 xorucune:
   term: xorucune
   class: t
@@ -43525,6 +43981,11 @@ xorwala:
   class: b.oj
   category: derived
   translation: perdo; perdi, ekmalhavi
+xorwalado:
+  term: xorwalado
+  class: t
+  category: derived
+  translation: perdita
 xorxugwan:
   term: xorxugwan
   class: b.oj
@@ -44074,7 +44535,12 @@ yolyu:
   term: yolyu
   class: b.oro
   category: root
-  translation: zorgo; zorgi, prizorgi, zorgigi
+  translation: zorgo; prizorgi, zorgigi; zorgi
+yolyucu:
+  term: yolyucu
+  class: b.nenoj
+  category: derived
+  translation: zorgiĝo; zorgiĝi
 yolyucune:
   term: yolyucune
   class: t
@@ -44620,6 +45086,11 @@ zukam:
   class: b.oro
   category: root
   translation: malvarmumo; malvarmumigi; malvarmumi
+zukamcu:
+  term: zukamcu
+  class: b.nenoj
+  category: derived
+  translation: malvarmumiĝo; malvarmumiĝi, trafiĝi de malvarmumo
 zukini:
   term: zukini
   class: b

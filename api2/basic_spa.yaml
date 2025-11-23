@@ -68,7 +68,7 @@
   translation: -fobia
 -fon:
   term: -fon
-  class: b
+  class: b xfik
   category: affix
   translation: -fono (<em>dispositivo de sonido</em>)
 -gi:
@@ -1188,7 +1188,7 @@ almasihalke:
   translation: sortija de diamantes, anillo de diamantes, anillo de brillantes, solitario
 alo:
   term: alo
-  class: t; d
+  class: d
   category: root
   translation: otro, diferente
 alo-:
@@ -1896,11 +1896,21 @@ ansyacu:
   class: b.nenoj
   category: derived
   translation: volverse ansioso
+ansyado:
+  term: ansyado
+  class: t
+  category: derived
+  translation: ""
 ansyafil:
   term: ansyafil
   class: t
   category: derived
   translation: ansioso, preocup&oacute;n
+ansyane:
+  term: ansyane
+  class: t
+  category: derived
+  translation: ""
 ansyapul:
   term: ansyapul
   class: t
@@ -2364,6 +2374,11 @@ artroitiscu:
   class: b.nenoj
   category: derived
   translation: ""
+artroitisdo:
+  term: artroitisdo
+  class: t
+  category: derived
+  translation: ""
 artroitisli:
   term: artroitisli
   class: t
@@ -2547,6 +2562,11 @@ astama:
 astamacu:
   term: astamacu
   class: b.nenoj
+  category: derived
+  translation: ""
+astamado:
+  term: astamado
+  class: t
   category: derived
   translation: ""
 astamakrisis:
@@ -3153,7 +3173,7 @@ aya:
   term: aya
   class: b
   category: root
-  translation: (letra) a; as, <em>ace</em>
+  translation: (letra) a, as, <em>ace</em>
 ayay:
   term: ayay
   class: b.oj.ru
@@ -3856,6 +3876,11 @@ bardiabil:
   class: t
   category: derived
   translation: ""
+bardicu:
+  term: bardicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 bardiday:
   term: bardiday
   class: t
@@ -4016,6 +4041,11 @@ basibol:
   class: b
   category: derived
   translation: beisbol, b&eacute;isbol
+basicu:
+  term: basicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 basido:
   term: basido
   class: t
@@ -4126,6 +4156,11 @@ bawlu:
   class: b.oro
   category: root
   translation: violencia; ser violento; poner violento
+bawlucu:
+  term: bawlucu
+  class: b.nenoj
+  category: derived
+  translation: ""
 bawlukrasi:
   term: bawlukrasi
   class: b
@@ -4493,11 +4528,21 @@ bembi:
   category: root
   translation: estre&ntilde;imiento, constipaci&oacute;n de vientre; estar estre&ntilde;ido;
     estre&ntilde;ir
+bembicu:
+  term: bembicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 bembido:
   term: bembido
   class: t
   category: derived
   translation: estre&ntilde;ido
+bembine:
+  term: bembine
+  class: t
+  category: derived
+  translation: ""
 bembipul:
   term: bembipul
   class: t
@@ -5392,6 +5437,11 @@ boyle:
   class: b.oro
   category: root
   translation: hervor; hacer hervir; hervir
+boylecu:
+  term: boylecu
+  class: b.nenoj
+  category: derived
+  translation: ""
 boylecune:
   term: boylecune
   class: t
@@ -5639,6 +5689,11 @@ buhar:
   class: b.oro
   category: root
   translation: vapor; preparar al vapor; echar vapor
+buharcu:
+  term: buharcu
+  class: b.nenoj
+  category: derived
+  translation: ""
 buhardo:
   term: buhardo
   class: t
@@ -5674,6 +5729,11 @@ buka:
   class: b.oro
   category: root
   translation: apertura; abrir; abrirse
+bukacu:
+  term: bukacu
+  class: b.nenoj
+  category: derived
+  translation: ""
 bukacune:
   term: bukacune
   class: t
@@ -6133,7 +6193,13 @@ cakare:
   term: cakare
   class: b.oro
   category: root
-  translation: v&eacute;rtigo, mareo
+  translation: v&eacute;rtigo, mareo; causar mareo, causar v&eacute;rtigo; estar mareado,
+    tenir v&eacute;rtigo, sufre de v&eacute;rtigo
+cakarecu:
+  term: cakarecu
+  class: b.nenoj
+  category: derived
+  translation: ""
 cakarene:
   term: cakarene
   class: t
@@ -6284,8 +6350,13 @@ carme:
   term: carme
   class: b.oro
   category: root
-  translation: encanto, atractivo, carisma; estar encantado, estar cautivado, estar
-    fascinado; encantar, cautivar, fascinar
+  translation: encanto, atractivo, carisma; encantar, cautivar, fascinar; estar encantado,
+    estar cautivado, estar fascinado
+carmecu:
+  term: carmecu
+  class: b.nenoj
+  category: derived
+  translation: estar encantado, estar cautivado, estar fascinado
 carmedo:
   term: carmedo
   class: t
@@ -6582,6 +6653,11 @@ centroafrika:
   class: su n
   category: proper word
   translation: Centro&aacute;frica
+centrocu:
+  term: centrocu
+  class: b.nenoj
+  category: derived
+  translation: centrarse
 centrodo:
   term: centrodo
   class: t
@@ -6898,6 +6974,11 @@ ciru:
   class: b.oro
   category: root
   translation: rasgadura, rasg&oacute;n; rasgar; rasgarse
+cirucu:
+  term: cirucu
+  class: b.nenoj
+  category: derived
+  translation: rasgarse
 cirudo:
   term: cirudo
   class: t
@@ -7077,7 +7158,7 @@ cotecu:
   translation: acortamiento; acortarse, hacerse corto
 cotegi:
   term: cotegi
-  class: d.oj
+  class: b.oj
   category: derived
   translation: acortamiento; acortar, hacer corto
 coteya:
@@ -7215,6 +7296,11 @@ curuko:
   category: root
   translation: moret&oacute;n, cardenal, magulladura, contusi&oacute;n; magullar;
     magullarse
+curukocu:
+  term: curukocu
+  class: b.nenoj
+  category: derived
+  translation: magullarse
 curukodo:
   term: curukodo
   class: t
@@ -7643,6 +7729,11 @@ daraki:
   class: b.oro
   category: root
   translation: grieta, fisura; agrietar; agrietarse
+darakicu:
+  term: darakicu
+  class: b.nenoj
+  category: derived
+  translation: agrietarse
 darakido:
   term: darakido
   class: t
@@ -8228,6 +8319,11 @@ daysurprisa:
   class: b.oro
   category: derived
   translation: pasmo; pasmarse, quedar pasmado, quedar at&oacute;nito; pasmar
+daysurprisado:
+  term: daysurprisado
+  class: t
+  category: derived
+  translation: pasmado, at&oacute;nito
 daysurprisane:
   term: daysurprisane
   class: t
@@ -8648,6 +8744,11 @@ depresi:
   class: b.oro
   category: root
   translation: depresi&oacute;n; estar deprimido; deprimir
+depresicu:
+  term: depresicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 depresido:
   term: depresido
   class: t
@@ -8668,6 +8769,11 @@ depresine:
   class: t
   category: derived
   translation: ""
+depresipul:
+  term: depresipul
+  class: t
+  category: derived
+  translation: depresivo
 des:
   term: des
   class: num
@@ -9883,6 +9989,11 @@ dubroxa:
   class: b
   category: derived
   translation: cepiladura, cepillada
+dubuhar:
+  term: dubuhar
+  class: b
+  category: derived
+  translation: ""
 ducakix:
   term: ducakix
   class: b
@@ -9943,6 +10054,26 @@ dudul:
   class: b.oro
   category: root
   translation: mecedura; mecer, brezar, brizar, cimbrar; mecerse, cimbrarse
+dudulcu:
+  term: dudulcu
+  class: b.nenoj
+  category: derived
+  translation: mecedura; mecerse, cimbrarse
+dudulcune:
+  term: dudulcune
+  class: t
+  category: derived
+  translation: ""
+dudulne:
+  term: dudulne
+  class: t
+  category: derived
+  translation: ""
+dueletri:
+  term: dueletri
+  class: b
+  category: derived
+  translation: ""
 dugaga:
   term: dugaga
   class: b
@@ -10161,6 +10292,11 @@ dyabetes:
   category: root
   translation: diabetes; causar diabetes; tener diabetes, sufrir de diabetes, ser
     diab&eacute;tico
+dyabetesdo:
+  term: dyabetesdo
+  class: t
+  category: derived
+  translation: ""
 dyabetesli:
   term: dyabetesli
   class: t
@@ -10689,6 +10825,11 @@ enfeksi:
   class: b.oro
   category: root
   translation: infecci&oacute;n, contagio; infectar, contagiar; infectarse, contagiarse
+enfeksicu:
+  term: enfeksicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 enfeksido:
   term: enfeksido
   class: t
@@ -10775,6 +10916,11 @@ epilepsili:
   class: t
   category: derived
   translation: epil&eacute;ptico (<em>relativo a la epilepsia</em>)
+epilepsipul:
+  term: epilepsipul
+  class: t
+  category: derived
+  translation: ""
 erbyum:
   term: erbyum
   class: b
@@ -10982,11 +11128,21 @@ eskizofreni:
   category: root
   translation: esquizofrenia; causar esquizofrenia; ser esquizofr&eacute;nico, tener
     esquizofrenia, sufrir de esquizofrenia
+eskizofrenicu:
+  term: eskizofrenicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 eskizofrenili:
   term: eskizofrenili
   class: t
   category: derived
   translation: esquizofr&eacute;nico (<em>relativo a la esquizofrenia</em>)
+eskizofrenipul:
+  term: eskizofrenipul
+  class: t
+  category: derived
+  translation: ""
 eskizofreniyen:
   term: eskizofreniyen
   class: b
@@ -11167,6 +11323,11 @@ eslovi:
   class: t
   category: root
   translation: eslavo
+esnobi:
+  term: esnobi
+  class: t
+  category: root
+  translation: esnobista, esnob
 espageti:
   term: espageti
   class: b
@@ -11417,6 +11578,11 @@ estay:
   class: b.nenoj
   category: root
   translation: postura; estar parado, estar de pie
+estaycu:
+  term: estaycu
+  class: b.nenoj
+  category: derived
+  translation: levantarse, pararse, incorporarse, ponerse de pie
 estayli:
   term: estayli
   class: t
@@ -11478,6 +11644,11 @@ estimula:
   category: root
   translation: est&iacute;mulo, motivaci&oacute;n; estar estimulado, estar motivado;
     estimular, motivar
+estimulacu:
+  term: estimulacu
+  class: b.nenoj
+  category: derived
+  translation: ""
 estimulado:
   term: estimulado
   class: t
@@ -11485,6 +11656,11 @@ estimulado:
   translation: estimulado, animado, motivado, entusiasmado
 estimulane:
   term: estimulane
+  class: t
+  category: derived
+  translation: ""
+estimulapul:
+  term: estimulapul
   class: t
   category: derived
   translation: ""
@@ -11503,6 +11679,11 @@ esto:
   class: b.oro
   category: root
   translation: parada, <em>stop</em>; detener; detenerse, parar, cesar
+estocu:
+  term: estocu
+  class: b.nenoj
+  category: derived
+  translation: ""
 estocune:
   term: estocune
   class: t
@@ -11559,6 +11740,11 @@ estres:
   class: b.oro
   category: root
   translation: estr&eacute;s; estar estresado; estresar
+estrescu:
+  term: estrescu
+  class: b.nenoj
+  category: derived
+  translation: ""
 estresdo:
   term: estresdo
   class: t
@@ -12257,7 +12443,7 @@ fankosokitan:
   translation: turba (<em>carb&oacute;n f&oacute;sil vegetal</em>)
 fantasi:
   term: fantasi
-  class: b
+  class: b.oj.ru
   category: root
   translation: fantas&iacute;a
 fantasisim:
@@ -12390,6 +12576,16 @@ fayda:
   class: b.oro
   category: root
   translation: beneficio; beneficiar; beneficiarse
+faydacu:
+  term: faydacu
+  class: b.nenoj
+  category: derived
+  translation: ""
+faydado:
+  term: faydado
+  class: t
+  category: derived
+  translation: ""
 faydayen:
   term: faydayen
   class: b
@@ -13286,7 +13482,7 @@ feya:
   term: feya
   class: b.oj
   category: derived
-  translation: estar en, estar a, ser de, ser para
+  translation: ser en, ser a
 fibra:
   term: fibra
   class: b
@@ -13487,6 +13683,11 @@ fini:
   category: root
   translation: fin, final, conclusi&oacute;n; terminar, acabar, concluir, finalizar;
     terminarse, acabarse
+finicu:
+  term: finicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 finicune:
   term: finicune
   class: t
@@ -13613,6 +13814,11 @@ fleksiabilya:
   class: b
   category: derived
   translation: flexibilidad
+fleksicu:
+  term: fleksicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 fleksicuabil:
   term: fleksicuabil
   class: t
@@ -13756,6 +13962,11 @@ fobi:
   category: root
   translation: miedo, temor, susto; estar asustado, estar espantado, temer; asustar,
     espantar, hacer temer
+fobicu:
+  term: fobicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 fobido:
   term: fobido
   class: t
@@ -13998,6 +14209,16 @@ forma:
   class: b.oro
   category: root
   translation: forma, estado, fase; formar; formarse
+formacu:
+  term: formacu
+  class: b.nenoj
+  category: derived
+  translation: ""
+formado:
+  term: formado
+  class: t
+  category: derived
+  translation: ""
 formato:
   term: formato
   class: b
@@ -14030,7 +14251,7 @@ fosforo:
   translation: f&oacute;sforo (<em>elemento</em>), P
 fosil:
   term: fosil
-  class: b.oro
+  class: b
   category: root
   translation: f&oacute;sil
 fosilcu:
@@ -14038,11 +14259,21 @@ fosilcu:
   class: b.nenoj
   category: derived
   translation: fosilizaci&oacute;n; fosilizarse
+fosilcudo:
+  term: fosilcudo
+  class: t
+  category: derived
+  translation: ""
 fosilgi:
   term: fosilgi
   class: b.oj
   category: derived
   translation: fosilizaci&oacute;n; fosilizar
+fosilgido:
+  term: fosilgido
+  class: t
+  category: derived
+  translation: ""
 foto:
   term: foto
   class: b.oj
@@ -14164,6 +14395,11 @@ frustra:
   class: b.oro
   category: root
   translation: frustraci&oacute;n; estar frustrado; frustrar
+frustracu:
+  term: frustracu
+  class: b.nenoj
+  category: derived
+  translation: ""
 frustrado:
   term: frustrado
   class: t
@@ -14174,6 +14410,11 @@ frustrane:
   class: t
   category: derived
   translation: frustrante, desalentador
+frustrapul:
+  term: frustrapul
+  class: t
+  category: derived
+  translation: ""
 fruta:
   term: fruta
   class: b
@@ -14317,6 +14558,11 @@ furaha:
   category: root
   translation: disfrute, placer, gozo; disfrutar, sentir placer, gozar, pasarla bien;
     hacer disfrutar, hacer sentir placer
+furahacu:
+  term: furahacu
+  class: b.nenoj
+  category: derived
+  translation: ""
 furahado:
   term: furahado
   class: t
@@ -14327,6 +14573,11 @@ furahane:
   class: t
   category: derived
   translation: agradable, gratificante
+furahapul:
+  term: furahapul
+  class: t
+  category: derived
+  translation: ""
 furi:
   term: furi
   class: t
@@ -15859,11 +16110,21 @@ gutoncune:
   class: t
   category: derived
   translation: ""
+gutondo:
+  term: gutondo
+  class: t
+  category: derived
+  translation: ""
 gutonne:
   term: gutonne
   class: t
   category: derived
   translation: dolorido
+gutonpul:
+  term: gutonpul
+  class: t
+  category: derived
+  translation: ""
 guxi:
   term: guxi
   class: t
@@ -16386,6 +16647,11 @@ harkacune:
   class: t
   category: derived
   translation: ""
+harkado:
+  term: harkado
+  class: t
+  category: derived
+  translation: ""
 harkakal:
   term: harkakal
   class: t
@@ -16482,11 +16748,6 @@ hatari:
   class: b.oro
   category: root
   translation: peligro; ser peligroso; volver peligroso
-hatarido:
-  term: hatarido
-  class: t
-  category: derived
-  translation: en peligro
 hataripul:
   term: hataripul
   class: t
@@ -16579,7 +16840,7 @@ hawanaviyen:
   translation: piloto, aeronauta
 haxhaxa:
   term: haxhaxa
-  class: ""
+  class: b.nenoj
   category: root
   translation: ""
 haxi:
@@ -17010,6 +17271,11 @@ hezekyel:
   class: su n
   category: proper word
   translation: Ezequiel
+hibrido:
+  term: hibrido
+  class: t
+  category: root
+  translation: h&iacute;brido
 hidrogen:
   term: hidrogen
   class: b
@@ -17201,11 +17467,6 @@ hipu:
   class: b
   category: root
   translation: cadera, cox-
-hirbido:
-  term: hirbido
-  class: t
-  category: root
-  translation: h&iacute;brido
 hirxa:
   term: hirxa
   class: b
@@ -17580,6 +17841,11 @@ hunfun:
   category: root
   translation: agitaci&oacute;n, excitaci&oacute;n; estar agitado, estar excitado;
     agitar, excitar
+hunfuncu:
+  term: hunfuncu
+  class: b.nenoj
+  category: derived
+  translation: ""
 hunfundo:
   term: hunfundo
   class: t
@@ -17833,7 +18099,7 @@ ijen:
   translation: opini&oacute;n; opinar
 iji:
   term: iji
-  class: m
+  class: l
   category: root
   translation: tanto (... como...)
 ikaw:
@@ -17904,6 +18170,11 @@ ilhamu:
 ilhamuabil:
   term: ilhamuabil
   class: t
+  category: derived
+  translation: ""
+ilhamucu:
+  term: ilhamucu
+  class: b.nenoj
   category: derived
   translation: ""
 ilhamudo:
@@ -18293,6 +18564,11 @@ inhatarigi:
   class: b.oj
   category: root
   translation: puesta en peligro, peligrosidad; poner en peligro, arriesgar
+inhatarigido:
+  term: inhatarigido
+  class: t
+  category: derived
+  translation: en peligro
 inidi:
   term: inidi
   class: b.oj
@@ -18489,6 +18765,11 @@ interes:
   category: root
   translation: inter&eacute;s; estar interesado, tener inter&eacute;s; interesar(le
     a), inspirar inter&eacute;s a
+interescu:
+  term: interescu
+  class: b.nenoj
+  category: derived
+  translation: ""
 interesdo:
   term: interesdo
   class: t
@@ -18499,6 +18780,11 @@ interesne:
   class: t
   category: derived
   translation: interesante
+interespul:
+  term: interespul
+  class: t
+  category: derived
+  translation: ""
 interesyen:
   term: interesyen
   class: b
@@ -18658,6 +18944,11 @@ inxo:
 inxoabil:
   term: inxoabil
   class: t
+  category: derived
+  translation: ""
+inxocu:
+  term: inxocu
+  class: b.nenoj
   category: derived
   translation: ""
 inxodo:
@@ -19029,6 +19320,11 @@ ixi:
   class: b.oro
   category: root
   translation: consciencia, vigilia, sentido; hacer consciente; estar consciente
+ixicu:
+  term: ixicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 ixikal:
   term: ixikal
   class: t
@@ -19209,7 +19505,7 @@ jaldi:
   translation: temprano; tempranamente
 jale:
   term: jale
-  class: f par
+  class: par
   category: derived
   translation: acabar de
 jaledin:
@@ -19478,7 +19774,7 @@ jawherilari:
   translation: joyer&iacute;a
 jaxa:
   term: jaxa
-  class: f par
+  class: par
   category: derived
   translation: estar por, estar a punto de
 jaxadin:
@@ -20016,6 +20312,11 @@ joxu:
   category: root
   translation: entusiasmo, emoci&oacute;n; entusiasmarse, emocionarse; entusiasmar,
     emocionar
+joxucu:
+  term: joxucu
+  class: b.nenoj
+  category: derived
+  translation: ""
 joxudo:
   term: joxudo
   class: t
@@ -20578,8 +20879,8 @@ kafeina:
   class: b
   category: derived
   translation: cafe&iacute;na
-kafetora:
-  term: kafetora
+kafemaxina:
+  term: kafemaxina
   class: b
   category: derived
   translation: cafetera
@@ -21444,6 +21745,11 @@ kasiru:
   class: b.oro
   category: root
   translation: rompimiento; romper; romperse
+kasirucu:
+  term: kasirucu
+  class: b.nenoj
+  category: derived
+  translation: ""
 kasirucunenabil:
   term: kasirucunenabil
   class: t
@@ -22325,6 +22631,11 @@ klosi:
   class: b.oro
   category: root
   translation: cierre; cerrar; cerrarse
+klosicu:
+  term: klosicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 klosicune:
   term: klosicune
   class: t
@@ -22834,6 +23145,16 @@ konforta:
   class: b.oro
   category: root
   translation: comodidad, confort; sentirse c&oacute;modo; poner c&oacute;modo
+konfortacu:
+  term: konfortacu
+  class: b.nenoj
+  category: derived
+  translation: ""
+konfortado:
+  term: konfortado
+  class: t
+  category: derived
+  translation: ""
 konfortane:
   term: konfortane
   class: t
@@ -22855,6 +23176,11 @@ konhwoku:
   category: root
   translation: confusi&oacute;n, perplejidad, desconcierto; estar confundido, confundirse,
     desconcertarse; confundir, desconcertar
+konhwokucu:
+  term: konhwokucu
+  class: b.nenoj
+  category: derived
+  translation: ""
 konhwokudo:
   term: konhwokudo
   class: t
@@ -24346,6 +24672,11 @@ lawfen:
   category: root
   translation: molestia, irritaci&oacute;n, lata, fastidio, incordio; estar molesto,
     estar fastidiado; molestar, irritar, dar lata, fastidiar, incordiar
+lawfencu:
+  term: lawfencu
+  class: b.nenoj
+  category: derived
+  translation: ""
 lawfendo:
   term: lawfendo
   class: t
@@ -24429,11 +24760,11 @@ le-:
 le_abil:
   term: le abil
   class: f.sah
-  category: derived
+  category: phrase
   translation: pudo
 le_du-:
   term: le du-
-  class: f par
+  class: par
   category: phrase
   translation: sol&iacute;a, -aba
 le_no:
@@ -24673,6 +25004,11 @@ leta:
   class: b.nenoj
   category: root
   translation: estar acostado, yacer
+letacu:
+  term: letacu
+  class: b.nenoj
+  category: derived
+  translation: acostarse
 letagi:
   term: letagi
   class: b.oj
@@ -26385,6 +26721,11 @@ manikali:
   class: t
   category: derived
   translation: maniaco, mani&aacute;tico
+manikapul:
+  term: manikapul
+  class: t
+  category: derived
+  translation: ""
 manipur:
   term: Manipur
   class: su n
@@ -26704,7 +27045,7 @@ mas_fe_hataya:
   translation: mas sin embargo
 mas_sol_eger:
   term: mas sol eger
-  class: j jm
+  class: l jm
   category: phrase
   translation: siempre y cuando, con tal (de) que, en tanto que
 masaji:
@@ -26989,7 +27330,7 @@ maxcotecu:
   translation: acortamiento; acortarse, hacerse m&aacute;s corto
 maxcotegi:
   term: maxcotegi
-  class: d.oj
+  class: b.oj
   category: derived
   translation: acortamiento; acortar, hacer m&aacute;s corto
 maxcu:
@@ -27938,7 +28279,7 @@ mi:
   term: mi
   class: pn
   category: root
-  translation: yo, me
+  translation: yo, me, m&iacute;
 mida:
   term: mida
   class: b
@@ -30144,6 +30485,11 @@ nensuido:
   class: t
   category: derived
   translation: deshidratado
+nensungaydo:
+  term: nensungaydo
+  class: t
+  category: derived
+  translation: ""
 nensungayne:
   term: nensungayne
   class: t
@@ -30271,7 +30617,7 @@ ner_fe:
   translation: cerca de, por
 ner_le:
   term: ner le
-  class: ""
+  class: par
   category: derived
   translation: ""
 ner_lefe:
@@ -30296,7 +30642,7 @@ ner_of:
   translation: cerca de, junto a
 ner_xa:
   term: ner xa
-  class: ""
+  class: par
   category: derived
   translation: ""
 ner_xafe:
@@ -31050,11 +31396,21 @@ obsesi:
   class: b.oro
   category: root
   translation: obsesi&oacute;n; obsesionarse, estar obsesionado; obsesionar
+obsesicu:
+  term: obsesicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 obsesido:
   term: obsesido
   class: t
   category: derived
   translation: obsesionado
+obsesifil:
+  term: obsesifil
+  class: t
+  category: derived
+  translation: ""
 obsesili:
   term: obsesili
   class: t
@@ -31289,7 +31645,7 @@ ojetoli_falelexi:
   translation: verbo transitivo
 okey:
   term: okey
-  class: il
+  class: t; il
   category: root
   translation: ok(ey), (est&aacute;) bien, bueno, vale, va
 oko:
@@ -32154,6 +32510,11 @@ paniko:
   class: b.oro
   category: root
   translation: p&aacute;nico; estar en p&aacute;nico; hacer entrar en p&aacute;nico
+panikocu:
+  term: panikocu
+  class: b.nenoj
+  category: derived
+  translation: ""
 panikocune:
   term: panikocune
   class: t
@@ -32351,6 +32712,11 @@ paralisi:
   class: b.oro
   category: root
   translation: par&aacute;lisis; paralizar; paralizarse
+paralisicu:
+  term: paralisicu
+  class: b.nenoj
+  category: derived
+  translation: paralizarse
 paralisido:
   term: paralisido
   class: t
@@ -32371,6 +32737,11 @@ paranoydo:
   class: t
   category: derived
   translation: paranoico
+paranoyne:
+  term: paranoyne
+  class: t
+  category: derived
+  translation: ""
 paranoypul:
   term: paranoypul
   class: t
@@ -33208,6 +33579,11 @@ pilo:
   class: b.oro
   category: root
   translation: fatiga, cansancio; fatigar, cansar; estar fatigado, estar cansado
+pilocu:
+  term: pilocu
+  class: b.nenoj
+  category: derived
+  translation: ""
 pilodo:
   term: pilodo
   class: t
@@ -35609,7 +35985,7 @@ rotidukan:
   translation: panader&iacute;a, pasteler&iacute;a, boller&iacute;a, bizcocher&iacute;a
 roya:
   term: roya
-  class: b.oj
+  class: b.oj.ru
   category: root
   translation: sue&ntilde;o (<em>suceso o imagen en la fantas&iacute;a al dormir</em>);
     so&ntilde;ar
@@ -37360,6 +37736,11 @@ side:
   class: b.nenoj
   category: root
   translation: estar sentado
+sidecu:
+  term: sidecu
+  class: b.nenoj
+  category: derived
+  translation: sentarse
 sidegi:
   term: sidegi
   class: b.oj
@@ -38157,6 +38538,11 @@ sonxi:
   class: b.oro
   category: root
   translation: p&eacute;rdida; perder, pasar por alto; perderse
+sonxicu:
+  term: sonxicu
+  class: b.nenoj
+  category: derived
+  translation: ""
 sonxido:
   term: sonxido
   class: t
@@ -38554,11 +38940,26 @@ sungay:
   category: root
   translation: da&ntilde;o, perjuicio, herida; da&ntilde;ar, lastimar, perjudicar,
     afectar; ser da&ntilde;ado, lastimarse
+sungaydo:
+  term: sungaydo
+  class: t
+  category: derived
+  translation: ""
+sungaykal:
+  term: sungaykal
+  class: t
+  category: derived
+  translation: ""
 sungayne:
   term: sungayne
   class: t
   category: derived
   translation: da&ntilde;ino, nocivo, perjudicial
+sungaypul:
+  term: sungaypul
+  class: t
+  category: derived
+  translation: ""
 sungen:
   term: sungen
   class: b
@@ -38735,11 +39136,26 @@ surprisaatake:
   class: b.oj
   category: derived
   translation: ataque sorpresa
+surprisacu:
+  term: surprisacu
+  class: b.nenoj
+  category: derived
+  translation: ""
 surprisado:
   term: surprisado
   class: t
   category: derived
   translation: sorprendido
+surprisane:
+  term: surprisane
+  class: t
+  category: derived
+  translation: ""
+surprisapul:
+  term: surprisapul
+  class: t
+  category: derived
+  translation: ""
 susana:
   term: susana
   class: b
@@ -40059,6 +40475,11 @@ termoabil:
   class: t
   category: derived
   translation: ""
+termocu:
+  term: termocu
+  class: b.nenoj
+  category: derived
+  translation: ""
 termoday:
   term: termoday
   class: t
@@ -40969,6 +41390,11 @@ trawma:
   category: root
   translation: trauma (<em>da&ntilde;o duradero</em>); traumatizar; sufrir de trauma,
     traumatizarse
+trawmacu:
+  term: trawmacu
+  class: b.nenoj
+  category: derived
+  translation: ""
 trawmado:
   term: trawmado
   class: t
@@ -41484,6 +41910,11 @@ ufue:
   translation: repulsi&oacute;n, repugnancia, n&aacute;usea, asco; sentir repulsi&oacute;n,
     repugnarle, sentir asco; repugnar, dar asco, asquear; gu&aacute;cala, fuchi, <em>ew</em>,
     fo, puf, (pu)aj, puaf, fa
+ufuecu:
+  term: ufuecu
+  class: b.nenoj
+  category: derived
+  translation: ""
 ufuedo:
   term: ufuedo
   class: t
@@ -42575,6 +43006,11 @@ wao:
   class: b.oro; il
   category: root
   translation: asombro, sobrecogimiento; asombrarse, estar asombrado; asombrar; guau
+waocu:
+  term: waocu
+  class: b.nenoj
+  category: derived
+  translation: ""
 waodo:
   term: waodo
   class: t
@@ -43587,6 +44023,11 @@ xinxiku:
   class: b.oro
   category: root
   translation: ""
+xinxikudo:
+  term: xinxikudo
+  class: t
+  category: derived
+  translation: ""
 xinyon:
   term: xinyon
   class: b
@@ -43663,6 +44104,11 @@ xohra:
   category: root
   translation: fama, renombre, nombrad&iacute;a, notoriedad, hao; tener fama, ser
     famoso; volver famoso
+xohracu:
+  term: xohracu
+  class: b.nenoj
+  category: derived
+  translation: ""
 xohrado:
   term: xohrado
   class: t
@@ -43893,6 +44339,11 @@ xoru:
   class: b.oro
   category: root
   translation: comienzo, principio; comenzar, empezar; comenzar, empezar
+xorucu:
+  term: xorucu
+  class: b.nenoj
+  category: derived
+  translation: ""
 xorucune:
   term: xorucune
   class: t
@@ -43928,6 +44379,11 @@ xorwala:
   class: b.oj
   category: derived
   translation: p&eacute;rdida, extrav&iacute;o; perder, extraviar
+xorwalado:
+  term: xorwalado
+  class: t
+  category: derived
+  translation: ""
 xorxugwan:
   term: xorxugwan
   class: b.oj
@@ -44487,6 +44943,11 @@ yolyu:
   category: root
   translation: preocupaci&oacute;n, inquietud; preocuparse, estar preocupado, inquietarse;
     preocupar, inquietar
+yolyucu:
+  term: yolyucu
+  class: b.nenoj
+  category: derived
+  translation: ""
 yolyucune:
   term: yolyucune
   class: t
@@ -45034,6 +45495,11 @@ zukam:
   class: b.oro
   category: root
   translation: resfriado (com&uacute;n), resfr&iacute;o, catarro, constipado, coriza
+zukamcu:
+  term: zukamcu
+  class: b.nenoj
+  category: derived
+  translation: ""
 zukini:
   term: zukini
   class: b
