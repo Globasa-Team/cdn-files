@@ -11,9 +11,9 @@
   translation: enfermo de
 -bisu:
   term: -bisu
-  class: xfik
+  class: t xfik
   category: affix
-  translation: que tiene que ser, que debe ser
+  translation: ""
 -bol:
   term: -bol
   class: b xfik
@@ -25,6 +25,11 @@
   category: affix
   translation: hacerse (<em>marcador de verbo intransitivo</em>), volverse, tornarse;
     -se de manera (<em>marcador de verbo copulativo</em>)
+-day:
+  term: -day
+  class: t xfik
+  category: affix
+  translation: ""
 -din:
   term: -din
   class: b xfik
@@ -182,6 +187,11 @@
   class: t xfik
   category: affix
   translation: relacionado con, de, -al, -il, -ico
+-lil:
+  term: -lil
+  class: t xfik
+  category: affix
+  translation: ""
 -logi:
   term: -logi
   class: b xfik
@@ -9241,6 +9251,11 @@ dishadya:
   class: b.oj
   category: derived
   translation: repartimiento, repartici&oacute;n; repartir
+disiplin:
+  term: disiplin
+  class: b.oj
+  category: root
+  translation: disciplina; disciplinar
 disko:
   term: disko
   class: b
@@ -12703,7 +12718,7 @@ fe_comen:
   translation: al lado
 fe_comen_de:
   term: fe comen de
-  class: p
+  class: jm p
   category: phrase
   translation: al lado de
 fe_den_kaso:
@@ -13072,6 +13087,11 @@ fe_porya:
   class: p jm
   category: phrase
   translation: en intercambio
+fe_preferi:
+  term: fe preferi
+  class: p jm
+  category: phrase
+  translation: ""
 fe_preferi_kom:
   term: fe preferi kom
   class: p jm
@@ -14048,6 +14068,11 @@ fol_satumeter:
   category: derived
   translation: en la direcci&oacute;n de las manecillas del reloj, horario, dextrorso,
     dextr&oacute;giro
+fol_vada:
+  term: fol vada
+  class: p jm
+  category: phrase
+  translation: ""
 fol_xanse:
   term: fol xanse
   class: p jm
@@ -17231,16 +17256,6 @@ hewan:
   class: b
   category: root
   translation: animal, <em>Animalia</em>
-hewandom:
-  term: hewandom
-  class: b
-  category: derived
-  translation: zool&oacute;gico
-hewandomyen:
-  term: hewandomyen
-  class: b
-  category: derived
-  translation: guardi&aacute;n de zool&oacute;gico
 hewandotor:
   term: hewandotor
   class: b
@@ -17261,6 +17276,16 @@ hewanmedisyen:
   class: b
   category: derived
   translation: veterinario
+hewanparke:
+  term: hewanparke
+  class: b
+  category: derived
+  translation: zool&oacute;gico
+hewanparkeyen:
+  term: hewanparkeyen
+  class: b
+  category: derived
+  translation: guardi&aacute;n de zool&oacute;gico
 hey:
   term: hey
   class: il
@@ -36659,6 +36684,11 @@ sama:
   class: t; d
   category: root
   translation: mismo, homo-
+sama-:
+  term: sama-
+  class: lfik
+  category: affix
+  translation: ""
 samaete:
   term: samaete
   class: pn

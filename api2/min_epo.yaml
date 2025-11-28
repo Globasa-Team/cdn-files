@@ -1,9 +1,10 @@
 ---
 -abil: <em>(t xfik)</em> -pova, -kapabla; -pove, -kapable
 -bimar: <em>(t xfik)</em> -malsana
--bisu: <em>(xfik)</em> -enda; -ende
+-bisu: <em>(t xfik)</em> -enda; -ende
 -bol: <em>(b xfik)</em> -pilko, sfero
 -cu: <em>(b.nenoj xfik)</em> -iĝo, -iĝi, <em>markilo de netransativa verbo</em>
+-day: <em>(t xfik)</em> riĉa je
 -din: <em>(b xfik)</em> -tago
 -do: <em>(t xfik)</em> <em>in neaktiva stato de</em>, -ita, -ite
 -doku: <em>(b xfik)</em> dokumento
@@ -35,6 +36,7 @@
 -laye: <em>(t xfik)</em> -inda, -inde
 -lexi: <em>(b xfik)</em> vorto
 -li: <em>(t xfik)</em> -a, de, rilate al
+-lil: <em>(t xfik)</em> malriĉa je
 -logi: <em>(b xfik)</em> -logio, fako, -scienco, filozofio, -studo, -arto
 -mansi: <em>(b xfik)</em> -mancio
 -maso: <em>(b xfik)</em> -aĵo, karno de
@@ -1844,6 +1846,7 @@ disgi: <em>(b.oj)</em> disigo; disigi
 disgibe: <em>(b.oj)</em> disdono; disdoni
 disgongin: <em>(b.oj)</em> emisio; emisii, eldoni
 dishadya: <em>(b.oj)</em> disdonaco; disdonaci
+disiplin: <em>(b.oj)</em> disciplino; disciplini
 disko: <em>(b)</em> disko
 diskrimina: <em>(b.oj)</em> diskriminacio, diskrimino; diskriminacii, diskrimini
 diskriminado: <em>(t)</em> diskriminaciita, diskriminita
@@ -2537,7 +2540,7 @@ fe_byen_de: <em>(jm p)</em> ĉe la rando de
 fe_centro: <em>(p jm)</em> en la centro
 fe_centro_de: <em>(jm p)</em> en la centro de
 fe_comen: <em>(p jm)</em> ĉe la flanko, apude
-fe_comen_de: <em>(p)</em> flanke de
+fe_comen_de: <em>(jm p)</em> flanke de
 fe_den_kaso: <em>(p jm)</em> en tiu kazo, tiukaze
 fe_dua_mara: <em>(jm p)</em> dufoje
 fe_duli_mara: <em>(jm p)</em> iafoje, iufoje, kelkfoje, kelkafoje, multfoje, plurfoje
@@ -2611,6 +2614,7 @@ fe_peda_de: <em>(p)</em> surfunde de, malsupre de
 fe_perya: <em>(p jm)</em> supre
 fe_peti: <em>(p jm)</em> mi petas, pete
 fe_porya: <em>(p jm)</em> interŝanĝe, en interŝanĝo
+fe_preferi: <em>(p jm)</em> prefere
 fe_preferi_kom: <em>(p jm)</em> prefere ol, anstataŭ
 fe_rimara: <em>(t)</em> denova; denove, ree
 fe_ruke: <em>(p jm)</em> malantaŭe
@@ -2806,6 +2810,7 @@ fol_lega: <em>(p jm)</em> laŭ leĝo
 fol_moda: <em>(p jm)</em> laŭ modo, laŭmode
 fol_norma: <em>(p jm)</em> laŭ normo
 fol_satumeter: <em>(p jm)</em> laŭhorloĝe, horloĝdirekte, dekstrume
+fol_vada: <em>(p jm)</em> laŭpromese
 fol_xanse: <em>(p jm)</em> hazarda; hazarde
 folcu: <em>(b.nenoj)</em> apudiĝo; apudiĝi, metiĝi apud
 folder: <em>(b)</em> dosierujo
@@ -2848,9 +2853,9 @@ fosfato: <em>(b)</em> fosfato
 fosforo: <em>(b)</em> fosforo
 fosil: <em>(b)</em> fosilio
 fosilcu: <em>(b.nenoj)</em> fosiliiĝo; fosiliiĝi
-fosilcudo: '<em>(t)</em> '
+fosilcudo: <em>(t)</em> fosiliiĝinta
 fosilgi: <em>(b.oj)</em> fosiliigo; fosiliigi
-fosilgido: '<em>(t)</em> '
+fosilgido: <em>(t)</em> fosiliigita
 foto: <em>(b.oj)</em> fotografaĵo, foto; fotografi, foti
 fotoli: <em>(t)</em> fotografa, fota; fotografe, fote
 fototul: <em>(b)</em> fotografilo, fotilo, kamerao
@@ -3450,12 +3455,12 @@ hervatska: <em>(su n)</em> Kroatio, Kroatujo
 herzi: <em>(b)</em> herco
 hesabu: <em>(b.oj)</em> kalkulo; kalkuli
 hewan: <em>(b)</em> besto
-hewandom: <em>(b)</em> bestoĝardeno, zoologia ĝardeno, zoo
-hewandomyen: <em>(b)</em> bestoĝardenisto, bestovartisto, zoisto
 hewandotor: <em>(b)</em> bestokuracisto, veterinaro
 hewanlogi: <em>(b)</em> zoologio, bestbiologio, bestoscienco
 hewanmedis: <em>(b)</em> bestomedicino, bestokuraco, veterinara medicino
 hewanmedisyen: <em>(b)</em> bestokuracisto, veterinaro
+hewanparke: <em>(b)</em> bestoĝardeno, zoologia ĝardeno, zoo
+hewanparkeyen: <em>(b)</em> bestoĝardenisto, bestovartisto, zoisto
 hey: <em>(il)</em> he, hej
 hezekyel: <em>(su n)</em> Jeĥezkel
 hibrido: <em>(t)</em> hibrida
@@ -4640,7 +4645,7 @@ konfortapul: <em>(t)</em> komforta, komfortanta; komforte
 konfuci: <em>(su n)</em> Konfuceo
 konhwoku: <em>(b.oro)</em> konfuzo, perpleksigo; konfuzi, perpleksigi; konfuziĝi,
   perpleksi
-konhwokucu: '<em>(b.nenoj)</em> '
+konhwokucu: <em>(b.nenoj)</em> konfuziĝo, perplekso; konfuziĝi, perpleksi
 konhwokudo: <em>(t)</em> konfuzita, perpleksa; konfuzite, perplekse
 konhwokune: <em>(t)</em> konfuzanta, perpleksiganta; konfuzante, perpleksigante
 konkan: <em>(su n)</em> Konkanio, Konkanujo
@@ -6555,7 +6560,7 @@ paralisido: <em>(t)</em> paralizita
 parametre: <em>(b)</em> parametro
 paranoy: <em>(b.oro)</em> paranojo; kaŭzi paranojon; senti paranojon, esti paranoja
 paranoydo: <em>(t)</em> paranoja; paranoje
-paranoyne: '<em>(t)</em> '
+paranoyne: <em>(t)</em> paranoidiga
 paranoypul: <em>(t)</em> paranoja; paranoje
 pare: <em>(b)</em> pastro, pastoro, Patro
 parke: <em>(b)</em> parko
@@ -7335,6 +7340,7 @@ saluba: <em>(b)</em> kruco
 salun: <em>(b)</em> salono
 salvadori: <em>(su n)</em> Salvadoro
 sama: <em>(t; d)</em> sama; same
+sama-: <em>(lfik)</em> sam-
 samaete: <em>(pn)</em> la samaj
 samaijen: <em>(b.oj)</em> samopinio; samopinii
 samajensifil: <em>(t)</em> samseksema; samsekseme

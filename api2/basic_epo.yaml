@@ -11,7 +11,7 @@
   translation: -malsana
 -bisu:
   term: -bisu
-  class: xfik
+  class: t xfik
   category: affix
   translation: -enda; -ende
 -bol:
@@ -24,6 +24,11 @@
   class: b.nenoj xfik
   category: affix
   translation: -iĝo, -iĝi, <em>markilo de netransativa verbo</em>
+-day:
+  term: -day
+  class: t xfik
+  category: affix
+  translation: riĉa je
 -din:
   term: -din
   class: b xfik
@@ -179,6 +184,11 @@
   class: t xfik
   category: affix
   translation: -a, de, rilate al
+-lil:
+  term: -lil
+  class: t xfik
+  category: affix
+  translation: malriĉa je
 -logi:
   term: -logi
   class: b xfik
@@ -9151,6 +9161,11 @@ dishadya:
   class: b.oj
   category: derived
   translation: disdonaco; disdonaci
+disiplin:
+  term: disiplin
+  class: b.oj
+  category: root
+  translation: disciplino; disciplini
 disko:
   term: disko
   class: b
@@ -12588,7 +12603,7 @@ fe_comen:
   translation: ĉe la flanko, apude
 fe_comen_de:
   term: fe comen de
-  class: p
+  class: jm p
   category: phrase
   translation: flanke de
 fe_den_kaso:
@@ -12956,6 +12971,11 @@ fe_porya:
   class: p jm
   category: phrase
   translation: interŝanĝe, en interŝanĝo
+fe_preferi:
+  term: fe preferi
+  class: p jm
+  category: phrase
+  translation: prefere
 fe_preferi_kom:
   term: fe preferi kom
   class: p jm
@@ -13923,6 +13943,11 @@ fol_satumeter:
   class: p jm
   category: derived
   translation: laŭhorloĝe, horloĝdirekte, dekstrume
+fol_vada:
+  term: fol vada
+  class: p jm
+  category: phrase
+  translation: laŭpromese
 fol_xanse:
   term: fol xanse
   class: p jm
@@ -14137,7 +14162,7 @@ fosilcudo:
   term: fosilcudo
   class: t
   category: derived
-  translation: ""
+  translation: fosiliiĝinta
 fosilgi:
   term: fosilgi
   class: b.oj
@@ -14147,7 +14172,7 @@ fosilgido:
   term: fosilgido
   class: t
   category: derived
-  translation: ""
+  translation: fosiliigita
 foto:
   term: foto
   class: b.oj
@@ -17078,16 +17103,6 @@ hewan:
   class: b
   category: root
   translation: besto
-hewandom:
-  term: hewandom
-  class: b
-  category: derived
-  translation: bestoĝardeno, zoologia ĝardeno, zoo
-hewandomyen:
-  term: hewandomyen
-  class: b
-  category: derived
-  translation: bestoĝardenisto, bestovartisto, zoisto
 hewandotor:
   term: hewandotor
   class: b
@@ -17108,6 +17123,16 @@ hewanmedisyen:
   class: b
   category: derived
   translation: bestokuracisto, veterinaro
+hewanparke:
+  term: hewanparke
+  class: b
+  category: derived
+  translation: bestoĝardeno, zoologia ĝardeno, zoo
+hewanparkeyen:
+  term: hewanparkeyen
+  class: b
+  category: derived
+  translation: bestoĝardenisto, bestovartisto, zoisto
 hey:
   term: hey
   class: il
@@ -22975,7 +23000,7 @@ konhwokucu:
   term: konhwokucu
   class: b.nenoj
   category: derived
-  translation: ""
+  translation: konfuziĝo, perplekso; konfuziĝi, perpleksi
 konhwokudo:
   term: konhwokudo
   class: t
@@ -32446,7 +32471,7 @@ paranoyne:
   term: paranoyne
   class: t
   category: derived
-  translation: ""
+  translation: paranoidiga
 paranoypul:
   term: paranoypul
   class: t
@@ -36324,6 +36349,11 @@ sama:
   class: t; d
   category: root
   translation: sama; same
+sama-:
+  term: sama-
+  class: lfik
+  category: affix
+  translation: sam-
 samaete:
   term: samaete
   class: pn

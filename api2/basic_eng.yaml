@@ -11,9 +11,9 @@
   translation: sick
 -bisu:
   term: -bisu
-  class: xfik
+  class: t xfik
   category: affix
-  translation: which must be, must-
+  translation: which must be done, which must happen
 -bol:
   term: -bol
   class: b xfik
@@ -24,6 +24,11 @@
   class: b.nenoj xfik
   category: affix
   translation: <em>intransitive verb marker</em>, become, get, turn (into)
+-day:
+  term: -day
+  class: t xfik
+  category: affix
+  translation: great in, high in
 -din:
   term: -din
   class: b xfik
@@ -179,6 +184,11 @@
   class: t xfik
   category: affix
   translation: relating to, of
+-lil:
+  term: -lil
+  class: t xfik
+  category: affix
+  translation: low in
 -logi:
   term: -logi
   class: b xfik
@@ -9190,6 +9200,11 @@ dishadya:
   class: b.oj
   category: derived
   translation: share (out)
+disiplin:
+  term: disiplin
+  class: b.oj
+  category: root
+  translation: discipline; discipline
 disko:
   term: disko
   class: b
@@ -12639,7 +12654,7 @@ fe_comen:
   translation: on the side
 fe_comen_de:
   term: fe comen de
-  class: p
+  class: jm p
   category: phrase
   translation: beside, next to
 fe_den_kaso:
@@ -13009,6 +13024,11 @@ fe_porya:
   class: p jm
   category: phrase
   translation: (in) exchange
+fe_preferi:
+  term: fe preferi
+  class: p jm
+  category: phrase
+  translation: preferably
 fe_preferi_kom:
   term: fe preferi kom
   class: p jm
@@ -13983,6 +14003,11 @@ fol_satumeter:
   class: p jm
   category: derived
   translation: clockwise
+fol_vada:
+  term: fol vada
+  class: p jm
+  category: phrase
+  translation: as promised
 fol_xanse:
   term: fol xanse
   class: p jm
@@ -17150,16 +17175,6 @@ hewan:
   class: b
   category: root
   translation: animal
-hewandom:
-  term: hewandom
-  class: b
-  category: derived
-  translation: zoo
-hewandomyen:
-  term: hewandomyen
-  class: b
-  category: derived
-  translation: zookeeper
 hewandotor:
   term: hewandotor
   class: b
@@ -17180,6 +17195,16 @@ hewanmedisyen:
   class: b
   category: derived
   translation: veterinarian, vet
+hewanparke:
+  term: hewanparke
+  class: b
+  category: derived
+  translation: zoo
+hewanparkeyen:
+  term: hewanparkeyen
+  class: b
+  category: derived
+  translation: zookeeper
 hey:
   term: hey
   class: il
@@ -20302,7 +20327,7 @@ juioko:
   term: juioko
   class: b.oj
   category: derived
-  translation: observe, look, watch
+  translation: observation; observe
 juiore:
   term: juiore
   class: b.oj
@@ -23043,7 +23068,7 @@ konfortado:
   term: konfortado
   class: t
   category: derived
-  translation: comfortable; comfortably
+  translation: comfortable, comforted; comfortably
 konfortane:
   term: konfortane
   class: t
@@ -36455,6 +36480,11 @@ sama:
   term: sama
   class: t; d
   category: root
+  translation: same
+sama-:
+  term: sama-
+  class: lfik
+  category: affix
   translation: same
 samaete:
   term: samaete

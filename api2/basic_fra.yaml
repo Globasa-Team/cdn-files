@@ -11,7 +11,7 @@
   translation: ""
 -bisu:
   term: -bisu
-  class: xfik
+  class: t xfik
   category: affix
   translation: ""
 -bol:
@@ -22,6 +22,11 @@
 -cu:
   term: -cu
   class: b.nenoj xfik
+  category: affix
+  translation: ""
+-day:
+  term: -day
+  class: t xfik
   category: affix
   translation: ""
 -din:
@@ -176,6 +181,11 @@
   translation: ""
 -li:
   term: -li
+  class: t xfik
+  category: affix
+  translation: ""
+-lil:
+  term: -lil
   class: t xfik
   category: affix
   translation: ""
@@ -9145,6 +9155,11 @@ dishadya:
   class: b.oj
   category: derived
   translation: ""
+disiplin:
+  term: disiplin
+  class: b.oj
+  category: root
+  translation: discipline; discipliner
 disko:
   term: disko
   class: b
@@ -12577,7 +12592,7 @@ fe_comen:
   translation: ""
 fe_comen_de:
   term: fe comen de
-  class: p
+  class: jm p
   category: phrase
   translation: ""
 fe_den_kaso:
@@ -12942,6 +12957,11 @@ fe_peti:
   translation: ""
 fe_porya:
   term: fe porya
+  class: p jm
+  category: phrase
+  translation: ""
+fe_preferi:
+  term: fe preferi
   class: p jm
   category: phrase
   translation: ""
@@ -13909,6 +13929,11 @@ fol_satumeter:
   term: fol satumeter
   class: p jm
   category: derived
+  translation: ""
+fol_vada:
+  term: fol vada
+  class: p jm
+  category: phrase
   translation: ""
 fol_xanse:
   term: fol xanse
@@ -17061,16 +17086,6 @@ hewan:
   class: b
   category: root
   translation: animal
-hewandom:
-  term: hewandom
-  class: b
-  category: derived
-  translation: zoo, parc zoologique, jardin zoologique
-hewandomyen:
-  term: hewandomyen
-  class: b
-  category: derived
-  translation: ""
 hewandotor:
   term: hewandotor
   class: b
@@ -17091,6 +17106,16 @@ hewanmedisyen:
   class: b
   category: derived
   translation: v&eacute;t&eacute;rinaire, v&eacute;to
+hewanparke:
+  term: hewanparke
+  class: b
+  category: derived
+  translation: zoo, parc zoologique, jardin zoologique
+hewanparkeyen:
+  term: hewanparkeyen
+  class: b
+  category: derived
+  translation: ""
 hey:
   term: hey
   class: il
@@ -36291,6 +36316,11 @@ sama:
   term: sama
   class: t; d
   category: root
+  translation: ""
+sama-:
+  term: sama-
+  class: lfik
+  category: affix
   translation: ""
 samaete:
   term: samaete
