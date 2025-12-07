@@ -639,8 +639,8 @@ adolapul:
   class: t
   category: derived
   translation: muskola
-adolaya:
-  term: adolaya
+adolapulya:
+  term: adolapulya
   class: b
   category: derived
   translation: muskoleco
@@ -1306,6 +1306,11 @@ aloopsyon:
   class: b
   category: derived
   translation: alternativo
+aloopsyonli:
+  term: aloopsyonli
+  class: t
+  category: derived
+  translation: ""
 alooto:
   term: alooto
   class: pn
@@ -1386,6 +1391,11 @@ alucinagiente:
   class: b
   category: derived
   translation: halucinogeno, halucinanto, halucinaĵo
+alucinagine:
+  term: alucinagine
+  class: t
+  category: derived
+  translation: ""
 aluminyum:
   term: aluminyum
   class: b
@@ -2034,7 +2044,7 @@ anxi:
   translation: insinuo, aludo, implico; insinui, aludi, implici, subkomprenigi, duondiri
 anximena:
   term: anximena
-  class: b
+  class: b.oj
   category: derived
   translation: implico, subsenco; implici
 aorta:
@@ -2467,11 +2477,6 @@ askeri:
   class: b
   category: root
   translation: armeo, infanterio, soldataro
-askerilari:
-  term: askerilari
-  class: b
-  category: derived
-  translation: infanterio
 askeritim:
   term: askeritim
   class: b
@@ -2622,6 +2627,11 @@ atex:
   class: b.oro
   category: root
   translation: fajro; fajri (<em>konsumiĝi de fajro</em>), (ek)bruligi (<em>per fajro</em>)
+atexalkoba:
+  term: atexalkoba
+  class: b
+  category: derived
+  translation: kameno, fajrejo
 atexcu:
   term: atexcu
   class: b.nenoj
@@ -2637,11 +2647,6 @@ atexcunenabil:
   class: t
   category: derived
   translation: nebruliĝema
-atexdom:
-  term: atexdom
-  class: b
-  category: derived
-  translation: kameno, fajrejo
 atexmon:
   term: atexmon
   class: b
@@ -2684,7 +2689,7 @@ ativocu:
   translation: aktiviĝado; aktiviĝi
 ativogi:
   term: ativogi
-  class: b
+  class: b.oj
   category: derived
   translation: aktivigo; aktivigi
 ativoje:
@@ -2767,11 +2772,6 @@ atopupe:
   class: b
   category: derived
   translation: marioneto, gantpupo
-atoya:
-  term: atoya
-  class: b
-  category: derived
-  translation: aktorado (<em>fako</em>)
 atoyen:
   term: atoyen
   class: b
@@ -2954,7 +2954,7 @@ awrestagi:
   translation: forlaso; forlasi
 awsen:
   term: awsen
-  class: b
+  class: b.nenoj
   category: derived
   translation: foresteco, malesteco
 awsenjenmin:
@@ -3067,11 +3067,6 @@ awtoritapul:
   class: t
   category: derived
   translation: ordonema; ordoneme
-awtoritaya:
-  term: awtoritaya
-  class: b
-  category: derived
-  translation: rajtigo, permesado
 awyam:
   term: awyam
   class: b.oj
@@ -3207,6 +3202,11 @@ aysekrimu:
   class: b
   category: derived
   translation: glaciaĵo
+aysekubo:
+  term: aysekubo
+  class: b
+  category: derived
+  translation: ""
 aysemon:
   term: aysemon
   class: b
@@ -3945,7 +3945,7 @@ baryum:
   translation: bario
 basa:
   term: basa
-  class: b.oj
+  class: b
   category: root
   translation: lingvo; lingve komuniki
 basafilyen:
@@ -9871,6 +9871,11 @@ duatyan:
   class: b
   category: derived
   translation: dupunkto
+duawtorita:
+  term: duawtorita
+  class: b
+  category: derived
+  translation: rajtigo, permesado
 duaxey:
   term: duaxey
   class: b
@@ -9936,6 +9941,11 @@ dudando:
   class: t
   category: derived
   translation: fumita
+dudanse:
+  term: dudanse
+  class: b
+  category: derived
+  translation: ""
 dudantubo:
   term: dudantubo
   class: b
@@ -9991,6 +10001,16 @@ dueletri:
   class: b
   category: derived
   translation: elektriĝo; elektriĝi
+duergo:
+  term: duergo
+  class: b
+  category: derived
+  translation: ""
+dueskri:
+  term: dueskri
+  class: b
+  category: derived
+  translation: ""
 dugaga:
   term: dugaga
   class: b
@@ -10001,6 +10021,11 @@ dugoyu:
   class: b
   category: derived
   translation: fosado, elfosado, elkavigo
+duhikaye:
+  term: duhikaye
+  class: b
+  category: derived
+  translation: ""
 duimaje:
   term: duimaje
   class: b
@@ -10021,6 +10046,16 @@ duke:
   class: b
   category: root
   translation: duko, dukino
+dukrea:
+  term: dukrea
+  class: b
+  category: derived
+  translation: ""
+dulala:
+  term: dulala
+  class: b
+  category: derived
+  translation: ""
 dumarali:
   term: dumarali
   class: t
@@ -10161,6 +10196,11 @@ duryan:
   class: b
   category: root
   translation: durio
+dusuyon:
+  term: dusuyon
+  class: b
+  category: derived
+  translation: naĝado
 duxe:
   term: duxe
   class: b.oj
@@ -12473,7 +12513,7 @@ fayda:
   term: fayda
   class: b.oro
   category: root
-  translation: profito; profiti, profitigi
+  translation: profito; profiti; profitigi
 faydacu:
   term: faydacu
   class: b.nenoj
@@ -12483,7 +12523,7 @@ faydado:
   term: faydado
   class: t
   category: derived
-  translation: ""
+  translation: profitigita
 faydayen:
   term: faydayen
   class: b
@@ -18743,6 +18783,11 @@ intrenasyonli:
   class: t
   category: derived
   translation: internacia; internacie
+intreneto:
+  term: intreneto
+  class: b
+  category: derived
+  translation: interreto, reto
 intrepala:
   term: intrepala
   class: b.nenoj
@@ -18753,16 +18798,16 @@ intreya:
   class: b.oj
   category: derived
   translation: intereco
-inturandom:
-  term: inturandom
-  class: b
-  category: derived
-  translation: enterigejo
 inturangi:
   term: inturangi
   class: b.oj
   category: derived
   translation: enterigo; enterigi
+inturangidom:
+  term: inturangidom
+  class: b
+  category: derived
+  translation: enterigejo
 intyazu:
   term: intyazu
   class: b
@@ -20474,6 +20519,11 @@ junipiu:
   class: b
   category: derived
   translation: birdido
+junisim:
+  term: junisim
+  class: t
+  category: derived
+  translation: ""
 junisinga:
   term: junisinga
   class: b
@@ -22211,6 +22261,11 @@ kimikali:
   class: t
   category: derived
   translation: kemia; kemie
+kimikamon:
+  term: kimikamon
+  class: b
+  category: derived
+  translation: kemia elemento
 kimikaxey:
   term: kimikaxey
   class: b
@@ -22416,6 +22471,11 @@ klima:
   class: b
   category: root
   translation: vetero, klimato
+klimamotif:
+  term: klimamotif
+  class: b
+  category: derived
+  translation: ""
 kliperton:
   term: Kliperton
   class: su n
@@ -23674,7 +23734,7 @@ kubo:
   translation: kubo
 kudeta:
   term: kudeta
-  class: ""
+  class: b
   category: root
   translation: puĉo, ŝtatrenverso
 kudu:
@@ -24182,6 +24242,11 @@ labaskaxa:
   class: b
   category: derived
   translation: komodo
+labasmon:
+  term: labasmon
+  class: b
+  category: derived
+  translation: ""
 label:
   term: label
   class: b.oj
@@ -28191,7 +28256,7 @@ milkoproduti:
   translation: laktaĵo
 mimbay:
   term: mimbay
-  class: t
+  class: t; il
   category: root
   translation: evidenta; evidente, kompreneble
 mimu:
@@ -28534,6 +28599,11 @@ moda:
   class: b
   category: root
   translation: modo, tendenco, furoro
+modalexi:
+  term: modalexi
+  class: b
+  category: derived
+  translation: modalo
 modapul:
   term: modapul
   class: t
@@ -30210,6 +30280,11 @@ nenpolitili:
   class: t
   category: derived
   translation: nepolitika; nepolitike
+nenpopuler:
+  term: nenpopuler
+  class: t
+  category: derived
+  translation: ""
 nenpreciso:
   term: nenpreciso
   class: t
@@ -30437,7 +30512,7 @@ nerxadin:
   translation: post kelkaj tagoj
 nerxali:
   term: nerxali
-  class: m
+  class: t
   category: derived
   translation: baldaŭa; baldaŭ, post nelonge
 nerya:
@@ -31341,6 +31416,11 @@ ogarli:
   class: t
   category: derived
   translation: doma, hejma
+ogarmaxina:
+  term: ogarmaxina
+  class: b
+  category: derived
+  translation: hejmaparato, hejmilo
 ogaryen:
   term: ogaryen
   class: b
@@ -32531,7 +32611,7 @@ parti:
   term: parti
   class: b.nenoj
   category: root
-  translation: festo, festeno
+  translation: festo, festeno; festi, festeni
 partikul:
   term: partikul
   class: b
@@ -33090,7 +33170,7 @@ peryaje:
   translation: (surfaca) areo
 pesa:
   term: pesa
-  class: b.oj
+  class: b
   category: root
   translation: mono; financi
 pesabao:
@@ -33103,6 +33183,11 @@ pesadahun:
   class: b
   category: derived
   translation: monbileto, banknoto, bankbileto, papermono
+pesagongin:
+  term: pesagongin
+  class: b.oj
+  category: derived
+  translation: ""
 pesakal:
   term: pesakal
   class: t
@@ -33511,7 +33596,7 @@ plankuton:
   translation: planktono
 planta:
   term: planta
-  class: b
+  class: b.oj
   category: root
   translation: planto
 plantalogi:
@@ -34981,7 +35066,7 @@ randedo:
   translation: rabotita, raspita
 randevu:
   term: randevu
-  class: b.nenoj
+  class: b.oj
   category: root
   translation: rendevuo; rendevui (kun)
 ranko:
@@ -35612,7 +35697,7 @@ roma:
 romani:
   term: Romani
   class: t
-  category: root
+  category: proper word
   translation: romaa, roŭma, cigana
 rombo:
   term: rombo
@@ -36089,6 +36174,11 @@ sadafamahi:
   class: b
   category: derived
   translation: konkulo (<em>moluskoj krustuloj ktp</em>)
+sadafayen:
+  term: sadafayen
+  class: b
+  category: derived
+  translation: krustulo, krustaco
 sadismo:
   term: Sadismo
   class: b
@@ -36656,10 +36746,15 @@ sardina:
   category: root
   translation: sardino
 sargaso:
+  term: sargaso
+  class: b
+  category: root
+  translation: sargaso
+sargaso_bahari:
   term: Sargaso
   class: su n
   category: proper word
-  translation: Sargaso, sargaso
+  translation: Sargaso
 sari:
   term: sari
   class: b
@@ -37300,6 +37395,11 @@ serye:
   class: b
   category: root
   translation: serio
+seryeli:
+  term: seryeli
+  class: t
+  category: derived
+  translation: ""
 sesam:
   term: sesam
   class: b
@@ -37545,6 +37645,11 @@ sikoosisli:
   class: t
   category: derived
   translation: psikoza, psiĥoza; psikoze, psiĥoze
+sikoseha:
+  term: sikoseha
+  class: t
+  category: derived
+  translation: ""
 sili:
   term: sili
   class: t
@@ -39873,7 +39978,7 @@ teligrafi:
   translation: telegramo
 teliharka:
   term: teliharka
-  class: b
+  class: b.oj
   category: derived
   translation: telekinezo; telekinezi
 telije:
@@ -42388,6 +42493,11 @@ volepul:
   class: t
   category: derived
   translation: vola; vole
+volexey:
+  term: volexey
+  class: b
+  category: derived
+  translation: ""
 volkano:
   term: volkano
   class: b
