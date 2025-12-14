@@ -4,11 +4,6 @@
   class: t xfik
   category: affix
   translation: -pova, -kapabla; -pove, -kapable
--bimar:
-  term: -bimar
-  class: t xfik
-  category: affix
-  translation: -malsana
 -bisu:
   term: -bisu
   class: t xfik
@@ -39,21 +34,11 @@
   class: t xfik
   category: affix
   translation: <em>in neaktiva stato de</em>, -ita, -ite
--doku:
-  term: -doku
-  class: b xfik
-  category: affix
-  translation: dokumento
 -dom:
   term: -dom
   class: b xfik
   category: affix
   translation: -ejo, loko, konstruaĵo, situo (<em>kun specifa celo</em>)
--dukan:
-  term: -dukan
-  class: b xfik
-  category: affix
-  translation: -butiko, -vendejo
 -ente:
   term: -ente
   class: b xfik
@@ -79,11 +64,6 @@
   class: b.oj xfik
   category: affix
   translation: -igo; -igi, <em>kaŭza, transitiva markilo</em>
--gimu:
-  term: -gimu
-  class: xfik
-  category: affix
-  translation: kiu devus esti, kiu estu
 -gon:
   term: -gon
   class: b xfik
@@ -94,11 +74,6 @@
   class: b xfik
   category: affix
   translation: registrado, registraĵo, rikordo
--hole:
-  term: -hole
-  class: b xfik
-  category: affix
-  translation: -ingo
 -ible:
   term: -ible
   class: t xfik
@@ -134,16 +109,6 @@
   class: t xfik
   category: affix
   translation: sen-, malplena, malplene
--kamer:
-  term: -kamer
-  class: b xfik
-  category: affix
-  translation: -ĉambro, -ejo
--kaxa:
-  term: -kaxa
-  class: b xfik
-  category: affix
-  translation: -ujo
 -kef:
   term: -kef
   class: b xfik
@@ -159,11 +124,6 @@
   class: b xfik
   category: affix
   translation: (tipo de) registraro, -kratio
--kumax:
-  term: -kumax
-  class: b xfik
-  category: affix
-  translation: tuko (<em>por specifa celo</em>)
 -lari:
   term: -lari
   class: b xfik
@@ -174,11 +134,6 @@
   class: t xfik
   category: affix
   translation: -inda, -inde
--lexi:
-  term: -lexi
-  class: b xfik
-  category: affix
-  translation: vorto
 -li:
   term: -li
   class: t xfik
@@ -199,11 +154,6 @@
   class: b xfik
   category: affix
   translation: -mancio
--maso:
-  term: -maso
-  class: b xfik
-  category: affix
-  translation: -aĵo, karno de
 -maxina:
   term: -maxina
   class: b xfik
@@ -214,11 +164,6 @@
   class: b xfik
   category: affix
   translation: medicino
--meter:
-  term: -meter
-  class: b xfik
-  category: affix
-  translation: -mezurilo, -metro
 -mo:
   term: -mo
   class: m xfik
@@ -229,11 +174,6 @@
   class: b xfik
   category: affix
   translation: -ero, elemento, unuo
--mosem:
-  term: -mosem
-  class: b xfik
-  category: affix
-  translation: sezono
 -musi:
   term: -musi
   class: t xfik
@@ -1185,16 +1125,6 @@ alo:
   class: d
   category: root
   translation: alia, malsama, diferenca, ali-
-alo-:
-  term: alo-
-  class: lfik
-  category: affix
-  translation: ali-, malsam-
-alo_kom:
-  term: alo kom
-  class: jm t
-  category: phrase
-  translation: malsama ol, alia ol; malsame ol
 alocu:
   term: alocu
   class: b.nenoj
@@ -3568,11 +3498,6 @@ ban:
   class: d
   category: root
   translation: iu, i-
-ban_plu:
-  term: ban plu
-  class: d
-  category: derived
-  translation: iuj
 banana:
   term: banana
   class: b
@@ -3898,6 +3823,11 @@ barixababil:
   class: b
   category: derived
   translation: cipselo, apuso, apodo
+barixje:
+  term: barixje
+  class: b
+  category: derived
+  translation: pluvado, pluvo, falo de pluvo
 barixkalya:
   term: barixkalya
   class: b
@@ -3913,11 +3843,6 @@ barixmon:
   class: b
   category: derived
   translation: pluvero
-barixsokutu:
-  term: barixsokutu
-  class: b
-  category: derived
-  translation: pluvado, pluvo, falo de pluvo
 barku:
   term: barku
   class: b
@@ -4163,16 +4088,16 @@ baxbaharili:
   class: t
   category: derived
   translation: submara; submare
+baxcengu:
+  term: baxcengu
+  class: b
+  category: derived
+  translation: subetaĝo, kelo
 baxcu:
   term: baxcu
   class: b.nenoj
   category: derived
   translation: iri suben
-baxdom:
-  term: baxdom
-  class: b
-  category: derived
-  translation: subetaĝo, kelo
 baxexikili:
   term: baxexikili
   class: t
@@ -4303,6 +4228,11 @@ bebinanyen:
   class: b
   category: derived
   translation: rifuĝinto, rifuĝanto
+beeskolyen:
+  term: beeskolyen
+  class: b
+  category: derived
+  translation: ""
 befaydayen:
   term: befaydayen
   class: b
@@ -5230,7 +5160,7 @@ bonlexi:
   translation: eŭfemismo
 bonmorcu:
   term: bonmorcu
-  class: b
+  class: b.nenoj
   category: derived
   translation: eŭtanazio; eŭtanaziiĝi
 bonnuru:
@@ -5442,7 +5372,7 @@ brandi:
   term: brandi
   class: b
   category: root
-  translation: brando, konjako
+  translation: vinbrando, konjako
 brawa:
   term: brawa
   class: b
@@ -6580,11 +6510,6 @@ centimetro:
   class: b
   category: derived
   translation: centimetro
-centixey:
-  term: centixey
-  class: b
-  category: derived
-  translation: cendo, centimo
 centro:
   term: centro
   class: b.oro
@@ -6995,11 +6920,6 @@ colo:
   class: t
   category: root
   translation: malbela; malbele
-colo-:
-  term: colo-
-  class: lfik
-  category: affix
-  translation: malbel-
 coloeskri:
   term: coloeskri
   class: b.oj.ru
@@ -7075,11 +6995,6 @@ cosanlaye:
   class: t
   category: derived
   translation: laŭdinda, komplimentinda, admirinda; laŭdinde, komplimentinde, admirinde
-cosanyen:
-  term: cosanyen
-  class: b
-  category: derived
-  translation: laŭdanto, komplimentanto, admiranto
 cote:
   term: cote
   class: t
@@ -7280,11 +7195,6 @@ cuyoxaher:
   class: b
   category: derived
   translation: ĉefurbo
-cuyoyam:
-  term: cuyoyam
-  class: b
-  category: derived
-  translation: ĉefmanĝo
 cuyoyawxe:
   term: cuyoyawxe
   class: b
@@ -7732,7 +7642,7 @@ datasayfa:
   translation: kalkultabelo
 dava:
   term: dava
-  class: b
+  class: b.oj
   category: root
   translation: medikamento, kuracilo, drogo; drogi
 davado:
@@ -9483,7 +9393,7 @@ dorote:
   translation: Dorotea
 dose:
   term: dose
-  class: b
+  class: b.oj
   category: root
   translation: dozo; dozi
 doste:
@@ -12768,7 +12678,7 @@ fe_hin_kaso:
   translation: en tiu ĉi kazo, en ĉi tiu kazo, ĉi-tiukaze
 fe_hin_noce:
   term: (fe) hin noce
-  class: jm.p
+  class: jm p
   category: phrase
   translation: ĉinokte, ĉi tiu nokton
 fe_infer:
@@ -15868,7 +15778,7 @@ gubar:
   translation: polvo
 gubarofgi:
   term: gubarofgi
-  class: b
+  class: b.oj
   category: derived
   translation: senpolvigo; senpolvigi
 gubarofgido:
@@ -17970,7 +17880,7 @@ idolgi:
   translation: idoligo; idoligi
 idolibada:
   term: idolibada
-  class: b
+  class: b.oj
   category: derived
   translation: idolismo, idolservo; idolservi
 ife:
@@ -18875,7 +18785,7 @@ inxone:
   translation: impresanta, efektanta; impresante, efektante
 inya:
   term: inya
-  class: b
+  class: b.oj
   category: derived
   translation: interno; esti interna; esti en
 inyo:
@@ -19212,7 +19122,7 @@ ixgalukal:
   term: ixgalukal
   class: t
   category: derived
-  translation: senokupa, neokupita; senokupe, neokupite
+  translation: ""
 ixgalupul:
   term: ixgalupul
   class: t
@@ -19813,6 +19723,16 @@ jenido:
   class: t
   category: derived
   translation: proponita; proponite
+jenlyu:
+  term: jenlyu
+  class: b.oj
+  category: root
+  translation: distilo; distili
+jenlyujiu:
+  term: jenlyujiu
+  class: b
+  category: derived
+  translation: brando
 jenmin:
   term: jenmin
   class: b.oj
@@ -20043,6 +19963,11 @@ jismulogi:
   class: b
   category: derived
   translation: anatomio, korposcienco
+jiu:
+  term: jiu
+  class: b.nenoj
+  category: root
+  translation: drinkaĵo; drinki
 jivaki:
   term: jivaki
   class: b
@@ -20942,7 +20867,7 @@ kalendar:
   translation: kalendaro
 kalgi:
   term: kalgi
-  class: b
+  class: b.oj
   category: derived
   translation: malplenigo; malplenigi
 kalibra:
@@ -23441,6 +23366,11 @@ kotor:
   class: t
   category: root
   translation: malpura; malpure
+kotormarka:
+  term: kotormarka
+  class: b
+  category: derived
+  translation: ""
 kotorya:
   term: kotorya
   class: b
@@ -23569,7 +23499,7 @@ kreayen:
   translation: kreanto, kreinto
 kredito:
   term: kredito
-  class: b
+  class: b.oj
   category: root
   translation: kredito; krediti
 kreditokarta:
@@ -24352,11 +24282,6 @@ lama:
   class: t
   category: root
   translation: malnova, antikva, praa
-lama-:
-  term: lama-
-  class: lfik
-  category: affix
-  translation: pra-, malnova, antikva
 lamabiologi:
   term: lamabiologi
   class: b
@@ -24432,11 +24357,6 @@ lao:
   class: t
   category: root
   translation: maljuna
-lao-:
-  term: lao-
-  class: lfik
-  category: affix
-  translation: maljuna
 laocu:
   term: laocu
   class: b.nenoj
@@ -24444,7 +24364,7 @@ laocu:
   translation: maljuniĝo; maljuniĝi
 laoje:
   term: laoje
-  class: b
+  class: b.oj
   category: derived
   translation: aĝo; aĝi
 laonini:
@@ -24667,7 +24587,7 @@ leaxam:
   translation: antaŭvespero, antaŭa vespero
 ledin:
   term: ledin
-  class: b; m
+  class: b
   category: derived
   translation: hieraŭ, pasintece
 lefe:
@@ -25819,7 +25739,7 @@ lungogi:
   translation: lungigo; lungigi
 lungoje:
   term: lungoje
-  class: b
+  class: b.oj
   category: derived
   translation: longeco (<em>mezuro</em>); mezuri longecon de
 lungowatuli:
@@ -27639,11 +27559,6 @@ meli:
   class: t
   category: root
   translation: bela; bele
-meli-:
-  term: meli-
-  class: lfik
-  category: affix
-  translation: bel-
 melibon:
   term: melibon
   class: t
@@ -30507,7 +30422,7 @@ nercu:
   translation: proksimiĝo; proksimiĝi, alproksimigi
 nerledin:
   term: nerledin
-  class: b; m
+  class: b
   category: derived
   translation: antaŭ kelkaj tagoj
 nerleli:
@@ -30517,7 +30432,7 @@ nerleli:
   translation: freŝdata, nelga; freŝdate, nelge, antaŭ nelonge
 nerxadin:
   term: nerxadin
-  class: b; m
+  class: b
   category: derived
   translation: post kelkaj tagoj
 nerxali:
@@ -31356,6 +31271,11 @@ ofgi:
   class: b.oj
   category: derived
   translation: deigo, demeto; deigi, demeti
+ofidi:
+  term: ofidi
+  class: b.oj
+  category: derived
+  translation: ""
 ofisi:
   term: ofisi
   class: b
@@ -32222,6 +32142,16 @@ palme:
   class: b
   category: root
   translation: palmo, arekaco
+palo:
+  term: palo
+  class: b
+  category: root
+  translation: guŝo, legumo
+palobija:
+  term: palobija
+  class: b
+  category: derived
+  translation: guŝsemo
 pam:
   term: pam
   class: b.oj
@@ -33693,7 +33623,7 @@ plu:
   term: plu
   class: t
   category: root
-  translation: pluraj, -j <em>plureca markilo</em>
+  translation: pluraj
 plu-:
   term: plu-
   class: lfik
@@ -34221,7 +34151,7 @@ posgami:
   translation: eksedzo, eksedzino; eksedzigi, eksedzinigi, divorci
 posgamicu:
   term: posgamicu
-  class: b
+  class: b.nenoj
   category: derived
   translation: divorco, eksedziĝo; divorci, eksedziĝi
 poshay:
@@ -36031,7 +35961,7 @@ rusiyen:
   translation: ruso
 rusoti:
   term: rusoti
-  class: b
+  class: b.nenoj
   category: derived
   translation: eĥo, ekoo; eĥi
 rutenyum:
@@ -36446,14 +36376,9 @@ salvadori:
   translation: Salvadoro
 sama:
   term: sama
-  class: t; d
+  class: d
   category: root
   translation: sama; same
-sama-:
-  term: sama-
-  class: lfik
-  category: affix
-  translation: sam-
 samaete:
   term: samaete
   class: pn
@@ -40208,7 +40133,7 @@ terakota:
   translation: terakoto
 terapi:
   term: terapi
-  class: b
+  class: b.oj
   category: root
   translation: terapio, kuracado; terapii
 terapiyen:
@@ -40293,7 +40218,7 @@ termolil:
   translation: varmeta; varmete
 termometer:
   term: termometer
-  class: b
+  class: b.oj
   category: derived
   translation: termometro; mezuri temperaturo de
 termomosem:
@@ -41830,7 +41755,7 @@ umumi:
   translation: ĝenerala; ĝenerale
 un:
   term: un
-  class: num
+  class: num; d
   category: root
   translation: unu
 un-:
@@ -43151,7 +43076,7 @@ xabahunavi:
   translation: fantoma ŝipo
 xadin:
   term: xadin
-  class: b; m
+  class: b
   category: derived
   translation: morgaŭ, estontece
 xafe:
@@ -45263,7 +45188,7 @@ zungu:
   translation: spuro
 zungufolo:
   term: zungufolo
-  class: b
+  class: b.oj
   category: derived
   translation: spurado; spuri
 zuraka:
