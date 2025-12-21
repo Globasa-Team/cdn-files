@@ -1,14 +1,4 @@
 ---
--abil:
-  term: -abil
-  class: t xfik
-  category: affix
-  translation: -pova, -kapabla; -pove, -kapable
--bisu:
-  term: -bisu
-  class: t xfik
-  category: affix
-  translation: -enda; -ende
 -bol:
   term: -bol
   class: b xfik
@@ -49,11 +39,6 @@
   class: t xfik
   category: affix
   translation: -ema, -eme, inklina, inkline (al)
--fobi:
-  term: -fobi
-  class: b xfik
-  category: affix
-  translation: -fobio
 -fon:
   term: -fon
   class: b xfik
@@ -69,16 +54,6 @@
   class: b xfik
   category: affix
   translation: -angulo
--grafi:
-  term: -grafi
-  class: b xfik
-  category: affix
-  translation: registrado, registraĵo, rikordo
--ible:
-  term: -ible
-  class: t xfik
-  category: affix
-  translation: -eble
 -ina:
   term: -ina
   class: b xfik
@@ -94,11 +69,6 @@
   class: b xfik
   category: affix
   translation: -isto (<em>nur rilate al -ismo</em>)
--itis:
-  term: -itis
-  class: b xfik
-  category: affix
-  translation: -inflamo, -ito
 -je:
   term: -je
   class: b xfik
@@ -114,26 +84,11 @@
   class: b xfik
   category: affix
   translation: -estro
--kolordo:
-  term: -kolordo
-  class: t xfik
-  category: affix
-  translation: nuanco de kolor
--krasi:
-  term: -krasi
-  class: b xfik
-  category: affix
-  translation: (tipo de) registraro, -kratio
 -lari:
   term: -lari
   class: b xfik
   category: affix
   translation: -aro
--laye:
-  term: -laye
-  class: t xfik
-  category: affix
-  translation: -inda, -inde
 -li:
   term: -li
   class: t xfik
@@ -149,21 +104,6 @@
   class: b xfik
   category: affix
   translation: -logio, fako, -scienco, filozofio, -studo, -arto
--mansi:
-  term: -mansi
-  class: b xfik
-  category: affix
-  translation: -mancio
--maxina:
-  term: -maxina
-  class: b xfik
-  category: affix
-  translation: maŝino, aparato (<em>fiksita al substantivoj</em>)
--medis:
-  term: -medis
-  class: b xfik
-  category: affix
-  translation: medicino
 -mo:
   term: -mo
   class: m xfik
@@ -174,11 +114,6 @@
   class: b xfik
   category: affix
   translation: -ero, elemento, unuo
--musi:
-  term: -musi
-  class: t xfik
-  category: affix
-  translation: kiu devas ___i
 -ne:
   term: -ne
   class: t xfik
@@ -9636,11 +9571,6 @@ dua:
   class: num
   category: root
   translation: du
-dua-:
-  term: dua-
-  class: lfik
-  category: affix
-  translation: du-
 dua_giga:
   term: dua giga
   class: num
@@ -14628,11 +14558,6 @@ gami:
   class: b.oj
   category: root
   translation: edzo, edzino; edziĝi, edziniĝi, geedziĝi, edzigi, edzinigi, geedzigi
-gami-:
-  term: gami-
-  class: lfik
-  category: affix
-  translation: bo-
 gamiatre:
   term: gamiatre
   class: b
@@ -16613,11 +16538,6 @@ hawa:
   class: b
   category: root
   translation: aero
-hawa-:
-  term: hawa-
-  class: lfik
-  category: affix
-  translation: aer-, aero-
 hawagile:
   term: hawagile
   class: t
@@ -18043,6 +17963,11 @@ imanu:
   class: b.oj
   category: root
   translation: kredo; kredi
+imanu-nenible:
+  term: imanu-nenible
+  class: t
+  category: derived
+  translation: nekredebla; nekredeble
 imanugi:
   term: imanugi
   class: b.oj
@@ -18053,11 +17978,6 @@ imanuible:
   class: t
   category: derived
   translation: kredebla; kredeble
-imanunenible:
-  term: imanunenible
-  class: t
-  category: derived
-  translation: nekredebla; nekredeble
 imanuyen:
   term: imanuyen
   class: b
@@ -19122,7 +19042,7 @@ ixgalukal:
   term: ixgalukal
   class: t
   category: derived
-  translation: ""
+  translation: senokupa; senokupe
 ixgalupul:
   term: ixgalupul
   class: t
@@ -19967,7 +19887,7 @@ jiu:
   term: jiu
   class: b.nenoj
   category: root
-  translation: drinkaĵo; drinki
+  translation: alkoholaĵo, alkohola trinkaĵo, drinkaĵo; drinki
 jivaki:
   term: jivaki
   class: b
@@ -20118,11 +20038,6 @@ jowey:
   class: b
   category: root
   translation: ĉirkaŭaĵoj, ĉirkaŭejo, medio
-jowey-:
-  term: jowey-
-  class: lfik
-  category: affix
-  translation: ĉirkaŭ (<em>en la spaco proksima al</em>)
 joxu:
   term: joxu
   class: b.oro
@@ -20364,11 +20279,6 @@ juni:
   class: t
   category: root
   translation: juna; june
-juni-:
-  term: juni-
-  class: lfik
-  category: affix
-  translation: -id-
 junibabur:
   term: junibabur
   class: b
@@ -22286,6 +22196,11 @@ kiribatisa:
   class: b
   category: derived
   translation: la kiribata (lingvo)
+kiroprati:
+  term: kiroprati
+  class: b
+  category: root
+  translation: kiropraktiko, ĥiropraktiko
 kisencun:
   term: kisencun
   class: b
@@ -22681,6 +22596,11 @@ kolorarko:
   class: b
   category: derived
   translation: ĉielarko
+kolordo:
+  term: kolordo
+  class: t
+  category: derived
+  translation: nuanco de kolor
 kolorokobimar:
   term: kolorokobimar
   class: t
@@ -23140,7 +23060,7 @@ kopihaki:
   term: kopihaki
   class: b.oj
   category: derived
-  translation: kopirajto
+  translation: kopirajto; kopirajti
 korbani:
   term: korbani
   class: b
@@ -24595,11 +24515,6 @@ lefe:
   class: p
   category: derived
   translation: antaŭ
-lefe-:
-  term: lefe-
-  class: lfik
-  category: affix
-  translation: antaŭ-
 lefe_dento:
   term: lefe dento
   class: p jm
@@ -30305,11 +30220,6 @@ neo:
   class: t
   category: root
   translation: nova; nove
-neo-:
-  term: neo-
-  class: lfik
-  category: affix
-  translation: nov-
 neodimyum:
   term: neodimyum
   class: b
@@ -31606,11 +31516,6 @@ opos:
   class: t
   category: root
   translation: mala; male
-opos-:
-  term: opos-
-  class: lfik
-  category: affix
-  translation: kontraŭ-
 oposaksyon:
   term: oposaksyon
   class: b.oj
@@ -34834,6 +34739,11 @@ puzle:
   class: b
   category: root
   translation: puzlo
+pwen:
+  term: pwen
+  class: b
+  category: root
+  translation: poento
 pyale:
   term: pyale
   class: b
@@ -37040,6 +36950,11 @@ seksovole:
   class: b.nenoj
   category: derived
   translation: afrodizio; afrodizii, seksardi, seksavidi, sekslogiĝi, amorvekiĝi
+sekular:
+  term: sekular
+  class: t
+  category: root
+  translation: sekulara; sekulare
 sekundo:
   term: sekundo
   class: b
@@ -43084,11 +42999,6 @@ xafe:
   class: p
   category: derived
   translation: post
-xafe-:
-  term: xafe-
-  class: lfik
-  category: affix
-  translation: post-
 xafe_dento:
   term: xafe dento
   class: p jm

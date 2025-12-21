@@ -1,14 +1,4 @@
 ---
--abil:
-  term: -abil
-  class: t xfik
-  category: affix
-  translation: que puede, -ente, -ivo, -ero, -al, -il
--bisu:
-  term: -bisu
-  class: t xfik
-  category: affix
-  translation: que tiene que ser, que debe ser
 -bol:
   term: -bol
   class: b xfik
@@ -51,11 +41,6 @@
   class: t xfik
   category: affix
   translation: -ento, -izo, -ivo, -&oacute;n, -oso
--fobi:
-  term: -fobi
-  class: b xfik
-  category: affix
-  translation: -fobia
 -fon:
   term: -fon
   class: b xfik
@@ -72,16 +57,6 @@
   class: b xfik
   category: affix
   translation: -gono (<em>pol&iacute;gono</em>)
--grafi:
-  term: -grafi
-  class: b xfik
-  category: affix
-  translation: -graf&iacute;a, -grama, grabaci&oacute;n, registro
--ible:
-  term: -ible
-  class: t xfik
-  category: affix
-  translation: que puede ser, -ible, -able, apto para
 -ina:
   term: -ina
   class: b xfik
@@ -97,11 +72,6 @@
   class: b xfik
   category: affix
   translation: -ista (<em>partidario</em>)
--itis:
-  term: -itis
-  class: b xfik
-  category: affix
-  translation: -itis, inflamaci&oacute;n de
 -je:
   term: -je
   class: b xfik
@@ -117,26 +87,11 @@
   class: b xfik
   category: affix
   translation: jefe, dirigente
--kolordo:
-  term: -kolordo
-  class: t xfik
-  category: affix
-  translation: de color (de)
--krasi:
-  term: -krasi
-  class: b xfik
-  category: affix
-  translation: -cracia, -arqu&iacute;a, (tipo de) gobierno
 -lari:
   term: -lari
   class: b xfik
   category: affix
   translation: grupo colectivo
--laye:
-  term: -laye
-  class: t xfik
-  category: affix
-  translation: digno de, que merece
 -li:
   term: -li
   class: t xfik
@@ -152,21 +107,6 @@
   class: b xfik
   category: affix
   translation: -log&iacute;a, -ica(s), -graf&iacute;a, -&iacute;a
--mansi:
-  term: -mansi
-  class: b xfik
-  category: affix
-  translation: -mancia, -manc&iacute;a
--maxina:
-  term: -maxina
-  class: b xfik
-  category: affix
-  translation: -dor(a) (<em>m&aacute;quina de/para; agregado a sustantivos</em>)
--medis:
-  term: -medis
-  class: b xfik
-  category: affix
-  translation: -iatr&iacute;a (<em>pr&aacute;ctica m&eacute;dica</em>), -log&iacute;a
 -mo:
   term: -mo
   class: m xfik
@@ -178,11 +118,6 @@
   category: affix
   translation: art&iacute;culo, elemento, parte (distinguible), pieza, unidad (<em>de
     un todo</em>), componente, part&iacute;cula
--musi:
-  term: -musi
-  class: t xfik
-  category: affix
-  translation: que tiene que
 -ne:
   term: -ne
   class: t xfik
@@ -9729,11 +9664,6 @@ dua:
   class: num
   category: root
   translation: dos
-dua-:
-  term: dua-
-  class: lfik
-  category: affix
-  translation: bi-, di-, d(u)o-, anfi-
 dua_giga:
   term: dua giga
   class: num
@@ -14759,11 +14689,6 @@ gami:
   class: b.oj
   category: root
   translation: esposo, c&oacute;nyuge; casarse (con)
-gami-:
-  term: gami-
-  class: lfik
-  category: affix
-  translation: pol&iacute;tico (<em>parentesco</em>)
 gamiatre:
   term: gamiatre
   class: b
@@ -16763,11 +16688,6 @@ hawa:
   class: b
   category: root
   translation: aire
-hawa-:
-  term: hawa-
-  class: lfik
-  category: affix
-  translation: aero-
 hawagile:
   term: hawagile
   class: t
@@ -18203,6 +18123,11 @@ imanu:
   class: b.oj
   category: root
   translation: creencia; creer
+imanu-nenible:
+  term: imanu-nenible
+  class: t
+  category: derived
+  translation: incre&iacute;ble; incre&iacute;blemente
 imanugi:
   term: imanugi
   class: b.oj
@@ -18213,11 +18138,6 @@ imanuible:
   class: t
   category: derived
   translation: cre&iacute;ble; cre&iacute;blemente
-imanunenible:
-  term: imanunenible
-  class: t
-  category: derived
-  translation: incre&iacute;ble; incre&iacute;blemente
 imanuyen:
   term: imanuyen
   class: b
@@ -20144,8 +20064,8 @@ jiu:
   term: jiu
   class: b.nenoj
   category: root
-  translation: trago, copa, alip&uacute;s, drink; beber, tomar, trincar, pimplar,
-    chupar, drinkear
+  translation: bebida alcoh&oacute;lica, trago, copa, alip&uacute;s, drink; beber,
+    tomar, trincar, pimplar, chupar, drinkear
 jivaki:
   term: jivaki
   class: b
@@ -20301,12 +20221,6 @@ jowey:
   class: b
   category: root
   translation: entorno, alrededor(es)
-jowey-:
-  term: jowey-
-  class: lfik
-  category: affix
-  translation: por ah&iacute;, por doquier, por todos lados, de un lado a otro, sin
-    rumbo (fijo), al tunt&uacute;n, sin prop&oacute;sito
 joxu:
   term: joxu
   class: b.oro
@@ -20549,11 +20463,6 @@ juni:
   class: t
   category: root
   translation: joven
-juni-:
-  term: juni-
-  class: lfik
-  category: affix
-  translation: cr&iacute;a de
 junibabur:
   term: junibabur
   class: b
@@ -22487,6 +22396,11 @@ kiribatisa:
   class: b
   category: derived
   translation: (idioma) kiribatiano
+kiroprati:
+  term: kiroprati
+  class: b
+  category: root
+  translation: quiropr&aacute;ctica, quiropraxia
 kisencun:
   term: kisencun
   class: b
@@ -22884,6 +22798,11 @@ kolorarko:
   class: b
   category: derived
   translation: arco&iacute;ris, arco iris
+kolordo:
+  term: kolordo
+  class: t
+  category: derived
+  translation: de color (de)
 kolorokobimar:
   term: kolorokobimar
   class: t
@@ -24813,11 +24732,6 @@ lefe:
   class: p
   category: derived
   translation: antes (de), hace
-lefe-:
-  term: lefe-
-  class: lfik
-  category: affix
-  translation: pre-, ante-
 lefe_dento:
   term: lefe dento
   class: p jm
@@ -30576,11 +30490,6 @@ neo:
   class: t
   category: root
   translation: nuevo
-neo-:
-  term: neo-
-  class: lfik
-  category: affix
-  translation: neo-, novo-
 neodimyum:
   term: neodimyum
   class: b
@@ -31891,11 +31800,6 @@ opos:
   class: t
   category: root
   translation: opuesto, contrario; opuestamente, contrariamente
-opos-:
-  term: opos-
-  class: lfik
-  category: affix
-  translation: contra-
 oposaksyon:
   term: oposaksyon
   class: b.oj
@@ -35157,6 +35061,11 @@ puzle:
   class: b
   category: root
   translation: acertijo, adivinanza, rompecabezas
+pwen:
+  term: pwen
+  class: b
+  category: root
+  translation: punto (<em>unidad de puntaje</em>)
 pyale:
   term: pyale
   class: b
@@ -37379,6 +37288,11 @@ seksovole:
   class: b.nenoj
   category: derived
   translation: excitaci&oacute;n sexual; estar excitado
+sekular:
+  term: sekular
+  class: t
+  category: root
+  translation: seglar, secular
 sekundo:
   term: sekundo
   class: b
@@ -43470,11 +43384,6 @@ xafe:
   class: p
   category: derived
   translation: despu&eacute;s (de), en (<em>+ periodo de tiempo</em>), dentro de
-xafe-:
-  term: xafe-
-  class: lfik
-  category: affix
-  translation: pos(t)-, tras-
 xafe_dento:
   term: xafe dento
   class: p jm

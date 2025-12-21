@@ -1,14 +1,4 @@
 ---
--abil:
-  term: -abil
-  class: t xfik
-  category: affix
-  translation: f&auml;hig, in der Lage, -f&auml;hig, -tauglich
--bisu:
-  term: -bisu
-  class: t xfik
-  category: affix
-  translation: ""
 -bol:
   term: -bol
   class: b xfik
@@ -49,11 +39,6 @@
   class: t xfik
   category: affix
   translation: ""
--fobi:
-  term: -fobi
-  class: b xfik
-  category: affix
-  translation: Phobie
 -fon:
   term: -fon
   class: b xfik
@@ -69,16 +54,6 @@
   class: b xfik
   category: affix
   translation: ""
--grafi:
-  term: -grafi
-  class: b xfik
-  category: affix
-  translation: Aufzeichnung, Darstellung
--ible:
-  term: -ible
-  class: t xfik
-  category: affix
-  translation: ""
 -ina:
   term: -ina
   class: b xfik
@@ -91,11 +66,6 @@
   translation: ""
 -ista:
   term: -ista
-  class: b xfik
-  category: affix
-  translation: ""
--itis:
-  term: -itis
   class: b xfik
   category: affix
   translation: ""
@@ -114,24 +84,9 @@
   class: b xfik
   category: affix
   translation: ""
--kolordo:
-  term: -kolordo
-  class: t xfik
-  category: affix
-  translation: ""
--krasi:
-  term: -krasi
-  class: b xfik
-  category: affix
-  translation: ""
 -lari:
   term: -lari
   class: b xfik
-  category: affix
-  translation: ""
--laye:
-  term: -laye
-  class: t xfik
   category: affix
   translation: ""
 -li:
@@ -149,21 +104,6 @@
   class: b xfik
   category: affix
   translation: ""
--mansi:
-  term: -mansi
-  class: b xfik
-  category: affix
-  translation: ""
--maxina:
-  term: -maxina
-  class: b xfik
-  category: affix
-  translation: ""
--medis:
-  term: -medis
-  class: b xfik
-  category: affix
-  translation: Arztpraxis
 -mo:
   term: -mo
   class: m xfik
@@ -172,11 +112,6 @@
 -mon:
   term: -mon
   class: b xfik
-  category: affix
-  translation: ""
--musi:
-  term: -musi
-  class: t xfik
   category: affix
   translation: ""
 -ne:
@@ -9631,11 +9566,6 @@ dua:
   class: num
   category: root
   translation: zwei
-dua-:
-  term: dua-
-  class: lfik
-  category: affix
-  translation: ""
 dua_giga:
   term: dua giga
   class: num
@@ -14617,11 +14547,6 @@ gami:
   class: b.oj
   category: root
   translation: ""
-gami-:
-  term: gami-
-  class: lfik
-  category: affix
-  translation: schwieger-
 gamiatre:
   term: gamiatre
   class: b
@@ -16597,11 +16522,6 @@ hawa:
   class: b
   category: root
   translation: Luft
-hawa-:
-  term: hawa-
-  class: lfik
-  category: affix
-  translation: ""
 hawagile:
   term: hawagile
   class: t
@@ -18027,6 +17947,11 @@ imanu:
   class: b.oj
   category: root
   translation: ""
+imanu-nenible:
+  term: imanu-nenible
+  class: t
+  category: derived
+  translation: ""
 imanugi:
   term: imanugi
   class: b.oj
@@ -18034,11 +17959,6 @@ imanugi:
   translation: ""
 imanuible:
   term: imanuible
-  class: t
-  category: derived
-  translation: ""
-imanunenible:
-  term: imanunenible
   class: t
   category: derived
   translation: ""
@@ -20102,11 +20022,6 @@ jowey:
   class: b
   category: root
   translation: ""
-jowey-:
-  term: jowey-
-  class: lfik
-  category: affix
-  translation: ""
 joxu:
   term: joxu
   class: b.oro
@@ -20347,11 +20262,6 @@ juni:
   class: t
   category: root
   translation: jung, jugendlich
-juni-:
-  term: juni-
-  class: lfik
-  category: affix
-  translation: ""
 junibabur:
   term: junibabur
   class: b
@@ -22267,6 +22177,11 @@ kiribatisa:
   class: b
   category: derived
   translation: ""
+kiroprati:
+  term: kiroprati
+  class: b
+  category: root
+  translation: Chiropraktik
 kisencun:
   term: kisencun
   class: b
@@ -22660,6 +22575,11 @@ kolor:
 kolorarko:
   term: kolorarko
   class: b
+  category: derived
+  translation: ""
+kolordo:
+  term: kolordo
+  class: t
   category: derived
   translation: ""
 kolorokobimar:
@@ -24571,11 +24491,6 @@ lefe:
   term: lefe
   class: p
   category: derived
-  translation: ""
-lefe-:
-  term: lefe-
-  class: lfik
-  category: affix
   translation: ""
 lefe_dento:
   term: lefe dento
@@ -30278,11 +30193,6 @@ neo:
   class: t
   category: root
   translation: ""
-neo-:
-  term: neo-
-  class: lfik
-  category: affix
-  translation: ""
 neodimyum:
   term: neodimyum
   class: b
@@ -31577,11 +31487,6 @@ opos:
   term: opos
   class: t
   category: root
-  translation: ""
-opos-:
-  term: opos-
-  class: lfik
-  category: affix
   translation: ""
 oposaksyon:
   term: oposaksyon
@@ -34803,6 +34708,11 @@ puzle:
   class: b
   category: root
   translation: Puzzle(spiel)
+pwen:
+  term: pwen
+  class: b
+  category: root
+  translation: ""
 pyale:
   term: pyale
   class: b
@@ -37008,6 +36918,11 @@ seksovole:
   class: b.nenoj
   category: derived
   translation: ""
+sekular:
+  term: sekular
+  class: t
+  category: root
+  translation: s&auml;kular, weltlich
 sekundo:
   term: sekundo
   class: b
@@ -43048,11 +42963,6 @@ xafe:
   term: xafe
   class: p
   category: derived
-  translation: ""
-xafe-:
-  term: xafe-
-  class: lfik
-  category: affix
   translation: ""
 xafe_dento:
   term: xafe dento

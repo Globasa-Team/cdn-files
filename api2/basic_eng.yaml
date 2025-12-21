@@ -1,14 +1,4 @@
 ---
--abil:
-  term: -abil
-  class: t xfik
-  category: affix
-  translation: which can (be), -able, -ible
--bisu:
-  term: -bisu
-  class: t xfik
-  category: affix
-  translation: which must be done, which must happen, must-
 -bol:
   term: -bol
   class: b xfik
@@ -49,11 +39,6 @@
   class: t xfik
   category: affix
   translation: inclined (to), prone (to), tending (to, towards)
--fobi:
-  term: -fobi
-  class: b xfik
-  category: affix
-  translation: phobia
 -fon:
   term: -fon
   class: b xfik
@@ -69,16 +54,6 @@
   class: b xfik
   category: affix
   translation: -agon
--grafi:
-  term: -grafi
-  class: b xfik
-  category: affix
-  translation: 'recording '
--ible:
-  term: -ible
-  class: t xfik
-  category: affix
-  translation: which can be, -ible, -able
 -ina:
   term: -ina
   class: b xfik
@@ -94,11 +69,6 @@
   class: b xfik
   category: affix
   translation: -ist
--itis:
-  term: -itis
-  class: b xfik
-  category: affix
-  translation: inflammation (of), -itis
 -je:
   term: -je
   class: b xfik
@@ -114,26 +84,11 @@
   class: b xfik
   category: affix
   translation: chief, head, boss, lead, master
--kolordo:
-  term: -kolordo
-  class: t xfik
-  category: affix
-  translation: shade of color
--krasi:
-  term: -krasi
-  class: b xfik
-  category: affix
-  translation: (type of) government
 -lari:
   term: -lari
   class: b xfik
   category: affix
   translation: collective group
--laye:
-  term: -laye
-  class: t xfik
-  category: affix
-  translation: worthy
 -li:
   term: -li
   class: t xfik
@@ -149,21 +104,6 @@
   class: b xfik
   category: affix
   translation: specialty, science (of), philosophy (of), study (of), art (of)
--mansi:
-  term: -mansi
-  class: b xfik
-  category: affix
-  translation: -mancy
--maxina:
-  term: -maxina
-  class: b xfik
-  category: affix
-  translation: 'attached to nouns: machine, device, apparatus'
--medis:
-  term: -medis
-  class: b xfik
-  category: affix
-  translation: medical practice
 -mo:
   term: -mo
   class: m xfik
@@ -174,11 +114,6 @@
   class: b xfik
   category: affix
   translation: element, unit (<em>of a whole</em>)
--musi:
-  term: -musi
-  class: t xfik
-  category: affix
-  translation: which must
 -ne:
   term: -ne
   class: t xfik
@@ -288,7 +223,8 @@ abil:
   term: abil
   class: t; f.sah
   category: root
-  translation: able, capable; capably; be able, can
+  translation: able, capable, which can (be), -able, -ible; capably, -ably, -ibly;
+    be able, can
 abil_na_kari:
   term: abil na kari
   class: b.oj
@@ -4873,8 +4809,8 @@ bisu:
   term: bisu
   class: t
   category: root
-  translation: compulsory, mandatory, indispensable, essential, which must be done,
-    which must happen
+  translation: 'compulsory, mandatory, indispensable, essential; root-suffix: which
+    must be done, which must happen, must-'
 biti:
   term: biti
   class: b
@@ -9675,12 +9611,7 @@ dua:
   term: dua
   class: num
   category: root
-  translation: two
-dua-:
-  term: dua-
-  class: lfik
-  category: affix
-  translation: bi-
+  translation: two, bi-
 dua_giga:
   term: dua giga
   class: num
@@ -12513,10 +12444,10 @@ fe:
   class: p
   category: root
   translation: at (<em>time</em>), in (<em>month or year</em>), on (<em>date or day
-    of the week</em>), at (<em>phrasal preposition, or location other than within</em>),
-    for (<em>for the first time, etc.</em>), for (<em>in one&#039;s case or experience</em>,
-    <em>in the case or experience of</em>), of (<em>relating to, number, quantity,
-    amount</em>), <em>forms common prepositional phrases</em>
+    of the week</em>), for (<em>for the first time, etc.</em>), for (<em>in one&#039;s
+    case or experience</em>, <em>in the case or experience of</em>), of (<em>relating
+    to, number, quantity, amount</em>), <em>introduces common prepositional phrases</em>,
+    <em>used in phrasal prepositions</em>, <em>vague locative preposition</em>
 fe_alo_kaso:
   term: fe alo kaso
   class: p jm
@@ -13869,8 +13800,8 @@ fobi:
   term: fobi
   class: b.oro
   category: root
-  translation: 'fear; tr: frighten, scare; intr: be (<em>feel</em>) frightened, be
-    (<em>feel</em>) scared'
+  translation: 'fear, -phobia; tr: frighten, scare; intr: be (<em>feel</em>) frightened,
+    be (<em>feel</em>) scared'
 fobicu:
   term: fobicu
   class: b.nenoj
@@ -14690,12 +14621,7 @@ gami:
   term: gami
   class: b.oj
   category: root
-  translation: spouse, husband, wife; marry, wed
-gami-:
-  term: gami-
-  class: lfik
-  category: affix
-  translation: -in-law, in-law
+  translation: 'spouse, husband, wife; root-prefix: -in-law; marry, wed'
 gamiatre:
   term: gamiatre
   class: b
@@ -15712,7 +15638,7 @@ grafi:
   term: grafi
   class: b.oj
   category: root
-  translation: recording, record; record
+  translation: recording, record, -graphy; record
 grafika:
   term: grafika
   class: b
@@ -16686,12 +16612,7 @@ hawa:
   term: hawa
   class: b
   category: root
-  translation: air
-hawa-:
-  term: hawa-
-  class: lfik
-  category: affix
-  translation: aero-, air-
+  translation: air, aero-, air-
 hawagile:
   term: hawagile
   class: t
@@ -17906,8 +17827,8 @@ ible:
   term: ible
   class: t
   category: root
-  translation: possible, potential, which can be done, which can happen; maybe, perhaps,
-    might, possibly, potentially
+  translation: possible, potential, which can be (done), which can happen, -ible,
+    -able; maybe, perhaps, might, possibly, potentially, -ibly, -ably
 iblegi:
   term: iblegi
   class: b.oj
@@ -18123,6 +18044,11 @@ imanu:
   class: b.oj
   category: root
   translation: belief; believe
+imanu-nenible:
+  term: imanu-nenible
+  class: t
+  category: derived
+  translation: incredible, unbelievable; incredibly, unbelievably
 imanugi:
   term: imanugi
   class: b.oj
@@ -18133,11 +18059,6 @@ imanuible:
   class: t
   category: derived
   translation: credible, believable; credibly, believably
-imanunenible:
-  term: imanunenible
-  class: t
-  category: derived
-  translation: incredible, unbelievable; incredibly, unbelievably
 imanuyen:
   term: imanuyen
   class: b
@@ -19109,7 +19030,8 @@ itis:
   term: itis
   class: b.oro
   category: root
-  translation: 'inflammation; tr: inflame; intr: suffer from inflammation, be inflamed'
+  translation: 'inflammation (of), -itis; tr: inflame; intr: suffer from inflammation,
+    be inflamed'
 itisli:
   term: itisli
   class: t
@@ -20200,12 +20122,8 @@ jowey:
   term: jowey
   class: b
   category: root
-  translation: surroundings, environment, vicinity
-jowey-:
-  term: jowey-
-  class: lfik
-  category: affix
-  translation: around, about, within the vicinity, aimlessly
+  translation: 'surroundings, environment, vicinity; root-prefix: around, about, within
+    the vicinity, aimlessly'
 joxu:
   term: joxu
   class: b.oro
@@ -20447,12 +20365,7 @@ juni:
   term: juni
   class: t
   category: root
-  translation: young
-juni-:
-  term: juni-
-  class: lfik
-  category: affix
-  translation: offspring, young
+  translation: 'young; root-prefix: offspring, young'
 junibabur:
   term: junibabur
   class: b
@@ -21530,7 +21443,7 @@ karlo:
   term: Karlo
   class: su n
   category: proper word
-  translation: Carl
+  translation: Charles, Carl
 karma:
   term: karma
   class: b
@@ -22375,6 +22288,11 @@ kiribatisa:
   class: b
   category: derived
   translation: Gilbertese (language)
+kiroprati:
+  term: kiroprati
+  class: b
+  category: root
+  translation: chiropractic, chiropracty, chiropraxy
 kisencun:
   term: kisencun
   class: b
@@ -22772,6 +22690,11 @@ kolorarko:
   class: b
   category: derived
   translation: rainbow
+kolordo:
+  term: kolordo
+  class: t
+  category: derived
+  translation: 'colored; root-suffix: shade of color'
 kolorokobimar:
   term: kolorokobimar
   class: t
@@ -23238,7 +23161,7 @@ kopihaki:
   term: kopihaki
   class: b.oj
   category: derived
-  translation: copyright
+  translation: copyright; copyright
 korbani:
   term: korbani
   class: b
@@ -24694,12 +24617,7 @@ lefe:
   term: lefe
   class: p
   category: derived
-  translation: before (<em>+ noun, -ing</em>), ago
-lefe-:
-  term: lefe-
-  class: lfik
-  category: affix
-  translation: pre-, fore-
+  translation: before (<em>+ noun, -ing</em>), ago, pre-, fore-
 lefe_dento:
   term: lefe dento
   class: p jm
@@ -26717,7 +26635,7 @@ mansi:
   term: mansi
   class: b.oj
   category: root
-  translation: divination, augury; divine, augur, foretell, foresee
+  translation: divination, augury, -mancy; divine, augur, foretell, foresee
 mansinga:
   term: mansinga
   class: b
@@ -27319,7 +27237,7 @@ maxina:
   term: maxina
   class: b
   category: root
-  translation: machine
+  translation: 'machine; suffix (<em>attached to nouns</em>): machine, device, apparatus'
 maxkurtocu:
   term: maxkurtocu
   class: b.nenoj
@@ -27507,8 +27425,8 @@ medis:
   term: medis
   class: b.oj
   category: root
-  translation: medicine (<em>science, practice</em>); treat (<em>practice medicine
-    on</em>)
+  translation: medicine (<em>science, practice</em>), medical practice; treat (<em>practice
+    medicine on</em>)
 medisdo:
   term: medisdo
   class: t
@@ -30422,12 +30340,7 @@ neo:
   term: neo
   class: t
   category: root
-  translation: new
-neo-:
-  term: neo-
-  class: lfik
-  category: affix
-  translation: neo-
+  translation: new, neo-
 neodimyum:
   term: neodimyum
   class: b
@@ -31727,12 +31640,7 @@ opos:
   term: opos
   class: t
   category: root
-  translation: opposite; oppositely
-opos-:
-  term: opos-
-  class: lfik
-  category: affix
-  translation: counter-
+  translation: opposite, counter-; oppositely
 oposaksyon:
   term: oposaksyon
   class: b.oj
@@ -34963,6 +34871,11 @@ puzle:
   class: b
   category: root
   translation: puzzle (game)
+pwen:
+  term: pwen
+  class: b
+  category: root
+  translation: point
 pyale:
   term: pyale
   class: b
@@ -37173,6 +37086,11 @@ seksovole:
   class: b.nenoj
   category: derived
   translation: sexual arousal; be horny, be sexually aroused
+sekular:
+  term: sekular
+  class: t
+  category: root
+  translation: secular, wordly; secularly
 sekundo:
   term: sekundo
   class: b
@@ -43231,12 +43149,7 @@ xafe:
   class: p
   category: derived
   translation: after (<em>+ noun, -ing</em>), in (<em>+ period of time</em>), (<em>period
-    of time +</em>) from now
-xafe-:
-  term: xafe-
-  class: lfik
-  category: affix
-  translation: post-
+    of time +</em>) from now, post-
 xafe_dento:
   term: xafe dento
   class: p jm
