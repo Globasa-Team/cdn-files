@@ -29,11 +29,6 @@
   class: b xfik
   category: affix
   translation: ""
--ente:
-  term: -ente
-  class: b xfik
-  category: affix
-  translation: ""
 -fil:
   term: -fil
   class: t xfik
@@ -84,11 +79,6 @@
   class: b xfik
   category: affix
   translation: ""
--lari:
-  term: -lari
-  class: b xfik
-  category: affix
-  translation: ""
 -li:
   term: -li
   class: t xfik
@@ -99,11 +89,6 @@
   class: t xfik
   category: affix
   translation: ""
--logi:
-  term: -logi
-  class: b xfik
-  category: affix
-  translation: -логия, -ведение, -знание
 -mo:
   term: -mo
   class: m xfik
@@ -119,11 +104,6 @@
   class: t xfik
   category: affix
   translation: ""
--osis:
-  term: -osis
-  class: b xfik
-  category: affix
-  translation: -оз
 -pel:
   term: -pel
   class: b xfik
@@ -156,11 +136,6 @@
   translation: ""
 -tim:
   term: -tim
-  class: b xfik
-  category: affix
-  translation: ""
--tora:
-  term: -tora
   class: b xfik
   category: affix
   translation: ""
@@ -3289,8 +3264,8 @@ bakalao:
   class: b
   category: root
   translation: треска
-bakugamon:
-  term: bakugamon
+bakgamon:
+  term: bakgamon
   class: b
   category: root
   translation: ""
@@ -11482,15 +11457,15 @@ estodo:
   class: t
   category: derived
   translation: ""
-estodom:
-  term: estodom
-  class: b
-  category: derived
-  translation: ""
 estoka:
   term: estoka
   class: b.oj
   category: root
+  translation: ""
+estoloka:
+  term: estoloka
+  class: b
+  category: derived
   translation: ""
 estomotsufono:
   term: estomotsufono
@@ -11722,10 +11697,10 @@ evolugi:
   class: b.oj
   category: derived
   translation: ""
-evoluli_teori:
-  term: evoluli teori
+evoluteori:
+  term: evoluteori
   class: b
-  category: phrase
+  category: derived
   translation: ""
 ewfonyum:
   term: ewfonyum
@@ -39023,6 +38998,11 @@ syensi:
   class: b
   category: root
   translation: наука
+syensifiksyon:
+  term: syensifiksyon
+  class: b
+  category: derived
+  translation: ""
 syensili:
   term: syensili
   class: t
@@ -39998,6 +39978,11 @@ teori:
   class: b
   category: root
   translation: теория
+teori_fe_evolu:
+  term: teori fe evolu
+  class: b
+  category: phrase
+  translation: ""
 teorili:
   term: teorili
   class: t

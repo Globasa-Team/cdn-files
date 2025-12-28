@@ -31,11 +31,6 @@
   class: b xfik
   category: affix
   translation: -ero (<em>lugar</em>), -(er)&iacute;a, -dor, -ario
--ente:
-  term: -ente
-  class: b xfik
-  category: affix
-  translation: agente (<em>inanimado</em>)
 -fil:
   term: -fil
   class: t xfik
@@ -87,11 +82,6 @@
   class: b xfik
   category: affix
   translation: jefe, dirigente
--lari:
-  term: -lari
-  class: b xfik
-  category: affix
-  translation: grupo colectivo
 -li:
   term: -li
   class: t xfik
@@ -102,11 +92,6 @@
   class: t xfik
   category: affix
   translation: ""
--logi:
-  term: -logi
-  class: b xfik
-  category: affix
-  translation: -log&iacute;a, -ica(s), -graf&iacute;a, -&iacute;a
 -mo:
   term: -mo
   class: m xfik
@@ -123,11 +108,6 @@
   class: t xfik
   category: affix
   translation: -(a)nte, -ente, en estado o proceso activo de
--osis:
-  term: -osis
-  class: b xfik
-  category: affix
-  translation: patolog&iacute;a (<em>conjunto de s&iacute;ntomas</em>)
 -pel:
   term: -pel
   class: b xfik
@@ -166,11 +146,6 @@
   class: b xfik
   category: affix
   translation: equipo, grupo
--tora:
-  term: -tora
-  class: b xfik
-  category: affix
-  translation: -dor(a) (<em>m&aacute;quina; agregado a verbos</em>)
 -tul:
   term: -tul
   class: b xfik
@@ -3333,8 +3308,8 @@ bakalao:
   class: b
   category: root
   translation: bacalao, <em>Gadus</em>
-bakugamon:
-  term: bakugamon
+bakgamon:
+  term: bakgamon
   class: b
   category: root
   translation: <em>backgammon</em>
@@ -11594,17 +11569,17 @@ estodo:
   class: t
   category: derived
   translation: detenido, parado
-estodom:
-  term: estodom
-  class: b
-  category: derived
-  translation: parada (de transporte), paradero
 estoka:
   term: estoka
   class: b.oj
   category: root
   translation: inventario, existencias, almacenaje, relaci&oacute;n, <em>stock</em>,
     estocaje; tener (en existencias)
+estoloka:
+  term: estoloka
+  class: b
+  category: derived
+  translation: parada (de transporte), paradero
 estomotsufono:
   term: estomotsufono
   class: b
@@ -11836,11 +11811,11 @@ evolugi:
   class: b.oj
   category: derived
   translation: desarrollo; desarrollar, hacer evolucionar
-evoluli_teori:
-  term: evoluli teori
+evoluteori:
+  term: evoluteori
   class: b
-  category: phrase
-  translation: teor&iacute;a de la evoluci&oacute;n
+  category: derived
+  translation: ""
 ewfonyum:
   term: ewfonyum
   class: b
@@ -39411,6 +39386,11 @@ syensi:
   class: b
   category: root
   translation: ciencia
+syensifiksyon:
+  term: syensifiksyon
+  class: b
+  category: derived
+  translation: ""
 syensili:
   term: syensili
   class: t
@@ -40395,6 +40375,11 @@ teori:
   class: b
   category: root
   translation: teor&iacute;a
+teori_fe_evolu:
+  term: teori fe evolu
+  class: b
+  category: phrase
+  translation: teor&iacute;a de la evoluci&oacute;n
 teorili:
   term: teorili
   class: t

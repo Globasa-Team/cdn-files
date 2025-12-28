@@ -29,11 +29,6 @@
   class: b xfik
   category: affix
   translation: -ejo, loko, konstruaĵo, situo (<em>kun specifa celo</em>)
--ente:
-  term: -ente
-  class: b xfik
-  category: affix
-  translation: (senviva) agento, -ilo
 -fil:
   term: -fil
   class: t xfik
@@ -84,11 +79,6 @@
   class: b xfik
   category: affix
   translation: -estro
--lari:
-  term: -lari
-  class: b xfik
-  category: affix
-  translation: -aro
 -li:
   term: -li
   class: t xfik
@@ -99,11 +89,6 @@
   class: t xfik
   category: affix
   translation: malriĉa je
--logi:
-  term: -logi
-  class: b xfik
-  category: affix
-  translation: -logio, fako, -scienco, filozofio, -studo, -arto
 -mo:
   term: -mo
   class: m xfik
@@ -119,11 +104,6 @@
   class: t xfik
   category: affix
   translation: <em>en aktiva stato de</em>, -anta, -ante
--osis:
-  term: -osis
-  class: b xfik
-  category: affix
-  translation: patologio, -ozo
 -pel:
   term: -pel
   class: b xfik
@@ -159,11 +139,6 @@
   class: b xfik
   category: affix
   translation: teamo, grupo, -istaro, -antaro
--tora:
-  term: -tora
-  class: b xfik
-  category: affix
-  translation: -ilo, maŝino, aparato
 -tul:
   term: -tul
   class: b xfik
@@ -3293,8 +3268,8 @@ bakalao:
   class: b
   category: root
   translation: gado
-bakugamon:
-  term: bakugamon
+bakgamon:
+  term: bakgamon
   class: b
   category: root
   translation: triktrako, bakgamono
@@ -11488,16 +11463,16 @@ estodo:
   class: t
   category: derived
   translation: ĉesigita, haltigita; ĉesigite, haltigite
-estodom:
-  term: estodom
-  class: b
-  category: derived
-  translation: stacio, stacidomo
 estoka:
   term: estoka
   class: b.oj
   category: root
   translation: stoko, inventaro; stoki
+estoloka:
+  term: estoloka
+  class: b
+  category: derived
+  translation: stacio, stacidomo
 estomotsufono:
   term: estomotsufono
   class: b
@@ -11729,11 +11704,11 @@ evolugi:
   class: b.oj
   category: derived
   translation: evoluigo; evoluigi
-evoluli_teori:
-  term: evoluli teori
+evoluteori:
+  term: evoluteori
   class: b
-  category: phrase
-  translation: teorio de evolucio
+  category: derived
+  translation: ""
 ewfonyum:
   term: ewfonyum
   class: b
@@ -39056,6 +39031,11 @@ syensi:
   class: b
   category: root
   translation: scienco
+syensifiksyon:
+  term: syensifiksyon
+  class: b
+  category: derived
+  translation: ""
 syensili:
   term: syensili
   class: t
@@ -40031,6 +40011,11 @@ teori:
   class: b
   category: root
   translation: teorio
+teori_fe_evolu:
+  term: teori fe evolu
+  class: b
+  category: phrase
+  translation: teorio de evolucio
 teorili:
   term: teorili
   class: t
