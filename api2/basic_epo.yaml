@@ -4698,11 +4698,6 @@ biradom:
   class: b
   category: derived
   translation: bierejo, trinkejo, drinkejo, taverno; bierfarejo
-biradomyen:
-  term: biradomyen
-  class: b
-  category: derived
-  translation: bierejisto, trinkejisto, bufedisto, drinkejisto
 birke:
   term: birke
   class: b.oro
@@ -6096,7 +6091,7 @@ care:
   translation: kvar
 carecen:
   term: carecen
-  class: b
+  class: num
   category: derived
   translation: kvarcent
 caredes:
@@ -9336,6 +9331,11 @@ dostesim:
   class: t
   category: derived
   translation: amikeca; amikece
+dostetim:
+  term: dostetim
+  class: b
+  category: derived
+  translation: amikaro
 dosteya:
   term: dosteya
   class: b
@@ -9795,7 +9795,7 @@ dudoxo:
   term: dudoxo
   class: b
   category: derived
-  translation: legado
+  translation: leĝado
 dudrilu:
   term: dudrilu
   class: b
@@ -9931,6 +9931,16 @@ duofcori:
   class: b
   category: derived
   translation: prirabado
+duogartim:
+  term: duogartim
+  class: b
+  category: derived
+  translation: enloĝantaro
+duogaryen:
+  term: duogaryen
+  class: b
+  category: derived
+  translation: loĝanto
 dupa:
   term: dupa
   class: b
@@ -11704,6 +11714,11 @@ evolugi:
   class: b.oj
   category: derived
   translation: evoluigo; evoluigi
+evoluli_teori:
+  term: evoluli teori
+  class: b
+  category: phrase
+  translation: ""
 evoluteori:
   term: evoluteori
   class: b
@@ -13626,21 +13641,26 @@ fleygiyen:
   class: b
   category: derived
   translation: aviadisto, (aviadila) piloto
+fleynavi:
+  term: fleynavi
+  class: b
+  category: derived
+  translation: aeroplano
+fleynavidom:
+  term: fleynavidom
+  class: b
+  category: derived
+  translation: flughaveno, aviadilejo, aviejo
+fleynavitim:
+  term: fleynavitim
+  class: b
+  category: derived
+  translation: flugkompanio
 fleysinjabu:
   term: fleysinjabu
   class: b
   category: derived
   translation: flugsciuro
-fleytora:
-  term: fleytora
-  class: b
-  category: derived
-  translation: aeroplano
-fleytoralogi:
-  term: fleytoralogi
-  class: b
-  category: derived
-  translation: aviadiko
 fleytul:
   term: fleytul
   class: b
@@ -15094,11 +15114,6 @@ giga:
   class: num
   category: root
   translation: miliardo
-gigagon:
-  term: gigagon
-  class: b
-  category: derived
-  translation: miliardangulo, miliardlatero
 giganyan:
   term: giganyan
   class: b
@@ -16538,31 +16553,21 @@ hawanavi:
   class: b
   category: derived
   translation: aviadilo, avio
-hawanavidom:
-  term: hawanavidom
-  class: b
-  category: derived
-  translation: flughaveno, aviadilejo, aviejo
 hawanavilogi:
   term: hawanavilogi
   class: b
   category: derived
   translation: aviadiko, avioniko
-hawanavitim:
-  term: hawanavitim
-  class: b
-  category: derived
-  translation: flugkompanio
-hawanaviya:
-  term: hawanaviya
-  class: b
-  category: derived
-  translation: aeronaŭtiko, aernavigado
 hawanaviyen:
   term: hawanaviyen
   class: b
   category: derived
   translation: piloto, aviadisto, aeronaŭto, aerveturanto
+hawatoralogi:
+  term: hawatoralogi
+  class: b
+  category: derived
+  translation: aeronaŭtiko, aernavigado
 haxhaxa:
   term: haxhaxa
   class: b.nenoj
@@ -17065,7 +17070,7 @@ hin:
   translation: ĉi tiu, ĉi ti-
 hindi:
   term: Hindi
-  class: b
+  class: su n
   category: proper word
   translation: la hindia (lingvo)
 hindiko:
@@ -17938,11 +17943,6 @@ imanu:
   class: b.oj
   category: root
   translation: kredo; kredi
-imanu-nenible:
-  term: imanu-nenible
-  class: t
-  category: derived
-  translation: nekredebla; nekredeble
 imanugi:
   term: imanugi
   class: b.oj
@@ -17953,6 +17953,11 @@ imanuible:
   class: t
   category: derived
   translation: kredebla; kredeble
+imanunenible:
+  term: imanunenible
+  class: t
+  category: derived
+  translation: nekredebla; nekredeble
 imanuyen:
   term: imanuyen
   class: b
@@ -18410,7 +18415,7 @@ inoko:
   translation: invido, introspekto; invidi
 inpesa:
   term: inpesa
-  class: b
+  class: b.oj
   category: derived
   translation: enspezo
 inplasi:
@@ -18688,8 +18693,8 @@ inyo:
   class: b.oj
   category: root
   translation: cito, citilo, citaĵo; citi
-inyosimbolo:
-  term: inyosimbolo
+inyomarka:
+  term: inyomarka
   class: b
   category: derived
   translation: citilo
@@ -19863,6 +19868,11 @@ jiu:
   class: b.nenoj
   category: root
   translation: alkoholaĵo, alkohola trinkaĵo, drinkaĵo; drinki
+jiudomyen:
+  term: jiudomyen
+  class: b
+  category: derived
+  translation: bierejisto, trinkejisto, bufedisto, drinkejisto
 jivaki:
   term: jivaki
   class: b
@@ -20204,6 +20214,11 @@ jumle:
   class: b
   category: root
   translation: frazo
+jumlemarka:
+  term: jumlemarka
+  class: b
+  category: derived
+  translation: ""
 jumlemon:
   term: jumlemon
   class: b
@@ -22618,9 +22633,14 @@ kom:
   translation: ol, kiel, en komparo kun
 koma:
   term: koma
-  class: b
+  class: b.nenoj
   category: root
   translation: komato
+komado:
+  term: komado
+  class: t
+  category: derived
+  translation: ""
 kombina:
   term: kombina
   class: b.oro
@@ -23494,7 +23514,7 @@ kristalli:
   translation: kristala; kristale
 kristo:
   term: Kristo
-  class: b
+  class: su n
   category: proper word
   translation: Kristo
 kristodin:
@@ -24327,6 +24347,11 @@ latinika:
   class: b
   category: proper word
   translation: Latinameriko
+latinikali:
+  term: Latinikali
+  class: t
+  category: proper word
+  translation: ""
 latinikayen:
   term: Latinikayen
   class: b
@@ -24991,11 +25016,6 @@ lilbete:
   class: b
   category: derived
   translation: nepo, nepino
-lilcinon:
-  term: lilcinon
-  class: b
-  category: derived
-  translation: malinteligento, malklereco
 lilcu:
   term: lilcu
   class: b.nenoj
@@ -25170,7 +25190,7 @@ lima:
 limacen:
   term: limacen
   class: b
-  category: derived
+  category: num
   translation: kvincent
 limades:
   term: limades
@@ -26817,6 +26837,12 @@ masriyen:
   class: b
   category: derived
   translation: egipto
+masturba:
+  term: masturba
+  class: b.oj
+  category: root
+  translation: (mem)masturbado, (sin)masturbado; memmasturbi, sinmasturbi, onani;
+    masturbi, masturbi
 masul:
   term: masul
   class: t
@@ -28747,7 +28773,7 @@ morjismu:
   translation: kadavro
 mormon:
   term: Mormon
-  class: b
+  class: su n
   category: proper word
   translation: Mormono (<em>nomo</em>)
 mormonismo:
@@ -31236,11 +31262,11 @@ ogarmaxina:
   class: b
   category: derived
   translation: hejmaparato, hejmilo
-ogaryen:
-  term: ogaryen
-  class: b
+ogasmoli:
+  term: ogasmoli
+  class: t
   category: derived
-  translation: loĝanto
+  translation: orgasma; orgamse
 ohom:
   term: Ohom
   class: su n
@@ -31631,6 +31657,26 @@ organo:
   class: b
   category: root
   translation: organo
+orgasmo:
+  term: orgasmo
+  class: b.nenoj
+  category: root
+  translation: orgasmo; orgasmi
+orgasmoabil:
+  term: orgasmoabil
+  class: t
+  category: derived
+  translation: orgasmopova
+orgasmonenabil:
+  term: orgasmonenabil
+  class: t
+  category: derived
+  translation: malorgasmopova
+orgasmosim:
+  term: orgasmosim
+  class: t
+  category: derived
+  translation: orgasmeca
 orgen:
   term: orgen
   class: b
@@ -36985,6 +37031,11 @@ selsyus:
   class: b
   category: root
   translation: celsia grado, grado de Celsio
+semasturba:
+  term: semasturba
+  class: b.nenoj
+  category: derived
+  translation: memmasturbado, sinmasturbado; memmasturbi, sinmasturbi, onani
 semi:
   term: semi
   class: t
@@ -43164,6 +43215,16 @@ xaman:
   class: b
   category: root
   translation: ŝamano
+xampani:
+  term: xampani
+  class: v
+  category: root
+  translation: ĉampano
+xampani_zona:
+  term: Xampani
+  class: su n
+  category: proper word
+  translation: Ĉampanjo
 xampu:
   term: xampu
   class: b.oj

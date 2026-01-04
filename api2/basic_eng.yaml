@@ -3335,7 +3335,7 @@ balaya:
   term: balaya
   class: b
   category: derived
-  translation: strength
+  translation: strength (<em>noncount noun</em>)
 balde:
   term: balde
   class: b
@@ -3877,7 +3877,7 @@ basidom:
   term: basidom
   class: b
   category: derived
-  translation: base
+  translation: base, headquarters, post
 basieskol:
   term: basieskol
   class: b
@@ -4559,7 +4559,7 @@ bezeyen:
   term: bezeyen
   class: b
   category: derived
-  translation: beekeeper
+  translation: beekeeper, apiarist
 biber:
   term: biber
   class: b
@@ -4674,7 +4674,7 @@ bio:
   term: bio
   class: b
   category: root
-  translation: life (<em>organisms</em>)
+  translation: life (<em>biology</em>)
 biodoyanya:
   term: biodoyanya
   class: b
@@ -4724,12 +4724,7 @@ biradom:
   term: biradom
   class: b
   category: derived
-  translation: bar, pub, tavern, brewery
-biradomyen:
-  term: biradomyen
-  class: b
-  category: derived
-  translation: bartender
+  translation: brewery
 birke:
   term: birke
   class: b.oro
@@ -5567,7 +5562,7 @@ bukaxey:
   term: bukaxey
   class: b
   category: derived
-  translation: opening (<em>countnoun</em>)
+  translation: opening (<em>count noun</em>)
 bulbula:
   term: bulbula
   class: b.nenoj
@@ -6127,7 +6122,7 @@ care:
   translation: four
 carecen:
   term: carecen
-  class: b
+  class: num
   category: derived
   translation: four hundred
 caredes:
@@ -7553,7 +7548,7 @@ darmestatyum:
   term: darmestatyum
   class: b
   category: root
-  translation: darmstadtium, Ds
+  translation: darmstadtium, <em>Ds</em>
 darsu:
   term: darsu
   class: b
@@ -9377,6 +9372,11 @@ dostesim:
   class: t
   category: derived
   translation: friendly (<em>&ldquo;friend-like&rdquo;</em>)
+dostetim:
+  term: dostetim
+  class: b
+  category: derived
+  translation: group of friends, gang
 dosteya:
   term: dosteya
   class: b
@@ -9973,6 +9973,16 @@ duofcori:
   class: b
   category: derived
   translation: (the act of) robbing
+duogartim:
+  term: duogartim
+  class: b
+  category: derived
+  translation: inhabitants, population
+duogaryen:
+  term: duogaryen
+  class: b
+  category: derived
+  translation: resident, inhabitant, dweller
 dupa:
   term: dupa
   class: b
@@ -11754,6 +11764,11 @@ evolugi:
   class: b.oj
   category: derived
   translation: development; develop
+evoluli_teori:
+  term: evoluli teori
+  class: b
+  category: phrase
+  translation: theory of evolution
 evoluteori:
   term: evoluteori
   class: b
@@ -13281,7 +13296,7 @@ fermyum:
   term: fermyum
   class: b
   category: root
-  translation: fermium, Fm
+  translation: fermium, <em>Fm</em>
 ferne:
   term: ferne
   class: b
@@ -13311,7 +13326,7 @@ fida:
   term: fida
   class: b
   category: root
-  translation: silver, Ag
+  translation: silver, <em>Ag</em>
 fidakolordo:
   term: fidakolordo
   class: t
@@ -13659,7 +13674,7 @@ flerovyum:
   term: flerovyum
   class: b
   category: root
-  translation: flerovium, Fl
+  translation: flerovium, <em>Fl</em>
 fley:
   term: fley
   class: b.oj.ru
@@ -13685,21 +13700,26 @@ fleygiyen:
   class: b
   category: derived
   translation: (airline) pilot
+fleynavi:
+  term: fleynavi
+  class: b
+  category: derived
+  translation: airplane, aeroplane
+fleynavidom:
+  term: fleynavidom
+  class: b
+  category: derived
+  translation: airport
+fleynavitim:
+  term: fleynavitim
+  class: b
+  category: derived
+  translation: airline
 fleysinjabu:
   term: fleysinjabu
   class: b
   category: derived
   translation: flying squirrel, <em>Pteromyini</em>
-fleytora:
-  term: fleytora
-  class: b
-  category: derived
-  translation: airplane, aeroplane
-fleytoralogi:
-  term: fleytoralogi
-  class: b
-  category: derived
-  translation: aviation
 fleytul:
   term: fleytul
   class: b
@@ -13744,7 +13764,7 @@ fluorin:
   term: fluorin
   class: b
   category: root
-  translation: fluorine, F
+  translation: fluorine, <em>F</em>
 flura:
   term: flura
   class: b.nenoj
@@ -14068,7 +14088,7 @@ fosforo:
   term: fosforo
   class: b
   category: root
-  translation: phosphorus, P
+  translation: phosphorus, <em>P</em>
 fosil:
   term: fosil
   class: b
@@ -14139,7 +14159,7 @@ fransyum:
   term: fransyum
   class: b
   category: root
-  translation: francium, Fr
+  translation: francium, <em>Fr</em>
 fratal:
   term: fratal
   class: b
@@ -14466,7 +14486,7 @@ futbalbol:
   term: futbalbol
   class: b
   category: derived
-  translation: (American) football (ball)
+  translation: (American) football (<em>ball</em>)
 futi:
   term: futi
   class: b
@@ -14536,7 +14556,7 @@ gadolinyum:
   term: gadolinyum
   class: b
   category: root
-  translation: gadolinium, Gd
+  translation: gadolinium, <em>Gd</em>
 gaga:
   term: gaga
   class: b.oj
@@ -14576,7 +14596,7 @@ galyum:
   term: galyum
   class: b
   category: root
-  translation: gallium, Ga
+  translation: gallium, <em>Ga</em>
 gambari:
   term: gambari
   class: b
@@ -15093,7 +15113,7 @@ germanyum:
   term: germanyum
   class: b
   category: root
-  translation: germanium, Ge
+  translation: germanium, <em>Ge</em>
 gey:
   term: gey
   class: t
@@ -15160,11 +15180,6 @@ giga:
   class: num
   category: root
   translation: billion, one billion, 10^9
-gigagon:
-  term: gigagon
-  class: b
-  category: derived
-  translation: gigagon, 1000000000-gon
 giganyan:
   term: giganyan
   class: b
@@ -15174,7 +15189,7 @@ gigi:
   term: gigi
   class: b
   category: root
-  translation: vagina (<em>non-clinical</em>)
+  translation: vagina (<em>nonclinical</em>)
 gile:
   term: gile
   class: t
@@ -15435,7 +15450,7 @@ gogo:
   term: gogo
   class: b
   category: root
-  translation: testicle (<em>non-clinical</em>)
+  translation: testicle (<em>nonclinical</em>)
 gol:
   term: gol
   class: b.oj
@@ -16052,7 +16067,7 @@ hadidu:
   term: hadidu
   class: b
   category: root
-  translation: iron, Fe
+  translation: iron, <em>Fe</em>
 hadu:
   term: hadu
   class: b
@@ -16067,7 +16082,7 @@ hafnyum:
   term: hafnyum
   class: b
   category: root
-  translation: hafnium, Hf
+  translation: hafnium, <em>Hf</em>
 hagay:
   term: Hagay
   class: su n
@@ -16530,7 +16545,7 @@ hasyum:
   term: hasyum
   class: b
   category: root
-  translation: hassium, Hs
+  translation: hassium, <em>Hs</em>
 hata:
   term: hata
   class: m
@@ -16613,31 +16628,21 @@ hawanavi:
   class: b
   category: derived
   translation: aircraft
-hawanavidom:
-  term: hawanavidom
-  class: b
-  category: derived
-  translation: airport
 hawanavilogi:
   term: hawanavilogi
   class: b
   category: derived
   translation: aviation
-hawanavitim:
-  term: hawanavitim
-  class: b
-  category: derived
-  translation: airline
-hawanaviya:
-  term: hawanaviya
-  class: b
-  category: derived
-  translation: aeronautics
 hawanaviyen:
   term: hawanaviyen
   class: b
   category: derived
   translation: pilot, aeronaut
+hawatoralogi:
+  term: hawatoralogi
+  class: b
+  category: derived
+  translation: aeronautics
 haxhaxa:
   term: haxhaxa
   class: b.nenoj
@@ -16907,7 +16912,7 @@ hedro:
   term: hedro
   class: b
   category: root
-  translation: geometric face, -hedron
+  translation: (geometric) face, -hedron
 hegemoni:
   term: hegemoni
   class: b
@@ -16932,7 +16937,7 @@ helyum:
   term: helyum
   class: b
   category: root
-  translation: helium, He
+  translation: helium, <em>He</em>
 henci:
   term: henci
   class: b.oj
@@ -16947,7 +16952,7 @@ henri:
   term: henri
   class: b
   category: root
-  translation: henry (unit)
+  translation: henry (<em>unit</em>)
 henrik:
   term: Henrik
   class: su n
@@ -17077,7 +17082,7 @@ hidrogen:
   term: hidrogen
   class: b
   category: root
-  translation: hydrogen, H
+  translation: hydrogen, <em>H</em>
 hifazi:
   term: hifazi
   class: b.oj
@@ -17140,7 +17145,7 @@ hin:
   translation: this, these
 hindi:
   term: Hindi
-  class: b
+  class: su n
   category: proper word
   translation: Hindi (language)
 hindiko:
@@ -17358,7 +17363,7 @@ holmyum:
   term: holmyum
   class: b
   category: root
-  translation: holmium, Ho
+  translation: holmium, <em>Ho</em>
 holoba:
   term: holoba
   class: b
@@ -17923,7 +17928,7 @@ ikawyen:
   term: ikawyen
   class: b
   category: derived
-  translation: (a) dependent (person)
+  translation: dependent (person)
 ike:
   term: ike
   class: b
@@ -18019,11 +18024,6 @@ imanu:
   class: b.oj
   category: root
   translation: belief; believe
-imanu-nenible:
-  term: imanu-nenible
-  class: t
-  category: derived
-  translation: incredible, unbelievable; incredibly, unbelievably
 imanugi:
   term: imanugi
   class: b.oj
@@ -18034,6 +18034,11 @@ imanuible:
   class: t
   category: derived
   translation: credible, believable; credibly, believably
+imanunenible:
+  term: imanunenible
+  class: t
+  category: derived
+  translation: incredible, unbelievable; incredibly, unbelievably
 imanuyen:
   term: imanuyen
   class: b
@@ -18493,9 +18498,9 @@ inoko:
   translation: introspection, insight; look in, look into
 inpesa:
   term: inpesa
-  class: b
+  class: b.oj
   category: derived
-  translation: income, revenue
+  translation: income, revenue; make (money)
 inplasi:
   term: inplasi
   class: b.oj
@@ -18771,8 +18776,8 @@ inyo:
   class: b.oj
   category: root
   translation: quote, quotation, citation; quote, cite
-inyosimbolo:
-  term: inyosimbolo
+inyomarka:
+  term: inyomarka
   class: b
   category: derived
   translation: quotation mark
@@ -18820,7 +18825,7 @@ iridyum:
   term: iridyum
   class: b
   category: root
-  translation: iridium, Ir
+  translation: iridium, <em>Ir</em>
 iris:
   term: Iris
   class: su n
@@ -19000,7 +19005,7 @@ iterbyum:
   term: iterbyum
   class: b
   category: root
-  translation: ytterbium, Yb
+  translation: ytterbium, <em>Yb</em>
 itis:
   term: itis
   class: b.oro
@@ -19021,7 +19026,7 @@ itryum:
   term: itryum
   class: b
   category: root
-  translation: yttrium, Y
+  translation: yttrium, <em>Y</em>
 ituka:
   term: ituka
   class: b
@@ -19222,7 +19227,7 @@ jacipulxey:
   term: jacipulxey
   class: b
   category: derived
-  translation: valuables
+  translation: valuable(s)
 jadala:
   term: jadala
   class: b.oj
@@ -19948,6 +19953,11 @@ jiu:
   class: b.nenoj
   category: root
   translation: alcoholic drink, booze; drink (alcohol)
+jiudomyen:
+  term: jiudomyen
+  class: b
+  category: derived
+  translation: bartender
 jivaki:
   term: jivaki
   class: b
@@ -20235,7 +20245,7 @@ jul:
   term: jul
   class: b
   category: root
-  translation: joule, J
+  translation: joule, <em>J</em>
 jula:
   term: jula
   class: t
@@ -20291,6 +20301,11 @@ jumle:
   class: b
   category: root
   translation: sentence (<em>linguistics</em>)
+jumlemarka:
+  term: jumlemarka
+  class: b
+  category: derived
+  translation: punctuation (mark)
 jumlemon:
   term: jumlemon
   class: b
@@ -20616,7 +20631,7 @@ kadmyum:
   term: kadmyum
   class: b
   category: root
-  translation: cadmium, Cd
+  translation: cadmium, <em>Cd</em>
 kadro:
   term: kadro
   class: b
@@ -20691,7 +20706,7 @@ kahabu:
   term: kahabu
   class: b
   category: root
-  translation: prostitute
+  translation: prostitute, hooker
 kahabuergo:
   term: kahabuergo
   class: b.oj.ru
@@ -20817,7 +20832,7 @@ kalcyum:
   term: kalcyum
   class: b
   category: root
-  translation: calcium, Ca
+  translation: calcium, <em>Ca</em>
 kaleb:
   term: Kaleb
   class: su n
@@ -20857,7 +20872,7 @@ kalifornyum:
   term: kalifornyum
   class: b
   category: root
-  translation: californium, Cf
+  translation: californium, <em>Cf</em>
 kalkulus:
   term: kalkulus
   class: b
@@ -21073,7 +21088,7 @@ kandela:
   term: kandela
   class: b
   category: root
-  translation: candela, cd
+  translation: candela, <em>cd</em>
 kandidato:
   term: kandidato
   class: b
@@ -21303,7 +21318,7 @@ karbon:
   term: karbon
   class: b
   category: root
-  translation: carbon, C
+  translation: carbon, <em>C</em>
 kardigan:
   term: kardigan
   class: b
@@ -21884,7 +21899,7 @@ kelvin:
   term: kelvin
   class: b
   category: root
-  translation: kelvin, K
+  translation: kelvin, <em>K</em>
 kemaner:
   term: kemaner
   class: m
@@ -21981,7 +21996,7 @@ kerati:
   term: kerati
   class: b
   category: root
-  translation: carat, karat, ct
+  translation: carat, karat, <em>ct</em>
 kergedan:
   term: kergedan
   class: b
@@ -22422,7 +22437,7 @@ klorin:
   term: klorin
   class: b
   category: root
-  translation: chlorine, Cl
+  translation: chlorine, <em>Cl</em>
 klosi:
   term: klosi
   class: b.oro
@@ -22467,7 +22482,7 @@ kobalto:
   term: kobalto
   class: b
   category: root
-  translation: cobalt, Co
+  translation: cobalt, <em>Co</em>
 koberi:
   term: koberi
   class: b.oj
@@ -22712,9 +22727,14 @@ kom:
   translation: as (<em>comparable to</em>), than (<em>as compared with</em>)
 koma:
   term: koma
-  class: b
+  class: b.nenoj
   category: root
-  translation: coma
+  translation: coma; be in a coma
+komado:
+  term: komado
+  class: t
+  category: derived
+  translation: comatose
 kombina:
   term: kombina
   class: b.oro
@@ -23111,7 +23131,7 @@ kopa:
   term: kopa
   class: b
   category: root
-  translation: glass, tumbler, cup, mug (any drinking vessel other than bottles)
+  translation: glass, tumbler, cup, mug (<em>any drinking vessel other than bottles</em>)
 kopakeke:
   term: kopakeke
   class: b
@@ -23121,7 +23141,7 @@ kopernikyum:
   term: kopernikyum
   class: b
   category: root
-  translation: copernicium, Cn
+  translation: copernicium, <em>Cn</em>
 kopi:
   term: kopi
   class: b.oj
@@ -23366,7 +23386,7 @@ kotormarka:
   term: kotormarka
   class: b
   category: derived
-  translation: stain
+  translation: stain, blemish
 kotorya:
   term: kotorya
   class: b
@@ -23487,7 +23507,7 @@ kreaxey:
   term: kreaxey
   class: b
   category: derived
-  translation: (a) creation
+  translation: creation (<em>count noun</em>)
 kreayen:
   term: kreayen
   class: b
@@ -23572,7 +23592,7 @@ kriputon:
   term: kriputon
   class: b
   category: root
-  translation: krypton, Kr
+  translation: krypton, <em>Kr</em>
 krisis:
   term: krisis
   class: b
@@ -23595,7 +23615,7 @@ kristalli:
   translation: (made of) crystal, crystalline
 kristo:
   term: Kristo
-  class: b
+  class: su n
   category: proper word
   translation: Christ
 kristodin:
@@ -23637,7 +23657,7 @@ kromyum:
   term: kromyum
   class: b
   category: root
-  translation: chromium, Cr
+  translation: chromium, <em>Cr</em>
 kruasan:
   term: kruasan
   class: b
@@ -23747,7 +23767,7 @@ kulom:
   term: kulom
   class: b
   category: root
-  translation: coulomb, C
+  translation: coulomb, <em>C</em>
 kultu:
   term: kultu
   class: b
@@ -23912,7 +23932,7 @@ kuryum:
   term: kuryum
   class: b
   category: root
-  translation: curium, Cm
+  translation: curium, <em>Cm</em>
 kusen:
   term: kusen
   class: b
@@ -24348,7 +24368,7 @@ lantanum:
   term: lantanum
   class: b
   category: root
-  translation: lanthanum, La
+  translation: lanthanum, <em>La</em>
 lao:
   term: lao
   class: t
@@ -24429,6 +24449,11 @@ latinika:
   class: b
   category: proper word
   translation: '(Spanish and Portuguese speaking) Latin America '
+latinikali:
+  term: Latinikali
+  class: t
+  category: proper word
+  translation: Latina, Latino, Latinx
 latinikayen:
   term: Latinikayen
   class: b
@@ -24510,7 +24535,7 @@ lawrensyum:
   term: lawrensyum
   class: b
   category: root
-  translation: lawrencium, Lr
+  translation: lawrencium, <em>Lr</em>
 laxo:
   term: laxo
   class: t
@@ -25094,11 +25119,6 @@ lilbete:
   class: b
   category: derived
   translation: grandson, granddaughter, grandchild, grandchildren
-lilcinon:
-  term: lilcinon
-  class: b
-  category: derived
-  translation: stupidity, idiocy
 lilcu:
   term: lilcu
   class: b.nenoj
@@ -25274,7 +25294,7 @@ lima:
 limacen:
   term: limacen
   class: b
-  category: derived
+  category: num
   translation: five hundred
 limades:
   term: limades
@@ -25415,22 +25435,22 @@ litro:
   term: litro
   class: b
   category: root
-  translation: liter, litre, L
+  translation: liter, litre, <em>L</em>
 lityum:
   term: lityum
   class: b
   category: root
-  translation: lithium, Li
+  translation: lithium, <em>Li</em>
 liu:
   term: liu
   class: b
   category: root
-  translation: willow, sallow, osier, withy, <em>Salix</em> (tree)
+  translation: willow, sallow, osier, withy, <em>Salix</em> (<em>tree</em>)
 livermoryum:
   term: livermoryum
   class: b
   category: root
-  translation: livermorium, Lv
+  translation: livermorium, <em>Lv</em>
 lixiku:
   term: lixiku
   class: b
@@ -25645,7 +25665,7 @@ luksi:
   term: luksi
   class: b
   category: root
-  translation: lux (unit)
+  translation: lux (<em>unit</em>)
 lukso:
   term: lukso
   class: b
@@ -25665,7 +25685,7 @@ lumen:
   term: lumen
   class: b
   category: root
-  translation: lumen (unit), lm
+  translation: lumen (<em>unit</em>), <em>lm</em>
 lumin:
   term: lumin
   class: b.oj
@@ -25690,7 +25710,7 @@ luminnyan:
   term: luminnyan
   class: b
   category: derived
-  translation: light year, ly
+  translation: light year, <em>ly</em>
 luminpul:
   term: luminpul
   class: t
@@ -25760,7 +25780,7 @@ lutesyum:
   term: lutesyum
   class: b
   category: root
-  translation: lutetium, Lu
+  translation: lutetium, <em>Lu</em>
 lutra:
   term: lutra
   class: b
@@ -25950,7 +25970,7 @@ magnesyum:
   term: magnesyum
   class: b
   category: root
-  translation: magnesium, Mg
+  translation: magnesium, <em>Mg</em>
 magneto:
   term: magneto
   class: b.oj
@@ -26921,6 +26941,11 @@ masriyen:
   class: b
   category: derived
   translation: Egyptian
+masturba:
+  term: masturba
+  class: b.oj
+  category: root
+  translation: masturbation; masturbate
 masul:
   term: masul
   class: t
@@ -28695,7 +28720,7 @@ momo:
   term: momo
   class: b
   category: root
-  translation: breast (<em>non-clinical</em>), boob
+  translation: breast (<em>nonclinical</em>), boob
 momya:
   term: momya
   class: b
@@ -28863,7 +28888,7 @@ morjismu:
   translation: corpse, cadaver, dead body
 mormon:
   term: Mormon
-  class: b
+  class: su n
   category: proper word
   translation: Mormon
 mormonismo:
@@ -29442,7 +29467,7 @@ myaw:
   term: myaw
   class: b
   category: root
-  translation: cat
+  translation: cat, <em>Felidae</em>
 myawsa:
   term: myawsa
   class: b.nenoj
@@ -31360,11 +31385,11 @@ ogarmaxina:
   class: b
   category: derived
   translation: (home) appliance
-ogaryen:
-  term: ogaryen
-  class: b
+ogasmoli:
+  term: ogasmoli
+  class: t
   category: derived
-  translation: resident, inhabitant, dweller
+  translation: orgasmic; orgasmically
 ohom:
   term: Ohom
   class: su n
@@ -31756,6 +31781,26 @@ organo:
   class: b
   category: root
   translation: organ (<em>part of body or organization</em>)
+orgasmo:
+  term: orgasmo
+  class: b.nenoj
+  category: root
+  translation: orgasm; orgasm
+orgasmoabil:
+  term: orgasmoabil
+  class: t
+  category: derived
+  translation: orgasmic; orgasmically
+orgasmonenabil:
+  term: orgasmonenabil
+  class: t
+  category: derived
+  translation: inorgasmic; inorgasmically
+orgasmosim:
+  term: orgasmosim
+  class: t
+  category: derived
+  translation: orgasmic; orgasmically
 orgen:
   term: orgen
   class: b
@@ -32949,7 +32994,7 @@ pepe:
   term: pepe
   class: b
   category: root
-  translation: penis (<em>non-clinical</em>), wiener
+  translation: penis (<em>nonclinical</em>), wiener
 pepero:
   term: pepero
   class: b
@@ -37121,6 +37166,11 @@ selsyus:
   class: b
   category: root
   translation: celsius, centigrade, &deg;C
+semasturba:
+  term: semasturba
+  class: b.nenoj
+  category: derived
+  translation: masturbate
 semi:
   term: semi
   class: t
@@ -42521,7 +42571,7 @@ vuvu:
   term: vuvu
   class: b
   category: root
-  translation: vulva (<em>non-clinical</em>)
+  translation: vulva (<em>nonclinical</em>)
 vyalu:
   term: vyalu
   class: b
@@ -42626,7 +42676,7 @@ wahyu:
   term: wahyu
   class: b
   category: root
-  translation: revelation, apocalypse
+  translation: revelation
 wair:
   term: wair
   class: b
@@ -43315,6 +43365,16 @@ xaman:
   class: b
   category: root
   translation: shaman
+xampani:
+  term: xampani
+  class: v
+  category: root
+  translation: champagne (<em>drink</em>)
+xampani_zona:
+  term: Xampani
+  class: su n
+  category: proper word
+  translation: Champagne (<em>region</em>)
 xampu:
   term: xampu
   class: b.oj

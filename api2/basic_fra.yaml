@@ -4695,11 +4695,6 @@ biradom:
   class: b
   category: derived
   translation: ""
-biradomyen:
-  term: biradomyen
-  class: b
-  category: derived
-  translation: ""
 birke:
   term: birke
   class: b.oro
@@ -6092,7 +6087,7 @@ care:
   translation: quatre
 carecen:
   term: carecen
-  class: b
+  class: num
   category: derived
   translation: quatre cents
 caredes:
@@ -9330,6 +9325,11 @@ dostesim:
   class: t
   category: derived
   translation: ""
+dostetim:
+  term: dostetim
+  class: b
+  category: derived
+  translation: ""
 dosteya:
   term: dosteya
   class: b
@@ -9922,6 +9922,16 @@ dunyayen:
   translation: ""
 duofcori:
   term: duofcori
+  class: b
+  category: derived
+  translation: ""
+duogartim:
+  term: duogartim
+  class: b
+  category: derived
+  translation: ""
+duogaryen:
+  term: duogaryen
   class: b
   category: derived
   translation: ""
@@ -11694,6 +11704,11 @@ evolugi:
   term: evolugi
   class: b.oj
   category: derived
+  translation: ""
+evoluli_teori:
+  term: evoluli teori
+  class: b
+  category: phrase
   translation: ""
 evoluteori:
   term: evoluteori
@@ -13615,21 +13630,26 @@ fleygiyen:
   class: b
   category: derived
   translation: ""
+fleynavi:
+  term: fleynavi
+  class: b
+  category: derived
+  translation: ""
+fleynavidom:
+  term: fleynavidom
+  class: b
+  category: derived
+  translation: ""
+fleynavitim:
+  term: fleynavitim
+  class: b
+  category: derived
+  translation: ""
 fleysinjabu:
   term: fleysinjabu
   class: b
   category: derived
   translation: '&eacute;cureuil volant'
-fleytora:
-  term: fleytora
-  class: b
-  category: derived
-  translation: ""
-fleytoralogi:
-  term: fleytoralogi
-  class: b
-  category: derived
-  translation: ""
 fleytul:
   term: fleytul
   class: b
@@ -15080,11 +15100,6 @@ giga:
   class: num
   category: root
   translation: milliard, giga-, G, 10^9
-gigagon:
-  term: gigagon
-  class: b
-  category: derived
-  translation: ""
 giganyan:
   term: giganyan
   class: b
@@ -16521,28 +16536,18 @@ hawanavi:
   class: b
   category: derived
   translation: ""
-hawanavidom:
-  term: hawanavidom
-  class: b
-  category: derived
-  translation: ""
 hawanavilogi:
   term: hawanavilogi
   class: b
   category: derived
   translation: ""
-hawanavitim:
-  term: hawanavitim
-  class: b
-  category: derived
-  translation: ""
-hawanaviya:
-  term: hawanaviya
-  class: b
-  category: derived
-  translation: ""
 hawanaviyen:
   term: hawanaviyen
+  class: b
+  category: derived
+  translation: ""
+hawatoralogi:
+  term: hawatoralogi
   class: b
   category: derived
   translation: ""
@@ -17048,7 +17053,7 @@ hin:
   translation: ""
 hindi:
   term: Hindi
-  class: b
+  class: su n
   category: proper word
   translation: hindi (<em>langue</em>)
 hindiko:
@@ -17921,11 +17926,6 @@ imanu:
   class: b.oj
   category: root
   translation: ""
-imanu-nenible:
-  term: imanu-nenible
-  class: t
-  category: derived
-  translation: ""
 imanugi:
   term: imanugi
   class: b.oj
@@ -17933,6 +17933,11 @@ imanugi:
   translation: ""
 imanuible:
   term: imanuible
+  class: t
+  category: derived
+  translation: ""
+imanunenible:
+  term: imanunenible
   class: t
   category: derived
   translation: ""
@@ -18393,7 +18398,7 @@ inoko:
   translation: ""
 inpesa:
   term: inpesa
-  class: b
+  class: b.oj
   category: derived
   translation: ""
 inplasi:
@@ -18671,8 +18676,8 @@ inyo:
   class: b.oj
   category: root
   translation: ""
-inyosimbolo:
-  term: inyosimbolo
+inyomarka:
+  term: inyomarka
   class: b
   category: derived
   translation: ""
@@ -19846,6 +19851,11 @@ jiu:
   class: b.nenoj
   category: root
   translation: ""
+jiudomyen:
+  term: jiudomyen
+  class: b
+  category: derived
+  translation: ""
 jivaki:
   term: jivaki
   class: b
@@ -20186,6 +20196,11 @@ jumle:
   class: b
   category: root
   translation: phrase
+jumlemarka:
+  term: jumlemarka
+  class: b
+  category: derived
+  translation: ""
 jumlemon:
   term: jumlemon
   class: b
@@ -22598,8 +22613,13 @@ kom:
   translation: ""
 koma:
   term: koma
-  class: b
+  class: b.nenoj
   category: root
+  translation: ""
+komado:
+  term: komado
+  class: t
+  category: derived
   translation: ""
 kombina:
   term: kombina
@@ -23473,7 +23493,7 @@ kristalli:
   translation: cristallin
 kristo:
   term: Kristo
-  class: b
+  class: su n
   category: proper word
   translation: Christ
 kristodin:
@@ -24306,6 +24326,11 @@ latinika:
   class: b
   category: proper word
   translation: Am&eacute;rique latine
+latinikali:
+  term: Latinikali
+  class: t
+  category: proper word
+  translation: ""
 latinikayen:
   term: Latinikayen
   class: b
@@ -24966,11 +24991,6 @@ lilbete:
   class: b
   category: derived
   translation: ""
-lilcinon:
-  term: lilcinon
-  class: b
-  category: derived
-  translation: ""
 lilcu:
   term: lilcu
   class: b.nenoj
@@ -25144,7 +25164,7 @@ lima:
 limacen:
   term: limacen
   class: b
-  category: derived
+  category: num
   translation: cinq cents
 limades:
   term: limades
@@ -26791,6 +26811,11 @@ masriyen:
   class: b
   category: derived
   translation: '&Eacute;gyptien'
+masturba:
+  term: masturba
+  class: b.oj
+  category: root
+  translation: ""
 masul:
   term: masul
   class: t
@@ -28719,7 +28744,7 @@ morjismu:
   translation: cadavre, corps (sans vie)
 mormon:
   term: Mormon
-  class: b
+  class: su n
   category: proper word
   translation: Mormon
 mormonismo:
@@ -31207,9 +31232,9 @@ ogarmaxina:
   class: b
   category: derived
   translation: '&eacute;lectrom&eacute;nager'
-ogaryen:
-  term: ogaryen
-  class: b
+ogasmoli:
+  term: ogasmoli
+  class: t
   category: derived
   translation: ""
 ohom:
@@ -31601,6 +31626,26 @@ organo:
   term: organo
   class: b
   category: root
+  translation: ""
+orgasmo:
+  term: orgasmo
+  class: b.nenoj
+  category: root
+  translation: ""
+orgasmoabil:
+  term: orgasmoabil
+  class: t
+  category: derived
+  translation: ""
+orgasmonenabil:
+  term: orgasmonenabil
+  class: t
+  category: derived
+  translation: ""
+orgasmosim:
+  term: orgasmosim
+  class: t
+  category: derived
   translation: ""
 orgen:
   term: orgen
@@ -36952,6 +36997,11 @@ selsyus:
   class: b
   category: root
   translation: Celsius
+semasturba:
+  term: semasturba
+  class: b.nenoj
+  category: derived
+  translation: ""
 semi:
   term: semi
   class: t
@@ -43129,6 +43179,16 @@ xaman:
   class: b
   category: root
   translation: chamane
+xampani:
+  term: xampani
+  class: v
+  category: root
+  translation: champagne, vin de Champagne
+xampani_zona:
+  term: Xampani
+  class: su n
+  category: proper word
+  translation: Champagne
 xampu:
   term: xampu
   class: b.oj
