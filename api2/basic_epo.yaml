@@ -2737,6 +2737,11 @@ awjeti:
   class: b.oj
   category: derived
   translation: forĵeto, forigo; forĵeti, forigi
+awjui:
+  term: awjui
+  class: b.oj
+  category: derived
+  translation: ""
 awjuicu:
   term: awjuicu
   class: b.nenoj
@@ -4978,11 +4983,6 @@ bon_turi:
   class: il
   category: derived
   translation: bonan vojaĝon
-bon_xanse:
-  term: bon xanse
-  class: b; il
-  category: phrase
-  translation: bonan ŝancon
 bonata:
   term: bonata
   class: b.nenoj; il
@@ -5088,6 +5088,11 @@ bonus:
   class: b
   category: root
   translation: bonifiko
+bonxanse:
+  term: bonxanse
+  class: b; il
+  category: phrase
+  translation: bonan ŝancon
 bonxanseli:
   term: bonxanseli
   class: t
@@ -8072,7 +8077,7 @@ daytermopul:
   translation: varmega; varmege
 dayvento:
   term: dayvento
-  class: b.nenoj
+  class: b
   category: derived
   translation: ventego; ventegi
 dayvi:
@@ -13661,6 +13666,11 @@ fleysinjabu:
   class: b
   category: derived
   translation: flugsciuro
+fleytoralogi:
+  term: fleytoralogi
+  class: b
+  category: derived
+  translation: aeronaŭtiko, aernavigado
 fleytul:
   term: fleytul
   class: b
@@ -15988,6 +15998,11 @@ haberitim:
   class: b
   category: derived
   translation: ĵurnalistaro
+haberiya:
+  term: haberiya
+  class: b
+  category: derived
+  translation: ĵurnalismo
 haberiyen:
   term: haberiyen
   class: b
@@ -16563,11 +16578,6 @@ hawanaviyen:
   class: b
   category: derived
   translation: piloto, aviadisto, aeronaŭto, aerveturanto
-hawatoralogi:
-  term: hawatoralogi
-  class: b
-  category: derived
-  translation: aeronaŭtiko, aernavigado
 haxhaxa:
   term: haxhaxa
   class: b.nenoj
@@ -16603,6 +16613,11 @@ hayayen:
   class: b
   category: derived
   translation: armeno
+hayfen:
+  term: hayfen
+  class: b
+  category: root
+  translation: streketo, dividstreko
 hayti:
   term: Hayti
   class: su n
@@ -19378,6 +19393,11 @@ janu:
   class: b.nenoj
   category: root
   translation: genuo; genui
+janucu:
+  term: janucu
+  class: b.nenoj
+  category: derived
+  translation: ""
 jao:
   term: jao
   class: b
@@ -27380,11 +27400,6 @@ mega:
   class: num
   category: root
   translation: miliono
-megagon:
-  term: megagon
-  class: b
-  category: derived
-  translation: milionangulo, milionlatero
 meganyan:
   term: meganyan
   class: b
@@ -27907,9 +27922,14 @@ meyar:
   translation: kriterio
 meydey:
   term: meydey
-  class: b
+  class: b; il
   category: root
   translation: ekgravaĵo, (kriza) ekokazo
+meydeypul:
+  term: meydeypul
+  class: t
+  category: derived
+  translation: urĝa; urĝe
 meykapu:
   term: meykapu
   class: b.oj
@@ -28117,7 +28137,7 @@ min-:
   translation: malpli-
 min_kom:
   term: min kom
-  class: b
+  class: t jm
   category: phrase
   translation: malpli ol
 mina:
@@ -28390,11 +28410,6 @@ mixturado:
   class: t
   category: derived
   translation: miksita; miksite
-mixturamon:
-  term: mixturamon
-  class: b
-  category: derived
-  translation: ingredienco, konsistaĵo
 mixturatora:
   term: mixturatora
   class: b
@@ -28670,6 +28685,21 @@ monido:
   class: t
   category: derived
   translation: kontrolita, inspektita, reviziita, ekzamenita
+monidoxo:
+  term: monidoxo
+  class: b.oj
+  category: derived
+  translation: ""
+monidoxodo:
+  term: monidoxodo
+  class: t
+  category: derived
+  translation: ""
+monidoxoyen:
+  term: monidoxoyen
+  class: b
+  category: derived
+  translation: ""
 monika:
   term: Monika
   class: su n
@@ -30864,7 +30894,7 @@ nue:
   translation: naŭ
 nuecen:
   term: nuecen
-  class: b
+  class: num
   category: derived
   translation: naŭcent
 nuedes:
@@ -31089,7 +31119,7 @@ oco:
   translation: ok
 ococen:
   term: ococen
-  class: b
+  class: num
   category: derived
   translation: okcent
 ocodes:
@@ -33147,7 +33177,7 @@ petra:
   translation: roko, ŝtono
 petra_mikasi_paper:
   term: petra, mikasi, paper
-  class: b; il
+  class: b
   category: phrase
   translation: papero, tondilo, ŝtono
 petro:
@@ -35957,7 +35987,7 @@ sabe:
   translation: sep
 sabecen:
   term: sabecen
-  class: b
+  class: num
   category: derived
   translation: sepcent
 sabedes:
@@ -37451,11 +37481,6 @@ sifretul:
   class: b
   category: derived
   translation: fajfilo
-sifrexey:
-  term: sifrexey
-  class: b
-  category: derived
-  translation: fajfaĵo
 sigaro:
   term: sigaro
   class: b
@@ -39082,6 +39107,11 @@ syensi:
   class: b
   category: root
   translation: scienco
+syensidom:
+  term: syensidom
+  class: b
+  category: derived
+  translation: laboratorio, esplorejo
 syensifiksyon:
   term: syensifiksyon
   class: b
@@ -40294,7 +40324,7 @@ tigabasali:
   translation: trilingva; trilingve
 tigacen:
   term: tigacen
-  class: b
+  class: num
   category: derived
   translation: tricent
 tigades:
@@ -40729,7 +40759,7 @@ tonporta:
   translation: kunportado; kunporti
 tonpresyon:
   term: tonpresyon
-  class: b
+  class: b.oj
   category: derived
   translation: kunpremo, kompreso; kunpremi
 tontexto:
@@ -43217,7 +43247,7 @@ xaman:
   translation: ŝamano
 xampani:
   term: xampani
-  class: v
+  class: b
   category: root
   translation: ĉampano
 xampani_zona:
@@ -43570,8 +43600,8 @@ xikenjedo:
   class: t
   category: derived
   translation: torturita
-xikenjeli_kamer:
-  term: xikenjeli kamer
+xikenjekamer:
+  term: xikenjekamer
   class: b
   category: phrase
   translation: torturejo
@@ -43757,8 +43787,8 @@ xohrapul:
   class: t
   category: derived
   translation: fama; fame
-xohrapulyen:
-  term: xohrapulyen
+xohrayen:
+  term: xohrayen
   class: b
   category: derived
   translation: famulo, eminentulo, stelulo
@@ -43949,7 +43979,7 @@ xorpilo:
   translation: (ek)lacigo, (ek)laciĝo; (ek)laciĝi; (ek)lacigi
 xorsen:
   term: xorsen
-  class: b
+  class: b.lin
   category: derived
   translation: iĝo; iĝi
 xorside:

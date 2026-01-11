@@ -2771,6 +2771,11 @@ awjeti:
   class: b.oj
   category: derived
   translation: eliminaci&oacute;n, supresi&oacute;n; descartar, eliminar, suprimir
+awjui:
+  term: awjui
+  class: b.oj
+  category: derived
+  translation: ""
 awjuicu:
   term: awjuicu
   class: b.nenoj
@@ -5035,11 +5040,6 @@ bon_turi:
   class: il
   category: derived
   translation: buen viaje (<em>despedida</em>)
-bon_xanse:
-  term: bon xanse
-  class: b; il
-  category: phrase
-  translation: buena suerte (<em>despedida</em>)
 bonata:
   term: bonata
   class: b.nenoj; il
@@ -5145,6 +5145,11 @@ bonus:
   class: b
   category: root
   translation: bonus, bono, bonificaci&oacute;n, prima
+bonxanse:
+  term: bonxanse
+  class: b; il
+  category: phrase
+  translation: buena suerte (<em>despedida</em>)
 bonxanseli:
   term: bonxanseli
   class: t
@@ -8161,7 +8166,7 @@ daytermopul:
   translation: abrasador
 dayvento:
   term: dayvento
-  class: b.nenoj
+  class: b
   category: derived
   translation: r&aacute;faga, racha; soplar en r&aacute;fagas, rachear
 dayvi:
@@ -13784,6 +13789,11 @@ fleysinjabu:
   class: b
   category: derived
   translation: ardilla voladora, <em>Pteromyini</em>
+fleytoralogi:
+  term: fleytoralogi
+  class: b
+  category: derived
+  translation: aeron&aacute;utica
 fleytul:
   term: fleytul
   class: b
@@ -16130,6 +16140,11 @@ haberitim:
   class: b
   category: derived
   translation: prensa (<em>periodismo</em>)
+haberiya:
+  term: haberiya
+  class: b
+  category: derived
+  translation: periodismo
 haberiyen:
   term: haberiyen
   class: b
@@ -16713,11 +16728,6 @@ hawanaviyen:
   class: b
   category: derived
   translation: piloto, aeronauta
-hawatoralogi:
-  term: hawatoralogi
-  class: b
-  category: derived
-  translation: aeron&aacute;utica
 haxhaxa:
   term: haxhaxa
   class: b.nenoj
@@ -16753,6 +16763,11 @@ hayayen:
   class: b
   category: derived
   translation: armenio (<em>persona</em>)
+hayfen:
+  term: hayfen
+  class: b
+  category: root
+  translation: guion
 hayti:
   term: Hayti
   class: su n
@@ -19548,6 +19563,11 @@ janu:
   class: b.nenoj
   category: root
   translation: rodilla; estar arrodillado
+janucu:
+  term: janucu
+  class: b.nenoj
+  category: derived
+  translation: ""
 jao:
   term: jao
   class: b
@@ -27630,11 +27650,6 @@ mega:
   class: num
   category: root
   translation: mega-, 10^6, mill&oacute;n, M
-megagon:
-  term: megagon
-  class: b
-  category: derived
-  translation: hectamiri&aacute;gono
 meganyan:
   term: meganyan
   class: b
@@ -28157,9 +28172,14 @@ meyar:
   translation: criterio
 meydey:
   term: meydey
-  class: b
+  class: b; il
   category: root
   translation: emergencia
+meydeypul:
+  term: meydeypul
+  class: t
+  category: derived
+  translation: ""
 meykapu:
   term: meykapu
   class: b.oj
@@ -28368,7 +28388,7 @@ min-:
   translation: menos
 min_kom:
   term: min kom
-  class: b
+  class: t jm
   category: phrase
   translation: menos que, menos de
 mina:
@@ -28643,11 +28663,6 @@ mixturado:
   class: t
   category: derived
   translation: mezclado, combinado, revuelto, variado, mixto
-mixturamon:
-  term: mixturamon
-  class: b
-  category: derived
-  translation: ingrediente
 mixturatora:
   term: mixturatora
   class: b
@@ -28927,6 +28942,21 @@ monido:
   category: derived
   translation: chequeado, examinado, inspeccionado, revisado, monitoreado, monitorizado,
     registrado
+monidoxo:
+  term: monidoxo
+  class: b.oj
+  category: derived
+  translation: ""
+monidoxodo:
+  term: monidoxodo
+  class: t
+  category: derived
+  translation: ""
+monidoxoyen:
+  term: monidoxoyen
+  class: b
+  category: derived
+  translation: ""
 monika:
   term: Monika
   class: su n
@@ -31142,7 +31172,7 @@ nue:
   translation: nueve
 nuecen:
   term: nuecen
-  class: b
+  class: num
   category: derived
   translation: novecientos
 nuedes:
@@ -31368,7 +31398,7 @@ oco:
   translation: ocho
 ococen:
   term: ococen
-  class: b
+  class: num
   category: derived
   translation: ochocientos
 ocodes:
@@ -33444,7 +33474,7 @@ petra:
   translation: piedra, roca
 petra_mikasi_paper:
   term: petra, mikasi, paper
-  class: b; il
+  class: b
   category: phrase
   translation: piedra papel o tijera(s) (<em>juego</em>), chin chan pun, cachip&uacute;n,
     pin pon papas
@@ -36289,7 +36319,7 @@ sabe:
   translation: siete
 sabecen:
   term: sabecen
-  class: b
+  class: num
   category: derived
   translation: setecientos
 sabedes:
@@ -37792,11 +37822,6 @@ sifretul:
   class: b
   category: derived
   translation: silbato, pito, chifle
-sifrexey:
-  term: sifrexey
-  class: b
-  category: derived
-  translation: silbido
 sigaro:
   term: sigaro
   class: b
@@ -39436,6 +39461,11 @@ syensi:
   class: b
   category: root
   translation: ciencia
+syensidom:
+  term: syensidom
+  class: b
+  category: derived
+  translation: laboratorio
 syensifiksyon:
   term: syensifiksyon
   class: b
@@ -40658,7 +40688,7 @@ tigabasali:
   translation: triling&uuml;e
 tigacen:
   term: tigacen
-  class: b
+  class: num
   category: derived
   translation: trescientos
 tigades:
@@ -41096,7 +41126,7 @@ tonporta:
   translation: llevar (consigo)
 tonpresyon:
   term: tonpresyon
-  class: b
+  class: b.oj
   category: derived
   translation: compresi&oacute;n; comprimir
 tontexto:
@@ -43604,7 +43634,7 @@ xaman:
   translation: cham&aacute;n
 xampani:
   term: xampani
-  class: v
+  class: b
   category: root
   translation: champ&aacute;n, champa&ntilde;a
 xampani_zona:
@@ -43963,8 +43993,8 @@ xikenjedo:
   class: t
   category: derived
   translation: torturado
-xikenjeli_kamer:
-  term: xikenjeli kamer
+xikenjekamer:
+  term: xikenjekamer
   class: b
   category: phrase
   translation: c&aacute;mara de tortura
@@ -44149,8 +44179,8 @@ xohrapul:
   class: t
   category: derived
   translation: famoso; famosamente
-xohrapulyen:
-  term: xohrapulyen
+xohrayen:
+  term: xohrayen
   class: b
   category: derived
   translation: famoso, celebridad, estrella
@@ -44346,7 +44376,7 @@ xorpilo:
   translation: hacer fatigado, hacer cansado; hacerse fatigado, hacerse cansado
 xorsen:
   term: xorsen
-  class: b
+  class: b.lin
   category: derived
   translation: hacerse, volverse, convertirse (en)
 xorside:

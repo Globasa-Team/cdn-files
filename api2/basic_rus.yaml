@@ -2734,6 +2734,11 @@ awjeti:
   class: b.oj
   category: derived
   translation: ""
+awjui:
+  term: awjui
+  class: b.oj
+  category: derived
+  translation: ""
 awjuicu:
   term: awjuicu
   class: b.nenoj
@@ -4974,11 +4979,6 @@ bon_turi:
   class: il
   category: derived
   translation: доброго пути, счастливого пути
-bon_xanse:
-  term: bon xanse
-  class: b; il
-  category: phrase
-  translation: удачи, успеха
 bonata:
   term: bonata
   class: b.nenoj; il
@@ -5086,6 +5086,11 @@ bonus:
   class: b
   category: root
   translation: ""
+bonxanse:
+  term: bonxanse
+  class: b; il
+  category: phrase
+  translation: удачи, успеха
 bonxanseli:
   term: bonxanseli
   class: t
@@ -8068,7 +8073,7 @@ daytermopul:
   translation: ""
 dayvento:
   term: dayvento
-  class: b.nenoj
+  class: b
   category: derived
   translation: ""
 dayvi:
@@ -13652,6 +13657,11 @@ fleysinjabu:
   class: b
   category: derived
   translation: (белка-)летяга
+fleytoralogi:
+  term: fleytoralogi
+  class: b
+  category: derived
+  translation: ""
 fleytul:
   term: fleytul
   class: b
@@ -15972,6 +15982,11 @@ haberitim:
   class: b
   category: derived
   translation: ""
+haberiya:
+  term: haberiya
+  class: b
+  category: derived
+  translation: ""
 haberiyen:
   term: haberiyen
   class: b
@@ -16547,11 +16562,6 @@ hawanaviyen:
   class: b
   category: derived
   translation: ""
-hawatoralogi:
-  term: hawatoralogi
-  class: b
-  category: derived
-  translation: ""
 haxhaxa:
   term: haxhaxa
   class: b.nenoj
@@ -16586,6 +16596,11 @@ hayayen:
   term: Hayayen
   class: b
   category: derived
+  translation: ""
+hayfen:
+  term: hayfen
+  class: b
+  category: root
   translation: ""
 hayti:
   term: Hayti
@@ -19361,6 +19376,11 @@ janu:
   term: janu
   class: b.nenoj
   category: root
+  translation: ""
+janucu:
+  term: janucu
+  class: b.nenoj
+  category: derived
   translation: ""
 jao:
   term: jao
@@ -27353,11 +27373,6 @@ mega:
   class: num
   category: root
   translation: ""
-megagon:
-  term: megagon
-  class: b
-  category: derived
-  translation: ""
 meganyan:
   term: meganyan
   class: b
@@ -27880,8 +27895,13 @@ meyar:
   translation: ""
 meydey:
   term: meydey
-  class: b
+  class: b; il
   category: root
+  translation: ""
+meydeypul:
+  term: meydeypul
+  class: t
+  category: derived
   translation: ""
 meykapu:
   term: meykapu
@@ -28090,7 +28110,7 @@ min-:
   translation: ""
 min_kom:
   term: min kom
-  class: b
+  class: t jm
   category: phrase
   translation: ""
 mina:
@@ -28361,11 +28381,6 @@ mixtura:
 mixturado:
   term: mixturado
   class: t
-  category: derived
-  translation: ""
-mixturamon:
-  term: mixturamon
-  class: b
   category: derived
   translation: ""
 mixturatora:
@@ -28641,6 +28656,21 @@ moni:
 monido:
   term: monido
   class: t
+  category: derived
+  translation: ""
+monidoxo:
+  term: monidoxo
+  class: b.oj
+  category: derived
+  translation: ""
+monidoxodo:
+  term: monidoxodo
+  class: t
+  category: derived
+  translation: ""
+monidoxoyen:
+  term: monidoxoyen
+  class: b
   category: derived
   translation: ""
 monika:
@@ -30835,7 +30865,7 @@ nue:
   translation: ""
 nuecen:
   term: nuecen
-  class: b
+  class: num
   category: derived
   translation: ""
 nuedes:
@@ -31060,7 +31090,7 @@ oco:
   translation: ""
 ococen:
   term: ococen
-  class: b
+  class: num
   category: derived
   translation: ""
 ocodes:
@@ -33115,7 +33145,7 @@ petra:
   translation: ""
 petra_mikasi_paper:
   term: petra, mikasi, paper
-  class: b; il
+  class: b
   category: phrase
   translation: камень, ножницы, бумага
 petro:
@@ -35925,7 +35955,7 @@ sabe:
   translation: ""
 sabecen:
   term: sabecen
-  class: b
+  class: num
   category: derived
   translation: ""
 sabedes:
@@ -37415,11 +37445,6 @@ sifre:
   translation: ""
 sifretul:
   term: sifretul
-  class: b
-  category: derived
-  translation: ""
-sifrexey:
-  term: sifrexey
   class: b
   category: derived
   translation: ""
@@ -39048,6 +39073,11 @@ syensi:
   class: b
   category: root
   translation: наука
+syensidom:
+  term: syensidom
+  class: b
+  category: derived
+  translation: ""
 syensifiksyon:
   term: syensifiksyon
   class: b
@@ -40260,7 +40290,7 @@ tigabasali:
   translation: ""
 tigacen:
   term: tigacen
-  class: b
+  class: num
   category: derived
   translation: триста
 tigades:
@@ -40695,7 +40725,7 @@ tonporta:
   translation: ""
 tonpresyon:
   term: tonpresyon
-  class: b
+  class: b.oj
   category: derived
   translation: ""
 tontexto:
@@ -43180,7 +43210,7 @@ xaman:
   translation: шаман
 xampani:
   term: xampani
-  class: v
+  class: b
   category: root
   translation: шампанское
 xampani_zona:
@@ -43533,8 +43563,8 @@ xikenjedo:
   class: t
   category: derived
   translation: ""
-xikenjeli_kamer:
-  term: xikenjeli kamer
+xikenjekamer:
+  term: xikenjekamer
   class: b
   category: phrase
   translation: камера пыток
@@ -43718,8 +43748,8 @@ xohrapul:
   class: t
   category: derived
   translation: ""
-xohrapulyen:
-  term: xohrapulyen
+xohrayen:
+  term: xohrayen
   class: b
   category: derived
   translation: ""
@@ -43910,7 +43940,7 @@ xorpilo:
   translation: ""
 xorsen:
   term: xorsen
-  class: b
+  class: b.lin
   category: derived
   translation: ""
 xorside:
