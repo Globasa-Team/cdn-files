@@ -5060,11 +5060,6 @@ bonlexi:
   class: b
   category: derived
   translation: euph&eacute;misme
-bonmorcu:
-  term: bonmorcu
-  class: b.nenoj
-  category: derived
-  translation: euthanasie; &ecirc;tre euthanasi&eacute;
 bonnuru:
   term: bonnuru
   class: il
@@ -5172,7 +5167,7 @@ bota:
   translation: botte, bottine
 botela:
   term: botela
-  class: b
+  class: b.oj
   category: root
   translation: ""
 boti:
@@ -5722,7 +5717,7 @@ burgi:
   translation: ""
 burhazam:
   term: burhazam
-  class: b.oj
+  class: b
   category: derived
   translation: ""
 burikaw:
@@ -7325,8 +7320,8 @@ damugi:
   class: b.oj
   category: derived
   translation: ""
-damuli_burtyan:
-  term: damuli burtyan
+damumarka:
+  term: damumarka
   class: b.oj
   category: derived
   translation: ""
@@ -7962,7 +7957,7 @@ daymuhim:
   translation: ""
 daynakun:
   term: daynakun
-  class: b.oj
+  class: b
   category: derived
   translation: ""
 daynakunkal:
@@ -10010,6 +10005,11 @@ durepul:
   class: t
   category: derived
   translation: ""
+durinjon:
+  term: durinjon
+  class: b
+  category: derived
+  translation: ""
 durki:
   term: durki
   class: l
@@ -11810,8 +11810,8 @@ exata:
   class: b.nenoj
   category: derived
   translation: ""
-exbao:
-  term: exbao
+exbaogi:
+  term: exbaogi
   class: b.oj
   category: derived
   translation: ""
@@ -11997,6 +11997,11 @@ explasi:
   translation: ""
 exporta:
   term: exporta
+  class: b.oj
+  category: derived
+  translation: ""
+exsandukugi:
+  term: exsandukugi
   class: b.oj
   category: derived
   translation: ""
@@ -14602,11 +14607,16 @@ gamisodar:
   translation: ""
 gamivada:
   term: gamivada
-  class: b.nenoj
+  class: b.oj
   category: derived
   translation: ""
-gamivadayen:
-  term: gamivadayen
+gamivadado:
+  term: gamivadado
+  class: t
+  category: derived
+  translation: ""
+gamivadadoyen:
+  term: gamivadadoyen
   class: b
   category: derived
   translation: ""
@@ -19278,7 +19288,7 @@ jaluka:
   translation: sangsue, hirudin&eacute;e
 jame:
   term: jame
-  class: t
+  class: b.oro
   category: root
   translation: ""
 jamecu:
@@ -19286,13 +19296,13 @@ jamecu:
   class: b.nenoj
   category: derived
   translation: ""
-jamegi:
-  term: jamegi
-  class: b.oj
+jamedo:
+  term: jamedo
+  class: t
   category: derived
   translation: ""
-jamegitora:
-  term: jamegitora
+jametora:
+  term: jametora
   class: b
   category: derived
   translation: cong&eacute;lateur, cong&eacute;lo
@@ -25158,7 +25168,7 @@ liltunge:
   translation: ""
 lilvento:
   term: lilvento
-  class: b.nenoj
+  class: b
   category: derived
   translation: ""
 lilxaher:
@@ -32089,7 +32099,7 @@ pamdo:
   translation: ""
 pamesto:
   term: pamesto
-  class: b.nenoj
+  class: b
   category: derived
   translation: ""
 pamne:
@@ -34882,6 +34892,11 @@ rahemafil:
   class: t
   category: derived
   translation: ""
+rahemamorgi:
+  term: rahemamorgi
+  class: b.oj
+  category: derived
+  translation: euthanasie; &ecirc;tre euthanasi&eacute;
 rahemapul:
   term: rahemapul
   class: t
@@ -36504,7 +36519,7 @@ sandan:
   translation: ""
 sanduku:
   term: sanduku
-  class: b
+  class: b.oj
   category: root
   translation: ""
 sandwici:
@@ -36516,11 +36531,6 @@ sangu:
   term: sangu
   class: b.oj
   category: root
-  translation: ""
-sangucu:
-  term: sangucu
-  class: b.nenoj
-  category: derived
   translation: ""
 sangudo:
   term: sangudo
@@ -37107,11 +37117,6 @@ semiteo:
   class: b
   category: derived
   translation: demi-dieu
-semoni:
-  term: semoni
-  class: b.nenoj
-  category: derived
-  translation: ""
 semorgi:
   term: semorgi
   class: b.nenoj
@@ -37279,11 +37284,6 @@ sesam:
   translation: ""
 sesangu:
   term: sesangu
-  class: b.nenoj
-  category: derived
-  translation: ""
-sesekso:
-  term: sesekso
   class: b.nenoj
   category: derived
   translation: ""
@@ -38072,11 +38072,6 @@ solokrabe:
   class: b
   category: derived
   translation: bernard-l&rsquo;ermite
-solosekso:
-  term: solosekso
-  class: b.nenoj
-  category: derived
-  translation: ""
 soloya:
   term: soloya
   class: b
@@ -43094,6 +43089,11 @@ xafeyam:
   class: b.oj
   category: derived
   translation: ""
+xagami:
+  term: xagami
+  class: b
+  category: derived
+  translation: ""
 xahedi:
   term: xahedi
   class: b.oj
@@ -44161,7 +44161,7 @@ xupi:
   translation: ""
 xux:
   term: xux
-  class: b.nenoj
+  class: b.nenoj; il
   category: root
   translation: ""
 xweki:
