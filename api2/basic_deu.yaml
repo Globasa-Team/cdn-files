@@ -7543,7 +7543,7 @@ datasayfa:
   translation: Arbeitsblatt, Kalkulationstabelle
 dava:
   term: dava
-  class: b.oj
+  class: b.oro
   category: root
   translation: ""
 davado:
@@ -7606,6 +7606,11 @@ dawn:
   class: su n
   category: proper word
   translation: Down (<em>Name</em>)
+daxu:
+  term: daxu
+  class: b
+  category: root
+  translation: Gedankenstrich
 day:
   term: day
   class: t
@@ -9261,6 +9266,16 @@ dongwigi:
   class: b.oj
   category: derived
   translation: ""
+dongwigiabil:
+  term: dongwigiabil
+  class: t
+  category: derived
+  translation: ""
+dongwigine:
+  term: dongwigine
+  class: t
+  category: derived
+  translation: ""
 dongwipul:
   term: dongwipul
   class: t
@@ -10583,7 +10598,7 @@ encilada:
   translation: Enchilada
 energi:
   term: energi
-  class: b.oj
+  class: b.oro
   category: root
   translation: Energie
 energipul:
@@ -12219,7 +12234,7 @@ fankopul:
 fankosokitan:
   term: fankosokitan
   class: b
-  category: root
+  category: derived
   translation: Torf
 fantasi:
   term: fantasi
@@ -16287,6 +16302,11 @@ hantatwala:
   class: b
   category: derived
   translation: ""
+hao:
+  term: hao
+  class: b
+  category: root
+  translation: Auster
 har:
   term: har
   class: p
@@ -16611,7 +16631,7 @@ hayfen:
   term: hayfen
   class: b
   category: root
-  translation: ""
+  translation: Viertelgeviertstrich, Kurzstrich
 hayti:
   term: Hayti
   class: su n
@@ -17867,6 +17887,11 @@ ikna:
   class: b.oj
   category: root
   translation: ""
+iknaabil:
+  term: iknaabil
+  class: t
+  category: derived
+  translation: ""
 iknado:
   term: iknado
   class: t
@@ -17955,6 +17980,16 @@ imanu:
 imanugi:
   term: imanugi
   class: b.oj
+  category: derived
+  translation: ""
+imanugiabil:
+  term: imanugiabil
+  class: t
+  category: derived
+  translation: ""
+imanugine:
+  term: imanugine
+  class: t
   category: derived
   translation: ""
 imanuible:
@@ -18290,7 +18325,7 @@ inhareabilya:
 inhatarigi:
   term: inhatarigi
   class: b.oj
-  category: root
+  category: derived
   translation: ""
 inhatarigido:
   term: inhatarigido
@@ -30483,6 +30518,11 @@ nikot:
   class: su n
   category: proper word
   translation: Nicot
+nikotina:
+  term: nikotina
+  class: b
+  category: derived
+  translation: ""
 nil:
   term: nil
   class: num; d
@@ -30692,11 +30732,6 @@ nohudu:
   term: nohudu
   class: b
   category: root
-  translation: ""
-nokotina:
-  term: nokotina
-  class: b
-  category: derived
   translation: ""
 noli:
   term: noli
@@ -41196,7 +41231,7 @@ tuberkul:
 tuberkulosis:
   term: tuberkulosis
   class: b
-  category: root
+  category: derived
   translation: Tuberkulose
 tubihu:
   term: tubihu
