@@ -49,11 +49,6 @@
   class: b xfik
   category: affix
   translation: ""
--ina:
-  term: -ina
-  class: b xfik
-  category: affix
-  translation: ""
 -ismo:
   term: -ismo
   class: b xfik
@@ -1281,7 +1276,7 @@ amber:
   translation: 'амбра '
 ambisi:
   term: ambisi
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 ambisicu:
@@ -1431,7 +1426,7 @@ ampula:
   translation: 'ампула '
 amusa:
   term: amusa
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 amusacu:
@@ -1711,7 +1706,7 @@ ankara:
   translation: 'якорь '
 ansya:
   term: ansya
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 ansyacu:
@@ -1856,7 +1851,7 @@ antruli:
   translation: ""
 anwi:
   term: anwi
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 anwicu:
@@ -2186,7 +2181,7 @@ artro:
   translation: сустав
 artroitis:
   term: artroitis
-  class: b.oro
+  class: b.oro.jotay
   category: derived
   translation: артрит
 artroitiscu:
@@ -2371,7 +2366,7 @@ aspini:
   translation: ""
 astama:
   term: astama
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: астма
 astamacu:
@@ -3666,7 +3661,7 @@ barbekyu:
   translation: барбекю, гриль; жарить (грилем)
 bardi:
   term: bardi
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 bardiabil:
@@ -3951,7 +3946,7 @@ bawekal:
   translation: ""
 bawlu:
   term: bawlu
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 bawlucu:
@@ -4326,7 +4321,7 @@ belzebul:
   translation: Вельзевул
 bembi:
   term: bembi
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 bembicu:
@@ -4429,11 +4424,6 @@ benzol:
   class: b
   category: root
   translation: бензол
-beokomusi:
-  term: beokomusi
-  class: t
-  category: derived
-  translation: ""
 bepayayen:
   term: bepayayen
   class: b
@@ -5268,7 +5258,7 @@ bozi:
   translation: коза, козёл
 bozisa:
   term: bozisa
-  class: b.oj
+  class: b.nenoj
   category: derived
   translation: блеяние; блеять
 brandi:
@@ -5503,7 +5493,7 @@ bujotul:
   translation: ""
 buka:
   term: buka
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 bukacu:
@@ -5923,7 +5913,7 @@ bwawdom:
   translation: ""
 bwawsa:
   term: bwawsa
-  class: b.oj
+  class: b.nenoj
   category: derived
   translation: лай; лаять, гавкать, брехать
 byen:
@@ -5968,7 +5958,7 @@ cakal:
   translation: шакал
 cakare:
   term: cakare
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 cakarecu:
@@ -6123,7 +6113,7 @@ careyum:
   translation: четвёртый
 carme:
   term: carme
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 carmecu:
@@ -6413,7 +6403,7 @@ centimetro:
   translation: сантиметр
 centro:
   term: centro
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: центр, середина; центрировать
 centroafrika:
@@ -6658,7 +6648,7 @@ cinjuli_gardanbendu:
   translation: ""
 cinon:
   term: cinon
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 cinonday:
@@ -6993,7 +6983,7 @@ cugaku:
   translation: ""
 cuki:
   term: cuki
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: цикл
 cukili:
@@ -7008,7 +6998,7 @@ cukotka:
   translation: Чукотка
 cundotu:
   term: cundotu
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 cungi:
@@ -8008,7 +7998,7 @@ daypatre:
   translation: ""
 daypawbu:
   term: daypawbu
-  class: b.oj
+  class: b.oj.ru
   category: derived
   translation: ""
 daypeti:
@@ -8048,7 +8038,7 @@ daysuki:
   translation: ""
 daysurprisa:
   term: daysurprisa
-  class: b.oro
+  class: b.oro.hisi
   category: derived
   translation: ""
 daysurprisado:
@@ -8473,7 +8463,7 @@ departamen:
   translation: ""
 depresi:
   term: depresi
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 depresicu:
@@ -9814,7 +9804,7 @@ dudrilu:
   translation: ""
 dudul:
   term: dudul
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 dudulcu:
@@ -9844,6 +9834,11 @@ duergo:
   translation: ""
 dueskri:
   term: dueskri
+  class: b
+  category: derived
+  translation: ""
+duforma:
+  term: duforma
   class: b
   category: derived
   translation: ""
@@ -9982,6 +9977,11 @@ duparacutu:
   class: b
   category: derived
   translation: ""
+dupawbu:
+  term: dupawbu
+  class: b
+  category: derived
+  translation: ""
 dupentu:
   term: dupentu
   class: b
@@ -10072,6 +10072,11 @@ dusuyon:
   class: b
   category: derived
   translation: ""
+duupwasa:
+  term: duupwasa
+  class: b
+  category: derived
+  translation: ""
 duxe:
   term: duxe
   class: b.oj
@@ -10114,7 +10119,7 @@ dwerhantatul:
   translation: ""
 dyabetes:
   term: dyabetes
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: диабет
 dyabetesdo:
@@ -10729,7 +10734,7 @@ epikopul:
   translation: ""
 epilepsi:
   term: epilepsi
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: эпилепсия
 epilepsili:
@@ -10944,7 +10949,7 @@ eskiyen:
   translation: лыжник, лыжница
 eskizofreni:
   term: eskizofreni
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: шизофрения
 eskizofrenicu:
@@ -10999,7 +11004,7 @@ eskolyen:
   translation: ""
 eskorbuto:
   term: eskorbuto
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: цинга, скорбут
 eskri:
@@ -11219,7 +11224,7 @@ espinaka:
   translation: шпинат
 espiral:
   term: espiral
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: спираль
 espiralcune:
@@ -11454,7 +11459,7 @@ estilo:
   translation: стиль
 estimula:
   term: estimula
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 estimulacu:
@@ -11489,7 +11494,7 @@ estiyen:
   translation: ""
 esto:
   term: esto
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 estocu:
@@ -11549,7 +11554,7 @@ estrayki:
   translation: забастовка, стачка; бастовать, забастовать
 estres:
   term: estres
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 estrescu:
@@ -13009,7 +13014,7 @@ fefu:
   translation: лёгкое
 fefuitis:
   term: fefuitis
-  class: b.oro
+  class: b.oro.jotay
   category: derived
   translation: ""
 feka:
@@ -13609,7 +13614,7 @@ flamingo:
   translation: фламинго
 fleksi:
   term: fleksi
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 fleksiabil:
@@ -13774,7 +13779,7 @@ flutu:
   translation: флейта
 fobi:
   term: fobi
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 fobicu:
@@ -14209,7 +14214,7 @@ froyd:
   translation: Фрейд
 frustra:
   term: frustra
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 frustracu:
@@ -14344,7 +14349,7 @@ funduku:
   translation: ""
 funjin:
   term: funjin
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 funsu:
@@ -14369,7 +14374,7 @@ funsyonne:
   translation: ""
 furaha:
   term: furaha
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 furahacu:
@@ -14754,7 +14759,7 @@ ganzo:
   translation: печень
 ganzoitis:
   term: ganzoitis
-  class: b.oro
+  class: b.oro.jotay
   category: derived
   translation: гепатит
 gao:
@@ -15172,6 +15177,11 @@ gile:
   class: t
   category: root
   translation: ""
+gilegi:
+  term: gilegi
+  class: b.oj
+  category: derived
+  translation: ""
 gileya:
   term: gileya
   class: b
@@ -15514,7 +15524,7 @@ gonginyen:
   translation: ""
 gonorey:
   term: gonorey
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: гонорея, перелой, триппер
 gorila:
@@ -15534,7 +15544,7 @@ goronagi:
   translation: ""
 gotas:
   term: gotas
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 gotascune:
@@ -15894,7 +15904,7 @@ gutipul:
   translation: твёрдый
 guton:
   term: guton
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 gutoncune:
@@ -16424,7 +16434,7 @@ harizin:
   translation: ""
 harka:
   term: harka
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 harkaabil:
@@ -16539,7 +16549,7 @@ hatali:
   translation: ""
 hatari:
   term: hatari
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 hataripul:
@@ -16967,10 +16977,10 @@ hero:
   class: b
   category: root
   translation: герой, героиня
-heroina:
-  term: heroina
+heroin:
+  term: heroin
   class: b
-  category: derived
+  category: root
   translation: героин
 heroli:
   term: heroli
@@ -16984,7 +16994,7 @@ heroya:
   translation: ""
 herpes:
   term: herpes
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: герпес
 hervatska:
@@ -17349,7 +17359,7 @@ holocen:
   translation: голоцен
 homa:
   term: homa
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 homapul:
@@ -17609,7 +17619,7 @@ humus:
   translation: хумус
 hunfun:
   term: hunfun
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 hunfuncu:
@@ -17939,7 +17949,7 @@ ile:
   translation: ""
 ilhamu:
   term: ilhamu
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 ilhamuabil:
@@ -18219,7 +18229,7 @@ infer:
   translation: ""
 influenza:
   term: influenza
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: грипп
 infon:
@@ -18299,7 +18309,7 @@ infraroso:
   translation: инфракрасный
 infratermo:
   term: infratermo
-  class: b.oro
+  class: b.oro.jotay
   category: derived
   translation: ""
 infratui:
@@ -18544,7 +18554,7 @@ insulin:
   translation: инсулин
 interes:
   term: interes
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 interescu:
@@ -18724,7 +18734,7 @@ invita:
   translation: ""
 inxo:
   term: inxo
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 inxoabil:
@@ -18854,7 +18864,7 @@ ise:
   translation: ""
 ishal:
   term: ishal
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 islami:
@@ -18989,7 +18999,7 @@ iterbyum:
   translation: иттербий
 itis:
   term: itis
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 itisli:
@@ -19099,7 +19109,7 @@ ixgaluyen:
   translation: ""
 ixi:
   term: ixi
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 ixicu:
@@ -19344,7 +19354,7 @@ jaluka:
   translation: пиявка
 jame:
   term: jame
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 jamecu:
@@ -20099,7 +20109,7 @@ jowey:
   translation: ""
 joxu:
   term: joxu
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 joxucu:
@@ -20494,12 +20504,12 @@ juyuenyen:
   translation: ""
 juzam:
   term: juzam
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 jwan:
   term: jwan
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 jwancune:
@@ -20662,10 +20672,10 @@ kafedom:
   class: b
   category: derived
   translation: кафе
-kafeina:
-  term: kafeina
+kafein:
+  term: kafein
   class: b
-  category: derived
+  category: root
   translation: кофеин
 kafemaxina:
   term: kafemaxina
@@ -21044,7 +21054,7 @@ kancali:
   translation: ""
 kancer:
   term: kancer
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 kancerdo:
@@ -21609,7 +21619,7 @@ katar:
   translation: Катар
 katarata:
   term: katarata
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 katarli:
@@ -21674,7 +21684,7 @@ kaway:
   translation: ""
 kawaywao:
   term: kawaywao
-  class: b.oro
+  class: b.oro.hisi
   category: derived
   translation: ""
 kawaywaodo:
@@ -22419,7 +22429,7 @@ klorin:
   translation: ""
 klosi:
   term: klosi
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 klosicu:
@@ -22537,10 +22547,10 @@ koka:
   class: b
   category: root
   translation: ""
-kokaina:
-  term: kokaina
+kokain:
+  term: kokain
   class: b
-  category: derived
+  category: root
   translation: ""
 kokatu:
   term: kokatu
@@ -22609,12 +22619,12 @@ kola:
   translation: ""
 kolera:
   term: kolera
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 kolesterol:
   term: kolesterol
-  class: b.oro
+  class: b
   category: root
   translation: ""
 kolibri:
@@ -22944,7 +22954,7 @@ konflitone:
   translation: ""
 konforta:
   term: konforta
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 konfortacu:
@@ -22974,7 +22984,7 @@ konfuci:
   translation: Конфуций
 konhwoku:
   term: konhwoku
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 konhwokucu:
@@ -23399,7 +23409,7 @@ krabemaso:
   translation: ""
 krampe:
   term: krampe
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 krasi:
@@ -24474,7 +24484,7 @@ lavraki:
   translation: окунь
 lawfen:
   term: lawfen
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 lawfencu:
@@ -24596,6 +24606,11 @@ lefe_dento:
   term: lefe dento
   class: p jm
   category: phrase
+  translation: ""
+lefe_ki:
+  term: lefe ki
+  class: l
+  category: derived
   translation: ""
 lefe_na:
   term: lefe na
@@ -25264,8 +25279,8 @@ lima:
   translation: пять
 limacen:
   term: limacen
-  class: b
-  category: num
+  class: num
+  category: derived
   translation: пятьсот
 limades:
   term: limades
@@ -25521,6 +25536,11 @@ lokayen:
   term: lokayen
   class: b
   category: derived
+  translation: ""
+lom:
+  term: lom
+  class: il
+  category: root
   translation: ""
 lorenso:
   term: Lorenso
@@ -26104,7 +26124,7 @@ majelisa:
   translation: ""
 majin:
   term: majin
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: корь
 majnuni:
@@ -26189,7 +26209,7 @@ malaki:
   translation: Малахия
 malarya:
   term: malarya
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: малярия
 malawi:
@@ -26489,7 +26509,7 @@ manhirxa:
   translation: ""
 manika:
   term: manika
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: мания
 manikali:
@@ -27990,7 +28010,7 @@ meykapu:
   translation: ""
 meylu:
   term: meylu
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 meyludo:
@@ -28560,7 +28580,7 @@ mogebadam:
   translation: ""
 mogeitis:
   term: mogeitis
-  class: b.oro
+  class: b.oro.jotay
   category: derived
   translation: энцефалит
 mogekal:
@@ -28605,7 +28625,7 @@ mohamad:
   translation: Мухаммед
 moja:
   term: moja
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 moksay:
@@ -30558,10 +30578,10 @@ nikot:
   class: su n
   category: proper word
   translation: Нико
-nikotina:
-  term: nikotina
+nikotin:
+  term: nikotin
   class: b
-  category: derived
+  category: root
   translation: ""
 nil:
   term: nil
@@ -31135,7 +31155,7 @@ oboe:
   translation: гобой
 obsesi:
   term: obsesi
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 obsesicu:
@@ -31855,7 +31875,7 @@ osel:
   translation: осёл
 osis:
   term: osis
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 osisgi:
@@ -32270,7 +32290,7 @@ pangwan:
   translation: ""
 paniko:
   term: paniko
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 panikocu:
@@ -32290,7 +32310,7 @@ panikodo:
   translation: ""
 panikokrisis:
   term: panikokrisis
-  class: b.oro
+  class: b.oro.jotay
   category: derived
   translation: ""
 panikone:
@@ -32470,7 +32490,7 @@ paralelkosmo:
   translation: ""
 paralisi:
   term: paralisi
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 paralisicu:
@@ -32490,7 +32510,7 @@ parametre:
   translation: ""
 paranoy:
   term: paranoy
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 paranoydo:
@@ -33335,7 +33355,7 @@ pilipinayen:
   translation: ""
 pilo:
   term: pilo
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 pilocu:
@@ -34385,7 +34405,7 @@ posyukwe:
   translation: ""
 posyukyo:
   term: posyukyo
-  class: b.oro
+  class: b.oro.jotay
   category: derived
   translation: ""
 potasyum:
@@ -35440,7 +35460,7 @@ reviuyen:
   translation: ""
 rewmati:
   term: rewmati
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 reylu:
@@ -35705,7 +35725,7 @@ ross:
   translation: Росс
 rota:
   term: rota
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 rotacune:
@@ -36015,7 +36035,7 @@ rutu:
   translation: Руфь
 rutyao:
   term: rutyao
-  class: b.oro
+  class: b.oro.harka
   category: derived
   translation: ""
 rutyaocune:
@@ -36261,11 +36281,6 @@ sahigili:
 sahiloga:
   term: sahiloga
   class: b.nenoj
-  category: derived
-  translation: ""
-sahimoni:
-  term: sahimoni
-  class: b.oj
   category: derived
   translation: ""
 sahixey:
@@ -38390,7 +38405,7 @@ soya:
   translation: соя
 soyo:
   term: soyo
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 soyone:
@@ -38855,12 +38870,12 @@ surka:
   translation: уксус
 surprisa:
   term: surprisa
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 surprisaatake:
   term: surprisaatake
-  class: b.oj
+  class: b
   category: derived
   translation: ""
 surprisacu:
@@ -39330,7 +39345,7 @@ taksiyen:
   translation: таксист
 talento:
   term: talento
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 talentodo:
@@ -40200,7 +40215,7 @@ terminal:
   translation: терминал
 termo:
   term: termo
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 termoabil:
@@ -41073,11 +41088,6 @@ trasli:
   class: t
   category: derived
   translation: ""
-traspasa:
-  term: traspasa
-  class: b.oj
-  category: derived
-  translation: ""
 trasplanta:
   term: trasplanta
   class: b.oj
@@ -41110,7 +41120,7 @@ trator:
   translation: трактор
 trawma:
   term: trawma
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: травма
 trawmacu:
@@ -41135,7 +41145,7 @@ trawmapul:
   translation: ""
 treme:
   term: treme
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 tremecune:
@@ -41625,7 +41635,7 @@ uflasido:
   translation: ""
 ufue:
   term: ufue
-  class: b.oro; il
+  class: b.oro.hisi; il
   category: root
   translation: ""
 ufuecu:
@@ -41955,7 +41965,7 @@ urdun:
   translation: Иордания
 urjuha:
   term: urjuha
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 urjuhacune:
@@ -42305,7 +42315,7 @@ vibajado:
   translation: ""
 vibra:
   term: vibra
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 vibracune:
@@ -42635,7 +42645,7 @@ waksu:
   translation: ""
 wakufa:
   term: wakufa
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: ""
 wakufacu:
@@ -42720,7 +42730,7 @@ wanjido:
   translation: ""
 wao:
   term: wao
-  class: b.oro; il
+  class: b.oro.hisi; il
   category: root
   translation: ""
 waocu:
@@ -43112,6 +43122,11 @@ xafe_dento:
   term: xafe dento
   class: p jm
   category: phrase
+  translation: ""
+xafe_ki:
+  term: xafe ki
+  class: l
+  category: derived
   translation: ""
 xafe_morcu:
   term: xafe morcu
@@ -43815,7 +43830,7 @@ xogyoli:
   translation: ""
 xohra:
   term: xohra
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 xohracu:
@@ -43840,7 +43855,7 @@ xohrayen:
   translation: ""
 xoku:
   term: xoku
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 xokuabil:
@@ -43930,7 +43945,7 @@ xorfley:
   translation: ""
 xorfobi:
   term: xorfobi
-  class: b.oro
+  class: b.oro.hisi
   category: derived
   translation: ""
 xorganci:
@@ -43955,7 +43970,7 @@ xorimanu:
   translation: ""
 xorixi:
   term: xorixi
-  class: b.oro
+  class: b.oro.jotay
   category: derived
   translation: ""
 xorjanu:
@@ -44020,7 +44035,7 @@ xoroko:
   translation: ""
 xorpilo:
   term: xorpilo
-  class: b.oro
+  class: b.oro.hisi
   category: derived
   translation: ""
 xorsen:
@@ -44275,7 +44290,7 @@ xyombu:
   translation: рогоз
 xyuci:
   term: xyuci
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 xyucido:
@@ -44640,7 +44655,7 @@ yohoyen:
   translation: ""
 yolyu:
   term: yolyu
-  class: b.oro
+  class: b.oro.hisi
   category: root
   translation: ""
 yolyucu:
@@ -44785,7 +44800,7 @@ yoyo:
   translation: йо-йо
 yozay:
   term: yozay
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 yozaydo:
@@ -44835,7 +44850,7 @@ yukwe:
   translation: ""
 yukyo:
   term: yukyo
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 yukyokal:
@@ -44880,7 +44895,7 @@ yumukuyen:
   translation: кочевник, номад
 yunki:
   term: yunki
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: ""
 yunkido:
@@ -45080,7 +45095,7 @@ zeytuniyow:
   translation: оливковое масло
 zigzagu:
   term: zigzagu
-  class: b.oro
+  class: b.oro.harka
   category: root
   translation: зигзаг; делать зигзаги
 zigzagucune:
@@ -45190,7 +45205,7 @@ zuhuradin:
   translation: пятница
 zukam:
   term: zukam
-  class: b.oro
+  class: b.oro.jotay
   category: root
   translation: простуда
 zukamcu:
