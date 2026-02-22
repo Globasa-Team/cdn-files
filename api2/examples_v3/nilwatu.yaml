@@ -9,7 +9,7 @@
       spa: 'Doxo: Fabula fal Esopo'
   translations:
   - text: Am
-    eng: 'am (par) imperative verb marker: (do)'
+    eng: 'am (par) par: imperative verb marker: (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: awmafu
@@ -17,11 +17,11 @@
     spa: awmafu (b.oj) perdonar
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: hin
-    eng: hin (d) this, these
+    eng: 'hin (d) det: this, these'
     spa: hin (d) este, estos
   - text: ' '
   - text: mara
@@ -29,15 +29,15 @@
     spa: mara (b) vez, ocasi&oacute;n
   - text: ', '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: xa
-    eng: 'xa (par) future tense marker: will, shall'
+    eng: 'xa (par) par: future tense marker: will, shall'
     spa: xa (par) -&aacute; (marcador del tiempo futuro)
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: wanji
@@ -45,7 +45,7 @@
     spa: wanji (b.oj) olvido; olvidar
   - text: ' '
   - text: to
-    eng: 'to (pn) third person singular (inanimate): it'
+    eng: 'to (pn) pron (inanimate): it'
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: '!'
 - text: 'Tonyen jawabu, "Te le gibe tas mi hin nasiha: Am nilwatu xinloy doste hu
@@ -67,13 +67,13 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ', "'
   - text: Te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: gibe
@@ -81,15 +81,15 @@
     spa: gibe (b.oj) d&aacute;diva, donaci&oacute;n, otorgamiento; dar, donar, otorgar
   - text: ' '
   - text: tas
-    eng: tas (p) to (indirect object marker), for (receiver/recipient)
+    eng: 'tas (p) prep: to (indirect object marker), for (receiver/recipient)'
     spa: tas (p) a (marcador del objeto indirecto), para (receptor)
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: hin
-    eng: hin (d) this, these
+    eng: 'hin (d) det: this, these'
     spa: hin (d) este, estos
   - text: ' '
   - text: nasiha
@@ -97,11 +97,11 @@
     spa: nasiha (b.oj) consejo; aconsejar
   - text: ': '
   - text: Am
-    eng: 'am (par) imperative verb marker: (do)'
+    eng: 'am (par) par: imperative verb marker: (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: xinloy
@@ -114,11 +114,11 @@
     spa: doste (b) amigo
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: awrestagi
@@ -126,20 +126,21 @@
     spa: awrestagi (b.oj) abandono; abandonar
   - text: ' '
   - text: yu
-    eng: 'yu (pn) second person singular: you'
+    eng: 'yu (pn) pron: you (singular)'
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: denwatu
-    eng: denwatu (m) then (at that time)
+    eng: 'denwatu (m) adv: then (at that time)'
     spa: denwatu (m) en ese momento, entonces
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: hatari
-    eng: 'hatari (b.oro) danger; v.tr: make dangerous, cause to be dangerous; be dangerous'
-    spa: hatari (b.oro) peligro; ser peligroso; volver peligroso
+    eng: 'hatari (b.oro.jotay) n: danger; v.tr: make dangerous, cause to be dangerous;
+      v.intr: be dangerous'
+    spa: hatari (b.oro.jotay) peligro; ser peligroso; volver peligroso
   - text: ' '
   - text: nercu
     eng: 'nercu (b.nenoj) v.intr: approach, get near, get close'
@@ -156,11 +157,11 @@
       spa: https://doxo.globasa.net/spa/folklorli-hikaye/pearili-hikaye
   translations:
   - text: Denwatu
-    eng: denwatu (m) then (at that time)
+    eng: 'denwatu (m) adv: then (at that time)'
     spa: denwatu (m) en ese momento, entonces
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: Dahabutofa
@@ -170,7 +171,7 @@
     spa: jagecu (b.nenoj) despertar, despertamiento; despertar(se)
   - text: ' '
   - text: ji
-    eng: ji (l) and, as well as
+    eng: 'ji (l) conj: and, as well as'
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: oko
@@ -178,7 +179,7 @@
     spa: oko (b.oj) ojo; ver, mirar
   - text: ' '
   - text: tiga
-    eng: tiga (num) three
+    eng: 'tiga (num) num: three'
     spa: tiga (num) tres
   - text: ' '
   - text: baru
@@ -186,41 +187,41 @@
     spa: baru (b) oso, Ursidae
   - text: ', '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: multi
-    eng: multi (t) many, a lot of, lots of, a great deal of; much, a lot, a great
-      deal
+    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
+      a great deal'
     spa: multi (t) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: xorfobi
-    eng: 'xorfobi (b.oro) v.tr: cause (somebody) to become frightened, cause (somebody)
-      to become scared; become frightened , become scared'
-    spa: xorfobi (b.oro) asustarse
+    eng: 'xorfobi (b.oro.hisi) v.tr: cause (somebody) to become frightened, cause
+      (somebody) to become scared; v.intr: become frightened, become scared'
+    spa: xorfobi (b.oro.hisi) asustarse
   - text: '; '
   - text: kos
-    eng: kos (p) because of, due to, for
+    eng: 'kos (p) prep: because of, due to, for'
     spa: kos (p) por, debido a, a causa de
   - text: ' '
   - text: to
-    eng: 'to (pn) third person singular (inanimate): it'
+    eng: 'to (pn) pron (inanimate): it'
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: ', '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: pawbu
-    eng: pawbu (b.oj.ru) run; run
+    eng: 'pawbu (b.oj.ru) n: run; v.tr: run'
     spa: pawbu (b.oj.ru) carrera, corrida; correr
   - text: ' '
   - text: total
-    eng: total (t) entire, entirely, whole, all, quite (a), absolute, absolutely
+    eng: 'total (t) adj: entire, entirely, whole, all, quite (a), absolute, absolutely'
     spa: total (t) entero, total, absoluto; enteramente, totalmente, absolutamente
   - text: ' '
   - text: watu
@@ -228,12 +229,12 @@
     spa: watu (b) tiempo
   - text: ' '
   - text: durki
-    eng: durki (l) while, as
+    eng: 'durki (l) conj: while, as'
     spa: durki (l) mientras (que)
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
@@ -242,30 +243,30 @@
     spa: ruidi (b.nenoj) regreso, vuelta; regresar, volver
   - text: ' '
   - text: cel
-    eng: cel (p) to, for (denotes destination/goal, intention to attain); -wards
+    eng: 'cel (p) prep: to, for (denotes destination/goal, intention to attain); -wards'
     spa: cel (p) a, para, hacia
   - text: ' '
   - text: sesu
-    eng: sesu (su s) her own, his own, one&#039;s own
+    eng: 'sesu (su s) poss adj: her own, his own, one&#039;s own'
     spa: sesu (su s) su (de uno mismo)
   - text: ' '
   - text: ogar
-    eng: 'ogar (b.oj) n: home, dwelling; v.tr: live in, inhabit; reside (in), dwell
-      (in), live (in)'
+    eng: 'ogar (b.oj) n: home, dwelling; v.tr: live in, inhabit; v.intr: reside, dwell,
+      live'
     spa: ogar (b.oj) hogar, residencia; vivir, residir, habitar
   - text: ', '
   - text: ji
-    eng: ji (l) and, as well as
+    eng: 'ji (l) conj: and, as well as'
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: ruata
@@ -282,7 +283,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Juni
-    eng: 'juni (t) young; root-prefix: offspring, young'
+    eng: 'juni (t) adj: young; root pfx: offspring, young'
     spa: juni (t) joven
   - text: ' '
   - text: rubahe
@@ -290,19 +291,19 @@
     spa: rubahe (b) zorro, raposa, Vulpini
   - text: ', '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: oko
@@ -310,11 +311,11 @@
     spa: oko (b.oj) ojo; ver, mirar
   - text: ' '
   - text: taluji
-    eng: taluji (b.oj.ru) snow; snow
+    eng: 'taluji (b.oj.ru) n: snow; v.tr: snow'
     spa: taluji (b.oj.ru) nieve; nevar
   - text: ', '
   - text: fori
-    eng: fori (t) immediate; immediately
+    eng: 'fori (t) adj: immediate; adv: immediately'
     spa: fori (t) inmediato; inmediatamente, de inmediato, luego luego
   - text: ' '
   - text: vole
@@ -322,7 +323,7 @@
     spa: vole (b.oj) voluntad, deseo; querer, desear
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: yuxi
@@ -330,16 +331,16 @@
     spa: yuxi (b.oj) juego; jugar
   - text: ' '
   - text: fe
-    eng: fe (p) at (time), in (month or year), on (date or day of the week), for (for
-      the first time, etc.), for (in one&#039;s case or experience, in the case or
-      experience of), of (relating to, number, quantity, amount), introduces common
-      prepositional phrases, used in phrasal prepositions, vague locative preposition
+    eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
+      for (for the first time, etc.), for (in one&#039;s case or experience, in the
+      case or experience of), of (relating to, number, quantity, amount), introduces
+      common prepositional phrases, used in phrasal prepositions, vague locative preposition'
     spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
       vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
   - text: ' '
   - text: to
-    eng: 'to (pn) third person singular (inanimate): it'
+    eng: 'to (pn) pron (inanimate): it'
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: .
 - text: Mas, koski te le nilwatu oko sim banto, ji koski te oko multi damu, familyen
@@ -353,25 +354,25 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Mas
-    eng: mas (l) but
+    eng: 'mas (l) conj: but'
     spa: mas (l) pero, mas
   - text: ', '
   - text: koski
-    eng: koski (l) because, since, for
+    eng: 'koski (l) conj: because, since, for'
     spa: koski (l) porque, debido a que, a causa de que, car
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: oko
@@ -379,24 +380,24 @@
     spa: oko (b.oj) ojo; ver, mirar
   - text: ' '
   - text: sim
-    eng: sim (t) similar, alike, like; similarly
+    eng: 'sim (t) adj: similar, alike, like; adv: similarly'
     spa: sim (t) parecido, similar; similarmente
   - text: ' '
   - text: banto
-    eng: banto (pn) something
+    eng: 'banto (pn) pron: something'
     spa: banto (pn) algo
   - text: ', '
   - text: ji
-    eng: ji (l) and, as well as
+    eng: 'ji (l) conj: and, as well as'
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: koski
-    eng: koski (l) because, since, for
+    eng: 'koski (l) conj: because, since, for'
     spa: koski (l) porque, debido a que, a causa de que, car
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
@@ -405,12 +406,12 @@
     spa: oko (b.oj) ojo; ver, mirar
   - text: ' '
   - text: multi
-    eng: multi (t) many, a lot of, lots of, a great deal of; much, a lot, a great
-      deal
+    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
+      a great deal'
     spa: multi (t) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: damu
-    eng: damu (b.oj.ru) blood; bleed
+    eng: 'damu (b.oj.ru) n: blood; v.tr: bleed'
     spa: damu (b.oj.ru) sangre; sangrar
   - text: ', '
   - text: familyen
@@ -418,12 +419,12 @@
     spa: familyen (b) familiar
   - text: ' '
   - text: xoru
-    eng: 'xoru (b.oro) beginning, start, initiation; v.tr: begin, start, initiate;
+    eng: 'xoru (b.oro) n: beginning, start, initiation; v.tr: begin, start, initiate;
       v.intr (optional -cu): begin, start'
     spa: xoru (b.oro) comienzo, principio; comenzar, empezar; comenzar, empezar
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: awpawbu
@@ -431,11 +432,11 @@
     spa: awpawbu (b.nenoj) irse corriendo, escapar
   - text: ' '
   - text: ji
-    eng: ji (l) and, as well as
+    eng: 'ji (l) conj: and, as well as'
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: dayloga
@@ -443,7 +444,7 @@
     spa: dayloga (b.oj) exclamaci&oacute;n; exclamar
   - text: ', "'
   - text: Am
-    eng: 'am (par) imperative verb marker: (do)'
+    eng: 'am (par) par: imperative verb marker: (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: awpawbu
@@ -472,11 +473,11 @@
     spa: dragon (b) drag&oacute;n
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: taslum
@@ -484,14 +485,14 @@
     spa: taslum (b.oj) recepci&oacute;n, recibimiento; recibir
   - text: ' '
   - text: weygebo
-    eng: 'weygebo (b.oj) n: hug, embrace; v.tr: hug embrace'
+    eng: 'weygebo (b.oj) n: hug, embrace; v.tr: hug, embrace'
     spa: weygebo (b.oj) abrazo; abrazar
   - text: ' '
   - text: fe
-    eng: fe (p) at (time), in (month or year), on (date or day of the week), for (for
-      the first time, etc.), for (in one&#039;s case or experience, in the case or
-      experience of), of (relating to, number, quantity, amount), introduces common
-      prepositional phrases, used in phrasal prepositions, vague locative preposition
+    eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
+      for (for the first time, etc.), for (in one&#039;s case or experience, in the
+      case or experience of), of (relating to, number, quantity, amount), introduces
+      common prepositional phrases, used in phrasal prepositions, vague locative preposition'
     spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
       vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
@@ -511,17 +512,17 @@
   translations:
   - text: '"'
   - text: Te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: xa
-    eng: 'xa (par) future tense marker: will, shall'
+    eng: 'xa (par) par: future tense marker: will, shall'
     spa: xa (par) -&aacute; (marcador del tiempo futuro)
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: ewreka
@@ -542,17 +543,17 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Musikali
-    eng: musikali (t) musical; musically
+    eng: 'musikali (t) adj: musical; adv: musically'
     spa: musikali (t) musical; musicalmente
   - text: ' '
   - text: normatim
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: aproba
@@ -560,7 +561,7 @@
     spa: aproba (b.oj) aprobaci&oacute;n; aprobar
   - text: ' '
   - text: dento
-    eng: dento (pn) that, that one, that thing
+    eng: 'dento (pn) pron (inanimate): that (one)'
     spa: dento (pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello
   - text: .
 - text: Nilwatu hay problema.
@@ -573,7 +574,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: hay
@@ -594,7 +595,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: hay
@@ -602,8 +603,9 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: hatari
-    eng: 'hatari (b.oro) danger; v.tr: make dangerous, cause to be dangerous; be dangerous'
-    spa: hatari (b.oro) peligro; ser peligroso; volver peligroso
+    eng: 'hatari (b.oro.jotay) n: danger; v.tr: make dangerous, cause to be dangerous;
+      v.intr: be dangerous'
+    spa: hatari (b.oro.jotay) peligro; ser peligroso; volver peligroso
   - text: .
 - text: Xogyoyen le nilwatu oko kayvutu.
   cite:
@@ -617,11 +619,11 @@
   - text: Xogyoyen
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: oko
@@ -644,15 +646,15 @@
   - text: S
   - text: ': "'
   - text: Dento
-    eng: dento (pn) that, that one, that thing
+    eng: 'dento (pn) pron (inanimate): that (one)'
     spa: dento (pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello
   - text: ' '
   - text: kriban
-    eng: kriban (m) almost, nearly
+    eng: 'kriban (m) adv: almost, nearly'
     spa: kriban (m) casi
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: okur
@@ -660,28 +662,27 @@
     spa: okur (b.nenoj) suceso, acontecimiento; suceder, ocurrir, acontecer, pasar
   - text: ', '
   - text: ji
-    eng: ji (l) and, as well as
+    eng: 'ji (l) conj: and, as well as'
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: yu
-    eng: 'yu (pn) second person singular: you'
+    eng: 'yu (pn) pron: you (singular)'
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: "no"
-    eng: no (m) no, not, don&#039;t, do not, doesn&#039;t, does not
+    eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
     spa: no (m) no
   - text: ' '
   - text: yozay
-    eng: 'yozay (b.oro) guilt, fault, blame; v.tr: blame; v.intr (optional -cu): be
-      guilty'
-    spa: yozay (b.oro) culpa; ser culpable; culpar
+    eng: 'yozay (b.oro.jotay) n: guilt, fault, blame; v.tr: blame; v.intr: be guilty'
+    spa: yozay (b.oro.jotay) culpa; ser culpable; culpar
   - text: ' '
   - text: tem
-    eng: tem (p) about, on, regarding, with regard(s) to
+    eng: 'tem (p) prep: about, on, regarding, with regard(s) to'
     spa: tem (p) acerca de, con respecto a
   - text: ' '
   - text: dento
-    eng: dento (pn) that, that one, that thing
+    eng: 'dento (pn) pron (inanimate): that (one)'
     spa: dento (pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello
   - text: ."
 - text: Te le nilwatu guton mi.
@@ -694,26 +695,26 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: guton
-    eng: 'guton (b.oro) pain, ache; v.tr: hurt (cause pain); ache, hurt (feel pain,
-      have pain, suffer from pain)'
-    spa: guton (b.oro) dolor; sentir dolor; lastimar, doler
+    eng: 'guton (b.oro.hisi) n: pain, ache; v.tr: hurt (cause pain); v.intr: ache,
+      hurt (feel pain, have pain, suffer from pain)'
+    spa: guton (b.oro.hisi) dolor; sentir dolor; lastimar, doler
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: .
 - text: Te le nilwatu burganjongi mi.
@@ -726,23 +727,23 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: burganjongi
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: .
 - text: Mi le nilwatu sen maxmo lutufpul tas lao manixu kom dur total safta leki mi
@@ -756,15 +757,15 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: sen
@@ -772,20 +773,20 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: maxmo
-    eng: maxmo (m) more (to a greater degree)
+    eng: 'maxmo (m) adv: more (to a greater degree)'
     spa: maxmo (m) m&aacute;s (para describir adjetivos y adverbios)
   - text: ' '
   - text: lutufpul
-    eng: lutufpul (t) kind, nice; kindly, nicely
+    eng: 'lutufpul (t) adj: kind, nice; adv: kindly, nicely'
     spa: lutufpul (t) amable, atento, generoso, c&aacute;lido, bondadoso; cort&eacute;smente,
       amablemente
   - text: ' '
   - text: tas
-    eng: tas (p) to (indirect object marker), for (receiver/recipient)
+    eng: 'tas (p) prep: to (indirect object marker), for (receiver/recipient)'
     spa: tas (p) a (marcador del objeto indirecto), para (receptor)
   - text: ' '
   - text: lao
-    eng: 'lao (t) old '
+    eng: 'lao (t) adj: old'
     spa: lao (t) viejo (ant&oacute;nimo de joven), mayor
   - text: ' '
   - text: manixu
@@ -793,15 +794,15 @@
     spa: manixu (b) hombre (adulto)
   - text: ' '
   - text: kom
-    eng: kom (l) as (comparable to), than (as compared with)
+    eng: 'kom (l) conj: as (comparable to), than (as compared with)'
     spa: kom (l) que, como, en comparaci&oacute;n con
   - text: ' '
   - text: dur
-    eng: dur (p) during, for
+    eng: 'dur (p) prep: during, for (duration)'
     spa: dur (p) durante, por
   - text: ' '
   - text: total
-    eng: total (t) entire, entirely, whole, all, quite (a), absolute, absolutely
+    eng: 'total (t) adj: entire, entirely, whole, all, quite (a), absolute, absolutely'
     spa: total (t) entero, total, absoluto; enteramente, totalmente, absolutamente
   - text: ' '
   - text: safta
@@ -809,15 +810,15 @@
     spa: safta (b) semana
   - text: ' '
   - text: leki
-    eng: leki (l) before (+ sentence)
+    eng: 'leki (l) conj: before (+ sentence)'
     spa: leki (l) antes (de que)
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: morgi
@@ -825,8 +826,8 @@
     spa: morgi (b.oj) matanza, asesinato; matar, asesinar
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: .
@@ -840,19 +841,19 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: xoraham
-    eng: 'xoraham (b.oj) n: realization; v.tr: realize'
+    eng: 'xoraham (b.oj) n: realization, realisation; v.tr: realize, realise'
     spa: xoraham (b.oj) comprensi&oacute;n, entendimiento, realizaci&oacute;n; comprender,
       entender, percatarse (de), darse cuenta, caer en la cuenta, caerle el veinte,
       realizar
@@ -862,11 +863,11 @@
     spa: daraje (b) grado, nivel
   - text: ' '
   - text: de
-    eng: de (p) of, belonging (to), -&#039;s (genitive case)
+    eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
     spa: de (p) de (perteneciente a)
   - text: ' '
   - text: misu
-    eng: misu (su s) my
+    eng: 'misu (su s) poss adj: my'
     spa: misu (su s) mi
   - text: ' '
   - text: abilya
@@ -874,7 +875,7 @@
     spa: abilya (b) habilidad, capacidad
   - text: ' '
   - text: ji
-    eng: ji (l) and, as well as
+    eng: 'ji (l) conj: and, as well as'
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: sofi
@@ -882,105 +883,29 @@
     spa: sofi (b) sabidur&iacute;a
   - text: ' '
   - text: denpul
-    eng: denpul (t) like that, like so, (in) that way, thus, such
+    eng: 'denpul (t) adj: like that, like so, (in) that way, thus, such; adv: like
+      that, thus, that way'
     spa: denpul (t) tal, as&iacute;, (de) ese tipo (de)
   - text: ' '
   - text: kom
-    eng: kom (l) as (comparable to), than (as compared with)
+    eng: 'kom (l) conj: as (comparable to), than (as compared with)'
     spa: kom (l) que, como, en comparaci&oacute;n con
   - text: ' '
   - text: fe
-    eng: fe (p) at (time), in (month or year), on (date or day of the week), for (for
-      the first time, etc.), for (in one&#039;s case or experience, in the case or
-      experience of), of (relating to, number, quantity, amount), introduces common
-      prepositional phrases, used in phrasal prepositions, vague locative preposition
+    eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
+      for (for the first time, etc.), for (in one&#039;s case or experience, in the
+      case or experience of), of (relating to, number, quantity, amount), introduces
+      common prepositional phrases, used in phrasal prepositions, vague locative preposition'
     spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
       vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
   - text: ' '
   - text: den
-    eng: den (d) that, those
+    eng: 'den (d) det: that, those'
     spa: den (d) ese, aquel
   - text: ' '
   - text: noce
     eng: 'noce (b) n: night'
     spa: noce (b) noche
-  - text: .
-- text: <strong>Triunfayen sen royayen hu da nilwatu teslimu.</strong>
-  cite:
-    text:
-      eng: 'Doxo: Inyo'
-      spa: 'Doxo: Inyo'
-    link:
-      eng: https://doxo.globasa.net/eng/inyo
-      spa: https://doxo.globasa.net/spa/inyo
-  translations:
-  - text: '**'
-  - text: Triunfayen
-  - text: ' '
-  - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
-    spa: sen (b.lin) ser; ser, estar
-  - text: ' '
-  - text: royayen
-    eng: 'royayen (b) n: dreamer'
-    spa: royayen (b) so&ntilde;ador
-  - text: ' '
-  - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
-    spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
-  - text: ' '
-  - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
-    spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
-  - text: ' '
-  - text: nilwatu
-    eng: nilwatu (m) never
-    spa: nilwatu (m) nunca
-  - text: ' '
-  - text: teslimu
-    eng: 'teslimu (b.oro) surrender; v.tr: surrender, quit; v.intr (optional -cu):
-      surrender (to), succumb (to), give in (to), give up, resign, quit'
-    spa: teslimu (b.oro) rendici&oacute;n; rendirse, sucumbir, darse por vencido;
-      hacer que se rinda
-  - text: .**
-- text: Mas ren ingay na nilwatu fale to nyatukal.
-  cite:
-    text:
-      eng: 'Doxo: Esey'
-      spa: 'Doxo: Esey'
-    link:
-      eng: https://doxo.globasa.net/eng/esey
-      spa: https://doxo.globasa.net/spa/esey
-  translations:
-  - text: Mas
-    eng: mas (l) but
-    spa: mas (l) pero, mas
-  - text: ' '
-  - text: ren
-    eng: 'ren (pn) third person (general): one'
-    spa: ren (pn) uno (pronombre)
-  - text: ' '
-  - text: ingay
-    eng: ingay (t; f.sah) which should, which ought (to); should, ought (to)
-    spa: ingay (t; f.sah) que deber&iacute;a, obligado; obligadamente; deber(&iacute;a)
-  - text: ' '
-  - text: na
-    eng: 'na (par) infinitive marker: to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
-  - text: ' '
-  - text: nilwatu
-    eng: nilwatu (m) never
-    spa: nilwatu (m) nunca
-  - text: ' '
-  - text: fale
-    eng: 'fale (b.oj) n: deed, act; v.tr: do, does, make, perform'
-    spa: fale (b.oj) hecho, acto; hacer
-  - text: ' '
-  - text: to
-    eng: 'to (pn) third person singular (inanimate): it'
-    spa: to (pn) &eacute;l (cosa), ella, elle, ello
-  - text: ' '
-  - text: nyatukal
   - text: .
 ...

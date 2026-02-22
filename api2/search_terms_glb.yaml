@@ -203,8 +203,6 @@ adhesiente:
 - adhesiente
 adhesine:
 - adhesine
-adhesixey:
-- adhesixey
 adil:
 - adil
 adilya:
@@ -448,6 +446,12 @@ alo:
 - fe_alo_kaso
 - fe_alo_lexi
 - fe_alo_loga
+- alo_bante
+- alo_banto
+alo bante:
+- alo_bante
+alo banto:
+- alo_banto
 alocu:
 - alocu
 alodexa:
@@ -510,10 +514,12 @@ alosu:
 alote:
 - nil_alote_kom
 - alote
+- ban_alote
 - he_alote
 aloto:
 - intre_aloto
 - aloto
+- ban_aloto
 - he_aloto
 alowatu:
 - alowatu
@@ -1318,6 +1324,7 @@ bagala:
 - bagala
 bage:
 - bage
+- fe_bage
 - fe_misu_bage
 - fe_sesu_bage
 bageli:
@@ -1429,6 +1436,12 @@ ban:
 - fe_ban_leli_watu
 - fe_ban_mara
 - fe_ban_xali_watu
+- ban_alote
+- ban_aloto
+ban alote:
+- ban_alote
+ban aloto:
+- ban_aloto
 ban leli watu:
 - fe_ban_leli_watu
 ban mara:
@@ -1499,9 +1512,11 @@ bansu:
 - he_bansu
 - bansu
 bante:
+- alo_bante
 - bante
 - he_bante
 banto:
+- alo_banto
 - banto
 - he_banto
 banwatu:
@@ -2190,8 +2205,8 @@ boylecu:
 boylecune:
 - boylecune
 boyledo:
-- boyledo
 - boyledo_ovo
+- boyledo
 boyledo ovo:
 - boyledo_ovo
 boylene:
@@ -3391,18 +3406,18 @@ dayya:
 dayyakin:
 - dayyakin
 de:
+- de
 - fe_byen_de
 - fe_centro_de
 - fe_comen_de
 - fe_exya_de
+- fe_fronta_de
 - fe_inya_de
+- fe_kapi_de
 - fe_kaso_de
 - fe_midiya_de
 - fe_muka_de
 - fe_oko_de
-- de
-- fe_fronta_de
-- fe_kapi_de
 - fe_oposya_de
 - fe_peda_de
 - fe_ruke_de
@@ -3490,8 +3505,8 @@ denkwanti:
 - denkwanti
 denloka:
 - denloka_hu
-- hu_denloka
 - denloka
+- hu_denloka
 denloka hu:
 - denloka_hu
 denlokali:
@@ -3542,6 +3557,7 @@ dentamedisyen:
 - dentamedisyen
 dente:
 - dente
+- he_dente
 dento:
 - kos_dento
 - lefe_dento
@@ -3551,8 +3567,11 @@ dento:
 denwatu:
 - denwatu_hu
 - denwatu
+- hu_denwatu
 denwatu hu:
 - denwatu_hu
+denwatuli:
+- denwatuli
 denya:
 - denya
 deodoran:
@@ -3608,56 +3627,24 @@ des un:
 - des_un
 desbanyen:
 - desbanyen
-descaregon:
-- descaregon
-descareple:
-- descareple
 descareyum:
 - descareyum
-desduagon:
-- desduagon
-desduaple:
-- desduaple
 desduayum:
 - desduayum
-deslimagon:
-- deslimagon
-deslimaple:
-- deslimaple
 deslimayum:
 - deslimayum
-desnuegon:
-- desnuegon
-desnueple:
-- desnueple
 desnueyum:
 - desnueyum
 desnyan:
 - desnyan
-desocogon:
-- desocogon
-desocople:
-- desocople
 desocoyum:
 - desocoyum
 desple:
 - desple
-dessabegon:
-- dessabegon
-dessabeple:
-- dessabeple
 dessabeyum:
 - dessabeyum
-dessisagon:
-- dessisagon
-dessisaple:
-- dessisaple
 dessisayum:
 - dessisayum
-destigagon:
-- destigagon
-destigaple:
-- destigaple
 destigayum:
 - destigayum
 destrui:
@@ -3668,10 +3655,6 @@ destruifil:
 - destruifil
 destruiyen:
 - destruiyen
-desungon:
-- desungon
-desunple:
-- desunple
 desunyum:
 - desunyum
 desyum:
@@ -4010,23 +3993,11 @@ dua:
 - mesi_dua
 - mesi_un_dua
 - token_dua_lima
-- fe_dua_mara
 - des_dua
 - dua
-- dua_giga
-- dua_kilo
-- dua_mega
-- dua_tera
-dua giga:
-- dua_giga
-dua kilo:
-- dua_kilo
+- fe_dua_mara
 dua mara:
 - fe_dua_mara
-dua mega:
-- dua_mega
-dua tera:
-- dua_tera
 duabasali:
 - duabasali
 duabasayen:
@@ -4041,10 +4012,6 @@ duacidi:
 - duacidi
 duades:
 - duades
-duadesgon:
-- duadesgon
-duadesple:
-- duadesple
 duadesyum:
 - duadesyum
 duadimensili:
@@ -4208,8 +4175,8 @@ duproduti:
 dupul:
 - dupul
 dur:
-- total_dur
 - dur
+- total_dur
 - dur_na
 - dur_total
 dur na:
@@ -4340,8 +4307,8 @@ eger:
 - eger
 - eger_no
 - eger_si
-- mas_sol_eger
 - minus_eger
+- mas_sol_eger
 eger no:
 - eger_no
 eger si:
@@ -5219,7 +5186,17 @@ fayludo:
 - fayludo
 fe:
 - teori_fe_evolu
+- fe_folo_ki
+- fe_hataya_ki
+- fe_kaso_ki
 - fe_kolyo_ki
+- fe_kompara_ki
+- fe_kosa_ki
+- fe_tayti_ki
+- fe_xarti_ki
+- ki_fe_folo
+- mas_fe_hataya
+- fe
 - fe_basi_fe
 - fe_byen_de
 - fe_centro_de
@@ -5227,39 +5204,25 @@ fe:
 - fe_exkludi_fe
 - fe_exya_de
 - fe_folo_fe
+- fe_fronta_de
+- fe_hataya_fe
 - fe_inkludi_fe
 - fe_inya_de
+- fe_kapi_de
 - fe_kaso_de
 - fe_kaso_fe
+- fe_kompara_fe
+- fe_kosa_fe
 - fe_midiya_de
 - fe_muka_de
 - fe_offolo_fe
 - fe_oko_de
 - fe_okur_fe
-- fe_tayti_fe
-- fe_tema_fe
-- fe_folo_ki
-- fe_hataya_ki
-- fe_kaso_ki
-- fe_kompara_ki
-- fe_kosa_ki
-- fe_tayti_ki
-- ki_fe_folo
-- fe_xarti_ki
-- mas_fe_hataya
-- fe_fato
-- fe_fini
-- fe_infer
-- fe_super
-- fe
-- fe_fronta_de
-- fe_hataya_fe
-- fe_kapi_de
-- fe_kompara_fe
-- fe_kosa_fe
 - fe_oposya_de
 - fe_peda_de
 - fe_ruke_de
+- fe_tayti_fe
+- fe_tema_fe
 - jali_fe
 - lefe_or_fe
 - ner_fe
@@ -5270,6 +5233,7 @@ fe:
 - fe_aresto
 - fe_asel
 - fe_asif
+- fe_bage
 - fe_basi
 - fe_baxya
 - fe_benji
@@ -5280,6 +5244,8 @@ fe:
 - fe_durya
 - fe_espesyalya
 - fe_exya
+- fe_fato
+- fe_fini
 - fe_folo
 - fe_folya
 - fe_fronta
@@ -5287,6 +5253,7 @@ fe:
 - fe_gwaho
 - fe_hataya
 - fe_hin_kaso
+- fe_infer
 - fe_infracengu
 - fe_intrewatu
 - fe_intreya
@@ -5317,6 +5284,7 @@ fe:
 - fe_preferi_kom
 - fe_ruke
 - fe_sesu_bage
+- fe_super
 - fe_supracengu
 - fe_tayti
 - fe_teo
@@ -5339,6 +5307,8 @@ fe asel:
 - fe_asel
 fe asif:
 - fe_asif
+fe bage:
+- fe_bage
 fe ban leli watu:
 - fe_ban_leli_watu
 fe ban mara:
@@ -5949,9 +5919,9 @@ folnormali:
 - folnormali
 folo:
 - folo
-- fe_folo_fe
 - fe_folo_ki
 - ki_fe_folo
+- fe_folo_fe
 - fe_folo
 foloyen:
 - foloyen
@@ -6412,8 +6382,8 @@ gepu:
 gepugi:
 - gepugi
 ger:
-- ger_abil
 - ger_preferi
+- ger_abil
 - ger
 ger abil:
 - ger_abil
@@ -6448,7 +6418,6 @@ gidatul:
 gidayen:
 - gidayen
 giga:
-- dua_giga
 - giga
 giganyan:
 - giganyan
@@ -7106,15 +7075,20 @@ he:
 - he_aloto
 - he_bante
 - he_banto
+- he_dente
 - he_dento
 - he_ete
+- he_hinte
 - he_hinto
 - he_imi
 - he_kete
 - he_keto
 - he_mi
+- he_moyte
 - he_moyto
+- he_nilte
 - he_nilto
+- he_samate
 - he_samato
 - he_te
 - he_uyu
@@ -7153,12 +7127,16 @@ he banwatu:
 - he_banwatu
 he den:
 - he_den
+he dente:
+- he_dente
 he dento:
 - he_dento
 he ete:
 - he_ete
 he hin:
 - he_hin
+he hinte:
+- he_hinte
 he hinto:
 - he_hinto
 he imi:
@@ -7173,14 +7151,20 @@ he mi:
 - he_mi
 he moy:
 - he_moy
+he moyte:
+- he_moyte
 he moyto:
 - he_moyto
 he nil:
 - he_nil
+he nilte:
+- he_nilte
 he nilto:
 - he_nilto
 he sama:
 - he_sama
+he samate:
+- he_samate
 he samato:
 - he_samato
 he te:
@@ -7324,10 +7308,13 @@ hinseba:
 hinsu:
 - hinsu
 hinte:
+- he_hinte
 - hinte
 hinto:
 - he_hinto
 - hinto
+hintwatulil:
+- hintwatulil
 hinwatu:
 - hinwatu
 hinwatuli:
@@ -7380,10 +7367,14 @@ hole:
 - hole
 holmyum:
 - holmyum
+holo-:
+- holo-
 holoba:
 - holoba
 holocen:
 - holocen
+holografi:
+- holografi
 homa:
 - homa
 homapul:
@@ -7456,6 +7447,7 @@ hu:
 - hu
 - moyloka_hu
 - hu_denloka
+- hu_denwatu
 - hu_in_da
 - hu_da
 - hu_dasu
@@ -7465,6 +7457,8 @@ hu dasu:
 - hu_dasu
 hu denloka:
 - hu_denloka
+hu denwatu:
+- hu_denwatu
 hu in da:
 - hu_in_da
 hudson:
@@ -7750,8 +7744,8 @@ infarto:
 - infarto
 infer:
 - infer
-- fe_infer
 - cel_infer
+- fe_infer
 influenza:
 - influenza
 infon:
@@ -9130,9 +9124,9 @@ kasirunenible:
 - kasirunenible
 kaso:
 - kaso
+- fe_kaso_ki
 - fe_kaso_de
 - fe_kaso_fe
-- fe_kaso_ki
 - fe_alo_kaso
 - fe_den_kaso
 - fe_hin_kaso
@@ -9337,19 +9331,19 @@ kewatu:
 kexru:
 - kexru
 ki:
-- fe_kolyo_ki
 - kosya_ki
 - fe_folo_ki
 - fe_hataya_ki
 - fe_kaso_ki
+- fe_kolyo_ki
 - fe_kompara_ki
 - fe_kosa_ki
 - fe_tayti_ki
+- fe_xarti_ki
 - ki
 - ki_fe_folo
 - lefe_ki
 - xafe_ki
-- fe_xarti_ki
 ki fe folo:
 - ki_fe_folo
 kibiriti:
@@ -9369,18 +9363,13 @@ kikil:
 kila:
 - kila
 kilo:
-- dua_kilo
 - kilo
-kilogon:
-- kilogon
 kilogramo:
 - kilogramo
 kilometroje:
 - kilometroje
 kilonyan:
 - kilonyan
-kilople:
-- kilople
 kiloyum:
 - kiloyum
 kima:
@@ -9611,15 +9600,15 @@ kolyo:
 - kolyo
 - fe_kolyo_ki
 kom:
+- max_kom
+- maxmo_kom
+- min_kom
+- minmo_kom
 - nil_alote_kom
 - alopul_kom
 - denpul_kom
 - kom
-- max_kom
-- maxmo_kom
-- minmo_kom
 - fe_preferi_kom
-- min_kom
 kom...:
 - denmo_kom
 koma:
@@ -10393,9 +10382,8 @@ leaxam:
 ledin:
 - ledin
 lefe:
-- lefe_na
 - lefe_ki
-- lefe
+- lefe_na
 - lefe_or_fe
 - fori_lefe
 - fori_lefe_na
@@ -10405,6 +10393,7 @@ lefe:
 - ner_lefe_na
 - teli_lefe
 - teli_lefe_na
+- lefe
 lefe dento:
 - lefe_dento
 lefe ki:
@@ -10467,13 +10456,13 @@ leim:
 leimdo:
 - leimdo
 leki:
-- leki
 - fori_leki
+- leki
 - ner_leki
 - teli_leki
 leli:
-- fe_ban_leli_watu
 - leli_banwatu
+- fe_ban_leli_watu
 - leli
 leli banwatu:
 - leli_banwatu
@@ -11420,17 +11409,14 @@ mawson:
 - mawson
 max:
 - max
-- max_nilte_maxus
+- max_kom
 - ji_max_ete
 - ji_max_oto
 - ji_max_te
 - ji_max_to
-- max_kom
 - max_or_min
 max kom:
 - max_kom
-max nilte maxus:
-- max_nilte_maxus
 max or min:
 - max_or_min
 max-:
@@ -11545,7 +11531,6 @@ maxpahnagi:
 maxpul:
 - maxpul
 maxus:
-- max_nilte_maxus
 - maxus
 maxusgi:
 - maxusgi
@@ -11583,8 +11568,6 @@ medis:
 - medis
 medisdo:
 - medisdo
-medisdoku:
-- medisdoku
 medisdom:
 - medisdom
 medisente:
@@ -11604,7 +11587,6 @@ meditayen:
 medya:
 - medya
 mega:
-- dua_mega
 - mega
 meganyan:
 - meganyan
@@ -11920,8 +11902,8 @@ mimu:
 - mimu
 min:
 - min
-- max_or_min
 - min_kom
+- max_or_min
 min kom:
 - min_kom
 min-:
@@ -12304,6 +12286,7 @@ moyseba:
 moysu:
 - moysu
 moyte:
+- he_moyte
 - moyte
 moyto:
 - he_moyto
@@ -12847,13 +12830,13 @@ nepoti:
 nepotiismo:
 - nepotiismo
 ner:
-- fe_ner_leya
-- fe_ner_or_teli_xaya
-- fe_ner_xaya
 - ner_leki
 - ner_xaki
 - ner_fe
 - ner_of
+- fe_ner_leya
+- fe_ner_or_teli_xaya
+- fe_ner_xaya
 - ner_lefe
 - ner_lefe_na
 - ner_xafe
@@ -12982,7 +12965,7 @@ nilseba:
 nilsu:
 - nilsu
 nilte:
-- max_nilte_maxus
+- he_nilte
 - nilte
 nilto:
 - he_nilto
@@ -13022,12 +13005,12 @@ nispatupul:
 nitrogen:
 - nitrogen
 "no":
-- le_no
+- no_abil
 - no_hay_seba
+- le_no
 - xa_no
 - eger_no
 - "no"
-- no_abil
 - no_haji
 - no_hata
 - no_uje
@@ -13439,9 +13422,9 @@ opsyon:
 opsyonli:
 - opsyonli
 or:
-- fe_ner_or_teli_xaya
 - or
 - lefe_or_fe
+- fe_ner_or_teli_xaya
 - max_or_min
 - maxmo_or_minmo
 orange:
@@ -13595,8 +13578,8 @@ ovari:
 ovarili:
 - ovarili
 ovo:
-- ovo
 - boyledo_ovo
+- ovo
 ovofigurali:
 - ovofigurali
 ovokexru:
@@ -15437,6 +15420,7 @@ samaseba:
 samasu:
 - samasu
 samate:
+- he_samate
 - samate
 samato:
 - he_samato
@@ -15596,6 +15580,7 @@ seasosya:
 seba:
 - seba
 - no_hay_seba
+- wal_seba
 sebakal:
 - sebakal
 sebanyo:
@@ -16357,8 +16342,8 @@ supa:
 - supa
 super:
 - super
-- fe_super
 - cel_super
+- fe_super
 supra:
 - supra
 supra-:
@@ -16775,8 +16760,8 @@ taysa:
 - taysa
 tayti:
 - tayti
-- fe_tayti_fe
 - fe_tayti_ki
+- fe_tayti_fe
 - fe_tayti
 taytido:
 - taytido
@@ -16831,11 +16816,11 @@ teknoli:
 televisi:
 - televisi
 teli:
-- fe_ner_or_teli_xaya
 - teli_leki
 - teli_xaki
 - teli_fe
 - teli_of
+- fe_ner_or_teli_xaya
 - teli_lefe
 - teli_lefe_na
 - teli_xafe
@@ -16961,7 +16946,6 @@ teori fe evolu:
 teorili:
 - teorili
 tera:
-- dua_tera
 - tera
 terakota:
 - terakota
@@ -17051,9 +17035,9 @@ tie:
 - tie
 tiga:
 - mesi_tiga
-- fe_tiga_mara
 - des_tiga
 - tiga
+- fe_tiga_mara
 tiga mara:
 - fe_tiga_mara
 tigabasali:
@@ -17674,9 +17658,9 @@ un:
 - un_ofsisa
 - un_oftiga
 - hata_un
-- fe_un_mara
 - des_un
 - un
+- fe_un_mara
 - un_solo
 un mara:
 - fe_un_mara
@@ -18035,6 +18019,7 @@ wakufacu:
 wakufado:
 - wakufado
 wal:
+- wal_seba
 - wal
 - wal_jui_tem
 - wal_na
@@ -18042,6 +18027,8 @@ wal jui tem:
 - wal_jui_tem
 wal na:
 - wal_na
+wal seba:
+- wal_seba
 wal-:
 - wal-
 wala:
@@ -18093,10 +18080,10 @@ wasyatudo:
 wati:
 - wati
 watu:
+- kurto_watu
 - watu
 - fe_ban_leli_watu
 - fe_ban_xali_watu
-- kurto_watu
 - fe_nerleli_watu
 watuhuru:
 - watuhuru
@@ -18227,10 +18214,9 @@ xabahunavi:
 xadin:
 - xadin
 xafe:
+- xafe_ki
 - xosu_xafe_xosu
 - xafe_na
-- xafe_ki
-- xafe
 - fori_xafe
 - fori_xafe_na
 - ner_xafe
@@ -18241,6 +18227,7 @@ xafe:
 - xafe_morcu
 - xafe_to
 - xafe_xengi
+- xafe
 xafe dento:
 - xafe_dento
 xafe ki:
@@ -18302,17 +18289,17 @@ xahumatu:
 xahutahta:
 - xahutahta
 xaki:
-- xaki
 - fori_xaki
 - ner_xaki
 - teli_xaki
+- xaki
 xalaf:
 - xalaf
 xalgam:
 - xalgam
 xali:
-- fe_ban_xali_watu
 - xali_banwatu
+- fe_ban_xali_watu
 - xali
 xali banwatu:
 - xali_banwatu
@@ -18658,6 +18645,8 @@ xosu:
 - xosu
 xosu xafe xosu:
 - xosu_xafe_xosu
+xosumo:
+- xosumo
 xovin:
 - xovin
 xovinismo:

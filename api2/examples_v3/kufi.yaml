@@ -9,8 +9,8 @@
       spa: 'Doxo: Fabula fal Esopo'
   translations:
   - text: Te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
@@ -19,7 +19,7 @@
     spa: loga (b.oj) declaraci&oacute;n, enunciaci&oacute;n; decir, declarar, enunciar
   - text: ", \u201C"
   - text: Hinto
-    eng: hinto (pn) this, this one, this thing
+    eng: 'hinto (pn) pron (inanimate): this (one)'
     spa: hinto (pn) este (cosa), &eacute;ste, esto
   - text: ' '
   - text: sen
@@ -27,7 +27,7 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: kufi
-    eng: kufi (t) enough, sufficient; enough, sufficiently
+    eng: 'kufi (t) adj: enough, sufficient; adv: enough, sufficiently'
     spa: kufi (t) suficiente, bastante; suficientemente, bastantemente
   - text: ".\u201D"
 - text: Dento yakingi ki moy plantali bioyen abil na taslum kufi lumin cel na bon
@@ -41,7 +41,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Dento
-    eng: dento (pn) that, that one, that thing
+    eng: 'dento (pn) pron (inanimate): that (one)'
     spa: dento (pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello
   - text: ' '
   - text: yakingi
@@ -49,11 +49,11 @@
     spa: yakingi (b.oj) garant&iacute;a, certeza, seguridad; garantizar, asegurar
   - text: ' '
   - text: ki
-    eng: ki (l) that (conjunction)
+    eng: 'ki (l) conj: that'
     spa: ki (l) que
   - text: ' '
   - text: moy
-    eng: moy (d) every, each, all
+    eng: 'moy (d) det: every, each, all'
     spa: moy (d) cada, todo
   - text: ' '
   - text: plantali
@@ -63,12 +63,12 @@
     spa: bioyen (b) forma de vida, organismo
   - text: ' '
   - text: abil
-    eng: abil (t; f.sah) able, capable, which can (be), -able, -ible; capably, -ably,
-      -ibly; be able, can
+    eng: 'abil (t; f.sah) adj: able, capable, which can (be), -able, -ible; capably,
+      -ably, -ibly; v.aux: be able, can'
     spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: taslum
@@ -76,7 +76,7 @@
     spa: taslum (b.oj) recepci&oacute;n, recibimiento; recibir
   - text: ' '
   - text: kufi
-    eng: kufi (t) enough, sufficient; enough, sufficiently
+    eng: 'kufi (t) adj: enough, sufficient; adv: enough, sufficiently'
     spa: kufi (t) suficiente, bastante; suficientemente, bastantemente
   - text: ' '
   - text: lumin
@@ -84,19 +84,19 @@
     spa: lumin (b.oj) luz; alumbrar, iluminar
   - text: ' '
   - text: cel
-    eng: cel (p) to, for (denotes destination/goal, intention to attain); -wards
+    eng: 'cel (p) prep: to, for (denotes destination/goal, intention to attain); -wards'
     spa: cel (p) a, para, hacia
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: bon
-    eng: bon (t) good, well, fine, positive; well, positively
+    eng: 'bon (t) adj: good, well, fine, positive; adv: well, positively'
     spa: bon (t) buen, bueno, positivo; bien
   - text: ' '
   - text: jiwa
-    eng: jiwa (b.oj.ru) life; live
+    eng: 'jiwa (b.oj.ru) n: life; v.tr: live'
     spa: jiwa (b.oj.ru) vida; vivir
   - text: .
 - text: Xafe watumon, bija kufi xunjan, ki fe folo ren abil na oko ki bija sen of
@@ -110,9 +110,9 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Xafe
-    eng: xafe (p) after (+ noun, -ing), in (+ period of time), (period of time +)
-      from now, post-
-    spa: xafe (p) despu&eacute;s (de), en (+ periodo de tiempo), dentro de
+    eng: 'xafe (p; lfik) prep: after (+ noun, -ing), in (+ period of time), (period
+      of time +) from now; pfx: post-'
+    spa: xafe (p; lfik) despu&eacute;s (de), en (+ periodo de tiempo), dentro de
   - text: ' '
   - text: watumon
     eng: 'watumon (b) n: period (of time), time period, while, term'
@@ -124,7 +124,7 @@
     spa: bija (b.oj) semilla; sembrar
   - text: ' '
   - text: kufi
-    eng: kufi (t) enough, sufficient; enough, sufficiently
+    eng: 'kufi (t) adj: enough, sufficient; adv: enough, sufficiently'
     spa: kufi (t) suficiente, bastante; suficientemente, bastantemente
   - text: ' '
   - text: xunjan
@@ -132,14 +132,14 @@
     spa: xunjan (b.nenoj) crecimiento; crecer
   - text: ', '
   - text: ki
-    eng: ki (l) that (conjunction)
+    eng: 'ki (l) conj: that'
     spa: ki (l) que
   - text: ' '
   - text: fe
-    eng: fe (p) at (time), in (month or year), on (date or day of the week), for (for
-      the first time, etc.), for (in one&#039;s case or experience, in the case or
-      experience of), of (relating to, number, quantity, amount), introduces common
-      prepositional phrases, used in phrasal prepositions, vague locative preposition
+    eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
+      for (for the first time, etc.), for (in one&#039;s case or experience, in the
+      case or experience of), of (relating to, number, quantity, amount), introduces
+      common prepositional phrases, used in phrasal prepositions, vague locative preposition'
     spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
       vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
@@ -149,16 +149,16 @@
     spa: folo (b.oj) seguir
   - text: ' '
   - text: ren
-    eng: 'ren (pn) third person (general): one'
+    eng: 'ren (pn) pron: one'
     spa: ren (pn) uno (pronombre)
   - text: ' '
   - text: abil
-    eng: abil (t; f.sah) able, capable, which can (be), -able, -ible; capably, -ably,
-      -ibly; be able, can
+    eng: 'abil (t; f.sah) adj: able, capable, which can (be), -able, -ible; capably,
+      -ably, -ibly; v.aux: be able, can'
     spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: oko
@@ -166,7 +166,7 @@
     spa: oko (b.oj) ojo; ver, mirar
   - text: ' '
   - text: ki
-    eng: ki (l) that (conjunction)
+    eng: 'ki (l) conj: that'
     spa: ki (l) que
   - text: ' '
   - text: bija
@@ -178,7 +178,7 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: of
-    eng: of (p) off (of), (out) of, from
+    eng: 'of (p) prep: off (of), (out) of, from'
     spa: of (p) de, desde, de cada, en cada
   - text: ' '
   - text: jongu
@@ -186,10 +186,10 @@
     spa: jongu (b) especie
   - text: ' '
   - text: fe
-    eng: fe (p) at (time), in (month or year), on (date or day of the week), for (for
-      the first time, etc.), for (in one&#039;s case or experience, in the case or
-      experience of), of (relating to, number, quantity, amount), introduces common
-      prepositional phrases, used in phrasal prepositions, vague locative preposition
+    eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
+      for (for the first time, etc.), for (in one&#039;s case or experience, in the
+      case or experience of), of (relating to, number, quantity, amount), introduces
+      common prepositional phrases, used in phrasal prepositions, vague locative preposition'
     spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
       vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
@@ -201,11 +201,11 @@
     spa: drevo (b) &aacute;rbol
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: sen
@@ -213,20 +213,20 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: totalmo
-    eng: totalmo (m) totally, quite
+    eng: 'totalmo (m) adv: totally, quite'
     spa: totalmo (m) totalmente (para describir adjetivos y adverbios), completamente,
       enteramente
   - text: ' '
   - text: nenkonedo
-    eng: nenkonedo (t) unknown
+    eng: 'nenkonedo (t) adj: unknown'
     spa: nenkonedo (t) desconocido, ignoto
   - text: ' '
   - text: in
-    eng: in (p) at (place), in (place), inside of, within
+    eng: 'in (p) prep: at (place), in (place), inside (of), within'
     spa: in (p) en, dentro de
   - text: ' '
   - text: hin
-    eng: hin (d) this, these
+    eng: 'hin (d) det: this, these'
     spa: hin (d) este, estos
   - text: ' '
   - text: wadi
@@ -244,7 +244,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Jali
-    eng: jali (t) adjacent; adjacently
+    eng: 'jali (t) adj: adjacent; adv: adjacently'
     spa: jali (t) adyacente, contiguo
   - text: ' '
   - text: planta
@@ -256,11 +256,11 @@
     spa: loga (b.oj) declaraci&oacute;n, enunciaci&oacute;n; decir, declarar, enunciar
   - text: ' '
   - text: tas
-    eng: tas (p) to (indirect object marker), for (receiver/recipient)
+    eng: 'tas (p) prep: to (indirect object marker), for (receiver/recipient)'
     spa: tas (p) a (marcador del objeto indirecto), para (receptor)
   - text: ' '
   - text: neo
-    eng: neo (t) new, neo-
+    eng: 'neo (t) adj: new, neo-; adv: newly'
     spa: neo (t) nuevo
   - text: ' '
   - text: drevo
@@ -268,10 +268,10 @@
     spa: drevo (b) &aacute;rbol
   - text: ': "'
   - text: Fe
-    eng: fe (p) at (time), in (month or year), on (date or day of the week), for (for
-      the first time, etc.), for (in one&#039;s case or experience, in the case or
-      experience of), of (relating to, number, quantity, amount), introduces common
-      prepositional phrases, used in phrasal prepositions, vague locative preposition
+    eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
+      for (for the first time, etc.), for (in one&#039;s case or experience, in the
+      case or experience of), of (relating to, number, quantity, amount), introduces
+      common prepositional phrases, used in phrasal prepositions, vague locative preposition'
     spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
       vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
@@ -281,17 +281,17 @@
     spa: lutuf (b) amabilidad, bondad
   - text: ', '
   - text: am
-    eng: 'am (par) imperative verb marker: (do)'
+    eng: 'am (par) par: imperative verb marker: (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: esto
-    eng: 'esto (b.oro) stop, halt; v.tr: stop (bring to a stop), halt (bring to a
-      halt); v.intr (optional -cu): stop (come to a stop), halt (come to a halt),
+    eng: 'esto (b.oro.harka) n: stop, halt; v.tr: stop (bring to a stop), halt (bring
+      to a halt); v.intr (optional -cu): stop (come to a stop), halt (come to a halt),
       cease, quit'
-    spa: esto (b.oro) parada, stop; detener; detenerse, parar, cesar
+    spa: esto (b.oro.harka) parada, stop; detener; detenerse, parar, cesar
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: xunjan
@@ -299,15 +299,15 @@
     spa: xunjan (b.nenoj) crecimiento; crecer
   - text: ', '
   - text: imi
-    eng: 'imi (pn) first person plural: we, us'
+    eng: 'imi (pn) pron: we, us'
     spa: imi (pn) nosotros
   - text: ' '
   - text: "no"
-    eng: no (m) no, not, don&#039;t, do not, doesn&#039;t, does not
+    eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
     spa: no (m) no
   - text: ' '
   - text: haji
-    eng: haji (m) still (even now/then as formerly)
+    eng: 'haji (m) adv: still (even now/then as formerly)'
     spa: haji (m) todav&iacute;a, a&uacute;n
   - text: ' '
   - text: taslum
@@ -315,7 +315,7 @@
     spa: taslum (b.oj) recepci&oacute;n, recibimiento; recibir
   - text: ' '
   - text: kufi
-    eng: kufi (t) enough, sufficient; enough, sufficiently
+    eng: 'kufi (t) adj: enough, sufficient; adv: enough, sufficiently'
     spa: kufi (t) suficiente, bastante; suficientemente, bastantemente
   - text: ' '
   - text: lumin
@@ -334,7 +334,7 @@
   - text: Dumara
   - text: ', '
   - text: ete
-    eng: 'ete (pn) third person plural (animate, personified objects): they, them'
+    eng: 'ete (pn) pron (animate): they, them'
     spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
   - text: ' '
   - text: loga
@@ -342,11 +342,11 @@
     spa: loga (b.oj) declaraci&oacute;n, enunciaci&oacute;n; decir, declarar, enunciar
   - text: ' '
   - text: ki
-    eng: ki (l) that (conjunction)
+    eng: 'ki (l) conj: that'
     spa: ki (l) que
   - text: ' '
   - text: "no"
-    eng: no (m) no, not, don&#039;t, do not, doesn&#039;t, does not
+    eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
     spa: no (m) no
   - text: ' '
   - text: hay
@@ -354,11 +354,11 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: kufi
-    eng: kufi (t) enough, sufficient; enough, sufficiently
+    eng: 'kufi (t) adj: enough, sufficient; adv: enough, sufficiently'
     spa: kufi (t) suficiente, bastante; suficientemente, bastantemente
   - text: ' '
   - text: kolor
-    eng: 'kolor (b) n: color'
+    eng: 'kolor (b) n: color, colour'
     spa: kolor (b) color
   - text: .
 - text: Fe hataya ki maymun sen daymo talentopul, te haja regulapul kliente cel na
@@ -372,10 +372,10 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Fe
-    eng: fe (p) at (time), in (month or year), on (date or day of the week), for (for
-      the first time, etc.), for (in one&#039;s case or experience, in the case or
-      experience of), of (relating to, number, quantity, amount), introduces common
-      prepositional phrases, used in phrasal prepositions, vague locative preposition
+    eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
+      for (for the first time, etc.), for (in one&#039;s case or experience, in the
+      case or experience of), of (relating to, number, quantity, amount), introduces
+      common prepositional phrases, used in phrasal prepositions, vague locative preposition'
     spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
       vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
@@ -386,7 +386,7 @@
     spa: hataya (b) pesar (s&oacute;lo en el sentido de &ldquo;a pesar de&rdquo;)
   - text: ' '
   - text: ki
-    eng: ki (l) that (conjunction)
+    eng: 'ki (l) conj: that'
     spa: ki (l) que
   - text: ' '
   - text: maymun
@@ -398,16 +398,16 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: daymo
-    eng: daymo (m) greatly, very, really, highly
+    eng: 'daymo (m) adv: greatly, very, really, highly'
     spa: daymo (m) muy (para describir adjetivos y adverbios), grandemente, altamente
   - text: ' '
   - text: talentopul
-    eng: talentopul (t) talented
+    eng: 'talentopul (t) adj: talented'
     spa: talentopul (t) talentoso
   - text: ', '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
@@ -416,7 +416,7 @@
     spa: haja (b.oj) necesidad; necesitar
   - text: ' '
   - text: regulapul
-    eng: regulapul (t) regular; regularly
+    eng: 'regulapul (t) adj: regular; adv: regularly'
     spa: regulapul (t) regular; regularmente
   - text: ' '
   - text: kliente
@@ -424,11 +424,11 @@
     spa: kliente (b) cliente
   - text: ' '
   - text: cel
-    eng: cel (p) to, for (denotes destination/goal, intention to attain); -wards
+    eng: 'cel (p) prep: to, for (denotes destination/goal, intention to attain); -wards'
     spa: cel (p) a, para, hacia
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: taslum
@@ -436,7 +436,7 @@
     spa: taslum (b.oj) recepci&oacute;n, recibimiento; recibir
   - text: ' '
   - text: kufi
-    eng: kufi (t) enough, sufficient; enough, sufficiently
+    eng: 'kufi (t) adj: enough, sufficient; adv: enough, sufficiently'
     spa: kufi (t) suficiente, bastante; suficientemente, bastantemente
   - text: ' '
   - text: pesa
@@ -453,13 +453,13 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: sukses
@@ -467,7 +467,7 @@
     spa: sukses (b.nenoj) &eacute;xito; tener &eacute;xito
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: hifazi
@@ -477,7 +477,7 @@
       retenci&oacute;n; guardar, ahorrar, conservar, reservar, retener
   - text: ' '
   - text: kufi
-    eng: kufi (t) enough, sufficient; enough, sufficiently
+    eng: 'kufi (t) adj: enough, sufficient; adv: enough, sufficiently'
     spa: kufi (t) suficiente, bastante; suficientemente, bastantemente
   - text: ' '
   - text: pesa
@@ -485,11 +485,11 @@
     spa: pesa (b) dinero; financiar
   - text: ' '
   - text: cel
-    eng: cel (p) to, for (denotes destination/goal, intention to attain); -wards
+    eng: 'cel (p) prep: to, for (denotes destination/goal, intention to attain); -wards'
     spa: cel (p) a, para, hacia
   - text: ' '
   - text: to
-    eng: 'to (pn) third person singular (inanimate): it'
+    eng: 'to (pn) pron (inanimate): it'
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: .
 - text: Dolfin le kufi ore.
@@ -506,11 +506,11 @@
     spa: dolfin (b) delf&iacute;n, Odontoceti
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: kufi
-    eng: kufi (t) enough, sufficient; enough, sufficiently
+    eng: 'kufi (t) adj: enough, sufficient; adv: enough, sufficiently'
     spa: kufi (t) suficiente, bastante; suficientemente, bastantemente
   - text: ' '
   - text: ore
@@ -531,19 +531,19 @@
     spa: mahibujoyen (b) pescador
   - text: ': "'
   - text: "No"
-    eng: no (m) no, not, don&#039;t, do not, doesn&#039;t, does not
+    eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
     spa: no (m) no
   - text: ', '
   - text: yu
-    eng: 'yu (pn) second person singular: you'
+    eng: 'yu (pn) pron: you (singular)'
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: "no"
-    eng: no (m) no, not, don&#039;t, do not, doesn&#039;t, does not
+    eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
     spa: no (m) no
   - text: ' '
   - text: haji
-    eng: haji (m) still (even now/then as formerly)
+    eng: 'haji (m) adv: still (even now/then as formerly)'
     spa: haji (m) todav&iacute;a, a&uacute;n
   - text: ' '
   - text: preporta
@@ -551,19 +551,19 @@
     spa: preporta (b.oj) traer (a un lugar), llevar
   - text: ' '
   - text: tas
-    eng: tas (p) to (indirect object marker), for (receiver/recipient)
+    eng: 'tas (p) prep: to (indirect object marker), for (receiver/recipient)'
     spa: tas (p) a (marcador del objeto indirecto), para (receptor)
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: kufi
-    eng: kufi (t) enough, sufficient; enough, sufficiently
+    eng: 'kufi (t) adj: enough, sufficient; adv: enough, sufficiently'
     spa: kufi (t) suficiente, bastante; suficientemente, bastantemente
   - text: ' '
   - text: baharili
-    eng: baharili (t) maritime, oceanic
+    eng: 'baharili (t) adj: maritime, oceanic'
     spa: baharili (t) marino, mar&iacute;timo, oce&aacute;nico
   - text: ' '
   - text: hewan
@@ -580,13 +580,13 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: loga
@@ -594,11 +594,11 @@
     spa: loga (b.oj) declaraci&oacute;n, enunciaci&oacute;n; decir, declarar, enunciar
   - text: ' '
   - text: ki
-    eng: ki (l) that (conjunction)
+    eng: 'ki (l) conj: that'
     spa: ki (l) que
   - text: ' '
   - text: un
-    eng: un (num; d) one; a certain (specific)
+    eng: 'un (num; d) one; det: a certain (specific)'
     spa: un (num; d) uno, 1(0^0)
   - text: ' '
   - text: hewan
@@ -606,7 +606,7 @@
     spa: hewan (b) animal, Animalia
   - text: ' '
   - text: xa
-    eng: 'xa (par) future tense marker: will, shall'
+    eng: 'xa (par) par: future tense marker: will, shall'
     spa: xa (par) -&aacute; (marcador del tiempo futuro)
   - text: ' '
   - text: sen
@@ -614,7 +614,7 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: kufi
-    eng: kufi (t) enough, sufficient; enough, sufficiently
+    eng: 'kufi (t) adj: enough, sufficient; adv: enough, sufficiently'
     spa: kufi (t) suficiente, bastante; suficientemente, bastantemente
   - text: .
 - text: Mi le pasa un satu cel na kufi pasgi misu kapi celki mi abil na oko te durki
@@ -628,11 +628,11 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: pasa
@@ -641,7 +641,7 @@
     spa: pasa (b.oj) paso (acci&oacute;n de pasar); pasar (un lugar, tiempo, etc.)
   - text: ' '
   - text: un
-    eng: un (num; d) one; a certain (specific)
+    eng: 'un (num; d) one; det: a certain (specific)'
     spa: un (num; d) uno, 1(0^0)
   - text: ' '
   - text: satu
@@ -649,15 +649,15 @@
     spa: satu (b) hora (unidad de tiempo), h
   - text: ' '
   - text: cel
-    eng: cel (p) to, for (denotes destination/goal, intention to attain); -wards
+    eng: 'cel (p) prep: to, for (denotes destination/goal, intention to attain); -wards'
     spa: cel (p) a, para, hacia
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: kufi
-    eng: kufi (t) enough, sufficient; enough, sufficiently
+    eng: 'kufi (t) adj: enough, sufficient; adv: enough, sufficiently'
     spa: kufi (t) suficiente, bastante; suficientemente, bastantemente
   - text: ' '
   - text: pasgi
@@ -665,7 +665,7 @@
     spa: pasgi (b.oj) hacer atravesar
   - text: ' '
   - text: misu
-    eng: misu (su s) my
+    eng: 'misu (su s) poss adj: my'
     spa: misu (su s) mi
   - text: ' '
   - text: kapi
@@ -673,20 +673,20 @@
     spa: kapi (b) cabeza, cima, parte de arriba
   - text: ' '
   - text: celki
-    eng: 'celki (l) so that, in order for '
+    eng: 'celki (l) conj: so that, in order for'
     spa: celki (l) para que, con la intenci&oacute;n de que, a fin de que
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: abil
-    eng: abil (t; f.sah) able, capable, which can (be), -able, -ible; capably, -ably,
-      -ibly; be able, can
+    eng: 'abil (t; f.sah) adj: able, capable, which can (be), -able, -ible; capably,
+      -ably, -ibly; v.aux: be able, can'
     spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: oko
@@ -694,35 +694,35 @@
     spa: oko (b.oj) ojo; ver, mirar
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: durki
-    eng: durki (l) while, as
+    eng: 'durki (l) conj: while, as'
     spa: durki (l) mientras (que)
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: leta
-    eng: 'leta (b.nenoj) n: lying; v.intr: lie, be lying'
+    eng: 'leta (b.nenoj) n: lying (position); v.intr: lie, be lying'
     spa: leta (b.nenoj) estar acostado, yacer
   - text: ' '
   - text: per
-    eng: per (p) on, upon, over, aboard
+    eng: 'per (p) prep: on, upon, over, aboard'
     spa: per (p) sobre, encima de
   - text: ' '
   - text: sesu
-    eng: sesu (su s) her own, his own, one&#039;s own
+    eng: 'sesu (su s) poss adj: her own, his own, one&#039;s own'
     spa: sesu (su s) su (de uno mismo)
   - text: ' '
   - text: bistar
@@ -741,23 +741,23 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Ji
-    eng: ji (l) and, as well as
+    eng: 'ji (l) conj: and, as well as'
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: jaxali
-    eng: jaxali (t) next, (the) following, (and) then
+    eng: 'jaxali (t) adj: next, (the) following, (and) then'
     spa: jaxali (t) siguente, pr&oacute;ximo; a continuaci&oacute;n
   - text: ', '
   - text: denwatu
-    eng: denwatu (m) then (at that time)
+    eng: 'denwatu (m) adv: then (at that time)'
     spa: denwatu (m) en ese momento, entonces
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: misu
-    eng: misu (su s) my
+    eng: 'misu (su s) poss adj: my'
     spa: misu (su s) mi
   - text: ' '
   - text: kapi
@@ -765,11 +765,12 @@
     spa: kapi (b) cabeza, cima, parte de arriba
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: kompleto
-    eng: kompleto (t) complete, absolute, whole; completely, absolutely, wholly
+    eng: 'kompleto (t) adj: complete, absolute, whole; adv: completely, absolutely,
+      wholly'
     spa: kompleto (t) completo, absoluto; completamente, absolutamente
   - text: ' '
   - text: sen
@@ -777,7 +778,7 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: in
-    eng: in (p) at (place), in (place), inside of, within
+    eng: 'in (p) prep: at (place), in (place), inside (of), within'
     spa: in (p) en, dentro de
   - text: ' '
   - text: kamer
@@ -785,35 +786,36 @@
     spa: kamer (b) habitaci&oacute;n, cuarto, sala, (re)c&aacute;mara
   - text: ', '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: buka
-    eng: 'buka (b.oro) opening; v.tr: open; v.intr (optional -cu): open'
-    spa: buka (b.oro) apertura; abrir; abrirse
+    eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
+      open'
+    spa: buka (b.oro.harka) apertura; abrir; abrirse
   - text: ' '
   - text: lenterna
     eng: 'lenterna (b) n: lantern'
     spa: lenterna (b) farol
   - text: ' '
   - text: juipul
-    eng: juipul (t) careful, cautious; carefully, cautiously
+    eng: 'juipul (t) adj: careful, cautious; adv: carefully, cautiously'
     spa: juipul (t) cuidadoso, cauteloso; cuidadosamente, cautelosamente
   - text: ', '
   - text: daymo
-    eng: daymo (m) greatly, very, really, highly
+    eng: 'daymo (m) adv: greatly, very, really, highly'
     spa: daymo (m) muy (para describir adjetivos y adverbios), grandemente, altamente
   - text: ' '
   - text: juipul
-    eng: juipul (t) careful, cautious; carefully, cautiously
+    eng: 'juipul (t) adj: careful, cautious; adv: carefully, cautiously'
     spa: juipul (t) cuidadoso, cauteloso; cuidadosamente, cautelosamente
   - text: ' ('
   - text: koski
-    eng: koski (l) because, since, for
+    eng: 'koski (l) conj: because, since, for'
     spa: koski (l) porque, debido a que, a causa de que, car
   - text: ' '
   - text: bisagra
@@ -821,7 +823,7 @@
     spa: bisagra (b) bisagra, gozne
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: soti
@@ -829,42 +831,44 @@
     spa: soti (b.nenoj) sonido; sonar, hacer sonido
   - text: '); '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: kufi
-    eng: kufi (t) enough, sufficient; enough, sufficiently
+    eng: 'kufi (t) adj: enough, sufficient; adv: enough, sufficiently'
     spa: kufi (t) suficiente, bastante; suficientemente, bastantemente
   - text: ' '
   - text: buka
-    eng: 'buka (b.oro) opening; v.tr: open; v.intr (optional -cu): open'
-    spa: buka (b.oro) apertura; abrir; abrirse
+    eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
+      open'
+    spa: buka (b.oro.harka) apertura; abrir; abrirse
   - text: ' '
   - text: to
-    eng: 'to (pn) third person singular (inanimate): it'
+    eng: 'to (pn) pron (inanimate): it'
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: ' '
   - text: celki
-    eng: 'celki (l) so that, in order for '
+    eng: 'celki (l) conj: so that, in order for'
     spa: celki (l) para que, con la intenci&oacute;n de que, a fin de que
   - text: ' '
   - text: dambo
-    eng: dambo (t) thin, slim, slender, lean, skinny
+    eng: 'dambo (t) adj: thin, slim, slender, lean, skinny; adv: thinly, slimly, slenderly,
+      leanly'
     spa: dambo (t) delgado, flaco
   - text: ' '
   - text: radya
-    eng: 'radya (b.oro) ray, beam; v.tr: radiate; v.intr (optional -cu): radiate'
+    eng: 'radya (b.oro) n: ray, beam; v.tr: radiate; v.intr (optional -cu): radiate'
     spa: radya (b.oro) rayo (de luz), haz; (ir)radiar; (ir)radiar
   - text: ' '
   - text: fe
-    eng: fe (p) at (time), in (month or year), on (date or day of the week), for (for
-      the first time, etc.), for (in one&#039;s case or experience, in the case or
-      experience of), of (relating to, number, quantity, amount), introduces common
-      prepositional phrases, used in phrasal prepositions, vague locative preposition
+    eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
+      for (for the first time, etc.), for (in one&#039;s case or experience, in the
+      case or experience of), of (relating to, number, quantity, amount), introduces
+      common prepositional phrases, used in phrasal prepositions, vague locative preposition'
     spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
       vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
@@ -883,7 +887,7 @@
     spa: oko (b.oj) ojo; ver, mirar
   - text: ' '
   - text: de
-    eng: de (p) of, belonging (to), -&#039;s (genitive case)
+    eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
     spa: de (p) de (perteneciente a)
   - text: ' '
   - text: nasru

@@ -381,7 +381,7 @@ adebukal:
   translation: ""
 adebukalya:
   term: adebukalya
-  class: t
+  class: b
   category: derived
   translation: ""
 adebunenfil:
@@ -431,11 +431,6 @@ adhesiente:
   translation: ""
 adhesine:
   term: adhesine
-  class: t
-  category: derived
-  translation: ""
-adhesixey:
-  term: adhesixey
   class: t
   category: derived
   translation: ""
@@ -1029,6 +1024,16 @@ alo:
   term: alo
   class: d
   category: root
+  translation: ""
+alo_bante:
+  term: alo bante
+  class: pn
+  category: phrase
+  translation: ""
+alo_banto:
+  term: alo banto
+  class: pn
+  category: phrase
   translation: ""
 alocu:
   term: alocu
@@ -3157,7 +3162,7 @@ bage:
   translation: ""
 bageli:
   term: bageli
-  class: t
+  class: m
   category: derived
   translation: ""
 bagor:
@@ -3404,6 +3409,16 @@ ban:
   term: ban
   class: d
   category: root
+  translation: ""
+ban_alote:
+  term: ban alote
+  class: pn
+  category: phrase
+  translation: ""
+ban_aloto:
+  term: ban aloto
+  class: pn
+  category: phrase
   translation: ""
 banana:
   term: banana
@@ -4192,7 +4207,7 @@ beharemusi:
   translation: ""
 behemotu:
   term: behemotu
-  class: "n"
+  class: b
   category: root
   translation: Behemoth
 beinterviuyen:
@@ -5073,7 +5088,7 @@ bonus:
 bonxanse:
   term: bonxanse
   class: b; il
-  category: phrase
+  category: derived
   translation: ""
 bonxanseli:
   term: bonxanseli
@@ -5222,8 +5237,8 @@ boyledo:
   translation: ""
 boyledo_ovo:
   term: boyledo ovo
-  class: t
-  category: derived
+  class: b
+  category: phrase
   translation: ""
 boylene:
   term: boylene
@@ -6392,7 +6407,7 @@ censuya:
   translation: ""
 centi:
   term: centi
-  class: num
+  class: num; lfik
   category: root
   translation: ""
 centimetro:
@@ -6552,7 +6567,7 @@ cibopul:
   translation: ""
 cibopulgi:
   term: cibopulgi
-  class: t
+  class: b.oj
   category: derived
   translation: ""
 cidra:
@@ -7064,7 +7079,7 @@ cuyoato:
 cuyoato_fal:
   term: cuyoato fal
   class: jm
-  category: derived
+  category: phrase
   translation: ""
 cuyoatoyen:
   term: cuyoatoyen
@@ -8138,7 +8153,7 @@ debora:
   translation: Debora
 deci:
   term: deci
-  class: num
+  class: num; lfik
   category: root
   translation: ""
 decibelu:
@@ -8348,7 +8363,7 @@ denmo:
   translation: ""
 denmo_kom:
   term: denmo... kom...
-  class: m
+  class: m; l
   category: phrase
   translation: ""
 denmo_multi:
@@ -8445,6 +8460,11 @@ denwatu_hu:
   term: denwatu hu
   class: l
   category: phrase
+  translation: ""
+denwatuli:
+  term: denwatuli
+  class: t
+  category: derived
   translation: ""
 denya:
   term: denya
@@ -8551,28 +8571,8 @@ desbanyen:
   class: b
   category: derived
   translation: ""
-descaregon:
-  term: descaregon
-  class: b
-  category: derived
-  translation: ""
-descareple:
-  term: descareple
-  class: t
-  category: derived
-  translation: ""
 descareyum:
   term: descareyum
-  class: t
-  category: derived
-  translation: ""
-desduagon:
-  term: desduagon
-  class: b
-  category: derived
-  translation: ""
-desduaple:
-  term: desduaple
   class: t
   category: derived
   translation: ""
@@ -8581,28 +8581,8 @@ desduayum:
   class: t
   category: derived
   translation: ""
-deslimagon:
-  term: deslimagon
-  class: b
-  category: derived
-  translation: ""
-deslimaple:
-  term: deslimaple
-  class: t
-  category: derived
-  translation: ""
 deslimayum:
   term: deslimayum
-  class: t
-  category: derived
-  translation: ""
-desnuegon:
-  term: desnuegon
-  class: b
-  category: derived
-  translation: ""
-desnueple:
-  term: desnueple
   class: t
   category: derived
   translation: ""
@@ -8616,16 +8596,6 @@ desnyan:
   class: b
   category: derived
   translation: ""
-desocogon:
-  term: desocogon
-  class: b
-  category: derived
-  translation: ""
-desocople:
-  term: desocople
-  class: t
-  category: derived
-  translation: ""
 desocoyum:
   term: desocoyum
   class: t
@@ -8636,43 +8606,13 @@ desple:
   class: t
   category: derived
   translation: ""
-dessabegon:
-  term: dessabegon
-  class: b
-  category: derived
-  translation: ""
-dessabeple:
-  term: dessabeple
-  class: t
-  category: derived
-  translation: ""
 dessabeyum:
   term: dessabeyum
   class: t
   category: derived
   translation: ""
-dessisagon:
-  term: dessisagon
-  class: b
-  category: derived
-  translation: ""
-dessisaple:
-  term: dessisaple
-  class: t
-  category: derived
-  translation: ""
 dessisayum:
   term: dessisayum
-  class: t
-  category: derived
-  translation: ""
-destigagon:
-  term: destigagon
-  class: b
-  category: derived
-  translation: ""
-destigaple:
-  term: destigaple
   class: t
   category: derived
   translation: ""
@@ -8699,16 +8639,6 @@ destruifil:
 destruiyen:
   term: destruiyen
   class: b
-  category: derived
-  translation: ""
-desungon:
-  term: desungon
-  class: b
-  category: derived
-  translation: ""
-desunple:
-  term: desunple
-  class: t
   category: derived
   translation: ""
 desunyum:
@@ -9546,26 +9476,6 @@ dua:
   class: num
   category: root
   translation: zwei
-dua_giga:
-  term: dua giga
-  class: num
-  category: phrase
-  translation: ""
-dua_kilo:
-  term: dua kilo
-  class: num
-  category: phrase
-  translation: ""
-dua_mega:
-  term: dua mega
-  class: num
-  category: phrase
-  translation: ""
-dua_tera:
-  term: dua tera
-  class: num
-  category: phrase
-  translation: ""
 duabasali:
   term: duabasali
   class: t
@@ -9599,16 +9509,6 @@ duacidi:
 duades:
   term: duades
   class: num
-  category: derived
-  translation: ""
-duadesgon:
-  term: duadesgon
-  class: b
-  category: derived
-  translation: ""
-duadesple:
-  term: duadesple
-  class: t
   category: derived
   translation: ""
 duadesyum:
@@ -9933,8 +9833,8 @@ dunavi:
   translation: ""
 dunerleli:
   term: dunerleli
-  class: p jm
-  category: phrase
+  class: m
+  category: derived
   translation: ""
 dunya:
   term: Dunya
@@ -12456,19 +12356,24 @@ fe_asif:
   class: p jm
   category: phrase
   translation: ""
+fe_bage:
+  term: fe bage
+  class: p jm
+  category: derived
+  translation: ""
 fe_ban_leli_watu:
   term: (fe) ban leli watu
-  class: jm p
+  class: p jm
   category: phrase
   translation: ""
 fe_ban_mara:
   term: (fe) ban mara
-  class: jm p
+  class: p jm
   category: phrase
   translation: ""
 fe_ban_xali_watu:
   term: (fe) ban xali watu
-  class: jm p
+  class: p jm
   category: phrase
   translation: ""
 fe_basi:
@@ -12478,7 +12383,7 @@ fe_basi:
   translation: ""
 fe_basi_fe:
   term: fe basi fe
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_baxya:
@@ -12498,7 +12403,7 @@ fe_bonxanse:
   translation: ""
 fe_byen_de:
   term: fe byen de
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_centro:
@@ -12508,7 +12413,7 @@ fe_centro:
   translation: ""
 fe_centro_de:
   term: fe centro de
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_comen:
@@ -12518,7 +12423,7 @@ fe_comen:
   translation: ""
 fe_comen_de:
   term: fe comen de
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_den_kaso:
@@ -12528,17 +12433,17 @@ fe_den_kaso:
   translation: ""
 fe_dua_mara:
   term: (fe) dua mara
-  class: jm p
+  class: p jm
   category: phrase
   translation: ""
 fe_duli_mara:
   term: (fe) duli mara
-  class: jm p
+  class: p jm
   category: phrase
   translation: ""
 fe_dumara:
   term: (fe) dumara
-  class: jm p
+  class: p jm
   category: phrase
   translation: ""
 fe_durya:
@@ -12553,7 +12458,7 @@ fe_espesyalya:
   translation: ""
 fe_exkludi_fe:
   term: fe exkludi fe
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_exya:
@@ -12563,17 +12468,17 @@ fe_exya:
   translation: ""
 fe_exya_de:
   term: fe exya de
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_fato:
   term: fe fato
-  class: m
+  class: p jm
   category: phrase
   translation: ""
 fe_fini:
   term: fe fini
-  class: m
+  class: p jm
   category: phrase
   translation: ""
 fe_folo:
@@ -12583,7 +12488,7 @@ fe_folo:
   translation: ""
 fe_folo_fe:
   term: fe folo fe
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_folo_ki:
@@ -12638,12 +12543,12 @@ fe_hin_kaso:
   translation: ""
 fe_hin_noce:
   term: (fe) hin noce
-  class: jm p
+  class: p jm
   category: phrase
   translation: ""
 fe_infer:
   term: fe infer
-  class: m
+  class: p jm
   category: phrase
   translation: ""
 fe_infracengu:
@@ -12653,7 +12558,7 @@ fe_infracengu:
   translation: ""
 fe_inkludi_fe:
   term: fe inkludi fe
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_intrewatu:
@@ -12673,7 +12578,7 @@ fe_inya:
   translation: ""
 fe_inya_de:
   term: fe inya de
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_jadin:
@@ -12698,12 +12603,12 @@ fe_kapi_de:
   translation: ""
 fe_kaso_de:
   term: fe kaso de
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_kaso_fe:
   term: fe kaso fe
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_kaso_ki:
@@ -12713,7 +12618,7 @@ fe_kaso_ki:
   translation: ""
 fe_kolyo_ki:
   term: fe kolyo ki
-  class: jm l
+  class: l
   category: phrase
   translation: ""
 fe_kompara_fe:
@@ -12758,7 +12663,7 @@ fe_midiya:
   translation: ""
 fe_midiya_de:
   term: fe midiya de
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_minusya:
@@ -12798,22 +12703,22 @@ fe_muka:
   translation: ""
 fe_muka_de:
   term: fe muka de
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_ner_leya:
   term: (fe) ner leya
-  class: jm p
+  class: p jm
   category: phrase
   translation: ""
 fe_ner_or_teli_xaya:
   term: (fe) ner or teli xaya
-  class: jm p
+  class: p jm
   category: phrase
   translation: ""
 fe_ner_xaya:
   term: (fe) ner xaya
-  class: jm p
+  class: p jm
   category: phrase
   translation: ""
 fe_nerleli_watu:
@@ -12823,7 +12728,7 @@ fe_nerleli_watu:
   translation: ""
 fe_nunli_din:
   term: (fe) nunli din
-  class: jm p
+  class: p jm
   category: phrase
   translation: ""
 fe_nunya:
@@ -12833,17 +12738,17 @@ fe_nunya:
   translation: ""
 fe_offolo_fe:
   term: fe offolo fe
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_oko_de:
   term: fe oko de
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_okur_fe:
   term: fe okur fe
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_onxala:
@@ -12918,7 +12823,7 @@ fe_sesu_bage:
   translation: ""
 fe_super:
   term: fe super
-  class: m
+  class: p jm
   category: phrase
   translation: ""
 fe_supracengu:
@@ -12933,7 +12838,7 @@ fe_tayti:
   translation: ""
 fe_tayti_fe:
   term: fe tayti fe
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_tayti_ki:
@@ -12943,7 +12848,7 @@ fe_tayti_ki:
   translation: ""
 fe_tema_fe:
   term: fe tema fe
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 fe_teo:
@@ -12953,7 +12858,7 @@ fe_teo:
   translation: ""
 fe_tiga_mara:
   term: (fe) tiga mara
-  class: jm p
+  class: p jm
   category: phrase
   translation: ""
 fe_totalya:
@@ -12968,12 +12873,12 @@ fe_ultraya:
   translation: ""
 fe_un_mara:
   term: (fe) un mara
-  class: jm p
+  class: p jm
   category: phrase
   translation: ""
 fe_xarti_ki:
   term: fe xarti ki
-  class: l jm
+  class: l
   category: phrase
   translation: ""
 fe_xaya:
@@ -14004,7 +13909,7 @@ fori_lefe_na:
   translation: ""
 fori_leki:
   term: fori leki
-  class: l jm
+  class: l
   category: phrase
   translation: ""
 fori_xafe:
@@ -14019,7 +13924,7 @@ fori_xafe_na:
   translation: ""
 fori_xaki:
   term: fori xaki
-  class: l jm
+  class: l
   category: phrase
   translation: ""
 forke:
@@ -15084,7 +14989,7 @@ ger_abil:
   translation: ""
 ger_preferi:
   term: ger preferi
-  class: jm
+  class: f jm
   category: phrase
   translation: ""
 germani:
@@ -16802,6 +16707,11 @@ he_den:
   class: d
   category: phrase
   translation: ""
+he_dente:
+  term: he dente
+  class: pn
+  category: phrase
+  translation: ""
 he_dento:
   term: he dento
   class: pn
@@ -16815,6 +16725,11 @@ he_ete:
 he_hin:
   term: he hin
   class: d
+  category: phrase
+  translation: ""
+he_hinte:
+  term: he hinte
+  class: pn
   category: phrase
   translation: ""
 he_hinto:
@@ -16852,6 +16767,11 @@ he_moy:
   class: d
   category: phrase
   translation: ""
+he_moyte:
+  term: he moyte
+  class: pn
+  category: phrase
+  translation: ""
 he_moyto:
   term: he moyto
   class: pn
@@ -16862,6 +16782,11 @@ he_nil:
   class: d
   category: phrase
   translation: ""
+he_nilte:
+  term: he nilte
+  class: pn
+  category: phrase
+  translation: ""
 he_nilto:
   term: he nilto
   class: pn
@@ -16870,6 +16795,11 @@ he_nilto:
 he_sama:
   term: he sama
   class: d
+  category: phrase
+  translation: ""
+he_samate:
+  term: he samate
+  class: pn
   category: phrase
   translation: ""
 he_samato:
@@ -17109,7 +17039,7 @@ hikayeyen:
   translation: ""
 hiku:
   term: hiku
-  class: b.oj
+  class: b.oj.ru
   category: root
   translation: ""
 hilal:
@@ -17215,6 +17145,11 @@ hinte:
 hinto:
   term: hinto
   class: pn
+  category: derived
+  translation: ""
+hintwatulil:
+  term: hintwatulil
+  class: t
   category: derived
   translation: ""
 hinwatu:
@@ -17347,6 +17282,11 @@ holmyum:
   class: b
   category: root
   translation: Holmium
+holo-:
+  term: holo-
+  class: ""
+  category: bound root
+  translation: ""
 holoba:
   term: holoba
   class: b
@@ -17357,6 +17297,11 @@ holocen:
   class: su n
   category: proper word
   translation: Holoz&auml;n
+holografi:
+  term: holografi
+  class: b
+  category: root
+  translation: Hologramm
 homa:
   term: homa
   class: b.oro.jotay
@@ -17534,12 +17479,17 @@ hu_dasu:
   translation: ""
 hu_denloka:
   term: hu denloka
-  class: l jm
+  class: m
+  category: phrase
+  translation: ""
+hu_denwatu:
+  term: hu denwatu
+  class: m
   category: phrase
   translation: ""
 hu_in_da:
   term: hu in da
-  class: l jm
+  class: m
   category: phrase
   translation: ""
 hudson:
@@ -18630,7 +18580,7 @@ intre-:
 intre_aloto:
   term: intre aloto
   class: p jm
-  category: derived
+  category: phrase
   translation: ""
 intreaksyon:
   term: intreaksyon
@@ -19314,7 +19264,7 @@ jalefe_na:
   translation: ""
 jaleki:
   term: jaleki
-  class: l jm
+  class: l
   category: derived
   translation: ""
 jaleli:
@@ -19589,7 +19539,7 @@ jaxafe_na:
   translation: ""
 jaxaki:
   term: jaxaki
-  class: l jm
+  class: l
   category: derived
   translation: ""
 jaxali:
@@ -22112,11 +22062,6 @@ kilo:
   class: num
   category: root
   translation: tausend, kilo-, k, 10^3
-kilogon:
-  term: kilogon
-  class: b
-  category: derived
-  translation: ""
 kilogramo:
   term: kilogramo
   class: b
@@ -22130,11 +22075,6 @@ kilometroje:
 kilonyan:
   term: kilonyan
   class: b
-  category: derived
-  translation: ""
-kilople:
-  term: kilople
-  class: t
   category: derived
   translation: ""
 kiloyum:
@@ -23339,7 +23279,7 @@ kosya:
   translation: ""
 kosya_ki:
   term: kosya ki
-  class: jm l
+  class: jm
   category: phrase
   translation: ""
 kotivwar:
@@ -23884,7 +23824,7 @@ kurto:
   translation: ""
 kurto_watu:
   term: kurto watu
-  class: n jm
+  class: b
   category: phrase
   translation: ""
 kurtocu:
@@ -24599,7 +24539,7 @@ ledin:
   translation: ""
 lefe:
   term: lefe
-  class: p
+  class: p; lfik
   category: derived
   translation: ""
 lefe_dento:
@@ -24614,7 +24554,7 @@ lefe_ki:
   translation: ""
 lefe_na:
   term: lefe na
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 lefe_or_fe:
@@ -24764,7 +24704,7 @@ leli:
   translation: ""
 leli_banwatu:
   term: leli banwatu
-  class: m jm
+  class: m
   category: derived
   translation: ""
 lemur:
@@ -24804,7 +24744,7 @@ lesbo:
   translation: Lesbos
 lesboyen:
   term: Lesboyen
-  class: "n"
+  class: b
   category: derived
   translation: ""
 lesutu:
@@ -24864,7 +24804,7 @@ levura:
   translation: ""
 levyatan:
   term: levyatan
-  class: "n"
+  class: b
   category: root
   translation: Leviathan
 lexi:
@@ -27059,7 +26999,7 @@ mawson:
   translation: Mawson
 max:
   term: max
-  class: d
+  class: d; m
   category: root
   translation: ""
 max-:
@@ -27069,11 +27009,6 @@ max-:
   translation: ""
 max_kom:
   term: max kom
-  class: l jm
-  category: phrase
-  translation: ""
-max_nilte_maxus:
-  term: max nilte maxus
   class: jm
   category: phrase
   translation: ""
@@ -27184,7 +27119,7 @@ maxhanmangi:
   translation: ""
 maxim:
   term: maxim
-  class: m
+  class: t
   category: root
   translation: ""
 maxim_bon:
@@ -27289,7 +27224,7 @@ maxmo_jaldi:
   translation: ""
 maxmo_kom:
   term: maxmo kom
-  class: l jm
+  class: jm
   category: phrase
   translation: ""
 maxmo_or_minmo:
@@ -27415,11 +27350,6 @@ medis:
 medisdo:
   term: medisdo
   class: t
-  category: derived
-  translation: ""
-medisdoku:
-  term: medisdoku
-  class: b
   category: derived
   translation: ""
 medisdom:
@@ -28119,7 +28049,7 @@ mikasi:
   translation: Schere
 mikro:
   term: mikro
-  class: num
+  class: num; lfik
   category: root
   translation: ""
 mikrobiologi:
@@ -28159,7 +28089,7 @@ milatu:
   translation: ""
 mili:
   term: mili
-  class: num
+  class: num; lfik
   category: root
   translation: ""
 milimetro:
@@ -28199,7 +28129,7 @@ mimu:
   translation: Meme, Mem
 min:
   term: min
-  class: m
+  class: d; m
   category: root
   translation: ""
 min-:
@@ -28209,7 +28139,7 @@ min-:
   translation: ""
 min_kom:
   term: min kom
-  class: t jm
+  class: jm
   category: phrase
   translation: ""
 mina:
@@ -28264,7 +28194,7 @@ mingwan:
   translation: Pluto
 minim:
   term: minim
-  class: m
+  class: t
   category: root
   translation: ""
 minimum:
@@ -28299,7 +28229,7 @@ minmo:
   translation: ""
 minmo_kom:
   term: minmo kom
-  class: l jm
+  class: jm
   category: phrase
   translation: ""
 minori:
@@ -28324,7 +28254,7 @@ minus:
   translation: ""
 minus_eger:
   term: minus eger
-  class: l jm
+  class: l
   category: phrase
   translation: ""
 minusgi:
@@ -29246,7 +29176,7 @@ multimo_maxmo:
 multimo_minmo:
   term: multimo minmo
   class: m
-  category: derived
+  category: phrase
   translation: ""
 mumu:
   term: mumu
@@ -29650,7 +29580,7 @@ nanahudo:
   translation: ""
 nano:
   term: nano
-  class: num
+  class: num; lfik
   category: root
   translation: ""
 nanometro:
@@ -30405,7 +30335,7 @@ ner_lefe_na:
   translation: ""
 ner_leki:
   term: ner leki
-  class: l jm
+  class: l
   category: phrase
   translation: ""
 ner_of:
@@ -30430,7 +30360,7 @@ ner_xafe_na:
   translation: ""
 ner_xaki:
   term: ner xaki
-  class: l jm
+  class: l
   category: phrase
   translation: ""
 nercu:
@@ -30745,7 +30675,7 @@ nitrogen:
   translation: ""
 no_abil:
   term: no abil
-  class: m
+  class: f.sah
   category: phrase
   translation: nicht k&ouml;nnen
 no_haji:
@@ -30760,7 +30690,7 @@ no_hata:
   translation: ""
 no_hay_seba:
   term: no hay seba
-  class: jm
+  class: il
   category: phrase
   translation: ""
 no_uje:
@@ -33320,7 +33250,7 @@ pikniku:
   translation: ""
 piko:
   term: piko
-  class: num
+  class: num; lfik
   category: root
   translation: ""
 pikometro:
@@ -39905,7 +39835,7 @@ teli_lefe_na:
   translation: ""
 teli_leki:
   term: teli leki
-  class: l jm
+  class: l
   category: phrase
   translation: ""
 teli_of:
@@ -39925,7 +39855,7 @@ teli_xafe_na:
   translation: ""
 teli_xaki:
   term: teli xaki
-  class: l jm
+  class: l
   category: phrase
   translation: ""
 teliergo:
@@ -40165,7 +40095,7 @@ teorili:
   translation: ""
 tera:
   term: tera
-  class: num
+  class: num; lfik
   category: root
   translation: Billion, tera-, T, 10^12
 terakota:
@@ -40960,12 +40890,12 @@ total:
   translation: ""
 total_dur:
   term: total dur
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 total_wey:
   term: total wey
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 totalglobali:
@@ -42679,6 +42609,11 @@ wal_na:
   class: p jm
   category: phrase
   translation: ""
+wal_seba:
+  term: wal seba
+  class: il
+  category: phrase
+  translation: ""
 wala:
   term: wala
   class: b.oj
@@ -43077,7 +43012,7 @@ xa-:
 xa_no:
   term: xa no
   class: jm
-  category: derived
+  category: phrase
   translation: ""
 xabahu:
   term: xabahu
@@ -43116,7 +43051,7 @@ xadin:
   translation: ""
 xafe:
   term: xafe
-  class: p
+  class: p; lfik
   category: derived
   translation: ""
 xafe_dento:
@@ -43136,7 +43071,7 @@ xafe_morcu:
   translation: ""
 xafe_na:
   term: xafe na
-  class: jm p
+  class: p
   category: phrase
   translation: ""
 xafe_to:
@@ -43291,8 +43226,8 @@ xali:
   translation: ""
 xali_banwatu:
   term: xali banwatu
-  class: m jm
-  category: derived
+  class: m
+  category: phrase
   translation: ""
 xama:
   term: xama
@@ -43667,7 +43602,7 @@ xikenjedo:
 xikenjekamer:
   term: xikenjekamer
   class: b
-  category: phrase
+  category: derived
   translation: ""
 xikenjeyen:
   term: xikenjeyen
@@ -44126,8 +44061,13 @@ xosu:
   translation: ""
 xosu_xafe_xosu:
   term: xosu xafe xosu
-  class: jm
+  class: m
   category: phrase
+  translation: ""
+xosumo:
+  term: xosumo
+  class: m
+  category: derived
   translation: ""
 xovin:
   term: Xovin
@@ -44702,7 +44642,7 @@ yon-:
 yon_na:
   term: yon na
   class: p jm
-  category: derived
+  category: phrase
   translation: ""
 yona:
   term: Yona

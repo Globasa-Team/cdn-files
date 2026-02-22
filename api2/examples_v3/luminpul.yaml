@@ -11,17 +11,17 @@
       spa: 'Doxo: Fabula fal Esopo'
   translations:
   - text: Te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: anda
-    eng: anda (b.oj.ru) walk; walk
+    eng: 'anda (b.oj.ru) n: walk; v.tr: walk'
     spa: anda (b.oj.ru) caminata, andada; caminar, andar
   - text: ' '
   - text: cel
-    eng: cel (p) to, for (denotes destination/goal, intention to attain); -wards
+    eng: 'cel (p) prep: to, for (denotes destination/goal, intention to attain); -wards'
     spa: cel (p) a, para, hacia
   - text: ' '
   - text: peda
@@ -29,7 +29,7 @@
     spa: peda (b.oj) pie; pisar
   - text: ' '
   - text: de
-    eng: de (p) of, belonging (to), -&#039;s (genitive case)
+    eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
     spa: de (p) de (perteneciente a)
   - text: ' '
   - text: drevo
@@ -37,12 +37,12 @@
     spa: drevo (b) &aacute;rbol
   - text: ', '
   - text: ji
-    eng: ji (l) and, as well as
+    eng: 'ji (l) conj: and, as well as'
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
@@ -51,7 +51,7 @@
     spa: dayloga (b.oj) exclamaci&oacute;n; exclamar
   - text: ", \u201C"
   - text: Bonnuru
-    eng: bonnuru (il) good day
+    eng: 'bonnuru (il) interj: good day'
     spa: bonnuru (il) buen d&iacute;a (saludo)
   - text: ', '
   - text: senyor
@@ -63,7 +63,7 @@
     spa: kraw (b) cuervo, Corvus
   - text: ', '
   - text: yu
-    eng: 'yu (pn) second person singular: you'
+    eng: 'yu (pn) pron: you (singular)'
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: okocu
@@ -71,11 +71,11 @@
     spa: okocu (b.lin) apariencia, aspecto, look; verse
   - text: ' '
   - text: daydenmo
-    eng: daydenmo (m) so, such, how
+    eng: 'daydenmo (m) adv: so, such, how'
     spa: daydenmo (m) qu&eacute; (para describir adjetivos y adverbios), vaya, tan
   - text: ' '
   - text: bon
-    eng: bon (t) good, well, fine, positive; well, positively
+    eng: 'bon (t) adj: good, well, fine, positive; adv: well, positively'
     spa: bon (t) buen, bueno, positivo; bien
   - text: ' '
   - text: nundin
@@ -83,7 +83,7 @@
     spa: nundin (b) hoy
   - text: ': '
   - text: yusu
-    eng: yusu (su s) your
+    eng: 'yusu (su s) poss adj: your'
     spa: yusu (su s) tu, su
   - text: ' '
   - text: yumaw
@@ -95,15 +95,15 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: daydenmo
-    eng: daydenmo (m) so, such, how
+    eng: 'daydenmo (m) adv: so, such, how'
     spa: daydenmo (m) qu&eacute; (para describir adjetivos y adverbios), vaya, tan
   - text: ' '
   - text: brilapul
-    eng: brilapul (t) shiny, brilliant; brilliantly
+    eng: 'brilapul (t) adj: shiny, brilliant; adv: brilliantly'
     spa: brilapul (t) brillante
   - text: '; '
   - text: yusu
-    eng: yusu (su s) your
+    eng: 'yusu (su s) poss adj: your'
     spa: yusu (su s) tu, su
   - text: ' '
   - text: oko
@@ -115,11 +115,11 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: daydenmo
-    eng: daydenmo (m) so, such, how
+    eng: 'daydenmo (m) adv: so, such, how'
     spa: daydenmo (m) qu&eacute; (para describir adjetivos y adverbios), vaya, tan
   - text: ' '
   - text: luminpul
-    eng: luminpul (t) bright, light
+    eng: 'luminpul (t) adj: bright, light; adv: brightly'
     spa: luminpul (t) luminoso, claro; luminosamente
   - text: ".\u201D"
 - text: Safe rubahe musi na bonyongu kurto luminpul watu cel na riewreka sesu famil.
@@ -132,7 +132,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Safe
-    eng: safe (t) clean; cleanly
+    eng: 'safe (t) adj: clean; adv: cleanly'
     spa: safe (t) limpio; limpiamente
   - text: ' '
   - text: rubahe
@@ -140,22 +140,23 @@
     spa: rubahe (b) zorro, raposa, Vulpini
   - text: ' '
   - text: musi
-    eng: musi (t; f.sah) which must, obligated, supposed (to); must, have (to)
+    eng: 'musi (t; f.sah) adj: which must, obligated, supposed (to); v.aux: must,
+      have (to)'
     spa: musi (t; f.sah) que tiene (que hacer algo), que debe, obligado; obligadamente;
       tener que, deber
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: bonyongu
   - text: ' '
   - text: kurto
-    eng: kurto (t) short, brief; briefly, shortly
+    eng: 'kurto (t) adj: short, brief; adv: briefly, shortly'
     spa: kurto (t) corto, breve; brevemente
   - text: ' '
   - text: luminpul
-    eng: luminpul (t) bright, light
+    eng: 'luminpul (t) adj: bright, light; adv: brightly'
     spa: luminpul (t) luminoso, claro; luminosamente
   - text: ' '
   - text: watu
@@ -163,17 +164,17 @@
     spa: watu (b) tiempo
   - text: ' '
   - text: cel
-    eng: cel (p) to, for (denotes destination/goal, intention to attain); -wards
+    eng: 'cel (p) prep: to, for (denotes destination/goal, intention to attain); -wards'
     spa: cel (p) a, para, hacia
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: riewreka
   - text: ' '
   - text: sesu
-    eng: sesu (su s) her own, his own, one&#039;s own
+    eng: 'sesu (su s) poss adj: her own, his own, one&#039;s own'
     spa: sesu (su s) su (de uno mismo)
   - text: ' '
   - text: famil

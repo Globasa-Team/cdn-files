@@ -17,22 +17,22 @@
     spa: swal (b.oj) pregunta; preguntar
   - text: ' '
   - text: tas
-    eng: tas (p) to (indirect object marker), for (receiver/recipient)
+    eng: 'tas (p) prep: to (indirect object marker), for (receiver/recipient)'
     spa: tas (p) a (marcador del objeto indirecto), para (receptor)
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: kama
-    eng: kama (m) whether
+    eng: 'kama (m) adv: whether'
     spa: kama (m) si, ya sea
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
@@ -41,7 +41,7 @@
     spa: vole (b.oj) voluntad, deseo; querer, desear
   - text: ' '
   - text: termodo
-    eng: termodo (t) warmed, heated
+    eng: 'termodo (t) adj: warmed, heated'
     spa: termodo (t) calentado, caliente
   - text: ' '
   - text: fruta
@@ -49,12 +49,12 @@
     spa: fruta (b) fruta, fruto
   - text: ' '
   - text: kam
-    eng: kam (l) yes/no question particle, or (whether)
+    eng: 'kam (l) conj: yes/no question particle, or (whether)'
     spa: kam (l) si (cuando indica duda o elecci&oacute;n), acaso (part&iacute;cula
       de pregunta de s&iacute; o no), no (interrogativo)
   - text: ' '
   - text: nentermodo
-    eng: nentermodo (t) unwarmed, unheated
+    eng: 'nentermodo (t) adj: unwarmed, unheated'
     spa: nentermodo (t) sin calentar
   - text: ' '
   - text: fruta
@@ -71,17 +71,17 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/alo-hikaye
   translations:
   - text: Te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: haha
-    eng: haha (b.oj.ru) laugh, laughter; laugh
+    eng: 'haha (b.oj.ru) n: laugh, laughter; v.tr: laugh'
     spa: haha (b.oj.ru) risa; re&iacute;r(se)
   - text: ' '
   - text: ji
-    eng: ji (l) and, as well as
+    eng: 'ji (l) conj: and, as well as'
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: loga
@@ -90,12 +90,12 @@
   - text: ', "'
   - text: Kemaner
     eng: |-
-      kemaner (m) how, done by what manner, done in
-      what manner
+      kemaner (m) adv: how, done by what manner, done in
+       what manner
     spa: kemaner (m) c&oacute;mo (interrogativo), de qu&eacute; manera
   - text: ' '
   - text: to
-    eng: 'to (pn) third person singular (inanimate): it'
+    eng: 'to (pn) pron (inanimate): it'
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: ' '
   - text: sen
@@ -103,12 +103,12 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: ible
-    eng: ible (t) possible, potential, which can be (done), which can happen, -ible,
-      -able; maybe, perhaps, might, possibly, potentially, -ibly, -ably
+    eng: 'ible (t) adj: possible, potential, which can be (done), which can happen,
+      -ible, -able; adv: maybe, perhaps, might, possibly, potentially, -ibly, -ably'
     spa: ible (t) posible, potencial; posiblemente, potencialmente, quiz&aacute;(s)
   - text: ' '
   - text: ki
-    eng: ki (l) that (conjunction)
+    eng: 'ki (l) conj: that'
     spa: ki (l) que
   - text: ' '
   - text: fruta
@@ -120,7 +120,7 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: termodo
-    eng: termodo (t) warmed, heated
+    eng: 'termodo (t) adj: warmed, heated'
     spa: termodo (t) calentado, caliente
   - text: ?"
 - text: Avayar loga, "Okey, am gibe tas mi termodo fruta."
@@ -139,11 +139,12 @@
     spa: loga (b.oj) declaraci&oacute;n, enunciaci&oacute;n; decir, declarar, enunciar
   - text: ', "'
   - text: Okey
-    eng: okey (t; il) okay, fine, all right; okay, fine, all right
+    eng: 'okey (t; il) adj: okay, fine, all right; adv: okay, fine, finely, all right;
+      interj: okay, fine, all right'
     spa: okey (t; il) ok(ey), (est&aacute;) bien, bueno, vale, va
   - text: ', '
   - text: am
-    eng: 'am (par) imperative verb marker: (do)'
+    eng: 'am (par) par: imperative verb marker: (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: gibe
@@ -151,15 +152,15 @@
     spa: gibe (b.oj) d&aacute;diva, donaci&oacute;n, otorgamiento; dar, donar, otorgar
   - text: ' '
   - text: tas
-    eng: tas (p) to (indirect object marker), for (receiver/recipient)
+    eng: 'tas (p) prep: to (indirect object marker), for (receiver/recipient)'
     spa: tas (p) a (marcador del objeto indirecto), para (receptor)
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: termodo
-    eng: termodo (t) warmed, heated
+    eng: 'termodo (t) adj: warmed, heated'
     spa: termodo (t) calentado, caliente
   - text: ' '
   - text: fruta

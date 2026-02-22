@@ -10,11 +10,11 @@
       spa: 'Doxo: Fabula fal Esopo'
   translations:
   - text: Mas
-    eng: mas (l) but
+    eng: 'mas (l) conj: but'
     spa: mas (l) pero, mas
   - text: ' '
   - text: preciso
-    eng: preciso (t) exact, precise, accurate; exactly, precisely, accurately
+    eng: 'preciso (t) adj: exact, precise, accurate; adv: exactly, precisely, accurately'
     spa: preciso (t) preciso, exacto; precisamente, exactamente
   - text: ' '
   - text: momento
@@ -23,11 +23,11 @@
       espacio de tiempo; (un) momento
   - text: ' '
   - text: feki
-    eng: feki (l) that (noun-modifying conjunction)
+    eng: 'feki (l) conj: that (noun-modifying conjunction)'
     spa: feki (l) que (conjunci&oacute;n que modifica sustantivos), tal que
   - text: ' '
   - text: ete
-    eng: 'ete (pn) third person plural (animate, personified objects): they, them'
+    eng: 'ete (pn) pron (animate): they, them'
     spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
   - text: ' '
   - text: nercu
@@ -35,7 +35,7 @@
     spa: nercu (b.nenoj) acercamiento; acercarse, aproximarse
   - text: ' '
   - text: cel
-    eng: cel (p) to, for (denotes destination/goal, intention to attain); -wards
+    eng: 'cel (p) prep: to, for (denotes destination/goal, intention to attain); -wards'
     spa: cel (p) a, para, hacia
   - text: ' '
   - text: byen
@@ -43,7 +43,7 @@
     spa: byen (b) borde
   - text: ' '
   - text: de
-    eng: de (p) of, belonging (to), -&#039;s (genitive case)
+    eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
     spa: de (p) de (perteneciente a)
   - text: ' '
   - text: hosu
@@ -53,14 +53,14 @@
   - text: kroalari
   - text: ', '
   - text: fobido
-    eng: fobido (t) frightened, scared
+    eng: 'fobido (t) adj: frightened, scared'
     spa: fobido (t) asustado
   - text: ' '
   - text: fe
-    eng: fe (p) at (time), in (month or year), on (date or day of the week), for (for
-      the first time, etc.), for (in one&#039;s case or experience, in the case or
-      experience of), of (relating to, number, quantity, amount), introduces common
-      prepositional phrases, used in phrasal prepositions, vague locative preposition
+    eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
+      for (for the first time, etc.), for (in one&#039;s case or experience, in the
+      case or experience of), of (relating to, number, quantity, amount), introduces
+      common prepositional phrases, used in phrasal prepositions, vague locative preposition'
     spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
       vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
@@ -70,7 +70,7 @@
     spa: turno (b.nenoj) turno; ser su turno, tocarle, ir
   - text: ' '
   - text: fal
-    eng: fal (p) (done) by
+    eng: 'fal (p) prep: (done) by'
     spa: fal (p) (hecho) por
   - text: ' '
   - text: nercu
@@ -78,7 +78,7 @@
     spa: nercu (b.nenoj) acercamiento; acercarse, aproximarse
   - text: ' '
   - text: de
-    eng: de (p) of, belonging (to), -&#039;s (genitive case)
+    eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
     spa: de (p) de (perteneciente a)
   - text: ' '
   - text: kargux
@@ -90,19 +90,19 @@
     spa: awajela (b.nenoj) darse prisa para irse
   - text: ' '
   - text: ji
-    eng: ji (l) and, as well as
+    eng: 'ji (l) conj: and, as well as'
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: tyao
-    eng: tyao (b.oj.ru) jump, leap; jump, leap
+    eng: 'tyao (b.oj.ru) n: jump, leap; v.tr: jump, leap'
     spa: tyao (b.oj.ru) salto; saltar
   - text: ' '
   - text: cel
-    eng: cel (p) to, for (denotes destination/goal, intention to attain); -wards
+    eng: 'cel (p) prep: to, for (denotes destination/goal, intention to attain); -wards'
     spa: cel (p) a, para, hacia
   - text: ' '
   - text: in
-    eng: in (p) at (place), in (place), inside of, within
+    eng: 'in (p) prep: at (place), in (place), inside (of), within'
     spa: in (p) en, dentro de
   - text: ' '
   - text: sui
@@ -121,7 +121,7 @@
       spa: https://doxo.globasa.net/spa/folklorli-hikaye/alo-folklorli-hikaye
   translations:
   - text: Hinto
-    eng: hinto (pn) this, this one, this thing
+    eng: 'hinto (pn) pron (inanimate): this (one)'
     spa: hinto (pn) este (cosa), &eacute;ste, esto
   - text: ' '
   - text: sen
@@ -133,42 +133,43 @@
     spa: sui (b) agua, pa&ntilde;&iacute;
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: esto
-    eng: 'esto (b.oro) stop, halt; v.tr: stop (bring to a stop), halt (bring to a
-      halt); v.intr (optional -cu): stop (come to a stop), halt (come to a halt),
+    eng: 'esto (b.oro.harka) n: stop, halt; v.tr: stop (bring to a stop), halt (bring
+      to a halt); v.intr (optional -cu): stop (come to a stop), halt (come to a halt),
       cease, quit'
-    spa: esto (b.oro) parada, stop; detener; detenerse, parar, cesar
+    spa: esto (b.oro.harka) parada, stop; detener; detenerse, parar, cesar
   - text: ' '
   - text: atex
-    eng: 'atex (b.oro) fire; v.tr: burn (damage, destroy or consume with fire); v.intr
-      (optional -cu): burn (be on fire, be damaged, destroyed or consumed by fire)'
+    eng: 'atex (b.oro) n: fire; v.tr: burn (damage, destroy or consume with fire);
+      v.intr (optional -cu): burn (be on fire, be damaged, destroyed or consumed by
+      fire)'
     spa: atex (b.oro) fuego, lumbre; incendiar; arder, incendiarse
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yake
-    eng: 'yake (b.oro) burn; v.tr: burn; v.intr (optional -cu): burn'
+    eng: 'yake (b.oro) n: burn; v.tr: burn; v.intr (optional -cu): burn'
     spa: yake (b.oro) quemadura; quemar; quemarse
   - text: ' '
   - text: gumbo
@@ -176,15 +177,15 @@
     spa: gumbo (b) palo, vara, barra
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: darbe
@@ -196,15 +197,15 @@
     spa: bwaw (b) perro, Canis lupus familiaris
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yao
@@ -216,19 +217,19 @@
     spa: myaw (b) gato, Felis catus
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yam
-    eng: yam (b.oj.ru) meal, food; eat
+    eng: 'yam (b.oj.ru) n: meal, food; v.tr: eat'
     spa: yam (b.oj.ru) comida, platillo, manduca; comer, manducar
   - text: ' '
   - text: maux
@@ -236,15 +237,15 @@
     spa: maux (b) rat&oacute;n, Mus musculus
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: nage
@@ -256,11 +257,11 @@
     spa: kordo (b) cuerda, soga, cord&oacute;n
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: binde
@@ -272,23 +273,24 @@
     spa: yawxe (b) llave
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: buka
-    eng: 'buka (b.oro) opening; v.tr: open; v.intr (optional -cu): open'
-    spa: buka (b.oro) apertura; abrir; abrirse
+    eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
+      open'
+    spa: buka (b.oro.harka) apertura; abrir; abrirse
   - text: ' '
   - text: dwer
     eng: 'dwer (b) n: door, gate'
     spa: dwer (b) puerta
   - text: ' '
   - text: de
-    eng: de (p) of, belonging (to), -&#039;s (genitive case)
+    eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
     spa: de (p) de (perteneciente a)
   - text: ' '
   - text: Kastilo
@@ -309,7 +311,7 @@
       spa: https://doxo.globasa.net/spa/folklorli-hikaye/alo-folklorli-hikaye
   translations:
   - text: Hinte
-    eng: hinte (pn) this, this one, this being, this person
+    eng: 'hinte (pn) pron (animate): this (one)'
     spa: hinte (pn) este, &eacute;ste (ser vivo)
   - text: ' '
   - text: sen
@@ -321,15 +323,15 @@
     spa: femmumu (b) vaca
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: glu
@@ -341,42 +343,43 @@
     spa: sui (b) agua, pa&ntilde;&iacute;
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: esto
-    eng: 'esto (b.oro) stop, halt; v.tr: stop (bring to a stop), halt (bring to a
-      halt); v.intr (optional -cu): stop (come to a stop), halt (come to a halt),
+    eng: 'esto (b.oro.harka) n: stop, halt; v.tr: stop (bring to a stop), halt (bring
+      to a halt); v.intr (optional -cu): stop (come to a stop), halt (come to a halt),
       cease, quit'
-    spa: esto (b.oro) parada, stop; detener; detenerse, parar, cesar
+    spa: esto (b.oro.harka) parada, stop; detener; detenerse, parar, cesar
   - text: ' '
   - text: atex
-    eng: 'atex (b.oro) fire; v.tr: burn (damage, destroy or consume with fire); v.intr
-      (optional -cu): burn (be on fire, be damaged, destroyed or consumed by fire)'
+    eng: 'atex (b.oro) n: fire; v.tr: burn (damage, destroy or consume with fire);
+      v.intr (optional -cu): burn (be on fire, be damaged, destroyed or consumed by
+      fire)'
     spa: atex (b.oro) fuego, lumbre; incendiar; arder, incendiarse
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yake
-    eng: 'yake (b.oro) burn; v.tr: burn; v.intr (optional -cu): burn'
+    eng: 'yake (b.oro) n: burn; v.tr: burn; v.intr (optional -cu): burn'
     spa: yake (b.oro) quemadura; quemar; quemarse
   - text: ' '
   - text: gumbo
@@ -384,15 +387,15 @@
     spa: gumbo (b) palo, vara, barra
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: darbe
@@ -404,15 +407,15 @@
     spa: bwaw (b) perro, Canis lupus familiaris
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yao
@@ -424,19 +427,19 @@
     spa: myaw (b) gato, Felis catus
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yam
-    eng: yam (b.oj.ru) meal, food; eat
+    eng: 'yam (b.oj.ru) n: meal, food; v.tr: eat'
     spa: yam (b.oj.ru) comida, platillo, manduca; comer, manducar
   - text: ' '
   - text: maux
@@ -444,15 +447,15 @@
     spa: maux (b) rat&oacute;n, Mus musculus
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: nage
@@ -464,11 +467,11 @@
     spa: kordo (b) cuerda, soga, cord&oacute;n
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: binde
@@ -480,23 +483,24 @@
     spa: yawxe (b) llave
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: buka
-    eng: 'buka (b.oro) opening; v.tr: open; v.intr (optional -cu): open'
-    spa: buka (b.oro) apertura; abrir; abrirse
+    eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
+      open'
+    spa: buka (b.oro.harka) apertura; abrir; abrirse
   - text: ' '
   - text: dwer
     eng: 'dwer (b) n: door, gate'
     spa: dwer (b) puerta
   - text: ' '
   - text: de
-    eng: de (p) of, belonging (to), -&#039;s (genitive case)
+    eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
     spa: de (p) de (perteneciente a)
   - text: ' '
   - text: Kastilo
@@ -517,7 +521,7 @@
       spa: https://doxo.globasa.net/spa/folklorli-hikaye/alo-folklorli-hikaye
   translations:
   - text: Hinto
-    eng: hinto (pn) this, this one, this thing
+    eng: 'hinto (pn) pron (inanimate): this (one)'
     spa: hinto (pn) este (cosa), &eacute;ste, esto
   - text: ' '
   - text: sen
@@ -529,15 +533,15 @@
     spa: milko (b) leche
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: ofata
@@ -550,15 +554,15 @@
     spa: femmumu (b) vaca
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: glu
@@ -570,42 +574,43 @@
     spa: sui (b) agua, pa&ntilde;&iacute;
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: esto
-    eng: 'esto (b.oro) stop, halt; v.tr: stop (bring to a stop), halt (bring to a
-      halt); v.intr (optional -cu): stop (come to a stop), halt (come to a halt),
+    eng: 'esto (b.oro.harka) n: stop, halt; v.tr: stop (bring to a stop), halt (bring
+      to a halt); v.intr (optional -cu): stop (come to a stop), halt (come to a halt),
       cease, quit'
-    spa: esto (b.oro) parada, stop; detener; detenerse, parar, cesar
+    spa: esto (b.oro.harka) parada, stop; detener; detenerse, parar, cesar
   - text: ' '
   - text: atex
-    eng: 'atex (b.oro) fire; v.tr: burn (damage, destroy or consume with fire); v.intr
-      (optional -cu): burn (be on fire, be damaged, destroyed or consumed by fire)'
+    eng: 'atex (b.oro) n: fire; v.tr: burn (damage, destroy or consume with fire);
+      v.intr (optional -cu): burn (be on fire, be damaged, destroyed or consumed by
+      fire)'
     spa: atex (b.oro) fuego, lumbre; incendiar; arder, incendiarse
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yake
-    eng: 'yake (b.oro) burn; v.tr: burn; v.intr (optional -cu): burn'
+    eng: 'yake (b.oro) n: burn; v.tr: burn; v.intr (optional -cu): burn'
     spa: yake (b.oro) quemadura; quemar; quemarse
   - text: ' '
   - text: gumbo
@@ -613,15 +618,15 @@
     spa: gumbo (b) palo, vara, barra
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: darbe
@@ -633,15 +638,15 @@
     spa: bwaw (b) perro, Canis lupus familiaris
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yao
@@ -653,19 +658,19 @@
     spa: myaw (b) gato, Felis catus
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yam
-    eng: yam (b.oj.ru) meal, food; eat
+    eng: 'yam (b.oj.ru) n: meal, food; v.tr: eat'
     spa: yam (b.oj.ru) comida, platillo, manduca; comer, manducar
   - text: ' '
   - text: maux
@@ -673,15 +678,15 @@
     spa: maux (b) rat&oacute;n, Mus musculus
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: nage
@@ -693,11 +698,11 @@
     spa: kordo (b) cuerda, soga, cord&oacute;n
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: binde
@@ -709,23 +714,24 @@
     spa: yawxe (b) llave
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: buka
-    eng: 'buka (b.oro) opening; v.tr: open; v.intr (optional -cu): open'
-    spa: buka (b.oro) apertura; abrir; abrirse
+    eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
+      open'
+    spa: buka (b.oro.harka) apertura; abrir; abrirse
   - text: ' '
   - text: dwer
     eng: 'dwer (b) n: door, gate'
     spa: dwer (b) puerta
   - text: ' '
   - text: de
-    eng: de (p) of, belonging (to), -&#039;s (genitive case)
+    eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
     spa: de (p) de (perteneciente a)
   - text: ' '
   - text: Kastilo
@@ -747,11 +753,11 @@
       spa: https://doxo.globasa.net/spa/folklorli-hikaye/alo-folklorli-hikaye
   translations:
   - text: Ji
-    eng: ji (l) and, as well as
+    eng: 'ji (l) conj: and, as well as'
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: hinte
-    eng: hinte (pn) this, this one, this being, this person
+    eng: 'hinte (pn) pron (animate): this (one)'
     spa: hinte (pn) este, &eacute;ste (ser vivo)
   - text: ' '
   - text: sen
@@ -763,15 +769,15 @@
     spa: nini (b) ni&ntilde;o, infante, cr&iacute;o
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: glu
@@ -783,15 +789,15 @@
     spa: milko (b) leche
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: ofata
@@ -804,15 +810,15 @@
     spa: femmumu (b) vaca
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: glu
@@ -824,42 +830,43 @@
     spa: sui (b) agua, pa&ntilde;&iacute;
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: esto
-    eng: 'esto (b.oro) stop, halt; v.tr: stop (bring to a stop), halt (bring to a
-      halt); v.intr (optional -cu): stop (come to a stop), halt (come to a halt),
+    eng: 'esto (b.oro.harka) n: stop, halt; v.tr: stop (bring to a stop), halt (bring
+      to a halt); v.intr (optional -cu): stop (come to a stop), halt (come to a halt),
       cease, quit'
-    spa: esto (b.oro) parada, stop; detener; detenerse, parar, cesar
+    spa: esto (b.oro.harka) parada, stop; detener; detenerse, parar, cesar
   - text: ' '
   - text: atex
-    eng: 'atex (b.oro) fire; v.tr: burn (damage, destroy or consume with fire); v.intr
-      (optional -cu): burn (be on fire, be damaged, destroyed or consumed by fire)'
+    eng: 'atex (b.oro) n: fire; v.tr: burn (damage, destroy or consume with fire);
+      v.intr (optional -cu): burn (be on fire, be damaged, destroyed or consumed by
+      fire)'
     spa: atex (b.oro) fuego, lumbre; incendiar; arder, incendiarse
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yake
-    eng: 'yake (b.oro) burn; v.tr: burn; v.intr (optional -cu): burn'
+    eng: 'yake (b.oro) n: burn; v.tr: burn; v.intr (optional -cu): burn'
     spa: yake (b.oro) quemadura; quemar; quemarse
   - text: ' '
   - text: gumbo
@@ -867,15 +874,15 @@
     spa: gumbo (b) palo, vara, barra
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: darbe
@@ -887,15 +894,15 @@
     spa: bwaw (b) perro, Canis lupus familiaris
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yao
@@ -907,19 +914,19 @@
     spa: myaw (b) gato, Felis catus
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yam
-    eng: yam (b.oj.ru) meal, food; eat
+    eng: 'yam (b.oj.ru) n: meal, food; v.tr: eat'
     spa: yam (b.oj.ru) comida, platillo, manduca; comer, manducar
   - text: ' '
   - text: maux
@@ -927,15 +934,15 @@
     spa: maux (b) rat&oacute;n, Mus musculus
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: nage
@@ -947,11 +954,11 @@
     spa: kordo (b) cuerda, soga, cord&oacute;n
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: binde
@@ -963,23 +970,24 @@
     spa: yawxe (b) llave
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: buka
-    eng: 'buka (b.oro) opening; v.tr: open; v.intr (optional -cu): open'
-    spa: buka (b.oro) apertura; abrir; abrirse
+    eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
+      open'
+    spa: buka (b.oro.harka) apertura; abrir; abrirse
   - text: ' '
   - text: dwer
     eng: 'dwer (b) n: door, gate'
     spa: dwer (b) puerta
   - text: ' '
   - text: de
-    eng: de (p) of, belonging (to), -&#039;s (genitive case)
+    eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
     spa: de (p) de (perteneciente a)
   - text: ' '
   - text: Kastilo
@@ -998,7 +1006,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Denwatu
-    eng: denwatu (m) then (at that time)
+    eng: 'denwatu (m) adv: then (at that time)'
     spa: denwatu (m) en ese momento, entonces
   - text: ', '
   - text: salamandra
@@ -1006,28 +1014,28 @@
     spa: salamandra (b) salamandra, Urodela
   - text: ' '
   - text: "no"
-    eng: no (m) no, not, don&#039;t, do not, doesn&#039;t, does not
+    eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
     spa: no (m) no
   - text: ' '
   - text: haji
-    eng: haji (m) still (even now/then as formerly)
+    eng: 'haji (m) adv: still (even now/then as formerly)'
     spa: haji (m) todav&iacute;a, a&uacute;n
   - text: ' '
   - text: abil
-    eng: abil (t; f.sah) able, capable, which can (be), -able, -ible; capably, -ably,
-      -ibly; be able, can
+    eng: 'abil (t; f.sah) adj: able, capable, which can (be), -able, -ible; capably,
+      -ably, -ibly; v.aux: be able, can'
     spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: jiwa
-    eng: jiwa (b.oj.ru) life; live
+    eng: 'jiwa (b.oj.ru) n: life; v.tr: live'
     spa: jiwa (b.oj.ru) vida; vivir
   - text: ' '
   - text: in
-    eng: in (p) at (place), in (place), inside of, within
+    eng: 'in (p) prep: at (place), in (place), inside (of), within'
     spa: in (p) en, dentro de
   - text: ' '
   - text: sui
@@ -1035,30 +1043,30 @@
     spa: sui (b) agua, pa&ntilde;&iacute;
   - text: ', '
   - text: mas
-    eng: mas (l) but
+    eng: 'mas (l) conj: but'
     spa: mas (l) pero, mas
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: abil
-    eng: abil (t; f.sah) able, capable, which can (be), -able, -ible; capably, -ably,
-      -ibly; be able, can
+    eng: 'abil (t; f.sah) adj: able, capable, which can (be), -able, -ible; capably,
+      -ably, -ibly; v.aux: be able, can'
     spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: jiwa
-    eng: jiwa (b.oj.ru) life; live
+    eng: 'jiwa (b.oj.ru) n: life; v.tr: live'
     spa: jiwa (b.oj.ru) vida; vivir
   - text: ' '
   - text: per
-    eng: per (p) on, upon, over, aboard
+    eng: 'per (p) prep: on, upon, over, aboard'
     spa: per (p) sobre, encima de
   - text: ' '
   - text: geo
@@ -1075,18 +1083,18 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Fol
-    eng: fol (p) according to, along, alongside (of), by, for (according to one&#039;s
-      opinion or belief)
+    eng: 'fol (p) prep: according to, along, alongside (of), by, for (according to
+      one&#039;s opinion or belief)'
     spa: fol (p) seg&uacute;n, siguiendo, de acuerdo a, junto a, a
   - text: ' '
   - text: multi
-    eng: multi (t) many, a lot of, lots of, a great deal of; much, a lot, a great
-      deal
+    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
+      a great deal'
     spa: multi (t) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ', '
@@ -1095,7 +1103,7 @@
     spa: sui (b) agua, pa&ntilde;&iacute;
   - text: ' '
   - text: nun
-    eng: 'nun (par) simple present tense marker: do, now'
+    eng: 'nun (par) par: simple present tense marker: do, now'
     spa: nun (par) estar (+ verbo; marcador del tiempo presente activo)
   - text: ' '
   - text: hare
@@ -1103,7 +1111,7 @@
     spa: hare (b.oj) tenencia; tener, contar con
   - text: ' '
   - text: bur
-    eng: bur (t) bad, evil, negative; badly, evilly, negatively
+    eng: 'bur (t) adj: bad, evil, negative; adv: badly, evilly, negatively'
     spa: bur (t) malo, maligno, negativo; mal
   - text: ' '
   - text: nasacu
@@ -1121,15 +1129,15 @@
   translations:
   - text: '"'
   - text: Uyu
-    eng: 'uyu (pn) second person plural: you'
+    eng: 'uyu (pn) pron: you (plural)'
     spa: uyu (pn) ustedes, vosotros
   - text: ' '
   - text: am
-    eng: 'am (par) imperative verb marker: (do)'
+    eng: 'am (par) par: imperative verb marker: (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: "no"
-    eng: no (m) no, not, don&#039;t, do not, doesn&#039;t, does not
+    eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
     spa: no (m) no
   - text: ' '
   - text: resta
@@ -1137,7 +1145,7 @@
     spa: resta (b.nenoj) resto, residuo, sobra; quedar(se), permanecer, restar, sobrar
   - text: ' '
   - text: in
-    eng: in (p) at (place), in (place), inside of, within
+    eng: 'in (p) prep: at (place), in (place), inside (of), within'
     spa: in (p) en, dentro de
   - text: ' '
   - text: sui
@@ -1158,7 +1166,7 @@
     spa: sui (b) agua, pa&ntilde;&iacute;
   - text: ' '
   - text: de
-    eng: de (p) of, belonging (to), -&#039;s (genitive case)
+    eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
     spa: de (p) de (perteneciente a)
   - text: ' '
   - text: hosu
@@ -1166,11 +1174,11 @@
     spa: hosu (b) lago
   - text: ' '
   - text: "no"
-    eng: no (m) no, not, don&#039;t, do not, doesn&#039;t, does not
+    eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
     spa: no (m) no
   - text: ' '
   - text: haji
-    eng: haji (m) still (even now/then as formerly)
+    eng: 'haji (m) adv: still (even now/then as formerly)'
     spa: haji (m) todav&iacute;a, a&uacute;n
   - text: ' '
   - text: sen
@@ -1178,15 +1186,15 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: laye
-    eng: laye (t) worthy; worthily
+    eng: 'laye (t) adj: worthy; adv: worthily'
     spa: laye (t) digno; dignamente
   - text: ' '
   - text: cel
-    eng: cel (p) to, for (denotes destination/goal, intention to attain); -wards
+    eng: 'cel (p) prep: to, for (denotes destination/goal, intention to attain); -wards'
     spa: cel (p) a, para, hacia
   - text: ' '
   - text: etesu
-    eng: etesu (su s) their
+    eng: 'etesu (su s) poss adj: their (belonging to those beings)'
     spa: etesu (su s) su, sus (de ellos)
   - text: ' '
   - text: bebe
@@ -1203,10 +1211,10 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Fe
-    eng: fe (p) at (time), in (month or year), on (date or day of the week), for (for
-      the first time, etc.), for (in one&#039;s case or experience, in the case or
-      experience of), of (relating to, number, quantity, amount), introduces common
-      prepositional phrases, used in phrasal prepositions, vague locative preposition
+    eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
+      for (for the first time, etc.), for (in one&#039;s case or experience, in the
+      case or experience of), of (relating to, number, quantity, amount), introduces
+      common prepositional phrases, used in phrasal prepositions, vague locative preposition'
     spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
       vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
@@ -1216,7 +1224,7 @@
     spa: nunya (b) presente (tiempo en que se est&aacute;)
   - text: ', '
   - text: moy
-    eng: moy (d) every, each, all
+    eng: 'moy (d) det: every, each, all'
     spa: moy (d) cada, todo
   - text: ' '
   - text: axolotle
@@ -1224,11 +1232,11 @@
     spa: axolotle (b) ajolote, Ambystoma mexicanum
   - text: ' '
   - text: jiwa
-    eng: jiwa (b.oj.ru) life; live
+    eng: 'jiwa (b.oj.ru) n: life; v.tr: live'
     spa: jiwa (b.oj.ru) vida; vivir
   - text: ' '
   - text: in
-    eng: in (p) at (place), in (place), inside of, within
+    eng: 'in (p) prep: at (place), in (place), inside (of), within'
     spa: in (p) en, dentro de
   - text: ' '
   - text: kubo
@@ -1236,16 +1244,16 @@
     spa: kubo (b) cubo (poliedro, potencia)
   - text: ' '
   - text: fe
-    eng: fe (p) at (time), in (month or year), on (date or day of the week), for (for
-      the first time, etc.), for (in one&#039;s case or experience, in the case or
-      experience of), of (relating to, number, quantity, amount), introduces common
-      prepositional phrases, used in phrasal prepositions, vague locative preposition
+    eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
+      for (for the first time, etc.), for (in one&#039;s case or experience, in the
+      case or experience of), of (relating to, number, quantity, amount), introduces
+      common prepositional phrases, used in phrasal prepositions, vague locative preposition'
     spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
       vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
   - text: ' '
   - text: safe
-    eng: safe (t) clean; cleanly
+    eng: 'safe (t) adj: clean; adv: cleanly'
     spa: safe (t) limpio; limpiamente
   - text: ' '
   - text: sui
@@ -1262,7 +1270,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Nerxali
-    eng: nerxali (t) upcoming; soon, shortly
+    eng: 'nerxali (t) adj: upcoming; adv: soon, shortly'
     spa: nerxali (t) pronto
   - text: ', '
   - text: sui
@@ -1270,7 +1278,7 @@
     spa: sui (b) agua, pa&ntilde;&iacute;
   - text: ' '
   - text: xa
-    eng: 'xa (par) future tense marker: will, shall'
+    eng: 'xa (par) par: future tense marker: will, shall'
     spa: xa (par) -&aacute; (marcador del tiempo futuro)
   - text: ' '
   - text: koberi
@@ -1278,7 +1286,7 @@
     spa: koberi (b.oj) cubierta, tapa; cubrir, tapar
   - text: ' '
   - text: moy
-    eng: moy (d) every, each, all
+    eng: 'moy (d) det: every, each, all'
     spa: moy (d) cada, todo
   - text: ' '
   - text: bage
@@ -1288,11 +1296,11 @@
       pedazo; partir, dividir, fraccionar
   - text: ' '
   - text: de
-    eng: de (p) of, belonging (to), -&#039;s (genitive case)
+    eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
     spa: de (p) de (perteneciente a)
   - text: ' '
   - text: Dunya
-    eng: dunya (su n) Earth
+    eng: 'dunya (su n) prop n: Earth'
     spa: dunya (su n) Tierra (planeta)
   - text: .
 - text: '"Imi abil na ogar per sui!"'
@@ -1306,25 +1314,25 @@
   translations:
   - text: '"'
   - text: Imi
-    eng: 'imi (pn) first person plural: we, us'
+    eng: 'imi (pn) pron: we, us'
     spa: imi (pn) nosotros
   - text: ' '
   - text: abil
-    eng: abil (t; f.sah) able, capable, which can (be), -able, -ible; capably, -ably,
-      -ibly; be able, can
+    eng: 'abil (t; f.sah) adj: able, capable, which can (be), -able, -ible; capably,
+      -ably, -ibly; v.aux: be able, can'
     spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: ogar
-    eng: 'ogar (b.oj) n: home, dwelling; v.tr: live in, inhabit; reside (in), dwell
-      (in), live (in)'
+    eng: 'ogar (b.oj) n: home, dwelling; v.tr: live in, inhabit; v.intr: reside, dwell,
+      live'
     spa: ogar (b.oj) hogar, residencia; vivir, residir, habitar
   - text: ' '
   - text: per
-    eng: per (p) on, upon, over, aboard
+    eng: 'per (p) prep: on, upon, over, aboard'
     spa: per (p) sobre, encima de
   - text: ' '
   - text: sui
@@ -1343,7 +1351,7 @@
   - text: PL
   - text: ': "'
   - text: Mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: sen
@@ -1351,11 +1359,11 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: moyloka
-    eng: moyloka (m) everywhere, throughout
+    eng: 'moyloka (m) adv: everywhere, throughout'
     spa: moyloka (m) en todo lugar, en todos lados
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: hay
@@ -1367,7 +1375,7 @@
     spa: sui (b) agua, pa&ntilde;&iacute;
   - text: ' '
   - text: ji
-    eng: ji (l) and, as well as
+    eng: 'ji (l) conj: and, as well as'
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: geo

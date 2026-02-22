@@ -18,13 +18,13 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ', "'
   - text: Te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: gibe
@@ -32,15 +32,15 @@
     spa: gibe (b.oj) d&aacute;diva, donaci&oacute;n, otorgamiento; dar, donar, otorgar
   - text: ' '
   - text: tas
-    eng: tas (p) to (indirect object marker), for (receiver/recipient)
+    eng: 'tas (p) prep: to (indirect object marker), for (receiver/recipient)'
     spa: tas (p) a (marcador del objeto indirecto), para (receptor)
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: hin
-    eng: hin (d) this, these
+    eng: 'hin (d) det: this, these'
     spa: hin (d) este, estos
   - text: ' '
   - text: nasiha
@@ -48,11 +48,11 @@
     spa: nasiha (b.oj) consejo; aconsejar
   - text: ': '
   - text: Am
-    eng: 'am (par) imperative verb marker: (do)'
+    eng: 'am (par) par: imperative verb marker: (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: xinloy
@@ -65,11 +65,11 @@
     spa: doste (b) amigo
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: awrestagi
@@ -77,20 +77,21 @@
     spa: awrestagi (b.oj) abandono; abandonar
   - text: ' '
   - text: yu
-    eng: 'yu (pn) second person singular: you'
+    eng: 'yu (pn) pron: you (singular)'
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: denwatu
-    eng: denwatu (m) then (at that time)
+    eng: 'denwatu (m) adv: then (at that time)'
     spa: denwatu (m) en ese momento, entonces
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: hatari
-    eng: 'hatari (b.oro) danger; v.tr: make dangerous, cause to be dangerous; be dangerous'
-    spa: hatari (b.oro) peligro; ser peligroso; volver peligroso
+    eng: 'hatari (b.oro.jotay) n: danger; v.tr: make dangerous, cause to be dangerous;
+      v.intr: be dangerous'
+    spa: hatari (b.oro.jotay) peligro; ser peligroso; volver peligroso
   - text: ' '
   - text: nercu
     eng: 'nercu (b.nenoj) v.intr: approach, get near, get close'
@@ -106,7 +107,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Gao
-    eng: gao (t) tall, high; highly
+    eng: 'gao (t) adj: tall, high; adv: highly'
     spa: gao (t) alto; altamente
   - text: ' '
   - text: drevo
@@ -118,11 +119,11 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ': "'
   - text: Eger
-    eng: eger (l) if
+    eng: 'eger (l) conj: if'
     spa: eger (l) si
   - text: ' '
   - text: uyu
-    eng: 'uyu (pn) second person plural: you'
+    eng: 'uyu (pn) pron: you (plural)'
     spa: uyu (pn) ustedes, vosotros
   - text: ' '
   - text: vole
@@ -134,7 +135,7 @@
     spa: lumin (b.oj) luz; alumbrar, iluminar
   - text: ', '
   - text: am
-    eng: 'am (par) imperative verb marker: (do)'
+    eng: 'am (par) par: imperative verb marker: (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: xunjan
@@ -159,7 +160,7 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ': "'
   - text: Yusu
-    eng: yusu (su s) your
+    eng: 'yusu (su s) poss adj: your'
     spa: yusu (su s) tu, su
   - text: ' '
   - text: rasamu
@@ -171,29 +172,29 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: bon
-    eng: bon (t) good, well, fine, positive; well, positively
+    eng: 'bon (t) adj: good, well, fine, positive; adv: well, positively'
     spa: bon (t) buen, bueno, positivo; bien
   - text: ', '
   - text: mas
-    eng: mas (l) but
+    eng: 'mas (l) conj: but'
     spa: mas (l) pero, mas
   - text: ' '
   - text: kam
-    eng: kam (l) yes/no question particle, or (whether)
+    eng: 'kam (l) conj: yes/no question particle, or (whether)'
     spa: kam (l) si (cuando indica duda o elecci&oacute;n), acaso (part&iacute;cula
       de pregunta de s&iacute; o no), no (interrogativo)
   - text: ' '
   - text: yu
-    eng: 'yu (pn) second person singular: you'
+    eng: 'yu (pn) pron: you (singular)'
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: abil
-    eng: abil (t; f.sah) able, capable, which can (be), -able, -ible; capably, -ably,
-      -ibly; be able, can
+    eng: 'abil (t; f.sah) adj: able, capable, which can (be), -able, -ible; capably,
+      -ably, -ibly; v.aux: be able, can'
     spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: alogi
@@ -201,7 +202,7 @@
     spa: alogi (b.oj) cambio, alteraci&oacute;n; cambiar, alterar
   - text: ' '
   - text: den
-    eng: den (d) that, those
+    eng: 'den (d) det: that, those'
     spa: den (d) ese, aquel
   - text: ' '
   - text: bage
@@ -228,8 +229,8 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ': "'
   - text: Te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
@@ -263,7 +264,7 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ' '
   - text: yon
-    eng: yon (p) with (the use of), by using, by means of, through, via
+    eng: 'yon (p) prep: with (the use of), by using, by means of, through, via'
     spa: yon (p) con (utilizando), por medio de, mediante
   - text: ' '
   - text: swal
@@ -271,12 +272,12 @@
     spa: swal (b.oj) pregunta; preguntar
   - text: ': "'
   - text: Kam
-    eng: kam (l) yes/no question particle, or (whether)
+    eng: 'kam (l) conj: yes/no question particle, or (whether)'
     spa: kam (l) si (cuando indica duda o elecci&oacute;n), acaso (part&iacute;cula
       de pregunta de s&iacute; o no), no (interrogativo)
   - text: ' '
   - text: yu
-    eng: 'yu (pn) second person singular: you'
+    eng: 'yu (pn) pron: you (singular)'
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: suki
@@ -285,7 +286,7 @@
       (de), amar, placer(le)
   - text: ' '
   - text: yusu
-    eng: yusu (su s) your
+    eng: 'yusu (su s) poss adj: your'
     spa: yusu (su s) tu, su
   - text: ' '
   - text: rasamu
@@ -314,7 +315,7 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ': "'
   - text: Si
-    eng: si (m) yes, yeah
+    eng: 'si (m) adv: yes, yeah'
     spa: si (m) s&iacute;
   - text: '!"'
 - text: 'Panda jawabu: "Kastilo?"'
@@ -356,11 +357,11 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ': "'
   - text: Si
-    eng: si (m) yes, yeah
+    eng: 'si (m) adv: yes, yeah'
     spa: si (m) s&iacute;
   - text: ', '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: haja
@@ -368,7 +369,7 @@
     spa: haja (b.oj) necesidad; necesitar
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: gardi
@@ -376,7 +377,7 @@
     spa: gardi (b.oj) guardia, protecci&oacute;n; vigilar, proteger
   - text: ' '
   - text: misu
-    eng: misu (su s) my
+    eng: 'misu (su s) poss adj: my'
     spa: misu (su s) mi
   - text: ' '
   - text: hazina
@@ -401,7 +402,7 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ': "'
   - text: To
-    eng: 'to (pn) third person singular (inanimate): it'
+    eng: 'to (pn) pron (inanimate): it'
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: ' '
   - text: sen
@@ -413,7 +414,7 @@
     spa: maner (b) manera, modo
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: onexa
@@ -423,15 +424,15 @@
       demostrar, exponer, presentar
   - text: ' '
   - text: ki
-    eng: ki (l) that (conjunction)
+    eng: 'ki (l) conj: that'
     spa: ki (l) que
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: suki
@@ -440,7 +441,7 @@
       (de), amar, placer(le)
   - text: ' '
   - text: hin
-    eng: hin (d) this, these
+    eng: 'hin (d) det: this, these'
     spa: hin (d) este, estos
   - text: ' '
   - text: momento
@@ -449,11 +450,11 @@
       espacio de tiempo; (un) momento
   - text: ' '
   - text: ton
-    eng: ton (p) (together) with, (along) with
+    eng: 'ton (p) prep: (together) with, (along) with'
     spa: ton (p) (junto) con
   - text: ' '
   - text: yu
-    eng: 'yu (pn) second person singular: you'
+    eng: 'yu (pn) pron: you (singular)'
     spa: yu (pn) t&uacute;, vos, usted
   - text: ."
 - text: 'Dragon jawabu: "Mi porta yu cel misu gufa, koski yu sen misu hazina."'
@@ -474,7 +475,7 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ': "'
   - text: Mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: porta
@@ -482,15 +483,15 @@
     spa: porta (b.oj) llevar, cargar, transportar, portar
   - text: ' '
   - text: yu
-    eng: 'yu (pn) second person singular: you'
+    eng: 'yu (pn) pron: you (singular)'
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: cel
-    eng: cel (p) to, for (denotes destination/goal, intention to attain); -wards
+    eng: 'cel (p) prep: to, for (denotes destination/goal, intention to attain); -wards'
     spa: cel (p) a, para, hacia
   - text: ' '
   - text: misu
-    eng: misu (su s) my
+    eng: 'misu (su s) poss adj: my'
     spa: misu (su s) mi
   - text: ' '
   - text: gufa
@@ -499,11 +500,11 @@
       tuda
   - text: ', '
   - text: koski
-    eng: koski (l) because, since, for
+    eng: 'koski (l) conj: because, since, for'
     spa: koski (l) porque, debido a que, a causa de que, car
   - text: ' '
   - text: yu
-    eng: 'yu (pn) second person singular: you'
+    eng: 'yu (pn) pron: you (singular)'
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: sen
@@ -511,7 +512,7 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: misu
-    eng: misu (su s) my
+    eng: 'misu (su s) poss adj: my'
     spa: misu (su s) mi
   - text: ' '
   - text: hazina
@@ -538,7 +539,7 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ': "'
   - text: To
-    eng: 'to (pn) third person singular (inanimate): it'
+    eng: 'to (pn) pron (inanimate): it'
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: ' '
   - text: sen
@@ -546,19 +547,19 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: daymo
-    eng: daymo (m) greatly, very, really, highly
+    eng: 'daymo (m) adv: greatly, very, really, highly'
     spa: daymo (m) muy (para describir adjetivos y adverbios), grandemente, altamente
   - text: ' '
   - text: day
-    eng: day (t) big, large, great, major; bigly, greatly, majorly
+    eng: 'day (t) adj: big, large, great, major; adv: bigly, greatly, majorly'
     spa: day (t) grande, mayor; muy, mucho
   - text: ' '
   - text: ji
-    eng: ji (l) and, as well as
+    eng: 'ji (l) conj: and, as well as'
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: jalo
-    eng: jalo (t) yellow
+    eng: 'jalo (t) adj: yellow'
     spa: jalo (t) (de color) amarillo
   - text: ."
 - text: Fol te, jawabu sen mingumo mimbay.
@@ -571,13 +572,13 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Fol
-    eng: fol (p) according to, along, alongside (of), by, for (according to one&#039;s
-      opinion or belief)
+    eng: 'fol (p) prep: according to, along, alongside (of), by, for (according to
+      one&#039;s opinion or belief)'
     spa: fol (p) seg&uacute;n, siguiendo, de acuerdo a, junto a, a
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ', '
@@ -592,7 +593,8 @@
   - text: mingumo
   - text: ' '
   - text: mimbay
-    eng: mimbay (t; il) obvious, evident; obviously, evidently; of course
+    eng: 'mimbay (t; il) adj: obvious, evident; adv: obviously, evidently; interj:
+      of course'
     spa: mimbay (t; il) obvio; obviamente, por supuesto
   - text: .
 - text: 'Swimo, hu da multi befobi na beyam, jawabu: "O, dente yakin sen den alo te."'
@@ -609,24 +611,24 @@
     spa: swimo (b) medusa, aguamala, aguaviva, malagua, Medusozoa
   - text: ', '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: multi
-    eng: multi (t) many, a lot of, lots of, a great deal of; much, a lot, a great
-      deal
+    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
+      a great deal'
     spa: multi (t) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: befobi
-    eng: 'befobi (b.oj) n: v.tr: be frightened (by); v.tr: v.tr fear, be afraid (of)'
+    eng: 'befobi (b.oj) v.tr: be frightened (by); v.tr: fear, be afraid (of)'
     spa: befobi (b.oj) temer
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: beyam
@@ -636,15 +638,15 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ': "'
   - text: O
-    eng: o (il) oh
+    eng: 'o (il) interj: oh'
     spa: o (il) oh
   - text: ', '
   - text: dente
-    eng: dente (pn) that, that one, that being, that person
+    eng: 'dente (pn) pron (animate): that (one)'
     spa: dente (pn) ese (ser vivo), &eacute;se, aquel, aqu&eacute;l
   - text: ' '
   - text: yakin
-    eng: yakin (t) sure, certain; surely, certainly
+    eng: 'yakin (t) adj: sure, certain; adv: surely, certainly'
     spa: yakin (t) seguro (que no siente duda); seguramente
   - text: ' '
   - text: sen
@@ -652,16 +654,16 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: den
-    eng: den (d) that, those
+    eng: 'den (d) det: that, those'
     spa: den (d) ese, aquel
   - text: ' '
   - text: alo
-    eng: alo (d) other, another, a different
+    eng: 'alo (d) det: other, another, a different'
     spa: alo (d) otro, diferente
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ."
@@ -679,7 +681,7 @@
     spa: swimo (b) medusa, aguamala, aguaviva, malagua, Medusozoa
   - text: ' '
   - text: "no"
-    eng: no (m) no, not, don&#039;t, do not, doesn&#039;t, does not
+    eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
     spa: no (m) no
   - text: ' '
   - text: jawabu
@@ -696,11 +698,11 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Ete
-    eng: 'ete (pn) third person plural (animate, personified objects): they, them'
+    eng: 'ete (pn) pron (animate): they, them'
     spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: sidecu
@@ -708,19 +710,19 @@
     spa: sidecu (b.nenoj) sentarse
   - text: ', '
   - text: ji
-    eng: ji (l) and, as well as
+    eng: 'ji (l) conj: and, as well as'
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: durki
-    eng: durki (l) while, as
+    eng: 'durki (l) conj: while, as'
     spa: durki (l) mientras (que)
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: jawabu
@@ -728,15 +730,15 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ' '
   - text: kweho
-    eng: kweho (t) merry, cheerful; merrilly, cheerfully
+    eng: 'kweho (t) adj: merry, cheerful; adv: merrilly, cheerfully'
     spa: kweho (t) alegre, jovial; alegremente, jovialmente
   - text: ', '
   - text: imi
-    eng: 'imi (pn) first person plural: we, us'
+    eng: 'imi (pn) pron: we, us'
     spa: imi (pn) nosotros
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: intrepala
@@ -744,144 +746,7 @@
     spa: intrepala (b.nenoj) conversaci&oacute;n; conversar
   - text: ' '
   - text: ordinari
-    eng: ordinari (t) ordinary, typical; ordinarily, typically
+    eng: 'ordinari (t) adj: ordinary, typical; adv: ordinarily, typically'
     spa: ordinari (t) ordinario; ordinariamente
   - text: .
-- text: Bimaryen jawabu ki te le ore banto.
-  cite:
-    text:
-      eng: 'Doxo: Humorxey'
-      spa: 'Doxo: Humorxey'
-    link:
-      eng: https://doxo.globasa.net/eng/humorxey
-      spa: https://doxo.globasa.net/spa/humorxey
-  translations:
-  - text: Bimaryen
-    eng: 'bimaryen (b) n: patient, sick person'
-    spa: bimaryen (b) enfermo (persona)
-  - text: ' '
-  - text: jawabu
-    eng: 'jawabu (b.oj) n: answer, reply, response; v.tr: answer, reply, respond'
-    spa: jawabu (b.oj) respuesta; contestar, responder
-  - text: ' '
-  - text: ki
-    eng: ki (l) that (conjunction)
-    spa: ki (l) que
-  - text: ' '
-  - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
-  - text: ' '
-  - text: le
-    eng: 'le (par) past tense marker: -ed, did'
-    spa: le (par) marcador del tiempo pasado
-  - text: ' '
-  - text: ore
-    eng: 'ore (b.oj) n: ear; v.tr: hear, listen'
-    spa: ore (b.oj) o&iacute;do, oreja; o&iacute;r
-  - text: ' '
-  - text: banto
-    eng: banto (pn) something
-    spa: banto (pn) algo
-  - text: .
-- text: 'Bimaryen jawabu, "Mi le ore: Am no fobi, moyto xa sen bon."'
-  cite:
-    text:
-      eng: 'Doxo: Humorxey'
-      spa: 'Doxo: Humorxey'
-    link:
-      eng: https://doxo.globasa.net/eng/humorxey
-      spa: https://doxo.globasa.net/spa/humorxey
-  translations:
-  - text: Bimaryen
-    eng: 'bimaryen (b) n: patient, sick person'
-    spa: bimaryen (b) enfermo (persona)
-  - text: ' '
-  - text: jawabu
-    eng: 'jawabu (b.oj) n: answer, reply, response; v.tr: answer, reply, respond'
-    spa: jawabu (b.oj) respuesta; contestar, responder
-  - text: ', "'
-  - text: Mi
-    eng: 'mi (pn) first person singular: I, me'
-    spa: mi (pn) yo, me, m&iacute;
-  - text: ' '
-  - text: le
-    eng: 'le (par) past tense marker: -ed, did'
-    spa: le (par) marcador del tiempo pasado
-  - text: ' '
-  - text: ore
-    eng: 'ore (b.oj) n: ear; v.tr: hear, listen'
-    spa: ore (b.oj) o&iacute;do, oreja; o&iacute;r
-  - text: ': '
-  - text: Am
-    eng: 'am (par) imperative verb marker: (do)'
-    spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
-  - text: ' '
-  - text: "no"
-    eng: no (m) no, not, don&#039;t, do not, doesn&#039;t, does not
-    spa: no (m) no
-  - text: ' '
-  - text: fobi
-    eng: 'fobi (b.oro) fear, -phobia; v.tr: frighten, scare; be (feel) frightened,
-      be (feel) scared'
-    spa: fobi (b.oro) miedo, temor, susto; estar asustado, estar espantado, temer;
-      asustar, espantar, hacer temer
-  - text: ', '
-  - text: moyto
-    eng: moyto (pn) everything
-    spa: moyto (pn) todo
-  - text: ' '
-  - text: xa
-    eng: 'xa (par) future tense marker: will, shall'
-    spa: xa (par) -&aacute; (marcador del tiempo futuro)
-  - text: ' '
-  - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
-    spa: sen (b.lin) ser; ser, estar
-  - text: ' '
-  - text: bon
-    eng: bon (t) good, well, fine, positive; well, positively
-    spa: bon (t) buen, bueno, positivo; bien
-  - text: ."
-- text: Bimaryen jawabu, "Mas dento beloga kanhoyen tas medisyen!"
-  cite:
-    text:
-      eng: 'Doxo: Humorxey'
-      spa: 'Doxo: Humorxey'
-    link:
-      eng: https://doxo.globasa.net/eng/humorxey
-      spa: https://doxo.globasa.net/spa/humorxey
-  translations:
-  - text: Bimaryen
-    eng: 'bimaryen (b) n: patient, sick person'
-    spa: bimaryen (b) enfermo (persona)
-  - text: ' '
-  - text: jawabu
-    eng: 'jawabu (b.oj) n: answer, reply, response; v.tr: answer, reply, respond'
-    spa: jawabu (b.oj) respuesta; contestar, responder
-  - text: ', "'
-  - text: Mas
-    eng: mas (l) but
-    spa: mas (l) pero, mas
-  - text: ' '
-  - text: dento
-    eng: dento (pn) that, that one, that thing
-    spa: dento (pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello
-  - text: ' '
-  - text: beloga
-  - text: ' '
-  - text: kanhoyen
-    eng: 'kanhoyen (b) n: nurse'
-    spa: kanhoyen (b) enfermero
-  - text: ' '
-  - text: tas
-    eng: tas (p) to (indirect object marker), for (receiver/recipient)
-    spa: tas (p) a (marcador del objeto indirecto), para (receptor)
-  - text: ' '
-  - text: medisyen
-    eng: 'medisyen (b) n: physician, doctor'
-    spa: medisyen (b) m&eacute;dico (persona)
-  - text: '!"'
 ...

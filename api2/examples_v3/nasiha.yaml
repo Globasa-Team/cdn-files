@@ -10,11 +10,11 @@
   translations:
   - text: "\u201C"
   - text: Por
-    eng: por (p) (in exchange) for
+    eng: 'por (p) prep: (in exchange) for'
     spa: por (p) a cambio de
   - text: ' '
   - text: yusu
-    eng: yusu (su s) your
+    eng: 'yusu (su s) poss adj: your'
     spa: yusu (su s) tu, su
   - text: ' '
   - text: jubin
@@ -22,11 +22,11 @@
     spa: jubin (b) queso, formaje
   - text: ', '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: xa
-    eng: 'xa (par) future tense marker: will, shall'
+    eng: 'xa (par) par: future tense marker: will, shall'
     spa: xa (par) -&aacute; (marcador del tiempo futuro)
   - text: ' '
   - text: gibe
@@ -34,11 +34,11 @@
     spa: gibe (b.oj) d&aacute;diva, donaci&oacute;n, otorgamiento; dar, donar, otorgar
   - text: ' '
   - text: tas
-    eng: tas (p) to (indirect object marker), for (receiver/recipient)
+    eng: 'tas (p) prep: to (indirect object marker), for (receiver/recipient)'
     spa: tas (p) a (marcador del objeto indirecto), para (receptor)
   - text: ' '
   - text: yu
-    eng: 'yu (pn) second person singular: you'
+    eng: 'yu (pn) pron: you (singular)'
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: nasiha
@@ -46,7 +46,7 @@
     spa: nasiha (b.oj) consejo; aconsejar
   - text: ' '
   - text: cel
-    eng: cel (p) to, for (denotes destination/goal, intention to attain); -wards
+    eng: 'cel (p) prep: to, for (denotes destination/goal, intention to attain); -wards'
     spa: cel (p) a, para, hacia
   - text: ' '
   - text: xaya
@@ -55,11 +55,11 @@
       (de)
   - text: ': '
   - text: am
-    eng: 'am (par) imperative verb marker: (do)'
+    eng: 'am (par) par: imperative verb marker: (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: "no"
-    eng: no (m) no, not, don&#039;t, do not, doesn&#039;t, does not
+    eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
     spa: no (m) no
   - text: ' '
   - text: xinloy
@@ -88,13 +88,13 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ', "'
   - text: Te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: gibe
@@ -102,15 +102,15 @@
     spa: gibe (b.oj) d&aacute;diva, donaci&oacute;n, otorgamiento; dar, donar, otorgar
   - text: ' '
   - text: tas
-    eng: tas (p) to (indirect object marker), for (receiver/recipient)
+    eng: 'tas (p) prep: to (indirect object marker), for (receiver/recipient)'
     spa: tas (p) a (marcador del objeto indirecto), para (receptor)
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: hin
-    eng: hin (d) this, these
+    eng: 'hin (d) det: this, these'
     spa: hin (d) este, estos
   - text: ' '
   - text: nasiha
@@ -118,11 +118,11 @@
     spa: nasiha (b.oj) consejo; aconsejar
   - text: ': '
   - text: Am
-    eng: 'am (par) imperative verb marker: (do)'
+    eng: 'am (par) par: imperative verb marker: (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: xinloy
@@ -135,11 +135,11 @@
     spa: doste (b) amigo
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: awrestagi
@@ -147,20 +147,21 @@
     spa: awrestagi (b.oj) abandono; abandonar
   - text: ' '
   - text: yu
-    eng: 'yu (pn) second person singular: you'
+    eng: 'yu (pn) pron: you (singular)'
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: denwatu
-    eng: denwatu (m) then (at that time)
+    eng: 'denwatu (m) adv: then (at that time)'
     spa: denwatu (m) en ese momento, entonces
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: hatari
-    eng: 'hatari (b.oro) danger; v.tr: make dangerous, cause to be dangerous; be dangerous'
-    spa: hatari (b.oro) peligro; ser peligroso; volver peligroso
+    eng: 'hatari (b.oro.jotay) n: danger; v.tr: make dangerous, cause to be dangerous;
+      v.intr: be dangerous'
+    spa: hatari (b.oro.jotay) peligro; ser peligroso; volver peligroso
   - text: ' '
   - text: nercu
     eng: 'nercu (b.nenoj) v.intr: approach, get near, get close'

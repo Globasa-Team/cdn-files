@@ -18,13 +18,13 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ', "'
   - text: Te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: gibe
@@ -32,15 +32,15 @@
     spa: gibe (b.oj) d&aacute;diva, donaci&oacute;n, otorgamiento; dar, donar, otorgar
   - text: ' '
   - text: tas
-    eng: tas (p) to (indirect object marker), for (receiver/recipient)
+    eng: 'tas (p) prep: to (indirect object marker), for (receiver/recipient)'
     spa: tas (p) a (marcador del objeto indirecto), para (receptor)
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: hin
-    eng: hin (d) this, these
+    eng: 'hin (d) det: this, these'
     spa: hin (d) este, estos
   - text: ' '
   - text: nasiha
@@ -48,11 +48,11 @@
     spa: nasiha (b.oj) consejo; aconsejar
   - text: ': '
   - text: Am
-    eng: 'am (par) imperative verb marker: (do)'
+    eng: 'am (par) par: imperative verb marker: (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: xinloy
@@ -65,11 +65,11 @@
     spa: doste (b) amigo
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: awrestagi
@@ -77,20 +77,21 @@
     spa: awrestagi (b.oj) abandono; abandonar
   - text: ' '
   - text: yu
-    eng: 'yu (pn) second person singular: you'
+    eng: 'yu (pn) pron: you (singular)'
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: denwatu
-    eng: denwatu (m) then (at that time)
+    eng: 'denwatu (m) adv: then (at that time)'
     spa: denwatu (m) en ese momento, entonces
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: hatari
-    eng: 'hatari (b.oro) danger; v.tr: make dangerous, cause to be dangerous; be dangerous'
-    spa: hatari (b.oro) peligro; ser peligroso; volver peligroso
+    eng: 'hatari (b.oro.jotay) n: danger; v.tr: make dangerous, cause to be dangerous;
+      v.intr: be dangerous'
+    spa: hatari (b.oro.jotay) peligro; ser peligroso; volver peligroso
   - text: ' '
   - text: nercu
     eng: 'nercu (b.nenoj) v.intr: approach, get near, get close'
@@ -106,7 +107,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Ex
-    eng: ex (p) out, outside (of)
+    eng: 'ex (p) prep: out, outside (of)'
     spa: ex (p) (a)fuera de
   - text: ' '
   - text: kafas
@@ -118,16 +119,16 @@
     spa: haul (b) lobo, Canis lupus
   - text: ' '
   - text: abil
-    eng: abil (t; f.sah) able, capable, which can (be), -able, -ible; capably, -ably,
-      -ibly; be able, can
+    eng: 'abil (t; f.sah) adj: able, capable, which can (be), -able, -ible; capably,
+      -ably, -ibly; v.aux: be able, can'
     spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: xigoli
-    eng: xigoli (t) accidental; accidentally
+    eng: 'xigoli (t) adj: accidental; adv: accidentally'
     spa: xigoli (t) accidental; accidentalmente
   - text: ' '
   - text: morcu
@@ -135,18 +136,19 @@
     spa: morcu (b.nenoj) muerte, fallecimiento; morir, fallecer
   - text: ' '
   - text: kos
-    eng: kos (p) because of, due to, for
+    eng: 'kos (p) prep: because of, due to, for'
     spa: kos (p) por, debido a, a causa de
   - text: ' '
   - text: hatari
-    eng: 'hatari (b.oro) danger; v.tr: make dangerous, cause to be dangerous; be dangerous'
-    spa: hatari (b.oro) peligro; ser peligroso; volver peligroso
+    eng: 'hatari (b.oro.jotay) n: danger; v.tr: make dangerous, cause to be dangerous;
+      v.intr: be dangerous'
+    spa: hatari (b.oro.jotay) peligro; ser peligroso; volver peligroso
   - text: ' '
   - text: fe
-    eng: fe (p) at (time), in (month or year), on (date or day of the week), for (for
-      the first time, etc.), for (in one&#039;s case or experience, in the case or
-      experience of), of (relating to, number, quantity, amount), introduces common
-      prepositional phrases, used in phrasal prepositions, vague locative preposition
+    eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
+      for (for the first time, etc.), for (in one&#039;s case or experience, in the
+      case or experience of), of (relating to, number, quantity, amount), introduces
+      common prepositional phrases, used in phrasal prepositions, vague locative preposition'
     spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
       vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
@@ -156,7 +158,7 @@
     spa: globa (b) mundo
   - text: ' '
   - text: de
-    eng: de (p) of, belonging (to), -&#039;s (genitive case)
+    eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
     spa: de (p) de (perteneciente a)
   - text: ' '
   - text: maymun
@@ -173,7 +175,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Nilwatu
-    eng: nilwatu (m) never
+    eng: 'nilwatu (m) adv: never'
     spa: nilwatu (m) nunca
   - text: ' '
   - text: hay
@@ -181,8 +183,9 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: hatari
-    eng: 'hatari (b.oro) danger; v.tr: make dangerous, cause to be dangerous; be dangerous'
-    spa: hatari (b.oro) peligro; ser peligroso; volver peligroso
+    eng: 'hatari (b.oro.jotay) n: danger; v.tr: make dangerous, cause to be dangerous;
+      v.intr: be dangerous'
+    spa: hatari (b.oro.jotay) peligro; ser peligroso; volver peligroso
   - text: .
 - text: Te gibe golmon tas plastikoli lilbao hu da sipul sen multimo maxmo fobine
     kos tosu oko-nenible hatari.
@@ -195,8 +198,8 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ' '
@@ -209,25 +212,26 @@
     spa: golmon (b) punto (unidad de puntaje)
   - text: ' '
   - text: tas
-    eng: tas (p) to (indirect object marker), for (receiver/recipient)
+    eng: 'tas (p) prep: to (indirect object marker), for (receiver/recipient)'
     spa: tas (p) a (marcador del objeto indirecto), para (receptor)
   - text: ' '
   - text: plastikoli
-    eng: plastikoli (t) plastic; plastically
+    eng: 'plastikoli (t) adj: plastic; adv: plastically'
     spa: plastikoli (t) pl&aacute;stico
   - text: ' '
   - text: lilbao
   - text: ' '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: sipul
-    eng: sipul (t) indeed, of course, definitely, positively
+    eng: 'sipul (t) adj: indeed, of course, definitely, positively; adv: indeed, of
+      course, definitely, positively'
     spa: sipul (t) efectivamente, por supuesto, definitivamente, con seguridad
   - text: ' '
   - text: sen
@@ -237,25 +241,26 @@
   - text: multimo
   - text: ' '
   - text: maxmo
-    eng: maxmo (m) more (to a greater degree)
+    eng: 'maxmo (m) adv: more (to a greater degree)'
     spa: maxmo (m) m&aacute;s (para describir adjetivos y adverbios)
   - text: ' '
   - text: fobine
-    eng: fobine (t) scary, frightening, feared
+    eng: 'fobine (t) adj: scary, frightening, feared; adv: frighteningly'
     spa: fobine (t) escalofriante, espeluznante
   - text: ' '
   - text: kos
-    eng: kos (p) because of, due to, for
+    eng: 'kos (p) prep: because of, due to, for'
     spa: kos (p) por, debido a, a causa de
   - text: ' '
   - text: tosu
-    eng: tosu (su s) its (belonging to it)
+    eng: 'tosu (su s) poss adj: its (belonging to it)'
     spa: tosu (su s) su (de una cosa)
   - text: ' '
   - text: oko-nenible
   - text: ' '
   - text: hatari
-    eng: 'hatari (b.oro) danger; v.tr: make dangerous, cause to be dangerous; be dangerous'
-    spa: hatari (b.oro) peligro; ser peligroso; volver peligroso
+    eng: 'hatari (b.oro.jotay) n: danger; v.tr: make dangerous, cause to be dangerous;
+      v.intr: be dangerous'
+    spa: hatari (b.oro.jotay) peligro; ser peligroso; volver peligroso
   - text: .
 ...

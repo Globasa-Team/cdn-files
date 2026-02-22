@@ -13,24 +13,24 @@
     spa: swimo (b) medusa, aguamala, aguaviva, malagua, Medusozoa
   - text: ', '
   - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
+    eng: 'hu (l) conj (relative clause marker): who, which, that'
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
+    eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: multi
-    eng: multi (t) many, a lot of, lots of, a great deal of; much, a lot, a great
-      deal
+    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
+      a great deal'
     spa: multi (t) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: befobi
-    eng: 'befobi (b.oj) n: v.tr: be frightened (by); v.tr: v.tr fear, be afraid (of)'
+    eng: 'befobi (b.oj) v.tr: be frightened (by); v.tr: fear, be afraid (of)'
     spa: befobi (b.oj) temer
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: beyam
@@ -40,15 +40,15 @@
     spa: jawabu (b.oj) respuesta; contestar, responder
   - text: ': "'
   - text: O
-    eng: o (il) oh
+    eng: 'o (il) interj: oh'
     spa: o (il) oh
   - text: ', '
   - text: dente
-    eng: dente (pn) that, that one, that being, that person
+    eng: 'dente (pn) pron (animate): that (one)'
     spa: dente (pn) ese (ser vivo), &eacute;se, aquel, aqu&eacute;l
   - text: ' '
   - text: yakin
-    eng: yakin (t) sure, certain; surely, certainly
+    eng: 'yakin (t) adj: sure, certain; adv: surely, certainly'
     spa: yakin (t) seguro (que no siente duda); seguramente
   - text: ' '
   - text: sen
@@ -56,16 +56,16 @@
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: den
-    eng: den (d) that, those
+    eng: 'den (d) det: that, those'
     spa: den (d) ese, aquel
   - text: ' '
   - text: alo
-    eng: alo (d) other, another, a different
+    eng: 'alo (d) det: other, another, a different'
     spa: alo (d) otro, diferente
   - text: ' '
   - text: te
-    eng: 'te (pn) third person singular (animate, personified object): he, him, she,
-      her, they (singular), them (singular) '
+    eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
+      it'
     spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
       elle
   - text: ."
@@ -79,16 +79,17 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: joxupul
     eng: 'joxupul (t) adj (for inanimate nouns): exciting; adj (for animate nouns):
-      excited, enthusiastic, eager; excitedly, enthusiastically, eagerly'
+      excited, enthusiastic, eager; adv (for animate nouns): excitedly, enthusiastically,
+      eagerly'
     spa: joxupul (t) emocionado, ansioso, entusiasmado
   - text: ' '
   - text: idi
@@ -96,31 +97,32 @@
     spa: idi (b.nenoj) ida; ir
   - text: ' '
   - text: cel
-    eng: cel (p) to, for (denotes destination/goal, intention to attain); -wards
+    eng: 'cel (p) prep: to, for (denotes destination/goal, intention to attain); -wards'
     spa: cel (p) a, para, hacia
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: buka
-    eng: 'buka (b.oro) opening; v.tr: open; v.intr (optional -cu): open'
-    spa: buka (b.oro) apertura; abrir; abrirse
+    eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
+      open'
+    spa: buka (b.oro.harka) apertura; abrir; abrirse
   - text: ' '
   - text: to
-    eng: 'to (pn) third person singular (inanimate): it'
+    eng: 'to (pn) pron (inanimate): it'
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: ', '
   - text: koski
-    eng: koski (l) because, since, for
+    eng: 'koski (l) conj: because, since, for'
     spa: koski (l) porque, debido a que, a causa de que, car
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: hare
@@ -128,22 +130,22 @@
     spa: hare (b.oj) tenencia; tener, contar con
   - text: ' '
   - text: keto
-    eng: keto (pn) what, which (one)
+    eng: 'keto (pn) pron (interrogative, inanimate): what, which (one)'
     spa: keto (pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: befobi
-    eng: 'befobi (b.oj) n: v.tr: be frightened (by); v.tr: v.tr fear, be afraid (of)'
+    eng: 'befobi (b.oj) v.tr: be frightened (by); v.tr: fear, be afraid (of)'
     spa: befobi (b.oj) temer
   - text: ' '
   - text: fe
-    eng: fe (p) at (time), in (month or year), on (date or day of the week), for (for
-      the first time, etc.), for (in one&#039;s case or experience, in the case or
-      experience of), of (relating to, number, quantity, amount), introduces common
-      prepositional phrases, used in phrasal prepositions, vague locative preposition
+    eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
+      for (for the first time, etc.), for (in one&#039;s case or experience, in the
+      case or experience of), of (relating to, number, quantity, amount), introduces
+      common prepositional phrases, used in phrasal prepositions, vague locative preposition'
     spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
       vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
@@ -162,27 +164,27 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: tabasum
-    eng: tabasum (b.oj.ru) smile; smile
+    eng: 'tabasum (b.oj.ru) n: smile; v.tr: smile'
     spa: tabasum (b.oj.ru) sonrisa; sonre&iacute;r
   - text: ', '
   - text: koski
-    eng: koski (l) because, since, for
+    eng: 'koski (l) conj: because, since, for'
     spa: koski (l) porque, debido a que, a causa de que, car
   - text: ' '
   - text: mi
-    eng: 'mi (pn) first person singular: I, me'
+    eng: 'mi (pn) pron: I, me'
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) past tense marker: -ed, did'
+    eng: 'le (par) par: past tense marker: -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: hare
@@ -190,74 +192,15 @@
     spa: hare (b.oj) tenencia; tener, contar con
   - text: ' '
   - text: keto
-    eng: keto (pn) what, which (one)
+    eng: 'keto (pn) pron (interrogative, inanimate): what, which (one)'
     spa: keto (pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l
   - text: ' '
   - text: na
-    eng: 'na (par) infinitive marker: to'
+    eng: 'na (par) par: infinitive marker: to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: befobi
-    eng: 'befobi (b.oj) n: v.tr: be frightened (by); v.tr: v.tr fear, be afraid (of)'
+    eng: 'befobi (b.oj) v.tr: be frightened (by); v.tr: fear, be afraid (of)'
     spa: befobi (b.oj) temer
   - text: '?'
-- text: <strong>Solo to hu imi musi na befobi da sen he fobi.</strong>
-  cite:
-    text:
-      eng: 'Doxo: Inyo'
-      spa: 'Doxo: Inyo'
-    link:
-      eng: https://doxo.globasa.net/eng/inyo
-      spa: https://doxo.globasa.net/spa/inyo
-  translations:
-  - text: '**'
-  - text: Solo
-    eng: solo (t) alone, (the) sole, (the) only
-    spa: solo (t) solo (sin compa&ntilde;&iacute;a)
-  - text: ' '
-  - text: to
-    eng: 'to (pn) third person singular (inanimate): it'
-    spa: to (pn) &eacute;l (cosa), ella, elle, ello
-  - text: ' '
-  - text: hu
-    eng: 'hu (l) relative clause marker: who, which, that'
-    spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
-  - text: ' '
-  - text: imi
-    eng: 'imi (pn) first person plural: we, us'
-    spa: imi (pn) nosotros
-  - text: ' '
-  - text: musi
-    eng: musi (t; f.sah) which must, obligated, supposed (to); must, have (to)
-    spa: musi (t; f.sah) que tiene (que hacer algo), que debe, obligado; obligadamente;
-      tener que, deber
-  - text: ' '
-  - text: na
-    eng: 'na (par) infinitive marker: to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
-  - text: ' '
-  - text: befobi
-    eng: 'befobi (b.oj) n: v.tr: be frightened (by); v.tr: v.tr fear, be afraid (of)'
-    spa: befobi (b.oj) temer
-  - text: ' '
-  - text: da
-    eng: 'da (pn) relative pronoun:  he, she, it, they'
-    spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
-  - text: ' '
-  - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
-    spa: sen (b.lin) ser; ser, estar
-  - text: ' '
-  - text: he
-    eng: 'he (par) emphatic particle: any, ever, at all, the very, -self (pronouns)'
-    spa: he (par) y no otro (&eacute;nfasis contrastivo), y s&oacute;lo; justamente
-      (part&iacute;cula enf&aacute;tica de correlativos), absolutamente, exactamente,
-      cualquier
-  - text: ' '
-  - text: fobi
-    eng: 'fobi (b.oro) fear, -phobia; v.tr: frighten, scare; be (feel) frightened,
-      be (feel) scared'
-    spa: fobi (b.oro) miedo, temor, susto; estar asustado, estar espantado, temer;
-      asustar, espantar, hacer temer
-  - text: .**
 ...
