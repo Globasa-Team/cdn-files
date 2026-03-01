@@ -21,6 +21,8 @@
 - fe_ner_xaya
 (fe) nunli din:
 - fe_nunli_din
+(fe) rimara:
+- fe_rimara
 (fe) tiga mara:
 - fe_tiga_mara
 (fe) un mara:
@@ -441,11 +443,11 @@ almasi:
 almasihalke:
 - almasihalke
 alo:
-- alo
-- he_alo
 - fe_alo_kaso
 - fe_alo_lexi
 - fe_alo_loga
+- alo
+- he_alo
 - alo_bante
 - alo_banto
 alo bante:
@@ -1431,11 +1433,11 @@ bambu:
 bamya:
 - bamya
 ban:
-- ban
-- he_ban
 - fe_ban_leli_watu
 - fe_ban_mara
 - fe_ban_xali_watu
+- ban
+- he_ban
 - ban_alote
 - ban_aloto
 ban alote:
@@ -1509,8 +1511,8 @@ banpul:
 banseba:
 - banseba
 bansu:
-- he_bansu
 - bansu
+- he_bansu
 bante:
 - alo_bante
 - bante
@@ -1520,10 +1522,10 @@ banto:
 - banto
 - he_banto
 banwatu:
-- banwatu
-- he_banwatu
 - leli_banwatu
 - xali_banwatu
+- banwatu
+- he_banwatu
 banyo:
 - banyo
 banyokamer:
@@ -3251,8 +3253,8 @@ daydayyen:
 daydenkwanti:
 - daydenkwanti
 daydenmo:
-- daydenmo
 - daydenmo_multi
+- daydenmo
 daydenmo multi:
 - daydenmo_multi
 daydennumer:
@@ -3492,9 +3494,9 @@ demoni:
 demonili:
 - demonili
 den:
+- fe_den_kaso
 - den
 - he_den
-- fe_den_kaso
 denete:
 - denete
 denim:
@@ -3504,9 +3506,9 @@ denimli:
 denkwanti:
 - denkwanti
 denloka:
+- hu_denloka
 - denloka_hu
 - denloka
-- hu_denloka
 denloka hu:
 - denloka_hu
 denlokali:
@@ -3517,8 +3519,8 @@ denmaner:
 denmaner hu:
 - denmaner_hu
 denmo:
-- denmo
 - denmo_multi
+- denmo
 denmo multi:
 - denmo_multi
 denmo...:
@@ -3535,10 +3537,7 @@ denpul:
 denpul kom:
 - denpul_kom
 denseba:
-- denseba_hu
 - denseba
-denseba hu:
-- denseba_hu
 densu:
 - densu
 denta:
@@ -3565,9 +3564,9 @@ dento:
 - dento
 - he_dento
 denwatu:
+- hu_denwatu
 - denwatu_hu
 - denwatu
-- hu_denwatu
 denwatu hu:
 - denwatu_hu
 denwatuli:
@@ -5265,7 +5264,6 @@ fe:
 - fe_lutuf
 - fe_maxusya
 - fe_midiya
-- fe_minusya
 - fe_misal
 - fe_misu_bage
 - fe_misu_ijen
@@ -5294,7 +5292,6 @@ fe:
 - fe_xoru
 - fe_xugwan
 - fe_xukra
-- fe_rimara
 fe alo kaso:
 - fe_alo_kaso
 fe alo lexi:
@@ -5431,8 +5428,6 @@ fe midiya:
 - fe_midiya
 fe midiya de:
 - fe_midiya_de
-fe minusya:
-- fe_minusya
 fe misal:
 - fe_misal
 fe misu bage:
@@ -7058,6 +7053,13 @@ hazunigi:
 hazuniya:
 - hazuniya
 he:
+- he
+- he_ete
+- he_imi
+- he_mi
+- he_te
+- he_uyu
+- he_yu
 - he_alo
 - he_ban
 - he_den
@@ -7066,36 +7068,29 @@ he:
 - he_moy
 - he_nil
 - he_sama
+- he_bankwanti
 - he_aloloka
 - he_banloka
 - he_banmo
 - he_banwatu
-- he
 - he_alote
 - he_aloto
 - he_bante
 - he_banto
 - he_dente
 - he_dento
-- he_ete
 - he_hinte
 - he_hinto
-- he_imi
 - he_kete
 - he_keto
-- he_mi
 - he_moyte
 - he_moyto
 - he_nilte
 - he_nilto
 - he_samate
 - he_samato
-- he_te
-- he_uyu
-- he_yu
 - he_alosu
 - he_bansu
-- he_bankwanti
 - he_banpul
 he alo:
 - he_alo
@@ -7268,10 +7263,10 @@ hilal:
 hilu:
 - hilu
 hin:
-- he_hin
-- hin
 - fe_hin_noce
 - fe_hin_kaso
+- he_hin
+- hin
 hin noce:
 - fe_hin_noce
 hindi:
@@ -7313,8 +7308,6 @@ hinte:
 hinto:
 - he_hinto
 - hinto
-hintwatulil:
-- hintwatulil
 hinwatu:
 - hinwatu
 hinwatuli:
@@ -7440,17 +7433,16 @@ hoyya:
 hoza:
 - hoza
 hu:
-- denloka_hu
-- denmaner_hu
-- denseba_hu
-- denwatu_hu
 - hu
-- moyloka_hu
 - hu_denloka
 - hu_denwatu
 - hu_in_da
 - hu_da
 - hu_dasu
+- denloka_hu
+- denmaner_hu
+- denwatu_hu
+- moyloka_hu
 hu da:
 - hu_da
 hu dasu:
@@ -7844,8 +7836,6 @@ inlabasgi:
 - inlabasgi
 inli:
 - inli
-inlide:
-- inlide
 inmemorigi:
 - inmemorigi
 innafasu:
@@ -9606,9 +9596,9 @@ kom:
 - minmo_kom
 - nil_alote_kom
 - alopul_kom
-- denpul_kom
 - kom
 - fe_preferi_kom
+- denpul_kom
 kom...:
 - denmo_kom
 koma:
@@ -11506,10 +11496,10 @@ maxmo:
 - daymo_maxmo
 - maxmo
 - multimo_maxmo
-- maxmo_bon
-- maxmo_jaldi
 - maxmo_or_minmo
 - maxmo_sahi
+- maxmo_bon
+- maxmo_jaldi
 maxmo bon:
 - maxmo_bon
 maxmo jaldi:
@@ -11967,8 +11957,6 @@ minusli:
 - minusli
 minusxey:
 - minusxey
-minusya:
-- fe_minusya
 minuto:
 - minuto
 minxi:
@@ -12239,9 +12227,9 @@ motsupul:
 moxwere:
 - moxwere
 moy:
+- fe_moy_kaso
 - he_moy
 - moy
-- fe_moy_kaso
 moy-:
 - moy-
 moyabil:
@@ -12296,8 +12284,8 @@ moyun:
 - fe_moyun
 - por_moyun
 moywatu:
-- moywatu
 - cel_moywatu
+- moywatu
 moywatuli:
 - moywatuli
 mozambiki:
@@ -12341,9 +12329,9 @@ muletul:
 mulin:
 - mulin
 multi:
-- denmo_multi
 - multi
 - daydenmo_multi
+- denmo_multi
 multimaxmo:
 - multimaxmo
 multiminmo:
@@ -12939,8 +12927,8 @@ nikot:
 nikotin:
 - nikotin
 nil:
-- he_nil
 - nil_alote_kom
+- he_nil
 - nil
 nil alote kom:
 - nil_alote_kom
@@ -13423,10 +13411,10 @@ opsyonli:
 - opsyonli
 or:
 - or
+- maxmo_or_minmo
 - lefe_or_fe
 - fe_ner_or_teli_xaya
 - max_or_min
-- maxmo_or_minmo
 orange:
 - orange
 orangutan:
@@ -13844,8 +13832,6 @@ pasjiwa:
 - pasjiwa
 paskal:
 - paskal
-pasli:
-- pasli
 paslide:
 - paslide
 paspasa:
@@ -15320,8 +15306,8 @@ sahem:
 sahembazar:
 - sahembazar
 sahi:
-- sahi
 - maxmo_sahi
+- sahi
 sahigi:
 - sahigi
 sahigili:
@@ -16104,8 +16090,8 @@ solasupracu:
 solli:
 - solli
 solo:
-- solo
 - un_solo
+- solo
 solokrabe:
 - solokrabe
 soloya:
@@ -18613,6 +18599,8 @@ xorside:
 - xorside
 xorsomno:
 - xorsomno
+xorsomnodo:
+- xorsomnodo
 xortu:
 - xortu
 xoru:
@@ -18641,8 +18629,8 @@ xorxugwan:
 xoryunki:
 - xoryunki
 xosu:
-- xosu_xafe_xosu
 - xosu
+- xosu_xafe_xosu
 xosu xafe xosu:
 - xosu_xafe_xosu
 xosumo:

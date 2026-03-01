@@ -13,8 +13,8 @@
     spa: panda (b) panda (ya sea panda gigante o panda rojo/menor)
   - text: ' '
   - text: maxpul
-    eng: 'maxpul (t) adj: further, another, extra, additional, additionally, in addition,
-      furthermore, moreover'
+    eng: 'maxpul (t) adj: further, another, extra, additional; adv: additionally,
+      in addition, furthermore, moreover'
     spa: maxpul (t) adicional, extra; adicionalmente
   - text: ' '
   - text: loga
@@ -73,8 +73,8 @@
     spa: no (m) no
   - text: ' '
   - text: maxpul
-    eng: 'maxpul (t) adj: further, another, extra, additional, additionally, in addition,
-      furthermore, moreover'
+    eng: 'maxpul (t) adj: further, another, extra, additional; adv: additionally,
+      in addition, furthermore, moreover'
     spa: maxpul (t) adicional, extra; adicionalmente
   - text: ' '
   - text: idi
@@ -112,7 +112,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: gibe
@@ -120,8 +120,8 @@
     spa: gibe (b.oj) d&aacute;diva, donaci&oacute;n, otorgamiento; dar, donar, otorgar
   - text: ' '
   - text: maxpul
-    eng: 'maxpul (t) adj: further, another, extra, additional, additionally, in addition,
-      furthermore, moreover'
+    eng: 'maxpul (t) adj: further, another, extra, additional; adv: additionally,
+      in addition, furthermore, moreover'
     spa: maxpul (t) adicional, extra; adicionalmente
   - text: ' '
   - text: golmon
@@ -148,7 +148,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Hatali
-    eng: 'hatali (t) adj: even so, still, however, nevertheless, nonetheless, in spite
+    eng: 'hatali (t) adv: even so, still, however, nevertheless, nonetheless, in spite
       of that, yet'
     spa: hatali (t) aun as&iacute;, sin embargo, no obstante
   - text: ', '
@@ -157,7 +157,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: resta
@@ -173,13 +173,14 @@
     spa: dur (p) durante, por
   - text: ' '
   - text: bannumer
-    eng: 'bannumer (d) det: some number (of), a certain number (of), some, several,
+    eng: 'bannumer (tabl: d) det: some number (of), a certain number (of), some, several,
       various, (a) few'
-    spa: bannumer (d) alg&uacute;n n&uacute;mero (de), algunos, varios, unos cuantos
+    spa: 'bannumer (tabl: d) alg&uacute;n n&uacute;mero (de), algunos, varios, unos
+      cuantos'
   - text: ' '
   - text: maxpul
-    eng: 'maxpul (t) adj: further, another, extra, additional, additionally, in addition,
-      furthermore, moreover'
+    eng: 'maxpul (t) adj: further, another, extra, additional; adv: additionally,
+      in addition, furthermore, moreover'
     spa: maxpul (t) adicional, extra; adicionalmente
   - text: ' '
   - text: minuto
@@ -198,20 +199,20 @@
       spa: https://doxo.globasa.net/spa/historili-doku/globatotal-deklaradoku-tem-insanli-haki
   translations:
   - text: Maxpul
-    eng: 'maxpul (t) adj: further, another, extra, additional, additionally, in addition,
-      furthermore, moreover'
+    eng: 'maxpul (t) adj: further, another, extra, additional; adv: additionally,
+      in addition, furthermore, moreover'
     spa: maxpul (t) adicional, extra; adicionalmente
   - text: ', '
   - text: nil
-    eng: 'nil (num; d) zero; det: no, no- (nothing, nobody, etc.)'
-    spa: nil (num; d) cero, ning&uacute;n
+    eng: 'nil (tabl: num; d) num: zero; det: no, no- (nothing, nobody, etc.)'
+    spa: 'nil (tabl: num; d) cero, ning&uacute;n'
   - text: ' '
   - text: aloyagi
     eng: 'aloyagi (b.oj) n: distinction, differentiation; v.tr: differentiate, distinguish'
     spa: aloyagi (b.oj) distinci&oacute;n, diferenciaci&oacute;n; distinguir, diferenciar
   - text: ' '
   - text: am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: befale
@@ -275,8 +276,8 @@
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: den
-    eng: 'den (d) det: that, those'
-    spa: den (d) ese, aquel
+    eng: 'den (tabl: d) det: that, those'
+    spa: 'den (tabl: d) ese, aquel'
   - text: ' '
   - text: person
     eng: 'person (b) n: person, individual'
@@ -299,7 +300,7 @@
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: ikawkal
@@ -326,14 +327,15 @@
     spa: bax (p) bajo, debajo de
   - text: ' '
   - text: he
-    eng: 'he (par) par: emphatic particle: any, ever, at all, the very, -self (pronouns)'
+    eng: 'he (par) par (emphatic, contrastive): any, ever, at all, the very, -self
+      (pronouns)'
     spa: he (par) y no otro (&eacute;nfasis contrastivo), y s&oacute;lo; justamente
       (part&iacute;cula enf&aacute;tica de correlativos), absolutamente, exactamente,
       cualquier
   - text: ' '
   - text: alo
-    eng: 'alo (d) det: other, another, a different'
-    spa: alo (d) otro, diferente
+    eng: 'alo (tabl: d) det: other, another, a different'
+    spa: 'alo (tabl: d) otro, diferente'
   - text: ' '
   - text: limitexey
     eng: 'limitexey (b) n: limitation'

@@ -29,11 +29,11 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: kete
-    eng: 'kete (pn) pron (interrogative, animate): who, which (one)'
-    spa: kete (pn) qui&eacute;n (interrogativo)
+    eng: 'kete (tabl: pn) pron (interrogative, animate): who, which (one)'
+    spa: 'kete (tabl: pn) qui&eacute;n (interrogativo)'
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: maxmo
@@ -45,8 +45,8 @@
     spa: bala (t) fuerte; fuertemente
   - text: ', '
   - text: denwatu
-    eng: 'denwatu (m) adv: then (at that time)'
-    spa: denwatu (m) en ese momento, entonces
+    eng: 'denwatu (tabl: m) adv: then (at that time/moment)'
+    spa: 'denwatu (tabl: m) en ese momento, entonces'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -95,13 +95,13 @@
     spa: kargux (b) conejo, Leporidae
   - text: ' '
   - text: denmo
-    eng: 'denmo (m) adv: as, to that degree, that'
-    spa: denmo (m) tan (para describir adjetivos y adverbios), as&iacute; de
+    eng: 'denmo (tabl: m) adv: as, to that degree, that'
+    spa: 'denmo (tabl: m) tan (para describir adjetivos y adverbios), as&iacute; de'
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: bebohay
   - text: ' '
@@ -110,8 +110,8 @@
     spa: plu (t) m&uacute;ltiples
   - text: ' '
   - text: alo
-    eng: 'alo (d) det: other, another, a different'
-    spa: alo (d) otro, diferente
+    eng: 'alo (tabl: d) det: other, another, a different'
+    spa: 'alo (tabl: d) otro, diferente'
   - text: ' '
   - text: hewan
     eng: 'hewan (b) n: animal'
@@ -135,8 +135,8 @@
     spa: folo (b.oj) seguir
   - text: ' '
   - text: denete
-    eng: 'denete (pn) pron (animate): those (ones)'
-    spa: denete (pn) esos (seres vivos), &eacute;sos, aquellos, aqu&eacute;llos
+    eng: 'denete (tabl: pn) pron (animate): those (ones)'
+    spa: 'denete (tabl: pn) esos (seres vivos), &eacute;sos, aquellos, aqu&eacute;llos'
   - text: ' '
   - text: "no"
     eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
@@ -152,7 +152,7 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: idi
@@ -164,8 +164,8 @@
     spa: cel (p) a, para, hacia
   - text: ' '
   - text: keloka
-    eng: 'keloka (m) adv: where'
-    spa: keloka (m) d&oacute;nde (interrogativo)
+    eng: 'keloka (tabl: m) adv (interrogative): where'
+    spa: 'keloka (tabl: m) d&oacute;nde (interrogativo)'
   - text: .
 - text: Jaxali, alo daoyen infraidi of drevo ji, fe na haha, te swal tas sesu doste
     ku baru le lilloga keto tas tesu ore.
@@ -178,12 +178,12 @@
       spa: 'Doxo: Fabula fal Esopo'
   translations:
   - text: Jaxali
-    eng: 'jaxali (t) adj: next, (the) following, (and) then'
+    eng: 'jaxali (t) adj: next, (the) following; adv: then'
     spa: jaxali (t) siguente, pr&oacute;ximo; a continuaci&oacute;n
   - text: ', '
   - text: alo
-    eng: 'alo (d) det: other, another, a different'
-    spa: alo (d) otro, diferente
+    eng: 'alo (tabl: d) det: other, another, a different'
+    spa: 'alo (tabl: d) otro, diferente'
   - text: ' '
   - text: daoyen
     eng: 'daoyen (b) n: traveler, traveller'
@@ -215,7 +215,7 @@
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: haha
@@ -237,7 +237,7 @@
     spa: tas (p) a (marcador del objeto indirecto), para (receptor)
   - text: ' '
   - text: sesu
-    eng: 'sesu (su s) poss adj: her own, his own, one&#039;s own'
+    eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
     spa: sesu (su s) su (de uno mismo)
   - text: ' '
   - text: doste
@@ -254,7 +254,7 @@
     spa: baru (b) oso, Ursidae
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: lilloga
@@ -262,8 +262,8 @@
     spa: lilloga (b.oj) susurrar
   - text: ' '
   - text: keto
-    eng: 'keto (pn) pron (interrogative, inanimate): what, which (one)'
-    spa: keto (pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l
+    eng: 'keto (tabl: pn) pron (interrogative, inanimate): what, which (one)'
+    spa: 'keto (tabl: pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l'
   - text: ' '
   - text: tas
     eng: 'tas (p) prep: to (indirect object marker), for (receiver/recipient)'
@@ -287,8 +287,8 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Hin
-    eng: 'hin (d) det: this, these'
-    spa: hin (d) este, estos
+    eng: 'hin (tabl: d) det: this, these'
+    spa: 'hin (tabl: d) este, estos'
   - text: ' '
   - text: juni
     eng: 'juni (t) adj: young; root pfx: offspring, young'
@@ -307,7 +307,7 @@
     spa: pia (m) tambi&eacute;n, tampoco
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: oko
@@ -324,11 +324,11 @@
     spa: taluji (b.oj.ru) nieve; nevar
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: alogi
-    eng: 'alogi (b.oj) n: change; v.tr: alter, (cause to) change, make different'
+    eng: 'alogi (b.oj) n: change; v.tr: alter, change, make (somebody/something) different'
     spa: alogi (b.oj) cambio, alteraci&oacute;n; cambiar, alterar
   - text: ' '
   - text: etesu
@@ -341,10 +341,8 @@
     spa: jowey (b) entorno, alrededor(es)
   - text: ' '
   - text: kemaner
-    eng: |-
-      kemaner (m) adv: how, done by what manner, done in
-       what manner
-    spa: kemaner (m) c&oacute;mo (interrogativo), de qu&eacute; manera
+    eng: 'kemaner (tabl: m) adv (interrogative): how (done by what manner)'
+    spa: 'kemaner (tabl: m) c&oacute;mo (interrogativo), de qu&eacute; manera'
   - text: .
 - text: Te no haji rukone ku te ata of keloka.
   cite:
@@ -393,8 +391,8 @@
     spa: of (p) de, desde, de cada, en cada
   - text: ' '
   - text: keloka
-    eng: 'keloka (m) adv: where'
-    spa: keloka (m) d&oacute;nde (interrogativo)
+    eng: 'keloka (tabl: m) adv (interrogative): where'
+    spa: 'keloka (tabl: m) d&oacute;nde (interrogativo)'
   - text: .
 - text: Te le wanji ku kemaner na rasamu yon furaha ji huruya.
   cite:
@@ -412,7 +410,7 @@
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: wanji
@@ -425,13 +423,11 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: kemaner
-    eng: |-
-      kemaner (m) adv: how, done by what manner, done in
-       what manner
-    spa: kemaner (m) c&oacute;mo (interrogativo), de qu&eacute; manera
+    eng: 'kemaner (tabl: m) adv (interrogative): how (done by what manner)'
+    spa: 'kemaner (tabl: m) c&oacute;mo (interrogativo), de qu&eacute; manera'
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: rasamu
@@ -483,8 +479,8 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: keseba
-    eng: 'keseba (m) adv: why, how come'
-    spa: keseba (m) por qu&eacute; (interrogativo)
+    eng: 'keseba (tabl: m) adv (interrogative): why, how come'
+    spa: 'keseba (tabl: m) por qu&eacute; (interrogativo)'
   - text: .
 - text: Axolotle swal tas se ku keto le okur tas alo salamandra.
   cite:
@@ -519,11 +515,11 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: keto
-    eng: 'keto (pn) pron (interrogative, inanimate): what, which (one)'
-    spa: keto (pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l
+    eng: 'keto (tabl: pn) pron (interrogative, inanimate): what, which (one)'
+    spa: 'keto (tabl: pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l'
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: okur
@@ -535,8 +531,8 @@
     spa: tas (p) a (marcador del objeto indirecto), para (receptor)
   - text: ' '
   - text: alo
-    eng: 'alo (d) det: other, another, a different'
-    spa: alo (d) otro, diferente
+    eng: 'alo (tabl: d) det: other, another, a different'
+    spa: 'alo (tabl: d) otro, diferente'
   - text: ' '
   - text: salamandra
     eng: 'salamandra (b) n: salamander'
@@ -569,7 +565,7 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: ruaksyon
@@ -577,10 +573,8 @@
     spa: ruaksyon (b.nenoj) reacci&oacute;n; reaccionar
   - text: ' '
   - text: kemaner
-    eng: |-
-      kemaner (m) adv: how, done by what manner, done in
-       what manner
-    spa: kemaner (m) c&oacute;mo (interrogativo), de qu&eacute; manera
+    eng: 'kemaner (tabl: m) adv (interrogative): how (done by what manner)'
+    spa: 'kemaner (tabl: m) c&oacute;mo (interrogativo), de qu&eacute; manera'
   - text: .
 - text: Ku keloka hay posasan tyojan ji ku kemaner te le yunki ji sukses.
   cite:
@@ -597,8 +591,8 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: keloka
-    eng: 'keloka (m) adv: where'
-    spa: keloka (m) d&oacute;nde (interrogativo)
+    eng: 'keloka (tabl: m) adv (interrogative): where'
+    spa: 'keloka (tabl: m) d&oacute;nde (interrogativo)'
   - text: ' '
   - text: hay
     eng: 'hay (b.nenoj) v.intr: there is, there are'
@@ -623,10 +617,8 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: kemaner
-    eng: |-
-      kemaner (m) adv: how, done by what manner, done in
-       what manner
-    spa: kemaner (m) c&oacute;mo (interrogativo), de qu&eacute; manera
+    eng: 'kemaner (tabl: m) adv (interrogative): how (done by what manner)'
+    spa: 'kemaner (tabl: m) c&oacute;mo (interrogativo), de qu&eacute; manera'
   - text: ' '
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
@@ -635,12 +627,12 @@
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yunki
-    eng: 'yunki (b.oro.jotay) n: courage; v.tr: make courageous, encourage; v.intr:
-      be courageous, have the courage (to, for), dare (to)'
+    eng: 'yunki (b.oro.jotay) n: courage; v.tr: make (somebody) courageous, encourage;
+      v.intr: be courageous, have the courage (to, for), dare (to)'
     spa: yunki (b.oro.jotay) valor; dar valor, alentar, motivar; atreverse, tener
       valor
   - text: ' '
@@ -667,8 +659,8 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: keloka
-    eng: 'keloka (m) adv: where'
-    spa: keloka (m) d&oacute;nde (interrogativo)
+    eng: 'keloka (tabl: m) adv (interrogative): where'
+    spa: 'keloka (tabl: m) d&oacute;nde (interrogativo)'
   - text: ' '
   - text: hay
     eng: 'hay (b.nenoj) v.intr: there is, there are'
@@ -693,10 +685,8 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: kemaner
-    eng: |-
-      kemaner (m) adv: how, done by what manner, done in
-       what manner
-    spa: kemaner (m) c&oacute;mo (interrogativo), de qu&eacute; manera
+    eng: 'kemaner (tabl: m) adv (interrogative): how (done by what manner)'
+    spa: 'kemaner (tabl: m) c&oacute;mo (interrogativo), de qu&eacute; manera'
   - text: ' '
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
@@ -705,12 +695,12 @@
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yunki
-    eng: 'yunki (b.oro.jotay) n: courage; v.tr: make courageous, encourage; v.intr:
-      be courageous, have the courage (to, for), dare (to)'
+    eng: 'yunki (b.oro.jotay) n: courage; v.tr: make (somebody) courageous, encourage;
+      v.intr: be courageous, have the courage (to, for), dare (to)'
     spa: yunki (b.oro.jotay) valor; dar valor, alentar, motivar; atreverse, tener
       valor
   - text: ' '
@@ -738,8 +728,8 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: keloka
-    eng: 'keloka (m) adv: where'
-    spa: keloka (m) d&oacute;nde (interrogativo)
+    eng: 'keloka (tabl: m) adv (interrogative): where'
+    spa: 'keloka (tabl: m) d&oacute;nde (interrogativo)'
   - text: ' '
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
@@ -748,7 +738,7 @@
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: jento
@@ -765,9 +755,9 @@
     spa: kayvutu (b) monstruo
   - text: ' '
   - text: denpul
-    eng: 'denpul (t) adj: like that, like so, (in) that way, thus, such; adv: like
-      that, thus, that way'
-    spa: denpul (t) tal, as&iacute;, (de) ese tipo (de)
+    eng: 'denpul (tabl: t) adj: that kind of, such (a); adv: like that, thus, (in)
+      that way'
+    spa: 'denpul (tabl: t) tal, as&iacute;, (de) ese tipo (de)'
   - text: ' '
   - text: kom
     eng: 'kom (l) conj: as (comparable to), than (as compared with)'
@@ -790,9 +780,9 @@
     spa: kayvutu (b) monstruo
   - text: ' '
   - text: denpul
-    eng: 'denpul (t) adj: like that, like so, (in) that way, thus, such; adv: like
-      that, thus, that way'
-    spa: denpul (t) tal, as&iacute;, (de) ese tipo (de)
+    eng: 'denpul (tabl: t) adj: that kind of, such (a); adv: like that, thus, (in)
+      that way'
+    spa: 'denpul (tabl: t) tal, as&iacute;, (de) ese tipo (de)'
   - text: ' '
   - text: kom
     eng: 'kom (l) conj: as (comparable to), than (as compared with)'
@@ -816,7 +806,7 @@
     spa: dolfin (b) delf&iacute;n, Odontoceti
   - text: ' '
   - text: hare
-    eng: 'hare (b.oj) v.tr: have, has'
+    eng: 'hare (b.oj) v.tr: have'
     spa: hare (b.oj) tenencia; tener, contar con
   - text: ' '
   - text: idey
@@ -840,7 +830,7 @@
       tener que, deber
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: loga
@@ -862,16 +852,16 @@
     spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: fale
-    eng: 'fale (b.oj) n: deed, act; v.tr: do, does, make, perform'
+    eng: 'fale (b.oj) n: deed, act; v.tr: do, make, perform'
     spa: fale (b.oj) hecho, acto; hacer
   - text: ' '
   - text: keto
-    eng: 'keto (pn) pron (interrogative, inanimate): what, which (one)'
-    spa: keto (pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l
+    eng: 'keto (tabl: pn) pron (interrogative, inanimate): what, which (one)'
+    spa: 'keto (tabl: pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l'
   - text: .
 - text: Kacupa no xorjui ku te ger xorwala keto.
   cite:
@@ -907,7 +897,7 @@
       elle
   - text: ' '
   - text: ger
-    eng: 'ger (par) par: conditional mood marker: would'
+    eng: 'ger (par) par (conditional mood marker): would'
     spa: ger (par) -&iacute;a (marcador del modo condicional)
   - text: ' '
   - text: xorwala
@@ -915,8 +905,8 @@
     spa: xorwala (b.oj) p&eacute;rdida, extrav&iacute;o; perder, extraviar
   - text: ' '
   - text: keto
-    eng: 'keto (pn) pron (interrogative, inanimate): what, which (one)'
-    spa: keto (pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l
+    eng: 'keto (tabl: pn) pron (interrogative, inanimate): what, which (one)'
+    spa: 'keto (tabl: pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l'
   - text: .
 - text: Am juiore, ji am jui ku mi abil na kemo trankwilo ji mingu loga tas yu total
     hikaye.
@@ -929,7 +919,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: juiore
@@ -941,7 +931,7 @@
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: jui
@@ -963,12 +953,12 @@
     spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: kemo
-    eng: 'kemo (m) adv: how, to what degree'
-    spa: kemo (m) cu&aacute;n (interrogativo), qu&eacute; tan
+    eng: 'kemo (tabl: m) adv (interrogative): how, to what degree'
+    spa: 'kemo (tabl: m) cu&aacute;n (interrogativo), qu&eacute; tan'
   - text: ' '
   - text: trankwilo
     eng: 'trankwilo (t) adj: calm; adv: calmly'
@@ -995,7 +985,8 @@
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: total
-    eng: 'total (t) adj: entire, entirely, whole, all, quite (a), absolute, absolutely'
+    eng: 'total (t) adj: entire, whole, all, quite (a), absolute; adv: entirely, absolutely,
+      wholly'
     spa: total (t) entero, total, absoluto; enteramente, totalmente, absolutamente
   - text: ' '
   - text: hikaye
@@ -1034,7 +1025,7 @@
     spa: idey (b) idea; idear
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: ofata
@@ -1043,16 +1034,16 @@
       (pro)venir (de), proceder de (salir de un lugar)
   - text: ' '
   - text: keloka
-    eng: 'keloka (m) adv: where'
-    spa: keloka (m) d&oacute;nde (interrogativo)
+    eng: 'keloka (tabl: m) adv (interrogative): where'
+    spa: 'keloka (tabl: m) d&oacute;nde (interrogativo)'
   - text: ', '
   - text: mas
     eng: 'mas (l) conj: but'
     spa: mas (l) pero, mas
   - text: ' '
   - text: denwatu
-    eng: 'denwatu (m) adv: then (at that time)'
-    spa: denwatu (m) en ese momento, entonces
+    eng: 'denwatu (tabl: m) adv: then (at that time/moment)'
+    spa: 'denwatu (tabl: m) en ese momento, entonces'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -1063,7 +1054,7 @@
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: precu
@@ -1076,7 +1067,7 @@
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: kostante
@@ -1109,7 +1100,7 @@
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: ingay
@@ -1118,7 +1109,7 @@
     spa: ingay (t; f.sah) que deber&iacute;a, obligado; obligadamente; deber(&iacute;a)
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: oko
@@ -1135,7 +1126,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: aksyon
@@ -1144,13 +1135,13 @@
     spa: aksyon (b.nenoj) acci&oacute;n, actividad; actuar (ponerse en acci&oacute;n)
   - text: ' '
   - text: kemo
-    eng: 'kemo (m) adv: how, to what degree'
-    spa: kemo (m) cu&aacute;n (interrogativo), qu&eacute; tan
+    eng: 'kemo (tabl: m) adv (interrogative): how, to what degree'
+    spa: 'kemo (tabl: m) cu&aacute;n (interrogativo), qu&eacute; tan'
   - text: ' '
   - text: gomyo
     eng: 'gomyo (t) adj: witty, clever, sharp, astute, ingenious, slick, crafty, sly,
-      cunning, slick, wily; adv: wittily, cleverly, sharply, astutely, ingeniously,
-      craftily, slyly, cunningly'
+      cunning, wily; adv: wittily, cleverly, sharply, astutely, ingeniously, craftily,
+      slyly, cunningly'
     spa: gomyo (t) ingenioso, astuto, pillo, listo, avispado, taimado, bellaco, sagaz;
       ingeniosamente, astutamente
   - text: '; '
@@ -1183,7 +1174,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: ergo
@@ -1208,7 +1199,7 @@
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: ingay
@@ -1217,7 +1208,7 @@
     spa: ingay (t; f.sah) que deber&iacute;a, obligado; obligadamente; deber(&iacute;a)
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: oko
@@ -1234,7 +1225,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: pasgi
@@ -1246,13 +1237,13 @@
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: ' '
   - text: kemo
-    eng: 'kemo (m) adv: how, to what degree'
-    spa: kemo (m) cu&aacute;n (interrogativo), qu&eacute; tan
+    eng: 'kemo (tabl: m) adv (interrogative): how, to what degree'
+    spa: 'kemo (tabl: m) cu&aacute;n (interrogativo), qu&eacute; tan'
   - text: ' '
   - text: gomyo
     eng: 'gomyo (t) adj: witty, clever, sharp, astute, ingenious, slick, crafty, sly,
-      cunning, slick, wily; adv: wittily, cleverly, sharply, astutely, ingeniously,
-      craftily, slyly, cunningly'
+      cunning, wily; adv: wittily, cleverly, sharply, astutely, ingeniously, craftily,
+      slyly, cunningly'
     spa: gomyo (t) ingenioso, astuto, pillo, listo, avispado, taimado, bellaco, sagaz;
       ingeniosamente, astutamente
   - text: '!'
@@ -1281,16 +1272,16 @@
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
   - text: ' '
   - text: moy
-    eng: 'moy (d) det: every, each, all'
-    spa: moy (d) cada, todo
+    eng: 'moy (tabl: d) det: every, each, all'
+    spa: 'moy (tabl: d) cada, todo'
   - text: ' '
   - text: soba
     eng: 'soba (b) n: morning'
     spa: soba (b) ma&ntilde;ana (hora del d&iacute;a)
   - text: ', '
   - text: denwatu
-    eng: 'denwatu (m) adv: then (at that time)'
-    spa: denwatu (m) en ese momento, entonces
+    eng: 'denwatu (tabl: m) adv: then (at that time/moment)'
+    spa: 'denwatu (tabl: m) en ese momento, entonces'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -1299,7 +1290,7 @@
   - text: dinlumin
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: ata
@@ -1311,7 +1302,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: sexinloypul
@@ -1335,7 +1326,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yunkipul
@@ -1358,11 +1349,11 @@
       elle
   - text: ', '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: kweho
-    eng: 'kweho (t) adj: merry, cheerful; adv: merrilly, cheerfully'
+    eng: 'kweho (t) adj: merry, cheerful; adv: merrily, cheerfully'
     spa: kweho (t) alegre, jovial; alegremente, jovialmente
   - text: ' '
   - text: voka
@@ -1382,7 +1373,7 @@
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: swal
@@ -1403,12 +1394,13 @@
     spa: noce (b) noche
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: kepul
-    eng: 'kepul (t) adj: like what, how, in what way; adv: how, in what way'
-    spa: kepul (t) c&oacute;mo (interrogativo), qu&eacute; tipo de
+    eng: 'kepul (tabl: t) adj (interrogative): what kind of, like what; adv (interrogative):
+      how, (in) what manner, (in) what way'
+    spa: 'kepul (tabl: t) c&oacute;mo (interrogativo), qu&eacute; tipo de'
   - text: .
 - text: Mi le jixi ku lao manixu ganjon keto, ji mi le ganjon simpati tas te, fe hataya
     ki mi le sirili fikir ki to sen humorpul.
@@ -1425,7 +1417,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: jixi
@@ -1451,8 +1443,8 @@
       (una emoci&oacute;n)
   - text: ' '
   - text: keto
-    eng: 'keto (pn) pron (interrogative, inanimate): what, which (one)'
-    spa: keto (pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l
+    eng: 'keto (tabl: pn) pron (interrogative, inanimate): what, which (one)'
+    spa: 'keto (tabl: pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l'
   - text: ', '
   - text: ji
     eng: 'ji (l) conj: and, as well as'
@@ -1463,7 +1455,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: ganjon
@@ -1508,7 +1500,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: sirili
@@ -1528,7 +1520,7 @@
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: humorpul
@@ -1549,7 +1541,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: jaribi
@@ -1572,7 +1564,7 @@
     spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: restagi
@@ -1584,8 +1576,8 @@
     spa: radya (b.oro) rayo (de luz), haz; (ir)radiar; (ir)radiar
   - text: ' '
   - text: kemo
-    eng: 'kemo (m) adv: how, to what degree'
-    spa: kemo (m) cu&aacute;n (interrogativo), qu&eacute; tan
+    eng: 'kemo (tabl: m) adv (interrogative): how, to what degree'
+    spa: 'kemo (tabl: m) cu&aacute;n (interrogativo), qu&eacute; tan'
   - text: ' '
   - text: harkakal
     eng: 'harkakal (t) adj: still, motionless; adv: still, motionlessly'
@@ -1613,7 +1605,7 @@
     spa: soti (b.nenoj) sonido; sonar, hacer sonido
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: sencu
@@ -1637,7 +1629,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: "no"
@@ -1654,16 +1646,16 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: fale
-    eng: 'fale (b.oj) n: deed, act; v.tr: do, does, make, perform'
+    eng: 'fale (b.oj) n: deed, act; v.tr: do, make, perform'
     spa: fale (b.oj) hecho, acto; hacer
   - text: ' '
   - text: keto
-    eng: 'keto (pn) pron (interrogative, inanimate): what, which (one)'
-    spa: keto (pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l
+    eng: 'keto (tabl: pn) pron (interrogative, inanimate): what, which (one)'
+    spa: 'keto (tabl: pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l'
   - text: .
 - text: Mi no jixi ku kete.
   cite:
@@ -1690,7 +1682,7 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: kete
-    eng: 'kete (pn) pron (interrogative, animate): who, which (one)'
-    spa: kete (pn) qui&eacute;n (interrogativo)
+    eng: 'kete (tabl: pn) pron (interrogative, animate): who, which (one)'
+    spa: 'kete (tabl: pn) qui&eacute;n (interrogativo)'
   - text: .
 ...

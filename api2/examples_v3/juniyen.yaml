@@ -21,7 +21,7 @@
     spa: no (m) no
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: truti
@@ -29,7 +29,8 @@
     spa: truti (t) satisfecho
   - text: ' '
   - text: tem
-    eng: 'tem (p) prep: about, on, regarding, with regard(s) to'
+    eng: 'tem (p) prep: about, on, concerning, regarding, with regard to, in regard
+      to'
     spa: tem (p) acerca de, con respecto a
   - text: ' '
   - text: juniyen
@@ -54,15 +55,15 @@
     spa: vole (b.oj) voluntad, deseo; querer, desear
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: alogi
-    eng: 'alogi (b.oj) n: change; v.tr: alter, (cause to) change, make different'
+    eng: 'alogi (b.oj) n: change; v.tr: alter, change, make (somebody/something) different'
     spa: alogi (b.oj) cambio, alteraci&oacute;n; cambiar, alterar
   - text: ' '
   - text: sesu
-    eng: 'sesu (su s) poss adj: her own, his own, one&#039;s own'
+    eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
     spa: sesu (su s) su (de uno mismo)
   - text: ' '
   - text: forma
@@ -83,8 +84,8 @@
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: denwatu
-    eng: 'denwatu (m) adv: then (at that time)'
-    spa: denwatu (m) en ese momento, entonces
+    eng: 'denwatu (tabl: m) adv: then (at that time/moment)'
+    spa: 'denwatu (tabl: m) en ese momento, entonces'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -101,8 +102,8 @@
     spa: ruata (b.nenoj) regreso, vuelta; regresar, volver
   - text: ', '
   - text: moy
-    eng: 'moy (d) det: every, each, all'
-    spa: moy (d) cada, todo
+    eng: 'moy (tabl: d) det: every, each, all'
+    spa: 'moy (tabl: d) cada, todo'
   - text: ' '
   - text: juniyen
     eng: 'juniyen (b) n: young man, young woman, gal, guy, dude, bloke, teen to early
@@ -115,7 +116,7 @@
     spa: tonata (b.nenoj) reuni&oacute;n, junta; reunirse, juntarse
   - text: ' '
   - text: wey
-    eng: 'wey (p) prep: around'
+    eng: 'wey (p) prep: around, round'
     spa: wey (p) alrededor (de), en torno a
   - text: ' '
   - text: te
@@ -144,9 +145,9 @@
     spa: hikaye (b.oj) relato, cuento, narraci&oacute;n; contar, narrar
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: inxo
     eng: 'inxo (b.oro.hisi) n: impression; v.tr: impress; v.intr: be (feel) impressed'
@@ -168,8 +169,8 @@
   translations:
   - text: '"'
   - text: Dento
-    eng: 'dento (pn) pron (inanimate): that (one)'
-    spa: dento (pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello
+    eng: 'dento (tabl: pn) pron (inanimate): that (one)'
+    spa: 'dento (tabl: pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello'
   - text: ' '
   - text: amusa
     eng: 'amusa (b.oro.hisi) n: amusement, entertainment, fun; v.tr: amuse, entertain;
@@ -187,8 +188,8 @@
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: dento
-    eng: 'dento (pn) pron (inanimate): that (one)'
-    spa: dento (pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello
+    eng: 'dento (tabl: pn) pron (inanimate): that (one)'
+    spa: 'dento (tabl: pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello'
   - text: ' '
   - text: amusa
     eng: 'amusa (b.oro.hisi) n: amusement, entertainment, fun; v.tr: amuse, entertain;
@@ -223,9 +224,9 @@
     spa: pala (b.oj) habla; hablar
   - text: ', '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: ji
     eng: 'ji (l) conj: and, as well as'
@@ -255,18 +256,18 @@
     spa: hero (b) h&eacute;roe, hero&iacute;na
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: populercu
   - text: ' '
   - text: intre
-    eng: 'intre (p) prep: between, among'
+    eng: 'intre (p) prep: between, among, amongst'
     spa: intre (p) entre
   - text: ' '
   - text: moy
-    eng: 'moy (d) det: every, each, all'
-    spa: moy (d) cada, todo
+    eng: 'moy (tabl: d) det: every, each, all'
+    spa: 'moy (tabl: d) cada, todo'
   - text: ' '
   - text: juniyen
     eng: 'juniyen (b) n: young man, young woman, gal, guy, dude, bloke, teen to early

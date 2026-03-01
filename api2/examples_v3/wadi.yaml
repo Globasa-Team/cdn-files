@@ -17,11 +17,11 @@
     spa: belo (b) pelo, pelaje, vello
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: totalmo
-    eng: 'totalmo (m) adv: totally, quite'
+    eng: 'totalmo (m) adv: totally, entirely, quite'
     spa: totalmo (m) totalmente (para describir adjetivos y adverbios), completamente,
       enteramente
   - text: ' '
@@ -38,8 +38,8 @@
     spa: wadi (b) valle
   - text: ' '
   - text: xafe
-    eng: 'xafe (p; lfik) prep: after (+ noun, -ing), in (+ period of time), (period
-      of time +) from now; pfx: post-'
+    eng: 'xafe (p; lfik) prep: after (+ noun), in (+ period of time), (period of time
+      +) from now; pfx: post-'
     spa: xafe (p; lfik) despu&eacute;s (de), en (+ periodo de tiempo), dentro de
   - text: ' '
   - text: taze
@@ -70,12 +70,12 @@
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: denloka
-    eng: 'denloka (m) adv: there'
-    spa: denloka (m) all&aacute;, all&iacute;, ah&iacute;
+    eng: 'denloka (tabl: m) adv: there'
+    spa: 'denloka (tabl: m) all&aacute;, all&iacute;, ah&iacute;'
   - text: ' '
   - text: moy
-    eng: 'moy (d) det: every, each, all'
-    spa: moy (d) cada, todo
+    eng: 'moy (tabl: d) det: every, each, all'
+    spa: 'moy (tabl: d) cada, todo'
   - text: ' '
   - text: planta
     eng: 'planta (b.oj) n: plant; v.tr: plant'
@@ -100,8 +100,8 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Xafe
-    eng: 'xafe (p; lfik) prep: after (+ noun, -ing), in (+ period of time), (period
-      of time +) from now; pfx: post-'
+    eng: 'xafe (p; lfik) prep: after (+ noun), in (+ period of time), (period of time
+      +) from now; pfx: post-'
     spa: xafe (p; lfik) despu&eacute;s (de), en (+ periodo de tiempo), dentro de
   - text: ' '
   - text: watumon
@@ -139,7 +139,7 @@
     spa: folo (b.oj) seguir
   - text: ' '
   - text: ren
-    eng: 'ren (pn) pron: one'
+    eng: 'ren (pn) pron (impersonal): one'
     spa: ren (pn) uno (pronombre)
   - text: ' '
   - text: abil
@@ -148,7 +148,7 @@
     spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: oko
@@ -164,7 +164,7 @@
     spa: bija (b.oj) semilla; sembrar
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: of
@@ -199,11 +199,11 @@
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: totalmo
-    eng: 'totalmo (m) adv: totally, quite'
+    eng: 'totalmo (m) adv: totally, entirely, quite'
     spa: totalmo (m) totalmente (para describir adjetivos y adverbios), completamente,
       enteramente
   - text: ' '
@@ -216,8 +216,8 @@
     spa: in (p) en, dentro de
   - text: ' '
   - text: hin
-    eng: 'hin (d) det: this, these'
-    spa: hin (d) este, estos
+    eng: 'hin (tabl: d) det: this, these'
+    spa: 'hin (tabl: d) este, estos'
   - text: ' '
   - text: wadi
     eng: 'wadi (b) n: valley, vale'
@@ -276,12 +276,13 @@
     spa: hoxcu (b.nenoj) contentarse, alegrarse
   - text: ' '
   - text: tem
-    eng: 'tem (p) prep: about, on, regarding, with regard(s) to'
+    eng: 'tem (p) prep: about, on, concerning, regarding, with regard to, in regard
+      to'
     spa: tem (p) acerca de, con respecto a
   - text: ' '
   - text: hin
-    eng: 'hin (d) det: this, these'
-    spa: hin (d) este, estos
+    eng: 'hin (tabl: d) det: this, these'
+    spa: 'hin (tabl: d) este, estos'
   - text: ' '
   - text: preata
     eng: 'preata (b.nenoj) n: arrival; v.intr: arrive'
@@ -297,9 +298,9 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: bala
     eng: 'bala (t) adj: strong; adv: strongly'

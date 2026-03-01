@@ -105,7 +105,7 @@
   translation: -(a)nte, -ente, en estado o proceso activo de
 -pel:
   term: -pel
-  class: b xfik
+  class: b.oj xfik
   category: affix
   translation: impulso; hacer querer, llevar a
 -ple:
@@ -1038,17 +1038,17 @@ almasihalke:
   translation: sortija de diamantes, anillo de diamantes, anillo de brillantes, solitario
 alo:
   term: alo
-  class: d
+  class: 'tabl: d'
   category: root
   translation: otro, diferente
 alo_bante:
   term: alo bante
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: ""
 alo_banto:
   term: alo banto
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: ""
 alocu:
@@ -1073,7 +1073,7 @@ aloe:
   translation: aloe, s&aacute;bila, ac&iacute;bar, <em>Aloe</em>
 aloete:
   term: aloete
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: otros (<em>seres vivos</em>)
 aloforma:
@@ -1110,7 +1110,7 @@ alokosmo:
   translation: universo paralelo, dimensi&oacute;n alterna
 alokwanti:
   term: alokwanti
-  class: t
+  class: 'tabl: d; m'
   category: derived
   translation: una cantidad diferente (de)
 alolabel:
@@ -1126,17 +1126,17 @@ alolide:
     redireccionar, remitir, derivar, mandar (a)
 aloloka:
   term: aloloka
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: en otro lugar, en otro lado
 alomaner:
   term: alomaner
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: de manera diferente, de manera distinta, de otra manera, de otro modo
 alomo:
   term: alomo
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: de manera diferente (<em>para describir adjetivos y adverbios</em>),
     de manera distinta, de otra manera, de otro modo
@@ -1158,7 +1158,7 @@ alondra:
     <em>Alaudidae</em>
 alonumer:
   term: alonumer
-  class: d
+  class: 'tabl: d'
   category: derived
   translation: otro n&uacute;mero (de)
 aloopsyon:
@@ -1173,12 +1173,12 @@ aloopsyonli:
   translation: ""
 alooto:
   term: alooto
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: otros (<em>cosas</em>)
 alopul:
   term: alopul
-  class: t
+  class: 'tabl: t'
   category: derived
   translation: diferente, distinto, (de) otro tipo (de), de otra manera
 alopul_kom:
@@ -1188,27 +1188,27 @@ alopul_kom:
   translation: a diferencia de, que no sea, diferente de, diferente a
 aloseba:
   term: aloseba
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: por otra raz&oacute;n
 alosu:
   term: alosu
-  class: t
+  class: 'tabl: t'
   category: derived
   translation: de otro
 alote:
   term: alote
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: alguien m&aacute;s, otro (<em>ser vivo</em>)
 aloto:
   term: aloto
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: algo m&aacute;s, otro (<em>cosa</em>)
 alowatu:
   term: alowatu
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: en otro momento
 aloy:
@@ -2472,7 +2472,7 @@ asuransu:
 asuransuli_kontrata:
   term: asuransuli kontrata
   class: b
-  category: derived
+  category: phrase
   translation: p&oacute;liza de seguro
 ata:
   term: ata
@@ -3230,28 +3230,28 @@ bahari:
 bahari_antartiko:
   term: Bahari Antartiko
   class: b
-  category: derived
+  category: phrase
   translation: oc&eacute;ano Ant&aacute;rtico, oc&eacute;ano Austral, oc&eacute;ano
     Meridional
 bahari_artiko:
   term: Bahari Artiko
   class: b
-  category: derived
+  category: phrase
   translation: oc&eacute;ano &Aacute;rtico
 bahari_atlantiko:
   term: Bahari Atlantiko
   class: b
-  category: derived
+  category: phrase
   translation: oc&eacute;ano Atl&aacute;ntico
 bahari_hindiko:
   term: Bahari Hindiko
   class: b
-  category: derived
+  category: phrase
   translation: oc&eacute;ano &Iacute;ndico
 bahari_pacifiko:
   term: Bahari Pacifiko
   class: b
-  category: derived
+  category: phrase
   translation: oc&eacute;ano Pac&iacute;fico
 bahariestare:
   term: bahariestare
@@ -3453,17 +3453,17 @@ bamya:
     okra, ocrey, bamia, candia, <em>Abelmoschus esculentus</em>
 ban:
   term: ban
-  class: d
+  class: 'tabl: d'
   category: root
   translation: un, cierto
 ban_alote:
   term: ban alote
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: ""
 ban_aloto:
   term: ban aloto
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: ""
 banana:
@@ -3493,7 +3493,7 @@ bandera:
   translation: bandera
 banete:
   term: banete
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: algunos (<em>personas</em>)
 bangla:
@@ -3568,62 +3568,62 @@ bankoyen:
   translation: banquero
 bankwanti:
   term: bankwanti
-  class: d
+  class: 'tabl: d; m'
   category: derived
   translation: alguna cantidad de, algo de
 banloka:
   term: banloka
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: en alg&uacute;n lugar, en alg&uacute;n lado
 banmaner:
   term: banmaner
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: de alguna manera, de alg&uacute;n modo, por alg&uacute;n m&eacute;todo
 banmo:
   term: banmo
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: un poco (<em>para describir adjetivos y adverbios</em>), algo
 bannumer:
   term: bannumer
-  class: d
+  class: 'tabl: d'
   category: derived
   translation: alg&uacute;n n&uacute;mero (de), algunos, varios, unos cuantos
 banoto:
   term: banoto
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: algunos (<em>cosas</em>)
 banpul:
   term: banpul
-  class: t
+  class: 'tabl: t'
   category: derived
   translation: alg&uacute;n tipo de
 banseba:
   term: banseba
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: por alguna raz&oacute;n
 bansu:
   term: bansu
-  class: t
+  class: 'tabl: su s'
   category: derived
   translation: de alguno, de alguien
 bante:
   term: bante
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: alguien
 banto:
   term: banto
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: algo
 banwatu:
   term: banwatu
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: en alg&uacute;n momento, alguna vez
 banyo:
@@ -4044,7 +4044,7 @@ bax-:
 bax_asman:
   term: bax asman
   class: p jm
-  category: derived
+  category: phrase
   translation: al aire libre, exterior
 baxasmanli:
   term: baxasmanli
@@ -5038,12 +5038,12 @@ bon_jiwa:
 bon_noce:
   term: bon noce
   class: il
-  category: derived
+  category: phrase
   translation: buenas noches (<em>despedida</em>)
 bon_turi:
   term: bon turi
   class: il
-  category: derived
+  category: phrase
   translation: buen viaje (<em>despedida</em>)
 bonata:
   term: bonata
@@ -6474,7 +6474,7 @@ censuya:
   translation: madurez
 centi:
   term: centi
-  class: num; lfik
+  class: num
   category: root
   translation: centi-, 10^-2, cent&eacute;sima parte de, un cent&eacute;simo (de),
     c
@@ -6726,7 +6726,7 @@ cinju:
 cinjuli_gardanbendu:
   term: cinjuli gardanbendu
   class: b
-  category: derived
+  category: phrase
   translation: collar de perlas
 cinon:
   term: cinon
@@ -7830,27 +7830,27 @@ daydayyen:
   translation: gigante
 daydenkwanti:
   term: daydenkwanti
-  class: t
+  class: 'tabl: d; m'
   category: derived
   translation: tanto
 daydenmo:
   term: daydenmo
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: qu&eacute; (<em>para describir adjetivos y adverbios</em>), vaya, tan
 daydenmo_multi:
   term: daydenmo multi
-  class: t jm
-  category: derived
+  class: 'tabl: d; m'
+  category: phrase
   translation: tanto(s)
 daydennumer:
   term: daydennumer
-  class: t
+  class: 'tabl: d'
   category: derived
   translation: tantos
 daydenpul:
   term: daydenpul
-  class: t
+  class: 'tabl: t'
   category: derived
   translation: qu&eacute; (<em>usado con sustantivos; expresa sorpresa</em>)
 daydolo:
@@ -8246,7 +8246,7 @@ debora:
   translation: D&eacute;bora
 deci:
   term: deci
-  class: num; lfik
+  class: num
   category: root
   translation: deci-, 10^-1, d&eacute;cima parte de, un d&eacute;cimo (de), d
 decibelu:
@@ -8401,12 +8401,12 @@ demonili:
   translation: demoniaco, diab&oacute;lico, maligno, mal&eacute;volo
 den:
   term: den
-  class: d
+  class: 'tabl: d'
   category: root
   translation: ese, aquel
 denete:
   term: denete
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: esos (<em>seres vivos</em>), &eacute;sos, aquellos, aqu&eacute;llos
 denim:
@@ -8421,17 +8421,17 @@ denimli:
   translation: de mezclilla, de tela de <em>jean</em>, vaquero, de mah&oacute;n
 denkwanti:
   term: denkwanti
-  class: d
+  class: 'tabl: d; m'
   category: derived
   translation: tanto, esa cantidad (de)
 denloka:
   term: denloka
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: all&aacute;, all&iacute;, ah&iacute;
 denloka_hu:
   term: denloka hu
-  class: l
+  class: 'tabl: l'
   category: phrase
   translation: (en) donde
 denlokali:
@@ -8441,62 +8441,57 @@ denlokali:
   translation: de all&iacute;, de ah&iacute;
 denmaner:
   term: denmaner
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: as&iacute;, de esa manera, de ese modo
 denmaner_hu:
   term: denmaner hu
-  class: l
+  class: 'tabl: l'
   category: phrase
   translation: como, de la manera en que
 denmo:
   term: denmo
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: tan (<em>para describir adjetivos y adverbios</em>), as&iacute; de
 denmo_kom:
   term: denmo... kom...
-  class: m; l
+  class: 'tabl: m; l'
   category: phrase
   translation: tan(...) como (...)
 denmo_multi:
   term: denmo multi
-  class: t
+  class: 'tabl: d; m'
   category: phrase
   translation: tanto(s)
 dennumer:
   term: dennumer
-  class: d
+  class: 'tabl: d'
   category: derived
   translation: tantos, ese n&uacute;mero (de)
 denoto:
   term: denoto
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: esos (<em>cosas</em>), &eacute;sos, aquellos, aqu&eacute;llos
 denpul:
   term: denpul
-  class: t
+  class: 'tabl: t'
   category: derived
   translation: tal, as&iacute;, (de) ese tipo (de)
 denpul_kom:
   term: denpul kom
-  class: l
+  class: 'tabl: l'
   category: phrase
   translation: como, de la manera de
 denseba:
   term: denseba
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: por esa raz&oacute;n, por eso
-denseba_hu:
-  term: denseba hu
-  class: l
-  category: phrase
-  translation: por la raz&oacute;n que
 densu:
   term: densu
-  class: su s
+  class: 'tabl: su s'
   category: derived
   translation: de ese (<em>ser vivo</em>), de aquel
 denta:
@@ -8536,22 +8531,22 @@ dentamedisyen:
   translation: dentista
 dente:
   term: dente
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: ese (<em>ser vivo</em>), &eacute;se, aquel, aqu&eacute;l
 dento:
   term: dento
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: ese (<em>cosa</em>), &eacute;se, eso, aquel, aqu&eacute;l, aquello
 denwatu:
   term: denwatu
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: en ese momento, entonces
 denwatu_hu:
   term: denwatu hu
-  class: l
+  class: 'tabl: l'
   category: phrase
   translation: cuando, en el momento en que
 denwatuli:
@@ -9672,7 +9667,7 @@ duaple:
 duaple_baso:
   term: duaple baso
   class: b
-  category: derived
+  category: phrase
   translation: contrabajo
 duaple_basun:
   term: duaple basun
@@ -9931,7 +9926,7 @@ dunavi:
   translation: navegaci&oacute;n
 dunerleli:
   term: dunerleli
-  class: m
+  class: t
   category: derived
   translation: '&uacute;ltimamente'
 dunya:
@@ -10360,8 +10355,8 @@ ekidna:
   translation: equidna, <em>Tachyglossidae</em>
 eko-:
   term: eko-
-  class: lfik
-  category: affix
+  class: nenhuru genu
+  category: bound root
   translation: eco-
 ekologi:
   term: ekologi
@@ -12484,7 +12479,7 @@ fe_asif:
 fe_bage:
   term: fe bage
   class: p jm
-  category: derived
+  category: phrase
   translation: ""
 fe_ban_leli_watu:
   term: (fe) ban leli watu
@@ -12792,11 +12787,6 @@ fe_midiya_de:
   class: p
   category: phrase
   translation: en medio de
-fe_minusya:
-  term: fe minusya
-  class: p jm
-  category: phrase
-  translation: aparte de eso (<em>al principio de una frase</em>)
 fe_misal:
   term: fe misal
   class: p jm
@@ -12928,8 +12918,8 @@ fe_preferi_kom:
   category: phrase
   translation: de preferencia que
 fe_rimara:
-  term: fe rimara
-  class: t
+  term: (fe) rimara
+  class: p jm
   category: phrase
   translation: otra vez, de nuevo, una vez m&aacute;s, nuevamente
 fe_ruke:
@@ -13520,7 +13510,7 @@ finfe:
 finfe_nunya:
   term: finfe nunya
   class: p jm
-  category: derived
+  category: phrase
   translation: hasta ahora
 finfley:
   term: finfley
@@ -13566,7 +13556,7 @@ finili:
 finili_eksame:
   term: finili eksame
   class: b
-  category: derived
+  category: phrase
   translation: examen final, prueba final
 finine:
   term: finine
@@ -13895,7 +13885,7 @@ fol_lega:
 fol_moda:
   term: fol moda
   class: p jm
-  category: derived
+  category: phrase
   translation: de moda, a la moda
 fol_norma:
   term: fol norma
@@ -13905,7 +13895,7 @@ fol_norma:
 fol_satumeter:
   term: fol satumeter
   class: p jm
-  category: derived
+  category: phrase
   translation: en la direcci&oacute;n de las manecillas del reloj, horario, dextrorso,
     dextr&oacute;giro
 fol_vada:
@@ -16803,87 +16793,87 @@ he:
     cualquier
 he_alo:
   term: he alo
-  class: d
+  class: 'tabl: d'
   category: phrase
   translation: cualquier otro
 he_aloloka:
   term: he aloloka
-  class: m
+  class: 'tabl: m'
   category: phrase
   translation: en cualquier otro lugar, en cualquier otro lado
 he_alosu:
   term: he alosu
-  class: su s
+  class: 'tabl: su s'
   category: phrase
   translation: de cualquier otro
 he_alote:
   term: he alote
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: cualquier otro (<em>ser vivo</em>)
 he_aloto:
   term: he aloto
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: cualquier otro (<em>cosa</em>)
 he_ban:
   term: he ban
-  class: d
+  class: 'tabl: d'
   category: phrase
   translation: cualquier
 he_bankwanti:
   term: he bankwanti
-  class: t
+  class: 'tabl: d; m'
   category: phrase
   translation: cualquier cantidad de, cuanto( )quiera (que)
 he_banloka:
   term: he banloka
-  class: m
+  class: 'tabl: m'
   category: phrase
   translation: donde sea, en cualquier lugar
 he_banmo:
   term: he banmo
-  class: m
+  class: 'tabl: m'
   category: phrase
   translation: a cualquier grado (<em>para describir adjetivos y adverbios</em>)
 he_banpul:
   term: he banpul
-  class: t
+  class: 'tabl: t'
   category: phrase
   translation: cualquier tipo de
 he_bansu:
   term: he bansu
-  class: su s
+  class: 'tabl: su s'
   category: phrase
   translation: de quien sea
 he_bante:
   term: he bante
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: quienquiera, cualquiera
 he_banto:
   term: he banto
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: cualquier cosa, lo que sea, cualquiera, el que sea
 he_banwatu:
   term: he banwatu
-  class: m
+  class: 'tabl: m'
   category: phrase
   translation: en cualquier momento, de todos los tiempos, cuando sea, cuando( )quiera
 he_den:
   term: he den
-  class: d
+  class: 'tabl: d'
   category: phrase
   translation: justamente ese, justamente aquel
 he_dente:
   term: he dente
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: justamente eso, justamente aquello
 he_dento:
   term: he dento
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: justamente eso, justamente aquello
 he_ete:
@@ -16893,17 +16883,17 @@ he_ete:
   translation: ellos mismos
 he_hin:
   term: he hin
-  class: d
+  class: 'tabl: d'
   category: phrase
   translation: justamente este
 he_hinte:
   term: he hinte
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: justamente esto
 he_hinto:
   term: he hinto
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: justamente esto
 he_imi:
@@ -16913,17 +16903,17 @@ he_imi:
   translation: nosotros mismos
 he_ke:
   term: he ke
-  class: d
+  class: 'tabl: d'
   category: phrase
   translation: qu&eacute; (maldito) (<em>interrogativo intensivo</em>), cu&aacute;l
 he_kete:
   term: he kete
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: qui&eacute;n (rayos) (<em>interrogativo intensivo</em>)
 he_keto:
   term: he keto
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: qu&eacute; (rayos) (<em>interrogativo intensivo</em>)
 he_mi:
@@ -16933,47 +16923,47 @@ he_mi:
   translation: yo mismo
 he_moy:
   term: he moy
-  class: d
+  class: 'tabl: d'
   category: phrase
   translation: todo y cada
 he_moyte:
   term: he moyte
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: absolutamente todo, todos y cada uno
 he_moyto:
   term: he moyto
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: absolutamente todo, todos y cada uno
 he_nil:
   term: he nil
-  class: d
+  class: 'tabl: d'
   category: phrase
   translation: absolutamente ning&uacute;n
 he_nilte:
   term: he nilte
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: absolutamente nada
 he_nilto:
   term: he nilto
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: absolutamente nada
 he_sama:
   term: he sama
-  class: d
+  class: 'tabl: d'
   category: phrase
   translation: exactamente el mismo
 he_samate:
   term: he samate
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: exactamente el mismo, exactamente lo mismo
 he_samato:
   term: he samato
-  class: pn
+  class: 'tabl: pn'
   category: phrase
   translation: exactamente el mismo, exactamente lo mismo
 he_te:
@@ -17224,7 +17214,7 @@ hilu:
   translation: tal&oacute;n, tac&oacute;n
 hin:
   term: hin
-  class: d
+  class: 'tabl: d'
   category: root
   translation: este, estos
 hindi:
@@ -17254,17 +17244,17 @@ hinduismo:
   translation: hinduismo
 hinete:
   term: hinete
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: estos, &eacute;stos (<em>seres vivos</em>)
 hinkwanti:
   term: hinkwanti
-  class: d
+  class: 'tabl: d; m'
   category: derived
   translation: esta cantidad
 hinloka:
   term: hinloka
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: aqu&iacute;
 hinlokali:
@@ -17274,57 +17264,52 @@ hinlokali:
   translation: de aqu&iacute;
 hinmaner:
   term: hinmaner
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: as&iacute;, de esta manera
 hinmo:
   term: hinmo
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: as&iacute; de (<em>para describir adjetivos y adverbios</em>)
 hinnumer:
   term: hinnumer
-  class: d
+  class: 'tabl: d'
   category: derived
   translation: este n&uacute;mero
 hinoto:
   term: hinoto
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: estos, &eacute;stos (<em>cosas</em>)
 hinpul:
   term: hinpul
-  class: t
+  class: 'tabl: t'
   category: derived
   translation: tal, as&iacute;, (de) este tipo (de)
 hinseba:
   term: hinseba
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: por esta raz&oacute;n
 hinsu:
   term: hinsu
-  class: su s
+  class: 'tabl: su s'
   category: derived
   translation: de este
 hinte:
   term: hinte
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: este, &eacute;ste (<em>ser vivo</em>)
 hinto:
   term: hinto
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: este (<em>cosa</em>), &eacute;ste, esto
-hintwatulil:
-  term: hintwatulil
-  class: t
-  category: derived
-  translation: ""
 hinwatu:
   term: hinwatu
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: en este momento, ahora, ahorita
 hinwatuli:
@@ -17456,7 +17441,7 @@ holmyum:
   translation: holmio, Ho
 holo-:
   term: holo-
-  class: ""
+  class: nenhuru genu
   category: bound root
   translation: ""
 holoba:
@@ -17643,12 +17628,12 @@ hu:
 hu_da:
   term: hu da
   class: pn
-  category: derived
+  category: phrase
   translation: quien (<em>cl&aacute;usula subordinada</em>), el cual
 hu_dasu:
   term: hu dasu
   class: su s
-  category: derived
+  category: phrase
   translation: de quien (<em>cl&aacute;usula subordinada</em>), del cual
 hu_denloka:
   term: hu denloka
@@ -18589,11 +18574,6 @@ inli:
   class: t
   category: derived
   translation: interior
-inlide:
-  term: inlide
-  class: b.oj
-  category: derived
-  translation: inducci&oacute;n; inducir
 inmemorigi:
   term: inmemorigi
   class: b.oj
@@ -21521,7 +21501,7 @@ kardulexi:
 karduli_basatayti:
   term: karduli basatayti
   class: b
-  category: derived
+  category: phrase
   translation: calco (<em>traducci&oacute;n</em>)
 kareto:
   term: kareto
@@ -21541,7 +21521,7 @@ kargux:
 kargux_ci:
   term: kargux ci
   class: b
-  category: derived
+  category: phrase
   translation: conejito
 kari:
   term: kari
@@ -21974,7 +21954,7 @@ kazakiyen:
   translation: kazajo (<em>persona</em>)
 ke:
   term: ke
-  class: d
+  class: 'tabl: d'
   category: root
   translation: qu&eacute; (<em>interrogativo</em>), cu&aacute;l
 kebabu:
@@ -21989,7 +21969,7 @@ kecapu:
   translation: k&eacute;tchup, c&aacute;tsup
 keete:
   term: keete
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: qui&eacute;nes (<em>interrogativo</em>)
 kef:
@@ -22032,7 +22012,7 @@ keke:
   translation: pastel, torta, queque, bizcocho, bizcochuelo, panetela
 kekwanti:
   term: kekwanti
-  class: d
+  class: 'tabl: d; m'
   category: derived
   translation: cu&aacute;nto (<em>interrogativo</em>)
 kelne:
@@ -22042,7 +22022,7 @@ kelne:
   translation: garrapata, rezno, caparra, <em>Ixodida</em>
 keloka:
   term: keloka
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: d&oacute;nde (<em>interrogativo</em>)
 kelti:
@@ -22062,7 +22042,7 @@ kelvin:
   translation: kelvin (<em>unidad de temperatura</em>), K
 kemaner:
   term: kemaner
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: c&oacute;mo (<em>interrogativo</em>), de qu&eacute; manera
 kemer:
@@ -22077,7 +22057,7 @@ kemeti:
   translation: Antiguo Egipto, Kemet
 kemo:
   term: kemo
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: cu&aacute;n (<em>interrogativo</em>), qu&eacute; tan
 kendi:
@@ -22107,7 +22087,7 @@ kentawro:
   translation: centauro
 kenumer:
   term: kenumer
-  class: d
+  class: 'tabl: d'
   category: derived
   translation: cu&aacute;ntos (<em>interrogativo</em>)
 kenya:
@@ -22117,12 +22097,12 @@ kenya:
   translation: Kenia
 keoto:
   term: keoto
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: qu&eacute; (cosas) (<em>interrogativo</em>), cu&aacute;les
 kepul:
   term: kepul
-  class: t
+  class: 'tabl: t'
   category: derived
   translation: c&oacute;mo (<em>interrogativo</em>), qu&eacute; tipo de
 kerala:
@@ -22182,12 +22162,12 @@ kesadiya:
   translation: quesadilla
 keseba:
   term: keseba
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: por qu&eacute; (<em>interrogativo</em>)
 kesu:
   term: kesu
-  class: su s
+  class: 'tabl: su s'
   category: derived
   translation: de qui&eacute;n (<em>interrogativo</em>)
 ketani:
@@ -22202,7 +22182,7 @@ ketanibija:
   translation: (semilla de) linaza, semilla de lino
 kete:
   term: kete
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: qui&eacute;n (<em>interrogativo</em>)
 ketif:
@@ -22212,12 +22192,12 @@ ketif:
   translation: hombro
 keto:
   term: keto
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: qu&eacute; (cosa) (<em>interrogativo</em>), cu&aacute;l
 kewatu:
   term: kewatu
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: cu&aacute;ndo (<em>interrogativo</em>)
 kexru:
@@ -24947,7 +24927,7 @@ leli:
 leli_banwatu:
   term: leli banwatu
   class: m
-  category: derived
+  category: phrase
   translation: en cierto punto del pasado, hubo una vez
 lemur:
   term: lemur
@@ -25570,7 +25550,7 @@ linkulexi:
 linkuli_falelexi:
   term: linkuli falelexi
   class: b
-  category: derived
+  category: phrase
   translation: verbo copulativo, c&oacute;pula
 linkutul:
   term: linkutul
@@ -27477,7 +27457,7 @@ maxmeligi:
   translation: embellecer, hermosear
 maxmin:
   term: maxmin
-  class: m
+  class: d; m
   category: derived
   translation: m&aacute;s o menos
 maxmo:
@@ -27503,12 +27483,12 @@ maxmo_kom:
   translation: m&aacute;s(...) que
 maxmo_or_minmo:
   term: maxmo or minmo
-  class: t jm
+  class: m jm
   category: phrase
   translation: m&aacute;s o menos (<em>para describir adjetivos y adverbios</em>)
 maxmo_sahi:
   term: maxmo sahi
-  class: t jm
+  class: m jm
   category: phrase
   translation: m&aacute;s bien, m&aacute;s correctamente, mejor dicho
 maxori:
@@ -28063,12 +28043,12 @@ mesi_un:
 mesi_un_dua:
   term: mesi un dua
   class: b
-  category: derived
+  category: phrase
   translation: diciembre
 mesi_un_un:
   term: mesi un un
   class: b
-  category: derived
+  category: phrase
   translation: noviembre
 mesiridin:
   term: mesiridin
@@ -28327,7 +28307,7 @@ mikasi:
   translation: tijeras
 mikro:
   term: mikro
-  class: num; lfik
+  class: num
   category: root
   translation: micro-, 10^-6, un millon&eacute;simo, una millon&eacute;sima parte
     (de), &micro;, mc, u
@@ -28368,7 +28348,7 @@ milatu:
   translation: mortero, argamasa
 mili:
   term: mili
-  class: num; lfik
+  class: num
   category: root
   translation: mili-, 10^-3, un mil&eacute;simo, una mil&eacute;sima parte (de), m
 milimetro:
@@ -29210,7 +29190,7 @@ moxwere:
   translation: consulta; consultar (con)
 moy:
   term: moy
-  class: d
+  class: 'tabl: d'
   category: root
   translation: cada, todo
 moy-:
@@ -29240,7 +29220,7 @@ moydua:
   translation: ambos
 moyete:
   term: moyete
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: todos (ellos)
 moyjensifil:
@@ -29260,7 +29240,7 @@ moyjixi:
   translation: omnisciencia
 moykwanti:
   term: moykwanti
-  class: d
+  class: 'tabl: d; m'
   category: derived
   translation: la cantidad entera (de), todo (el), la totalidad (de)
 moyli:
@@ -29270,27 +29250,27 @@ moyli:
   translation: universal; universalmente
 moyloka:
   term: moyloka
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: en todo lugar, en todos lados
 moyloka_hu:
   term: moyloka hu
-  class: l
+  class: 'tabl: l'
   category: phrase
   translation: ""
 moymaner:
   term: moymaner
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: de toda manera, de todos los modos
 moymo:
   term: moymo
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: de toda manera (<em>para describir adjetivos y adverbios</em>)
 moynumer:
   term: moynumer
-  class: d
+  class: 'tabl: d'
   category: derived
   translation: todos (los)
 moynyanli:
@@ -29300,32 +29280,32 @@ moynyanli:
   translation: anual; anualmente, cada a&ntilde;o
 moyoto:
   term: moyoto
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: todos (ellos) (<em>cosas</em>)
 moypul:
   term: moypul
-  class: t
+  class: 'tabl: t'
   category: derived
   translation: todo tipo de
 moyseba:
   term: moyseba
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: por toda raz&oacute;n, por todo
 moysu:
   term: moysu
-  class: su s
+  class: 'tabl: su s'
   category: derived
   translation: de todos
 moyte:
   term: moyte
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: todos, todo mundo
 moyto:
   term: moyto
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: todo
 moyun:
@@ -29335,7 +29315,7 @@ moyun:
   translation: cada uno
 moywatu:
   term: moywatu
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: siempre
 moywatuli:
@@ -29440,7 +29420,7 @@ mulin:
   translation: r&aacute;bano, <em>Raphanus raphanistrum</em> subsp. <em>sativus</em>
 multi:
   term: multi
-  class: t
+  class: d; m
   category: root
   translation: mucho, muchos, un mont&oacute;n (de)
 multimaxmo:
@@ -29867,7 +29847,7 @@ nanahudo:
   translation: supurado, ulcerado, infectado
 nano:
   term: nano
-  class: num; lfik
+  class: num
   category: root
   translation: nano-, 10^-9, un milmillon&eacute;simo, un millard&eacute;simo, una
     milmillon&eacute;sima parte (de), una millard&eacute;sima parte (de), n
@@ -30423,7 +30403,7 @@ nenojetoli:
 nenojetoli_falelexi:
   term: nenojetoli falelexi
   class: b
-  category: derived
+  category: phrase
   translation: verbo intransitivo
 nenperfeto:
   term: nenperfeto
@@ -30543,7 +30523,7 @@ nenyon:
 nenyon_na:
   term: nenyon na
   class: p jm
-  category: derived
+  category: phrase
   translation: sin (<em>+ verbo</em>)
 nenyukwe:
   term: nenyukwe
@@ -30618,7 +30598,7 @@ ner_fe:
 ner_le:
   term: ner le
   class: par
-  category: derived
+  category: phrase
   translation: ""
 ner_lefe:
   term: ner lefe
@@ -30643,7 +30623,7 @@ ner_of:
 ner_xa:
   term: ner xa
   class: par
-  category: derived
+  category: phrase
   translation: ""
 ner_xafe:
   term: ner xafe
@@ -30716,7 +30696,7 @@ netoposta:
 netopostali_adresu:
   term: netopostali adresu
   class: b
-  category: derived
+  category: phrase
   translation: (direcci&oacute;n de) correo (electr&oacute;nico), <em>email</em>
 netunyum:
   term: netunyum
@@ -30817,7 +30797,7 @@ nikotin:
   translation: nicotina
 nil:
   term: nil
-  class: num; d
+  class: 'tabl: num; d'
   category: root
   translation: cero, ning&uacute;n
 nil_alote_kom:
@@ -30827,63 +30807,63 @@ nil_alote_kom:
   translation: nada menos que
 nilete:
   term: nilete
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: ninguno (de ellos) (<em>seres vivos</em>)
 nilkwanti:
   term: nilkwanti
-  class: d
+  class: 'tabl: d'
   category: derived
   translation: ninguna cantidad de, nada de
 nilloka:
   term: nilloka
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: en ning&uacute;n lugar, en ning&uacute;n lado
 nilmaner:
   term: nilmaner
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: de ninguna manera, de ning&uacute;n modo
 nilmo:
   term: nilmo
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: nada (<em>para describir adjetivos y adverbios</em>), de ninguna manera,
     de ning&uacute;n modo
 nilnumer:
   term: nilnumer
-  class: d
+  class: 'tabl: d'
   category: derived
   translation: ninguno (de)
 niloto:
   term: niloto
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: ninguno (de ellos) (<em>cosas</em>)
 nilpul:
   term: nilpul
-  class: t
+  class: 'tabl: t'
   category: derived
   translation: ning&uacute;n tipo de
 nilseba:
   term: nilseba
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: por ninguna raz&oacute;n, por nada, sin ning&uacute;n motivo
 nilsu:
   term: nilsu
-  class: su s
+  class: 'tabl: su s'
   category: derived
   translation: de nadie
 nilte:
   term: nilte
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: nadie
 nilto:
   term: nilto
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: nada
 niltogi:
@@ -30893,7 +30873,7 @@ niltogi:
   translation: aniquilaci&oacute;n; aniquilar
 nilwatu:
   term: nilwatu
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: nunca
 nimatu:
@@ -31651,7 +31631,7 @@ ojetoli:
 ojetoli_falelexi:
   term: ojetoli falelexi
   class: b
-  category: derived
+  category: phrase
   translation: verbo transitivo
 okey:
   term: okey
@@ -32084,7 +32064,7 @@ oroojetoli:
 oroojetoli_falelexi:
   term: oroojetoli falelexi
   class: b
-  category: derived
+  category: phrase
   translation: verbo ambitransitivo
 orto:
   term: orto
@@ -32225,22 +32205,22 @@ otosu:
 otosu_ete:
   term: otosu ete
   class: su pn
-  category: derived
+  category: phrase
   translation: suyos (<em>seres vivos que pertenecen a estas cosas</em>)
 otosu_oto:
   term: otosu oto
   class: su pn
-  category: derived
+  category: phrase
   translation: suyos (<em>cosas pertenecientes a otras cosas</em>)
 otosu_te:
   term: otosu te
   class: su pn
-  category: derived
+  category: phrase
   translation: suyo (<em>ser vivo de cosas</em>)
 otosu_to:
   term: otosu to
   class: su pn
-  category: derived
+  category: phrase
   translation: suyo (<em>cosa que pertenece a estas cosas</em>)
 ovari:
   term: ovari
@@ -32910,11 +32890,6 @@ paskal:
   class: b
   category: root
   translation: pascal (<em>unidad de presi&oacute;n y tensi&oacute;n</em>), Pa
-pasli:
-  term: pasli
-  class: t
-  category: derived
-  translation: de a trav&eacute;s
 paslide:
   term: paslide
   class: b.oj
@@ -33580,7 +33555,7 @@ pikniku:
   translation: p&iacute;cnic, d&iacute;a de campo; ir de p&iacute;cnic
 piko:
   term: piko
-  class: num; lfik
+  class: num
   category: root
   translation: pico-, 10^-12, un billon&eacute;simo, una billon&eacute;sima parte
     (de), p
@@ -34295,7 +34270,7 @@ posamikuya:
   translation: poca profundidad, superficialidad, frivolidad
 posamusa:
   term: posamusa
-  class: b.oj
+  class: b.oro.hisi
   category: derived
   translation: aburrimiento; aburrir, aburrirse
 posamusado:
@@ -34434,7 +34409,7 @@ posfol:
 posfol_satumeter:
   term: posfol satumeter
   class: p jm
-  category: derived
+  category: phrase
   translation: en direcci&oacute;n contraria a las manecillas del reloj, antihorario,
     sinistrorso, lev&oacute;giro
 posfolloga:
@@ -36425,7 +36400,7 @@ sabunkaxa:
 sabunli_bulbula:
   term: sabunli bulbula
   class: b
-  category: derived
+  category: phrase
   translation: burbuja de jab&oacute;n, pompa de jab&oacute;n
 sabunpul:
   term: sabunpul
@@ -36530,7 +36505,7 @@ sahayli:
 sahayli_falelexi:
   term: sahayli falelexi
   class: b
-  category: derived
+  category: phrase
   translation: (verbo) auxiliar
 sahayyen:
   term: sahayyen
@@ -36716,12 +36691,12 @@ salvadori:
   translation: El Salvador
 sama:
   term: sama
-  class: d
+  class: 'tabl: d'
   category: root
   translation: mismo, homo-
 samaete:
   term: samaete
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: los mismos (<em>seres vivos</em>)
 samaijen:
@@ -36741,17 +36716,17 @@ samajensifilya:
   translation: homosexualidad
 samakwanti:
   term: samakwanti
-  class: d
+  class: 'tabl: d; m'
   category: derived
   translation: la misma cantidad (de)
 samaloka:
   term: samaloka
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: en el mismo lugar
 samamaner:
   term: samamaner
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: de la misma manera, del mismo modo
 samamenalexi:
@@ -36766,22 +36741,22 @@ samamenapul:
   translation: sin&oacute;nimo; sin&oacute;nimamente
 samamo:
   term: samamo
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: igual de (<em>para describir adjetivos y adverbios</em>)
 samanumer:
   term: samanumer
-  class: d
+  class: 'tabl: d'
   category: derived
   translation: el mismo n&uacute;mero (de)
 samaoto:
   term: samaoto
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: los mismos (<em>cosas</em>)
 samapul:
   term: samapul
-  class: t
+  class: 'tabl: t'
   category: derived
   translation: (d)el mismo tipo (de), igual; igualmente, del mismo modo
 samari:
@@ -36796,27 +36771,27 @@ samaryum:
   translation: samario (<em>elemento</em>), Sm
 samaseba:
   term: samaseba
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: por la misma raz&oacute;n
 samasu:
   term: samasu
-  class: su s
+  class: 'tabl: su s'
   category: derived
   translation: del mismo
 samate:
   term: samate
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: el mismo (<em>ser vivo</em>)
 samato:
   term: samato
-  class: pn
+  class: 'tabl: pn'
   category: derived
   translation: el mismo (<em>cosa</em>)
 samawatu:
   term: samawatu
-  class: m
+  class: 'tabl: m'
   category: derived
   translation: al mismo tiempo, simult&aacute;neamente
 samawatuli:
@@ -36967,7 +36942,7 @@ santo_biskopodom:
 santo_papa:
   term: Santo Papa
   class: b
-  category: derived
+  category: phrase
   translation: papa
 santogi:
   term: santogi
@@ -38171,7 +38146,7 @@ sinus:
   translation: seno (<em>cavidad en el cuerpo</em>)
 sipul:
   term: sipul
-  class: t
+  class: m
   category: derived
   translation: efectivamente, por supuesto, definitivamente, con seguridad
 siri:
@@ -38946,12 +38921,12 @@ suli:
 suli_namelexi:
   term: suli namelexi
   class: b
-  category: derived
+  category: phrase
   translation: nombre propio
 suli_tosifulexi:
   term: suli tosifulexi
   class: b
-  category: derived
+  category: phrase
   translation: adjetivo(-adverbio) propio, descriptor propio
 sulu:
   term: Sulu
@@ -39254,12 +39229,12 @@ suya:
 suyali_pornamelexi:
   term: suyali pornamelexi
   class: b
-  category: derived
+  category: phrase
   translation: pronombre posesivo
 suyali_sifalexi:
   term: suyali sifalexi
   class: b
-  category: derived
+  category: phrase
   translation: adjetivo posesivo
 suyayen:
   term: suyayen
@@ -40492,7 +40467,7 @@ teorili:
   translation: te&oacute;rico; te&oacute;ricamente
 tera:
   term: tera
-  class: num; lfik
+  class: num
   category: root
   translation: tera-, 10^12, (un) bill&oacute;n, T
 terakota:
@@ -40967,22 +40942,22 @@ token:
 token_des:
   term: token des
   class: b
-  category: derived
+  category: phrase
   translation: moneda de diez centavos
 token_dua_lima:
   term: token dua lima
   class: b
-  category: derived
+  category: phrase
   translation: moneda de veinticinco centavos, cuarto
 token_lima:
   term: token lima
   class: b
-  category: derived
+  category: phrase
   translation: moneda de cinco centavos
 token_un:
   term: token un
   class: b
-  category: derived
+  category: phrase
   translation: (moneda de un) centavo, c&eacute;ntimo, penique
 tomas:
   term: Tomas
@@ -41870,7 +41845,7 @@ tutuminfarto:
 tutumli_adolaitis:
   term: tutumli adolaitis
   class: b
-  category: derived
+  category: phrase
   translation: miocarditis
 tutumlogi:
   term: tutumlogi
@@ -42192,7 +42167,7 @@ un_oftiga:
   translation: un tercio, una tercera parte
 un_solo:
   term: un solo
-  class: t jm
+  class: s jm
   category: phrase
   translation: un solo
 unabi:
@@ -44424,6 +44399,11 @@ xorsomno:
   class: b.nenoj
   category: derived
   translation: dormirse, quedarse dormido
+xorsomnodo:
+  term: xorsomnodo
+  class: t
+  category: derived
+  translation: ""
 xortu:
   term: xortu
   class: b
@@ -44491,7 +44471,7 @@ xoryunki:
   translation: armarse de valor
 xosu:
   term: xosu
-  class: t
+  class: d; m
   category: root
   translation: poco, pocos
 xosu_xafe_xosu:

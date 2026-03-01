@@ -17,11 +17,11 @@
     spa: belo (b) pelo, pelaje, vello
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: totalmo
-    eng: 'totalmo (m) adv: totally, quite'
+    eng: 'totalmo (m) adv: totally, entirely, quite'
     spa: totalmo (m) totalmente (para describir adjetivos y adverbios), completamente,
       enteramente
   - text: ' '
@@ -38,8 +38,8 @@
     spa: wadi (b) valle
   - text: ' '
   - text: xafe
-    eng: 'xafe (p; lfik) prep: after (+ noun, -ing), in (+ period of time), (period
-      of time +) from now; pfx: post-'
+    eng: 'xafe (p; lfik) prep: after (+ noun), in (+ period of time), (period of time
+      +) from now; pfx: post-'
     spa: xafe (p; lfik) despu&eacute;s (de), en (+ periodo de tiempo), dentro de
   - text: ' '
   - text: taze
@@ -72,8 +72,8 @@
     spa: soba (b) ma&ntilde;ana (hora del d&iacute;a)
   - text: ', '
   - text: denwatu
-    eng: 'denwatu (m) adv: then (at that time)'
-    spa: denwatu (m) en ese momento, entonces
+    eng: 'denwatu (tabl: m) adv: then (at that time/moment)'
+    spa: 'denwatu (tabl: m) en ese momento, entonces'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -88,7 +88,7 @@
     spa: exidi (b.oj) salida; salir
   - text: ' '
   - text: sesu
-    eng: 'sesu (su s) poss adj: her own, his own, one&#039;s own'
+    eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
     spa: sesu (su s) su (de uno mismo)
   - text: ' '
   - text: ogar
@@ -117,7 +117,7 @@
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: imanu-neniblemo
@@ -136,11 +136,11 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Moyto
-    eng: 'moyto (pn) pron: everything, all of it'
-    spa: moyto (pn) todo
+    eng: 'moyto (tabl: pn) pron: everything, all of it'
+    spa: 'moyto (tabl: pn) todo'
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: sefide
@@ -164,11 +164,11 @@
     spa: safeya (b) limpieza
   - text: ' '
   - text: sim
-    eng: 'sim (t) adj: similar, alike, like; adv: similarly'
+    eng: 'sim (t) adj: similar, alike, like; adv: similarly, likewise'
     spa: sim (t) parecido, similar; similarmente
   - text: ' '
   - text: sol
-    eng: 'sol (m) adv: only, merely, simply, just, a mere, but (poetic)'
+    eng: 'sol (m) adv: only, merely, a mere, simply, just, but (poetic)'
     spa: sol (m) solo, s&oacute;lo, solamente, simplemente, meramente
   - text: ' '
   - text: kom
@@ -176,8 +176,8 @@
     spa: kom (l) que, como, en comparaci&oacute;n con
   - text: ' '
   - text: dento
-    eng: 'dento (pn) pron (inanimate): that (one)'
-    spa: dento (pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello
+    eng: 'dento (tabl: pn) pron (inanimate): that (one)'
+    spa: 'dento (tabl: pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello'
   - text: ' '
   - text: de
     eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
@@ -201,12 +201,12 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Moy
-    eng: 'moy (d) det: every, each, all'
-    spa: moy (d) cada, todo
+    eng: 'moy (tabl: d) det: every, each, all'
+    spa: 'moy (tabl: d) cada, todo'
   - text: ' '
   - text: alo
-    eng: 'alo (d) det: other, another, a different'
-    spa: alo (d) otro, diferente
+    eng: 'alo (tabl: d) det: other, another, a different'
+    spa: 'alo (tabl: d) otro, diferente'
   - text: ' '
   - text: rubahe
     eng: 'rubahe (b) n: fox'
@@ -347,20 +347,21 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Bannumer
-    eng: 'bannumer (d) det: some number (of), a certain number (of), some, several,
+    eng: 'bannumer (tabl: d) det: some number (of), a certain number (of), some, several,
       various, (a) few'
-    spa: bannumer (d) alg&uacute;n n&uacute;mero (de), algunos, varios, unos cuantos
+    spa: 'bannumer (tabl: d) alg&uacute;n n&uacute;mero (de), algunos, varios, unos
+      cuantos'
   - text: ' '
   - text: sadafa
     eng: 'sadafa (b) n: shell, seashell, carapace, concha'
     spa: sadafa (b) concha, carapacho, caparaz&oacute;n
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: sol
-    eng: 'sol (m) adv: only, merely, simply, just, a mere, but (poetic)'
+    eng: 'sol (m) adv: only, merely, a mere, simply, just, but (poetic)'
     spa: sol (m) solo, s&oacute;lo, solamente, simplemente, meramente
   - text: ' '
   - text: sefide
@@ -368,16 +369,17 @@
     spa: sefide (t) (de color) blanco, albo
   - text: ', '
   - text: bannumer
-    eng: 'bannumer (d) det: some number (of), a certain number (of), some, several,
+    eng: 'bannumer (tabl: d) det: some number (of), a certain number (of), some, several,
       various, (a) few'
-    spa: bannumer (d) alg&uacute;n n&uacute;mero (de), algunos, varios, unos cuantos
+    spa: 'bannumer (tabl: d) alg&uacute;n n&uacute;mero (de), algunos, varios, unos
+      cuantos'
   - text: ' '
   - text: sadafa
     eng: 'sadafa (b) n: shell, seashell, carapace, concha'
     spa: sadafa (b) concha, carapacho, caparaz&oacute;n
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: kolorpul

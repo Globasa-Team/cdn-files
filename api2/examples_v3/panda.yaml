@@ -43,12 +43,12 @@
     spa: kwasi (t) aparente; aparentemente
   - text: ' '
   - text: hare
-    eng: 'hare (b.oj) v.tr: have, has'
+    eng: 'hare (b.oj) v.tr: have'
     spa: hare (b.oj) tenencia; tener, contar con
   - text: ' '
   - text: nil
-    eng: 'nil (num; d) zero; det: no, no- (nothing, nobody, etc.)'
-    spa: nil (num; d) cero, ning&uacute;n
+    eng: 'nil (tabl: num; d) num: zero; det: no, no- (nothing, nobody, etc.)'
+    spa: 'nil (tabl: num; d) cero, ning&uacute;n'
   - text: ' '
   - text: fobi
     eng: 'fobi (b.oro.hisi) n: fear, -phobia; v.tr: frighten, scare; v.intr: be (feel)
@@ -104,12 +104,12 @@
     spa: kastilo (b) castillo
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: keloka
-    eng: 'keloka (m) adv: where'
-    spa: keloka (m) d&oacute;nde (interrogativo)
+    eng: 'keloka (tabl: m) adv (interrogative): where'
+    spa: 'keloka (tabl: m) d&oacute;nde (interrogativo)'
   - text: ?"
 - text: 'Panda jawabu: "Kastilo?"'
   cite:
@@ -171,8 +171,8 @@
     spa: panda (b) panda (ya sea panda gigante o panda rojo/menor)
   - text: ' '
   - text: maxpul
-    eng: 'maxpul (t) adj: further, another, extra, additional, additionally, in addition,
-      furthermore, moreover'
+    eng: 'maxpul (t) adj: further, another, extra, additional; adv: additionally,
+      in addition, furthermore, moreover'
     spa: maxpul (t) adicional, extra; adicionalmente
   - text: ' '
   - text: loga
@@ -207,7 +207,7 @@
     spa: panda (b) panda (ya sea panda gigante o panda rojo/menor)
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: hox
@@ -241,11 +241,11 @@
     spa: haja (b.oj) necesidad; necesitar
   - text: ' '
   - text: banto
-    eng: 'banto (pn) pron: something'
-    spa: banto (pn) algo
+    eng: 'banto (tabl: pn) pron: something'
+    spa: 'banto (tabl: pn) algo'
   - text: ', '
   - text: am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: jandan
@@ -278,7 +278,7 @@
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: daymo
@@ -286,8 +286,7 @@
     spa: daymo (m) muy (para describir adjetivos y adverbios), grandemente, altamente
   - text: ' '
   - text: dostefil
-    eng: 'dostefil (t) adj: friendly (&ldquo;friend-prone&rdquo;); adv: in a friendly
-      way'
+    eng: 'dostefil (t) adj: friendly (&ldquo;friend-prone&rdquo;)'
     spa: dostefil (t) amistoso; amistosamente
   - text: ', '
   - text: hikaye
@@ -295,16 +294,17 @@
     spa: hikaye (b.oj) relato, cuento, narraci&oacute;n; contar, narrar
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: tem
-    eng: 'tem (p) prep: about, on, regarding, with regard(s) to'
+    eng: 'tem (p) prep: about, on, concerning, regarding, with regard to, in regard
+      to'
     spa: tem (p) acerca de, con respecto a
   - text: ' '
   - text: sesu
-    eng: 'sesu (su s) poss adj: her own, his own, one&#039;s own'
+    eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
     spa: sesu (su s) su (de uno mismo)
   - text: ' '
   - text: jiwa
@@ -387,7 +387,7 @@
       elle
   - text: ' '
   - text: lungo
-    eng: 'lungo (t) adj: long; adv: longly'
+    eng: 'lungo (t) adj: long; adv: for long, for a long time, at length'
     spa: lungo (t) largo
   - text: ' '
   - text: weygebo
@@ -416,7 +416,7 @@
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: maner
@@ -424,7 +424,7 @@
     spa: maner (b) manera, modo
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: onexa
@@ -442,7 +442,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: suki
@@ -451,8 +451,8 @@
       (de), amar, placer(le)
   - text: ' '
   - text: hin
-    eng: 'hin (d) det: this, these'
-    spa: hin (d) este, estos
+    eng: 'hin (tabl: d) det: this, these'
+    spa: 'hin (tabl: d) este, estos'
   - text: ' '
   - text: momento
     eng: 'momento (b; il) n: moment, while; interj: one moment, hold on, wait'
@@ -487,7 +487,7 @@
       situar
   - text: ' '
   - text: sesu
-    eng: 'sesu (su s) poss adj: her own, his own, one&#039;s own'
+    eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
     spa: sesu (su s) su (de uno mismo)
   - text: ' '
   - text: bala
@@ -499,7 +499,7 @@
     spa: gebo (b) brazo
   - text: ' '
   - text: wey
-    eng: 'wey (p) prep: around'
+    eng: 'wey (p) prep: around, round'
     spa: wey (p) alrededor (de), en torno a
   - text: ' '
   - text: panda
@@ -522,7 +522,7 @@
     spa: xoru (b.oro) comienzo, principio; comenzar, empezar; comenzar, empezar
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: harka
@@ -531,7 +531,7 @@
     spa: harka (b.oro.harka) movimiento; mover; moverse
   - text: ' '
   - text: sesu
-    eng: 'sesu (su s) poss adj: her own, his own, one&#039;s own'
+    eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
     spa: sesu (su s) su (de uno mismo)
   - text: ' '
   - text: fleytul
@@ -560,12 +560,12 @@
     spa: yu (pn) t&uacute;, vos, usted
   - text: ' '
   - text: fale
-    eng: 'fale (b.oj) n: deed, act; v.tr: do, does, make, perform'
+    eng: 'fale (b.oj) n: deed, act; v.tr: do, make, perform'
     spa: fale (b.oj) hecho, acto; hacer
   - text: ' '
   - text: keto
-    eng: 'keto (pn) pron (interrogative, inanimate): what, which (one)'
-    spa: keto (pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l
+    eng: 'keto (tabl: pn) pron (interrogative, inanimate): what, which (one)'
+    spa: 'keto (tabl: pn) qu&eacute; (cosa) (interrogativo), cu&aacute;l'
   - text: ' '
   - text: fe
     eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),

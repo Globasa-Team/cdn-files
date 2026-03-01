@@ -10,7 +10,7 @@
       spa: 'Doxo: Fabula fal Esopo'
   translations:
   - text: Un
-    eng: 'un (num; d) one; det: a certain (specific)'
+    eng: 'un (num; d) num: one, uni-, mono-; det: a certain (specific)'
     spa: un (num; d) uno, 1(0^0)
   - text: ' '
   - text: te
@@ -49,12 +49,12 @@
     spa: no (m) no
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: denmo
-    eng: 'denmo (m) adv: as, to that degree, that'
-    spa: denmo (m) tan (para describir adjetivos y adverbios), as&iacute; de
+    eng: 'denmo (tabl: m) adv: as, to that degree, that'
+    spa: 'denmo (tabl: m) tan (para describir adjetivos y adverbios), as&iacute; de'
   - text: ' '
   - text: bur
     eng: 'bur (t) adj: bad, evil, negative; adv: badly, evilly, negatively'
@@ -73,16 +73,16 @@
     spa: kwasisen (f.lin) parecer
   - text: ': '
   - text: moywatu
-    eng: 'moywatu (m) adv: always'
-    spa: moywatu (m) siempre
+    eng: 'moywatu (tabl: m) adv: always'
+    spa: 'moywatu (tabl: m) siempre'
   - text: ' '
   - text: hay
     eng: 'hay (b.nenoj) v.intr: there is, there are'
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: bante
-    eng: 'bante (pn) pron: somebody, someone'
-    spa: bante (pn) alguien
+    eng: 'bante (tabl: pn) pron: somebody, someone'
+    spa: 'bante (tabl: pn) alguien'
   - text: ' '
   - text: in
     eng: 'in (p) prep: at (place), in (place), inside (of), within'
@@ -132,7 +132,7 @@
     spa: asif (b.oj; il) lamento; lamentar; lo siento, disculpe
   - text: ', '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: hay
@@ -140,7 +140,7 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: hata
-    eng: 'hata (m) adv: even'
+    eng: 'hata (m) adv: even (as in &quot;even more&quot; or &quot;even he&quot;)'
     spa: hata (m) hasta, aun, incluso
   - text: ' '
   - text: max
@@ -172,21 +172,22 @@
     spa: to (pn) &eacute;l (cosa), ella, elle, ello
   - text: ', '
   - text: he
-    eng: 'he (par) par: emphatic particle: any, ever, at all, the very, -self (pronouns)'
+    eng: 'he (par) par (emphatic, contrastive): any, ever, at all, the very, -self
+      (pronouns)'
     spa: he (par) y no otro (&eacute;nfasis contrastivo), y s&oacute;lo; justamente
       (part&iacute;cula enf&aacute;tica de correlativos), absolutamente, exactamente,
       cualquier
   - text: ' '
   - text: ban
-    eng: 'ban (d) det: some, certain'
-    spa: ban (d) un, cierto
+    eng: 'ban (tabl: d) det: some, certain'
+    spa: 'ban (tabl: d) un, cierto'
   - text: ' '
   - text: pedamarka
     eng: 'pedamarka (b) n: footprint'
     spa: pedamarka (b) huella
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: koberido
@@ -218,24 +219,24 @@
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: nilwatu
-    eng: 'nilwatu (m) adv: never'
-    spa: nilwatu (m) nunca
+    eng: 'nilwatu (tabl: m) adv: never'
+    spa: 'nilwatu (tabl: m) nunca'
   - text: ' '
   - text: oko
     eng: 'oko (b.oj) n: eye; v.tr: eye, see, look, watch, view'
     spa: oko (b.oj) ojo; ver, mirar
   - text: ' '
   - text: sim
-    eng: 'sim (t) adj: similar, alike, like; adv: similarly'
+    eng: 'sim (t) adj: similar, alike, like; adv: similarly, likewise'
     spa: sim (t) parecido, similar; similarmente
   - text: ' '
   - text: banto
-    eng: 'banto (pn) pron: something'
-    spa: banto (pn) algo
+    eng: 'banto (tabl: pn) pron: something'
+    spa: 'banto (tabl: pn) algo'
   - text: ', '
   - text: ji
     eng: 'ji (l) conj: and, as well as'
@@ -256,9 +257,9 @@
     spa: oko (b.oj) ojo; ver, mirar
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: damu
     eng: 'damu (b.oj.ru) n: blood; v.tr: bleed'
@@ -274,7 +275,7 @@
     spa: xoru (b.oro) comienzo, principio; comenzar, empezar; comenzar, empezar
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: awpawbu
@@ -286,7 +287,7 @@
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: dayloga
@@ -294,7 +295,7 @@
     spa: dayloga (b.oj) exclamaci&oacute;n; exclamar
   - text: ', "'
   - text: Am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: awpawbu
@@ -331,12 +332,12 @@
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: denloka
-    eng: 'denloka (m) adv: there'
-    spa: denloka (m) all&aacute;, all&iacute;, ah&iacute;
+    eng: 'denloka (tabl: m) adv: there'
+    spa: 'denloka (tabl: m) all&aacute;, all&iacute;, ah&iacute;'
   - text: ' '
   - text: moy
-    eng: 'moy (d) det: every, each, all'
-    spa: moy (d) cada, todo
+    eng: 'moy (tabl: d) det: every, each, all'
+    spa: 'moy (tabl: d) cada, todo'
   - text: ' '
   - text: planta
     eng: 'planta (b.oj) n: plant; v.tr: plant'
@@ -361,8 +362,8 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Denloka
-    eng: 'denloka (m) adv: there'
-    spa: denloka (m) all&aacute;, all&iacute;, ah&iacute;
+    eng: 'denloka (tabl: m) adv: there'
+    spa: 'denloka (tabl: m) all&aacute;, all&iacute;, ah&iacute;'
   - text: ', '
   - text: hay
     eng: 'hay (b.nenoj) v.intr: there is, there are'
@@ -393,7 +394,7 @@
     spa: haki (b.oj) derecho; tener derecho (a)
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: sencu
@@ -405,7 +406,7 @@
     spa: maxmo (m) m&aacute;s (para describir adjetivos y adverbios)
   - text: ' '
   - text: gao
-    eng: 'gao (t) adj: tall, high; adv: highly'
+    eng: 'gao (t) adj: tall, high; adv: highly, greatly'
     spa: gao (t) alto; altamente
   - text: ' '
   - text: kom
@@ -413,7 +414,7 @@
     spa: kom (l) que, como, en comparaci&oacute;n con
   - text: ' '
   - text: tiga
-    eng: 'tiga (num) num: three'
+    eng: 'tiga (num) num: three, tri-'
     spa: tiga (num) tres
   - text: ' '
   - text: metro
@@ -430,8 +431,8 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Ban
-    eng: 'ban (d) det: some, certain'
-    spa: ban (d) un, cierto
+    eng: 'ban (tabl: d) det: some, certain'
+    spa: 'ban (tabl: d) un, cierto'
   - text: ' '
   - text: din
     eng: 'din (b) n: day'
@@ -471,9 +472,9 @@
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: suki
     eng: 'suki (b.oj) n: like; v.tr: like'
@@ -481,7 +482,7 @@
       (de), amar, placer(le)
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: rasamu
@@ -628,7 +629,7 @@
     spa: de (p) de (perteneciente a)
   - text: ' '
   - text: gao
-    eng: 'gao (t) adj: tall, high; adv: highly'
+    eng: 'gao (t) adj: tall, high; adv: highly, greatly'
     spa: gao (t) alto; altamente
   - text: ' '
   - text: jabal
@@ -667,8 +668,8 @@
     spa: kastilo (b) castillo
   - text: ' '
   - text: hinloka
-    eng: 'hinloka (m) adv: here'
-    spa: hinloka (m) aqu&iacute;
+    eng: 'hinloka (tabl: m) adv: here'
+    spa: 'hinloka (tabl: m) aqu&iacute;'
   - text: ."
 - text: Hay jongu fe piu hu da multi suki blue xey.
   cite:
@@ -709,9 +710,9 @@
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: suki
     eng: 'suki (b.oj) n: like; v.tr: like'
@@ -740,8 +741,8 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: xosu
-    eng: 'xosu (t) adj: few, a little bit of; adv: a little (bit)'
-    spa: xosu (t) poco, pocos
+    eng: 'xosu (d; m) det: few, a bit of, a little bit of; adv: a bit, a little (bit)'
+    spa: xosu (d; m) poco, pocos
   - text: ' '
   - text: blue
     eng: 'blue (t) adj: blue'
@@ -760,9 +761,9 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: piu
     eng: 'piu (b) n: bird (Aves)'
@@ -798,8 +799,8 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: xosu
-    eng: 'xosu (t) adj: few, a little bit of; adv: a little (bit)'
-    spa: xosu (t) poco, pocos
+    eng: 'xosu (d; m) det: few, a bit of, a little bit of; adv: a bit, a little (bit)'
+    spa: xosu (d; m) poco, pocos
   - text: ' '
   - text: blue
     eng: 'blue (t) adj: blue'
@@ -818,9 +819,9 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: piu
     eng: 'piu (b) n: bird (Aves)'
@@ -856,9 +857,9 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: doyan
     eng: 'doyan (t) adj: diverse, various; adv: diversely, variously'
@@ -898,13 +899,13 @@
     spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
   - text: ' '
   - text: denloka
-    eng: 'denloka (m) adv: there'
-    spa: denloka (m) all&aacute;, all&iacute;, ah&iacute;
+    eng: 'denloka (tabl: m) adv: there'
+    spa: 'denloka (tabl: m) all&aacute;, all&iacute;, ah&iacute;'
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: meli
     eng: 'meli (t) adj: beautiful, pretty; adv: beautifully, prettily'
@@ -938,8 +939,8 @@
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
   - text: ' '
   - text: moy
-    eng: 'moy (d) det: every, each, all'
-    spa: moy (d) cada, todo
+    eng: 'moy (tabl: d) det: every, each, all'
+    spa: 'moy (tabl: d) cada, todo'
   - text: ' '
   - text: nyan
     eng: 'nyan (b) n: year'
@@ -950,7 +951,7 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: day
-    eng: 'day (t) adj: big, large, great, major; adv: bigly, greatly, majorly'
+    eng: 'day (t) adj: big, large, great, major; adv: greatly, majorly'
     spa: day (t) grande, mayor; muy, mucho
   - text: ' '
   - text: merasem
@@ -967,8 +968,8 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Denmaner
-    eng: 'denmaner (m) adv: like that, like so, by that manner, in that manner'
-    spa: denmaner (m) as&iacute;, de esa manera, de ese modo
+    eng: 'denmaner (tabl: m) adv: like that, like so, by that manner, in that manner'
+    spa: 'denmaner (tabl: m) as&iacute;, de esa manera, de ese modo'
   - text: ', '
   - text: max
     eng: 'max (d; m) det: more; adv: more'
@@ -979,7 +980,7 @@
     spa: haul (b) lobo, Canis lupus
   - text: ' '
   - text: xa
-    eng: 'xa (par) par: future tense marker: will, shall'
+    eng: 'xa (par) par (future tense marker): will, shall, going to'
     spa: xa (par) -&aacute; (marcador del tiempo futuro)
   - text: ' '
   - text: hay
@@ -1012,9 +1013,9 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: okurxey
     eng: 'okurxey (b) n: event, occurrence, incident'
@@ -1030,8 +1031,8 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Nilwatu
-    eng: 'nilwatu (m) adv: never'
-    spa: nilwatu (m) nunca
+    eng: 'nilwatu (tabl: m) adv: never'
+    spa: 'nilwatu (tabl: m) nunca'
   - text: ' '
   - text: hay
     eng: 'hay (b.nenoj) v.intr: there is, there are'
@@ -1051,16 +1052,16 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/hikaye-fal-vanege
   translations:
   - text: Nilwatu
-    eng: 'nilwatu (m) adv: never'
-    spa: nilwatu (m) nunca
+    eng: 'nilwatu (tabl: m) adv: never'
+    spa: 'nilwatu (tabl: m) nunca'
   - text: ' '
   - text: hay
     eng: 'hay (b.nenoj) v.intr: there is, there are'
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: hatari
-    eng: 'hatari (b.oro.jotay) n: danger; v.tr: make dangerous, cause to be dangerous;
-      v.intr: be dangerous'
+    eng: 'hatari (b.oro.jotay) n: danger; v.tr: make (something/somebody) dangerous,
+      cause (something/somebody) to be dangerous; v.intr: be dangerous'
     spa: hatari (b.oro.jotay) peligro; ser peligroso; volver peligroso
   - text: .
 - text: Ku keloka hay posasan tyojan ji ku kemaner te le yunki ji sukses.
@@ -1078,8 +1079,8 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: keloka
-    eng: 'keloka (m) adv: where'
-    spa: keloka (m) d&oacute;nde (interrogativo)
+    eng: 'keloka (tabl: m) adv (interrogative): where'
+    spa: 'keloka (tabl: m) d&oacute;nde (interrogativo)'
   - text: ' '
   - text: hay
     eng: 'hay (b.nenoj) v.intr: there is, there are'
@@ -1104,10 +1105,8 @@
       en oraciones declarativas), lo
   - text: ' '
   - text: kemaner
-    eng: |-
-      kemaner (m) adv: how, done by what manner, done in
-       what manner
-    spa: kemaner (m) c&oacute;mo (interrogativo), de qu&eacute; manera
+    eng: 'kemaner (tabl: m) adv (interrogative): how (done by what manner)'
+    spa: 'kemaner (tabl: m) c&oacute;mo (interrogativo), de qu&eacute; manera'
   - text: ' '
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
@@ -1116,12 +1115,12 @@
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yunki
-    eng: 'yunki (b.oro.jotay) n: courage; v.tr: make courageous, encourage; v.intr:
-      be courageous, have the courage (to, for), dare (to)'
+    eng: 'yunki (b.oro.jotay) n: courage; v.tr: make (somebody) courageous, encourage;
+      v.intr: be courageous, have the courage (to, for), dare (to)'
     spa: yunki (b.oro.jotay) valor; dar valor, alentar, motivar; atreverse, tener
       valor
   - text: ' '
@@ -1149,12 +1148,12 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: moyloka
-    eng: 'moyloka (m) adv: everywhere, throughout'
-    spa: moyloka (m) en todo lugar, en todos lados
+    eng: 'moyloka (tabl: m) adv: everywhere, throughout'
+    spa: 'moyloka (tabl: m) en todo lugar, en todos lados'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -1186,7 +1185,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: "no"
@@ -1219,7 +1218,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: "no"
@@ -1240,7 +1239,8 @@
       (una emoci&oacute;n)
   - text: ' '
   - text: tem
-    eng: 'tem (p) prep: about, on, regarding, with regard(s) to'
+    eng: 'tem (p) prep: about, on, concerning, regarding, with regard to, in regard
+      to'
     spa: tem (p) acerca de, con respecto a
   - text: ' '
   - text: to
@@ -1257,7 +1257,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: "no"
@@ -1282,7 +1282,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: hay
@@ -1290,11 +1290,11 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: nilto
-    eng: 'nilto (pn) pron: nothing, none of it'
-    spa: nilto (pn) nada
+    eng: 'nilto (tabl: pn) pron: nothing'
+    spa: 'nilto (tabl: pn) nada'
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: safegi
@@ -1311,8 +1311,8 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Denwatu
-    eng: 'denwatu (m) adv: then (at that time)'
-    spa: denwatu (m) en ese momento, entonces
+    eng: 'denwatu (tabl: m) adv: then (at that time/moment)'
+    spa: 'denwatu (tabl: m) en ese momento, entonces'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -1323,7 +1323,7 @@
     spa: satu (b) hora (unidad de tiempo), h
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: rinjon
@@ -1331,7 +1331,7 @@
     spa: rinjon (b.nenoj) timbre, campana; timbrar, sonar, doblar
   - text: ', '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: hay
@@ -1378,9 +1378,9 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: termo
     eng: 'termo (b.oro.jotay) n: heat; v.tr: heat (up), warm (up); v.intr: be warm,
@@ -1401,7 +1401,8 @@
     spa: per (p) sobre, encima de
   - text: ' '
   - text: total
-    eng: 'total (t) adj: entire, entirely, whole, all, quite (a), absolute, absolutely'
+    eng: 'total (t) adj: entire, whole, all, quite (a), absolute; adv: entirely, absolutely,
+      wholly'
     spa: total (t) entero, total, absoluto; enteramente, totalmente, absolutamente
   - text: ' '
   - text: Dunya
@@ -1413,7 +1414,7 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: un
-    eng: 'un (num; d) one; det: a certain (specific)'
+    eng: 'un (num; d) num: one, uni-, mono-; det: a certain (specific)'
     spa: un (num; d) uno, 1(0^0)
   - text: ' '
   - text: basa
@@ -1425,7 +1426,7 @@
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: un
-    eng: 'un (num; d) one; det: a certain (specific)'
+    eng: 'un (num; d) num: one, uni-, mono-; det: a certain (specific)'
     spa: un (num; d) uno, 1(0^0)
   - text: ' '
   - text: pala
@@ -1442,8 +1443,8 @@
       spa: https://doxo.globasa.net/spa/historili-doku/ruhologili-literatur
   translations:
   - text: Denloka
-    eng: 'denloka (m) adv: there'
-    spa: denloka (m) all&aacute;, all&iacute;, ah&iacute;
+    eng: 'denloka (tabl: m) adv: there'
+    spa: 'denloka (tabl: m) all&aacute;, all&iacute;, ah&iacute;'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -1462,7 +1463,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: plasi
@@ -1485,8 +1486,8 @@
       spa: https://doxo.globasa.net/spa/historili-doku/ruhologili-literatur
   translations:
   - text: Denloka
-    eng: 'denloka (m) adv: there'
-    spa: denloka (m) all&aacute;, all&iacute;, ah&iacute;
+    eng: 'denloka (tabl: m) adv: there'
+    spa: 'denloka (tabl: m) all&aacute;, all&iacute;, ah&iacute;'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -1505,7 +1506,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: plasi
@@ -1529,8 +1530,8 @@
       spa: https://doxo.globasa.net/spa/historili-doku/ruhologili-literatur
   translations:
   - text: Denloka
-    eng: 'denloka (m) adv: there'
-    spa: denloka (m) all&aacute;, all&iacute;, ah&iacute;
+    eng: 'denloka (tabl: m) adv: there'
+    spa: 'denloka (tabl: m) all&aacute;, all&iacute;, ah&iacute;'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -1549,7 +1550,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: plasi
@@ -1573,8 +1574,8 @@
       spa: https://doxo.globasa.net/spa/historili-doku/ruhologili-literatur
   translations:
   - text: Denloka
-    eng: 'denloka (m) adv: there'
-    spa: denloka (m) all&aacute;, all&iacute;, ah&iacute;
+    eng: 'denloka (tabl: m) adv: there'
+    spa: 'denloka (tabl: m) all&aacute;, all&iacute;, ah&iacute;'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -1595,7 +1596,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: plasi
@@ -1618,8 +1619,8 @@
       spa: https://doxo.globasa.net/spa/historili-doku/ruhologili-literatur
   translations:
   - text: Denloka
-    eng: 'denloka (m) adv: there'
-    spa: denloka (m) all&aacute;, all&iacute;, ah&iacute;
+    eng: 'denloka (tabl: m) adv: there'
+    spa: 'denloka (tabl: m) all&aacute;, all&iacute;, ah&iacute;'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -1638,7 +1639,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: plasi
@@ -1661,8 +1662,8 @@
       spa: https://doxo.globasa.net/spa/historili-doku/ruhologili-literatur
   translations:
   - text: Denloka
-    eng: 'denloka (m) adv: there'
-    spa: denloka (m) all&aacute;, all&iacute;, ah&iacute;
+    eng: 'denloka (tabl: m) adv: there'
+    spa: 'denloka (tabl: m) all&aacute;, all&iacute;, ah&iacute;'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -1679,7 +1680,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: plasi
@@ -1702,8 +1703,8 @@
       spa: https://doxo.globasa.net/spa/historili-doku/ruhologili-literatur
   translations:
   - text: Denloka
-    eng: 'denloka (m) adv: there'
-    spa: denloka (m) all&aacute;, all&iacute;, ah&iacute;
+    eng: 'denloka (tabl: m) adv: there'
+    spa: 'denloka (tabl: m) all&aacute;, all&iacute;, ah&iacute;'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -1720,7 +1721,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: plasi
@@ -1743,8 +1744,8 @@
       spa: https://doxo.globasa.net/spa/historili-doku/ruhologili-literatur
   translations:
   - text: Denloka
-    eng: 'denloka (m) adv: there'
-    spa: denloka (m) all&aacute;, all&iacute;, ah&iacute;
+    eng: 'denloka (tabl: m) adv: there'
+    spa: 'denloka (tabl: m) all&aacute;, all&iacute;, ah&iacute;'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -1763,7 +1764,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: plasi
@@ -1788,9 +1789,9 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: tipo
     eng: 'tipo (b) n: type, kind, sort, genus'
@@ -1821,11 +1822,11 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: sol
-    eng: 'sol (m) adv: only, merely, simply, just, a mere, but (poetic)'
+    eng: 'sol (m) adv: only, merely, a mere, simply, just, but (poetic)'
     spa: sol (m) solo, s&oacute;lo, solamente, simplemente, meramente
   - text: ' '
   - text: un
-    eng: 'un (num; d) one; det: a certain (specific)'
+    eng: 'un (num; d) num: one, uni-, mono-; det: a certain (specific)'
     spa: un (num; d) uno, 1(0^0)
   - text: ' '
   - text: tipo
@@ -1850,8 +1851,8 @@
     spa: in (p) en, dentro de
   - text: ' '
   - text: hin
-    eng: 'hin (d) det: this, these'
-    spa: hin (d) este, estos
+    eng: 'hin (tabl: d) det: this, these'
+    spa: 'hin (tabl: d) este, estos'
   - text: ' '
   - text: hosu
     eng: 'hosu (b) n: lake'

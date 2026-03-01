@@ -13,8 +13,8 @@
     spa: kriban (m) casi
   - text: ' '
   - text: moy
-    eng: 'moy (d) det: every, each, all'
-    spa: moy (d) cada, todo
+    eng: 'moy (tabl: d) det: every, each, all'
+    spa: 'moy (tabl: d) cada, todo'
   - text: ' '
   - text: solokrabe
     eng: 'solokrabe (b) n: hermit crab'
@@ -46,8 +46,8 @@
     spa: kriban (m) casi
   - text: ' '
   - text: moy
-    eng: 'moy (d) det: every, each, all'
-    spa: moy (d) cada, todo
+    eng: 'moy (tabl: d) det: every, each, all'
+    spa: 'moy (tabl: d) cada, todo'
   - text: ' '
   - text: piu
     eng: 'piu (b) n: bird (Aves)'
@@ -77,7 +77,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: precu
@@ -86,7 +86,7 @@
       presentarse, acudir
   - text: ' '
   - text: lefe
-    eng: 'lefe (p; lfik) prep: before (+ noun, -ing), ago; pfx: pre-, fore-'
+    eng: 'lefe (p; lfik) prep: before (+ noun), ago; pfx: pre-, fore-'
     spa: lefe (p; lfik) antes (de), hace
   - text: ' '
   - text: kriban
@@ -94,8 +94,8 @@
     spa: kriban (m) casi
   - text: ' '
   - text: moy
-    eng: 'moy (d) det: every, each, all'
-    spa: moy (d) cada, todo
+    eng: 'moy (tabl: d) det: every, each, all'
+    spa: 'moy (tabl: d) cada, todo'
   - text: ' '
   - text: bioyen
     eng: 'bioyen (b) n: life form, living organism, being'
@@ -113,16 +113,16 @@
   - text: S
   - text: ': "'
   - text: Dento
-    eng: 'dento (pn) pron (inanimate): that (one)'
-    spa: dento (pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello
+    eng: 'dento (tabl: pn) pron (inanimate): that (one)'
+    spa: 'dento (tabl: pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello'
   - text: ' '
   - text: kriban
     eng: 'kriban (m) adv: almost, nearly'
     spa: kriban (m) casi
   - text: ' '
   - text: nilwatu
-    eng: 'nilwatu (m) adv: never'
-    spa: nilwatu (m) nunca
+    eng: 'nilwatu (tabl: m) adv: never'
+    spa: 'nilwatu (tabl: m) nunca'
   - text: ' '
   - text: okur
     eng: 'okur (b.nenoj) n: occurrence, occasion; v.intr: happen, occur, take place'
@@ -145,12 +145,13 @@
     spa: yozay (b.oro.jotay) culpa; ser culpable; culpar
   - text: ' '
   - text: tem
-    eng: 'tem (p) prep: about, on, regarding, with regard(s) to'
+    eng: 'tem (p) prep: about, on, concerning, regarding, with regard to, in regard
+      to'
     spa: tem (p) acerca de, con respecto a
   - text: ' '
   - text: dento
-    eng: 'dento (pn) pron (inanimate): that (one)'
-    spa: dento (pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello
+    eng: 'dento (tabl: pn) pron (inanimate): that (one)'
+    spa: 'dento (tabl: pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello'
   - text: ."
 - text: Jaxali, mi le tabasum kweho, fe na jixi ki fale kriban sen finido.
   cite:
@@ -162,7 +163,7 @@
       spa: https://doxo.globasa.net/spa/lilhikaye/siri-logane-tutum
   translations:
   - text: Jaxali
-    eng: 'jaxali (t) adj: next, (the) following, (and) then'
+    eng: 'jaxali (t) adj: next, (the) following; adv: then'
     spa: jaxali (t) siguente, pr&oacute;ximo; a continuaci&oacute;n
   - text: ', '
   - text: mi
@@ -170,7 +171,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: tabasum
@@ -178,7 +179,7 @@
     spa: tabasum (b.oj.ru) sonrisa; sonre&iacute;r
   - text: ' '
   - text: kweho
-    eng: 'kweho (t) adj: merry, cheerful; adv: merrilly, cheerfully'
+    eng: 'kweho (t) adj: merry, cheerful; adv: merrily, cheerfully'
     spa: kweho (t) alegre, jovial; alegremente, jovialmente
   - text: ', '
   - text: fe
@@ -191,7 +192,7 @@
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: jixi
@@ -203,7 +204,7 @@
     spa: ki (l) que
   - text: ' '
   - text: fale
-    eng: 'fale (b.oj) n: deed, act; v.tr: do, does, make, perform'
+    eng: 'fale (b.oj) n: deed, act; v.tr: do, make, perform'
     spa: fale (b.oj) hecho, acto; hacer
   - text: ' '
   - text: kriban
@@ -211,7 +212,7 @@
     spa: kriban (m) casi
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: finido

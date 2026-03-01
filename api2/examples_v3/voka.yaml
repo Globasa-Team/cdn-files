@@ -14,7 +14,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: yakin
@@ -34,7 +34,7 @@
     spa: voka (b.oj) voz; llamar
   - text: ' '
   - text: xankakal
-    eng: 'xankakal (t) adj: doubtless, undoubtedly, definitely'
+    eng: 'xankakal (t) adj: doubtless; adv: doubtlessly, undoubtedly, definitely'
     spa: xankakal (t) indudable, indubitable, evidente; indudablemente, sin duda,
       definitivamente, evidentemente
   - text: ' '
@@ -43,8 +43,8 @@
     spa: ultrapasa (b.oj) superar
   - text: ' '
   - text: dento
-    eng: 'dento (pn) pron (inanimate): that (one)'
-    spa: dento (pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello
+    eng: 'dento (tabl: pn) pron (inanimate): that (one)'
+    spa: 'dento (tabl: pn) ese (cosa), &eacute;se, eso, aquel, aqu&eacute;l, aquello'
   - text: ' '
   - text: de
     eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
@@ -55,16 +55,16 @@
     spa: plu (t) m&uacute;ltiples
   - text: ' '
   - text: alo
-    eng: 'alo (d) det: other, another, a different'
-    spa: alo (d) otro, diferente
+    eng: 'alo (tabl: d) det: other, another, a different'
+    spa: 'alo (tabl: d) otro, diferente'
   - text: ' '
   - text: piu
     eng: 'piu (b) n: bird (Aves)'
     spa: piu (b) p&aacute;jaro, ave, Aves
   - text: ', '
   - text: sama
-    eng: 'sama (d) det: same'
-    spa: sama (d) mismo, homo-
+    eng: 'sama (tabl: d) det: same'
+    spa: 'sama (tabl: d) mismo, homo-'
   - text: ' '
   - text: kom
     eng: 'kom (l) conj: as (comparable to), than (as compared with)'
@@ -139,16 +139,16 @@
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
   - text: ' '
   - text: moy
-    eng: 'moy (d) det: every, each, all'
-    spa: moy (d) cada, todo
+    eng: 'moy (tabl: d) det: every, each, all'
+    spa: 'moy (tabl: d) cada, todo'
   - text: ' '
   - text: soba
     eng: 'soba (b) n: morning'
     spa: soba (b) ma&ntilde;ana (hora del d&iacute;a)
   - text: ', '
   - text: denwatu
-    eng: 'denwatu (m) adv: then (at that time)'
-    spa: denwatu (m) en ese momento, entonces
+    eng: 'denwatu (tabl: m) adv: then (at that time/moment)'
+    spa: 'denwatu (tabl: m) en ese momento, entonces'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -157,7 +157,7 @@
   - text: dinlumin
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: ata
@@ -169,7 +169,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: sexinloypul
@@ -193,7 +193,7 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: yunkipul
@@ -216,11 +216,11 @@
       elle
   - text: ', '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: kweho
-    eng: 'kweho (t) adj: merry, cheerful; adv: merrilly, cheerfully'
+    eng: 'kweho (t) adj: merry, cheerful; adv: merrily, cheerfully'
     spa: kweho (t) alegre, jovial; alegremente, jovialmente
   - text: ' '
   - text: voka
@@ -240,7 +240,7 @@
     spa: ji (l) y, e, et, &amp;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: swal
@@ -261,12 +261,13 @@
     spa: noce (b) noche
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: kepul
-    eng: 'kepul (t) adj: like what, how, in what way; adv: how, in what way'
-    spa: kepul (t) c&oacute;mo (interrogativo), qu&eacute; tipo de
+    eng: 'kepul (tabl: t) adj (interrogative): what kind of, like what; adv (interrogative):
+      how, (in) what manner, (in) what way'
+    spa: 'kepul (tabl: t) c&oacute;mo (interrogativo), qu&eacute; tipo de'
   - text: .
 - text: Avayar voka te, ji te peti of te na cudu bannumer fruta.
   cite:
@@ -314,7 +315,7 @@
       elle
   - text: ' '
   - text: na
-    eng: 'na (par) par: infinitive marker: to'
+    eng: 'na (par) par (infinitive marker): to'
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: cudu
@@ -324,9 +325,10 @@
       conseguimiento, ganancia; obtener, adquirir, tomar, conseguir, ganar
   - text: ' '
   - text: bannumer
-    eng: 'bannumer (d) det: some number (of), a certain number (of), some, several,
+    eng: 'bannumer (tabl: d) det: some number (of), a certain number (of), some, several,
       various, (a) few'
-    spa: bannumer (d) alg&uacute;n n&uacute;mero (de), algunos, varios, unos cuantos
+    spa: 'bannumer (tabl: d) alg&uacute;n n&uacute;mero (de), algunos, varios, unos
+      cuantos'
   - text: ' '
   - text: fruta
     eng: 'fruta (b) n: fruit'

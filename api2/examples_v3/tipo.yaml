@@ -10,11 +10,11 @@
       spa: https://doxo.globasa.net/spa/historili-doku/globatotal-deklaradoku-tem-insanli-haki
   translations:
   - text: Nilte
-    eng: 'nilte (pn) pron: nobody, no one'
-    spa: nilte (pn) nadie
+    eng: 'nilte (tabl: pn) pron: nobody, no one'
+    spa: 'nilte (tabl: pn) nadie'
   - text: ' '
   - text: am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: bewoju
@@ -50,7 +50,7 @@
     spa: xogyo (b.oj) comercio; comerciar
   - text: ' '
   - text: am
-    eng: 'am (par) par: imperative verb marker: (do)'
+    eng: 'am (par) par (imperative verb marker): (do)'
     spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
   - text: ' '
   - text: beposizin
@@ -65,11 +65,11 @@
       objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
   - text: ' '
   - text: moy
-    eng: 'moy (d) det: every, each, all'
-    spa: moy (d) cada, todo
+    eng: 'moy (tabl: d) det: every, each, all'
+    spa: 'moy (tabl: d) cada, todo'
   - text: ' '
   - text: sesu
-    eng: 'sesu (su s) poss adj: her own, his own, one&#039;s own'
+    eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
     spa: sesu (su s) su (de uno mismo)
   - text: ' '
   - text: tipo
@@ -88,9 +88,9 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: tipo
     eng: 'tipo (b) n: type, kind, sort, genus'
@@ -127,17 +127,17 @@
     spa: okocu (b.lin) apariencia, aspecto, look; verse
   - text: ' '
   - text: denpul
-    eng: 'denpul (t) adj: like that, like so, (in) that way, thus, such; adv: like
-      that, thus, that way'
-    spa: denpul (t) tal, as&iacute;, (de) ese tipo (de)
+    eng: 'denpul (tabl: t) adj: that kind of, such (a); adv: like that, thus, (in)
+      that way'
+    spa: 'denpul (tabl: t) tal, as&iacute;, (de) ese tipo (de)'
   - text: ' '
   - text: kom
     eng: 'kom (l) conj: as (comparable to), than (as compared with)'
     spa: kom (l) que, como, en comparaci&oacute;n con
   - text: ' '
   - text: sama
-    eng: 'sama (d) det: same'
-    spa: sama (d) mismo, homo-
+    eng: 'sama (tabl: d) det: same'
+    spa: 'sama (tabl: d) mismo, homo-'
   - text: ' '
   - text: tipo
     eng: 'tipo (b) n: type, kind, sort, genus'
@@ -170,12 +170,12 @@
       elle
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: alo
-    eng: 'alo (d) det: other, another, a different'
-    spa: alo (d) otro, diferente
+    eng: 'alo (tabl: d) det: other, another, a different'
+    spa: 'alo (tabl: d) otro, diferente'
   - text: ' '
   - text: tipo
     eng: 'tipo (b) n: type, kind, sort, genus'
@@ -199,7 +199,7 @@
     spa: okocu (b.lin) apariencia, aspecto, look; verse
   - text: ' '
   - text: sim
-    eng: 'sim (t) adj: similar, alike, like; adv: similarly'
+    eng: 'sim (t) adj: similar, alike, like; adv: similarly, likewise'
     spa: sim (t) parecido, similar; similarmente
   - text: ' '
   - text: kom
@@ -207,8 +207,8 @@
     spa: kom (l) que, como, en comparaci&oacute;n con
   - text: ' '
   - text: sama
-    eng: 'sama (d) det: same'
-    spa: sama (d) mismo, homo-
+    eng: 'sama (tabl: d) det: same'
+    spa: 'sama (tabl: d) mismo, homo-'
   - text: ' '
   - text: tipo
     eng: 'tipo (b) n: type, kind, sort, genus'
@@ -239,11 +239,11 @@
     spa: hay (b.nenoj) presencia, disponibilidad; haber
   - text: ' '
   - text: sol
-    eng: 'sol (m) adv: only, merely, simply, just, a mere, but (poetic)'
+    eng: 'sol (m) adv: only, merely, a mere, simply, just, but (poetic)'
     spa: sol (m) solo, s&oacute;lo, solamente, simplemente, meramente
   - text: ' '
   - text: un
-    eng: 'un (num; d) one; det: a certain (specific)'
+    eng: 'un (num; d) num: one, uni-, mono-; det: a certain (specific)'
     spa: un (num; d) uno, 1(0^0)
   - text: ' '
   - text: tipo
@@ -268,8 +268,8 @@
     spa: in (p) en, dentro de
   - text: ' '
   - text: hin
-    eng: 'hin (d) det: this, these'
-    spa: hin (d) este, estos
+    eng: 'hin (tabl: d) det: this, these'
+    spa: 'hin (tabl: d) este, estos'
   - text: ' '
   - text: hosu
     eng: 'hosu (b) n: lake'

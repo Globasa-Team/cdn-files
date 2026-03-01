@@ -9,7 +9,7 @@
       spa: 'Doxo: Fabula fal Esopo'
   translations:
   - text: Dua
-    eng: 'dua (num) num: two, bi-'
+    eng: 'dua (num) num: two, bi-, di-'
     spa: dua (num) dos
   - text: ' '
   - text: insan
@@ -17,7 +17,7 @@
     spa: insan (b) (ser) humano, Homo
   - text: ' '
   - text: tongo
-    eng: 'tongo (t) adj: together, along; adv: together, along'
+    eng: 'tongo (t) adj: together; adv: together, along'
     spa: tongo (t) juntos, en conjunto
   - text: ' '
   - text: dao
@@ -34,8 +34,8 @@
     spa: drevogeo (b) bosque, arboleda, floresta
   - text: ' '
   - text: denwatu
-    eng: 'denwatu (m) adv: then (at that time)'
-    spa: denwatu (m) en ese momento, entonces
+    eng: 'denwatu (tabl: m) adv: then (at that time/moment)'
+    spa: 'denwatu (tabl: m) en ese momento, entonces'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -158,8 +158,8 @@
     spa: mas (l) pero, mas
   - text: ' '
   - text: kete
-    eng: 'kete (pn) pron (interrogative, animate): who, which (one)'
-    spa: kete (pn) qui&eacute;n (interrogativo)
+    eng: 'kete (tabl: pn) pron (interrogative, animate): who, which (one)'
+    spa: 'kete (tabl: pn) qui&eacute;n (interrogativo)'
   - text: ' '
   - text: of
     eng: 'of (p) prep: off (of), (out) of, from'
@@ -170,7 +170,7 @@
     spa: uyu (pn) ustedes, vosotros
   - text: ' '
   - text: sen
-    eng: 'sen (b.lin) n: being (existence); v.cop: be, am, is, are'
+    eng: 'sen (b.lin) n: being (existence); v.cop: be'
     spa: sen (b.lin) ser; ser, estar
   - text: ' '
   - text: maxmo
@@ -217,9 +217,9 @@
     spa: remora (b) r&eacute;mora, Echeneidae
   - text: ' '
   - text: multi
-    eng: 'multi (t) adj: many, a lot of, lots of, a great deal of; adv: much, a lot,
-      a great deal'
-    spa: multi (t) mucho, muchos, un mont&oacute;n (de)
+    eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
+      lot, a great deal'
+    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
   - text: ' '
   - text: pospel
     eng: 'pospel (b.oj) n: pull; v.tr: pull'
@@ -240,13 +240,13 @@
     spa: mi (pn) yo, me, m&iacute;
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: bankwanti
-    eng: 'bankwanti (d) det: some, some amount (of), some quantity (of), a bit (of);
-      some, somewhat, to some extent, a bit'
-    spa: bankwanti (d) alguna cantidad de, algo de
+    eng: 'bankwanti (tabl: d; m) det: some, some amount (of), some quantity (of),
+      a bit (of); adv: some, somewhat, to some extent, a bit'
+    spa: 'bankwanti (tabl: d; m) alguna cantidad de, algo de'
   - text: ' '
   - text: lilhaha
     eng: 'lilhaha (b.oj.ru) n: giggle; v.tr: giggle'
@@ -257,8 +257,8 @@
     spa: kos (p) por, debido a, a causa de
   - text: ' '
   - text: den
-    eng: 'den (d) det: that, those'
-    spa: den (d) ese, aquel
+    eng: 'den (tabl: d) det: that, those'
+    spa: 'den (tabl: d) ese, aquel'
   - text: ' '
   - text: idey
     eng: 'idey (b) n: idea'
@@ -275,7 +275,7 @@
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: ible
@@ -302,7 +302,7 @@
       elle
   - text: ' '
   - text: le
-    eng: 'le (par) par: past tense marker: -ed, did'
+    eng: 'le (par) par (past tense marker): -ed, did'
     spa: le (par) marcador del tiempo pasado
   - text: ' '
   - text: abruto
@@ -319,7 +319,7 @@
     spa: per (p) sobre, encima de
   - text: ' '
   - text: sesu
-    eng: 'sesu (su s) poss adj: her own, his own, one&#039;s own'
+    eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
     spa: sesu (su s) su (de uno mismo)
   - text: ' '
   - text: bistar
