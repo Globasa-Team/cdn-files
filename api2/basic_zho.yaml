@@ -4,6 +4,16 @@
   class: b xfik
   category: affix
   translation: ""
+-bon:
+  term: -bon
+  class: t xfik
+  category: affix
+  translation: ""
+-bur:
+  term: -bur
+  class: t xfik
+  category: affix
+  translation: ""
 -cu:
   term: -cu
   class: b.nenoj xfik
@@ -328,7 +338,7 @@ adasi:
   term: adasi
   class: b
   category: root
-  translation: ""
+  translation: 小扁豆, 扁豆
 adasisupa:
   term: adasisupa
   class: b
@@ -551,13 +561,13 @@ afgani:
   translation: 阿富汗
 afganili:
   term: Afganili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 afganiyen:
   term: Afganiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 afrika:
   term: Afrika
@@ -566,8 +576,8 @@ afrika:
   translation: 非洲
 afrikali:
   term: Afrikali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 afrikanse:
   term: Afrikanse
@@ -576,18 +586,18 @@ afrikanse:
   translation: ""
 afrikansesa:
   term: Afrikansesa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 afrikanseyen:
   term: Afrikanseyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 afrikayen:
   term: Afrikayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 afsane:
   term: afsane
@@ -716,8 +726,8 @@ akile:
   translation: 阿基里斯
 akileli:
   term: Akileli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 阿喀琉斯式的
 akiletendon:
   term: akiletendon
@@ -1228,7 +1238,7 @@ alucinagiente:
   term: alucinagiente
   class: b
   category: derived
-  translation: ""
+  translation: 致幻剂, 迷幻剂
 alucinagine:
   term: alucinagine
   class: t
@@ -1251,18 +1261,18 @@ amara:
   translation: 阿姆哈拉
 amarali:
   term: Amarali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 amarasa:
   term: Amarasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 amarayen:
   term: Amarayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 amaro:
   term: amaro
@@ -1331,13 +1341,13 @@ amerika:
   translation: 美洲, 亚美利加(洲)
 amerikali:
   term: Amerikali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 amerikayen:
   term: Amerikayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 amerikyum:
   term: amerikyum
@@ -1346,13 +1356,13 @@ amerikyum:
   translation: 镅
 amerindi:
   term: Amerindi
-  class: t
+  class: su t
   category: proper word
   translation: 印第安, 印地安
 amerindiyen:
   term: Amerindiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ametisto:
   term: ametisto
@@ -1388,7 +1398,7 @@ amino:
   term: amino
   class: b
   category: root
-  translation: ""
+  translation: 胺
 amiru:
   term: amiru
   class: b.oj
@@ -1643,13 +1653,13 @@ angola:
   translation: 安哥拉
 angolali:
   term: Angolali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 angolayen:
   term: Angolayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 anima:
   term: anima
@@ -1943,18 +1953,18 @@ arabi:
   translation: 阿拉伯
 arabili:
   term: Arabili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 arabisa:
   term: Arabisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 arabiyen:
   term: Arabiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 arafura:
   term: Arafura
@@ -1968,8 +1978,8 @@ aram:
   translation: 亚兰
 aramsa:
   term: Aramsa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 阿拉姆语, 亚兰文
 arcivo:
   term: arcivo
@@ -2013,13 +2023,13 @@ argentina:
   translation: 阿根廷
 argentinali:
   term: Argentinali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 argentinayen:
   term: Argentinayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 argon:
   term: argon
@@ -2290,13 +2300,13 @@ asia:
   translation: 亚洲
 asiali:
   term: Asiali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 asiayen:
   term: Asiayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 asif:
   term: asif
@@ -2830,13 +2840,13 @@ awstralia:
   translation: 澳大利亚洲, 澳洲
 awstralili:
   term: Awstralili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 澳大利亚的
 awstraliyen:
   term: Awstraliyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 awtenti:
   term: awtenti
@@ -3075,18 +3085,18 @@ azerbayjan:
   translation: 阿塞拜疆
 azerbayjanli:
   term: Azerbayjanli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 azerbayjansa:
   term: Azerbayjansa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 azerbayjanyen:
   term: Azerbayjanyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 azizu:
   term: azizu
@@ -3180,8 +3190,8 @@ bahama:
   translation: 巴哈马
 bahamayen:
   term: Bahamayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 bahari:
   term: bahari
@@ -3190,28 +3200,28 @@ bahari:
   translation: ""
 bahari_antartiko:
   term: Bahari Antartiko
-  class: b
-  category: phrase
+  class: su n
+  category: proper word
   translation: ""
 bahari_artiko:
   term: Bahari Artiko
-  class: b
-  category: phrase
+  class: su n
+  category: proper word
   translation: ""
 bahari_atlantiko:
   term: Bahari Atlantiko
-  class: b
-  category: phrase
+  class: su n
+  category: proper word
   translation: ""
 bahari_hindiko:
   term: Bahari Hindiko
-  class: b
-  category: phrase
+  class: su n
+  category: proper word
   translation: ""
 bahari_pacifiko:
   term: Bahari Pacifiko
-  class: b
-  category: phrase
+  class: su n
+  category: proper word
   translation: ""
 bahariestare:
   term: bahariestare
@@ -3250,7 +3260,7 @@ bahariyen:
   translation: ""
 bahayi:
   term: Bahayi
-  class: t
+  class: su t
   category: proper word
   translation: 巴哈伊
 bahrayn:
@@ -3260,8 +3270,8 @@ bahrayn:
   translation: 巴林
 bahraynyen:
   term: Bahraynyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 baji:
   term: baji
@@ -3461,22 +3471,22 @@ bangla:
 bangladexa:
   term: Bangladexa
   class: su n
-  category: derived
+  category: proper word
   translation: 孟加拉國
 banglali:
   term: Banglali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 banglasa:
   term: Banglasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 banglayen:
   term: Banglayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 bangura:
   term: bangura
@@ -3600,7 +3610,7 @@ banyotwala:
   translation: ""
 bao:
   term: bao
-  class: b
+  class: b.oj
   category: root
   translation: ""
 baobabu:
@@ -3630,13 +3640,13 @@ barati:
   translation: 印度
 baratili:
   term: Baratili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 baratiyen:
   term: Baratiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 barbado:
   term: Barbado
@@ -3645,8 +3655,8 @@ barbado:
   translation: 巴巴多斯
 barbadoyen:
   term: Barbadoyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 barbara:
   term: Barbara
@@ -4265,8 +4275,8 @@ belarus:
   translation: 白俄罗斯, 白罗斯, 白俄国
 belarussa:
   term: Belarussa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 belaw:
   term: Belaw
@@ -4280,13 +4290,13 @@ belgi:
   translation: 比利时
 belgili:
   term: Belgili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 比利时的
 belgiyen:
   term: Belgiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 belinshawsen:
   term: Belinshawsen
@@ -4300,8 +4310,8 @@ belize:
   translation: 伯利兹
 belizeyen:
   term: Belizeyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 belo:
   term: belo
@@ -4395,8 +4405,8 @@ benin:
   translation: 贝宁
 beninyen:
   term: Beninyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 benji:
   term: benji
@@ -5130,13 +5140,13 @@ boron:
   translation: 硼
 borosa:
   term: Borosa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 boroyen:
   term: Boroyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 borsuke:
   term: borsuke
@@ -5315,13 +5325,13 @@ brazil:
   translation: 巴西
 brazilli:
   term: Brazilli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 brazilyen:
   term: Brazilyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 brendan:
   term: Brendan
@@ -5360,13 +5370,13 @@ briti:
   translation: 英国, 联合王国, 不列颠
 britili:
   term: Britili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 britiyen:
   term: Britiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 broda:
   term: broda
@@ -5445,13 +5455,13 @@ buda:
   translation: 佛陀
 budaismo:
   term: Budaismo
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 佛教
 budaista:
   term: Budaista
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 佛教徒
 budu:
   term: Budu
@@ -5570,13 +5580,13 @@ bulgari:
   translation: 保加利亚
 bulgarisa:
   term: Bulgarisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 bulgariyen:
   term: Bulgariyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 bulyon:
   term: bulyon
@@ -5960,13 +5970,13 @@ cadi:
   translation: 乍得
 cadili:
   term: Cadili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 cadiyen:
   term: Cadiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 cakal:
   term: cakal
@@ -6485,18 +6495,18 @@ cernagora:
   translation: 黑山, 蒙特內哥羅
 cernagorali:
   term: Cernagorali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 cernagorasa:
   term: Cernagorasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 cernagorayen:
   term: Cernagorayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ceryum:
   term: ceryum
@@ -6515,18 +6525,18 @@ ceski:
   translation: 捷克共和国, 捷克
 ceskili:
   term: Ceskili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 ceskisa:
   term: Ceskisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ceskiyen:
   term: Ceskiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 cesyum:
   term: cesyum
@@ -6600,13 +6610,13 @@ cile:
   translation: 智利
 cileli:
   term: Cileli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 cileyen:
   term: Cileyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 cilindro:
   term: cilindro
@@ -7040,13 +7050,13 @@ cungwodama:
   translation: (中国)跳棋
 cungwoli:
   term: Cungwoli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 中国的
 cungwoyen:
   term: Cungwoyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 中国人
 curuko:
   term: curuko
@@ -7145,8 +7155,8 @@ dabihu:
   translation: 牺牲
 dabihudin:
   term: Dabihudin
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 宰牲节, 古尔邦节
 dabihudo:
   term: dabihudo
@@ -7345,13 +7355,13 @@ dani:
   translation: 丹麦
 danisa:
   term: Danisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 丹麦语
 daniyen:
   term: Daniyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 丹麦人
 danju:
   term: danju
@@ -7425,13 +7435,13 @@ daodo:
   translation: ""
 daoismo:
   term: daoismo
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 道教
 daoista:
   term: daoista
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 daone:
   term: daone
@@ -7690,8 +7700,8 @@ daybon:
   translation: ""
 daybriti:
   term: Daybriti
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 daybur:
   term: daybur
@@ -8185,8 +8195,8 @@ dekart:
   translation: 笛卡儿
 dekartli:
   term: Dekartli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 笛卡儿的
 deki:
   term: deki
@@ -8940,7 +8950,7 @@ disprosyum:
   translation: 鏑
 dissolusi:
   term: dissolusi
-  class: b.oj
+  class: b.oro
   category: derived
   translation: ""
 distrito:
@@ -8975,8 +8985,8 @@ divehi:
   translation: 马尔代夫
 divehisa:
   term: Divehisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 dixan:
   term: dixan
@@ -9040,13 +9050,13 @@ dogra:
   translation: 多格拉
 dograsa:
   term: Dograsa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 dograyen:
   term: Dograyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 doki:
   term: doki
@@ -9355,18 +9365,18 @@ doyci:
   translation: 德国
 doycili:
   term: Doycili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 doycisa:
   term: Doycisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 doyciyen:
   term: Doyciyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 doyday:
   term: doyday
@@ -9440,18 +9450,18 @@ druki:
   translation: 不丹
 drukili:
   term: Drukili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 drukisa:
   term: Drukisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 drukiyen:
   term: Drukiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 drumu:
   term: drumu
@@ -9840,8 +9850,8 @@ dunya:
   translation: 地球
 dunyayen:
   term: Dunyayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 地球人
 duofcori:
   term: duofcori
@@ -10305,13 +10315,13 @@ ekwador:
   translation: 厄瓜多尔
 ekwadorli:
   term: Ekwadorli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 ekwadoryen:
   term: Ekwadoryen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ekwatora:
   term: ekwatora
@@ -10385,7 +10395,7 @@ eletrili:
   translation: ""
 eletrixoku:
   term: eletrixoku
-  class: b.oj
+  class: b.oro
   category: derived
   translation: ""
 eletron:
@@ -10430,18 +10440,18 @@ elini:
   translation: 希腊
 elinili:
   term: Elinili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 elinisa:
   term: Elinisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 eliniyen:
   term: Eliniyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 elipse:
   term: elipse
@@ -10570,18 +10580,18 @@ englikorno:
   translation: 英国管
 englili:
   term: Englili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 englisa:
   term: Englisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 engliyen:
   term: Engliyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 engyan:
   term: engyan
@@ -11005,18 +11015,18 @@ eslovaki:
   translation: 斯洛伐克
 eslovakili:
   term: Eslovakili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 eslovakisa:
   term: Eslovakisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 eslovakiyen:
   term: Eslovakiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 esloveni:
   term: Esloveni
@@ -11025,23 +11035,23 @@ esloveni:
   translation: 斯洛文尼亚
 eslovenili:
   term: Eslovenili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 eslovenisa:
   term: Eslovenisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 esloveniyen:
   term: Esloveniyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 eslovi:
   term: eslovi
-  class: t
-  category: root
+  class: su t
+  category: proper word
   translation: 斯拉夫
 esnobi:
   term: esnobi
@@ -11070,18 +11080,18 @@ espani:
   translation: 西班牙
 espanili:
   term: Espanili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 espanisa:
   term: Espanisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 espaniyen:
   term: Espaniyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 esparago:
   term: esparago
@@ -11200,13 +11210,13 @@ esrilanka:
   translation: 斯里兰卡
 esrilankali:
   term: Esrilankali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 esrilankayen:
   term: Esrilankayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 establi:
   term: establi
@@ -11380,13 +11390,13 @@ estimulapul:
   translation: ""
 estisa:
   term: Estisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 estiyen:
   term: Estiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 esto:
   term: esto
@@ -11408,15 +11418,15 @@ estodo:
   class: t
   category: derived
   translation: ""
+estodom:
+  term: estodom
+  class: b
+  category: derived
+  translation: ""
 estoka:
   term: estoka
   class: b.oj
   category: root
-  translation: ""
-estoloka:
-  term: estoloka
-  class: b
-  category: derived
   translation: ""
 estomotsufono:
   term: estomotsufono
@@ -11675,8 +11685,8 @@ ewklide:
   translation: 欧几里得
 ewklideli:
   term: Ewklideli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 欧几里得的
 ewnike:
   term: Ewnike
@@ -11700,13 +11710,13 @@ ewropa:
   translation: 欧洲
 ewropali:
   term: Ewropali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 欧洲的
 ewropayen:
   term: Ewropayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ewropyum:
   term: ewropyum
@@ -11716,22 +11726,22 @@ ewropyum:
 ewskal:
   term: Ewskal
   class: su n
-  category: root
+  category: proper word
   translation: 巴斯克地区
 ewskalli:
   term: Ewskalli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 巴斯克
 ewskalsa:
   term: Ewskalsa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ewskalyen:
   term: Ewskalyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ex:
   term: ex
@@ -11840,13 +11850,13 @@ exkiperi:
   translation: 阿尔巴尼亚
 exkiperisa:
   term: Exkiperisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 exkiperiyen:
   term: Exkiperiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 exkludi:
   term: exkludi
@@ -11970,13 +11980,13 @@ eyre:
   translation: 爱尔兰
 eyresa:
   term: Eyresa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 eyreyen:
   term: Eyreyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ezra:
   term: Ezra
@@ -12583,6 +12593,16 @@ fe_jadin:
   class: p jm
   category: phrase
   translation: ""
+fe_jaledin:
+  term: (fe) jaledin
+  class: p jm
+  category: phrase
+  translation: ""
+fe_jaxadin:
+  term: (fe) jaxadin
+  class: p jm
+  category: phrase
+  translation: ""
 fe_jaya:
   term: fe jaya
   class: p jm
@@ -12715,6 +12735,11 @@ fe_ner_xaya:
   translation: ""
 fe_nerleli_watu:
   term: fe nerleli watu
+  class: p jm
+  category: phrase
+  translation: ""
+fe_nundin:
+  term: (fe) nundin
   class: p jm
   category: phrase
   translation: ""
@@ -13235,18 +13260,18 @@ fiji:
   translation: 斐济
 fijili:
   term: Fijili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 fijisa:
   term: Fijisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 fijiyen:
   term: Fijiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 fikir:
   term: fikir
@@ -13377,6 +13402,11 @@ finfe:
   term: finfe
   class: p
   category: derived
+  translation: ""
+finfe_ki:
+  term: finfe ki
+  class: l
+  category: phrase
   translation: ""
 finfe_nunya:
   term: finfe nunya
@@ -13893,14 +13923,14 @@ fori_lefe:
   class: p jm
   category: phrase
   translation: ""
+fori_lefe_ki:
+  term: fori lefe ki
+  class: l
+  category: phrase
+  translation: ""
 fori_lefe_na:
   term: fori lefe na
   class: p jm
-  category: phrase
-  translation: ""
-fori_leki:
-  term: fori leki
-  class: l
   category: phrase
   translation: ""
 fori_xafe:
@@ -13908,14 +13938,14 @@ fori_xafe:
   class: p jm
   category: phrase
   translation: ""
+fori_xafe_ki:
+  term: fori xafe ki
+  class: l
+  category: phrase
+  translation: ""
 fori_xafe_na:
   term: fori xafe na
   class: p jm
-  category: phrase
-  translation: ""
-fori_xaki:
-  term: fori xaki
-  class: l
   category: phrase
   translation: ""
 forke:
@@ -14020,18 +14050,18 @@ franse:
   translation: 法国
 franseli:
   term: Franseli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 fransesa:
   term: Fransesa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 franseyen:
   term: Franseyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 fransyum:
   term: fransyum
@@ -14570,13 +14600,13 @@ gana:
   translation: 加纳
 ganali:
   term: Ganali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 ganayen:
   term: Ganayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 gancaw:
   term: gancaw
@@ -15265,8 +15295,8 @@ globali:
   translation: ""
 globasa:
   term: Globasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 格洛巴萨, Globasa
 globatotal:
   term: globatotal
@@ -15590,13 +15620,13 @@ grenada:
   translation: 格林纳达
 grenadali:
   term: Grenadali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 grenadayen:
   term: Grenadayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 gresa:
   term: gresa
@@ -15690,18 +15720,18 @@ gujarati:
   translation: 古吉拉特邦
 gujaratili:
   term: Gujaratili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 gujaratisa:
   term: Gujaratisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 gujaratiyen:
   term: Gujaratiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 guje:
   term: guje
@@ -15900,13 +15930,13 @@ gwatemala:
   translation: 危地马拉
 gwatemalali:
   term: Gwatemalali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 gwatemalayen:
   term: Gwatemalayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ha:
   term: ha
@@ -16545,13 +16575,13 @@ haya:
   translation: 亚美尼亚
 hayasa:
   term: Hayasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 hayayen:
   term: Hayayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 hayfen:
   term: hayfen
@@ -16880,13 +16910,13 @@ herkule:
   translation: 赫丘利
 herkuleli:
   term: Herkuleli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 herkulesim:
   term: Herkulesim
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 herni:
   term: herni
@@ -17060,8 +17090,8 @@ hindiko:
   translation: 印度洋
 hindiyen:
   term: Hindiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 hindu:
   term: Hindu
@@ -17070,8 +17100,8 @@ hindu:
   translation: ""
 hinduismo:
   term: Hinduismo
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 印度教
 hinete:
   term: hinete
@@ -17315,13 +17345,13 @@ hondura:
   translation: 洪都拉斯
 hondurali:
   term: Hondurali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 hondurayen:
   term: Hondurayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 hongu:
   term: hongu
@@ -18105,18 +18135,18 @@ indonesi:
   translation: 印度尼西亚, 印尼
 indonesili:
   term: Indonesili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 indonesisa:
   term: Indonesisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 indonesiyen:
   term: Indonesiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 industri:
   term: industri
@@ -18168,6 +18198,11 @@ influenza:
   class: b.oro.jotay
   category: root
   translation: 流行性感冒, 流感
+infobigi:
+  term: infobigi
+  class: b.oj
+  category: derived
+  translation: ""
 infon:
   term: infon
   class: b
@@ -18715,13 +18750,13 @@ iraki:
   translation: 伊拉克
 irakili:
   term: Irakili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 irakiyen:
   term: Irakiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 iran:
   term: Iran
@@ -18730,13 +18765,13 @@ iran:
   translation: 伊朗
 iranli:
   term: Iranli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 iranyen:
   term: Iranyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ire:
   term: ire
@@ -18805,13 +18840,13 @@ islami:
   translation: 伊斯兰, 穆斯林
 islamiya:
   term: Islamiya
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 伊斯兰教, 回教
 islamiyen:
   term: Islamiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 穆斯林, 伊斯兰教徒, 回教徒
 islandi:
   term: Islandi
@@ -18820,13 +18855,13 @@ islandi:
   translation: 冰岛
 islandisa:
   term: Islandisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 islandiyen:
   term: Islandiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ismael:
   term: Ismael
@@ -18895,18 +18930,18 @@ itali:
   translation: 意大利
 italili:
   term: Italili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 意大利的
 italisa:
   term: Italisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 italiyen:
   term: Italiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ite:
   term: ite
@@ -18960,13 +18995,13 @@ ityopi:
   translation: 埃塞俄比亚
 ityopili:
   term: Ityopili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 ityopiyen:
   term: Ityopiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ive:
   term: ive
@@ -18980,13 +19015,13 @@ ivri:
   translation: 希伯来
 ivrisa:
   term: Ivrisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 希伯来语
 ivriyen:
   term: Ivriyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 iwe:
   term: iwe
@@ -19238,15 +19273,15 @@ jalefe:
   class: p
   category: derived
   translation: ""
+jalefe_ki:
+  term: jalefe ki
+  class: l
+  category: phrase
+  translation: ""
 jalefe_na:
   term: jalefe na
   class: p jm
   category: phrase
-  translation: ""
-jaleki:
-  term: jaleki
-  class: l
-  category: derived
   translation: ""
 jaleli:
   term: jaleli
@@ -19513,15 +19548,15 @@ jaxafe:
   class: p
   category: derived
   translation: ""
+jaxafe_ki:
+  term: jaxafe ki
+  class: l
+  category: phrase
+  translation: ""
 jaxafe_na:
   term: jaxafe na
   class: p jm
   category: phrase
-  translation: ""
-jaxaki:
-  term: jaxaki
-  class: l
-  category: derived
   translation: ""
 jaxali:
   term: jaxali
@@ -19560,13 +19595,13 @@ jazair:
   translation: 阿尔及利亚
 jazairli:
   term: Jazairli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 jazairyen:
   term: Jazairyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 jazu:
   term: jazu
@@ -20232,7 +20267,7 @@ jumlemarka:
   term: jumlemarka
   class: b
   category: derived
-  translation: ""
+  translation: 标点(符号)
 jumlemon:
   term: jumlemon
   class: b
@@ -20820,8 +20855,8 @@ kalvin:
   translation: 加尔文
 kalvinismo:
   term: Kalvinismo
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 加尔文主义
 kalya:
   term: kalya
@@ -20855,13 +20890,13 @@ kamerun:
   translation: 喀麦隆
 kamerunli:
   term: Kamerunli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 kamerunyen:
   term: Kamerunyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 kamisa:
   term: kamisa
@@ -20910,18 +20945,18 @@ kampuci:
   translation: 柬埔寨, 柬国
 kampucili:
   term: Kampucili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 kampucisa:
   term: Kampucisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 kampuciyen:
   term: Kampuciyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 kanabis:
   term: kanabis
@@ -20935,13 +20970,13 @@ kanada:
   translation: 加拿大
 kanadali:
   term: Kanadali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 kanadayen:
   term: Kanadayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 kanan:
   term: kanan
@@ -21380,18 +21415,18 @@ karnataka:
   translation: 卡纳塔克邦
 karnatakali:
   term: Karnatakali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 karnatakasa:
   term: Karnatakasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 karnatakayen:
   term: Karnatakayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 karneval:
   term: karneval
@@ -21555,13 +21590,13 @@ katarata:
   translation: ""
 katarli:
   term: Katarli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 kataryen:
   term: Kataryen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 katatul:
   term: katatul
@@ -21595,7 +21630,7 @@ katinaya:
   translation: ""
 katoliki:
   term: Katoliki
-  class: t
+  class: su t
   category: proper word
   translation: 天主教(的)
 katru:
@@ -21665,18 +21700,18 @@ kaxmir:
   translation: 克什米尔
 kaxmirli:
   term: Kaxmirli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 kaxmirsa:
   term: Kaxmirsa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 kaxmiryen:
   term: Kaxmiryen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 kaxoke:
   term: kaxoke
@@ -21725,18 +21760,18 @@ kazaki:
   translation: 哈萨克斯坦
 kazakili:
   term: Kazakili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 kazakisa:
   term: Kazakisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 kazakiyen:
   term: Kazakiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ke:
   term: ke
@@ -21835,8 +21870,8 @@ kemer:
   translation: ""
 kemeti:
   term: Kemeti
-  class: b
-  category: root
+  class: su n
+  category: proper word
   translation: 古埃及
 kemo:
   term: kemo
@@ -21895,18 +21930,18 @@ kerala:
   translation: 喀拉拉邦
 keralali:
   term: Keralali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 keralasa:
   term: Keralasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 keralayen:
   term: Keralayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 keran:
   term: keran
@@ -22140,13 +22175,13 @@ kipros:
   translation: 塞浦路斯
 kiprosli:
   term: Kiprosli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 kiprosyen:
   term: Kiprosyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 kiray:
   term: kiray
@@ -22170,13 +22205,13 @@ kirgizi:
   translation: 吉尔吉斯斯坦
 kirgizisa:
   term: Kirgizisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 kirgiziyen:
   term: Kirgiziyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 kiribati:
   term: Kiribati
@@ -22185,8 +22220,8 @@ kiribati:
   translation: 基里巴斯
 kiribatisa:
   term: Kiribatisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 kiroprati:
   term: kiroprati
@@ -22560,13 +22595,13 @@ kolombi:
   translation: 哥伦比亚
 kolombili:
   term: Kolombili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 kolombiyen:
   term: Kolombiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 koloni:
   term: koloni
@@ -22591,6 +22626,11 @@ kolorarko:
 kolordo:
   term: kolordo
   class: t
+  category: derived
+  translation: ""
+kolorlari:
+  term: kolorlari
+  class: b
   category: derived
   translation: ""
 kolorokobimar:
@@ -22675,18 +22715,18 @@ komori:
   translation: 科摩罗
 komorili:
   term: Komorili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 komorisa:
   term: Komorisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 komoriyen:
   term: Komoriyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 kompara:
   term: kompara
@@ -22930,18 +22970,18 @@ konkan:
   translation: 康坎
 konkanli:
   term: Konkanli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 konkansa:
   term: Konkansa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 konkanyen:
   term: Konkanyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 konkreto:
   term: konkreto
@@ -23075,18 +23115,18 @@ korea:
   translation: 朝鲜(半岛)
 koreali:
   term: Koreali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 朝鲜的
 koreasa:
   term: Koreasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 朝鲜语
 koreayen:
   term: Koreayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 韩国人, 朝鲜人
 koridor:
   term: koridor
@@ -23220,13 +23260,13 @@ kostarika:
   translation: 哥斯达黎加
 kostarikali:
   term: Kostarikali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 kostarikayen:
   term: Kostarikayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 kostrui:
   term: kostrui
@@ -23520,8 +23560,8 @@ kristo:
   translation: 基督
 kristodin:
   term: Kristodin
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 圣诞节
 kristofe:
   term: Kristofe
@@ -23530,19 +23570,19 @@ kristofe:
   translation: 克里斯托弗
 kristoismo:
   term: Kristoismo
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 基督教, 基督宗教
 kristoista:
   term: Kristoista
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 基督徒, 基督教徒
 kristosaluba:
   term: kristosaluba
   class: b
   category: derived
-  translation: ""
+  translation: 十字架
 kroa:
   term: kroa
   class: b
@@ -23610,7 +23650,7 @@ kudu:
   translation: ""
 kufi:
   term: kufi
-  class: t
+  class: t; il
   category: root
   translation: ""
 kufiday:
@@ -24355,23 +24395,23 @@ latin:
   translation: 拉丁
 latinika:
   term: Latinika
-  class: b
+  class: su n
   category: proper word
   translation: 拉丁美洲, 拉美
 latinikali:
   term: Latinikali
-  class: t
+  class: su t
   category: proper word
   translation: ""
 latinikayen:
   term: Latinikayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 拉丁美洲人, 拉美人
 latinsa:
   term: Latinsa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 拉丁语
 latvi:
   term: Latvi
@@ -24380,13 +24420,13 @@ latvi:
   translation: 拉脱维亚
 latvisa:
   term: Latvisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 拉脱维亚语
 latviyen:
   term: Latviyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 拉脱维亚人
 lava:
   term: lava
@@ -24430,8 +24470,8 @@ lawi:
   translation: 老挝
 lawisa:
   term: Lawisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 老挝语
 lawrel:
   term: lawrel
@@ -24531,7 +24571,7 @@ lefe_dento:
 lefe_ki:
   term: lefe ki
   class: l
-  category: derived
+  category: phrase
   translation: ""
 lefe_na:
   term: lefe na
@@ -24835,13 +24875,13 @@ libi:
   translation: 利比亚
 libili:
   term: Libili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 libiyen:
   term: Libiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 lici:
   term: lici
@@ -24930,13 +24970,13 @@ lihtenstayn:
   translation: 列支敦士登
 lihtenstaynli:
   term: Lihtenstaynli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 lihtenstaynyen:
   term: Lihtenstaynyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 lijun:
   term: lijun
@@ -25495,8 +25535,8 @@ lubanon:
   translation: 黎巴嫩
 lubanonyen:
   term: Lubanonyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 lubi:
   term: lubi
@@ -25685,8 +25725,8 @@ luter:
   translation: 路德
 luterismo:
   term: Luterismo
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 路德宗, 信义宗
 lutesyum:
   term: lutesyum
@@ -25705,18 +25745,18 @@ lutsemburgi:
   translation: 卢森堡
 lutsemburgili:
   term: Lutsemburgili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 卢森堡的
 lutsemburgisa:
   term: Lutsemburgisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 卢森堡语
 lutsemburgiyen:
   term: Lutsemburgiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 卢森堡人
 lutuf:
   term: lutuf
@@ -25755,18 +25795,18 @@ lyetuva:
   translation: 立陶宛
 lyetuvali:
   term: Lyetuvali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 lyetuvasa:
   term: Lyetuvasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 lyetuvayen:
   term: Lyetuvayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 lyudon:
   term: lyudon
@@ -25910,13 +25950,13 @@ magribi:
   translation: 摩洛哥
 magribili:
   term: Magribili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 摩洛哥的
 magribiyen:
   term: Magribiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 摩洛哥人
 magyar:
   term: Magyar
@@ -25925,18 +25965,18 @@ magyar:
   translation: 匈牙利
 magyarli:
   term: Magyarli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 magyarsa:
   term: Magyarsa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 magyaryen:
   term: Magyaryen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 mahamel:
   term: mahamel
@@ -25970,18 +26010,18 @@ maharaxtra:
   translation: 马哈拉施特拉邦
 maharaxtrali:
   term: Maharaxtrali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 maharaxtrasa:
   term: Maharaxtrasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 maharaxtrayen:
   term: Maharaxtrayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 mahi:
   term: mahi
@@ -26040,8 +26080,8 @@ majeli:
   translation: 马绍尔群岛
 majelisa:
   term: Majelisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 majin:
   term: majin
@@ -26080,18 +26120,18 @@ makedoni:
   translation: 马其顿
 makedonili:
   term: Makedonili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 makedonisa:
   term: Makedonisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 makedoniyen:
   term: Makedoniyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 makro:
   term: makro
@@ -26140,8 +26180,8 @@ malawi:
   translation: 马拉维
 malawiyen:
   term: Malawiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 malaysi:
   term: Malaysi
@@ -26150,18 +26190,18 @@ malaysi:
   translation: 马来西亚
 malaysili:
   term: Malaysili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 malaysisa:
   term: Malaysisa
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 malaysiyen:
   term: Malaysiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 maldoxo:
   term: maldoxo
@@ -26190,7 +26230,7 @@ malfale:
   translation: ""
 malforma:
   term: malforma
-  class: b.oj
+  class: b.oro
   category: derived
   translation: ""
 malgida:
@@ -26220,8 +26260,8 @@ malinforme:
   translation: ""
 maliyen:
   term: Maliyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 malkadam:
   term: malkadam
@@ -26250,13 +26290,13 @@ malta:
   translation: 马耳他
 maltasa:
   term: Maltasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 马耳他人
 maltayen:
   term: Maltayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 马耳他语
 maluku:
   term: Maluku
@@ -26450,18 +26490,18 @@ manipur:
   translation: 曼尼普尔邦
 manipurli:
   term: Manipurli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 manipursa:
   term: Manipursa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 manipuryen:
   term: Manipuryen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 manixu:
   term: manixu
@@ -26655,8 +26695,8 @@ marihidin:
   translation: 星期二, 週二
 marihiyen:
   term: Marihiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 火星人
 marimba:
   term: marimba
@@ -26695,8 +26735,8 @@ markse:
   translation: 马克思
 markseismo:
   term: Markseismo
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 马克思主义
 marmelada:
   term: marmelada
@@ -26758,6 +26798,11 @@ mas_fe_hataya:
   class: l jm
   category: phrase
   translation: ""
+mas_fe_tayti:
+  term: mas fe tayti
+  class: l jm
+  category: phrase
+  translation: ""
 mas_sol_eger:
   term: mas sol eger
   class: l jm
@@ -26814,12 +26859,12 @@ masok:
   category: proper word
   translation: 马索克
 masokismo:
-  term: Masokismo
+  term: masokismo
   class: b
   category: derived
   translation: 性受虐狂
 masokista:
-  term: Masokista
+  term: masokista
   class: b
   category: derived
   translation: 受虐狂
@@ -26840,18 +26885,18 @@ masri:
   translation: 埃及
 masrili:
   term: Masrili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 masrisa:
   term: Masrisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 埃及阿拉伯语
 masriyen:
   term: Masriyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 埃及人
 masturba:
   term: masturba
@@ -26965,13 +27010,13 @@ mawris:
   translation: 毛里求斯
 mawrisli:
   term: Mawrisli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 mawrisyen:
   term: Mawrisyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 mawson:
   term: Mawson
@@ -27890,13 +27935,13 @@ mexiko:
   translation: 墨西哥
 mexikoli:
   term: Mexikoli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 mexikoyen:
   term: Mexikoyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 meyar:
   term: meyar
@@ -28335,18 +28380,18 @@ mitila:
   translation: 弥梯罗, 弥萨罗, 弥絺罗, 弥耻罗, 弥萨罗, 弥提罗
 mitilali:
   term: Mitilali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 mitilasa:
   term: Mitilasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 mitilayen:
   term: Mitilayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 mitin:
   term: mitin
@@ -28570,13 +28615,13 @@ moldova:
   translation: 摩尔多瓦
 moldovali:
   term: Moldovali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 moldovayen:
   term: Moldovayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 molekul:
   term: molekul
@@ -28630,8 +28675,8 @@ monako:
   translation: 摩纳哥
 monakoyen:
   term: Monakoyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 mongoli:
   term: Mongoli
@@ -28640,13 +28685,13 @@ mongoli:
   translation: 蒙古国
 mongolisa:
   term: Mongolisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 mongoliyen:
   term: Mongoliyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 mongusta:
   term: mongusta
@@ -28795,8 +28840,8 @@ mormon:
   translation: 摩爾門
 mormonismo:
   term: Mormonismo
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 摩尔门教
 morse:
   term: Morse
@@ -29362,8 +29407,8 @@ myanma:
   translation: 缅甸
 myanmasa:
   term: Myanmasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 缅甸语
 myaw:
   term: myaw
@@ -29537,13 +29582,13 @@ namibi:
   translation: 纳米比亚
 namibili:
   term: Namibili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 namibiyen:
   term: Namibiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 namoka:
   term: namoka
@@ -29747,13 +29792,13 @@ natzi:
   translation: 纳粹
 natziismo:
   term: Natziismo
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 纳粹主义
 natziista:
   term: Natziista
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 nauru:
   term: Nauru
@@ -29762,8 +29807,8 @@ nauru:
   translation: 瑙鲁
 naurusa:
   term: Naurusa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 navi:
   term: navi
@@ -29802,13 +29847,13 @@ nayjeri:
   translation: 尼日利亚
 nayjerili:
   term: Nayjerili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 nayjeriyen:
   term: Nayjeriyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 naylon:
   term: naylon
@@ -29827,18 +29872,18 @@ nederi:
   translation: 尼德兰, 荷兰
 nederili:
   term: Nederili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 荷兰的
 nederisa:
   term: Nederisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 nederiyen:
   term: Nederiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 nefra:
   term: nefra
@@ -29960,6 +30005,11 @@ nenfil:
   class: t
   category: derived
   translation: ""
+nenfobi:
+  term: nenfobi
+  class: b
+  category: derived
+  translation: ""
 nengami:
   term: nengami
   class: b
@@ -30018,6 +30068,11 @@ nenjenmindo:
 nenjinji:
   term: nenjinji
   class: t
+  category: derived
+  translation: ""
+nenjixi:
+  term: nenjixi
+  class: b.oj
   category: derived
   translation: ""
 nenjixido:
@@ -30257,8 +30312,8 @@ neon:
   translation: ""
 neonyandin:
   term: Neonyandin
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 neoxey:
   term: neoxey
@@ -30310,14 +30365,14 @@ ner_lefe:
   class: p jm
   category: phrase
   translation: ""
+ner_lefe_ki:
+  term: ner lefe ki
+  class: l
+  category: phrase
+  translation: ""
 ner_lefe_na:
   term: ner lefe na
   class: p jm
-  category: phrase
-  translation: ""
-ner_leki:
-  term: ner leki
-  class: l
   category: phrase
   translation: ""
 ner_of:
@@ -30335,14 +30390,14 @@ ner_xafe:
   class: p jm
   category: phrase
   translation: ""
+ner_xafe_ki:
+  term: ner xafe ki
+  class: l
+  category: phrase
+  translation: ""
 ner_xafe_na:
   term: ner xafe na
   class: p jm
-  category: phrase
-  translation: ""
-ner_xaki:
-  term: ner xaki
-  class: l
   category: phrase
   translation: ""
 nercu:
@@ -30358,6 +30413,11 @@ nerledin:
 nerleli:
   term: nerleli
   class: t
+  category: derived
+  translation: ""
+nerlelimo:
+  term: nerlelimo
+  class: m
   category: derived
   translation: ""
 nerxadin:
@@ -30627,8 +30687,8 @@ nipon:
   translation: 日本
 niponsa:
   term: Niponsa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 nispatu:
   term: nispatu
@@ -30752,13 +30812,13 @@ norge:
   translation: 挪威
 norgesa:
   term: Norgesa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 norgeyen:
   term: Norgeyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 norma:
   term: norma
@@ -31292,18 +31352,18 @@ ohom:
   translation: 阿萨姆邦
 ohomli:
   term: Ohomli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 ohomsa:
   term: Ohomsa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ohomyen:
   term: Ohomyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ohotski:
   term: Ohotski
@@ -31707,18 +31767,18 @@ orisa:
   translation: 奥里萨
 orisali:
   term: Orisali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 orisasa:
   term: Orisasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 orisayen:
   term: Orisayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 orkestra:
   term: orkestra
@@ -31807,8 +31867,8 @@ osman:
   translation: 奥斯曼
 osmanli:
   term: Osmanli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 osmosi:
   term: osmosi
@@ -31832,8 +31892,8 @@ osteri:
   translation: 奥地利
 osteriyen:
   term: Osteriyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 奥地利人
 osto:
   term: osto
@@ -31942,18 +32002,18 @@ ozbeki:
   translation: 乌兹别克斯坦
 ozbekili:
   term: Ozbekili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 乌兹别克语
 ozbekisa:
   term: Ozbekisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ozbekiyen:
   term: Ozbekiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 乌兹别克人
 ozon:
   term: ozon
@@ -32027,13 +32087,13 @@ paki:
   translation: 巴基斯坦
 pakili:
   term: Pakili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 巴基斯坦的
 pakiyen:
   term: Pakiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 巴基斯坦人
 pala:
   term: pala
@@ -32080,6 +32140,11 @@ palestin:
   class: su n
   category: proper word
   translation: 巴勒斯坦
+paleta:
+  term: paleta
+  class: b
+  category: root
+  translation: ""
 palme:
   term: palme
   class: b
@@ -32242,18 +32307,18 @@ panjabi:
   translation: 旁遮普
 panjabili:
   term: Panjabili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 旁遮普的
 panjabisa:
   term: Panjabisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 旁遮普语
 panjabiyen:
   term: Panjabiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 旁遮普人
 pankreas:
   term: pankreas
@@ -32387,8 +32452,8 @@ paragway:
   translation: 巴拉圭
 paragwayyen:
   term: Paragwayyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 paralel:
   term: paralel
@@ -32477,18 +32542,18 @@ parsi:
   translation: 波斯
 parsili:
   term: Parsili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 parsisa:
   term: Parsisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 parsiyen:
   term: Parsiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 parti:
   term: parti
@@ -32870,6 +32935,11 @@ pentukumax:
   class: b
   category: derived
   translation: ""
+pentutahta:
+  term: pentutahta
+  class: b
+  category: derived
+  translation: ""
 pentuxey:
   term: pentuxey
   class: b
@@ -32937,7 +33007,7 @@ perfiksado:
   translation: ""
 perfleksi:
   term: perfleksi
-  class: b.oj
+  class: b.oro.harka
   category: derived
   translation: ""
 perfora:
@@ -33027,13 +33097,13 @@ peru:
   translation: 秘鲁
 peruli:
   term: Peruli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 peruyen:
   term: Peruyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 perya:
   term: perya
@@ -33247,18 +33317,18 @@ pilipina:
   translation: 菲律宾, 菲律滨
 pilipinali:
   term: Pilipinali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 pilipinasa:
   term: Pilipinasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 pilipinayen:
   term: Pilipinayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 pilo:
   term: pilo
@@ -33532,8 +33602,8 @@ platon:
   translation: 柏拉图
 platonli:
   term: Platonli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 plax:
   term: plax
@@ -33722,18 +33792,18 @@ polska:
   translation: 波兰
 polskali:
   term: Polskali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 polskasa:
   term: Polskasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 polskayen:
   term: Polskayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 polyester:
   term: polyester
@@ -33882,13 +33952,13 @@ portugal:
   translation: 葡萄牙
 portugalsa:
   term: Portugalsa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 portugalyen:
   term: Portugalyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 porya:
   term: porya
@@ -34055,11 +34125,6 @@ posfilya:
   class: b
   category: derived
   translation: ""
-posfobi:
-  term: posfobi
-  class: b.oj
-  category: derived
-  translation: ""
 posfol:
   term: posfol
   class: p
@@ -34152,11 +34217,6 @@ posizindo:
   translation: ""
 posjijon:
   term: posjijon
-  class: b.oj
-  category: derived
-  translation: ""
-posjixi:
-  term: posjixi
   class: b.oj
   category: derived
   translation: ""
@@ -35592,7 +35652,7 @@ roma:
   translation: 罗马
 romani:
   term: Romani
-  class: t
+  class: su t
   category: proper word
   translation: 羅姆
 rombo:
@@ -35772,8 +35832,8 @@ rujiwa:
   translation: ""
 rujiwadin:
   term: Rujiwadin
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 復活節
 rujiwagi:
   term: rujiwagi
@@ -35832,18 +35892,18 @@ rumani:
   translation: 罗马尼亚
 rumanili:
   term: Rumanili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 rumanisa:
   term: Rumanisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 rumaniyen:
   term: Rumaniyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 rundi:
   term: Rundi
@@ -35902,18 +35962,18 @@ rusi:
   translation: 俄罗斯, 俄国
 rusili:
   term: Rusili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 rusisa:
   term: Rusisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 rusiyen:
   term: Rusiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 rusoti:
   term: rusoti
@@ -36076,12 +36136,12 @@ sadafayen:
   category: derived
   translation: 甲壳亚门, 介虫
 sadismo:
-  term: Sadismo
+  term: sadismo
   class: b
   category: derived
   translation: ""
 sadista:
-  term: Sadista
+  term: sadista
   class: b
   category: derived
   translation: ""
@@ -36242,13 +36302,13 @@ sakartwelo:
   translation: 格鲁吉亚
 sakartwelosa:
   term: Sakartwelosa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 sakartweloyen:
   term: Sakartweloyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 sakfu:
   term: sakfu
@@ -36442,18 +36502,18 @@ samoa:
   translation: 萨摩亚
 samoali:
   term: Samoali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 samoasa:
   term: Samoasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 samoayen:
   term: Samoayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 sampo:
   term: sampo
@@ -36573,7 +36633,7 @@ santo:
 santo_biskopodom:
   term: Santo Biskopodom
   class: su n
-  category: phrase
+  category: proper word
   translation: 圣座
 santo_papa:
   term: Santo Papa
@@ -36612,8 +36672,8 @@ sapfo:
   translation: 莎孚, 萨福
 sapfoli:
   term: Sapfoli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 sara:
   term: Sara
@@ -36707,13 +36767,13 @@ sawdi:
   translation: 沙特阿拉伯
 sawdili:
   term: Sawdili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 sawdiyen:
   term: Sawdiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 sawna:
   term: sawna
@@ -37177,13 +37237,13 @@ senegal:
   translation: 塞内加尔
 senegalli:
   term: Senegalli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 senegalyen:
   term: Senegalyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 sengi:
   term: sengi
@@ -37217,13 +37277,13 @@ serbi:
   translation: 塞尔维亚
 serbisa:
   term: Serbisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 serbiyen:
   term: Serbiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 serotonin:
   term: serotonin
@@ -37462,7 +37522,7 @@ sigaro:
   translation: ""
 siki:
   term: Siki
-  class: t
+  class: su t
   category: proper word
   translation: 锡克
 siko:
@@ -37647,18 +37707,18 @@ sindi:
   translation: 信德
 sindili:
   term: Sindili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 sindisa:
   term: Sindisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 sindiyen:
   term: Sindiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 sindrom:
   term: sindrom
@@ -37712,8 +37772,8 @@ sinhala:
   translation: 僧伽罗
 sinhalasa:
   term: Sinhalasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 sinjabu:
   term: sinjabu
@@ -38080,6 +38140,11 @@ solokrabe:
   class: b
   category: derived
   translation: 寄居蟹, 寄居虾
+solomo:
+  term: solomo
+  class: m
+  category: derived
+  translation: ""
 soloya:
   term: soloya
   class: b
@@ -38115,11 +38180,6 @@ solusido:
   class: t
   category: derived
   translation: ""
-solya:
-  term: solya
-  class: b
-  category: derived
-  translation: ""
 somali:
   term: Somali
   class: su n
@@ -38127,8 +38187,8 @@ somali:
   translation: 索马里
 somalisa:
   term: Somalisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 somno:
   term: somno
@@ -38352,13 +38412,13 @@ sudeafrika:
   translation: 南非
 sudeafrikali:
   term: Sudeafrikali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 sudeafrikayen:
   term: Sudeafrikayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 sudedongu:
   term: sudedongu
@@ -38897,13 +38957,13 @@ swahili:
   translation: 斯瓦希里
 swahilisa:
   term: Swahilisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 swahiliyen:
   term: Swahiliyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 swal:
   term: swal
@@ -38932,18 +38992,18 @@ sweri:
   translation: 瑞典
 swerili:
   term: Swerili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 瑞典的
 swerisa:
   term: Swerisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 瑞典语
 sweriyen:
   term: Sweriyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 瑞典人
 sweta:
   term: sweta
@@ -39017,13 +39077,13 @@ switze:
   translation: 瑞士
 switzeli:
   term: Switzeli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 switzeyen:
   term: Switzeyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 swomi:
   term: Swomi
@@ -39032,18 +39092,18 @@ swomi:
   translation: 芬兰
 swomili:
   term: Swomili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: 芬兰的
 swomisa:
   term: Swomisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 芬兰语
 swomiyen:
   term: Swomiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 芬兰人
 syahe:
   term: syahe
@@ -39084,7 +39144,7 @@ syensifiksyon:
   term: syensifiksyon
   class: b
   category: derived
-  translation: ""
+  translation: 科学幻想, 科幻
 syensili:
   term: syensili
   class: t
@@ -39352,18 +39412,18 @@ tamil:
   translation: 泰米尔纳德
 tamilli:
   term: Tamilli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 tamilsa:
   term: Tamilsa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 tamilyen:
   term: Tamilyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 tamipatato:
   term: tamipatato
@@ -39652,8 +39712,8 @@ tayla:
   translation: ""
 tayli:
   term: Tayli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 taymi:
   term: taymi
@@ -39677,8 +39737,8 @@ tayputora:
   translation: 打字机
 taysa:
   term: Taysa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 tayti:
   term: tayti
@@ -39697,8 +39757,8 @@ taywan:
   translation: 臺灣, 台湾
 tayyen:
   term: Tayyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 taze:
   term: taze
@@ -39805,14 +39865,14 @@ teli_lefe:
   class: p jm
   category: phrase
   translation: ""
+teli_lefe_ki:
+  term: teli lefe ki
+  class: l
+  category: phrase
+  translation: ""
 teli_lefe_na:
   term: teli lefe na
   class: p jm
-  category: phrase
-  translation: ""
-teli_leki:
-  term: teli leki
-  class: l
   category: phrase
   translation: ""
 teli_of:
@@ -39825,14 +39885,14 @@ teli_xafe:
   class: p jm
   category: phrase
   translation: ""
+teli_xafe_ki:
+  term: teli xafe ki
+  class: l
+  category: phrase
+  translation: ""
 teli_xafe_na:
   term: teli xafe na
   class: p jm
-  category: phrase
-  translation: ""
-teli_xaki:
-  term: teli xaki
-  class: l
   category: phrase
   translation: ""
 teliergo:
@@ -39892,13 +39952,13 @@ telugu:
   translation: 泰卢固
 telugusa:
   term: Telugusa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 teluguyen:
   term: Teluguyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 teluryum:
   term: teluryum
@@ -40512,18 +40572,18 @@ tojiki:
   translation: 塔吉克斯坦
 tojikili:
   term: Tojikili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 tojikisa:
   term: Tojikisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 tojikiyen:
   term: Tojikiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 toka:
   term: toka
@@ -40647,18 +40707,18 @@ tonga:
   translation: 汤加
 tongali:
   term: Tongali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 tongasa:
   term: Tongasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 tongayen:
   term: Tongayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 tongi:
   term: tongi
@@ -40748,6 +40808,11 @@ tonyen:
 tonyongu:
   term: tonyongu
   class: b.oj
+  category: derived
+  translation: ""
+tonyunhe:
+  term: tonyunhe
+  class: b.oro
   category: derived
   translation: ""
 topazi:
@@ -40935,6 +41000,11 @@ trankwilo:
   class: t
   category: root
   translation: ""
+trankwilocu:
+  term: trankwilocu
+  class: b.nenoj
+  category: derived
+  translation: ""
 trankwilogi:
   term: trankwilogi
   class: b.oj
@@ -41103,7 +41173,7 @@ trinidad:
 trinidad_ji_tobago:
   term: Trinidad ji Tobago
   class: su n
-  category: phrase
+  category: proper word
   translation: 千里達及托巴哥
 triunfa:
   term: triunfa
@@ -41367,18 +41437,18 @@ turki:
   translation: 土耳其
 turkili:
   term: Turkili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 turkisa:
   term: Turkisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 turkiyen:
   term: Turkiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 turkmeni:
   term: Turkmeni
@@ -41387,18 +41457,18 @@ turkmeni:
   translation: 土库曼斯坦
 turkmenili:
   term: Turkmenili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 turkmenisa:
   term: Turkmenisa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 turkmeniyen:
   term: Turkmeniyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 turno:
   term: turno
@@ -41457,18 +41527,18 @@ tuvalu:
   translation: 图瓦卢
 tuvaluli:
   term: Tuvaluli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 tuvalusa:
   term: Tuvalusa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 tuvaluyen:
   term: Tuvaluyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 twala:
   term: twala
@@ -41572,13 +41642,13 @@ uganda:
   translation: 乌干达
 ugandali:
   term: Ugandali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 ugandayen:
   term: Ugandayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 uje:
   term: uje
@@ -41602,18 +41672,18 @@ ukraina:
   translation: 乌克兰
 ukrainali:
   term: Ukrainali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 ukrainasa:
   term: Ukrainasa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ukrainayen:
   term: Ukrainayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 ukungu:
   term: ukungu
@@ -41902,13 +41972,13 @@ usa:
   translation: 美利坚合众国, 美国
 usali:
   term: Usali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 usayen:
   term: Usayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 usta:
   term: usta
@@ -41948,7 +42018,7 @@ utaragarebi:
 utarakorea:
   term: Utarakorea
   class: su n
-  category: derived
+  category: proper word
   translation: ""
 utarali:
   term: utarali
@@ -41958,7 +42028,7 @@ utarali:
 utaramakedoni:
   term: Utaramakedoni
   class: su n
-  category: derived
+  category: proper word
   translation: 北馬其頓
 utu:
   term: utu
@@ -42172,13 +42242,13 @@ venezwela:
   translation: 委内瑞拉
 venezwelali:
   term: Venezwelali
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 venezwelayen:
   term: Venezwelayen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 vento:
   term: vento
@@ -42457,18 +42527,18 @@ vyetnam:
   translation: 越南
 vyetnamli:
   term: Vyetnamli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 vyetnamsa:
   term: Vyetnamsa
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 vyetnamyen:
   term: Vyetnamyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 vyola:
   term: vyola
@@ -43038,7 +43108,7 @@ xafe_dento:
 xafe_ki:
   term: xafe ki
   class: l
-  category: derived
+  category: phrase
   translation: ""
 xafe_morcu:
   term: xafe morcu
@@ -43767,7 +43837,7 @@ xohrayen:
   translation: ""
 xoku:
   term: xoku
-  class: b.oro.jotay
+  class: b.oro
   category: root
   translation: ""
 xokuabil:
@@ -43839,6 +43909,11 @@ xorfe:
   term: xorfe
   class: p
   category: derived
+  translation: ""
+xorfe_ki:
+  term: xorfe ki
+  class: l
+  category: phrase
   translation: ""
 xorfe_nunya:
   term: xorfe nunya
@@ -43925,10 +44000,10 @@ xorlefe:
   class: p
   category: derived
   translation: ""
-xorleki:
-  term: xorleki
+xorlefe_ki:
+  term: xorlefe ki
   class: l
-  category: derived
+  category: phrase
   translation: ""
 xorleta:
   term: xorleta
@@ -44132,8 +44207,8 @@ xukra:
   translation: 感恩, 谢意; 道谢, 感谢; 谢谢
 xukradin:
   term: Xukradin
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 xukrafil:
   term: xukrafil
@@ -44442,13 +44517,13 @@ yehudi:
   translation: 犹太
 yehudiismo:
   term: Yehudiismo
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 犹太教
 yehudiyen:
   term: Yehudiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: 犹太人
 yemen:
   term: Yemen
@@ -44635,8 +44710,8 @@ yonatan:
   class: su n
   category: proper word
   translation: 约拿单, 约纳堂
-yonfobi:
-  term: yonfobi
+yonbawlu:
+  term: yonbawlu
   class: b.oj
   category: derived
   translation: ""
@@ -44815,6 +44890,31 @@ yumukuyen:
   class: b
   category: derived
   translation: ""
+yunhe:
+  term: yunhe
+  class: b.oro
+  category: root
+  translation: ""
+yunhecu:
+  term: yunhecu
+  class: b.nenoj
+  category: derived
+  translation: ""
+yunhecune:
+  term: yunhecune
+  class: t
+  category: derived
+  translation: ""
+yunhedo:
+  term: yunhedo
+  class: t
+  category: derived
+  translation: ""
+yunhene:
+  term: yunhene
+  class: t
+  category: derived
+  translation: ""
 yunki:
   term: yunki
   class: b.oro.jotay
@@ -44942,13 +45042,13 @@ zambi:
   translation: 赞比亚
 zambili:
   term: Zambili
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 zambiyen:
   term: Zambiyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 zangar:
   term: zangar
@@ -45037,13 +45137,13 @@ zimbabwe:
   translation: 津巴布韦
 zimbabweli:
   term: Zimbabweli
-  class: t
-  category: derived
+  class: su t
+  category: proper word
   translation: ""
 zimbabweyen:
   term: Zimbabweyen
-  class: b
-  category: derived
+  class: su n
+  category: proper word
   translation: ""
 zinko:
   term: zinko

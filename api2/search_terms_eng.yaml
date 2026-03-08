@@ -1,9 +1,25 @@
 ---
-'#':
-- haxtagu
-(American) football:
+"":
+- acidiroti
+- aloe
+- apartamenlari
+- arestoamiru
+- arestokamer
+- artedom
+- betula
+- demo
+- fleygikef
+- fleygiyen
 - futbal
 - futbalbol
+- kurto_watu
+- un_ofdua
+- jiu
+- bage
+- cele
+- daykefuku
+'#':
+- haxtagu
 (Democratic Republic of the) Congo:
 - kinsasakongo
 (Spanish and Portuguese speaking) Latin America:
@@ -11,20 +27,10 @@
 (a) little:
 - lilmo
 - xosumo
-(a) while:
-- kurto_watu
 (absolutely) no:
 - he_nil
-(airline) pilot:
-- fleygiyen
 (animate) being:
 - yen
-(apartment) complex:
-- apartamenlari
-(arrest) warrant:
-- arestoamiru
-(art) studio:
-- artedom
 (bank) check:
 - ceke
 (be in) rut:
@@ -63,9 +69,6 @@
 - gamigi
 (cause to) sit:
 - sidegi
-(cause to) walk:
-- andagi
-- sampogi
 (clothes) iron:
 - utu
 (combat) shield:
@@ -74,8 +77,6 @@
 - zukam
 (cooking) pot:
 - tenjire
-(degree of) strength:
-- balaje
 (degree of) thickness:
 - moteje
 (dietary) fiber:
@@ -99,6 +100,7 @@
 (even) though:
 - fe_hataya_ki
 (ever) since:
+- xorfe_ki
 - xorki
 (female) cousin:
 - femkuzin
@@ -190,8 +192,6 @@
 - fidali
 (one) billion:
 - giga
-(one) half:
-- un_ofdua
 (one) hundred:
 - cen
 (one) million:
@@ -222,8 +222,6 @@
 - danglan
 (presentation) slide:
 - eslaydi
-(prison) cell:
-- arestokamer
 (put into) practice:
 - pratika
 (religious) favor:
@@ -334,8 +332,6 @@
 - leya
 (the) present:
 - nunya
-(the) public:
-- demo
 (tiger) cub:
 - junibabur
 (together) with:
@@ -361,11 +357,17 @@
 -ably:
 - ible
 - abil
+-al:
+- -li
+-ally:
+- -li
 -ator:
 - tora
 -ed:
 - le
 -ful:
+- -pul
+-fully:
 - -pul
 -gon:
 - -gon
@@ -386,6 +388,8 @@
 -ish:
 - semi
 - -sim
+-ishly:
+- -sim
 -ism:
 - -ismo
 -ist:
@@ -394,6 +398,8 @@
 - itis
 -less:
 - -kal
+-lessly:
+- -kal
 -like:
 - -sim
 -mancy:
@@ -401,6 +407,8 @@
 -osis:
 - osis
 -ous:
+- -pul
+-ously:
 - -pul
 -phobia:
 - fobi
@@ -580,8 +588,8 @@ Atlantic:
 Atlantic (Ocean):
 - atlantiko
 Atlantic Ocean:
-- bahari_atlantiko
 - atlantiko
+- bahari_atlantiko
 Atlas:
 - atlas_name
 August:
@@ -1572,10 +1580,6 @@ Mary:
 - maria
 Masoch:
 - masok
-Masochism:
-- masokismo
-Masochist:
-- masokista
 Matthew:
 - mateo
 Mauritania:
@@ -1884,10 +1888,6 @@ Rwanda:
 - rwanda
 Sade:
 - sad
-Sadism:
-- sadismo
-Sadist:
-- sadista
 Saint Kitts and Nevis:
 - san_kristofer_ji_nevis
 Saint Lawrence:
@@ -2379,6 +2379,8 @@ a tenth:
 - un_ofdes
 a third:
 - un_oftiga
+a while:
+- kurto_watu
 abacus:
 - abakus
 abandon:
@@ -2975,26 +2977,18 @@ adhesively:
 - maxmo_jaldi
 'adj phrs: latest':
 - maxim_nerleli
+'adj phrs: more or less':
+- max_or_min
 'adj sfx: -like':
 - -sim
-'adj sfx: -th':
-- -yum
 'adj sfx: -uble':
 - -ple
 'adj sfx: _possessive adjective marker _':
 - -su
-'adj sfx: great in':
-- -day
-'adj sfx: in an active state or process of':
-- -ne
-'adj sfx: in an inactive state of':
-- -do
-'adj sfx: inclined':
-- -fil
-'adj sfx: inclined to':
-- -fil
-'adj sfx: low in':
-- -lil
+'adj sfx: bad':
+- -bur
+'adj sfx: good':
+- -bon
 'adj sfx: possessive adjective marker applied only to pronouns':
 - -su
 'adj sfx: relating to':
@@ -3003,8 +2997,20 @@ adhesively:
 - -pul
 'adj sfx: without sufficient':
 - -kal
-'adj/adv phrs: more or less':
-- max_or_min
+'adj/adv sfx: -th':
+- -yum
+'adj/adv sfx: great in':
+- -day
+'adj/adv sfx: in an active state or process of':
+- -ne
+'adj/adv sfx: in an inactive state of':
+- -do
+'adj/adv sfx: inclined':
+- -fil
+'adj/adv sfx: inclined to':
+- -fil
+'adj/adv sfx: low in':
+- -lil
 'adj: abdominal':
 - fubuli
 'adj: able':
@@ -3048,8 +3054,6 @@ adhesively:
 - xigoli
 'adj: accomplished':
 - dadaldo
-'adj: achillean':
-- akileli
 'adj: aching':
 - gutonne
 'adj: acidic':
@@ -3102,10 +3106,6 @@ adhesively:
 - reklamado
 'adj: affirmative':
 - sili
-'adj: afghan':
-- afganili
-'adj: african':
-- afrikali
 'adj: agender':
 - jensikal
 'adj: aggressive':
@@ -3120,8 +3120,6 @@ adhesively:
 - alkoholli
 'adj: algebraic':
 - aljebrali
-'adj: algerian':
-- jazairli
 'adj: algorithmic':
 - algoritmali
 'adj: alive':
@@ -3154,12 +3152,6 @@ adhesively:
 - ambisipul
 'adj: ambitransitive':
 - oroojetoli
-'adj: american':
-- usali
-'adj: amerindian':
-- amerindi
-'adj: amharan':
-- amarali
 'adj: amoral':
 - nendodukuli
 'adj: amused':
@@ -3180,8 +3172,6 @@ adhesively:
 - daylama
 'adj: anecdotal':
 - anedotali
-'adj: angolan':
-- angolali
 'adj: angry':
 - gadibu
 'adj: angular':
@@ -3223,12 +3213,8 @@ adhesively:
 - aprobado
 'adj: approximate':
 - daju
-'adj: arabian':
-- arabili
 'adj: architectural':
 - arkiteturli
-'adj: argentine':
-- argentinali
 'adj: aristocratic':
 - aristo
 'adj: arousing':
@@ -3249,14 +3235,10 @@ adhesively:
 'adj: artistic':
 - artefil
 - artepul
-'adj: asian':
-- asiali
 'adj: asleep':
 - xorsomnodo
 'adj: aspiring':
 - ambisine
-'adj: assamese':
-- ohomli
 'adj: associated':
 - asosyado
 'adj: asthmatic':
@@ -3282,8 +3264,6 @@ adhesively:
 - mezadudo
 'adj: audible':
 - oreible
-'adj: australian':
-- awstralili
 'adj: authentic':
 - awtenti
 'adj: authoritarian':
@@ -3318,14 +3298,10 @@ adhesively:
 - akseli
 'adj: axiomatic':
 - aksyomali
-'adj: azerbaijani':
-- azerbayjanli
 'adj: backward':
 - rupul
 'adj: bad':
 - bur
-'adj: bahá’í':
-- bahayi
 'adj: baked':
 - furnodo
 'adj: bald':
@@ -3342,23 +3318,17 @@ adhesively:
 - basikal
 'adj: basic':
 - basili
-'adj: basque':
-- ewskalli
 'adj: beautiful':
 - meli
 'adj: beginning':
 - xorucune
 - xorune
-'adj: belgian':
-- belgili
 'adj: belonging':
 - deli
 'adj: bendable':
 - fleksiible
 'adj: benefited':
 - faydado
-'adj: bengali':
-- banglali
 'adj: bent':
 - fleksido
 'adj: bequeathed':
@@ -3371,8 +3341,6 @@ adhesively:
 - maxmo_bon
 'adj: bewitched':
 - jumundo
-'adj: bhutanese':
-- drukili
 'adj: big':
 - day
 'adj: bilabial':
@@ -3439,15 +3407,11 @@ adhesively:
 - dayneo
 'adj: brawny':
 - adolabala
-'adj: brazilian':
-- brazilli
 'adj: bright':
 - luminpul
 'adj: brilliant':
 - cinonday
 - daycinonpul
-'adj: british':
-- britili
 'adj: broke':
 - nenpesado
 'adj: broken':
@@ -3482,12 +3446,6 @@ adhesively:
 - trankwilo
 'adj: caloric':
 - kalorili
-'adj: cambodian':
-- kampucili
-'adj: cameroonian':
-- kamerunli
-'adj: canadian':
-- kanadali
 'adj: cancerous':
 - kancerdo
 - kancerpul
@@ -3505,14 +3463,10 @@ adhesively:
 - farxudo
 'adj: carried':
 - portado
-'adj: cartesian':
-- dekartli
 'adj: catapulted':
 - manjanikudo
 'adj: catastrophic':
 - afatupul
-'adj: catholic':
-- katoliki
 'adj: cautious':
 - riskojuine
 'adj: cellular':
@@ -3529,8 +3483,6 @@ adhesively:
 - ceramikali
 'adj: ceremonial':
 - merasemli
-'adj: chadian':
-- cadili
 'adj: chaotic':
 - kaospul
 - kaossim
@@ -3554,10 +3506,6 @@ adhesively:
 - ninisim
 'adj: childless':
 - betekal
-'adj: chilean':
-- cileli
-'adj: chinese':
-- cungwoli
 'adj: chocolate':
 - cokolateli
 'adj: choral':
@@ -3597,8 +3545,6 @@ adhesively:
 - bardipul
 'adj: collapsed':
 - bunhwaydo
-'adj: colombian':
-- kolombili
 'adj: color-blind':
 - kolorokobimar
 'adj: colored':
@@ -3631,8 +3577,6 @@ adhesively:
 'adj: communicative':
 - komunikafil
 - komunikali
-'adj: comorian':
-- komorili
 'adj: compensated':
 - bocando
 'adj: compensatory':
@@ -3722,8 +3666,6 @@ adhesively:
 - fubaydo
 'adj: cosmic':
 - kosmoli
-'adj: costa rican':
-- kostarikali
 'adj: costly':
 - kimapul
 'adj: cotton':
@@ -3769,10 +3711,6 @@ adhesively:
 - cukili
 'adj: cylindrical':
 - cilindroli
-'adj: cypriot':
-- kiprosli
-'adj: czech':
-- ceskili
 'adj: daily':
 - moydinli
 'adj: damaged':
@@ -3986,8 +3924,6 @@ adhesively:
 - gubarofgido
 'adj: dusty':
 - gubarpul
-'adj: dutch':
-- nederili
 'adj: early':
 - jaldi
 'adj: eastern':
@@ -4000,8 +3936,6 @@ adhesively:
 - ekonomili
 'adj: ecstatic':
 - dayhox
-'adj: ecuadorian':
-- ekwadorli
 'adj: edible':
 - yamible
 'adj: edited':
@@ -4016,8 +3950,6 @@ adhesively:
 - egalyali
 'adj: egotistical':
 - seismofil
-'adj: egyptian':
-- masrili
 'adj: eighteenth':
 - desocoyum
 'adj: eighth':
@@ -4074,8 +4006,6 @@ adhesively:
 - energipul
 'adj: engaged':
 - gamivadado
-'adj: english':
-- englili
 'adj: enough':
 - kufi
 'adj: enthusiastic':
@@ -4107,14 +4037,8 @@ adhesively:
 - moywatuli
 'adj: ethical':
 - etikali
-'adj: ethiopian':
-- ityopili
 'adj: ethnic':
 - etnoli
-'adj: euclidean':
-- ewklideli
-'adj: european':
-- ewropali
 'adj: evening':
 - axamli
 'adj: every kind of':
@@ -4234,12 +4158,8 @@ adhesively:
 - limayum
 'adj: fiftieth':
 - limadesyum
-'adj: fijian':
-- fijili
 'adj: filed':
 - fayludo
-'adj: filipino':
-- pilipinali
 'adj: filmed':
 - filmedo
 'adj: filtered':
@@ -4252,8 +4172,6 @@ adhesively:
 - finine
 'adj: finite':
 - finipul
-'adj: finnish':
-- swomili
 'adj: fired':
 - exergogido
 - pamdo
@@ -4327,8 +4245,6 @@ adhesively:
 'adj: freezing':
 - bardiday
 - daybardipul
-'adj: french':
-- franseli
 'adj: frequent':
 - pimpan
 'adj: fresh':
@@ -4388,10 +4304,6 @@ adhesively:
 - tutumnarem
 'adj: geometrical':
 - geometrili
-'adj: german':
-- doycili
-'adj: ghanaian':
-- ganali
 'adj: ghostly':
 - xabahuli
 'adj: gingival':
@@ -4442,28 +4354,20 @@ adhesively:
 - semihwese
 'adj: greasy':
 - gresapul
-'adj: greek':
-- elinili
 'adj: green':
 - kijawi
 'adj: greenish':
 - semikijawi
-'adj: grenadian':
-- grenadali
 'adj: growling':
 - gurumane
 'adj: guaranteed':
 - garantido
-'adj: guatemalan':
-- gwatemalali
 'adj: guided':
 - gidado
 'adj: guiding':
 - gidane
 'adj: guilty':
 - yozaypul
-'adj: gujarati':
-- gujaratili
 'adj: guttural':
 - gawluli
 'adj: gymnastic':
@@ -4514,9 +4418,6 @@ adhesively:
 - wojudo
 'adj: herbal':
 - herbali
-'adj: herculean':
-- herkuleli
-- herkulesim
 'adj: heretical':
 - xinenmal
 'adj: heroic':
@@ -4545,8 +4446,6 @@ adhesively:
 - santo
 'adj: homosexual':
 - samajensifil
-'adj: honduran':
-- hondurali
 'adj: honest':
 - cipenkal
 'adj: honored':
@@ -4585,8 +4484,6 @@ adhesively:
 - cenyum
 'adj: hung':
 - pendedo
-'adj: hungarian':
-- magyarli
 'adj: hungry':
 - yamkal
 - yampeldo
@@ -4691,16 +4588,12 @@ adhesively:
 - nenkararfil
 'adj: independent':
 - ikawkal
-'adj: indian':
-- baratili
 'adj: indirect':
 - nenjinji
 'adj: indispensable':
 - beharemusi
 'adj: individual':
 - unpersonli
-'adj: indonesian':
-- indonesili
 'adj: industrial':
 - industrili
 'adj: inedible':
@@ -4803,18 +4696,12 @@ adhesively:
 - okonenible
 'adj: invocable':
 - celvokaible
-'adj: iranian':
-- iranli
-'adj: iraqi':
-- irakili
 'adj: ironic':
 - ironipul
 'adj: irregular':
 - regulakal
 'adj: irrelevant':
 - gwanxikal
-'adj: italian':
-- italili
 'adj: itching':
 - soyone
 'adj: juggling':
@@ -4823,14 +4710,6 @@ adhesively:
 - jurisdiksili
 'adj: karmic':
 - karmali
-'adj: karnataka':
-- karnatakali
-'adj: kashmiri':
-- kaxmirli
-'adj: kazakh':
-- kazakili
-'adj: kerala':
-- keralali
 'adj: kicked':
 - patado
 'adj: kind':
@@ -4845,10 +4724,6 @@ adhesively:
 'adj: known':
 - jixido
 - konedo
-'adj: konkani':
-- konkanli
-'adj: korean':
-- koreali
 'adj: labial':
 - labyali
 'adj: laryngeal':
@@ -4862,8 +4737,6 @@ adhesively:
 - dunerleli
 'adj: latex':
 - lateksuli
-'adj: latina':
-- latinikali
 'adj: launched':
 - lancado
 'adj: lawful':
@@ -4893,12 +4766,8 @@ adhesively:
 - afsaneli
 'adj: legible':
 - doxoible
-'adj: libyan':
-- libili
 'adj: licked':
 - likado
-'adj: liechtensteinian':
-- lihtenstaynli
 'adj: lifted':
 - liftido
 'adj: light':
@@ -4927,8 +4796,6 @@ adhesively:
 - literaturli
 'adj: literate':
 - doxoabil
-'adj: lithuanian':
-- lyetuvali
 'adj: little':
 - lil
 'adj: live':
@@ -4983,16 +4850,12 @@ adhesively:
 'adj: lukewarm':
 - liltermopul
 - termolil
-'adj: luxembourgish':
-- lutsemburgili
 'adj: luxurious':
 - luksopul
 'adj: lying':
 - letane
 'adj: lymphatic':
 - linfali
-'adj: macedonian':
-- makedonili
 'adj: macroscopic':
 - makro
 'adj: made of bronze':
@@ -5016,21 +4879,13 @@ adhesively:
 - magnetosim
 'adj: main':
 - cuyo
-'adj: malay':
-- malaysisa
-'adj: malaysian':
-- malaysili
 'adj: male':
 - man
 'adj: manic':
 - manikali
 - manikapul
-'adj: manipuri':
-- manipurli
 'adj: manufactured':
 - fabrikado
-'adj: marathi':
-- maharaxtrali
 'adj: marble':
 - marmorli
 'adj: marching':
@@ -5054,8 +4909,6 @@ adhesively:
 - matematili
 'adj: mature':
 - censu
-'adj: mauritian':
-- mawrisli
 'adj: maximum':
 - maximum
 'adj: meaningful':
@@ -5072,6 +4925,11 @@ adhesively:
 - melankoli
 'adj: melodic':
 - melodipul
+'adj: melted':
+- yunhedo
+'adj: melting':
+- yunhecune
+- yunhene
 'adj: memorable':
 - memorilaye
 'adj: mental':
@@ -5083,6 +4941,8 @@ adhesively:
 'adj: merciful':
 - rahemafil
 - rahemapul
+'adj: mere':
+- solli
 'adj: merry':
 - kweho
 'adj: meta':
@@ -5099,8 +4959,6 @@ adhesively:
 - metodepul
 'adj: metropolitan':
 - dayxaherli
-'adj: mexican':
-- mexikoli
 'adj: middle':
 - midi
 'adj: mighty':
@@ -5118,8 +4976,6 @@ adhesively:
 - poshayne
 'adj: missionary':
 - dinimisyonli
-'adj: mithila':
-- mitilali
 'adj: mixed':
 - mixturado
 'adj: mobile':
@@ -5135,8 +4991,6 @@ adhesively:
 - moderno
 'adj: molded':
 - kalebudo
-'adj: moldovan':
-- moldovali
 'adj: moldy':
 - kuvupul
 'adj: molecular':
@@ -5151,15 +5005,11 @@ adhesively:
 - dokujemdo
 'adj: monstrous':
 - kayvutusim
-'adj: montenegrin':
-- cernagorali
 'adj: mopped':
 - mopudo
 'adj: moral':
 - dodukuli
 - dodukupul
-'adj: moroccan':
-- magribili
 'adj: mortal':
 - morcuabil
 'adj: most':
@@ -5197,8 +5047,6 @@ adhesively:
 - mitologili
 'adj: naive':
 - naive
-'adj: namibian':
-- namibili
 'adj: narrated':
 - hikayedo
 'adj: narrow':
@@ -5235,8 +5083,6 @@ adhesively:
 - jaxali
 'adj: nice':
 - melibon
-'adj: nigerian':
-- nayjerili
 'adj: nineteenth':
 - desnueyum
 'adj: ninetieth':
@@ -5262,8 +5108,6 @@ adhesively:
 - normapul
 'adj: north':
 - utarali
-'adj: north-american':
-- amerikali
 'adj: nostalgic':
 - nostaljifil
 - nostaljipul
@@ -5302,22 +5146,12 @@ adhesively:
 - dumarali
 'adj: octuple':
 - ocople
-'adj: odisha':
-- orisali
 'adj: of birth':
 - xenculi
 'adj: of chocolate':
 - cokolateli
 'adj: of great faith':
 - xinenfil
-'adj: of karnataka':
-- karnatakali
-'adj: of kerala':
-- keralali
-'adj: of mithila':
-- mitilali
-'adj: of odisha':
-- orisali
 'adj: of silver':
 - fidali
 'adj: of this side':
@@ -5381,8 +5215,6 @@ adhesively:
 - yatimado
 'adj: orthodox':
 - xinensahi
-'adj: ottoman':
-- osmanli
 'adj: outdoor':
 - baxasmanli
 'adj: oval':
@@ -5401,8 +5233,6 @@ adhesively:
 - payado
 'adj: pained':
 - gutondo
-'adj: pakistani':
-- pakili
 'adj: palatal':
 - kogeli
 'adj: pale':
@@ -5466,8 +5296,6 @@ adhesively:
 - watumonli
 'adj: perpendicular':
 - ortogonali
-'adj: persian':
-- parsili
 'adj: personal':
 - personli
 'adj: persuaded':
@@ -5475,8 +5303,6 @@ adhesively:
 'adj: persuasive':
 - iknaabil
 - iknane
-'adj: peruvian':
-- peruli
 'adj: pessimistic':
 - pesimaismoli
 'adj: pharyngeal':
@@ -5510,8 +5336,6 @@ adhesively:
 - planido
 'adj: plastic':
 - plastikoli
-'adj: platonic':
-- platonli
 'adj: playful':
 - yuxifil
 'adj: pleasant':
@@ -5532,8 +5356,6 @@ adhesively:
 - dokyapul
 'adj: polar':
 - kutubuli
-'adj: polish':
-- polskali
 'adj: polished':
 - polixodo
 'adj: polite':
@@ -5644,18 +5466,12 @@ adhesively:
 - sezaible
 'adj: punished':
 - sezado
-'adj: punjabi':
-- panjabili
 'adj: purchased':
 - karido
-'adj: pure':
-- solli
 'adj: purple':
 - purpuro
 'adj: purplish':
 - semipurpuro
-'adj: qatari':
-- katarli
 'adj: quadruple':
 - careple
 'adj: quality':
@@ -5805,10 +5621,6 @@ adhesively:
 'adj: rocking':
 - dudulcune
 - dudulne
-'adj: romani':
-- romani
-'adj: romanian':
-- rumanili
 'adj: rotated':
 - rotado
 'adj: rotating':
@@ -5826,8 +5638,6 @@ adhesively:
 - harabudo
 'adj: rushed':
 - ajelado
-'adj: russian':
-- rusili
 'adj: rusty':
 - zangarpul
 'adj: sabotaged':
@@ -5846,22 +5656,16 @@ adhesively:
 - logado
 'adj: salty':
 - namakepul
-'adj: samoan':
-- samoali
 'adj: sandy':
 - xatupul
 'adj: sane':
 - sikoseha
-'adj: sapphic':
-- sapfoli
 'adj: satirical':
 - funcili
 'adj: satisfied':
 - truti
 'adj: satisfying':
 - trutigine
-'adj: saudi':
-- sawdili
 'adj: scandalous':
 - eskandalpul
 'adj: scarce':
@@ -5917,8 +5721,6 @@ adhesively:
 - sealimdo
 'adj: selfish':
 - sefil
-'adj: senegalese':
-- senegalli
 'adj: sensitive':
 - hisifil
 'adj: septuple':
@@ -5986,8 +5788,6 @@ adhesively:
 - saynido
 'adj: significant':
 - kufiday
-'adj: sikh':
-- siki
 'adj: silent':
 - sotikal
 'adj: silky':
@@ -6005,8 +5805,6 @@ adhesively:
 - simulado
 'adj: simultaneous':
 - samawatuli
-'adj: sindhi':
-- sindili
 'adj: sinful':
 - dambipul
 'adj: singing':
@@ -6030,16 +5828,10 @@ adhesively:
 - xilepudo
 'adj: slaughtered':
 - tosado
-'adj: slavic':
-- eslovi
 'adj: sleeping':
 - somnone
 'adj: sleepy':
 - somnopeldo
-'adj: slovak':
-- eslovakili
-'adj: slovene':
-- eslovenili
 'adj: slow':
 - hanman
 'adj: smoked':
@@ -6074,12 +5866,8 @@ adhesively:
 - xercado
 'adj: south':
 - sudeli
-'adj: south african':
-- sudeafrikali
 'adj: sovereign':
 - soberen
-'adj: spanish':
-- espanili
 'adj: spatial':
 - kunganli
 'adj: special':
@@ -6109,8 +5897,6 @@ adhesively:
 - nicodedo
 'adj: squeezing':
 - nicodene
-'adj: sri lankan':
-- esrilankali
 'adj: stable':
 - andin
 'adj: standard':
@@ -6246,8 +6032,6 @@ adhesively:
 - swetane
 'adj: sweaty':
 - swetapul
-'adj: swedish':
-- swerili
 'adj: sweet':
 - tami
 'adj: swept':
@@ -6255,8 +6039,6 @@ adhesively:
 'adj: swinging':
 - urjuhacune
 - urjuhane
-'adj: swiss':
-- switzeli
 'adj: swollen':
 - warumdo
 'adj: sworn':
@@ -6289,8 +6071,6 @@ adhesively:
 - tatikali
 'adj: tailless':
 - kodakal
-'adj: tajik':
-- tojikili
 'adj: talented':
 - talentodo
 - talentopul
@@ -6300,8 +6080,6 @@ adhesively:
 - gao
 'adj: tame':
 - posyesen
-'adj: tamil':
-- tamilli
 'adj: tattooed':
 - tatuado
 'adj: taxed':
@@ -6329,8 +6107,6 @@ adhesively:
 - terordo
 'adj: testicular':
 - gowanli
-'adj: thai':
-- tayli
 'adj: that kind of':
 - denpul
 'adj: the best':
@@ -6395,8 +6171,6 @@ adhesively:
 - tongo
 'adj: tonal':
 - tonali
-'adj: tongan':
-- tongali
 'adj: torn':
 - cirudo
 'adj: tortured':
@@ -6445,17 +6219,11 @@ adhesively:
 - xinloyne
 'adj: trustworthy':
 - xinloylaye
-'adj: turkish':
-- turkili
-'adj: turkmen':
-- turkmenili
 'adj: turned':
 - jwando
 'adj: turning':
 - jwancune
 - jwanne
-'adj: tuvaluan':
-- tuvaluli
 'adj: twelfth':
 - desduayum
 'adj: twentieth':
@@ -6466,12 +6234,8 @@ adhesively:
 - taypudo
 'adj: typical':
 - tipoli
-'adj: ugandan':
-- ugandali
 'adj: ugly':
 - colo
-'adj: ukrainian':
-- ukrainali
 'adj: un-cooked':
 - nenkokido
 'adj: unacceptable':
@@ -6598,8 +6362,6 @@ adhesively:
 - beyongukal
 'adj: uvular':
 - uvulali
-'adj: uzbek':
-- ozbekili
 'adj: vaccinated':
 - vaksinado
 'adj: vaginal':
@@ -6626,8 +6388,6 @@ adhesively:
 - naremkogeli
 'adj: velvety':
 - mahamelsim
-'adj: venezuelan':
-- venezwelali
 'adj: vengeful':
 - intikamfil
 'adj: verbal':
@@ -6637,8 +6397,6 @@ adhesively:
 'adj: vibrating':
 - vibracune
 - vibrane
-'adj: vietnamese':
-- vyetnamli
 'adj: violent':
 - bawlupul
 'adj: viral':
@@ -6765,13 +6523,9 @@ adhesively:
 - juni
 'adj: youthful':
 - junisim
-'adj: zambian':
-- zambili
 'adj: zigzagging':
 - zigzagucune
 - zigzagune
-'adj: zimbabwean':
-- zimbabweli
 'adj: zonal':
 - zonali
 adjacent:
@@ -7014,6 +6768,7 @@ adult:
 - maxmo_jaldi
 'adv phrs: more or less':
 - maxmo_or_minmo
+- max_or_min
 'adv phrs: most recently':
 - maxim_nerleli
 'adv phrs: rather':
@@ -7023,8 +6778,20 @@ adult:
 'adv relative clause: where':
 - hu_denloka
 - hu_in_da
+'adv sfx: -ally':
+- -li
+'adv sfx: -fully':
+- -pul
+'adv sfx: -ishly':
+- -sim
 'adv sfx: adverb of degree and manner':
 - -mo
+'adv sfx: badly':
+- -bur
+'adv sfx: well':
+- -bon
+'adv: -lessly':
+- -kal
 'adv: a bit':
 - xosu
 'adv: a different quantity':
@@ -8374,6 +8141,7 @@ adult:
 'adv: never':
 - nilwatu
 'adv: newly':
+- nerlelimo
 - neo
 'adv: nicely':
 - melibon
@@ -8588,8 +8356,6 @@ adult:
 - nabizane
 'adv: punishably':
 - sezaible
-'adv: purely':
-- solli
 'adv: queerly':
 - kwir
 'adv: quietly':
@@ -8775,6 +8541,8 @@ adult:
 - sosyal
 'adv: softly':
 - narem
+'adv: solely':
+- solomo
 'adv: solidly':
 - gutipul
 'adv: solitarily':
@@ -9234,7 +9002,7 @@ affricate:
 afraid:
 - fobipul
 after:
-- jaxaki
+- jaxafe_ki
 - xafe_ki
 - xaki
 - jaxafe
@@ -9326,7 +9094,9 @@ ailuridae:
 - rosopanda
 ailuropoda:
 - daypanda
-aim (at):
+aim:
+- cele
+aim at:
 - cele
 aimlessly:
 - jowey
@@ -9342,6 +9112,8 @@ airline:
 - fleynavitim
 airline captain:
 - fleygikef
+airline pilot:
+- fleygiyen
 airplane:
 - fleynavi
 airport:
@@ -9371,6 +9143,11 @@ alcoholic:
 - alkoholli
 alcoholic drink:
 - jiu
+alcoholisation:
+- dualkohol
+- alkoholcu
+alcoholise:
+- alkohol
 alcoholism:
 - alkoholfilya
 alcoholization:
@@ -9482,7 +9259,9 @@ almond milk:
 - badammilko
 almost:
 - kriban
-aloe (vera):
+aloe:
+- aloe
+aloe vera:
 - aloe
 alone:
 - solo
@@ -9504,6 +9283,8 @@ alongside of:
 alpaca:
 - alpaka
 alphabet:
+- abece
+alphabetise:
 - abece
 alphabetize:
 - abece
@@ -9586,6 +9367,9 @@ amenable to instruction:
 - alimible
 american:
 - amerikali
+american football:
+- futbal
+- futbalbol
 american indian:
 - amerindiyen
 - amerindi
@@ -9758,12 +9542,20 @@ anesthesia:
 - macwi
 anesthetic:
 - macwiente
+anesthetise:
+- macwi
 anesthetize:
 - macwi
 anet:
 - dila
 anethum graveolens:
 - dila
+anew:
+- ri-
+- fe_rimara
+- rili
+- rimarali
+- ripul
 angel:
 - anjilyen
 anger:
@@ -9974,6 +9766,8 @@ apart from:
 - minus
 apartment:
 - apartamen
+apartment complex:
+- apartamenlari
 ape:
 - maymun
 aperture:
@@ -10000,6 +9794,8 @@ apocalyptically:
 - kyamatusim
 apodidae:
 - barixababil
+apologise:
+- mafupeti
 apologize:
 - mafupeti
 apology:
@@ -10025,6 +9821,8 @@ appearance:
 - precu
 appendix:
 - maxusxey
+appetiser:
+- lefeyam
 appetite:
 - yamvole
 appetizer:
@@ -10208,6 +10006,8 @@ arrangement:
 arrest:
 - aresto
 - fe_aresto
+arrest warrant:
+- arestoamiru
 arrestee:
 - bearestoyen
 arrival:
@@ -10244,6 +10044,8 @@ art of:
 - logi
 art school:
 - arteeskol
+art studio:
+- artedom
 artemisia dracunculus:
 - tarahon
 arterial:
@@ -10340,8 +10142,9 @@ as possible:
 as promised:
 - fol_vada
 as soon as:
-- fori_xaki
-- jaxaki
+- fori_xafe_ki
+- fori_xafe_ki
+- jaxafe_ki
 as though:
 - kwas
 as well as:
@@ -10555,6 +10358,8 @@ atomic bomb:
 - atomubomba
 atomically:
 - atomuli
+atomise:
+- esprey
 atomize:
 - esprey
 atone:
@@ -10663,6 +10468,12 @@ authenticity:
 author:
 - eskriyen
 - kreayen
+authorisation:
+- duawtorita
+authorise:
+- awtorita
+authorising:
+- duawtorita
 authoritarian:
 - awtoritafil
 authoritarianly:
@@ -10910,6 +10721,7 @@ bacteria:
 bad:
 - bur-
 - bur
+- -bur
 bad guy:
 - buryen
 bad luck:
@@ -10921,7 +10733,9 @@ badge:
 badger:
 - borsuke
 badly:
+- bur-
 - bur
+- -bur
 badminton:
 - badminton
 badmouth:
@@ -11427,7 +11241,7 @@ be hot:
 be hungry:
 - yamvole
 be ignorant of:
-- posjixi
+- nenjixi
 be in:
 - inya
 be in a coma:
@@ -11440,12 +11254,14 @@ be in favor:
 - proya
 be in favor of:
 - proya
+be in favour:
+- proya
+be in favour of:
+- proya
 be in heat:
 - fatujon
 be in operating condition:
 - funsyon
-be in shock:
-- xoku
 be in the habit:
 - xugwan
 be in the habit of:
@@ -11584,6 +11400,8 @@ be toward:
 - hoyya
 be towards:
 - hoyya
+be traumatised:
+- trawma
 be traumatized:
 - trawma
 be unable:
@@ -11699,6 +11517,9 @@ become adhered:
 - adhesicu
 become agitated:
 - hunfuncu
+become alcoholised:
+- alkoholcu
+- alkohol
 become alcoholized:
 - alkoholcu
 - alkohol
@@ -11743,6 +11564,8 @@ become briefer:
 - maxkurtocu
 become bugged:
 - lawfencu
+become calm:
+- trankwilocu
 become certain:
 - yakincu
 become clear:
@@ -11781,6 +11604,8 @@ become electrified:
 - eletri
 become empty:
 - kalcu
+become energised:
+- energi
 become energized:
 - energi
 become enslaved:
@@ -11810,6 +11635,8 @@ become grossed out:
 - ufuecu
 become happy:
 - hoxcu
+become harmonised:
+- armoni
 become harmonized:
 - armoni
 become healthy:
@@ -11928,6 +11755,8 @@ become thinner:
 - maxdambocu
 become tired:
 - pilocu
+become traumatised:
+- trawmacu
 become traumatized:
 - trawmacu
 become tumorous:
@@ -11988,7 +11817,7 @@ beet:
 beetle:
 - gubangu
 before:
-- jaleki
+- jalefe_ki
 - lefe_ki
 - leki
 - fe_oko_de
@@ -12266,7 +12095,9 @@ bipedal:
 - duapedali
 bipedally:
 - duapedali
-birch (tree):
+birch:
+- betula
+birch tree:
 - betula
 bird:
 - piu
@@ -13011,10 +12842,15 @@ busy:
 - ixgalupul
 but:
 - mas
+- mas_fe_tayti
 - sol
 - minus
+but (rather):
+- mas_fe_tayti
 but for:
 - minus
+but instead:
+- mas_fe_tayti
 but nevertheless:
 - mas_fe_hataya
 but still:
@@ -13188,8 +13024,13 @@ call forth:
 calligraphy:
 - melieskri
 calm:
+- trankwiloya
 - trankwilogi
 - trankwilo
+calm (down):
+- trankwilocu
+calm down:
+- trankwilogi
 calmly:
 - trankwilo
 calmness:
@@ -13531,6 +13372,8 @@ catch fire:
 - xoratex
 catch sight of:
 - xoroko
+categorise:
+- klase
 categorize:
 - klase
 category:
@@ -13554,60 +13397,100 @@ causative:
 cause:
 - kosa
 - -gi
-cause (somebody) to become frightened:
-- xorfobi
-cause (somebody) to blink:
-- pelakegi
-cause (somebody) to cough:
-- kofgi
-cause (somebody) to cry or to weep:
-- wawagi
-cause (somebody) to dance:
-- dansegi
-cause (somebody) to groan or to moan:
-- goronagi
-cause (somebody) to growl:
-- gurumagi
-cause (somebody) to pee or to piss:
-- pipigi
-cause (somebody) to poop:
-- kakagi
-cause (somebody) to run:
-- pawbugi
-cause (somebody) to salivate:
-- buzakugi
-cause (somebody) to scream:
-- ayaygi
-cause (somebody) to sigh:
-- tanxikugi
-cause (somebody) to sing:
-- lalagi
-cause (somebody) to sleep:
-- somnogi
-cause (somebody) to smile:
-- tabasumgi
-cause (somebody) to sneeze:
-- acumgi
-cause (somebody) to snore:
-- horgi
-cause (somebody) to sweat:
-- swetagi
-cause (somebody) to swim:
-- suyongi
-cause (somebody) to tear up:
-- axkegi
-cause (somebody) to urinate:
-- pixigi
-cause (somebody) to vomit:
-- kakugi
-cause (somebody) to work:
-- ergogi
-cause (somebody) to yawn:
-- hwamgi
-cause (something) to be small or little:
-- lilgi
-cause (something/somebody) to be:
+cause  to be:
 - sengi
+cause  to be aware:
+- ixi
+cause  to be conscious:
+- ixi
+cause  to be dangerous:
+- hatari
+cause  to be famous:
+- xohra
+cause  to be humble:
+- vinamragi
+cause  to be intelligent:
+- cinon
+cause  to be paranoid:
+- paranoy
+cause  to be small or little:
+- lilgi
+cause  to be smart:
+- cinon
+cause  to be talented:
+- talento
+cause  to be violent:
+- bawlu
+cause  to become:
+- sengi
+cause  to become aware:
+- xorixi
+cause  to become conscious:
+- xorixi
+cause  to become fatigued:
+- xorpilo
+cause  to become frightened:
+- xorfobi
+cause  to become scared:
+- xorfobi
+cause  to become tired:
+- xorpilo
+cause  to blink:
+- pelakegi
+cause  to cough:
+- kofgi
+cause  to cry or to weep:
+- wawagi
+cause  to dance:
+- dansegi
+cause  to fart:
+- prutegi
+cause  to groan or to moan:
+- goronagi
+cause  to grow:
+- xunjangi
+cause  to growl:
+- gurumagi
+cause  to laugh:
+- hahagi
+cause  to pee or to piss:
+- pipigi
+cause  to poop:
+- kakagi
+cause  to run:
+- pawbugi
+cause  to salivate:
+- buzakugi
+cause  to scream:
+- ayaygi
+cause  to sigh:
+- tanxikugi
+cause  to sing:
+- lalagi
+cause  to sleep:
+- somnogi
+cause  to smile:
+- tabasumgi
+cause  to sneeze:
+- acumgi
+cause  to snore:
+- horgi
+cause  to sweat:
+- swetagi
+cause  to swim:
+- suyongi
+cause  to tear up:
+- axkegi
+cause  to urinate:
+- pixigi
+cause  to vomit:
+- kakugi
+cause  to want to:
+- -pel
+cause  to work:
+- ergogi
+cause  to yawn:
+- hwamgi
 cause a panic attack:
 - panikokrisis
 cause a pathology:
@@ -13670,106 +13553,26 @@ cause schizophrenia:
 - eskizofreni
 cause scurvy:
 - eskorbuto
-cause somebody to be aware:
-- ixi
-cause somebody to be conscious:
-- ixi
-cause somebody to be famous:
-- xohra
-cause somebody to be humble:
-- vinamragi
-cause somebody to be intelligent:
-- cinon
-cause somebody to be paranoid:
-- paranoy
-cause somebody to be smart:
-- cinon
-cause somebody to be talented:
-- talento
-cause somebody to become aware:
-- xorixi
-cause somebody to become conscious:
-- xorixi
-cause somebody to become fatigued:
-- xorpilo
-cause somebody to become scared:
-- xorfobi
-cause somebody to become tired:
-- xorpilo
-cause somebody to fart:
-- prutegi
-cause somebody to laugh:
-- hahagi
-cause somebody to want to:
-- -pel
-cause something/somebody to be dangerous:
-- hatari
-cause something/somebody to be violent:
-- bawlu
-cause something/somebody to become:
-- sengi
-cause something/somebody to grow:
-- xunjangi
 cause to:
 - -gi
 cause to be:
 - -gi
 cause to be  comfortable:
 - konforta
-cause to be aware:
-- ixi
-cause to be conscious:
-- ixi
-cause to be dangerous:
-- hatari
-cause to be famous:
-- xohra
-cause to be humble:
-- vinamragi
-cause to be intelligent:
-- cinon
-cause to be paranoid:
-- paranoy
-cause to be smart:
-- cinon
-cause to be talented:
-- talento
-cause to be violent:
-- bawlu
-cause to become:
-- sengi
-cause to become aware:
-- xorixi
-cause to become conscious:
-- xorixi
-cause to become fatigued:
-- xorpilo
-cause to become scared:
-- xorfobi
-cause to become tired:
-- xorpilo
 cause to belch:
 - gepugi
 cause to burp:
 - gepugi
 cause to defecate:
 - fekagi
-cause to fart:
-- prutegi
-cause to grow:
-- xunjangi
 cause to have:
 - haregi
-cause to laugh:
-- hahagi
 cause to rot:
 - fasidugi
 cause to shit:
 - fekagi
 cause to sink:
 - garakugi
-cause to want to:
-- -pel
 cause trauma:
 - trawma
 cause tumors:
@@ -13827,6 +13630,7 @@ celestial body:
 celestial object:
 - tenmun
 cell:
+- arestokamer
 - celul
 cellular:
 - celulli
@@ -14272,6 +14076,10 @@ civil rights:
 - minxihaki
 civilian:
 - civilyen
+civilisation:
+- tamaduntim
+civilise:
+- tamadun
 civilised:
 - tamadundo
 civilization:
@@ -14590,8 +14398,6 @@ collapse:
 - bunhway
 collapsed:
 - bunhwaydo
-collar:
-- gardanbendu
 colleague:
 - tonergoyen
 collect:
@@ -14611,6 +14417,10 @@ colon:
 - duatyan
 colonel:
 - koronel
+colonisation:
+- kolonigi
+colonise:
+- kolonigi
 colonization:
 - kolonigi
 colonize:
@@ -14877,6 +14687,7 @@ complete:
 completely:
 - kompleto
 complex:
+- apartamenlari
 - komplekso
 - fukuza
 complexity:
@@ -15080,6 +14891,10 @@ congratulations:
 - mas_fe_hataya
 'conj phrs: as long as':
 - mas_sol_eger
+'conj phrs: but':
+- mas_fe_tayti
+'conj phrs: but rather':
+- mas_fe_tayti
 'conj phrs: et cetera':
 - ji_max_ete
 - ji_max_oto
@@ -15093,6 +14908,8 @@ congratulations:
 - denloka_hu
 'conj subordinate clause: wherever':
 - moyloka_hu
+'conj: about which':
+- temki
 'conj: after':
 - xafe_ki
 - xaki
@@ -15127,6 +14944,7 @@ congratulations:
 'conj: even though':
 - fe_hataya_ki
 'conj: ever since':
+- xorfe_ki
 - xorki
 'conj: if':
 - eger
@@ -15135,9 +14953,10 @@ congratulations:
 'conj: if so':
 - eger_si
 'conj: immediately after':
-- fori_xaki
+- fori_xafe_ki
+- fori_xafe_ki
 'conj: immediately before':
-- fori_leki
+- fori_lefe_ki
 'conj: in case':
 - fe_kaso_ki
 'conj: instead of':
@@ -15145,9 +14964,9 @@ congratulations:
 'conj: like':
 - denmaner_hu
 'conj: long after':
-- teli_xaki
+- teli_xafe_ki
 'conj: long before':
-- teli_leki
+- teli_lefe_ki
 'conj: marks interrogative clauses in declarative sentences':
 - ku
 'conj: nor':
@@ -15155,26 +14974,26 @@ congratulations:
 'conj: or':
 - or
 'conj: right after':
-- jaxaki
+- jaxafe_ki
 'conj: right before':
-- jaleki
+- jalefe_ki
 'conj: shortly before':
-- ner_leki
+- ner_lefe_ki
 'conj: since':
+- xorfe_ki
 - xorki
 'conj: since before':
-- xorleki
+- xorlefe_ki
 'conj: so that':
 - celki
 'conj: soon after':
-- ner_xaki
+- ner_xafe_ki
 'conj: such that':
 - ki_fe_folo
 'conj: that':
 - feki
 - ki
 - ki_fe_folo
-- temki
 'conj: though':
 - fe_hataya_ki
 'conj: unless':
@@ -15184,6 +15003,7 @@ congratulations:
 - nenkom
 - poskom
 'conj: until':
+- finfe_ki
 - finki
 'conj: whereas':
 - fe_kompara_ki
@@ -15857,6 +15677,8 @@ critically:
 - krisispul
 - posaprobane
 - poscosanne
+criticise:
+- poscosan
 criticism:
 - poscosan
 criticize:
@@ -16025,9 +15847,10 @@ custody:
 customer:
 - kliente
 cut:
+- bage
 - kata
 - katado
-cut (up):
+cut up:
 - bage
 cute:
 - kaway
@@ -16270,6 +16093,10 @@ declension:
 decline:
 - morfo
 - posswikara
+decolonisation:
+- poskolonigi
+decolonise:
+- poskolonigi
 decolonization:
 - poskolonigi
 decolonize:
@@ -16780,8 +16607,8 @@ devotedly:
 devotion:
 - cungiya
 devtest:
-- devtest_2
 - devtest_1
+- devtest_2
 - devtest
 devtest0:
 - devtest
@@ -17474,9 +17301,10 @@ drily:
 - suhe
 drink:
 - gluxey
+- jiu
 - awglu
 - glu
-drink (alcohol):
+drink alcohol:
 - jiu
 drink up:
 - awglu
@@ -17488,7 +17316,7 @@ drive:
 - pel
 - xofer
 - -pel
-drive (somebody) to:
+drive  to:
 - -pel
 drive away:
 - awpel
@@ -17895,8 +17723,8 @@ electrification:
 - dueletri
 - eletricu
 electrify:
-- eletrixoku
 - eletri
+- eletrixoku
 electrocute:
 - eletrixoku
 electrocution:
@@ -18027,6 +17855,10 @@ emperor:
 - imperikef
 emphasis:
 - enfasis
+emphasise:
+- enfasis
+emphasised:
+- enfasisdo
 emphasize:
 - enfasis
 emphasized:
@@ -18156,6 +17988,8 @@ energetic:
 energetically:
 - aksyonfil
 - energipul
+energise:
+- energi
 energize:
 - energi
 energy:
@@ -18474,6 +18308,8 @@ euphonium:
 europium:
 - ewropyum
 euthanasia:
+- rahemamorgi
+euthanise:
 - rahemamorgi
 euthanize:
 - rahemamorgi
@@ -19004,6 +18840,8 @@ fancily:
 - zarif
 fancy:
 - zarif
+fantasise:
+- fantasi
 fantasize:
 - fantasi
 fantastic:
@@ -19090,6 +18928,7 @@ fault:
 - yozay
 favor:
 - lutufxey
+- proya
 - pro
 favorable:
 - propul
@@ -19102,6 +18941,7 @@ favorite:
 favour:
 - lutufxey
 - nimatu
+- proya
 favourable:
 - propul
 favourably:
@@ -19138,7 +18978,7 @@ fearlessly:
 - fobikal
 fearlessness:
 - fobikalya
-- posfobi
+- nenfobi
 feast:
 - parti
 feast of sacrifice:
@@ -19248,6 +19088,8 @@ festival:
 fetal:
 - janinli
 fetish:
+- fetixi
+fetishise:
 - fetixi
 fetishism:
 - fetixi
@@ -19367,6 +19209,8 @@ final:
 - finili
 final exam:
 - finili_eksame
+finalise:
+- fini
 finalize:
 - fini
 finally:
@@ -19680,6 +19524,8 @@ foot:
 - futi
 - peda
 football:
+- futbal
+- futbalbol
 - pedabol
 footpath:
 - pedadao
@@ -19689,6 +19535,7 @@ footprint:
 for:
 - fe_kosa_ki
 - koski
+- pro-
 - cel
 - dur
 - fe
@@ -19696,6 +19543,7 @@ for:
 - fol
 - kos
 - por
+- pro
 - tas
 - xorlefe
 - por_moyun
@@ -19878,8 +19726,13 @@ fossil:
 - fosil
 fossilisation:
 - fosilcu
+- fosilgi
 fossilise:
 - fosilcu
+- fosilgi
+fossilised:
+- fosilcudo
+- fosilgido
 fossilization:
 - fosilcu
 - fosilgi
@@ -20193,6 +20046,10 @@ furthermore:
 - maxpul
 fury:
 - daygadibuya
+fuse:
+- tonyunhe
+fusion:
+- tonyunhe
 future:
 - xaya
 - xa-
@@ -20464,6 +20321,8 @@ get deeper:
 - amikucu
 get devastated:
 - harabu
+get disinfected:
+- posenfeksi
 get distracted:
 - awjuicu
 get divorced:
@@ -20472,6 +20331,10 @@ get dressed:
 - inlabascu
 get easy:
 - asancu
+get electrified:
+- eletrixoku
+get electrocuted:
+- eletrixoku
 get enchanted:
 - carmecu
 get entertained:
@@ -20486,6 +20349,8 @@ get happy:
 - hoxcu
 get harmed:
 - sungay
+get harmonised:
+- armonicu
 get harmonized:
 - armonicu
 get healthy:
@@ -20518,6 +20383,8 @@ get married:
 get mirrored:
 - aynacu
 - ayna
+get misformed:
+- malforma
 get near:
 - nercu
 get off:
@@ -20551,8 +20418,15 @@ get ruined:
 - harabu
 get sad:
 - hazunicu
+get sanitised:
+- posenfeksi
+get sanitized:
+- posenfeksi
 get separated:
 - julacu
+get shocked:
+- eletrixoku
+- xoku
 get short:
 - cotecu
 get sick:
@@ -20566,6 +20440,8 @@ get spoiled:
 get stuck:
 - adhesicu
 - adhesi
+get tazed:
+- eletrixoku
 get the courage (to):
 - xoryunki
 get thin:
@@ -20597,6 +20473,8 @@ get well again:
 - rusehacu
 get wrecked:
 - harabu
+get zapped:
+- eletrixoku
 geyser:
 - gayser
 ghanan:
@@ -20838,6 +20716,7 @@ good:
 - bon
 - jotaybon
 - sifabon
+- -bon
 good day:
 - bondin
 - bonnuru
@@ -21429,6 +21308,10 @@ harmonious:
 - armonipul
 harmoniously:
 - armonipul
+harmonisation:
+- duarmoni
+harmonise:
+- armoni
 harmonization:
 - duarmoni
 harmonize:
@@ -22325,6 +22208,8 @@ hypothermia:
 - infratermo
 hypothesis:
 - hipotesis
+hypothesise:
+- hipotesis
 hypothesize:
 - hipotesis
 hypothetical:
@@ -22380,10 +22265,16 @@ idol:
 - idol
 idol worship:
 - idolibada
+idolatrise:
+- idolibada
 idolatrize:
 - idolibada
 idolatry:
 - idolibada
+idolise:
+- idolgi
+idolising:
+- idolgi
 idolize:
 - idolgi
 idolizing:
@@ -22400,7 +22291,7 @@ ignite:
 ignition:
 - xoratex
 ignorance:
-- posjixi
+- nenjixi
 ignore:
 - posjui
 iguana:
@@ -22475,11 +22366,12 @@ immediately:
 immediately adjacent:
 - ja-
 immediately after:
-- fori_xaki
+- fori_xafe_ki
+- fori_xafe_ki
 - fori_xafe
 - fori_xafe_na
 immediately before:
-- fori_leki
+- fori_lefe_ki
 - fori_lefe
 - fori_lefe_na
 immense:
@@ -22492,6 +22384,12 @@ immorally:
 - dodukukal
 immune:
 - menikipul
+immunisation:
+- dumeniki
+immunise:
+- meniki
+immunised:
+- menikido
 immunity:
 - meniki
 immunization:
@@ -22697,6 +22595,7 @@ in favor of:
 - pro
 in favour of:
 - pro-
+- pro
 in front:
 - fe_fronta
 in front of:
@@ -23428,6 +23327,8 @@ interior:
 - bonglu
 'interj: congratulations':
 - tabriku
+'interj: enough':
+- kufi
 'interj: ew':
 - ufue
 'interj: farewell':
@@ -23563,9 +23464,9 @@ intestinal:
 intestine:
 - antru
 intimidate:
-- yonfobi
+- infobigi
 intimidation:
-- yonfobi
+- infobigi
 into:
 - cel_in
 intonation:
@@ -23683,6 +23584,12 @@ iodine:
 - yodin
 ion:
 - yoni
+ionisation:
+- yonicu
+- yonigi
+ionise:
+- yonicu
+- yonigi
 ionization:
 - yonicu
 - yonigi
@@ -24549,7 +24456,7 @@ lesson:
 - darsu
 let:
 - izin
-let (somebody) know:
+let  know:
 - jixigi
 let down:
 - gitayfrustra
@@ -24966,7 +24873,7 @@ long:
 - hasratu
 - lungo
 long after:
-- teli_xaki
+- teli_xafe_ki
 - teli_xafe
 - teli_xafe_na
 - telixali
@@ -24975,7 +24882,7 @@ long afterwards:
 long ago:
 - telileli
 long before:
-- teli_leki
+- teli_lefe_ki
 - teli_lefe
 - teli_lefe_na
 long for:
@@ -25279,6 +25186,8 @@ magnetic:
 magnetically:
 - magnetoli
 - magnetosim
+magnetise:
+- magneto
 magnetism:
 - magnetoya
 magnetize:
@@ -25317,435 +25226,258 @@ make:
 - krea
 - sengi
 - -gi
-make (money):
-- inpesa
-make (somebody) ambitious:
+make  ambitious:
 - ambisi
-make (somebody) anxious:
+make  angry:
+- gadibugi
+make  anxious:
 - ansya
-make (somebody) aware:
+make  aware:
 - ixi
 - xorixi
-make (somebody) comfortable:
-- konforta
-make (somebody) courageous:
-- yunki
-make (somebody) famous:
-- xohra
-make (somebody) happy:
-- hoxgi
-make (somebody) intelligent:
-- cinon
-make (somebody) laugh:
-- hahagi
-make (somebody) paranoid:
-- paranoy
-make (somebody) responsible (for):
-- masulgi
-make (somebody) talented:
-- talento
-make (something) difficult:
-- katinagi
-make (something) easy:
-- asangi
-make (something) rotten:
-- fasidugi
-make (something/somebody) bad:
+make  bad:
 - burgi
-make (something/somebody) dangerous:
+make  beautiful:
+- meligi
+make  better:
+- maxbongi
+make  big:
+- daygi
+make  bigger:
+- maxdaygi
+make  blink:
+- pelakegi
+make  brief:
+- kurtogi
+make  briefer:
+- maxkurtogi
+make  cold:
+- bardi
+make  comfortable:
+- konforta
+make  conscious:
+- ixi
+- xorixi
+make  cough:
+- kofgi
+make  courageous:
+- yunki
+make  cry or weep:
+- wawagi
+make  dance:
+- dansegi
+make  dangerous:
 - hatari
-make (something/somebody) good:
-- bongi
-make (something/somebody) slower:
-- maxhanmangi
-make (something/somebody) thin:
-- dambogi
-make (something/somebody) thinner:
-- maxdambogi
-make (something/somebody) tired:
+make  deep:
+- amikugi
+make  deeper:
+- maxamikugi
+make  different:
+- alogi
+make  difficult:
+- katinagi
+make  dry:
+- suhegi
+make  easy:
+- asangi
+make  famous:
+- xohra
+make  fart:
+- prutegi
+make  fat:
+- cibopulgi
+make  fatigued:
 - xorpilo
-make (something/somebody) violent:
+make  flaccid:
+- laxogi
+make  flat:
+- pangugi
+make  good:
+- bongi
+make  groan or moan:
+- goronagi
+make  grow:
+- xunjangi
+make  growl:
+- gurumagi
+make  happen:
+- okurgi
+make  happy:
+- hoxgi
+make  holy:
+- santogi
+make  humble:
+- vinamragi
+make  ill:
+- bimargi
+make  inactive:
+- pasivogi
+make  intelligent:
+- cinon
+make  invalid:
+- posyukyo
+make  known:
+- konegi
+make  large:
+- daygi
+make  larger:
+- maxdaygi
+make  laugh:
+- hahagi
+make  lean:
+- dambogi
+make  leaner:
+- maxdambogi
+make  limp:
+- laxogi
+make  low:
+- cotegi
+make  mature:
+- censugi
+make  more beautiful:
+- maxmeligi
+make  pale:
+- cambaygi
+make  pallid:
+- cambaygi
+make  paranoid:
+- paranoy
+make  pee or piss:
+- pipigi
+make  poop:
+- kakagi
+make  real:
+- realgi
+make  responsible (for):
+- masulgi
+make  ripe:
+- censugi
+make  rotten:
+- fasidugi
+make  run:
+- pawbugi
+make  sacred:
+- santogi
+make  salivate:
+- buzakugi
+make  scream:
+- ayaygi
+make  short:
+- cotegi
+- kurtogi
+make  shorter:
+- maxcotegi
+- maxkurtogi
+make  sick:
+- bimargi
+make  sigh:
+- tanxikugi
+make  sing:
+- lalagi
+make  sleep:
+- somnogi
+make  slender:
+- dambogi
+make  slenderer:
+- maxdambogi
+make  slim:
+- dambogi
+make  slimmer:
+- maxdambogi
+make  slower:
+- maxhanmangi
+make  small or little:
+- lilgi
+make  smaller:
+- maxlilgi
+make  smart:
+- cinon
+make  smile:
+- tabasumgi
+make  sneeze:
+- acumgi
+make  snore:
+- horgi
+make  soft:
+- naremgi
+make  strong:
+- balagi
+make  stronger:
+- maxbalagi
+make  sweat:
+- swetagi
+make  swim:
+- suyongi
+make  talented:
+- talento
+make  tear up:
+- axkegi
+make  thick:
+- motegi
+make  thin:
+- dambogi
+make  thinner:
+- maxdambogi
+make  tired:
+- xorpilo
+make  understand:
+- ahamgi
+make  urinate:
+- pixigi
+make  valid:
+- yukyo
+make  violent:
 - bawlu
+make  vomit:
+- kakugi
+make  walk:
+- sampogi
+make  want to:
+- -pel
+make  weak:
+- daifugi
+make  weaker:
+- maxdaifugi
+make  wet:
+- gilegi
+make  wide:
+- pahnagi
+make  wider:
+- maxpahnagi
+make  wonder:
+- jixipel
+make  work:
+- ergogi
+make  worse:
+- maxburgi
+make  yawn:
+- hwamgi
+make (money):
+- inpesa
 make a mistake:
 - malxey
 make a reservation:
 - reserva
 make a scandal:
 - eskandal
-make angry:
-- gadibugi
-make beautiful:
-- meligi
 make better:
 - maxbongi
-make big:
-- daygi
-make bigger:
-- maxdaygi
-make blink:
-- pelakegi
-make brief:
-- kurtogi
-make briefer:
-- maxkurtogi
-make cold:
-- bardi
-make conscious:
-- ixi
-- xorixi
-make cough:
-- kofgi
-make cry or weep:
-- wawagi
-make dance:
-- dansegi
-make deep:
-- amikugi
-make deeper:
-- maxamikugi
-make different:
-- alogi
-make dry:
-- suhegi
 make excuses (for):
 - benge
-make fart:
-- prutegi
-make fat:
-- cibopulgi
-make fatigued:
-- xorpilo
-make flaccid:
-- laxogi
-make flat:
-- pangugi
 make fun:
 - coxo
 make fun of:
 - coxo
-make groan or moan:
-- goronagi
-make grow:
-- xunjangi
-make growl:
-- gurumagi
-make happen:
-- okurgi
-make holy:
-- santogi
-make humble:
-- vinamragi
-make ill:
-- bimargi
-make inactive:
-- pasivogi
-make invalid:
-- posyukyo
-make known:
-- konegi
-make large:
-- daygi
-make larger:
-- maxdaygi
-make lean:
-- dambogi
-make leaner:
-- maxdambogi
-make limp:
-- laxogi
-make low:
-- cotegi
-make mature:
-- censugi
-make more beautiful:
-- maxmeligi
-make pale:
-- cambaygi
-make pallid:
-- cambaygi
-make pee or piss:
-- pipigi
-make poop:
-- kakagi
-make real:
-- realgi
-make ripe:
-- censugi
-make run:
-- pawbugi
-make sacred:
-- santogi
-make salivate:
-- buzakugi
-make scream:
-- ayaygi
-make short:
-- cotegi
-- kurtogi
-make shorter:
-- maxcotegi
-- maxkurtogi
-make sick:
-- bimargi
-make sigh:
-- tanxikugi
-make sing:
-- lalagi
-make sleep:
-- somnogi
-make slender:
-- dambogi
-make slenderer:
-- maxdambogi
-make slim:
-- dambogi
-make slimmer:
-- maxdambogi
-make small or little:
-- lilgi
-make smaller:
-- maxlilgi
-make smart:
-- cinon
-make smile:
-- tabasumgi
-make sneeze:
-- acumgi
-make snore:
-- horgi
-make soft:
-- naremgi
-make somebody angry:
-- gadibugi
-make somebody blink:
-- pelakegi
-make somebody conscious:
-- ixi
-- xorixi
-make somebody cough:
-- kofgi
-make somebody cry or weep:
-- wawagi
-make somebody dance:
-- dansegi
-make somebody fart:
-- prutegi
-make somebody fat:
-- cibopulgi
-make somebody groan or moan:
-- goronagi
-make somebody growl:
-- gurumagi
-make somebody humble:
-- vinamragi
-make somebody ill:
-- bimargi
-make somebody mature:
-- censugi
-make somebody pee or piss:
-- pipigi
-make somebody poop:
-- kakagi
-make somebody run:
-- pawbugi
-make somebody salivate:
-- buzakugi
-make somebody scream:
-- ayaygi
-make somebody sick:
-- bimargi
-make somebody sigh:
-- tanxikugi
-make somebody sing:
-- lalagi
-make somebody sleep:
-- somnogi
-make somebody smart:
-- cinon
-make somebody smile:
-- tabasumgi
-make somebody sneeze:
-- acumgi
-make somebody snore:
-- horgi
-make somebody sweat:
-- swetagi
-make somebody swim:
-- suyongi
-make somebody tear up:
-- axkegi
-make somebody understand:
-- ahamgi
-make somebody urinate:
-- pixigi
-make somebody vomit:
-- kakugi
-make somebody walk:
-- sampogi
-make somebody want to:
-- -pel
-make somebody wonder:
-- jixipel
-make somebody work:
-- ergogi
-make somebody yawn:
-- hwamgi
-make somebody/something different:
-- alogi
-make somebody/something strong:
-- balagi
-make something brief:
-- kurtogi
-make something briefer:
-- maxkurtogi
-make something deep:
-- amikugi
-make something deeper:
-- maxamikugi
-make something flaccid:
-- laxogi
-make something happen:
-- okurgi
-make something invalid:
-- posyukyo
-make something low:
-- cotegi
-make something real:
-- realgi
-make something ripe:
-- censugi
-make something sacred:
-- santogi
-make something short:
-- kurtogi
-make something shorter:
-- maxkurtogi
-make something small or little:
-- lilgi
-make something valid:
-- yukyo
-make something/somebody beautiful:
-- meligi
-make something/somebody better:
-- maxbongi
-make something/somebody big:
-- daygi
-make something/somebody bigger:
-- maxdaygi
-make something/somebody cold:
-- bardi
-make something/somebody dry:
-- suhegi
-make something/somebody fatigued:
-- xorpilo
-make something/somebody flat:
-- pangugi
-make something/somebody grow:
-- xunjangi
-make something/somebody holy:
-- santogi
-make something/somebody inactive:
-- pasivogi
-make something/somebody known:
-- konegi
-make something/somebody large:
-- daygi
-make something/somebody larger:
-- maxdaygi
-make something/somebody lean:
-- dambogi
-make something/somebody leaner:
-- maxdambogi
-make something/somebody limp:
-- laxogi
-make something/somebody more beautiful:
-- maxmeligi
-make something/somebody pale:
-- cambaygi
-make something/somebody pallid:
-- cambaygi
 make something/somebody rest:
 - rahatugi
-make something/somebody short:
-- cotegi
-make something/somebody shorter:
-- maxcotegi
-make something/somebody slender:
-- dambogi
-make something/somebody slenderer:
-- maxdambogi
-make something/somebody slim:
-- dambogi
-make something/somebody slimmer:
-- maxdambogi
-make something/somebody smaller:
-- maxlilgi
-make something/somebody soft:
-- naremgi
-make something/somebody stronger:
-- maxbalagi
-make something/somebody thick:
-- motegi
-make something/somebody weak:
-- daifugi
-make something/somebody weaker:
-- maxdaifugi
-make something/somebody wet:
-- gilegi
-make something/somebody wide:
-- pahnagi
-make something/somebody wider:
-- maxpahnagi
-make something/somebody worse:
-- maxburgi
-make strong:
-- balagi
-make stronger:
-- maxbalagi
 make sure:
 - yakincu
 - yakingi
-make sweat:
-- swetagi
-make swim:
-- suyongi
-make tear up:
-- axkegi
-make thick:
-- motegi
-make understand:
-- ahamgi
 make up:
 - fiksyon
 - monkrea
-make urinate:
-- pixigi
-make valid:
-- yukyo
-make vomit:
-- kakugi
-make walk:
-- sampogi
-make want to:
-- -pel
-make weak:
-- daifugi
-make weaker:
-- maxdaifugi
-make wet:
-- gilegi
-make wide:
-- pahnagi
-make wider:
-- maxpahnagi
 make wonder:
 - jixipel
-make work:
-- ergogi
-make worse:
-- maxburgi
-make yawn:
-- hwamgi
 makeup:
 - meykapu
 - monkrea
@@ -25940,7 +25672,8 @@ martyred:
 - xahidugido
 marvel:
 - waoxey
-marvel (at):
+- daykefuku
+marvel at:
 - daykefuku
 marveling:
 - daykefuku
@@ -25966,6 +25699,10 @@ masked:
 - maskudo
 masked person:
 - maskuyen
+masochism:
+- masokismo
+masochist:
+- masokista
 mass:
 - kutle
 - mase
@@ -26020,6 +25757,8 @@ maternal:
 - matreli
 maternally:
 - matreli
+maternity:
+- matreya
 math:
 - matemati
 mathematical:
@@ -26212,6 +25951,15 @@ melody:
 - melodi
 melon:
 - melon
+melt:
+- yunhecu
+- yunhe
+melted:
+- yunhedo
+melting:
+- yunhe
+- yunhecune
+- yunhene
 member:
 - membro
 membrane:
@@ -26224,10 +25972,18 @@ memorable:
 - memorilaye
 memorably:
 - memorilaye
+memorialise:
+- ginyem
+memorialised:
+- ginyemdo
 memorialize:
 - ginyem
 memorialized:
 - ginyemdo
+memorisation:
+- inmemorigi
+memorise:
+- inmemorigi
 memorization:
 - inmemorigi
 memorize:
@@ -26274,11 +26030,10 @@ mercy:
 - rahema
 mere:
 - sol
+- solli
 merely:
 - sol-
 - sol
-mereness:
-- solya
 merge:
 - tongi
 - tongogi
@@ -26307,6 +26062,8 @@ metabolic:
 - metabolisli
 metabolically:
 - metabolisli
+metabolise:
+- metabolis
 metabolism:
 - metabolis
 metabolize:
@@ -26752,6 +26509,10 @@ monolingual (speaker):
 - unbasayen
 monolingually:
 - unbasali
+monopolise:
+- dokujem
+monopolised:
+- dokujemdo
 monopolize:
 - dokujem
 monopolized:
@@ -27233,22 +26994,35 @@ mythology:
 - melon
 'n vulgar: whore':
 - xalaf
-'n/v sfx: causative/transitive marker':
-- -gi
-'n/v sfx: intransitive verb marker':
+'n/v.intr sfx: intransitive verb marker':
 - -cu
+'n/v.tr sfx: causative/transitive marker':
+- -gi
+'n:':
+- acidiroti
+- aloe
+- apartamenlari
+- arestoamiru
+- arestokamer
+- artedom
+- betula
+- demo
+- fleygikef
+- fleygiyen
+- futbal
+- futbalbol
+- kurto_watu
+- un_ofdua
 'n:  date':
 - tarihe
 'n:  element':
 - mon
 'n:  stop':
-- estoloka
+- estodom
 'n: -phone':
 - fon
 'n: a few days ago':
 - nerledin
-'n: a while':
-- kurto_watu
 'n: abacus':
 - abakus
 'n: abandonment':
@@ -27441,16 +27215,6 @@ mythology:
 - fiksolexi
 'n: affricate':
 - estomotsufono
-'n: afghan':
-- afganiyen
-'n: african':
-- afrikayen
-'n: afrikaans':
-- afrikansesa
-'n: afrikaans language':
-- afrikansesa
-'n: afrikaner':
-- afrikanseyen
 'n: afternoon':
 - xafesoba
 'n: agate':
@@ -27480,19 +27244,10 @@ mythology:
 - hawanavi
 'n: airline':
 - fleynavitim
-'n: airline pilot':
-- fleygiyen
 'n: airplane':
 - fleynavi
 'n: airport':
 - fleynavidom
-'n: albanian':
-- exkiperisa
-- exkiperiyen
-'n: albanian language':
-- exkiperisa
-'n: albanian person':
-- exkiperiyen
 'n: albatross':
 - albatros
 'n: alchemy':
@@ -27514,8 +27269,6 @@ mythology:
 - alga
 'n: algebra':
 - aljebra
-'n: algerian':
-- jazairyen
 'n: algorithm':
 - algoritma
 'n: alibi':
@@ -27542,10 +27295,6 @@ mythology:
 - badam
 'n: almond milk':
 - badammilko
-'n: aloe':
-- aloe
-'n: aloe vera':
-- aloe
 'n: alpaca':
 - alpaka
 'n: alphabet':
@@ -27572,25 +27321,10 @@ mythology:
 - ambisi
 'n: ambitransitive verb':
 - oroojetoli_falelexi
-'n: american':
-- usayen
-'n: american football':
-- futbal
-- futbalbol
 'n: americium':
 - amerikyum
-'n: amerindian':
-- amerindiyen
 'n: amethyst':
 - ametisto
-'n: amharan':
-- amarayen
-'n: amharan person':
-- amarayen
-'n: amharic':
-- amarasa
-'n: amharic language':
-- amarasa
 'n: amino':
 - amino
 'n: ammonia':
@@ -27647,8 +27381,6 @@ mythology:
 - ankara
 'n: anchovy':
 - ancovi
-'n: ancient egypt':
-- kemeti
 'n: andesite':
 - andesita
 'n: android':
@@ -27667,8 +27399,6 @@ mythology:
 - gadibuya
 'n: angle':
 - gona
-'n: angolan':
-- angolayen
 'n: animal':
 - hewan
 'n: animate being':
@@ -27699,8 +27429,6 @@ mythology:
 - jawabu
 'n: ant':
 - murace
-'n: antarctic ocean':
-- bahari_antartiko
 'n: antelope':
 - antelope
 'n: antenna':
@@ -27730,8 +27458,6 @@ mythology:
 - aorta
 'n: apartment':
 - apartamen
-'n: apartment complex':
-- apartamenlari
 'n: aphid':
 - dahunxirani
 'n: apiary':
@@ -27775,16 +27501,8 @@ mythology:
 - fronkumax
 'n: aquifer':
 - geosuidom
-'n: arab':
-- arabiyen
-'n: arabic':
-- arabisa
-'n: arabic language':
-- arabisa
 'n: arachnophobia':
 - kumifobi
-'n: aramaic':
-- aramsa
 'n: arc':
 - arko
 'n: archaeology':
@@ -27800,14 +27518,10 @@ mythology:
 - arkitetur
 'n: archive':
 - arcivo
-'n: arctic ocean':
-- bahari_artiko
 'n: area':
 - peryaje
 'n: arena':
 - arena
-'n: argentine':
-- argentinayen
 'n: argon':
 - argon
 'n: argument':
@@ -27818,13 +27532,6 @@ mythology:
 - gebo
 'n: armadillo':
 - armadilo
-'n: armenian':
-- hayasa
-- hayayen
-'n: armenian language':
-- hayasa
-'n: armenian person':
-- hayayen
 'n: armor':
 - zirehe
 'n: army':
@@ -27833,8 +27540,6 @@ mythology:
 - ordenu
 'n: arrest':
 - aresto
-'n: arrest warrant':
-- arestoamiru
 'n: arrestee':
 - bearestoyen
 'n: arrival':
@@ -27853,8 +27558,6 @@ mythology:
 - artefilyen
 'n: art school':
 - arteeskol
-'n: art studio':
-- artedom
 'n: artery':
 - domaku
 'n: arthritis':
@@ -27876,21 +27579,12 @@ mythology:
 - supraidi
 'n: ash':
 - ramadu
-'n: asian':
-- asiayen
 'n: asparagus':
 - esparago
 'n: asperger syndrome':
 - sindrom_asperger
 'n: asphalt':
 - asfalto
-'n: assamese':
-- ohomsa
-- ohomyen
-'n: assamese language':
-- ohomsa
-'n: assamese person':
-- ohomyen
 'n: assembly':
 - tonatatim
 - tonata
@@ -27933,8 +27627,6 @@ mythology:
 - atletiyen
 'n: athletics':
 - atleti
-'n: atlantic ocean':
-- bahari_atlantiko
 'n: atlas':
 - atlas
 - haritalari
@@ -27986,12 +27678,6 @@ mythology:
 - tie
 'n: aura':
 - awra
-'n: australian':
-- awstraliyen
-'n: austrian':
-- osteriyen
-'n: austrian person':
-- osteriyen
 'n: authentication':
 - awtentigi
 'n: authenticity':
@@ -28036,13 +27722,6 @@ mythology:
 - akse
 'n: axolotl':
 - axolotle
-'n: azerbaijani':
-- azerbayjansa
-- azerbayjanyen
-'n: azerbaijani language':
-- azerbayjansa
-'n: azerbaijani person':
-- azerbayjanyen
 'n: baboon':
 - babun
 'n: baby':
@@ -28083,14 +27762,6 @@ mythology:
 - beygel
 'n: bagging':
 - inbaogi
-'n: bahamian':
-- bahamayen
-'n: bahamian person':
-- bahamayen
-'n: bahraini':
-- bahraynyen
-'n: bahraini person':
-- bahraynyen
 'n: baker':
 - furnoyen
 'n: bakery':
@@ -28143,8 +27814,6 @@ mythology:
 - batiza
 'n: baptizand':
 - bebatizayen
-'n: barbadian':
-- barbadoyen
 'n: barbarian':
 - barbariyen
 'n: barbarism':
@@ -28189,13 +27858,6 @@ mythology:
 - basketo
 'n: basketball':
 - basketobol
-'n: basque':
-- ewskalsa
-- ewskalyen
-'n: basque language':
-- ewskalsa
-'n: basque person':
-- ewskalyen
 'n: bass':
 - baso
 'n: bass clarinet':
@@ -28294,18 +27956,10 @@ mythology:
 - sen
 'n: bel':
 - belu
-'n: belarusian':
-- belarussa
-'n: belarusian language':
-- belarussa
-'n: belgian':
-- belgiyen
 'n: belief':
 - imanu
 'n: believer':
 - imanuyen
-'n: belizean':
-- belizeyen
 'n: bell':
 - rinjon
 'n: belonging':
@@ -28324,13 +27978,6 @@ mythology:
 - befaydayen
 'n: benefit':
 - fayda
-'n: bengali':
-- banglasa
-- banglayen
-'n: bengali language':
-- banglasa
-'n: beninese':
-- beninyen
 'n: benzene':
 - benzol
 'n: berkelium':
@@ -28345,10 +27992,6 @@ mythology:
 - gluxey
 'n: beyondness':
 - ultraya
-'n: bhutanese':
-- drukiyen
-'n: bhutanese person':
-- drukiyen
 'n: bias':
 - tarafya
 'n: bibliophile':
@@ -28396,10 +28039,6 @@ mythology:
 - biomekanilogi
 'n: biotech':
 - biotekno
-'n: birch':
-- betula
-'n: birch tree':
-- betula
 'n: bird':
 - piu
 'n: birth':
@@ -28524,9 +28163,6 @@ mythology:
 - dexabyen
 'n: boredom':
 - posamusa
-'n: boro':
-- borosa
-- boroyen
 'n: boron':
 - boron
 'n: borough':
@@ -28601,8 +28237,6 @@ mythology:
 'n: brawn':
 - adolabalaya
 - adolapulya
-'n: brazilian':
-- brazilyen
 'n: bread':
 - roti
 'n: break':
@@ -28638,8 +28272,6 @@ mythology:
 - daycinon
 'n: bringing':
 - preporta
-'n: brit':
-- britiyen
 'n: broadcast':
 - disirsal
 'n: broccoli':
@@ -28680,10 +28312,6 @@ mythology:
 - bindetul
 'n: bud':
 - gunca
-'n: buddhism':
-- budaismo
-'n: buddhist':
-- budaista
 'n: buddy':
 - doste_ci
 'n: budget':
@@ -28694,11 +28322,6 @@ mythology:
 - kostruiyen
 'n: building':
 - kostruixey
-'n: bulgarian':
-- bulgarisa
-- bulgariyen
-'n: bulgarian language':
-- bulgarisa
 'n: bull':
 - manmumu
 'n: bullet':
@@ -28720,10 +28343,6 @@ mythology:
 - inturangi
 'n: burial grounds':
 - inturangidom
-'n: burmese':
-- myanmasa
-'n: burmese language':
-- myanmasa
 'n: burn':
 - yake
 'n: burp':
@@ -28805,15 +28424,11 @@ mythology:
 - kalori
 'n: calque':
 - karduli_basatayti
-'n: calvinism':
-- kalvinismo
 'n: camel':
 - gamel
 'n: camera':
 - filmetul
 - fototul
-'n: cameroonian':
-- kamerunyen
 'n: camp':
 - kampidom
 'n: campaign':
@@ -28826,8 +28441,6 @@ mythology:
 - kampi
 'n: can opener':
 - bankabukatul
-'n: canadian':
-- kanadayen
 'n: canary':
 - kanaripiu
 'n: cancellation':
@@ -28992,7 +28605,6 @@ mythology:
 'n: celestial body':
 - tenmun
 'n: cell':
-- arestokamer
 - celul
 'n: cello':
 - vyoloncel
@@ -29029,8 +28641,6 @@ mythology:
 - ceryum
 'n: cesium':
 - cesyum
-'n: chadian':
-- cadiyen
 'n: chain':
 - silsila
 'n: chainsaw':
@@ -29133,8 +28743,6 @@ mythology:
 - nini
 'n: childhood':
 - niniya
-'n: chilean':
-- cileyen
 'n: chimney':
 - dudantubo
 'n: chimpanzee':
@@ -29143,8 +28751,6 @@ mythology:
 - cine
 'n: chinchilla':
 - cincila
-'n: chinese':
-- cungwoyen
 'n: chinese checkers':
 - cungwodama
 'n: chip':
@@ -29175,12 +28781,6 @@ mythology:
 - dansegrafi
 'n: chorus':
 - koro
-'n: christian':
-- kristoista
-'n: christianity':
-- kristoismo
-'n: christmas':
-- kristodin
 'n: chromium':
 - kromyum
 'n: chromosome':
@@ -29363,10 +28963,6 @@ mythology:
 - lari
 'n: collision':
 - cundotu
-'n: colombian':
-- kolombiyen
-'n: colombian person':
-- kolombiyen
 'n: colon':
 - duatyan
 'n: colonel':
@@ -29423,13 +29019,6 @@ mythology:
 - komunista
 'n: community':
 - komuntim
-'n: comorian':
-- komorisa
-- komoriyen
-'n: comorian language':
-- komorisa
-'n: comorian person':
-- komoriyen
 'n: companion':
 - tongoyen
 - tonyen
@@ -29452,7 +29041,6 @@ mythology:
 'n: complaint':
 - xekaye
 'n: complex':
-- apartamenlari
 - komplekso
 'n: complexity':
 - fukuzaya
@@ -29646,10 +29234,6 @@ mythology:
 - kosino
 'n: cosmology':
 - kosmologi
-'n: costa rican':
-- kostarikayen
-'n: costa rican person':
-- kostarikayen
 'n: costume':
 - kostum
 'n: cotton':
@@ -29849,15 +29433,6 @@ mythology:
 - cimbalo
 'n: cypress':
 - cipresu
-'n: cypriot':
-- kiprosyen
-'n: cypriot person':
-- kiprosyen
-'n: czech':
-- ceskisa
-- ceskiyen
-'n: czech language':
-- ceskisa
 'n: dad':
 - papa
 'n: daddy':
@@ -29882,14 +29457,8 @@ mythology:
 - dudanse
 'n: dandelion':
 - tarhaxkun
-'n: dane':
-- daniyen
 'n: danger':
 - hatari
-'n: danish':
-- danisa
-'n: danish language':
-- danisa
 'n: darling':
 - azizuyen
 'n: darmstadtium':
@@ -29984,8 +29553,6 @@ mythology:
 - sungenkalgi
 'n: degree':
 - daraje
-'n: degree of strength':
-- balaje
 'n: degree of thickness':
 - moteje
 'n: delirium':
@@ -30084,11 +29651,9 @@ mythology:
 'n: devil':
 - dyabol
 'n: devtest':
-- devtest_2
 - devtest_1
+- devtest_2
 - devtest
-'n: dhivehi':
-- divehisa
 'n: diabetes':
 - dyabetes
 'n: diadem':
@@ -30286,14 +29851,6 @@ mythology:
 - manbwaw
 'n: dog kennel':
 - bwawdom
-'n: dogra':
-- dograyen
-'n: dogra person':
-- dograyen
-'n: dogri':
-- dograsa
-'n: dogri language':
-- dograsa
 'n: doll':
 - pupe
 'n: dollar':
@@ -30421,11 +29978,6 @@ mythology:
 - gubar
 'n: dusting':
 - gubarofgi
-'n: dutch':
-- nederisa
-- nederiyen
-'n: dutch language':
-- nederisa
 'n: dwarf':
 - dwarfu
 'n: dwarf planet':
@@ -30436,8 +29988,6 @@ mythology:
 - dinamita
 'n: dysprosium':
 - disprosyum
-'n: dzongkha':
-- drukisa
 'n: eagle':
 - ukabu
 'n: ear':
@@ -30445,8 +29995,6 @@ mythology:
 - ore
 'n: earphones':
 - orefon
-'n: earthling':
-- dunyayen
 'n: earthquake':
 - geotreme
 'n: earwax':
@@ -30455,8 +30003,6 @@ mythology:
 - asanya
 'n: east':
 - dongu
-'n: easter':
-- rujiwadin
 'n: eater':
 - yamyen
 'n: eating utensil':
@@ -30481,8 +30027,6 @@ mythology:
 - ekosistema
 'n: ecstasy':
 - dayhoxya
-'n: ecuadorian':
-- ekwadoryen
 'n: edge':
 - byen
 'n: edit':
@@ -30511,14 +30055,6 @@ mythology:
 - miya
 'n: egoism':
 - seismo
-'n: egyptian':
-- masriyen
-'n: egyptian arabic':
-- masrisa
-'n: egyptian arabic language':
-- masrisa
-'n: eid al-adha':
-- dabihudin
 'n: einsteinium':
 - aynestaynyum
 'n: ejaculation':
@@ -30644,14 +30180,8 @@ mythology:
 'n: engineering':
 - injeneriya
 - injeneri
-'n: english':
-- englisa
 'n: english horn':
 - englikorno
-'n: english language':
-- englisa
-'n: englishman':
-- engliyen
 'n: enigma':
 - moama
 'n: enjoyment':
@@ -30730,21 +30260,12 @@ mythology:
 - establi
 'n: establishment':
 - establixey
-'n: estonian':
-- estisa
-- estiyen
-'n: estonian language':
-- estisa
-'n: estonian person':
-- estiyen
 'n: eternity':
 - finikalya
 'n: ether':
 - eter
 'n: ethics':
 - etika
-'n: ethiopian':
-- ityopiyen
 'n: ethnic group':
 - etnotim
 'n: ethnicity':
@@ -30759,8 +30280,6 @@ mythology:
 - bonlexi
 'n: euphonium':
 - ewfonyum
-'n: european':
-- ewropayen
 'n: europium':
 - ewropyum
 'n: euthanasia':
@@ -30925,8 +30444,6 @@ mythology:
 - nongyobaytu
 'n: farness':
 - teliya
-'n: farsi':
-- parsisa
 'n: fart':
 - prute
 'n: fascism':
@@ -30956,6 +30473,7 @@ mythology:
 'n: favor':
 - lutufxey
 - nimatu
+- proya
 'n: fawn':
 - junihirxa
 'n: fax':
@@ -30966,7 +30484,7 @@ mythology:
 - fobi
 'n: fearlessness':
 - fobikalya
-- posfobi
+- nenfobi
 'n: feather':
 - yumaw
 'n: february':
@@ -31036,25 +30554,11 @@ mythology:
 - jento
 'n: fighter':
 - jentoyen
-'n: fijian':
-- fijisa
-- fijiyen
-'n: fijian language':
-- fijisa
-'n: fijian person':
-- fijiyen
 'n: filament':
 - filamen
 'n: file':
 - faylu
 - kikil
-'n: filipino':
-- pilipinasa
-- pilipinayen
-'n: filipino language':
-- pilipinasa
-'n: filipino person':
-- pilipinayen
 'n: film':
 - filme
 'n: filter':
@@ -31073,12 +30577,6 @@ mythology:
 - pesaseza
 'n: finger':
 - xuji
-'n: finn':
-- swomiyen
-'n: finnish':
-- swomisa
-'n: finnish language':
-- swomisa
 'n: fir':
 - linxam
 'n: fire':
@@ -31192,9 +30690,6 @@ mythology:
 'n: foot':
 - futi
 - peda
-'n: football':
-- futbal
-- futbalbol
 'n: footprint':
 - pedamarka
 - pedazungu
@@ -31262,12 +30757,6 @@ mythology:
 - jame
 'n: freezer':
 - jametora
-'n: french':
-- fransesa
-'n: french language':
-- fransesa
-'n: frenchman':
-- franseyen
 'n: frequency':
 - pimpanje
 'n: freshness':
@@ -31324,6 +30813,8 @@ mythology:
 - daygadibuya
 'n: fuse':
 - fyusi
+'n: fusion':
+- tonyunhe
 'n: future':
 - xaya
 'n: gadolinium':
@@ -31405,26 +30896,12 @@ mythology:
 - hedro
 'n: geometry':
 - geometri
-'n: georgian':
-- sakartwelosa
-- sakartweloyen
-'n: georgian language':
-- sakartwelosa
-'n: georgian person':
-- sakartweloyen
-'n: german':
-- doycisa
-- doyciyen
-'n: german language':
-- doycisa
 'n: germanium':
 - germanyum
 'n: gesture':
 - jestu
 'n: geyser':
 - gayser
-'n: ghanaian':
-- ganayen
 'n: ghost':
 - xabahu
 'n: ghost ship':
@@ -31439,10 +30916,6 @@ mythology:
 - giganyan
 'n: giggle':
 - lilhaha
-'n: gilbertese':
-- kiribatisa
-'n: gilbertese language':
-- kiribatisa
 'n: gill':
 - nabxox
 'n: gin':
@@ -31473,8 +30946,6 @@ mythology:
 - okolense
 'n: glimpse':
 - xoroko
-'n: globasa':
-- globasa
 'n: glory':
 - dayxerafu
 'n: glottis':
@@ -31593,17 +31064,10 @@ mythology:
 - grey
 'n: grease':
 - gresa
-'n: great britain':
-- daybriti
 'n: grebe':
 - gotaspiu
 'n: greed':
 - tamlam
-'n: greek':
-- elinisa
-- eliniyen
-'n: greek language':
-- elinisa
 'n: greenness':
 - kijawiya
 'n: greeter':
@@ -31612,8 +31076,6 @@ mythology:
 - salom
 'n: grenade':
 - graneda
-'n: grenadian':
-- grenadayen
 'n: gridlock':
 - burtrafiko
 'n: grin':
@@ -31642,8 +31104,6 @@ mythology:
 - gwakamole
 'n: guarantee':
 - garanti
-'n: guatemalan':
-- gwatemalayen
 'n: guava':
 - gwaba
 'n: guess':
@@ -31663,13 +31123,6 @@ mythology:
 - gitara
 'n: guitarist':
 - gitarayen
-'n: gujarati':
-- gujaratisa
-- gujaratiyen
-'n: gujarati language':
-- gujaratisa
-'n: gujarati person':
-- gujaratiyen
 'n: gulf':
 - haliju
 'n: gull':
@@ -31715,8 +31168,6 @@ mythology:
 - tofabroxa
 'n: hairdresser':
 - tofayen
-'n: half':
-- un_ofdua
 'n: half-sibling':
 - semisodar
 'n: hallelujah':
@@ -31826,13 +31277,6 @@ mythology:
 - termo
 'n: heaven':
 - janatu
-'n: hebrew':
-- ivrisa
-- ivriyen
-'n: hebrew language':
-- ivrisa
-'n: hebrew people':
-- ivriyen
 'n: hectogon':
 - cengon
 'n: hedgehog':
@@ -31914,13 +31358,9 @@ mythology:
 - liljabal
 'n: hind':
 - femhirxa
-'n: hindi-speaking indian':
-- hindiyen
 'n: hindrance':
 - katinagi
 - possahay
-'n: hinduism':
-- hinduismo
 'n: hinge':
 - bisagra
 'n: hip':
@@ -31965,10 +31405,6 @@ mythology:
 - ogarmaxina
 'n: homosexuality':
 - samajensifilya
-'n: honduran':
-- hondurayen
-'n: honduran person':
-- hondurayen
 'n: honesty':
 - cipenkalya
 - nencipen
@@ -32055,13 +31491,6 @@ mythology:
 - humor
 'n: hump':
 - kuhan
-'n: hungarian':
-- magyarsa
-- magyaryen
-'n: hungarian language':
-- magyarsa
-'n: hungarian person':
-- magyaryen
 'n: hunger':
 - yamkalya
 - yamvole
@@ -32111,12 +31540,6 @@ mythology:
 - ayseeskeyti
 'n: iceberg':
 - aysejabal
-'n: icelander':
-- islandiyen
-'n: icelandic':
-- islandisa
-'n: icelandic language':
-- islandisa
 'n: ichthyology':
 - mahilogi
 'n: icon':
@@ -32138,7 +31561,7 @@ mythology:
 'n: ignition':
 - xoratex
 'n: ignorance':
-- posjixi
+- nenjixi
 'n: iguana':
 - igwana
 'n: illiteracy':
@@ -32215,19 +31638,10 @@ mythology:
 'n: independence':
 - ikawkalya
 - nenikaw
-'n: indian':
-- baratiyen
-'n: indian ocean':
-- bahari_hindiko
 'n: indigestion':
 - burhazam
 'n: indium':
 - indyum
-'n: indonesian':
-- indonesisa
-- indonesiyen
-'n: indonesian language':
-- indonesisa
 'n: industry':
 - industri
 'n: infamy':
@@ -32352,7 +31766,7 @@ mythology:
 'n: intestine':
 - antru
 'n: intimidation':
-- yonfobi
+- infobigi
 'n: intonation':
 - entona
 'n: intransitive verb':
@@ -32397,10 +31811,6 @@ mythology:
 'n: ionization':
 - yonicu
 - yonigi
-'n: iranian':
-- iranyen
-'n: iraqi':
-- irakiyen
 'n: iridium':
 - iridyum
 'n: iris':
@@ -32408,31 +31818,17 @@ mythology:
 - irisplanta
 'n: iris plant':
 - irisplanta
-'n: irish':
-- eyresa
-- eyreyen
-'n: irish language':
-- eyresa
-'n: irish person':
-- eyreyen
 'n: iron':
 - hadidu
 - utu
 'n: irony':
 - ironi
-'n: islam':
-- islamiya
 'n: island':
 - isula
 'n: issue':
 - masele
 'n: isthmus':
 - geogardan
-'n: italian':
-- italisa
-- italiyen
-'n: italian language':
-- italisa
 'n: itch':
 - soyo
 'n: ivy':
@@ -32453,10 +31849,6 @@ mythology:
 - burmobil
 'n: january':
 - mesi_un
-'n: japanese':
-- niponsa
-'n: japanese language':
-- niponsa
 'n: jar':
 - banka
 'n: jasmine':
@@ -32477,8 +31869,6 @@ mythology:
 - swimo
 'n: jerusalem artichoke':
 - solagenu
-'n: jew':
-- yehudiyen
 'n: jewel':
 - jawheri
 'n: jewelry':
@@ -32505,8 +31895,6 @@ mythology:
 - haberiya
 'n: journalist':
 - haberiyen
-'n: judaism':
-- yehudiismo
 'n: judge':
 - hukimuyen
 'n: judgment':
@@ -32541,36 +31929,16 @@ mythology:
 - dahunkabiji
 'n: kangaroo':
 - kanguru
-'n: kannada':
-- karnatakasa
-'n: kannada language':
-- karnatakasa
-'n: kannadiga':
-- karnatakayen
 'n: karaoke':
 - karaoke
 'n: karate':
 - karate
 'n: karma':
 - karma
-'n: kashmiri':
-- kaxmirsa
-- kaxmiryen
-'n: kashmiri language':
-- kaxmirsa
-'n: kashmiri person':
-- kaxmiryen
 'n: katal':
 - katalu
 'n: kayak':
 - kayaki
-'n: kazakh':
-- kazakisa
-- kazakiyen
-'n: kazakh language':
-- kazakisa
-'n: kazakh person':
-- kazakiyen
 'n: kebab':
 - kebabu
 'n: keel':
@@ -32592,9 +31960,6 @@ mythology:
 - yawxe
 'n: keyboard':
 - klavilari
-'n: khmer':
-- kampucisa
-- kampuciyen
 'n: kick':
 - pata
 'n: kid':
@@ -32663,33 +32028,12 @@ mythology:
 - kone
 'n: koala':
 - koala
-'n: konkani':
-- konkansa
-- konkanyen
-'n: konkani language':
-- konkansa
-'n: konkani person':
-- konkanyen
 'n: kookaburra':
 - kukabura
-'n: korean':
-- koreasa
-- koreayen
-'n: korean language':
-- koreasa
-'n: korean person':
-- koreayen
 'n: krypton':
 - kriputon
 'n: kumquat':
 - kunkwatu
-'n: kyrgyz':
-- kirgizisa
-- kirgiziyen
-'n: kyrgyz language':
-- kirgizisa
-'n: kyrgyz person':
-- kirgiziyen
 'n: label':
 - label
 'n: labor strike':
@@ -32741,10 +32085,6 @@ mythology:
 - lenterna
 'n: lanthanum':
 - lantanum
-'n: lao':
-- lawisa
-'n: lao language':
-- lawisa
 'n: lapis lazuli':
 - lazurdi
 'n: large intestine':
@@ -32765,23 +32105,8 @@ mythology:
 - dyerya
 'n: latex':
 - lateksu
-'n: latin':
-- latinsa
-'n: latin america':
-- latinika
-'n: latin language':
-- latinsa
-'n: latina':
-- latinikayen
 'n: latitude':
 - widu
-'n: latvian':
-- latvisa
-- latviyen
-'n: latvian language':
-- latvisa
-'n: latvian person':
-- latviyen
 'n: laugh':
 - haha
 'n: launch':
@@ -32824,10 +32149,6 @@ mythology:
 - xwexiyen
 'n: learning':
 - xwexi
-'n: lebanese':
-- lubanonyen
-'n: lebanese person':
-- lubanonyen
 'n: leech':
 - jaluka
 'n: leek':
@@ -32948,10 +32269,6 @@ mythology:
 - kitabudomyen
 'n: library':
 - kitabudom
-'n: libyan':
-- libiyen
-'n: libyan person':
-- libiyen
 'n: lichen':
 - algafutru
 'n: lick':
@@ -32960,8 +32277,6 @@ mythology:
 - gancaw
 'n: lie':
 - kadiba
-'n: liechtensteiner':
-- lihtenstaynyen
 'n: lieutenant':
 - jungwi
 'n: life':
@@ -33034,13 +32349,6 @@ mythology:
 - literatur
 'n: lithium':
 - lityum
-'n: lithuanian':
-- lyetuvasa
-- lyetuvayen
-'n: lithuanian language':
-- lyetuvasa
-'n: lithuanian person':
-- lyetuvayen
 'n: liver':
 - ganzo
 'n: livermorium':
@@ -33141,16 +32449,8 @@ mythology:
 - lyutu
 'n: lutetium':
 - lutesyum
-'n: lutheranism':
-- luterismo
 'n: lux':
 - luksi
-'n: luxembourger':
-- lutsemburgiyen
-'n: luxembourgish':
-- lutsemburgisa
-'n: luxembourgish language':
-- lutsemburgisa
 'n: luxury':
 - lukso
 'n: lychee':
@@ -33161,13 +32461,6 @@ mythology:
 - linfa
 'n: lynx':
 - linxe
-'n: macedonian':
-- makedonisa
-- makedoniyen
-'n: macedonian language':
-- makedonisa
-'n: macedonian person':
-- makedoniyen
 'n: machete':
 - macete
 'n: machine':
@@ -33206,32 +32499,12 @@ mythology:
 - cuyodolo
 'n: maintenance':
 - bonhifazi
-'n: maithil':
-- mitilayen
-'n: maithili':
-- mitilasa
-'n: maithili language':
-- mitilasa
 'n: majority':
 - maxoriya
 'n: makeup':
 - meykapu
 'n: malaria':
 - malarya
-'n: malawian':
-- malawiyen
-'n: malawian person':
-- malawiyen
-'n: malayalam':
-- keralasa
-'n: malayalam language':
-- keralasa
-'n: malayali':
-- keralayen
-'n: malaysian':
-- malaysiyen
-'n: malaysian person':
-- malaysiyen
 'n: male':
 - manyen
 'n: male cousin':
@@ -33240,17 +32513,6 @@ mythology:
 - manbwaw
 'n: male lion':
 - mansinga
-'n: malian':
-- maliyen
-'n: malian person':
-- maliyen
-'n: maltese':
-- maltasa
-- maltayen
-'n: maltese language':
-- maltasa
-'n: maltese person':
-- maltayen
 'n: mammal':
 - mamoyen
 'n: mammoth':
@@ -33291,13 +32553,6 @@ mythology:
 - harita
 'n: maple':
 - maple
-'n: marathi':
-- maharaxtrasa
-- maharaxtrayen
-'n: marathi language':
-- maharaxtrasa
-'n: marathi person':
-- maharaxtrayen
 'n: marathon':
 - maraton
 'n: marble':
@@ -33328,18 +32583,12 @@ mythology:
 - majam
 'n: marshal':
 - marixal
-'n: marshallese':
-- majelisa
-'n: marshallese language':
-- majelisa
 'n: marshmallow':
 - marximalo
 'n: marsupial':
 - marsupiyen
 'n: marsupium':
 - marsupi
-'n: martian':
-- marihiyen
 'n: martyr':
 - xahidu
 'n: martyrdom':
@@ -33348,8 +32597,6 @@ mythology:
 - waoxey
 'n: marveling':
 - daykefuku
-'n: marxism':
-- markseismo
 'n: marzipan':
 - marsepan
 'n: masculinity':
@@ -33397,10 +32644,6 @@ mythology:
 - matrasu
 'n: maturity':
 - censuya
-'n: mauritian':
-- mawrisyen
-'n: mauritian person':
-- mawrisyen
 'n: maximum':
 - maximumya
 'n: may':
@@ -33450,9 +32693,6 @@ mythology:
 - meganyan
 'n: meh':
 - memesa
-'n: meitei':
-- manipursa
-- manipuryen
 'n: meitnerium':
 - metneryum
 'n: melancholy':
@@ -33463,6 +32703,8 @@ mythology:
 - melodi
 'n: melon':
 - melon
+'n: melting':
+- yunhe
 'n: member':
 - membro
 'n: membrane':
@@ -33491,8 +32733,6 @@ mythology:
 - jivaki
 'n: mercy':
 - rahema
-'n: mereness':
-- solya
 'n: merry-go-round':
 - karusel
 'n: mesa':
@@ -33530,10 +32770,6 @@ mythology:
 - metil
 'n: metropolis':
 - dayxaher
-'n: mexican':
-- mexikoyen
-'n: mexican person':
-- mexikoyen
 'n: microbiology':
 - mikrobiologi
 'n: micrometer':
@@ -33665,10 +32901,6 @@ mythology:
 'n: mold':
 - kuvu
 - kalebu
-'n: moldovan':
-- moldovayen
-'n: moldovan person':
-- moldovayen
 'n: mole':
 - mol
 - nunar
@@ -33697,13 +32929,6 @@ mythology:
 - lunadin
 'n: money':
 - pesa
-'n: mongolian':
-- mongolisa
-- mongoliyen
-'n: mongolian language':
-- mongolisa
-'n: mongolian person':
-- mongoliyen
 'n: mongoose':
 - mongusta
 'n: monitor':
@@ -33727,17 +32952,10 @@ mythology:
 - unteoista
 'n: monster':
 - kayvutu
-'n: montenegrin':
-- cernagorasa
-- cernagorayen
-'n: montenegrin language':
-- cernagorasa
 'n: month':
 - mesi
 'n: monthiversary':
 - mesiridin
-'n: monégasque':
-- monakoyen
 'n: moon':
 - candru
 'n: moonlight':
@@ -33753,12 +32971,8 @@ mythology:
 - maxya
 'n: morel':
 - morela
-'n: mormonism':
-- mormonismo
 'n: morning':
 - soba
-'n: moroccan':
-- magribiyen
 'n: morpheme':
 - morfomon
 'n: morphine':
@@ -33846,8 +33060,6 @@ mythology:
 - muske
 'n: musket':
 - muskete
-'n: muslim':
-- islamiyen
 'n: must':
 - musiya
 'n: mustache':
@@ -33875,10 +33087,6 @@ mythology:
 - naiveya
 'n: name':
 - name
-'n: namibian':
-- namibiyen
-'n: namibian person':
-- namibiyen
 'n: naming':
 - namegi
 'n: nanometer':
@@ -33907,10 +33115,6 @@ mythology:
 - naturaafatu
 'n: nature':
 - natura
-'n: nauruan':
-- naurusa
-'n: nauruan language':
-- naurusa
 'n: nautilus':
 - nawtilus
 'n: navel':
@@ -33919,10 +33123,6 @@ mythology:
 - dunavi
 'n: navigator':
 - naviyen
-'n: nazi':
-- natziista
-'n: nazism':
-- natziismo
 'n: necessity':
 - haja
 'n: neck':
@@ -33968,8 +33168,6 @@ mythology:
 - newtralya
 'n: neutron':
 - newtron
-'n: new year''s day':
-- neonyandin
 'n: news':
 - haberi
 'n: newspaper':
@@ -33984,8 +33182,6 @@ mythology:
 - nikotin
 'n: niece':
 - femnepoti
-'n: nigerian':
-- nayjeriyen
 'n: night':
 - noce
 'n: nightingale':
@@ -34024,19 +33220,10 @@ mythology:
 - normapulya
 'n: north':
 - utara
-'n: north american':
-- amerikayen
 'n: northeast':
 - utaradongu
 'n: northwest':
 - utaragarebi
-'n: norwegian':
-- norgesa
-- norgeyen
-'n: norwegian language':
-- norgesa
-'n: norwegian person':
-- norgeyen
 'n: nose':
 - nasa
 'n: nostalgia':
@@ -34140,9 +33327,6 @@ mythology:
 - ocopeda
 'n: oddball':
 - ajabuyen
-'n: odia':
-- orisasa
-- orisayen
 'n: offense':
 - cufam
 'n: offer':
@@ -34184,8 +33368,6 @@ mythology:
 - un_oflima
 'n: one fourth':
 - un_ofcare
-'n: one half':
-- un_ofdua
 'n: one hundredth':
 - un_ofcen
 'n: one ninth':
@@ -34328,8 +33510,6 @@ mythology:
 - hao
 'n: ozone':
 - ozon
-'n: pacific ocean':
-- bahari_pacifiko
 'n: package':
 - paketi
 'n: padlock':
@@ -34349,10 +33529,6 @@ mythology:
 - jinsu
 'n: pair of scissors':
 - mikasi
-'n: pakistani':
-- pakiyen
-'n: pakistani person':
-- pakiyen
 'n: palace':
 - palasi
 'n: palate':
@@ -34363,8 +33539,14 @@ mythology:
 - cambayya
 'n: paleontology':
 - lamabiologi
+'n: palette':
+- pentutahta
 'n: palladium':
 - paladyum
+'n: pallet':
+- paleta
+'n: pallete':
+- kolorlari
 'n: palm':
 - palme
 'n: palm tree':
@@ -34418,10 +33600,6 @@ mythology:
 - paradoksa
 'n: paragraph':
 - paragraf
-'n: paraguayan':
-- paragwayyen
-'n: paraguayan person':
-- paragwayyen
 'n: parallel universe':
 - paralelkosmo
 'n: paralysis':
@@ -34602,8 +33780,6 @@ mythology:
 - izindoku
 'n: persecution':
 - bohay
-'n: persian':
-- parsiyen
 'n: persimmon':
 - kaki
 'n: person':
@@ -34614,8 +33790,6 @@ mythology:
 - prespetiva
 'n: persuasion':
 - ikna
-'n: peruvian':
-- peruyen
 'n: pessimism':
 - pesimaismo
 'n: pessimist':
@@ -34713,11 +33887,7 @@ mythology:
 'n: pillow':
 - kapikusen
 'n: pilot':
-- fleygikef
-- fleygiyen
 - hawanaviyen
-'n: pilot in command':
-- fleygikef
 'n: pin':
 - aspini
 'n: pinch':
@@ -34849,7 +34019,6 @@ mythology:
 - kutububaru
 'n: pole':
 - kutubu
-- polskayen
 'n: police':
 - polisi
 'n: police officer':
@@ -34857,7 +34026,6 @@ mythology:
 'n: police station':
 - polisidom
 'n: polish':
-- polskasa
 - polixo
 'n: politeness':
 - adebu
@@ -34932,13 +34100,6 @@ mythology:
 - portal
 'n: portrait':
 - portreto
-'n: portuguese':
-- portugalsa
-- portugalyen
-'n: portuguese language':
-- portugalsa
-'n: portuguese person':
-- portugalyen
 'n: possession':
 - suxey
 - suya
@@ -35066,8 +34227,6 @@ mythology:
 - prisma
 'n: prison':
 - poshurudom
-'n: prison cell':
-- arestokamer
 'n: prisoner':
 - poshuruyen
 'n: privacy':
@@ -35195,8 +34354,6 @@ mythology:
 - sikoosis
 'n: puberty':
 - sicunki
-'n: public':
-- demo
 'n: publication':
 - xupan
 'n: pudding':
@@ -35222,13 +34379,6 @@ mythology:
 - jumlemarka
 'n: punishment':
 - seza
-'n: punjabi':
-- panjabisa
-- panjabiyen
-'n: punjabi language':
-- panjabisa
-'n: punjabi person':
-- panjabiyen
 'n: punk':
 - punku
 'n: pup':
@@ -35263,10 +34413,6 @@ mythology:
 - piramide
 'n: python':
 - piton
-'n: qatari':
-- kataryen
-'n: qatari person':
-- kataryen
 'n: quadrilateral':
 - caregon
 'n: quail':
@@ -35667,13 +34813,6 @@ mythology:
 - caluneskeyti
 'n: rolling':
 - gulun
-'n: romanian':
-- rumanisa
-- rumaniyen
-'n: romanian language':
-- rumanisa
-'n: romanian person':
-- rumaniyen
 'n: romantic love':
 - exku
 'n: romantic partner':
@@ -35730,13 +34869,6 @@ mythology:
 - pawbuyen
 'n: running':
 - dupawbu
-'n: russian':
-- rusisa
-- rusiyen
-'n: russian language':
-- rusisa
-'n: russian person':
-- rusiyen
 'n: rust':
 - zangar
 'n: rustle':
@@ -35795,13 +34927,6 @@ mythology:
 - namakekaxa
 'n: samarium':
 - samaryum
-'n: samoan':
-- samoasa
-- samoayen
-'n: samoan language':
-- samoasa
-'n: samoan person':
-- samoayen
 'n: sample':
 - nomune
 'n: sand':
@@ -35835,8 +34960,6 @@ mythology:
 - xanidin
 'n: sauce':
 - sawsa
-'n: saudi':
-- sawdiyen
 'n: sauna':
 - sawna
 'n: sausage':
@@ -35987,10 +35110,6 @@ mythology:
 - irsalyen
 'n: sending':
 - irsal
-'n: senegalese':
-- senegalyen
-'n: senegalese person':
-- senegalyen
 'n: senior':
 - laoyen
 'n: sense':
@@ -36012,13 +35131,6 @@ mythology:
 - mesi_nue
 'n: sequin':
 - payeta
-'n: serbian':
-- serbisa
-- serbiyen
-'n: serbian language':
-- serbisa
-'n: serbian person':
-- serbiyen
 'n: sergeant':
 - sarjenti
 'n: series':
@@ -36200,13 +35312,6 @@ mythology:
 - simulatora
 'n: sin':
 - dambi
-'n: sindhi':
-- sindisa
-- sindiyen
-'n: sindhi language':
-- sindisa
-'n: sindhi person':
-- sindiyen
 'n: sine':
 - sino
 'n: singer':
@@ -36219,8 +35324,6 @@ mythology:
 'n: single hair':
 - belomon
 - tofamon
-'n: sinhala':
-- sinhalasa
 'n: sink':
 - hoza
 'n: sinner':
@@ -36286,16 +35389,6 @@ mythology:
 - meylu
 'n: sloth':
 - esloti
-'n: slovak':
-- eslovakisa
-- eslovakiyen
-'n: slovak language':
-- eslovakisa
-'n: slovak person':
-- eslovakiyen
-'n: slovene':
-- eslovenisa
-- esloveniyen
 'n: slowing':
 - maxhanmancu
 - maxhanmangi
@@ -36377,10 +35470,6 @@ mythology:
 'n: solution':
 - hala
 - solusi
-'n: somali':
-- somalisa
-'n: somali language':
-- somalisa
 'n: some day':
 - xadin
 'n: son':
@@ -36405,15 +35494,10 @@ mythology:
 - mamba
 'n: sourdough':
 - acidihamir
-- acidiroti
-'n: sourdough bread':
-- acidiroti
 'n: soursop':
 - sitafel
 'n: south':
 - sude
-'n: south african':
-- sudeafrikayen
 'n: southeast':
 - sudedongu
 'n: southwest':
@@ -36429,14 +35513,6 @@ mythology:
 - espageti
 'n: spam':
 - espam
-'n: spaniard':
-- espaniyen
-'n: spanish':
-- espanisa
-'n: spanish and portuguese speaking latin america':
-- latinika
-'n: spanish language':
-- espanisa
 'n: spark':
 - atexmon
 'n: sparrow':
@@ -36548,8 +35624,6 @@ mythology:
 - kalamar
 'n: squirrel':
 - sinjabu
-'n: sri lankan':
-- esrilankayen
 'n: stability':
 - andinya
 'n: stabilization':
@@ -36724,8 +35798,6 @@ mythology:
 - dayjuhudi
 'n: student':
 - estudiyen
-'n: studio':
-- artedom
 'n: study':
 - estudi
 'n: stuff':
@@ -36854,13 +35926,6 @@ mythology:
 - begiximyen
 'n: suspicion':
 - gixim
-'n: swahili':
-- swahilisa
-- swahiliyen
-'n: swahili language':
-- swahilisa
-'n: swahili person':
-- swahiliyen
 'n: swallow':
 - ababil
 - nigalu
@@ -36876,12 +35941,6 @@ mythology:
 - sweta
 'n: sweater':
 - sweter
-'n: swede':
-- sweriyen
-'n: swedish':
-- swerisa
-'n: swedish language':
-- swerisa
 'n: sweep':
 - jaruya
 'n: sweet':
@@ -36908,8 +35967,6 @@ mythology:
 'n: swing':
 - urjuhatul
 - urjuha
-'n: swiss':
-- switzeyen
 'n: switch':
 - swici
 'n: sword':
@@ -36965,13 +36022,6 @@ mythology:
 - koda
 'n: tailor':
 - siuyen
-'n: tajik':
-- tojikisa
-- tojikiyen
-'n: tajik language':
-- tojikisa
-'n: tajik person':
-- tojikiyen
 'n: takeoff':
 - xorfley
 'n: taker':
@@ -36988,13 +36038,6 @@ mythology:
 - tamarin
 'n: tambourine':
 - tamburin
-'n: tamil':
-- tamilsa
-- tamilyen
-'n: tamil language':
-- tamilsa
-'n: tamil person':
-- tamilyen
 'n: taming':
 - posyesengi
 'n: tampon':
@@ -37007,10 +36050,6 @@ mythology:
 - dabagu
 'n: tantalum':
 - tantalum
-'n: taoism':
-- daoismo
-'n: taoist':
-- daoista
 'n: tap':
 - unvibrafono
 'n: tape':
@@ -37047,8 +36086,6 @@ mythology:
 'n: teaching':
 - alimxey
 - dualim
-'n: teachings':
-- alimxey
 'n: team':
 - tim
 'n: tear':
@@ -37083,13 +36120,6 @@ mythology:
 - teve
 'n: tellurium':
 - teluryum
-'n: telugu':
-- telugusa
-- teluguyen
-'n: telugu language':
-- telugusa
-'n: telugu people':
-- teluguyen
 'n: temperature':
 - termoje
 'n: template':
@@ -37146,15 +36176,8 @@ mythology:
 - texto
 'n: texture':
 - textura
-'n: thai':
-- taysa
-- tayyen
-'n: thai language':
-- taysa
 'n: thallium':
 - talyum
-'n: thanksgiving day':
-- xukradin
 'n: the act of bombing':
 - dubomba
 'n: the act of brushing':
@@ -37207,8 +36230,6 @@ mythology:
 - leya
 'n: the present':
 - nunya
-'n: the public':
-- demo
 'n: theater':
 - teatro
 'n: theft':
@@ -37349,13 +36370,6 @@ mythology:
 - jaxadin
 'n: tone':
 - tona
-'n: tongan':
-- tongasa
-- tongayen
-'n: tongan language':
-- tongasa
-'n: tongan person':
-- tongayen
 'n: tongue':
 - xeto
 'n: tonsil':
@@ -37570,22 +36584,9 @@ mythology:
 - turban
 'n: turbine':
 - turbin
-'n: turk':
-- turkiyen
 'n: turkey':
 - tarki
 - tarkimaso
-'n: turkish':
-- turkisa
-'n: turkish language':
-- turkisa
-'n: turkmen':
-- turkmenisa
-- turkmeniyen
-'n: turkmen language':
-- turkmenisa
-'n: turkmen person':
-- turkmeniyen
 'n: turmeric':
 - kurkuma
 'n: turn':
@@ -37595,13 +36596,6 @@ mythology:
 - xalgam
 'n: turtle':
 - kacupa
-'n: tuvaluan':
-- tuvalusa
-- tuvaluyen
-'n: tuvaluan language':
-- tuvalusa
-'n: tuvaluan person':
-- tuvaluyen
 'n: tuxedo':
 - tuksedo
 'n: tween':
@@ -37618,17 +36612,8 @@ mythology:
 - bawlukrasi
 'n: tyrant':
 - bawlukrasiyen
-'n: ugandan':
-- ugandayen
 'n: ugliness':
 - coloya
-'n: ukrainian':
-- ukrainasa
-- ukrainayen
-'n: ukrainian language':
-- ukrainasa
-'n: ukrainian person':
-- ukrainayen
 'n: ulcer':
 - ulcera
 'n: umami':
@@ -37687,11 +36672,6 @@ mythology:
 - rahim
 'n: uvula':
 - uvula
-'n: uzbek':
-- ozbekisa
-- ozbekiyen
-'n: uzbek language':
-- ozbekisa
 'n: vacation':
 - vakasi
 'n: vaccine':
@@ -37743,8 +36723,6 @@ mythology:
 - mahamel
 'n: vending machine':
 - maydotora
-'n: venezuelan':
-- venezwelayen
 'n: venison':
 - hirxamaso
 'n: verb':
@@ -37778,11 +36756,6 @@ mythology:
 - video
 'n: video game':
 - videoyuxi
-'n: vietnamese':
-- vyetnamsa
-- vyetnamyen
-'n: vietnamese language':
-- vyetnamsa
 'n: view':
 - okoxey
 'n: viewer':
@@ -37805,6 +36778,8 @@ mythology:
 - vinildisko
 'n: viola':
 - vyola
+'n: violation':
+- yonbawlu
 'n: violence':
 - bawlu
 'n: violet':
@@ -37903,8 +36878,6 @@ mythology:
 - produtidom
 'n: warning':
 - jingo
-'n: warrant':
-- arestoamiru
 'n: warrior':
 - jangeyen
 'n: wart':
@@ -37999,8 +36972,6 @@ mythology:
 - calun
 'n: wheelchair':
 - calunkursi
-'n: while':
-- kurto_watu
 'n: whip':
 - cabuke
 'n: whisk':
@@ -38195,14 +37166,10 @@ mythology:
 - iterbyum
 'n: yttrium':
 - itryum
-'n: zambian':
-- zambiyen
 'n: zebra':
 - zebra
 'n: zigzag':
 - zigzagu
-'n: zimbabwean':
-- zimbabweyen
 'n: zinc':
 - zinko
 'n: zipper':
@@ -38352,6 +37319,8 @@ nearly:
 - kriban
 nearness:
 - nerya
+nebulise:
+- esprey
 nebulize:
 - esprey
 necessarily:
@@ -38480,6 +37449,7 @@ nevus:
 new:
 - neo
 newly:
+- nerlelimo
 - neo
 news:
 - haberi
@@ -38964,7 +37934,6 @@ obituary:
 object:
 - ojeto
 - xey
-- -yen
 - antiya
 object to:
 - antiya
@@ -39278,6 +38247,7 @@ once more:
 - fe_rimara
 - rili
 - rimarali
+- ripul
 once upon a time:
 - leli_banwatu
 - fe_ban_leli_watu
@@ -39294,6 +38264,8 @@ one fifth:
 - un_oflima
 one fourth:
 - un_ofcare
+one half:
+- un_ofdua
 one hundredth:
 - un_ofcen
 one hundredth (of):
@@ -39308,6 +38280,7 @@ one more time:
 - fe_rimara
 - rili
 - rimarali
+- ripul
 one ninth:
 - un_ofnue
 one of these days:
@@ -39500,6 +38473,11 @@ organically:
 - bioli
 organisation:
 - organisatim
+- organisa
+organise:
+- organisa
+organised:
+- organisado
 organization:
 - organisatim
 - organisa
@@ -39806,8 +38784,14 @@ paleontology:
 - lamabiologi
 palestine:
 - palestin
+palette:
+- pentutahta
 palladium:
 - paladyum
+pallet:
+- paleta
+pallete:
+- kolorlari
 pallid:
 - cambay
 pallidly:
@@ -39914,7 +38898,7 @@ papyrus:
 - ger
 'par conditional mood marker: would':
 - ger
-'par emphatic, contrastive: any':
+'par contrastive emphasis: any':
 - he
 'par future tense marker: will':
 - xa
@@ -40116,13 +39100,17 @@ pastry:
 patent:
 - fatmindoku
 paternity:
-- atreya
+- patreya
 path:
 - dao
 pathological:
 - osisli
 pathologically:
 - osisli
+pathologisation:
+- osisgi
+pathologise:
+- osisgi
 pathologization:
 - osisgi
 pathologize:
@@ -40788,8 +39776,10 @@ pillar:
 pillow:
 - kapikusen
 pilot:
+- fleygikef
+- fleygiyen
 - hawanaviyen
-pilot (in command):
+pilot in command:
 - fleygikef
 pimpinella anisum:
 - anisu
@@ -40875,6 +39865,10 @@ placement:
 - plasi
 placing:
 - plasi
+plagiarise:
+- intihal
+plagiarised:
+- intihaldo
 plagiarism:
 - intihal
 plagiarize:
@@ -41198,6 +40192,10 @@ poppy:
 - popi
 popular:
 - populer
+popularisation:
+- populergi
+popularise:
+- populergi
 popularity:
 - populerya
 popularization:
@@ -41761,6 +40759,10 @@ preoccupied:
 - cel_peda
 'prep phrs: to the top':
 - cel_kapi
+'prep phrs: today':
+- fe_nundin
+'prep phrs: tomorrow':
+- fe_jaxadin
 'prep phrs: tonight':
 - fe_hin_noce
 'prep phrs: twice':
@@ -41782,6 +40784,8 @@ preoccupied:
 - nenhar_na
 - nenyon_na
 - wal_na
+'prep phrs: yesterday':
+- fe_jaledin
 'prep subtractive: minus':
 - minus
 'prep: about':
@@ -42141,6 +41145,8 @@ prism:
 - prisma
 prison:
 - poshurudom
+prison cell:
+- arestokamer
 prisoner:
 - poshuruyen
 privacy:
@@ -42518,44 +41524,301 @@ proofreader:
 - monidoxoyen
 proofreading:
 - monidoxo
+'prop adj: achillean':
+- akileli
+'prop adj: afghan':
+- afganili
+'prop adj: african':
+- afrikali
 'prop adj: afrikaans':
 - afrikanse
+'prop adj: algerian':
+- jazairli
+'prop adj: american':
+- usali
+'prop adj: amerindian':
+- amerindi
+'prop adj: amharan':
+- amarali
+'prop adj: angolan':
+- angolali
+'prop adj: arabian':
+- arabili
+'prop adj: argentine':
+- argentinali
 'prop adj: ashkenazi':
 - axkenazi
+'prop adj: asian':
+- asiali
+'prop adj: assamese':
+- ohomli
+'prop adj: australian':
+- awstralili
+'prop adj: azerbaijani':
+- azerbayjanli
+'prop adj: bahá’í':
+- bahayi
+'prop adj: basque':
+- ewskalli
 'prop adj: bedouin':
 - badowin
+'prop adj: belgian':
+- belgili
+'prop adj: bengali':
+- banglali
+'prop adj: bhutanese':
+- drukili
 'prop adj: boro':
 - boro
+'prop adj: brazilian':
+- brazilli
+'prop adj: british':
+- britili
+'prop adj: cambodian':
+- kampucili
+'prop adj: cameroonian':
+- kamerunli
+'prop adj: canadian':
+- kanadali
+'prop adj: cartesian':
+- dekartli
+'prop adj: catholic':
+- katoliki
 'prop adj: celtic':
 - kelti
+'prop adj: chadian':
+- cadili
+'prop adj: chilean':
+- cileli
+'prop adj: chinese':
+- cungwoli
+'prop adj: colombian':
+- kolombili
+'prop adj: comorian':
+- komorili
 'prop adj: coptic':
 - kupti
+'prop adj: costa rican':
+- kostarikali
+'prop adj: cypriot':
+- kiprosli
+'prop adj: czech':
+- ceskili
 'prop adj: dogra':
 - dogra
+'prop adj: dutch':
+- nederili
+'prop adj: ecuadorian':
+- ekwadorli
+'prop adj: egyptian':
+- masrili
+'prop adj: english':
+- englili
+'prop adj: ethiopian':
+- ityopili
+'prop adj: euclidean':
+- ewklideli
+'prop adj: european':
+- ewropali
+'prop adj: fijian':
+- fijili
+'prop adj: filipino':
+- pilipinali
+'prop adj: finnish':
+- swomili
+'prop adj: french':
+- franseli
+'prop adj: german':
+- doycili
 'prop adj: germanic':
 - germani
+'prop adj: ghanaian':
+- ganali
+'prop adj: greek':
+- elinili
+'prop adj: grenadian':
+- grenadali
+'prop adj: guatemalan':
+- gwatemalali
+'prop adj: gujarati':
+- gujaratili
 'prop adj: hebrew':
 - ivri
+'prop adj: herculean':
+- herkuleli
+- herkulesim
 'prop adj: hindu':
 - hindu
+'prop adj: honduran':
+- hondurali
+'prop adj: hungarian':
+- magyarli
+'prop adj: indian':
+- baratili
+'prop adj: indonesian':
+- indonesili
+'prop adj: iranian':
+- iranli
+'prop adj: iraqi':
+- irakili
 'prop adj: islamic':
 - islami
+'prop adj: italian':
+- italili
 'prop adj: jewish':
 - yehudi
+'prop adj: karnataka':
+- karnatakali
+'prop adj: kashmiri':
+- kaxmirli
+'prop adj: kazakh':
+- kazakili
+'prop adj: kerala':
+- keralali
+'prop adj: konkani':
+- konkanli
+'prop adj: korean':
+- koreali
 'prop adj: latin':
 - latin
+'prop adj: latina':
+- latinikali
+'prop adj: libyan':
+- libili
+'prop adj: liechtensteinian':
+- lihtenstaynli
+'prop adj: lithuanian':
+- lyetuvali
+'prop adj: luxembourgish':
+- lutsemburgili
+'prop adj: macedonian':
+- makedonili
+'prop adj: malay':
+- malaysisa
+'prop adj: malaysian':
+- malaysili
+'prop adj: manipuri':
+- manipurli
+'prop adj: marathi':
+- maharaxtrali
+'prop adj: mauritian':
+- mawrisli
+'prop adj: mexican':
+- mexikoli
+'prop adj: mithila':
+- mitilali
+'prop adj: moldovan':
+- moldovali
+'prop adj: montenegrin':
+- cernagorali
+'prop adj: moroccan':
+- magribili
+'prop adj: namibian':
+- namibili
 'prop adj: nazi':
 - natzi
+'prop adj: nigerian':
+- nayjerili
+'prop adj: north-american':
+- amerikali
+'prop adj: odisha':
+- orisali
+'prop adj: of karnataka':
+- karnatakali
+'prop adj: of kerala':
+- keralali
+'prop adj: of mithila':
+- mitilali
+'prop adj: of odisha':
+- orisali
+'prop adj: ottoman':
+- osmanli
+'prop adj: pakistani':
+- pakili
+'prop adj: persian':
+- parsili
+'prop adj: peruvian':
+- peruli
+'prop adj: platonic':
+- platonli
+'prop adj: polish':
+- polskali
+'prop adj: punjabi':
+- panjabili
+'prop adj: qatari':
+- katarli
+'prop adj: romani':
+- romani
+'prop adj: romanian':
+- rumanili
+'prop adj: russian':
+- rusili
+'prop adj: samoan':
+- samoali
+'prop adj: sapphic':
+- sapfoli
+'prop adj: saudi':
+- sawdili
+'prop adj: senegalese':
+- senegalli
 'prop adj: sephardi':
 - sefardi
+'prop adj: sikh':
+- siki
+'prop adj: sindhi':
+- sindili
 'prop adj: sinhalese':
 - sinhala
+'prop adj: slavic':
+- eslovi
+'prop adj: slovak':
+- eslovakili
+'prop adj: slovene':
+- eslovenili
+'prop adj: south african':
+- sudeafrikali
 'prop adj: soviet':
 - sovyeti
+'prop adj: spanish':
+- espanili
+'prop adj: sri lankan':
+- esrilankali
 'prop adj: swahili':
 - swahili
+'prop adj: swedish':
+- swerili
+'prop adj: swiss':
+- switzeli
+'prop adj: tajik':
+- tojikili
+'prop adj: tamil':
+- tamilli
 'prop adj: telugu':
 - telugu
+'prop adj: thai':
+- tayli
+'prop adj: tongan':
+- tongali
+'prop adj: turkish':
+- turkili
+'prop adj: turkmen':
+- turkmenili
+'prop adj: tuvaluan':
+- tuvaluli
+'prop adj: ugandan':
+- ugandali
+'prop adj: ukrainian':
+- ukrainali
+'prop adj: uzbek':
+- ozbekili
+'prop adj: venezuelan':
+- venezwelali
+'prop adj: vietnamese':
+- vyetnamli
+'prop adj: zambian':
+- zambili
+'prop adj: zimbabwean':
+- zimbabweli
 'prop n: aaron':
 - aron
 'prop n: abel':
@@ -42574,28 +41837,61 @@ proofreading:
 - adrya
 'prop n: aegeus':
 - egeo
+'prop n: afghan':
+- afganiyen
 'prop n: afghanistan':
 - afgani
 'prop n: africa':
 - afrika
+'prop n: african':
+- afrikayen
+'prop n: afrikaans':
+- afrikansesa
+'prop n: afrikaans language':
+- afrikansesa
+'prop n: afrikaner':
+- afrikanseyen
 'prop n: ahab':
 - ahab
 'prop n: akkad':
 - akade
 'prop n: albania':
 - exkiperi
+'prop n: albanian':
+- exkiperisa
+- exkiperiyen
+'prop n: albanian language':
+- exkiperisa
+'prop n: albanian person':
+- exkiperiyen
 'prop n: alexander':
 - aleksandro
 'prop n: algeria':
 - jazair
+'prop n: algerian':
+- jazairyen
 'prop n: america':
 - amerika
+'prop n: american':
+- usayen
+'prop n: amerindian':
+- amerindiyen
 'prop n: amhara region':
 - amara
+'prop n: amharan':
+- amarayen
+'prop n: amharan person':
+- amarayen
+'prop n: amharic':
+- amarasa
+'prop n: amharic language':
+- amarasa
 'prop n: amos':
 - amos
 'prop n: anadyr':
 - anadir
+'prop n: ancient egypt':
+- kemeti
 'prop n: andaman':
 - andaman
 'prop n: andorra':
@@ -42604,40 +41900,73 @@ proofreading:
 - andre
 'prop n: angola':
 - angola
+'prop n: angolan':
+- angolayen
 'prop n: anna':
 - ana
 'prop n: antarctic':
 - antartiko
+'prop n: antarctic ocean':
+- bahari_antartiko
 'prop n: anthony':
 - antoni
 'prop n: antigua and barbuda':
 - antigwa_ji_barbuda
+'prop n: arab':
+- arabiyen
 'prop n: arabia':
 - arabi
+'prop n: arabic':
+- arabisa
+'prop n: arabic language':
+- arabisa
 'prop n: arafura':
 - arafura
 'prop n: aram':
 - aram
+'prop n: aramaic':
+- aramsa
 'prop n: archimedes':
 - arkimede
 'prop n: arctic':
 - artiko
+'prop n: arctic ocean':
+- bahari_artiko
 'prop n: argentina':
 - argentina
+'prop n: argentine':
+- argentinayen
 'prop n: aristotle':
 - aristotel
 'prop n: armenia':
 - haya
+'prop n: armenian':
+- hayasa
+- hayayen
+'prop n: armenian language':
+- hayasa
+'prop n: armenian person':
+- hayayen
 'prop n: asia':
 - asia
+'prop n: asian':
+- asiayen
 'prop n: asperger':
 - asperger
 'prop n: assam':
 - ohom
+'prop n: assamese':
+- ohomsa
+- ohomyen
+'prop n: assamese language':
+- ohomsa
+'prop n: assamese person':
+- ohomyen
 'prop n: atlantic':
 - atlantiko
 'prop n: atlantic ocean':
 - atlantiko
+- bahari_atlantiko
 'prop n: atlas':
 - atlas_name
 'prop n: augustine':
@@ -42645,16 +41974,37 @@ proofreading:
 'prop n: australia':
 - awstrali
 - awstralia
+'prop n: australian':
+- awstraliyen
 'prop n: austria':
 - osteri
+'prop n: austrian':
+- osteriyen
+'prop n: austrian person':
+- osteriyen
 'prop n: azerbaijan':
 - azerbayjan
+'prop n: azerbaijani':
+- azerbayjansa
+- azerbayjanyen
+'prop n: azerbaijani language':
+- azerbayjansa
+'prop n: azerbaijani person':
+- azerbayjanyen
 'prop n: babylon':
 - babilon
 'prop n: baffin':
 - bafin
+'prop n: bahamian':
+- bahamayen
+'prop n: bahamian person':
+- bahamayen
 'prop n: bahrain':
 - bahrayn
+'prop n: bahraini':
+- bahraynyen
+'prop n: bahraini person':
+- bahraynyen
 'prop n: balearic':
 - balear
 'prop n: baltic':
@@ -42663,6 +42013,8 @@ proofreading:
 - banda
 'prop n: bangladesh':
 - bangladexa
+'prop n: barbadian':
+- barbadoyen
 'prop n: barbados':
 - barbado
 'prop n: barbara':
@@ -42671,8 +42023,15 @@ proofreading:
 - barentse
 'prop n: bartholomew':
 - bartolome
+'prop n: basque':
+- ewskalsa
+- ewskalyen
 'prop n: basque country':
 - ewskal
+'prop n: basque language':
+- ewskalsa
+'prop n: basque person':
+- ewskalyen
 'prop n: beaufort':
 - bofort
 'prop n: becquerel':
@@ -42681,28 +42040,50 @@ proofreading:
 - belzebul
 'prop n: belarus':
 - belarus
+'prop n: belarusian':
+- belarussa
+'prop n: belarusian language':
+- belarussa
+'prop n: belgian':
+- belgiyen
 'prop n: belgium':
 - belgi
 'prop n: belize':
 - belize
+'prop n: belizean':
+- belizeyen
 'prop n: bellingshausen':
 - belinshawsen
 'prop n: bengal':
 - bangla
+'prop n: bengali':
+- banglasa
+- banglayen
+'prop n: bengali language':
+- banglasa
 'prop n: benin':
 - benin
+'prop n: beninese':
+- beninyen
 'prop n: benjamin':
 - benyamin
 'prop n: bering':
 - bering
 'prop n: bhutan':
 - druki
+'prop n: bhutanese':
+- drukiyen
+'prop n: bhutanese person':
+- drukiyen
 'prop n: bible':
 - bibli
 'prop n: bolivia':
 - bolivi
 'prop n: boole':
 - bule
+'prop n: boro':
+- borosa
+- boroyen
 'prop n: bosnia and herzegovina':
 - bosna_ji_hertsegovina
 'prop n: botswana':
@@ -42715,18 +42096,35 @@ proofreading:
 - boysen
 'prop n: brazil':
 - brazil
+'prop n: brazilian':
+- brazilyen
 'prop n: brendan':
 - brendan
+'prop n: brit':
+- britiyen
 'prop n: brunei':
 - brunay
 'prop n: brunei darussalam':
 - brunay
 'prop n: buddha':
 - buda
+'prop n: buddhism':
+- budaismo
+'prop n: buddhist':
+- budaista
 'prop n: bulgaria':
 - bulgari
+'prop n: bulgarian':
+- bulgarisa
+- bulgariyen
+'prop n: bulgarian language':
+- bulgarisa
 'prop n: burkina faso':
 - burkina
+'prop n: burmese':
+- myanmasa
+'prop n: burmese language':
+- myanmasa
 'prop n: burundi':
 - rundi
 'prop n: cabo verde':
@@ -42739,12 +42137,18 @@ proofreading:
 - kaleb
 'prop n: calvin':
 - kalvin
+'prop n: calvinism':
+- kalvinismo
 'prop n: cambodia':
 - kampuci
 'prop n: cameroon':
 - kamerun
+'prop n: cameroonian':
+- kamerunyen
 'prop n: canada':
 - kanada
+'prop n: canadian':
+- kanadayen
 'prop n: canary':
 - kanari
 'prop n: canary islands':
@@ -42777,6 +42181,8 @@ proofreading:
 - cewta_ji_melila
 'prop n: chad':
 - cadi
+'prop n: chadian':
+- cadiyen
 'prop n: champagne':
 - xampani_zona
 'prop n: charles':
@@ -42785,10 +42191,20 @@ proofreading:
 - xovin
 'prop n: chile':
 - cile
+'prop n: chilean':
+- cileyen
 'prop n: china':
 - cungwo
+'prop n: chinese':
+- cungwoyen
 'prop n: christ':
 - kristo
+'prop n: christian':
+- kristoista
+'prop n: christianity':
+- kristoismo
+'prop n: christmas':
+- kristodin
 'prop n: christopher':
 - kristofe
 'prop n: chukchi':
@@ -42801,8 +42217,19 @@ proofreading:
 - kokokilin
 'prop n: colombia':
 - kolombi
+'prop n: colombian':
+- kolombiyen
+'prop n: colombian person':
+- kolombiyen
 'prop n: colossae':
 - kolose
+'prop n: comorian':
+- komorisa
+- komoriyen
+'prop n: comorian language':
+- komorisa
+'prop n: comorian person':
+- komoriyen
 'prop n: comoros':
 - komori
 'prop n: confucius':
@@ -42815,22 +42242,41 @@ proofreading:
 - korinto
 'prop n: costa rica':
 - kostarika
+'prop n: costa rican':
+- kostarikayen
+'prop n: costa rican person':
+- kostarikayen
 'prop n: croatia':
 - hervatska
 'prop n: cuba':
 - kuba
 'prop n: curaçao':
 - kurasao
+'prop n: cypriot':
+- kiprosyen
+'prop n: cypriot person':
+- kiprosyen
 'prop n: cyprus':
 - kipros
 'prop n: cyril':
 - ciril
+'prop n: czech':
+- ceskisa
+- ceskiyen
+'prop n: czech language':
+- ceskisa
 'prop n: czech republic':
 - ceski
 'prop n: côte d''ivoire':
 - kotivwar
+'prop n: dane':
+- daniyen
 'prop n: daniel':
 - danyel
+'prop n: danish':
+- danisa
+'prop n: danish language':
+- danisa
 'prop n: darwin':
 - darwin
 'prop n: david':
@@ -42843,12 +42289,22 @@ proofreading:
 - dani
 'prop n: descartes':
 - dekart
+'prop n: dhivehi':
+- divehisa
 'prop n: diesel':
 - dizel
 'prop n: dionysius':
 - dyonisi
 'prop n: djibouti':
 - jibuti
+'prop n: dogra':
+- dograyen
+'prop n: dogra person':
+- dograyen
+'prop n: dogri':
+- dograsa
+'prop n: dogri language':
+- dograsa
 'prop n: dominica':
 - dominika
 'prop n: dominican republic':
@@ -42857,18 +42313,39 @@ proofreading:
 - dorote
 'prop n: down':
 - dawn
+'prop n: dutch':
+- nederisa
+- nederiyen
+'prop n: dutch language':
+- nederisa
+'prop n: dzongkha':
+- drukisa
 'prop n: earth':
 - dunya
 'prop n: earth''s moon':
 - luna
+'prop n: earthling':
+- dunyayen
 'prop n: east timor':
 - dongutimor
+'prop n: easter':
+- rujiwadin
 'prop n: ecuador':
 - ekwador
+'prop n: ecuadorian':
+- ekwadoryen
 'prop n: edward':
 - edwardo
 'prop n: egypt':
 - masri
+'prop n: egyptian':
+- masriyen
+'prop n: egyptian arabic':
+- masrisa
+'prop n: egyptian arabic language':
+- masrisa
+'prop n: eid al-adha':
+- dabihudin
 'prop n: el salvador':
 - salvadori
 'prop n: elijah':
@@ -42879,6 +42356,12 @@ proofreading:
 - emanwel
 'prop n: england':
 - engli
+'prop n: english':
+- englisa
+'prop n: english language':
+- englisa
+'prop n: englishman':
+- engliyen
 'prop n: ephesus':
 - efeso
 'prop n: equatorial guinea':
@@ -42889,18 +42372,29 @@ proofreading:
 - ester
 'prop n: estonia':
 - esti
+'prop n: estonian':
+- estisa
+- estiyen
+'prop n: estonian language':
+- estisa
+'prop n: estonian person':
+- estiyen
 'prop n: eswatini':
 - swatini
 'prop n: ethan':
 - etan
 'prop n: ethiopia':
 - ityopi
+'prop n: ethiopian':
+- ityopiyen
 'prop n: euclid':
 - ewklide
 'prop n: eunice':
 - ewnike
 'prop n: europe':
 - ewropa
+'prop n: european':
+- ewropayen
 'prop n: eve':
 - eva
 'prop n: ezekiel':
@@ -42913,12 +42407,34 @@ proofreading:
 - faroer
 'prop n: faroe islands':
 - faroer
+'prop n: farsi':
+- parsisa
 'prop n: felix':
 - feliks
 'prop n: fiji':
 - fiji
+'prop n: fijian':
+- fijisa
+- fijiyen
+'prop n: fijian language':
+- fijisa
+'prop n: fijian person':
+- fijiyen
+'prop n: filipino':
+- pilipinasa
+- pilipinayen
+'prop n: filipino language':
+- pilipinasa
+'prop n: filipino person':
+- pilipinayen
 'prop n: finland':
 - swomi
+'prop n: finn':
+- swomiyen
+'prop n: finnish':
+- swomisa
+'prop n: finnish language':
+- swomisa
 'prop n: flores':
 - flores
 'prop n: flores sea':
@@ -42927,6 +42443,12 @@ proofreading:
 - franse
 'prop n: francis':
 - francisko
+'prop n: french':
+- fransesa
+'prop n: french language':
+- fransesa
+'prop n: frenchman':
+- franseyen
 'prop n: freud':
 - froyd
 'prop n: gabon':
@@ -42945,30 +42467,68 @@ proofreading:
 - georgi
 'prop n: georgia':
 - sakartwelo
+'prop n: georgian':
+- sakartwelosa
+- sakartweloyen
+'prop n: georgian language':
+- sakartwelosa
+'prop n: georgian person':
+- sakartweloyen
+'prop n: german':
+- doycisa
+- doyciyen
+'prop n: german language':
+- doycisa
 'prop n: germany':
 - doyci
 'prop n: ghana':
 - gana
+'prop n: ghanaian':
+- ganayen
+'prop n: gilbertese':
+- kiribatisa
+'prop n: gilbertese language':
+- kiribatisa
+'prop n: globasa':
+- globasa
 'prop n: goliath':
 - golyat
 'prop n: grau':
 - graw
+'prop n: great britain':
+- daybriti
 'prop n: greece':
 - elini
+'prop n: greek':
+- elinisa
+- eliniyen
+'prop n: greek language':
+- elinisa
 'prop n: greenland':
 - kalali
 'prop n: gregory':
 - gregori
 'prop n: grenada':
 - grenada
+'prop n: grenadian':
+- grenadayen
 'prop n: guatemala':
 - gwatemala
+'prop n: guatemalan':
+- gwatemalayen
 'prop n: guinea':
 - gine
 'prop n: guinea-bissau':
 - ginebisaw
 'prop n: gujarat':
 - gujarati
+'prop n: gujarati':
+- gujaratisa
+- gujaratiyen
+'prop n: gujarati language':
+- gujaratisa
+'prop n: gujarati person':
+- gujaratiyen
 'prop n: guyana':
 - guyana
 'prop n: habakkuk':
@@ -42983,6 +42543,13 @@ proofreading:
 - hana
 'prop n: hasan':
 - hasan
+'prop n: hebrew':
+- ivrisa
+- ivriyen
+'prop n: hebrew language':
+- ivrisa
+'prop n: hebrew people':
+- ivriyen
 'prop n: helen':
 - helena
 'prop n: henry':
@@ -42993,6 +42560,10 @@ proofreading:
 - hindi
 'prop n: hindi language':
 - hindi
+'prop n: hindi-speaking indian':
+- hindiyen
+'prop n: hinduism':
+- hinduismo
 'prop n: hippocrates':
 - hipokrate
 'prop n: holocene':
@@ -43001,34 +42572,70 @@ proofreading:
 - santo_biskopodom
 'prop n: homer':
 - homero
+'prop n: honduran':
+- hondurayen
+'prop n: honduran person':
+- hondurayen
 'prop n: honduras':
 - hondura
 'prop n: hosea':
 - hosea
 'prop n: hudson':
 - hudson
+'prop n: hungarian':
+- magyarsa
+- magyaryen
+'prop n: hungarian language':
+- magyarsa
+'prop n: hungarian person':
+- magyaryen
 'prop n: hungary':
 - magyar
 'prop n: iceland':
 - islandi
+'prop n: icelander':
+- islandiyen
+'prop n: icelandic':
+- islandisa
+'prop n: icelandic language':
+- islandisa
 'prop n: india':
 - barati
+'prop n: indian':
+- baratiyen
 'prop n: indian ocean':
+- bahari_hindiko
 - hindiko
 'prop n: indonesia':
 - indonesi
+'prop n: indonesian':
+- indonesisa
+- indonesiyen
+'prop n: indonesian language':
+- indonesisa
 'prop n: ionian':
 - yonyo
 'prop n: ionian sea':
 - yonyo
 'prop n: iran':
 - iran
+'prop n: iranian':
+- iranyen
 'prop n: iraq':
 - iraki
+'prop n: iraqi':
+- irakiyen
 'prop n: ireland':
 - eyre
 'prop n: iris':
 - iris
+'prop n: irish':
+- eyresa
+- eyreyen
+'prop n: irish language':
+- eyresa
+'prop n: irish person':
+- eyreyen
 'prop n: irminger':
 - irminger
 'prop n: isaac':
@@ -43037,8 +42644,15 @@ proofreading:
 - esaya
 'prop n: ishmael':
 - ismael
+'prop n: islam':
+- islamiya
 'prop n: israel':
 - israel
+'prop n: italian':
+- italisa
+- italiyen
+'prop n: italian language':
+- italisa
 'prop n: italy':
 - itali
 'prop n: jacob':
@@ -43047,6 +42661,10 @@ proofreading:
 - jameyka
 'prop n: japan':
 - nipon
+'prop n: japanese':
+- niponsa
+'prop n: japanese language':
+- niponsa
 'prop n: jason':
 - yason
 'prop n: jeremy':
@@ -43057,6 +42675,8 @@ proofreading:
 - yese
 'prop n: jesus':
 - yesu
+'prop n: jew':
+- yehudiyen
 'prop n: joachim':
 - yoakim
 'prop n: job':
@@ -43077,6 +42697,8 @@ proofreading:
 - yoxwa
 'prop n: judah':
 - yuda
+'prop n: judaism':
+- yehudiismo
 'prop n: judith':
 - yudit
 'prop n: julius':
@@ -43085,42 +42707,109 @@ proofreading:
 - muxtari
 'prop n: justin':
 - yustin
+'prop n: kannada':
+- karnatakasa
+'prop n: kannada language':
+- karnatakasa
+'prop n: kannadiga':
+- karnatakayen
 'prop n: kara':
 - kara
 'prop n: karnataka':
 - karnataka
 'prop n: kashmir':
 - kaxmir
+'prop n: kashmiri':
+- kaxmirsa
+- kaxmiryen
+'prop n: kashmiri language':
+- kaxmirsa
+'prop n: kashmiri person':
+- kaxmiryen
+'prop n: kazakh':
+- kazakisa
+- kazakiyen
+'prop n: kazakh language':
+- kazakisa
+'prop n: kazakh person':
+- kazakiyen
 'prop n: kazakhstan':
 - kazaki
 'prop n: kenya':
 - kenya
 'prop n: kerala':
 - kerala
+'prop n: khmer':
+- kampucisa
+- kampuciyen
 'prop n: kiribati':
 - kiribati
 'prop n: konkan':
 - konkan
+'prop n: konkani':
+- konkansa
+- konkanyen
+'prop n: konkani language':
+- konkansa
+'prop n: konkani person':
+- konkanyen
 'prop n: korea':
 - korea
+'prop n: korean':
+- koreasa
+- koreayen
+'prop n: korean language':
+- koreasa
+'prop n: korean person':
+- koreayen
 'prop n: kuwait':
 - kuweyti
+'prop n: kyrgyz':
+- kirgizisa
+- kirgiziyen
+'prop n: kyrgyz language':
+- kirgizisa
+'prop n: kyrgyz person':
+- kirgiziyen
 'prop n: kyrgyzstan':
 - kirgizi
 'prop n: labrador':
 - labrador
 'prop n: lakshadweep':
 - lakxadwipa
+'prop n: lao':
+- lawisa
+'prop n: lao language':
+- lawisa
 'prop n: laos':
 - lawi
 'prop n: laptev':
 - laptev
+'prop n: latin':
+- latinsa
+'prop n: latin america':
+- latinika
+'prop n: latin language':
+- latinsa
+'prop n: latina':
+- latinikayen
 'prop n: latvia':
 - latvi
+'prop n: latvian':
+- latvisa
+- latviyen
+'prop n: latvian language':
+- latvisa
+'prop n: latvian person':
+- latviyen
 'prop n: laurence':
 - lorenso
 'prop n: lazarev':
 - lazarev
+'prop n: lebanese':
+- lubanonyen
+'prop n: lebanese person':
+- lubanonyen
 'prop n: lebanon':
 - lubanon
 'prop n: lesbos':
@@ -43137,46 +42826,112 @@ proofreading:
 - liberi
 'prop n: libya':
 - libi
+'prop n: libyan':
+- libiyen
+'prop n: libyan person':
+- libiyen
 'prop n: liechtenstein':
 - lihtenstayn
+'prop n: liechtensteiner':
+- lihtenstaynyen
 'prop n: lithuania':
 - lyetuva
+'prop n: lithuanian':
+- lyetuvasa
+- lyetuvayen
+'prop n: lithuanian language':
+- lyetuvasa
+'prop n: lithuanian person':
+- lyetuvayen
 'prop n: luke':
 - luka
 'prop n: luther':
 - luter
+'prop n: lutheranism':
+- luterismo
 'prop n: luxembourg':
 - lutsemburgi
+'prop n: luxembourger':
+- lutsemburgiyen
+'prop n: luxembourgish':
+- lutsemburgisa
+'prop n: luxembourgish language':
+- lutsemburgisa
 'prop n: lydia':
 - lidya
 'prop n: léotard':
 - leotardo
 'prop n: macedonia':
 - makedoni
+'prop n: macedonian':
+- makedonisa
+- makedoniyen
+'prop n: macedonian language':
+- makedonisa
+'prop n: macedonian person':
+- makedoniyen
 'prop n: madagascar':
 - madagaskar
 'prop n: magdalene':
 - magdalen
 'prop n: maharashtra':
 - maharaxtra
+'prop n: maithil':
+- mitilayen
+'prop n: maithili':
+- mitilasa
+'prop n: maithili language':
+- mitilasa
 'prop n: malachi':
 - malaki
 'prop n: malawi':
 - malawi
+'prop n: malawian':
+- malawiyen
+'prop n: malawian person':
+- malawiyen
+'prop n: malayalam':
+- keralasa
+'prop n: malayalam language':
+- keralasa
+'prop n: malayali':
+- keralayen
 'prop n: malaysia':
 - malaysi
+'prop n: malaysian':
+- malaysiyen
+'prop n: malaysian person':
+- malaysiyen
 'prop n: maldives':
 - divehi
 'prop n: mali':
 - mali
+'prop n: malian':
+- maliyen
+'prop n: malian person':
+- maliyen
 'prop n: malta':
 - malta
+'prop n: maltese':
+- maltasa
+- maltayen
+'prop n: maltese language':
+- maltasa
+'prop n: maltese person':
+- maltayen
 'prop n: mandarin':
 - putunhwa
 'prop n: mandarin language':
 - putunhwa
 'prop n: manipur':
 - manipur
+'prop n: marathi':
+- maharaxtrasa
+- maharaxtrayen
+'prop n: marathi language':
+- maharaxtrasa
+'prop n: marathi person':
+- maharaxtrayen
 'prop n: margaret':
 - margaret
 'prop n: mark':
@@ -43185,10 +42940,18 @@ proofreading:
 - marihi
 'prop n: marshall islands':
 - majeli
+'prop n: marshallese':
+- majelisa
+'prop n: marshallese language':
+- majelisa
 'prop n: martha':
 - marta
+'prop n: martian':
+- marihiyen
 'prop n: marx':
 - markse
+'prop n: marxism':
+- markseismo
 'prop n: mary':
 - maria
 'prop n: masoch':
@@ -43197,12 +42960,23 @@ proofreading:
 - mateo
 'prop n: mauritania':
 - muritani
+'prop n: mauritian':
+- mawrisyen
+'prop n: mauritian person':
+- mawrisyen
 'prop n: mauritius':
 - mawris
 'prop n: mawson':
 - mawson
+'prop n: meitei':
+- manipursa
+- manipuryen
 'prop n: mercury':
 - budu
+'prop n: mexican':
+- mexikoyen
+'prop n: mexican person':
+- mexikoyen
 'prop n: mexico':
 - mexiko
 'prop n: micah':
@@ -43219,18 +42993,40 @@ proofreading:
 - mohamad
 'prop n: moldova':
 - moldova
+'prop n: moldovan':
+- moldovayen
+'prop n: moldovan person':
+- moldovayen
 'prop n: molucca':
 - maluku
 'prop n: monaco':
 - monako
 'prop n: mongolia':
 - mongoli
+'prop n: mongolian':
+- mongolisa
+- mongoliyen
+'prop n: mongolian language':
+- mongolisa
+'prop n: mongolian person':
+- mongoliyen
 'prop n: monica':
 - monika
+'prop n: montenegrin':
+- cernagorasa
+- cernagorayen
+'prop n: montenegrin language':
+- cernagorasa
 'prop n: montenegro':
 - cernagora
+'prop n: monégasque':
+- monakoyen
 'prop n: mormon':
 - mormon
+'prop n: mormonism':
+- mormonismo
+'prop n: moroccan':
+- magribiyen
 'prop n: morocco':
 - magribi
 'prop n: morse':
@@ -43239,12 +43035,18 @@ proofreading:
 - mose
 'prop n: mozambique':
 - mozambiki
+'prop n: muslim':
+- islamiyen
 'prop n: myanmar':
 - myanma
 'prop n: nahum':
 - nahum
 'prop n: namibia':
 - namibi
+'prop n: namibian':
+- namibiyen
+'prop n: namibian person':
+- namibiyen
 'prop n: narcissus':
 - narciso
 'prop n: nathan':
@@ -43253,6 +43055,14 @@ proofreading:
 - natanael
 'prop n: nauru':
 - nauru
+'prop n: nauruan':
+- naurusa
+'prop n: nauruan language':
+- naurusa
+'prop n: nazi':
+- natziista
+'prop n: nazism':
+- natziismo
 'prop n: nehemiah':
 - nehemia
 'prop n: nepal':
@@ -43261,6 +43071,8 @@ proofreading:
 - haywo
 'prop n: netherlands':
 - nederi
+'prop n: new year''s day':
+- neonyandin
 'prop n: new zealand':
 - neozelandi
 'prop n: nicaragua':
@@ -43275,16 +43087,30 @@ proofreading:
 - nijer
 'prop n: nigeria':
 - nayjeri
+'prop n: nigerian':
+- nayjeriyen
 'prop n: noah':
 - noa
+'prop n: north american':
+- amerikayen
 'prop n: north korea':
 - utarakorea
 'prop n: north macedonia':
 - utaramakedoni
 'prop n: norway':
 - norge
+'prop n: norwegian':
+- norgesa
+- norgeyen
+'prop n: norwegian language':
+- norgesa
+'prop n: norwegian person':
+- norgeyen
 'prop n: obadiah':
 - obadia
+'prop n: odia':
+- orisasa
+- orisayen
 'prop n: odisha':
 - orisa
 'prop n: okhotsk':
@@ -43297,8 +43123,14 @@ proofreading:
 - osman
 'prop n: pacific':
 - pacifiko
+'prop n: pacific ocean':
+- bahari_pacifiko
 'prop n: pakistan':
 - paki
+'prop n: pakistani':
+- pakiyen
+'prop n: pakistani person':
+- pakiyen
 'prop n: palau':
 - belaw
 'prop n: panama':
@@ -43307,14 +43139,22 @@ proofreading:
 - papwa_neogini
 'prop n: paraguay':
 - paragway
+'prop n: paraguayan':
+- paragwayyen
+'prop n: paraguayan person':
+- paragwayyen
 'prop n: patrick':
 - patrico
 'prop n: paul':
 - pawlo
 'prop n: persia':
 - parsi
+'prop n: persian':
+- parsiyen
 'prop n: peru':
 - peru
+'prop n: peruvian':
+- peruyen
 'prop n: peter':
 - petro
 'prop n: philemon':
@@ -43331,14 +43171,36 @@ proofreading:
 - mingwan
 'prop n: poland':
 - polska
+'prop n: pole':
+- polskayen
+'prop n: polish':
+- polskasa
 'prop n: portugal':
 - portugal
+'prop n: portuguese':
+- portugalsa
+- portugalyen
+'prop n: portuguese language':
+- portugalsa
+'prop n: portuguese person':
+- portugalyen
 'prop n: punjab':
 - panjabi
+'prop n: punjabi':
+- panjabisa
+- panjabiyen
+'prop n: punjabi language':
+- panjabisa
+'prop n: punjabi person':
+- panjabiyen
 'prop n: pythagoras':
 - pitagora
 'prop n: qatar':
 - katar
+'prop n: qatari':
+- kataryen
+'prop n: qatari person':
+- kataryen
 'prop n: quran':
 - kuran
 'prop n: rachel':
@@ -43365,12 +43227,26 @@ proofreading:
 - roberto
 'prop n: romania':
 - rumani
+'prop n: romanian':
+- rumanisa
+- rumaniyen
+'prop n: romanian language':
+- rumanisa
+'prop n: romanian person':
+- rumaniyen
 'prop n: rome':
 - roma
 'prop n: ross':
 - ross
 'prop n: russia':
 - rusi
+'prop n: russian':
+- rusisa
+- rusiyen
+'prop n: russian language':
+- rusisa
+'prop n: russian person':
+- rusiyen
 'prop n: ruth':
 - rutu
 'prop n: rwanda':
@@ -43389,6 +43265,13 @@ proofreading:
 - samari
 'prop n: samoa':
 - samoa
+'prop n: samoan':
+- samoasa
+- samoayen
+'prop n: samoan language':
+- samoasa
+'prop n: samoan person':
+- samoayen
 'prop n: samuel':
 - samwel
 'prop n: san marino':
@@ -43409,6 +43292,8 @@ proofreading:
 - xatan
 'prop n: saturn':
 - xani
+'prop n: saudi':
+- sawdiyen
 'prop n: saudi arabia':
 - sawdi
 'prop n: saul':
@@ -43417,8 +43302,19 @@ proofreading:
 - sebastyan
 'prop n: senegal':
 - senegal
+'prop n: senegalese':
+- senegalyen
+'prop n: senegalese person':
+- senegalyen
 'prop n: serbia':
 - serbi
+'prop n: serbian':
+- serbisa
+- serbiyen
+'prop n: serbian language':
+- serbisa
+'prop n: serbian person':
+- serbiyen
 'prop n: seychelles':
 - seycel
 'prop n: sharon':
@@ -43433,10 +43329,29 @@ proofreading:
 - simon
 'prop n: sindh':
 - sindi
+'prop n: sindhi':
+- sindisa
+- sindiyen
+'prop n: sindhi language':
+- sindisa
+'prop n: sindhi person':
+- sindiyen
 'prop n: singapore':
 - singapura
+'prop n: sinhala':
+- sinhalasa
+'prop n: slovak':
+- eslovakisa
+- eslovakiyen
+'prop n: slovak language':
+- eslovakisa
+'prop n: slovak person':
+- eslovakiyen
 'prop n: slovakia':
 - eslovaki
+'prop n: slovene':
+- eslovenisa
+- esloveniyen
 'prop n: slovenia':
 - esloveni
 'prop n: socrates':
@@ -43447,6 +43362,10 @@ proofreading:
 - salomon
 'prop n: solomon islands':
 - salomoni
+'prop n: somali':
+- somalisa
+'prop n: somali language':
+- somalisa
 'prop n: somalia':
 - somali
 'prop n: somov':
@@ -43455,14 +43374,26 @@ proofreading:
 - sofi_name
 'prop n: south africa':
 - sudeafrika
+'prop n: south african':
+- sudeafrikayen
 'prop n: south korea':
 - sudekorea
 'prop n: south sudan':
 - sudesudan
 'prop n: spain':
 - espani
+'prop n: spaniard':
+- espaniyen
+'prop n: spanish':
+- espanisa
+'prop n: spanish and portuguese speaking latin america':
+- latinika
+'prop n: spanish language':
+- espanisa
 'prop n: sri lanka':
 - esrilanka
+'prop n: sri lankan':
+- esrilankayen
 'prop n: state of palestine':
 - palestin
 'prop n: stephan':
@@ -43475,8 +43406,23 @@ proofreading:
 - surinam
 'prop n: susan':
 - susana_name
+'prop n: swahili':
+- swahilisa
+- swahiliyen
+'prop n: swahili language':
+- swahilisa
+'prop n: swahili person':
+- swahiliyen
+'prop n: swede':
+- sweriyen
 'prop n: sweden':
 - sweri
+'prop n: swedish':
+- swerisa
+'prop n: swedish language':
+- swerisa
+'prop n: swiss':
+- switzeyen
 'prop n: switzerland':
 - switze
 'prop n: syria':
@@ -43485,18 +43431,50 @@ proofreading:
 - san_tome_ji_prinsipe
 'prop n: taiwan':
 - taywan
+'prop n: tajik':
+- tojikisa
+- tojikiyen
+'prop n: tajik language':
+- tojikisa
+'prop n: tajik person':
+- tojikiyen
 'prop n: tajikistan':
 - tojiki
+'prop n: tamil':
+- tamilsa
+- tamilyen
+'prop n: tamil language':
+- tamilsa
 'prop n: tamil nadu':
 - tamil
+'prop n: tamil person':
+- tamilyen
 'prop n: tanzania':
 - tanzani
+'prop n: taoism':
+- daoismo
+'prop n: taoist':
+- daoista
 'prop n: tasman':
 - tasman
+'prop n: telugu':
+- telugusa
+- teluguyen
+'prop n: telugu language':
+- telugusa
+'prop n: telugu people':
+- teluguyen
 'prop n: teresa':
 - teresa
+'prop n: thai':
+- taysa
+- tayyen
+'prop n: thai language':
+- taysa
 'prop n: thailand':
 - tay
+'prop n: thanksgiving day':
+- xukradin
 'prop n: the bahamas':
 - bahama
 'prop n: the bible':
@@ -43523,24 +43501,60 @@ proofreading:
 - togo
 'prop n: tonga':
 - tonga
+'prop n: tongan':
+- tongasa
+- tongayen
+'prop n: tongan language':
+- tongasa
+'prop n: tongan person':
+- tongayen
 'prop n: trinidad':
 - trinidad
 'prop n: trinidad and tobago':
 - trinidad_ji_tobago
 'prop n: tunisia':
 - tunisi
+'prop n: turk':
+- turkiyen
 'prop n: turkey':
 - turki
+'prop n: turkish':
+- turkisa
+'prop n: turkish language':
+- turkisa
+'prop n: turkmen':
+- turkmenisa
+- turkmeniyen
+'prop n: turkmen language':
+- turkmenisa
+'prop n: turkmen person':
+- turkmeniyen
 'prop n: turkmenistan':
 - turkmeni
 'prop n: tuvalu':
 - tuvalu
+'prop n: tuvaluan':
+- tuvalusa
+- tuvaluyen
+'prop n: tuvaluan language':
+- tuvalusa
+'prop n: tuvaluan person':
+- tuvaluyen
 'prop n: tyrrhenia':
 - tireni
 'prop n: uganda':
 - uganda
+'prop n: ugandan':
+- ugandayen
 'prop n: ukraine':
 - ukraina
+'prop n: ukrainian':
+- ukrainasa
+- ukrainayen
+'prop n: ukrainian language':
+- ukrainasa
+'prop n: ukrainian person':
+- ukrainayen
 'prop n: united arab emirates':
 - imarati
 'prop n: united kingdom':
@@ -43557,6 +43571,11 @@ proofreading:
 - urdu
 'prop n: uruguay':
 - urugway
+'prop n: uzbek':
+- ozbekisa
+- ozbekiyen
+'prop n: uzbek language':
+- ozbekisa
 'prop n: uzbekistan':
 - ozbeki
 'prop n: valentine':
@@ -43565,10 +43584,17 @@ proofreading:
 - vanwatu
 'prop n: venezuela':
 - venezwela
+'prop n: venezuelan':
+- venezwelayen
 'prop n: venus':
 - zuhura
 'prop n: vietnam':
 - vyetnam
+'prop n: vietnamese':
+- vyetnamsa
+- vyetnamyen
+'prop n: vietnamese language':
+- vyetnamsa
 'prop n: vincent':
 - vicenti
 'prop n: weddell':
@@ -43587,10 +43613,14 @@ proofreading:
 - zakaria
 'prop n: zambia':
 - zambi
+'prop n: zambian':
+- zambiyen
 'prop n: zephaniah':
 - sefani
 'prop n: zimbabwe':
 - zimbabwe
+'prop n: zimbabwean':
+- zimbabweyen
 'prop n: zion':
 - syon
 'prop n: zoroaster':
@@ -43598,6 +43628,8 @@ proofreading:
 'prop n: Åland':
 - olandi
 propaganda:
+- propaganda
+propagandise:
 - propaganda
 propagandize:
 - propaganda
@@ -43682,7 +43714,6 @@ prosthetic limb:
 - prostesi
 prostitute:
 - kahabu
-prostitute (somebody):
 - kahabugi
 prostitute oneself:
 - kahabuergo
@@ -43784,6 +43815,7 @@ pu:
 puberty:
 - sicunki
 public:
+- demo
 - demoli
 publication:
 - xupan
@@ -43813,6 +43845,12 @@ pulsatingly:
 - nabizane
 pulse:
 - nabiza
+pulverisation:
+- pudracu
+- pudragi
+pulverise:
+- pudracu
+- pudragi
 pulverization:
 - pudracu
 - pudragi
@@ -43872,15 +43910,13 @@ purchase:
 - kari
 purchased:
 - karido
-pure:
-- solli
 puree:
 - pure
 - puregi
 pureeing:
 - puregi
 purely:
-- solli
+- sol
 purple:
 - purpuro
 purplish:
@@ -43921,6 +43957,12 @@ pustule:
 put:
 - plasi
 - plasido
+put  in charge of:
+- masulgi
+put  to sleep:
+- somnogi
+put  to work:
+- ergogi
 put above:
 - supragi
 put across:
@@ -43959,18 +44001,8 @@ put on trial:
 - saypan
 put pressure (on):
 - presyon
-put somebody in charge of:
-- masulgi
-put somebody to sleep:
-- somnogi
-put somebody to work:
-- ergogi
 put through:
 - pasgi
-put to sleep:
-- somnogi
-put to work:
-- ergogi
 put under:
 - baxgi
 putrefy:
@@ -44295,9 +44327,11 @@ real:
 real estate:
 - milki
 realisation:
+- realcu
 - realgi
 - xoraham
 realise:
+- realcu
 - realgi
 - xoraham
 - xorixi
@@ -44374,6 +44408,7 @@ receiving:
 recent:
 - nerleli
 recently:
+- nerlelimo
 - fe_ner_leya
 - nerleli
 reception:
@@ -44393,6 +44428,9 @@ reciprocally:
 recluse:
 - ogarfilyen
 - soloyen
+recognise:
+- projui
+- rukone
 recognition:
 - projui
 - rukone
@@ -44955,6 +44993,8 @@ revolutionarily:
 revolutionary:
 - inkilabuyen
 - inkilabuli
+revolutionise:
+- inkilabu
 revolutionize:
 - inkilabu
 reward:
@@ -45034,19 +45074,19 @@ rift:
 right:
 - sahiloga
 - haki
-- jaleki
-- jaxaki
+- jalefe_ki
+- jaxafe_ki
 - jalefe
 - jaxafe
 - kanan
 - orto
 - sahi
 right after:
-- jaxaki
+- jaxafe_ki
 - jaxafe
 - jaxafe_na
 right before:
-- jaleki
+- jalefe_ki
 - jalefe
 - jalefe_na
 right-hand:
@@ -45228,6 +45268,10 @@ root for:
 - semi
 'root pfx: offspring':
 - juni
+'root sfx : machine':
+- maxina
+'root sfx attached to nouns: machine':
+- maxina
 root word:
 - genulexi
 'root-suffix: shade of color':
@@ -45407,6 +45451,10 @@ sadden:
 - hazunigi
 saddle:
 - jinam
+sadism:
+- sadismo
+sadist:
+- sadista
 sadly:
 - hazuni
 sadness:
@@ -45503,6 +45551,10 @@ sane:
 - sikoseha
 sanely:
 - sikoseha
+sanitise:
+- posenfeksi
+sanitiser:
+- posenfeksiente
 sanitize:
 - posenfeksi
 sanitizer:
@@ -45531,6 +45583,8 @@ satirical:
 - funcili
 satirically:
 - funcili
+satirise:
+- funci
 satirize:
 - funci
 satisfaction:
@@ -45629,6 +45683,8 @@ scan:
 - eskan
 scandal:
 - eskandal
+scandalise:
+- eskandal
 scandalize:
 - eskandal
 scandalous:
@@ -45691,6 +45747,8 @@ schoolgirl:
 - beeskolyen
 schoolmaster:
 - eskolkef
+sci-fi:
+- syensifiksyon
 science:
 - logi
 - syensi
@@ -46332,12 +46390,11 @@ shortening:
 - maxcotegi
 - maxkurtogi
 shortly:
-- kurto
 - nerxali
 shortly after:
-- ner_xaki
+- ner_xafe_ki
 shortly before:
-- ner_leki
+- ner_lefe_ki
 - ner_lefe
 - ner_lefe_na
 shortness:
@@ -46527,7 +46584,7 @@ since:
 - koski
 - xorfe
 since before:
-- xorleki
+- xorlefe_ki
 - xorlefe
 sincere:
 - cipenkal
@@ -46658,6 +46715,8 @@ skewer:
 - six
 ski:
 - eski
+skid:
+- paleta
 skier:
 - eskiyen
 skiing:
@@ -46992,7 +47051,8 @@ soldier:
 sole:
 - solo
 solely:
-- solo
+- sol
+- solomo
 solid:
 - guti
 - gutipul
@@ -47108,7 +47168,7 @@ soon:
 - fe_ner_xaya
 - nerxali
 soon after:
-- ner_xaki
+- ner_xafe_ki
 - ner_xafe
 - ner_xafe_na
 sooner or later:
@@ -47151,7 +47211,8 @@ source:
 - asel
 sourdough:
 - acidihamir
-sourdough (bread):
+- acidiroti
+sourdough bread:
 - acidiroti
 sourly:
 - acidipul
@@ -47466,6 +47527,7 @@ stab (with dagger):
 stabilisation:
 - andingi
 stabilise:
+- andincu
 - andingi
 stability:
 - andinya
@@ -47489,7 +47551,7 @@ stage:
 stain:
 - burtyan
 - kotormarka
-stain (something) with blood:
+stain  with blood:
 - damumarka
 staircase:
 - kaydan
@@ -47525,6 +47587,8 @@ standard of life:
 - jiwajotay
 standard of living:
 - jiwajotay
+standardise:
+- estandar
 standardize:
 - estandar
 standing:
@@ -47659,6 +47723,10 @@ stiffness:
 - sahteya
 stigma:
 - estigma
+stigmatise:
+- estigma
+stigmatised:
+- estigmado
 stigmatize:
 - estigma
 stigmatized:
@@ -47725,7 +47793,7 @@ stone:
 stool:
 - estulu
 stop:
-- estoloka
+- estodom
 - estocu
 - plagu
 - esto
@@ -47799,6 +47867,8 @@ strategic:
 - estrategili
 strategically:
 - estrategili
+strategise:
+- estrategi
 strategize:
 - estrategi
 strategy:
@@ -47813,6 +47883,7 @@ stream:
 street:
 - dolo
 strength:
+- balaje
 - balaxey
 - balaya
 strengthen:
@@ -47911,6 +47982,8 @@ student:
 - estudiyen
 studied:
 - estudido
+studio:
+- artedom
 study:
 - logi
 - estudi
@@ -48123,8 +48196,6 @@ suffer from schizophrenia:
 - eskizofreni
 suffer from scurvy:
 - eskorbuto
-suffer from shock:
-- xoku
 suffer from trauma:
 - trawma
 suffer from vertigo:
@@ -48140,10 +48211,6 @@ sufficiently large:
 - kufiday
 suffix:
 - xafefikso
-'suffix : machine':
-- maxina
-'suffix attached to nouns: machine':
-- maxina
 sugar:
 - sukeri
 sugary:
@@ -48183,6 +48250,10 @@ sum up:
 - hulasa
 sumac:
 - sumake
+summarise:
+- hulasa
+summarised:
+- hulasado
 summarize:
 - hulasa
 summarized:
@@ -48501,6 +48572,12 @@ sync:
 - sinkroniza
 synced:
 - sinkronizado
+synchronisation:
+- sinkroniza
+synchronise:
+- sinkroniza
+synchronised:
+- sinkronizado
 synchronization:
 - sinkroniza
 synchronize:
@@ -48526,6 +48603,8 @@ syntactically:
 syntax:
 - sintaksu
 synthesis:
+- sintesis
+synthesise:
 - sintesis
 synthesize:
 - sintesis
@@ -48600,6 +48679,10 @@ take:
 - cudu
 - porta
 - preporta
+take  for a stroll:
+- sampogi
+take  on a walk:
+- sampogi
 take (with):
 - tonporta
 take a break:
@@ -48637,8 +48720,6 @@ take care:
 take care of:
 - jawgu
 - masulwoju
-take for a stroll:
-- sampogi
 take into account:
 - kolyo
 take into consideration:
@@ -48658,8 +48739,6 @@ take off (of):
 - ofgi
 take on:
 - masulcudu
-take on a walk:
-- sampogi
 take one's life:
 - semorgi
 take out:
@@ -48681,10 +48760,6 @@ take revenge (on):
 - intikam
 take risks:
 - risko
-take somebody for a stroll:
-- sampogi
-take somebody on a walk:
-- sampogi
 take steps:
 - kadam
 take through:
@@ -48813,10 +48888,9 @@ teachably:
 teacher:
 - alimyen
 teaching:
+- alimxey
 - dualim
 - alim
-teaching(s):
-- alimxey
 team:
 - tim
 - -tim
@@ -48858,6 +48932,8 @@ telegram:
 - teligrafi
 telekinesis:
 - teliharka
+telepathise:
+- telifikir
 telepathize:
 - telifikir
 telepathy:
@@ -49003,6 +49079,10 @@ territory:
 - teritori
 terror:
 - teror
+terrorise:
+- teror
+terrorised:
+- terordo
 terrorize:
 - teror
 terrorized:
@@ -49071,7 +49151,6 @@ that:
 - hu
 - ki
 - ki_fe_folo
-- temki
 - hu_da
 - den
 - denmo
@@ -49157,6 +49236,8 @@ the other ones:
 - alooto
 the pacific:
 - bahari_pacifiko
+the public:
+- demo
 the rest:
 - resta
 the rest of:
@@ -49679,6 +49760,7 @@ tobacco pipe:
 - pipa
 today:
 - nundin
+- fe_nundin
 toddler:
 - juninini
 toe:
@@ -49718,6 +49800,7 @@ tomb:
 tomorrow:
 - jaxadin
 - xadin
+- fe_jaxadin
 tonal:
 - tonali
 tonally:
@@ -49901,6 +49984,10 @@ trampoline:
 - trampolin
 tramway:
 - tramu
+tranquilise:
+- trankwilogi
+tranquiliser:
+- trankwilogiente
 tranquility:
 - trankwiloya
 tranquilize:
@@ -49966,6 +50053,13 @@ traumatic:
 - trawmane
 - trawmapul
 traumatically:
+- trawmane
+- trawmapul
+traumatise:
+- trawma
+traumatised:
+- trawmado
+traumatising:
 - trawmane
 - trawmapul
 traumatize:
@@ -50717,6 +50811,7 @@ untamed:
 untie:
 - posbinde
 until:
+- finfe_ki
 - finki
 - finfe
 until now:
@@ -50834,6 +50929,10 @@ uterus:
 - rahim
 uthman:
 - osman
+utilisation:
+- yongu
+utilise:
+- yongu
 utilization:
 - yongu
 utilize:
@@ -50978,6 +51077,7 @@ v:
 'v.intr : digest':
 - hazam
 'v.intr : dissolve':
+- dissolusi
 - solusi
 'v.intr : dive':
 - gotas
@@ -50990,15 +51090,21 @@ v:
 - sela
 'v.intr : foam':
 - pena
+'v.intr : fold':
+- perfleksi
 'v.intr : form':
 - formacu
 - forma
 'v.intr : fracture':
 - guje
+'v.intr : fuse':
+- tonyunhe
 'v.intr : get a tumor':
 - tumor
 'v.intr : get damaged':
 - sungay
+'v.intr : get disinfected':
+- posenfeksi
 'v.intr : get harmonized':
 - armonicu
 'v.intr : get herniated':
@@ -51011,8 +51117,13 @@ v:
 'v.intr : get lost':
 - sonxicu
 - sonxi
+'v.intr : get misformed':
+- malforma
 'v.intr : get ruined':
 - harabu
+'v.intr : get shocked':
+- eletrixoku
+- xoku
 'v.intr : go bankrupt':
 - uflasi
 'v.intr : incline':
@@ -51021,6 +51132,9 @@ v:
 - girehe
 'v.intr : lubricate':
 - lubrika
+'v.intr : melt':
+- yunhecu
+- yunhe
 'v.intr : metabolize':
 - metabolis
 'v.intr : metamorphose':
@@ -51172,6 +51286,7 @@ v:
 'v.intr optional -cu: digest':
 - hazam
 'v.intr optional -cu: dissolve':
+- dissolusi
 - solusi
 'v.intr optional -cu: dive':
 - gotas
@@ -51184,15 +51299,21 @@ v:
 - sela
 'v.intr optional -cu: foam':
 - pena
+'v.intr optional -cu: fold':
+- perfleksi
 'v.intr optional -cu: form':
 - formacu
 - forma
 'v.intr optional -cu: fracture':
 - guje
+'v.intr optional -cu: fuse':
+- tonyunhe
 'v.intr optional -cu: get a tumor':
 - tumor
 'v.intr optional -cu: get damaged':
 - sungay
+'v.intr optional -cu: get disinfected':
+- posenfeksi
 'v.intr optional -cu: get harmonized':
 - armonicu
 'v.intr optional -cu: get herniated':
@@ -51205,8 +51326,13 @@ v:
 'v.intr optional -cu: get lost':
 - sonxicu
 - sonxi
+'v.intr optional -cu: get misformed':
+- malforma
 'v.intr optional -cu: get ruined':
 - harabu
+'v.intr optional -cu: get shocked':
+- eletrixoku
+- xoku
 'v.intr optional -cu: go bankrupt':
 - uflasi
 'v.intr optional -cu: incline':
@@ -51215,6 +51341,9 @@ v:
 - girehe
 'v.intr optional -cu: lubricate':
 - lubrika
+'v.intr optional -cu: melt':
+- yunhecu
+- yunhe
 'v.intr optional -cu: metabolize':
 - metabolis
 'v.intr optional -cu: metamorphose':
@@ -51283,6 +51412,8 @@ v:
 - oruga
 'v.intr optional -cu: zigzag':
 - zigzagu
+'v.intr:':
+- jiu
 'v.intr: accelerate':
 - maxvelosicu
 - velosicu
@@ -51408,8 +51539,6 @@ v:
 - koma
 'v.intr: be in rut':
 - fatujon
-'v.intr: be in shock':
-- xoku
 'v.intr: be intelligent':
 - cinon
 'v.intr: be invalid':
@@ -51552,6 +51681,10 @@ v:
 - bulbula
 'v.intr: bud':
 - gunca
+'v.intr: calm':
+- trankwilocu
+'v.intr: calm down':
+- trankwilocu
 'v.intr: camp':
 - kampi
 'v.intr: caw':
@@ -51601,12 +51734,8 @@ v:
 - awcu
 'v.intr: disperse':
 - discu
-'v.intr: drink':
-- jiu
 'v.intr: drink a toast':
 - bonglu
-'v.intr: drink alcohol':
-- jiu
 'v.intr: drip':
 - katru
 'v.intr: drown':
@@ -52089,10 +52218,12 @@ v:
 - yolyu
 'v.intr: worsen':
 - maxburcu
-'v.tr sfx: drive somebody to':
+'v.tr sfx: drive  to':
 - -pel
-'v.tr sfx: drive to':
-- -pel
+'v.tr:':
+- bage
+- cele
+- daykefuku
 'v.tr: abandon':
 - awrestagi
 'v.tr: abort':
@@ -52154,10 +52285,6 @@ v:
 'v.tr: agree to':
 - sohovada
 - tonkarar
-'v.tr: aim':
-- cele
-'v.tr: aim at':
-- cele
 'v.tr: alcoholize':
 - alkohol
 'v.tr: allow':
@@ -52260,6 +52387,7 @@ v:
 'v.tr: backbite':
 - gibatu
 'v.tr: bag':
+- bao
 - inbaogi
 'v.tr: bake':
 - furno
@@ -52269,7 +52397,7 @@ v:
 - bendaji
 'v.tr: bankrupt':
 - uflasi
-'v.tr: baptise':
+'v.tr: baptize':
 - batiza
 'v.tr: barbecue':
 - barbekyu
@@ -52331,7 +52459,7 @@ v:
 'v.tr: be hungry':
 - yamvole
 'v.tr: be ignorant of':
-- posjixi
+- nenjixi
 'v.tr: be in':
 - inya
 'v.tr: be in exchange for':
@@ -52520,6 +52648,60 @@ v:
 - xoroko
 'v.tr: cause':
 - kosa
+'v.tr: cause  to be':
+- sengi
+'v.tr: cause  to be small or little':
+- lilgi
+'v.tr: cause  to become frightened':
+- xorfobi
+'v.tr: cause  to blink':
+- pelakegi
+'v.tr: cause  to cough':
+- kofgi
+'v.tr: cause  to cry or to weep':
+- wawagi
+'v.tr: cause  to dance':
+- dansegi
+'v.tr: cause  to groan or to moan':
+- goronagi
+'v.tr: cause  to growl':
+- gurumagi
+'v.tr: cause  to pee or to piss':
+- pipigi
+'v.tr: cause  to poop':
+- kakagi
+'v.tr: cause  to run':
+- pawbugi
+'v.tr: cause  to salivate':
+- buzakugi
+'v.tr: cause  to scream':
+- ayaygi
+'v.tr: cause  to sigh':
+- tanxikugi
+'v.tr: cause  to sing':
+- lalagi
+'v.tr: cause  to sleep':
+- somnogi
+'v.tr: cause  to smile':
+- tabasumgi
+'v.tr: cause  to sneeze':
+- acumgi
+'v.tr: cause  to snore':
+- horgi
+'v.tr: cause  to sweat':
+- swetagi
+'v.tr: cause  to swim':
+- suyongi
+'v.tr: cause  to tear up':
+- axkegi
+'v.tr: cause  to urinate':
+- pixigi
+'v.tr: cause  to vomit':
+- kakugi
+'v.tr: cause  to work':
+- ergogi
+'v.tr: cause  to yawn':
+- hwamgi
 'v.tr: cause a panic attack':
 - panikokrisis
 'v.tr: cause a pathology':
@@ -52576,80 +52758,12 @@ v:
 - eskizofreni
 'v.tr: cause scurvy':
 - eskorbuto
-'v.tr: cause somebody to become frightened':
-- xorfobi
-'v.tr: cause somebody to blink':
-- pelakegi
-'v.tr: cause somebody to cough':
-- kofgi
-'v.tr: cause somebody to cry or to weep':
-- wawagi
-'v.tr: cause somebody to dance':
-- dansegi
-'v.tr: cause somebody to groan or to moan':
-- goronagi
-'v.tr: cause somebody to growl':
-- gurumagi
-'v.tr: cause somebody to pee or to piss':
-- pipigi
-'v.tr: cause somebody to poop':
-- kakagi
-'v.tr: cause somebody to run':
-- pawbugi
-'v.tr: cause somebody to salivate':
-- buzakugi
-'v.tr: cause somebody to scream':
-- ayaygi
-'v.tr: cause somebody to sigh':
-- tanxikugi
-'v.tr: cause somebody to sing':
-- lalagi
-'v.tr: cause somebody to sleep':
-- somnogi
-'v.tr: cause somebody to smile':
-- tabasumgi
-'v.tr: cause somebody to sneeze':
-- acumgi
-'v.tr: cause somebody to snore':
-- horgi
-'v.tr: cause somebody to sweat':
-- swetagi
-'v.tr: cause somebody to swim':
-- suyongi
-'v.tr: cause somebody to tear up':
-- axkegi
-'v.tr: cause somebody to urinate':
-- pixigi
-'v.tr: cause somebody to vomit':
-- kakugi
-'v.tr: cause somebody to work':
-- ergogi
-'v.tr: cause somebody to yawn':
-- hwamgi
-'v.tr: cause something to be small or little':
-- lilgi
-'v.tr: cause something/somebody to be':
-- sengi
 'v.tr: cause something/somebody to rest':
 - rahatugi
-'v.tr: cause to be':
-- sengi
-'v.tr: cause to be small or little':
-- lilgi
-'v.tr: cause to become frightened':
-- xorfobi
 'v.tr: cause to bleed':
 - damugi
-'v.tr: cause to blink':
-- pelakegi
 'v.tr: cause to burp':
 - gepugi
-'v.tr: cause to cough':
-- kofgi
-'v.tr: cause to cry or to weep':
-- wawagi
-'v.tr: cause to dance':
-- dansegi
 'v.tr: cause to defecate':
 - fekagi
 'v.tr: cause to disappear':
@@ -52660,57 +52774,14 @@ v:
 - vyayamagi
 'v.tr: cause to fly':
 - fleygi
-'v.tr: cause to groan or to moan':
-- goronagi
-'v.tr: cause to growl':
-- gurumagi
 'v.tr: cause to land':
 - pergeogi
 'v.tr: cause to make a sound':
 - sotigi
 'v.tr: cause to marry':
 - gamigi
-'v.tr: cause to pee or to piss':
-- pipigi
-'v.tr: cause to poop':
-- kakagi
-'v.tr: cause to run':
-- pawbugi
-'v.tr: cause to salivate':
-- buzakugi
-'v.tr: cause to scream':
-- ayaygi
-'v.tr: cause to sigh':
-- tanxikugi
-'v.tr: cause to sing':
-- lalagi
 'v.tr: cause to sit':
 - sidegi
-'v.tr: cause to sleep':
-- somnogi
-'v.tr: cause to smile':
-- tabasumgi
-'v.tr: cause to sneeze':
-- acumgi
-'v.tr: cause to snore':
-- horgi
-'v.tr: cause to sweat':
-- swetagi
-'v.tr: cause to swim':
-- suyongi
-'v.tr: cause to tear up':
-- axkegi
-'v.tr: cause to urinate':
-- pixigi
-'v.tr: cause to vomit':
-- kakugi
-'v.tr: cause to walk':
-- andagi
-- sampogi
-'v.tr: cause to work':
-- ergogi
-'v.tr: cause to yawn':
-- hwamgi
 'v.tr: cause tumors':
 - tumor
 'v.tr: cause vertigo':
@@ -52946,10 +53017,7 @@ v:
 'v.tr: cry':
 - wawa
 'v.tr: cut':
-- bage
 - kata
-'v.tr: cut up':
-- bage
 'v.tr: cycle':
 - cuki
 'v.tr: damage':
@@ -53363,6 +53431,8 @@ v:
 - yanlyo
 'v.tr: fund':
 - pesagongin
+'v.tr: fuse':
+- tonyunhe
 'v.tr: gain':
 - xorhare
 'v.tr: gamble':
@@ -53624,7 +53694,7 @@ v:
 'v.tr: interview':
 - interviu
 'v.tr: intimidate':
-- yonfobi
+- infobigi
 'v.tr: intone':
 - entona
 'v.tr: intrigue':
@@ -53720,12 +53790,10 @@ v:
 'v.tr: lengthen':
 - lungogi
 - maxlungogi
+'v.tr: let  know':
+- jixigi
 'v.tr: let in':
 - inizin
-'v.tr: let know':
-- jixigi
-'v.tr: let somebody know':
-- jixigi
 'v.tr: liberate':
 - hurugi
 'v.tr: lick':
@@ -53790,108 +53858,63 @@ v:
 - bonhifazi
 'v.tr: make':
 - inpesa
-'v.tr: make ambitious':
+'v.tr: make  ambitious':
 - ambisi
-'v.tr: make anxious':
+'v.tr: make  anxious':
 - ansya
-'v.tr: make aware':
+'v.tr: make  aware':
 - ixi
 - xorixi
-'v.tr: make bad':
+'v.tr: make  bad':
 - burgi
-'v.tr: make comfortable':
+'v.tr: make  comfortable':
 - konforta
-'v.tr: make courageous':
+'v.tr: make  courageous':
 - yunki
-'v.tr: make dangerous':
+'v.tr: make  dangerous':
 - hatari
-'v.tr: make difficult':
+'v.tr: make  difficult':
 - katinagi
-'v.tr: make easy':
+'v.tr: make  easy':
 - asangi
+'v.tr: make  famous':
+- xohra
+'v.tr: make  good':
+- bongi
+'v.tr: make  happy':
+- hoxgi
+'v.tr: make  intelligent':
+- cinon
+'v.tr: make  laugh':
+- hahagi
+'v.tr: make  paranoid':
+- paranoy
+'v.tr: make  responsible for':
+- masulgi
+'v.tr: make  rotten':
+- fasidugi
+'v.tr: make  slower':
+- maxhanmangi
+'v.tr: make  talented':
+- talento
+'v.tr: make  thin':
+- dambogi
+'v.tr: make  thinner':
+- maxdambogi
+'v.tr: make  tired':
+- xorpilo
+'v.tr: make  violent':
+- bawlu
 'v.tr: make excuses':
 - benge
 'v.tr: make excuses for':
 - benge
-'v.tr: make famous':
-- xohra
-'v.tr: make good':
-- bongi
-'v.tr: make happy':
-- hoxgi
-'v.tr: make intelligent':
-- cinon
-'v.tr: make laugh':
-- hahagi
 'v.tr: make money':
 - inpesa
-'v.tr: make paranoid':
-- paranoy
 'v.tr: make responsible':
 - masulgi
-'v.tr: make rotten':
-- fasidugi
-'v.tr: make slower':
-- maxhanmangi
-'v.tr: make somebody ambitious':
-- ambisi
-'v.tr: make somebody anxious':
-- ansya
-'v.tr: make somebody aware':
-- ixi
-- xorixi
-'v.tr: make somebody comfortable':
-- konforta
-'v.tr: make somebody courageous':
-- yunki
-'v.tr: make somebody famous':
-- xohra
-'v.tr: make somebody happy':
-- hoxgi
-'v.tr: make somebody intelligent':
-- cinon
-'v.tr: make somebody laugh':
-- hahagi
-'v.tr: make somebody paranoid':
-- paranoy
-'v.tr: make somebody responsible for':
-- masulgi
-'v.tr: make somebody talented':
-- talento
-'v.tr: make something difficult':
-- katinagi
-'v.tr: make something easy':
-- asangi
-'v.tr: make something rotten':
-- fasidugi
-'v.tr: make something/somebody bad':
-- burgi
-'v.tr: make something/somebody dangerous':
-- hatari
-'v.tr: make something/somebody good':
-- bongi
-'v.tr: make something/somebody slower':
-- maxhanmangi
-'v.tr: make something/somebody thin':
-- dambogi
-'v.tr: make something/somebody thinner':
-- maxdambogi
-'v.tr: make something/somebody tired':
-- xorpilo
-'v.tr: make something/somebody violent':
-- bawlu
-'v.tr: make talented':
-- talento
-'v.tr: make thin':
-- dambogi
-'v.tr: make thinner':
-- maxdambogi
-'v.tr: make tired':
-- xorpilo
 'v.tr: make up':
 - fiksyon
-'v.tr: make violent':
-- bawlu
 'v.tr: manufacture':
 - fabrika
 'v.tr: map':
@@ -53905,10 +53928,6 @@ v:
 - gamigi
 'v.tr: martyr':
 - xahidugi
-'v.tr: marvel':
-- daykefuku
-'v.tr: marvel at':
-- daykefuku
 'v.tr: mask':
 - masku
 'v.tr: massage':
@@ -53934,6 +53953,8 @@ v:
 'v.tr: meet':
 - randevu
 - xorkone
+'v.tr: melt':
+- yunhe
 'v.tr: memorize':
 - inmemorigi
 'v.tr: menstruate':
@@ -54247,8 +54268,6 @@ v:
 'v.tr: prophesy':
 - nubwa
 'v.tr: prostitute':
-- kahabugi
-'v.tr: prostitute somebody':
 - kahabugi
 'v.tr: protest':
 - protesta
@@ -54694,9 +54713,7 @@ v:
 - hanjer
 'v.tr: stabilize':
 - andingi
-'v.tr: stain something with blood':
-- damumarka
-'v.tr: stain with blood':
+'v.tr: stain  with blood':
 - damumarka
 'v.tr: stalemate':
 - patu
@@ -55005,6 +55022,8 @@ v:
 - varnis
 'v.tr: vibrate':
 - vibra
+'v.tr: violate':
+- yonbawlu
 'v.tr: visit':
 - visita
 'v.tr: vomit':
@@ -55382,6 +55401,9 @@ viola:
 - vyoleta
 violate:
 - posetatu
+- yonbawlu
+violation:
+- yonbawlu
 violence:
 - bawlu
 violent:
@@ -55524,6 +55546,7 @@ wake up:
 wakefulness:
 - jageya
 walk:
+- andagi
 - sampogi
 - anda
 - sampo
@@ -55575,6 +55598,8 @@ warned:
 - jingodo
 warning:
 - jingo
+warrant:
+- arestoamiru
 warranty:
 - garanti
 warrior:
@@ -55654,6 +55679,8 @@ wealth:
 - pesapulya
 weapon:
 - jentotul
+weaponise:
+- jentotul
 weaponize:
 - jentotul
 wear:
@@ -55729,8 +55756,10 @@ welfare:
 - bonjiwa
 well:
 - sumul
+- bon-
 - bon
 - sifabon
+- -bon
 well (then):
 - finto
 well done:
@@ -55858,6 +55887,7 @@ whichever:
 - he_bante
 - he_banto
 while:
+- kurto_watu
 - watumon
 - momento
 - durki
@@ -56397,6 +56427,7 @@ yellowness:
 yesterday:
 - jaledin
 - ledin
+- fe_jaledin
 yesterday night:
 - jalenoce
 yet:

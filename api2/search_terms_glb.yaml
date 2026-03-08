@@ -13,12 +13,18 @@
 - fe_dumara
 (fe) hin noce:
 - fe_hin_noce
+(fe) jaledin:
+- fe_jaledin
+(fe) jaxadin:
+- fe_jaxadin
 (fe) ner leya:
 - fe_ner_leya
 (fe) ner or teli xaya:
 - fe_ner_or_teli_xaya
 (fe) ner xaya:
 - fe_ner_xaya
+(fe) nundin:
+- fe_nundin
 (fe) nunli din:
 - fe_nunli_din
 (fe) rimara:
@@ -29,6 +35,10 @@
 - fe_un_mara
 -bol:
 - -bol
+-bon:
+- -bon
+-bur:
+- -bur
 -cu:
 - -cu
 -day:
@@ -747,8 +757,8 @@ ansyane:
 ansyapul:
 - ansyapul
 antartiko:
-- bahari_antartiko
 - antartiko
+- bahari_antartiko
 antelope:
 - antelope
 antena:
@@ -925,8 +935,8 @@ articoku:
 artikel:
 - artikel
 artiko:
-- bahari_artiko
 - artiko
+- bahari_artiko
 artro:
 - artro
 artroitis:
@@ -1078,8 +1088,8 @@ ativoje:
 ativoya:
 - ativoya
 atlantiko:
-- bahari_atlantiko
 - atlantiko
+- bahari_atlantiko
 atlas:
 - atlas
 - atlas_name
@@ -3663,8 +3673,8 @@ detale:
 detalepul:
 - detalepul
 devtest:
-- devtest_2
 - devtest_1
+- devtest_2
 - devtest
 dexa:
 - dexa
@@ -4791,10 +4801,10 @@ estocune:
 - estocune
 estodo:
 - estodo
+estodom:
+- estodom
 estoka:
 - estoka
-estoloka:
-- estoloka
 estomotsufono:
 - estomotsufono
 estone:
@@ -5195,6 +5205,7 @@ fe:
 - fe_xarti_ki
 - ki_fe_folo
 - mas_fe_hataya
+- mas_fe_tayti
 - fe
 - fe_basi_fe
 - fe_byen_de
@@ -5396,6 +5407,10 @@ fe inya de:
 - fe_inya_de
 fe jadin:
 - fe_jadin
+fe jaledin:
+- fe_jaledin
+fe jaxadin:
+- fe_jaxadin
 fe jaya:
 - fe_jaya
 fe kapi:
@@ -5450,6 +5465,8 @@ fe ner xaya:
 - fe_ner_xaya
 fe nerleli watu:
 - fe_nerleli_watu
+fe nundin:
+- fe_nundin
 fe nunli din:
 - fe_nunli_din
 fe nunya:
@@ -5713,8 +5730,11 @@ fin-:
 finco:
 - finco
 finfe:
+- finfe_ki
 - finfe
 - finfe_nunya
+finfe ki:
+- finfe_ki
 finfe nunya:
 - finfe_nunya
 finfley:
@@ -5932,8 +5952,9 @@ fon:
 fono:
 - fono
 fori:
-- fori_leki
-- fori_xaki
+- fori_lefe_ki
+- fori_xafe_ki
+- fori_xafe_ki
 - fori_lefe
 - fori_lefe_na
 - fori_xafe
@@ -5941,16 +5962,17 @@ fori:
 - fori
 fori lefe:
 - fori_lefe
+fori lefe ki:
+- fori_lefe_ki
 fori lefe na:
 - fori_lefe_na
-fori leki:
-- fori_leki
 fori xafe:
 - fori_xafe
+fori xafe ki:
+- fori_xafe_ki
+- fori_xafe_ki
 fori xafe na:
 - fori_xafe_na
-fori xaki:
-- fori_xaki
 forke:
 - forke
 forma:
@@ -7740,6 +7762,8 @@ infer:
 - fe_infer
 influenza:
 - influenza
+infobigi:
+- infobigi
 infon:
 - infon
 informe:
@@ -8180,13 +8204,15 @@ jale:
 - jale
 jaledin:
 - jaledin
+- fe_jaledin
 jalefe:
+- jalefe_ki
 - jalefe
 - jalefe_na
+jalefe ki:
+- jalefe_ki
 jalefe na:
 - jalefe_na
-jaleki:
-- jaleki
 jaleli:
 - jaleli
 jalenoce:
@@ -8292,13 +8318,15 @@ jaxa:
 - jaxa
 jaxadin:
 - jaxadin
+- fe_jaxadin
 jaxafe:
+- jaxafe_ki
 - jaxafe
 - jaxafe_na
+jaxafe ki:
+- jaxafe_ki
 jaxafe na:
 - jaxafe_na
-jaxaki:
-- jaxaki
 jaxali:
 - jaxali
 jaxne:
@@ -9330,10 +9358,22 @@ ki:
 - fe_kosa_ki
 - fe_tayti_ki
 - fe_xarti_ki
+- finfe_ki
+- fori_lefe_ki
+- fori_xafe_ki
+- fori_xafe_ki
+- jalefe_ki
+- jaxafe_ki
 - ki
 - ki_fe_folo
 - lefe_ki
+- ner_lefe_ki
+- ner_xafe_ki
+- teli_lefe_ki
+- teli_xafe_ki
 - xafe_ki
+- xorfe_ki
+- xorlefe_ki
 ki fe folo:
 - ki_fe_folo
 kibiriti:
@@ -9574,6 +9614,8 @@ kolorarko:
 - kolorarko
 kolordo:
 - kolordo
+kolorlari:
+- kolorlari
 kolorokobimar:
 - kolorokobimar
 kolorokobimarya:
@@ -10372,7 +10414,10 @@ leaxam:
 ledin:
 - ledin
 lefe:
+- fori_lefe_ki
 - lefe_ki
+- ner_lefe_ki
+- teli_lefe_ki
 - lefe_na
 - lefe_or_fe
 - fori_lefe
@@ -10446,10 +10491,7 @@ leim:
 leimdo:
 - leimdo
 leki:
-- fori_leki
 - leki
-- ner_leki
-- teli_leki
 leli:
 - leli_banwatu
 - fe_ban_leli_watu
@@ -11306,9 +11348,12 @@ maryami:
 mas:
 - mas
 - mas_fe_hataya
+- mas_fe_tayti
 - mas_sol_eger
 mas fe hataya:
 - mas_fe_hataya
+mas fe tayti:
+- mas_fe_tayti
 mas sol eger:
 - mas_sol_eger
 masaji:
@@ -12682,6 +12727,8 @@ neneskoldo:
 - neneskoldo
 nenfil:
 - nenfil
+nenfobi:
+- nenfobi
 nengami:
 - nengami
 nengibefil:
@@ -12707,6 +12754,8 @@ nenjenmindo:
 - nenjenmindo
 nenjinji:
 - nenjinji
+nenjixi:
+- nenjixi
 nenjixido:
 - nenjixido
 nenjundwando:
@@ -12818,8 +12867,8 @@ nepoti:
 nepotiismo:
 - nepotiismo
 ner:
-- ner_leki
-- ner_xaki
+- ner_lefe_ki
+- ner_xafe_ki
 - ner_fe
 - ner_of
 - fe_ner_leya
@@ -12838,10 +12887,10 @@ ner le:
 - ner_le
 ner lefe:
 - ner_lefe
+ner lefe ki:
+- ner_lefe_ki
 ner lefe na:
 - ner_lefe_na
-ner leki:
-- ner_leki
 ner leya:
 - fe_ner_leya
 ner of:
@@ -12852,10 +12901,10 @@ ner xa:
 - ner_xa
 ner xafe:
 - ner_xafe
+ner xafe ki:
+- ner_xafe_ki
 ner xafe na:
 - ner_xafe_na
-ner xaki:
-- ner_xaki
 ner xaya:
 - fe_ner_xaya
 ner-:
@@ -12868,6 +12917,8 @@ nerleli:
 - fe_nerleli_watu
 - nerleli
 - maxim_nerleli
+nerlelimo:
+- nerlelimo
 nerxadin:
 - nerxadin
 nerxali:
@@ -13125,6 +13176,7 @@ nunar:
 - nunar
 nundin:
 - nundin
+- fe_nundin
 nunli:
 - fe_nunli_din
 - nunli
@@ -13633,6 +13685,8 @@ palayen:
 - palayen
 palestin:
 - palestin
+paleta:
+- paleta
 palme:
 - palme
 palo:
@@ -13958,6 +14012,8 @@ pentu:
 - pentu
 pentukumax:
 - pentukumax
+pentutahta:
+- pentutahta
 pentuxey:
 - pentuxey
 pepe:
@@ -14441,8 +14497,6 @@ posfil:
 - posfil
 posfilya:
 - posfilya
-posfobi:
-- posfobi
 posfol:
 - posfol
 - posfol_satumeter
@@ -14482,8 +14536,6 @@ posizindo:
 - posizindo
 posjijon:
 - posjijon
-posjixi:
-- posjixi
 posjui:
 - posjui
 - har_posjui_tem
@@ -16094,6 +16146,8 @@ solo:
 - solo
 solokrabe:
 - solokrabe
+solomo:
+- solomo
 soloya:
 - soloya
 soloyapul:
@@ -16108,8 +16162,6 @@ solusi:
 - solusi
 solusido:
 - solusido
-solya:
-- solya
 somali:
 - somali
 somalisa:
@@ -16747,6 +16799,7 @@ taysa:
 tayti:
 - tayti
 - fe_tayti_ki
+- mas_fe_tayti
 - fe_tayti_fe
 - fe_tayti
 taytido:
@@ -16802,8 +16855,8 @@ teknoli:
 televisi:
 - televisi
 teli:
-- teli_leki
-- teli_xaki
+- teli_lefe_ki
+- teli_xafe_ki
 - teli_fe
 - teli_of
 - fe_ner_or_teli_xaya
@@ -16816,18 +16869,18 @@ teli fe:
 - teli_fe
 teli lefe:
 - teli_lefe
+teli lefe ki:
+- teli_lefe_ki
 teli lefe na:
 - teli_lefe_na
-teli leki:
-- teli_leki
 teli of:
 - teli_of
 teli xafe:
 - teli_xafe
+teli xafe ki:
+- teli_xafe_ki
 teli xafe na:
 - teli_xafe_na
-teli xaki:
-- teli_xaki
 teli-:
 - teli-
 teliergo:
@@ -17233,6 +17286,8 @@ tonyen:
 - tonyen
 tonyongu:
 - tonyongu
+tonyunhe:
+- tonyunhe
 topazi:
 - topazi
 topi:
@@ -17317,6 +17372,8 @@ tramu:
 - tramu
 trankwilo:
 - trankwilo
+trankwilocu:
+- trankwilocu
 trankwilogi:
 - trankwilogi
 trankwilogiente:
@@ -18200,6 +18257,10 @@ xabahunavi:
 xadin:
 - xadin
 xafe:
+- fori_xafe_ki
+- fori_xafe_ki
+- ner_xafe_ki
+- teli_xafe_ki
 - xafe_ki
 - xosu_xafe_xosu
 - xafe_na
@@ -18275,9 +18336,6 @@ xahumatu:
 xahutahta:
 - xahutahta
 xaki:
-- fori_xaki
-- ner_xaki
-- teli_xaki
 - xaki
 xalaf:
 - xalaf
@@ -18547,8 +18605,11 @@ xorewreka:
 xorexku:
 - xorexku
 xorfe:
+- xorfe_ki
 - xorfe
 - xorfe_nunya
+xorfe ki:
+- xorfe_ki
 xorfe nunya:
 - xorfe_nunya
 xorfirmayen:
@@ -18582,9 +18643,10 @@ xorkone:
 xorkonegi:
 - xorkonegi
 xorlefe:
+- xorlefe_ki
 - xorlefe
-xorleki:
-- xorleki
+xorlefe ki:
+- xorlefe_ki
 xorleta:
 - xorleta
 xornavi:
@@ -18872,8 +18934,8 @@ yona:
 - yona
 yonatan:
 - yonatan
-yonfobi:
-- yonfobi
+yonbawlu:
+- yonbawlu
 yongu:
 - yongu
 yongudo:
@@ -18945,6 +19007,16 @@ yumuku:
 - yumuku
 yumukuyen:
 - yumukuyen
+yunhe:
+- yunhe
+yunhecu:
+- yunhecu
+yunhecune:
+- yunhecune
+yunhedo:
+- yunhedo
+yunhene:
+- yunhene
 yunki:
 - yunki
 yunkido:
