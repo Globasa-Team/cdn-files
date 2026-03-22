@@ -593,7 +593,7 @@
     spa: atre (b.oj) tutor, madre, padre
   - text: ' '
   - text: izin
-    eng: 'izin (b.oj) n: permission; v.tr: allow, let, permit'
+    eng: 'izin (b.oj) n: permission; v.tr: permit, allow, let'
     spa: izin (b.oj) permiso; permitir, dejar
   - text: ' '
   - text: na
@@ -755,7 +755,7 @@
       p&aacute;nico
   - text: ' '
   - text: okur
-    eng: 'okur (b.nenoj) n: occurrence, occasion; v.intr: happen, occur, take place'
+    eng: 'okur (b.nenoj) n: occurrence, occasion; v.intr: occur, happen, take place'
     spa: okur (b.nenoj) suceso, acontecimiento; suceder, ocurrir, acontecer, pasar
   - text: ' '
   - text: in
@@ -993,7 +993,7 @@
     spa: egal (t) igual, equitativo, parejo; igualmente, equitativamente
   - text: ' '
   - text: gardi
-    eng: 'gardi (b.oj) n: protection; v.tr: guard, protect'
+    eng: 'gardi (b.oj) n: protection; v.tr: protect, guard'
     spa: gardi (b.oj) guardia, protecci&oacute;n; vigilar, proteger
   - text: ' '
   - text: anti
@@ -1012,8 +1012,9 @@
     spa: 'ban (tabl: d) un, cierto'
   - text: ' '
   - text: diskrimina
-    eng: 'diskrimina (b.oj) n: discrimination; v.tr: discriminate (against)'
-    spa: diskrimina (b.oj) discriminaci&oacute;n; discriminar
+    eng: 'diskrimina (b.oj; b.nenoj.p) n: discrimination; v.tr: discriminate against;
+      v.intr: discriminate'
+    spa: diskrimina (b.oj; b.nenoj.p) discriminaci&oacute;n; discriminar
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -1068,8 +1069,9 @@
     spa: 'denpul (tabl: t) tal, as&iacute;, (de) ese tipo (de)'
   - text: ' '
   - text: diskrimina
-    eng: 'diskrimina (b.oj) n: discrimination; v.tr: discriminate (against)'
-    spa: diskrimina (b.oj) discriminaci&oacute;n; discriminar
+    eng: 'diskrimina (b.oj; b.nenoj.p) n: discrimination; v.tr: discriminate against;
+      v.intr: discriminate'
+    spa: diskrimina (b.oj; b.nenoj.p) discriminaci&oacute;n; discriminar
   - text: .
 - text: Moyte haki egal gardi anti he ban diskrimina hu da posfolo hin deklara, ji
     anti he ban provoka cel denpul diskrimina.
@@ -1094,7 +1096,7 @@
     spa: egal (t) igual, equitativo, parejo; igualmente, equitativamente
   - text: ' '
   - text: gardi
-    eng: 'gardi (b.oj) n: protection; v.tr: guard, protect'
+    eng: 'gardi (b.oj) n: protection; v.tr: protect, guard'
     spa: gardi (b.oj) guardia, protecci&oacute;n; vigilar, proteger
   - text: ' '
   - text: anti
@@ -1113,8 +1115,9 @@
     spa: 'ban (tabl: d) un, cierto'
   - text: ' '
   - text: diskrimina
-    eng: 'diskrimina (b.oj) n: discrimination; v.tr: discriminate (against)'
-    spa: diskrimina (b.oj) discriminaci&oacute;n; discriminar
+    eng: 'diskrimina (b.oj; b.nenoj.p) n: discrimination; v.tr: discriminate against;
+      v.intr: discriminate'
+    spa: diskrimina (b.oj; b.nenoj.p) discriminaci&oacute;n; discriminar
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -1169,8 +1172,9 @@
     spa: 'denpul (tabl: t) tal, as&iacute;, (de) ese tipo (de)'
   - text: ' '
   - text: diskrimina
-    eng: 'diskrimina (b.oj) n: discrimination; v.tr: discriminate (against)'
-    spa: diskrimina (b.oj) discriminaci&oacute;n; discriminar
+    eng: 'diskrimina (b.oj; b.nenoj.p) n: discrimination; v.tr: discriminate against;
+      v.intr: discriminate'
+    spa: diskrimina (b.oj; b.nenoj.p) discriminaci&oacute;n; discriminar
   - text: .
 - text: Moyte haki, har pul egalya, adil ji demoli saypan fal ikawkal ji tarafkal
     hukimutim, cel na karar tesu haki ji musiya, ji he ban krimenli iteham anti te.
@@ -1376,8 +1380,10 @@
     spa: wal (p) sin
   - text: ' '
   - text: ganxopu
-    eng: 'ganxopu (b.oj) n: interference, intervention; v.tr: interfere, intervene'
-    spa: ganxopu (b.oj) interferencia, intromisi&oacute;n; interferir, entrometerse
+    eng: 'ganxopu (b.oj; b.nenoj.p) n: interference, intervention; v.tr: interfere
+      in, interfere with, intervene in; v.intr: interfere, intervene'
+    spa: ganxopu (b.oj; b.nenoj.p) interferencia, intromisi&oacute;n; interferir,
+      entrometerse
   - text: ' '
   - text: fal
     eng: 'fal (p) prep: (done) by'
@@ -1509,7 +1515,7 @@
     spa: kom (l) que, como, en comparaci&oacute;n con
   - text: ' '
   - text: anxi
-    eng: 'anxi (b.oj) n: implication, hint; v.tr: imply, allude (to), hint (at), insinuate'
+    eng: 'anxi (b.oj) n: implication, hint; v.tr: imply, hint (at), allude (to), insinuate'
     spa: anxi (b.oj) implicaci&oacute;n, insinuaci&oacute;n, pista; implicar, insinuar
   - text: ' '
   - text: feki
@@ -1567,10 +1573,10 @@
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: rol
-    eng: 'rol (b.oj.ru) n: role, part; v.tr: play a role, participate, take part,
-      be involved (in)'
-    spa: rol (b.oj.ru) papel, rol; desempe&ntilde;ar un papel, participar, involucrarse
-      (en)
+    eng: 'rol (b.oj.ru; b.nenoj.p) n: role, part; v.tr: play (a part, a role); v.intr:
+      play a role, participate, take part, be involved'
+    spa: rol (b.oj.ru; b.nenoj.p) papel, rol; desempe&ntilde;ar un papel, participar,
+      involucrarse (en)
   - text: ' '
   - text: fe
     eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
@@ -1630,7 +1636,7 @@
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: cele
-    eng: 'cele (b.oj) n: goal, target, purpose, end; v.tr: aim (at), target'
+    eng: 'cele (b.oj) n: goal, target, purpose, end; v.tr: target, aim (at)'
     spa: cele (b.oj) objetivo, meta, prop&oacute;sito, fin; apuntar, asestar, dirigir
       (hacia)
   - text: ' '
@@ -1724,7 +1730,7 @@
     spa: kom (l) que, como, en comparaci&oacute;n con
   - text: ' '
   - text: anxi
-    eng: 'anxi (b.oj) n: implication, hint; v.tr: imply, allude (to), hint (at), insinuate'
+    eng: 'anxi (b.oj) n: implication, hint; v.tr: imply, hint (at), allude (to), insinuate'
     spa: anxi (b.oj) implicaci&oacute;n, insinuaci&oacute;n, pista; implicar, insinuar
   - text: ' '
   - text: feki
@@ -1782,10 +1788,10 @@
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: rol
-    eng: 'rol (b.oj.ru) n: role, part; v.tr: play a role, participate, take part,
-      be involved (in)'
-    spa: rol (b.oj.ru) papel, rol; desempe&ntilde;ar un papel, participar, involucrarse
-      (en)
+    eng: 'rol (b.oj.ru; b.nenoj.p) n: role, part; v.tr: play (a part, a role); v.intr:
+      play a role, participate, take part, be involved'
+    spa: rol (b.oj.ru; b.nenoj.p) papel, rol; desempe&ntilde;ar un papel, participar,
+      involucrarse (en)
   - text: ' '
   - text: fe
     eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
@@ -1845,7 +1851,7 @@
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: cele
-    eng: 'cele (b.oj) n: goal, target, purpose, end; v.tr: aim (at), target'
+    eng: 'cele (b.oj) n: goal, target, purpose, end; v.tr: target, aim (at)'
     spa: cele (b.oj) objetivo, meta, prop&oacute;sito, fin; apuntar, asestar, dirigir
       (hacia)
   - text: ' '
@@ -1939,7 +1945,7 @@
     spa: kom (l) que, como, en comparaci&oacute;n con
   - text: ' '
   - text: anxi
-    eng: 'anxi (b.oj) n: implication, hint; v.tr: imply, allude (to), hint (at), insinuate'
+    eng: 'anxi (b.oj) n: implication, hint; v.tr: imply, hint (at), allude (to), insinuate'
     spa: anxi (b.oj) implicaci&oacute;n, insinuaci&oacute;n, pista; implicar, insinuar
   - text: ' '
   - text: feki
@@ -1997,10 +2003,10 @@
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: rol
-    eng: 'rol (b.oj.ru) n: role, part; v.tr: play a role, participate, take part,
-      be involved (in)'
-    spa: rol (b.oj.ru) papel, rol; desempe&ntilde;ar un papel, participar, involucrarse
-      (en)
+    eng: 'rol (b.oj.ru; b.nenoj.p) n: role, part; v.tr: play (a part, a role); v.intr:
+      play a role, participate, take part, be involved'
+    spa: rol (b.oj.ru; b.nenoj.p) papel, rol; desempe&ntilde;ar un papel, participar,
+      involucrarse (en)
   - text: ' '
   - text: fe
     eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
@@ -2060,7 +2066,7 @@
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: cele
-    eng: 'cele (b.oj) n: goal, target, purpose, end; v.tr: aim (at), target'
+    eng: 'cele (b.oj) n: goal, target, purpose, end; v.tr: target, aim (at)'
     spa: cele (b.oj) objetivo, meta, prop&oacute;sito, fin; apuntar, asestar, dirigir
       (hacia)
   - text: ' '
@@ -2154,7 +2160,7 @@
     spa: kom (l) que, como, en comparaci&oacute;n con
   - text: ' '
   - text: anxi
-    eng: 'anxi (b.oj) n: implication, hint; v.tr: imply, allude (to), hint (at), insinuate'
+    eng: 'anxi (b.oj) n: implication, hint; v.tr: imply, hint (at), allude (to), insinuate'
     spa: anxi (b.oj) implicaci&oacute;n, insinuaci&oacute;n, pista; implicar, insinuar
   - text: ' '
   - text: feki
@@ -2212,10 +2218,10 @@
     spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
   - text: ' '
   - text: rol
-    eng: 'rol (b.oj.ru) n: role, part; v.tr: play a role, participate, take part,
-      be involved (in)'
-    spa: rol (b.oj.ru) papel, rol; desempe&ntilde;ar un papel, participar, involucrarse
-      (en)
+    eng: 'rol (b.oj.ru; b.nenoj.p) n: role, part; v.tr: play (a part, a role); v.intr:
+      play a role, participate, take part, be involved'
+    spa: rol (b.oj.ru; b.nenoj.p) papel, rol; desempe&ntilde;ar un papel, participar,
+      involucrarse (en)
   - text: ' '
   - text: fe
     eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
@@ -2275,7 +2281,7 @@
     spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
   - text: ' '
   - text: cele
-    eng: 'cele (b.oj) n: goal, target, purpose, end; v.tr: aim (at), target'
+    eng: 'cele (b.oj) n: goal, target, purpose, end; v.tr: target, aim (at)'
     spa: cele (b.oj) objetivo, meta, prop&oacute;sito, fin; apuntar, asestar, dirigir
       (hacia)
   - text: ' '

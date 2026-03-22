@@ -784,6 +784,11 @@ akrobatili:
   class: t
   category: derived
   translation: ""
+akrobatixey:
+  term: akrobatixey
+  class: b
+  category: derived
+  translation: ""
 akrobatiyen:
   term: akrobatiyen
   class: b
@@ -2328,11 +2333,6 @@ askeri:
   class: b
   category: root
   translation: ""
-askeritim:
-  term: askeritim
-  class: b
-  category: derived
-  translation: ""
 askeriyen:
   term: askeriyen
   class: b
@@ -2448,8 +2448,8 @@ asuransu:
   class: b.oj
   category: root
   translation: ""
-asuransuli_kontrata:
-  term: asuransuli kontrata
+asuransukontrata:
+  term: asuransukontrata
   class: b
   category: phrase
   translation: ""
@@ -4842,7 +4842,7 @@ blueberi:
   term: blueberi
   class: b
   category: derived
-  translation: ""
+  translation: 蓝莓
 blueya:
   term: blueya
   class: b
@@ -4967,6 +4967,11 @@ boltu:
   term: boltu
   class: b.oj
   category: root
+  translation: ""
+boltutul:
+  term: boltutul
+  class: b
+  category: derived
   translation: ""
 bomba:
   term: bomba
@@ -5217,7 +5222,7 @@ boya:
   term: boya
   class: b
   category: root
-  translation: ""
+  translation: 浮标
 boykoti:
   term: boykoti
   class: b.oj
@@ -5770,7 +5775,7 @@ burito:
   translation: ""
 burjumun:
   term: burjumun
-  class: b
+  class: b.oj
   category: derived
   translation: ""
 burkina:
@@ -7618,6 +7623,11 @@ dawla:
   class: b
   category: root
   translation: 国家
+dawlakef:
+  term: dawlakef
+  class: b
+  category: derived
+  translation: ""
 dawn:
   term: Dawn
   class: su n
@@ -8920,7 +8930,7 @@ diskonegi:
   translation: ""
 diskrimina:
   term: diskrimina
-  class: b.oj
+  class: b.oj; b.nenoj.p
   category: root
   translation: ""
 diskriminado:
@@ -9918,6 +9928,11 @@ dur_na:
   class: p jm
   category: phrase
   translation: ""
+dur_nunya:
+  term: dur nunya
+  class: p jm
+  category: phrase
+  translation: ""
 dur_total:
   term: dur total
   class: p jm
@@ -10183,6 +10198,11 @@ egal:
   class: t
   category: root
   translation: ""
+egalista:
+  term: egalista
+  class: b
+  category: derived
+  translation: ""
 egaljacipul:
   term: egaljacipul
   class: t
@@ -10201,11 +10221,6 @@ egalya:
 egalyali:
   term: egalyali
   class: t
-  category: derived
-  translation: ""
-egalyayen:
-  term: egalyayen
-  class: b
   category: derived
   translation: ""
 egeo:
@@ -12658,6 +12673,11 @@ fe_kosa_ki:
   class: l
   category: phrase
   translation: ""
+fe_ledin:
+  term: (fe) ledin
+  class: p jm
+  category: phrase
+  translation: ""
 fe_leya:
   term: fe leya
   class: p jm
@@ -12890,6 +12910,11 @@ fe_ultraya:
   translation: ""
 fe_un_mara:
   term: (fe) un mara
+  class: p jm
+  category: phrase
+  translation: ""
+fe_xadin:
+  term: (fe) xadin
   class: p jm
   category: phrase
   translation: ""
@@ -14675,7 +14700,7 @@ gante:
   translation: 手套
 ganxopu:
   term: ganxopu
-  class: b.oj
+  class: b.oj; b.nenoj.p
   category: root
   translation: ""
 ganzo:
@@ -16105,7 +16130,7 @@ halazun:
   translation: 蜗牛, 海螺
 haleluya:
   term: haleluya
-  class: b
+  class: b; il
   category: root
   translation: 哈利路亚, 阿利路亚, 阿肋路亚
 haliju:
@@ -22990,7 +23015,7 @@ konkreto:
   translation: 具体
 konkure:
   term: konkure
-  class: b.oj
+  class: b.nenoj
   category: root
   translation: ""
 konkurexey:
@@ -26137,7 +26162,7 @@ makro:
   term: makro
   class: t
   category: root
-  translation: ""
+  translation: 宏观
 maku:
   term: maku
   class: b
@@ -27685,7 +27710,7 @@ menikido:
   translation: ""
 menikipul:
   term: menikipul
-  class: b
+  class: t
   category: derived
   translation: ""
 menu:
@@ -29745,11 +29770,6 @@ nasyon:
   class: b
   category: root
   translation: ""
-nasyonkef:
-  term: nasyonkef
-  class: b
-  category: derived
-  translation: ""
 nasyonli:
   term: nasyonli
   class: t
@@ -31307,7 +31327,7 @@ oganeson:
   translation: ""
 ogar:
   term: ogar
-  class: b.oj; b.nenoj
+  class: b.oj; b.nenoj.p
   category: root
   translation: ""
 ogardom:
@@ -32327,7 +32347,7 @@ pankreas:
   translation: ""
 panlan:
   term: panlan
-  class: b.oj
+  class: b.nenoj
   category: root
   translation: ""
 panlanyen:
@@ -32772,8 +32792,13 @@ peari:
   translation: ""
 peda:
   term: peda
-  class: b.oj
+  class: b.oj; b.nenoj.p
   category: root
+  translation: ""
+pedaaskeri:
+  term: pedaaskeri
+  class: b
+  category: derived
   translation: ""
 pedabendu:
   term: pedabendu
@@ -35632,7 +35657,7 @@ roku:
   translation: ""
 rol:
   term: rol
-  class: b.oj.ru
+  class: b.oj.ru; b.nenoj.p
   category: root
   translation: ""
 rolyen:
@@ -37007,7 +37032,7 @@ seksiya:
   translation: ""
 sekso:
   term: sekso
-  class: b.oj
+  class: b.oj; b.nenoj.p
   category: root
   translation: ""
 seksobawlu:
@@ -37205,9 +37230,154 @@ sen:
   class: b.lin
   category: root
   translation: ""
+sen_anti:
+  term: sen anti
+  class: jm
+  category: phrase
+  translation: ""
+sen_bax:
+  term: sen bax
+  class: jm
+  category: phrase
+  translation: ""
+sen_cis:
+  term: sen cis
+  class: jm
+  category: phrase
+  translation: ""
+sen_de:
+  term: sen de
+  class: jm
+  category: phrase
+  translation: ""
+sen_dur:
+  term: sen dur
+  class: jm
+  category: phrase
+  translation: ""
+sen_ex:
+  term: sen ex
+  class: jm
+  category: phrase
+  translation: ""
+sen_fal:
+  term: sen fal
+  class: jm
+  category: phrase
+  translation: ""
+sen_fe:
+  term: sen fe
+  class: jm
+  category: phrase
+  translation: ""
+sen_fol:
+  term: sen fol
+  class: jm
+  category: phrase
+  translation: ""
+sen_har:
+  term: sen har
+  class: jm
+  category: phrase
+  translation: ""
+sen_hoy:
+  term: sen hoy
+  class: jm
+  category: phrase
+  translation: ""
+sen_in:
+  term: sen in
+  class: jm
+  category: phrase
+  translation: ""
+sen_infra:
+  term: sen infra
+  class: jm
+  category: phrase
+  translation: ""
+sen_intre:
+  term: sen intre
+  class: jm
+  category: phrase
+  translation: ""
+sen_kos:
+  term: sen kos
+  class: jm
+  category: phrase
+  translation: ""
+sen_of:
+  term: sen of
+  class: jm
+  category: phrase
+  translation: ""
+sen_pas:
+  term: sen pas
+  class: jm
+  category: phrase
+  translation: ""
 sen_peldo:
   term: sen peldo
   class: f jm
+  category: phrase
+  translation: ""
+sen_per:
+  term: sen per
+  class: jm
+  category: phrase
+  translation: ""
+sen_por:
+  term: sen por
+  class: jm
+  category: phrase
+  translation: ""
+sen_pro:
+  term: sen pro
+  class: jm
+  category: phrase
+  translation: ""
+sen_supra:
+  term: sen supra
+  class: jm
+  category: phrase
+  translation: ""
+sen_tas:
+  term: sen tas
+  class: jm
+  category: phrase
+  translation: ""
+sen_tem:
+  term: sen tem
+  class: jm
+  category: phrase
+  translation: ""
+sen_ton:
+  term: sen ton
+  class: jm
+  category: phrase
+  translation: ""
+sen_tras:
+  term: sen tras
+  class: jm
+  category: phrase
+  translation: ""
+sen_ultra:
+  term: sen ultra
+  class: jm
+  category: phrase
+  translation: ""
+sen_wal:
+  term: sen wal
+  class: jm
+  category: phrase
+  translation: ""
+sen_wey:
+  term: sen wey
+  class: jm
+  category: phrase
+  translation: ""
+sen_yon:
+  term: sen yon
+  class: jm
   category: phrase
   translation: ""
 senaryo:
@@ -38452,7 +38622,7 @@ sudino:
   translation: ""
 suferi:
   term: suferi
-  class: b.oj
+  class: b.oj; b.nenoj.p
   category: root
   translation: ""
 sugu:
@@ -41177,7 +41347,7 @@ trinidad_ji_tobago:
   translation: 千里達及托巴哥
 triunfa:
   term: triunfa
-  class: b.oj
+  class: b.oj; b.nenoj.p
   category: root
   translation: ""
 triunfamusi:
@@ -41377,7 +41547,7 @@ tunisi:
   translation: 突尼斯
 tupyo:
   term: tupyo
-  class: b.oj
+  class: b.nenoj
   category: root
   translation: ""
 tupyodom:
@@ -41412,7 +41582,7 @@ turbin:
   translation: ""
 turi:
   term: turi
-  class: b.oj
+  class: b.oj; b.nenoj.p
   category: root
   translation: ""
 turido:
@@ -42675,6 +42845,11 @@ walrus:
   class: b
   category: root
   translation: 海象
+walya:
+  term: walya
+  class: b.oj
+  category: derived
+  translation: ""
 wangu:
   term: wangu
   class: b.oj
