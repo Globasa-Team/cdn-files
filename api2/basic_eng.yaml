@@ -275,12 +275,12 @@ absurdoxey:
   term: absurdoxey
   class: b
   category: derived
-  translation: 'n: absurdity (<em>count noun</em>)'
+  translation: 'n: absurdity (<em>countable</em>)'
 absurdoya:
   term: absurdoya
   class: b
   category: derived
-  translation: 'n: absurdity (<em>noncount noun</em>)'
+  translation: 'n: absurdity (<em>uncountable</em>)'
 abyasa:
   term: abyasa
   class: b.oj
@@ -382,7 +382,7 @@ adatexey:
   term: adatexey
   class: b
   category: derived
-  translation: 'n: adaptation (<em>count noun</em>)'
+  translation: 'n: adaptation (<em>countable</em>)'
 adebu:
   term: adebu
   class: b
@@ -973,7 +973,7 @@ alimxey:
   term: alimxey
   class: b
   category: derived
-  translation: 'n: teaching (<em>count noun</em>)'
+  translation: 'n: teaching (<em>countable</em>)'
 alimyen:
   term: alimyen
   class: b
@@ -2489,12 +2489,12 @@ astratoxey:
   term: astratoxey
   class: b
   category: derived
-  translation: 'n: abstraction (<em>count noun</em>)'
+  translation: 'n: abstraction (<em>countable</em>)'
 astratoya:
   term: astratoya
   class: b
   category: derived
-  translation: 'n: abstraction (<em>noncount noun</em>), abstractness'
+  translation: 'n: abstraction (<em>uncountable</em>), abstractness'
 asuransu:
   term: asuransu
   class: b.oj
@@ -3049,7 +3049,7 @@ aya:
   term: aya
   class: b
   category: root
-  translation: 'n: letter a, ace'
+  translation: 'n: (letter) a, ace'
 ayay:
   term: ayay
   class: b.oj.ru
@@ -3388,7 +3388,7 @@ balaxey:
   term: balaxey
   class: b
   category: derived
-  translation: 'n: strength (<em>count noun</em>)'
+  translation: 'n: strength (<em>countable</em>)'
 balaya:
   term: balaya
   class: b
@@ -3739,12 +3739,12 @@ barbarixey:
   term: barbarixey
   class: b
   category: derived
-  translation: 'n: barbarism (<em>count noun</em>)'
+  translation: 'n: barbarism (<em>countable</em>)'
 barbariya:
   term: barbariya
   class: b
   category: derived
-  translation: 'n: barbarism (<em>noncount noun</em>)'
+  translation: 'n: barbarism (<em>uncountable</em>)'
 barbariyen:
   term: barbariyen
   class: b
@@ -5630,7 +5630,7 @@ bukaxey:
   term: bukaxey
   class: b
   category: derived
-  translation: 'n: opening (<em>count noun</em>)'
+  translation: 'n: opening (<em>countable</em>)'
 bulbula:
   term: bulbula
   class: b.nenoj
@@ -7372,12 +7372,12 @@ daifuxey:
   term: daifuxey
   class: b
   category: derived
-  translation: 'n: weakness (<em>count noun</em>)'
+  translation: 'n: weakness (<em>countable</em>)'
 daifuya:
   term: daifuya
   class: b
   category: derived
-  translation: 'n: weakness (<em>noncount noun</em>)'
+  translation: 'n: weakness (<em>uncountable</em>)'
 daju:
   term: daju
   class: t
@@ -9457,7 +9457,7 @@ doxo:
   term: doxo
   class: b.oj.ru
   category: root
-  translation: 'n: reading (<em>count noun</em>); v.tr: read'
+  translation: 'n: reading (<em>countable</em>); v.tr: read'
 doxoabil:
   term: doxoabil
   class: t
@@ -10881,6 +10881,11 @@ ergomon:
   class: b
   category: derived
   translation: 'n: task'
+ergopaya:
+  term: ergopaya
+  class: b
+  category: derived
+  translation: 'n: wage, salary'
 ergosafta:
   term: ergosafta
   class: b
@@ -11101,7 +11106,7 @@ eskri:
   term: eskri
   class: b.oj
   category: root
-  translation: 'n: writing (<em>count noun</em>); v.tr: write'
+  translation: 'n: writing (<em>countable</em>); v.tr: write'
 eskrido:
   term: eskrido
   class: t
@@ -12161,7 +12166,7 @@ eya:
   term: eya
   class: b
   category: root
-  translation: 'n: letter e'
+  translation: 'n: (letter) e'
 eyob:
   term: Eyob
   class: su n
@@ -12237,12 +12242,12 @@ fahexxey:
   term: fahexxey
   class: b
   category: derived
-  translation: 'n: obscenity (<em>count noun</em>)'
+  translation: 'n: obscenity (<em>countable</em>)'
 fahexya:
   term: fahexya
   class: b
   category: derived
-  translation: 'n: vulgarity, crudeness, obscenity (<em>noncount noun</em>)'
+  translation: 'n: vulgarity, crudeness, obscenity (<em>uncountable</em>)'
 fahuri:
   term: fahuri
   class: t
@@ -18036,7 +18041,7 @@ ibe:
   term: ibe
   class: b
   category: root
-  translation: 'n: letter b'
+  translation: 'n: letter b, bee'
 ible:
   term: ible
   class: t
@@ -18062,12 +18067,12 @@ ice:
   term: ice
   class: b
   category: root
-  translation: 'n: letter c'
+  translation: 'n: letter c, cee'
 ide:
   term: ide
   class: b
   category: root
-  translation: 'n: letter d'
+  translation: 'n: letter d, dee'
 ideal:
   term: ideal
   class: t
@@ -18102,12 +18107,12 @@ ife:
   term: ife
   class: b
   category: root
-  translation: 'n: letter f'
+  translation: 'n: letter f, ef, eff'
 ige:
   term: ige
   class: b
   category: root
-  translation: 'n: letter g'
+  translation: 'n: letter g, gee'
 igwana:
   term: igwana
   class: b
@@ -18117,7 +18122,7 @@ ihe:
   term: ihe
   class: b
   category: root
-  translation: 'n: letter h'
+  translation: 'n: letter h, aitch, haitch'
 ihtilas:
   term: ihtilas
   class: b.oj
@@ -18127,7 +18132,7 @@ ije:
   term: ije
   class: b
   category: root
-  translation: 'n: letter j'
+  translation: 'n: letter j, jay'
 ijen:
   term: ijen
   class: b.oj
@@ -18167,7 +18172,7 @@ ike:
   term: ike
   class: b
   category: root
-  translation: 'n: letter k'
+  translation: 'n: letter k, kay'
 ikna:
   term: ikna
   class: b.oj
@@ -18202,7 +18207,7 @@ ile:
   term: ile
   class: b
   category: root
-  translation: 'n: letter l'
+  translation: 'n: letter l, el, ell'
 ilhamu:
   term: ilhamu
   class: b.oro.hisi
@@ -18303,7 +18308,7 @@ ime:
   term: ime
   class: b
   category: root
-  translation: 'n: letter m'
+  translation: 'n: letter m, em'
 imi:
   term: imi
   class: pn
@@ -18458,7 +18463,7 @@ ine:
   term: ine
   class: b
   category: root
-  translation: 'n: letter n'
+  translation: 'n: letter n, en'
 inergogi:
   term: inergogi
   class: b.oj
@@ -19033,7 +19038,7 @@ ipe:
   term: ipe
   class: b
   category: root
-  translation: 'n: letter p'
+  translation: 'n: letter p, pee'
 iraki:
   term: Iraki
   class: su n
@@ -19068,7 +19073,7 @@ ire:
   term: ire
   class: b
   category: root
-  translation: 'n: letter r'
+  translation: 'n: letter r, ar'
 iridyum:
   term: iridyum
   class: b
@@ -19118,7 +19123,7 @@ ise:
   term: ise
   class: b
   category: root
-  translation: 'n: letter s'
+  translation: 'n: letter s, ess'
 ishal:
   term: ishal
   class: b.oro.jotay
@@ -19239,7 +19244,7 @@ ite:
   term: ite
   class: b
   category: root
-  translation: 'n: letter t'
+  translation: 'n: letter t, tee'
 iteham:
   term: iteham
   class: b.oj
@@ -19300,7 +19305,7 @@ ive:
   term: ive
   class: b
   category: root
-  translation: 'n: letter v'
+  translation: 'n: letter v, vee'
 ivri:
   term: Ivri
   class: su t
@@ -19320,7 +19325,7 @@ iwe:
   term: iwe
   class: b
   category: root
-  translation: 'n: letter w'
+  translation: 'n: letter w, double-u'
 ixara:
   term: ixara
   class: b.oj
@@ -19341,7 +19346,7 @@ ixe:
   term: ixe
   class: b
   category: root
-  translation: 'n: letter x'
+  translation: 'n: letter x, ex'
 ixgalu:
   term: ixgalu
   class: b.oj
@@ -19408,17 +19413,17 @@ iya:
   term: iya
   class: b
   category: root
-  translation: 'n: letter i'
+  translation: 'n: (letter) i'
 iye:
   term: iye
   class: b
   category: root
-  translation: 'n: letter y'
+  translation: 'n: letter y, wy, wye'
 ize:
   term: ize
   class: b
   category: root
-  translation: 'n: letter z'
+  translation: 'n: letter z, zee, zed'
 izin:
   term: izin
   class: b.oj
@@ -23776,7 +23781,7 @@ kreaxey:
   term: kreaxey
   class: b
   category: derived
-  translation: 'n: creation (<em>count noun</em>)'
+  translation: 'n: creation (<em>countable</em>)'
 kreayen:
   term: kreayen
   class: b
@@ -24455,7 +24460,9 @@ kyu:
   term: kyu
   class: b
   category: root
-  translation: 'n: letter q'
+  translation: |-
+    n: letter q, cue, kew,
+    kue, que
 labas:
   term: labas
   class: b.oj
@@ -29224,7 +29231,7 @@ morgi:
   term: morgi
   class: b.oj
   category: derived
-  translation: 'n: kill, killing (<em>count noun</em>), murder; v.tr: kill, murder'
+  translation: 'n: kill, killing (<em>countable</em>), murder; v.tr: kill, murder'
 morgine:
   term: morgine
   class: t
@@ -30361,12 +30368,12 @@ nenadilxey:
   term: nenadilxey
   class: b
   category: derived
-  translation: 'n: injustice (<em>count noun</em>)'
+  translation: 'n: injustice (<em>countable</em>)'
 nenadilya:
   term: nenadilya
   class: b
   category: derived
-  translation: 'n: injustice (<em>noncount noun</em>)'
+  translation: 'n: injustice (<em>uncountable</em>)'
 nenandin:
   term: nenandin
   class: t
@@ -30593,7 +30600,7 @@ nenperfetoxey:
   term: nenperfetoxey
   class: b
   category: derived
-  translation: 'n: imperfection (<em>count noun</em>)'
+  translation: 'n: imperfection (<em>countable</em>)'
 nenpesado:
   term: nenpesado
   class: t
@@ -32467,7 +32474,7 @@ oya:
   term: oya
   class: b
   category: root
-  translation: 'n: letter o'
+  translation: 'n: (letter) o'
 ozbeki:
   term: Ozbeki
   class: su n
@@ -33318,7 +33325,7 @@ pelakebelo:
   term: pelakebelo
   class: b
   category: derived
-  translation: 'n: eyelash'
+  translation: 'n: eyelash(es)'
 pelakegi:
   term: pelakegi
   class: b.oj
@@ -34196,7 +34203,7 @@ pluya:
   term: pluya
   class: b
   category: derived
-  translation: 'n: multiplicity, multipleness, plurality'
+  translation: 'n: multipleness, plurality'
 pluyali:
   term: pluyali
   class: t
@@ -34498,12 +34505,12 @@ posadilxey:
   term: posadilxey
   class: b
   category: derived
-  translation: 'n: injustice, injustices'
+  translation: 'n (count noun): injustice(s)'
 posadilya:
   term: posadilya
   class: b
   category: derived
-  translation: 'n: injustice'
+  translation: 'n (noncount noun): injustice'
 posamiku:
   term: posamiku
   class: t
@@ -35426,7 +35433,7 @@ radyan:
   term: radyan
   class: b
   category: root
-  translation: 'n: radian, rad'
+  translation: 'n: radian, <em>rad</em>'
 radyaya:
   term: radyaya
   class: b
@@ -35884,12 +35891,12 @@ resmixey:
   term: resmixey
   class: b
   category: derived
-  translation: 'n: formality (<em>count noun</em>)'
+  translation: 'n: formality (<em>countable</em>)'
 resmiya:
   term: resmiya
   class: b
   category: derived
-  translation: 'n: formality (<em>noncount noun</em>), formalness, officialness'
+  translation: 'n: formality (<em>uncountable</em>), formalness, officialness'
 resta:
   term: resta
   class: b.nenoj
@@ -36790,11 +36797,6 @@ sahiloga:
   class: b.nenoj
   category: derived
   translation: 'v.intr: be right, be in the right'
-sahixey:
-  term: sahixey
-  class: b
-  category: derived
-  translation: 'n: correction'
 sahixinen:
   term: sahixinen
   class: b
@@ -36804,7 +36806,7 @@ sahiya:
   term: sahiya
   class: b
   category: derived
-  translation: 'n: correctness'
+  translation: 'n: correctness, rightness'
 sahni:
   term: sahni
   class: b
@@ -38352,7 +38354,7 @@ simbologidatul:
   term: simbologidatul
   class: b
   category: derived
-  translation: 'n: legend'
+  translation: 'n: legend (<em>table, map, chart</em>)'
 simbololi:
   term: simbololi
   class: t
@@ -41174,7 +41176,7 @@ tim:
   term: tim
   class: b
   category: root
-  translation: 'n: team, body, (<em>animate</em>) group'
+  translation: 'n (animate): team, body, group'
 timoteo:
   term: Timoteo
   class: su n
@@ -41409,7 +41411,7 @@ tonatatim:
   term: tonatatim
   class: b
   category: derived
-  translation: 'n: assembly'
+  translation: 'n: assembly (<em>group</em>)'
 toncu:
   term: toncu
   class: b.nenoj
@@ -42313,7 +42315,7 @@ twaletekamer:
   term: twaletekamer
   class: b
   category: derived
-  translation: 'n: restroom, lavatory, water closet, wc'
+  translation: 'n: restroom, lavatory, water closet, <em>wc</em>'
 twaletepaper:
   term: twaletepaper
   class: b
@@ -42762,7 +42764,7 @@ uya:
   term: uya
   class: b
   category: root
-  translation: 'n: letter u'
+  translation: 'n: (letter) u'
 uyu:
   term: uyu
   class: pn
@@ -43309,7 +43311,7 @@ wahyu:
   term: wahyu
   class: b
   category: root
-  translation: 'n: revelation'
+  translation: 'n: revelation (<em>theology</em>)'
 wair:
   term: wair
   class: b
