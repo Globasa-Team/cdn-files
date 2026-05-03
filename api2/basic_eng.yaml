@@ -8896,7 +8896,7 @@ di:
   term: di
   class: par
   category: root
-  translation: 'par: <em>(optional) proper noun marker</em>'
+  translation: 'par: <em>(optional) proper noun or culture-specific marker</em>'
 digita:
   term: digita
   class: b
@@ -9588,7 +9588,7 @@ drevolari:
   term: drevolari
   class: b
   category: derived
-  translation: 'n: forest, woods'
+  translation: 'n: grove'
 drilu:
   term: drilu
   class: b.oj
@@ -9638,7 +9638,8 @@ du-:
   term: du-
   class: lfik
   category: affix
-  translation: 'pfx: <em>continuous aspect, habitual aspect, gerund (the act of)</em>'
+  translation: 'pfx: <em>continuous aspect</em>, <em>habitual aspect</em>, <em>gerund
+    (the act of)</em>'
 dua:
   term: dua
   class: num
@@ -10082,6 +10083,11 @@ dur-:
   class: lfik
   category: affix
   translation: 'pfx: during'
+dur_moyun:
+  term: dur moyun
+  class: p jm
+  category: phrase
+  translation: 'prep phrs: per, a (<em>+ day, week, etc</em>)'
 dur_na:
   term: dur na
   class: p jm
@@ -12855,7 +12861,7 @@ fe_kompara_ki:
   term: fe kompara ki
   class: l
   category: phrase
-  translation: 'conj: whereas (<em>in contrast</em>)'
+  translation: 'conj (contrastive): whereas, while'
 fe_kosa_fe:
   term: fe kosa fe
   class: p
@@ -12920,7 +12926,7 @@ fe_moyun:
   term: fe moyun
   class: p jm
   category: phrase
-  translation: 'prep phrs: per, a'
+  translation: 'prep phrs: per, a (<em>+ day, week, etc</em>)'
 fe_muka:
   term: fe muka
   class: p jm
@@ -21478,16 +21484,6 @@ kapikusen:
   class: b
   category: derived
   translation: 'n: pillow'
-kapinoya:
-  term: kapinoya
-  class: b.nenoj
-  category: derived
-  translation: 'v.intr: shake (one&#039;s) head (<em>no</em>)'
-kapisiya:
-  term: kapisiya
-  class: b.nenoj
-  category: derived
-  translation: 'n: nod; v.intr: nod'
 kapital:
   term: kapital
   class: b
@@ -23032,6 +23028,11 @@ komiki:
   class: b
   category: root
   translation: 'n: comics, manga'
+komisi:
+  term: komisi
+  class: b
+  category: root
+  translation: 'n: commission'
 komori:
   term: Komori
   class: su n
@@ -31192,6 +31193,11 @@ nohudu:
   class: b
   category: root
   translation: 'n: chickpea, garbanzo'
+nokapi:
+  term: nokapi
+  class: b.nenoj
+  category: derived
+  translation: 'v.intr: shake (one&#039;s) head (<em>no</em>)'
 noli:
   term: noli
   class: t
@@ -34398,7 +34404,7 @@ por_moyun:
   term: por moyun
   class: p jm
   category: phrase
-  translation: 'prep phrs: per, for (each)'
+  translation: 'prep phrs: per (<em>in exchange for each</em>)'
 porcelen:
   term: porcelen
   class: b
@@ -38240,6 +38246,11 @@ sigaro:
   class: b
   category: root
   translation: 'n: cigar'
+sikapi:
+  term: sikapi
+  class: b.nenoj
+  category: derived
+  translation: 'n: nod; v.intr: nod'
 siki:
   term: Siki
   class: su t
@@ -40311,6 +40322,11 @@ tas:
   class: p
   category: root
   translation: 'prep: to (<em>indirect object marker</em>), for (<em>receiver/recipient</em>)'
+tas_moyun:
+  term: tas moyun
+  class: p jm
+  category: phrase
+  translation: 'prep phrs: for each, per (<em>+ person, etc</em>)'
 tasaduf:
   term: tasaduf
   class: b.nenoj
@@ -43394,6 +43410,11 @@ walaganjon:
   class: b.oj
   category: derived
   translation: 'v.tr: miss (<em>feel lack of</em>)'
+walki:
+  term: walki
+  class: l
+  category: derived
+  translation: 'conj: without (<em>+ sentence</em>)'
 walrus:
   term: walrus
   class: b
@@ -43907,6 +43928,13 @@ xafeyam:
   class: b.oj
   category: derived
   translation: 'n: dessert; v.tr: have dessert, eat for dessert'
+xagaf:
+  term: xagaf
+  class: b.oro.hisi
+  category: root
+  translation: 'n: passion, fervor, ardor; v.tr: make (<em>somebody</em>) passionate,
+    make (<em>somebody</em>) fervent, make (<em>somebody</em>) ardent; v.intr: be
+    (<em>feel</em>) passionate, be (<em>feel</em>) fervent, be (<em>feel</em>) ardent'
 xagami:
   term: xagami
   class: b
