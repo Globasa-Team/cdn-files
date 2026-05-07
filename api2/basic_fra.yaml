@@ -3939,7 +3939,7 @@ batiza:
   term: batiza
   class: b.oj
   category: root
-  translation: ""
+  translation: bapt&ecirc;me; baptiser
 batizaatre:
   term: batizaatre
   class: b
@@ -4160,11 +4160,6 @@ bebe:
   class: b
   category: root
   translation: 'n: b&eacute;b&eacute;; n (familier): fille, fils, enfant'
-bebinanyen:
-  term: bebinanyen
-  class: b
-  category: derived
-  translation: 'n: r&eacute;fugi&eacute;'
 beeskolyen:
   term: beeskolyen
   class: b
@@ -4314,7 +4309,7 @@ belizeyen:
   term: Belizeyen
   class: su n
   category: proper word
-  translation: ""
+  translation: B&eacute;lizien
 belo:
   term: belo
   class: b
@@ -4410,7 +4405,7 @@ beninyen:
   term: Beninyen
   class: su n
   category: proper word
-  translation: ""
+  translation: B&eacute;ninois
 benji:
   term: benji
   class: b
@@ -4643,7 +4638,7 @@ bimaryendom:
   translation: 'n: h&ocirc;pital'
 binan:
   term: binan
-  class: b.oj
+  class: b.nenoj
   category: root
   translation: ""
 binandom:
@@ -4651,6 +4646,16 @@ binandom:
   class: b
   category: derived
   translation: 'n: refuge, asile'
+binangi:
+  term: binangi
+  class: b.oj
+  category: derived
+  translation: ""
+binanyen:
+  term: binanyen
+  class: b
+  category: derived
+  translation: 'n: r&eacute;fugi&eacute;'
 binde:
   term: binde
   class: b.oj
@@ -10031,6 +10036,11 @@ durwatuli:
   class: t
   category: derived
   translation: ""
+durya:
+  term: durya
+  class: b.oj
+  category: derived
+  translation: ""
 duryan:
   term: duryan
   class: b
@@ -11601,6 +11611,11 @@ estudiyen:
   class: b
   category: derived
   translation: 'n: &eacute;tudiant, &eacute;l&egrave;ve'
+estuf:
+  term: estuf
+  class: b
+  category: root
+  translation: ""
 estulu:
   term: estulu
   class: b
@@ -16516,11 +16531,6 @@ harxaf:
   class: b
   category: root
   translation: 'n: &eacute;caille'
-harya:
-  term: harya
-  class: b.oj
-  category: derived
-  translation: ""
 hasan:
   term: Hasan
   class: su n
@@ -31361,8 +31371,8 @@ ofcare:
 ofcen:
   term: ofcen
   class: b
-  category: derived
-  translation: 'n: centi&egrave;me, pour cent, pourcentage'
+  category: phrase
+  translation: 'n: centi&egrave;me'
 ofcori:
   term: ofcori
   class: b.oj
@@ -37468,11 +37478,6 @@ sen_fol:
   class: jm
   category: phrase
   translation: ""
-sen_har:
-  term: sen har
-  class: jm
-  category: phrase
-  translation: ""
 sen_hoy:
   term: sen hoy
   class: jm
@@ -37565,11 +37570,6 @@ sen_wal:
   translation: ""
 sen_wey:
   term: sen wey
-  class: jm
-  category: phrase
-  translation: ""
-sen_yon:
-  term: sen yon
   class: jm
   category: phrase
   translation: ""
@@ -45110,11 +45110,6 @@ yonigi:
   class: b.oj
   category: derived
   translation: ""
-yonya:
-  term: yonya
-  class: b.oj
-  category: derived
-  translation: utilisateur
 yonyo:
   term: Yonyo
   class: su n

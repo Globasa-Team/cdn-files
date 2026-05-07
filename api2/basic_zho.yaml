@@ -3193,7 +3193,7 @@ bahamayen:
   term: Bahamayen
   class: su n
   category: proper word
-  translation: ""
+  translation: 巴哈马人
 bahari:
   term: bahari
   class: b
@@ -3483,12 +3483,12 @@ banglasa:
   term: Banglasa
   class: su n
   category: proper word
-  translation: ""
+  translation: 孟加拉语
 banglayen:
   term: Banglayen
   class: su n
   category: proper word
-  translation: ""
+  translation: 孟加拉人
 bangura:
   term: bangura
   class: t
@@ -3648,7 +3648,7 @@ baratiyen:
   term: Baratiyen
   class: su n
   category: proper word
-  translation: ""
+  translation: 印度人
 barbado:
   term: Barbado
   class: su n
@@ -3658,7 +3658,7 @@ barbadoyen:
   term: Barbadoyen
   class: su n
   category: proper word
-  translation: ""
+  translation: 巴巴多斯人
 barbara:
   term: Barbara
   class: su n
@@ -4159,11 +4159,6 @@ bebe:
   class: b
   category: root
   translation: '名: 宝宝, 婴儿; 名 (非正式): 孩子'
-bebinanyen:
-  term: bebinanyen
-  class: b
-  category: derived
-  translation: '名: 难民'
 beeskolyen:
   term: beeskolyen
   class: b
@@ -4313,7 +4308,7 @@ belizeyen:
   term: Belizeyen
   class: su n
   category: proper word
-  translation: ""
+  translation: 伯利兹人
 belo:
   term: belo
   class: b
@@ -4408,7 +4403,7 @@ beninyen:
   term: Beninyen
   class: su n
   category: proper word
-  translation: ""
+  translation: 贝宁人
 benji:
   term: benji
   class: b
@@ -4641,7 +4636,7 @@ bimaryendom:
   translation: '名: 医院'
 binan:
   term: binan
-  class: b.oj
+  class: b.nenoj
   category: root
   translation: ""
 binandom:
@@ -4649,6 +4644,16 @@ binandom:
   class: b
   category: derived
   translation: '名: 避难所'
+binangi:
+  term: binangi
+  class: b.oj
+  category: derived
+  translation: ""
+binanyen:
+  term: binanyen
+  class: b
+  category: derived
+  translation: '名: 难民'
 binde:
   term: binde
   class: b.oj
@@ -5338,7 +5343,7 @@ brazilyen:
   term: Brazilyen
   class: su n
   category: proper word
-  translation: ""
+  translation: 巴西人
 brendan:
   term: Brendan
   class: su n
@@ -10029,6 +10034,11 @@ durwatuli:
   class: t
   category: derived
   translation: ""
+durya:
+  term: durya
+  class: b.oj
+  category: derived
+  translation: ""
 duryan:
   term: duryan
   class: b
@@ -11599,6 +11609,11 @@ estudiyen:
   class: b
   category: derived
   translation: '名: 学生'
+estuf:
+  term: estuf
+  class: b
+  category: root
+  translation: ""
 estulu:
   term: estulu
   class: b
@@ -16514,11 +16529,6 @@ harxaf:
   class: b
   category: root
   translation: '名: 鳞, 鳞片'
-harya:
-  term: harya
-  class: b.oj
-  category: derived
-  translation: ""
 hasan:
   term: Hasan
   class: su n
@@ -22013,7 +22023,7 @@ keralasa:
   term: Keralasa
   class: su n
   category: proper word
-  translation: ""
+  translation: 马拉雅拉姆语
 keralayen:
   term: Keralayen
   class: su n
@@ -31352,8 +31362,8 @@ ofcare:
 ofcen:
   term: ofcen
   class: b
-  category: derived
-  translation: '名: 百分之一, 百分比, 百分率'
+  category: phrase
+  translation: '名: 百分之一'
 ofcori:
   term: ofcori
   class: b.oj
@@ -37459,11 +37469,6 @@ sen_fol:
   class: jm
   category: phrase
   translation: ""
-sen_har:
-  term: sen har
-  class: jm
-  category: phrase
-  translation: ""
 sen_hoy:
   term: sen hoy
   class: jm
@@ -37556,11 +37561,6 @@ sen_wal:
   translation: ""
 sen_wey:
   term: sen wey
-  class: jm
-  category: phrase
-  translation: ""
-sen_yon:
-  term: sen yon
   class: jm
   category: phrase
   translation: ""
@@ -45099,11 +45099,6 @@ yonigi:
   class: b.oj
   category: derived
   translation: ""
-yonya:
-  term: yonya
-  class: b.oj
-  category: derived
-  translation: 用户, 使用者
 yonyo:
   term: Yonyo
   class: su n

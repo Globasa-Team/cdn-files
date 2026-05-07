@@ -2123,7 +2123,7 @@ arpun:
   term: arpun
   class: b.oj
   category: root
-  translation: гарпун
+  translation: гарпун; гарпунить
 arseniko:
   term: arseniko
   class: b
@@ -3193,7 +3193,7 @@ bahamayen:
   term: Bahamayen
   class: su n
   category: proper word
-  translation: ""
+  translation: багамец
 bahari:
   term: bahari
   class: b
@@ -4159,11 +4159,6 @@ bebe:
   class: b
   category: root
   translation: 'сущ: малыш, младенец; сущ (неформ.): сынок, дочка, детка'
-bebinanyen:
-  term: bebinanyen
-  class: b
-  category: derived
-  translation: 'сущ: беженец'
 beeskolyen:
   term: beeskolyen
   class: b
@@ -4313,7 +4308,7 @@ belizeyen:
   term: Belizeyen
   class: su n
   category: proper word
-  translation: ""
+  translation: белизец
 belo:
   term: belo
   class: b
@@ -4408,7 +4403,7 @@ beninyen:
   term: Beninyen
   class: su n
   category: proper word
-  translation: ""
+  translation: бенинец
 benji:
   term: benji
   class: b
@@ -4641,7 +4636,7 @@ bimaryendom:
   translation: 'сущ: больница, госпиталь'
 binan:
   term: binan
-  class: b.oj
+  class: b.nenoj
   category: root
   translation: ""
 binandom:
@@ -4649,6 +4644,16 @@ binandom:
   class: b
   category: derived
   translation: 'сущ: убежище, приют'
+binangi:
+  term: binangi
+  class: b.oj
+  category: derived
+  translation: ""
+binanyen:
+  term: binanyen
+  class: b
+  category: derived
+  translation: 'сущ: беженец'
 binde:
   term: binde
   class: b.oj
@@ -10032,6 +10037,11 @@ durwatuli:
   class: t
   category: derived
   translation: ""
+durya:
+  term: durya
+  class: b.oj
+  category: derived
+  translation: ""
 duryan:
   term: duryan
   class: b
@@ -11602,6 +11612,11 @@ estudiyen:
   class: b
   category: derived
   translation: 'сущ: студент, учащийся'
+estuf:
+  term: estuf
+  class: b
+  category: root
+  translation: ""
 estulu:
   term: estulu
   class: b
@@ -16517,11 +16532,6 @@ harxaf:
   class: b
   category: root
   translation: 'сущ: чешуя'
-harya:
-  term: harya
-  class: b.oj
-  category: derived
-  translation: ""
 hasan:
   term: Hasan
   class: su n
@@ -31358,8 +31368,8 @@ ofcare:
 ofcen:
   term: ofcen
   class: b
-  category: derived
-  translation: 'сущ: сотая, процент'
+  category: phrase
+  translation: 'сущ: сотая, одна сотая'
 ofcori:
   term: ofcori
   class: b.oj
@@ -37465,11 +37475,6 @@ sen_fol:
   class: jm
   category: phrase
   translation: ""
-sen_har:
-  term: sen har
-  class: jm
-  category: phrase
-  translation: ""
 sen_hoy:
   term: sen hoy
   class: jm
@@ -37562,11 +37567,6 @@ sen_wal:
   translation: ""
 sen_wey:
   term: sen wey
-  class: jm
-  category: phrase
-  translation: ""
-sen_yon:
-  term: sen yon
   class: jm
   category: phrase
   translation: ""
@@ -45106,11 +45106,6 @@ yonigi:
   class: b.oj
   category: derived
   translation: ""
-yonya:
-  term: yonya
-  class: b.oj
-  category: derived
-  translation: пользователь
 yonyo:
   term: Yonyo
   class: su n

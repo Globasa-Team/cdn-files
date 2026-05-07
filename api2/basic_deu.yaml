@@ -2125,7 +2125,7 @@ arpun:
   term: arpun
   class: b.oj
   category: root
-  translation: Harpune
+  translation: Harpune; harpunieren
 arseniko:
   term: arseniko
   class: b
@@ -3195,7 +3195,7 @@ bahamayen:
   term: Bahamayen
   class: su n
   category: proper word
-  translation: ""
+  translation: Bahamaer
 bahari:
   term: bahari
   class: b
@@ -4161,11 +4161,6 @@ bebe:
   class: b
   category: root
   translation: 'S: Baby, S&auml;ugling; S (informell): Kind'
-bebinanyen:
-  term: bebinanyen
-  class: b
-  category: derived
-  translation: 'S: Fl&uuml;chtling, Gefl&uuml;chteter'
 beeskolyen:
   term: beeskolyen
   class: b
@@ -4315,7 +4310,7 @@ belizeyen:
   term: Belizeyen
   class: su n
   category: proper word
-  translation: ""
+  translation: Belizer
 belo:
   term: belo
   class: b
@@ -4410,7 +4405,7 @@ beninyen:
   term: Beninyen
   class: su n
   category: proper word
-  translation: ""
+  translation: Beniner
 benji:
   term: benji
   class: b
@@ -4643,7 +4638,7 @@ bimaryendom:
   translation: 'S: Krankenhaus, Klinik, Hospital'
 binan:
   term: binan
-  class: b.oj
+  class: b.nenoj
   category: root
   translation: ""
 binandom:
@@ -4651,6 +4646,16 @@ binandom:
   class: b
   category: derived
   translation: 'S: Asyl, Zuflucht, Zufluchtsort'
+binangi:
+  term: binangi
+  class: b.oj
+  category: derived
+  translation: ""
+binanyen:
+  term: binanyen
+  class: b
+  category: derived
+  translation: 'S: Fl&uuml;chtling, Gefl&uuml;chteter'
 binde:
   term: binde
   class: b.oj
@@ -10031,6 +10036,11 @@ durwatuli:
   class: t
   category: derived
   translation: ""
+durya:
+  term: durya
+  class: b.oj
+  category: derived
+  translation: ""
 duryan:
   term: duryan
   class: b
@@ -11601,6 +11611,11 @@ estudiyen:
   class: b
   category: derived
   translation: 'S: Student, Sch&uuml;ler'
+estuf:
+  term: estuf
+  class: b
+  category: root
+  translation: ""
 estulu:
   term: estulu
   class: b
@@ -16518,11 +16533,6 @@ harxaf:
   class: b
   category: root
   translation: 'S: Schuppe'
-harya:
-  term: harya
-  class: b.oj
-  category: derived
-  translation: ""
 hasan:
   term: Hasan
   class: su n
@@ -31362,8 +31372,8 @@ ofcare:
 ofcen:
   term: ofcen
   class: b
-  category: derived
-  translation: 'S: Hundertstel, Prozent, Prozentsatz'
+  category: phrase
+  translation: 'S: Hundertstel'
 ofcori:
   term: ofcori
   class: b.oj
@@ -37470,11 +37480,6 @@ sen_fol:
   class: jm
   category: phrase
   translation: ""
-sen_har:
-  term: sen har
-  class: jm
-  category: phrase
-  translation: ""
 sen_hoy:
   term: sen hoy
   class: jm
@@ -37567,11 +37572,6 @@ sen_wal:
   translation: ""
 sen_wey:
   term: sen wey
-  class: jm
-  category: phrase
-  translation: ""
-sen_yon:
-  term: sen yon
   class: jm
   category: phrase
   translation: ""
@@ -45108,11 +45108,6 @@ yonidi:
   translation: ""
 yonigi:
   term: yonigi
-  class: b.oj
-  category: derived
-  translation: ""
-yonya:
-  term: yonya
   class: b.oj
   category: derived
   translation: ""

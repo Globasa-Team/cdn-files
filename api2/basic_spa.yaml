@@ -4197,11 +4197,6 @@ bebe:
   class: b
   category: root
   translation: 's: beb&eacute;; s (informal): hijo, hija'
-bebinanyen:
-  term: bebinanyen
-  class: b
-  category: derived
-  translation: 's: refugiado'
 beeskolyen:
   term: beeskolyen
   class: b
@@ -4681,7 +4676,7 @@ bimaryendom:
   translation: 's: hospital'
 binan:
   term: binan
-  class: b.oj
+  class: b.nenoj
   category: root
   translation: refugio (<em>acci&oacute;n</em>); refugiar, albergar
 binandom:
@@ -4689,6 +4684,16 @@ binandom:
   class: b
   category: derived
   translation: 's: asilo, refugio'
+binangi:
+  term: binangi
+  class: b.oj
+  category: derived
+  translation: ""
+binanyen:
+  term: binanyen
+  class: b
+  category: derived
+  translation: 's: refugiado'
 binde:
   term: binde
   class: b.oj
@@ -10103,6 +10108,11 @@ durwatuli:
   class: t
   category: derived
   translation: temporal (<em>que dura por alg&uacute;n tiempo</em>); temporalmente
+durya:
+  term: durya
+  class: b.oj
+  category: derived
+  translation: ""
 duryan:
   term: duryan
   class: b
@@ -11685,6 +11695,11 @@ estudiyen:
   class: b
   category: derived
   translation: 's: estudiante'
+estuf:
+  term: estuf
+  class: b
+  category: root
+  translation: ""
 estulu:
   term: estulu
   class: b
@@ -16639,11 +16654,6 @@ harxaf:
   class: b
   category: root
   translation: 's: escama'
-harya:
-  term: harya
-  class: b.oj
-  category: derived
-  translation: tener, contar con
 hasan:
   term: Hasan
   class: su n
@@ -31571,8 +31581,8 @@ ofcare:
 ofcen:
   term: ofcen
   class: b
-  category: derived
-  translation: 's: cent&eacute;simo, por ciento, porcentaje'
+  category: phrase
+  translation: 's: cent&eacute;simo'
 ofcori:
   term: ofcori
   class: b.oj
@@ -37719,11 +37729,6 @@ sen_fol:
   class: jm
   category: phrase
   translation: ""
-sen_har:
-  term: sen har
-  class: jm
-  category: phrase
-  translation: ""
 sen_hoy:
   term: sen hoy
   class: jm
@@ -37816,11 +37821,6 @@ sen_wal:
   translation: ""
 sen_wey:
   term: sen wey
-  class: jm
-  category: phrase
-  translation: ""
-sen_yon:
-  term: sen yon
   class: jm
   category: phrase
   translation: ""
@@ -45401,11 +45401,6 @@ yonigi:
   class: b.oj
   category: derived
   translation: ionizaci&oacute;n; ionizar
-yonya:
-  term: yonya
-  class: b.oj
-  category: derived
-  translation: hacerse mediante
 yonyo:
   term: Yonyo
   class: su n

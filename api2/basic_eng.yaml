@@ -18,8 +18,7 @@
   term: -cu
   class: b.nenoj xfik
   category: affix
-  translation: 'n/v.intr sfx: <em>intransitive verb marker</em>, become, get, turn
-    (into)'
+  translation: 'v.intr sfx: <em>intransitive verb marker</em>, become, get, turn (into)'
 -day:
   term: -day
   class: t xfik
@@ -39,7 +38,7 @@
   term: -dom
   class: b xfik
   category: affix
-  translation: 'n sfx: building, facility, room, place, site (<em>with specific purpose</em>)'
+  translation: 'n sfx: building, facility, room, place'
 -fil:
   term: -fil
   class: t xfik
@@ -54,7 +53,7 @@
   term: -gi
   class: b.oj xfik
   category: affix
-  translation: 'n/v.tr sfx: <em>causative/transitive marker</em>, make, cause to (be),
+  translation: 'v.tr sfx: <em>causative/transitive marker</em>, make, cause to (be),
     turn (into)'
 -gon:
   term: -gon
@@ -70,7 +69,7 @@
   term: -ista
   class: b xfik
   category: affix
-  translation: 'n sfx: -ist'
+  translation: 'n sfx: -ist (<em>counterpart to -ism</em>)'
 -je:
   term: -je
   class: b xfik
@@ -85,7 +84,7 @@
   term: -kef
   class: b xfik
   category: affix
-  translation: 'n sfx: chief, head (<em>leader</em>), boss, lead (<em>leader</em>),
+  translation: 'n sfx: chief, boss, head (<em>leader</em>), lead (<em>leader</em>),
     master'
 -li:
   term: -li
@@ -168,7 +167,7 @@
   term: -yen
   class: b xfik
   category: affix
-  translation: 'n sfx: being (<em>any animate being</em>), personified object'
+  translation: 'n sfx: being (<em>any life form</em>), personified object'
 -yum:
   term: -yum
   class: t xfik
@@ -4229,11 +4228,6 @@ bebe:
   class: b
   category: root
   translation: 'n: baby; n: child (<em>informal for daughter, son</em>)'
-bebinanyen:
-  term: bebinanyen
-  class: b
-  category: derived
-  translation: 'n: refugee'
 beeskolyen:
   term: beeskolyen
   class: b
@@ -4714,14 +4708,24 @@ bimaryendom:
   translation: 'n: hospital'
 binan:
   term: binan
-  class: b.oj
+  class: b.nenoj
   category: root
-  translation: 'n: refuge, shelter; v.tr: give refuge, shelter'
+  translation: 'n (act of): refuge, shelter; v.tr: take refuge, seek refuge, shelter'
 binandom:
   term: binandom
   class: b
   category: derived
-  translation: 'n: asylum, refuge'
+  translation: 'n: asylum, refuge, shelter'
+binangi:
+  term: binangi
+  class: b.oj
+  category: derived
+  translation: 'n: sheltering; v.tr: give refuge, shelter'
+binanyen:
+  term: binanyen
+  class: b
+  category: derived
+  translation: 'n: refugee'
 binde:
   term: binde
   class: b.oj
@@ -5386,7 +5390,7 @@ brawse:
   term: brawse
   class: b.oj
   category: root
-  translation: 'v.tr: browse (<em>internet</em>)'
+  translation: 'n: browsing; v.tr: browse (<em>internet</em>)'
 brawsetul:
   term: brawsetul
   class: b
@@ -7038,7 +7042,7 @@ cote:
   term: cote
   class: t
   category: root
-  translation: 'adj: short, low; adv: low'
+  translation: 'adj: short (<em>opp of tall, high</em>), low; adv: low'
 cotebahari:
   term: cotebahari
   class: b
@@ -10097,7 +10101,7 @@ dur_nunya:
   term: dur nunya
   class: p jm
   category: phrase
-  translation: 'prep phrase: for now, for the moment, for the present, for the time
+  translation: 'prep phrs: for now, for the moment, for the present, for the time
     being'
 dur_total:
   term: dur total
@@ -10151,6 +10155,11 @@ durwatuli:
   class: t
   category: derived
   translation: 'adj: temporary; adv: temporarily'
+durya:
+  term: durya
+  class: b.oj
+  category: derived
+  translation: 'v.tr: be during'
 duryan:
   term: duryan
   class: b
@@ -11739,6 +11748,11 @@ estudiyen:
   class: b
   category: derived
   translation: 'n: student'
+estuf:
+  term: estuf
+  class: b
+  category: root
+  translation: stew; stew
 estulu:
   term: estulu
   class: b
@@ -12876,7 +12890,7 @@ fe_ledin:
   term: (fe) ledin
   class: p jm
   category: phrase
-  translation: 'prep phrase: yesterday, in the past, days gone by'
+  translation: 'prep phrs: yesterday, in the past, days gone by'
 fe_leya:
   term: fe leya
   class: p jm
@@ -13116,8 +13130,8 @@ fe_xadin:
   term: (fe) xadin
   class: p jm
   category: phrase
-  translation: 'prep phrase: someday, another day, tomorrow, later (on), sometime
-    in the future'
+  translation: 'prep phrs: someday, another day, tomorrow, later (on), sometime in
+    the future'
 fe_xarti_ki:
   term: fe xarti ki
   class: l
@@ -16703,11 +16717,6 @@ harxaf:
   class: b
   category: root
   translation: 'n: scale (<em>of fish, reptile</em>)'
-harya:
-  term: harya
-  class: b.oj
-  category: derived
-  translation: 'v.tr: be with (<em>having</em>)'
 hasan:
   term: Hasan
   class: su n
@@ -24179,7 +24188,7 @@ kurto:
   term: kurto
   class: t
   category: root
-  translation: 'adj: short, brief; adv: briefly'
+  translation: 'adj: short (<em>opp of long</em>), brief; adv: briefly'
 kurto_watu:
   term: kurto watu
   class: b
@@ -31662,8 +31671,8 @@ ofcare:
 ofcen:
   term: ofcen
   class: b
-  category: derived
-  translation: 'n: one-hundredth, percent, percentage'
+  category: phrase
+  translation: 'n: (one) hundredth'
 ofcori:
   term: ofcori
   class: b.oj
@@ -37830,11 +37839,6 @@ sen_fol:
   class: jm
   category: phrase
   translation: 'cop plus prep: be along, be alongside (of), be by, be according to'
-sen_har:
-  term: sen har
-  class: jm
-  category: phrase
-  translation: 'cop plus prep: be with, come with'
 sen_hoy:
   term: sen hoy
   class: jm
@@ -37930,11 +37934,6 @@ sen_wey:
   class: jm
   category: phrase
   translation: 'cop plus prep: be around'
-sen_yon:
-  term: sen yon
-  class: jm
-  category: phrase
-  translation: 'cop plus prep: be done with, be done by means of'
 senaryo:
   term: senaryo
   class: b
@@ -45542,11 +45541,6 @@ yonigi:
   category: derived
   translation: 'n: ionization, ionisation; v.tr: ionize (<em>cause to become an ion</em>),
     ionise'
-yonya:
-  term: yonya
-  class: b.oj
-  category: derived
-  translation: 'v.tr: be done with, be done by means of'
 yonyo:
   term: Yonyo
   class: su n
