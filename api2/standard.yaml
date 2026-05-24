@@ -471,13 +471,12 @@
   category: affix
   trans:
     eng:
-    - - 'v.tr sfx: <em>causative/transitive marker</em>'
-      - make
+    - - 'v.tr sfx (causative/transitive marker): make'
       - cause to (be)
       - turn (into)
     epo:
-    - - 's/v.tr sfk: -igo'
-      - -igi (<em>kaŭza, transitiva markilo</em>)
+    - - 's sfk (kaŭza, transitiva markilo): -igo'
+    - - 'v.tr sfk (kaŭza, transitiva markilo): -igi'
     spa:
     - - -izar (<em>marcador causativo o transitivo</em>)
       - -ificar
@@ -495,15 +494,15 @@
     ara: []
   trans_v2:
     eng:
-      v.tr sfx:
-      - <em>causative/transitive marker</em>
+      v.tr sfx (causative/transitive marker):
       - make
       - cause to (be)
       - turn (into)
     epo:
-      s/v.tr sfk:
+      s sfk (kaŭza, transitiva markilo):
       - -igo
-      - -igi (<em>kaŭza, transitiva markilo</em>)
+      v.tr sfk (kaŭza, transitiva markilo):
+      - -igi
     spa:
       "":
       - -izar (<em>marcador causativo o transitivo</em>)
@@ -7513,9 +7512,8 @@ aham:
     epo:
     - - 's: kompreno'
     - - 'v.tr: kompreni'
-    - - 'interj: aha'
-      - klare
-      - komprenite
+    - - 'interj: komprenite'
+      - mi komprenas
     spa:
     - - entendimiento
       - comprensión
@@ -7553,9 +7551,8 @@ aham:
       v.tr:
       - kompreni
       interj:
-      - aha
-      - klare
       - komprenite
+      - mi komprenas
     spa:
       noun:
       - entendimiento
@@ -12867,6 +12864,7 @@ aloforma:
     epo:
     - - 's: transformo'
       - aliformigo
+      - aliformiĝo
     - - 'v.tr: transformi'
       - aliformigi
     - - 'v.ntr (opcia uzo de -cu): transformiĝi'
@@ -12896,6 +12894,7 @@ aloforma:
       s:
       - transformo
       - aliformigo
+      - aliformiĝo
       v.tr:
       - transformi
       - aliformigi
@@ -54086,12 +54085,12 @@ binan:
     eng:
     - - 'n (act of): refuge'
       - shelter
-    - - 'v.tr: take refuge'
+    - - 'v.intr: take refuge'
       - seek refuge
       - shelter
     epo:
     - - 's: rifuĝo'
-    - - 'v.tr: rifuĝi'
+    - - 'v.ntr: rifuĝi'
     spa:
     - - refugio (<em>acción</em>)
     - - refugiar
@@ -54107,14 +54106,14 @@ binan:
       n (act of):
       - refuge
       - shelter
-      v.tr:
+      v.intr:
       - take refuge
       - seek refuge
       - shelter
     epo:
       s:
       - rifuĝo
-      v.tr:
+      v.ntr:
       - rifuĝi
     spa:
       noun:
@@ -59421,7 +59420,7 @@ bonjiwa:
     epo:
     - - 's: bonfarto'
     - - 'v.tr: bonfarti'
-    - - 'interj: bonvenon (<em>post longa foresto</em>)'
+    - - 'interj: saluton (<em>post longa foresto</em>)'
     spa:
     - - bienestar
       - calidad de vida
@@ -59447,7 +59446,7 @@ bonjiwa:
       v.tr:
       - bonfarti
       interj:
-      - bonvenon (<em>post longa foresto</em>)
+      - saluton (<em>post longa foresto</em>)
     spa:
       noun:
       - bienestar
@@ -76441,7 +76440,7 @@ ciber-:
 ciberbiskiti:
   term: ciberbiskiti
   word class: b
-  category: root
+  category: derived
   trans:
     eng:
     - - 'n: HTTP cookie'
@@ -96559,12 +96558,12 @@ delezacalyo:
   category: derived
   trans:
     eng:
-    - - sled
+    - - 'n: sled'
       - sleigh
       - sledge
       - toboggan
     epo:
-    - - glitveturilo
+    - - 's: glitveturilo'
       - sledo
     spa:
     - - trineo
@@ -96576,13 +96575,13 @@ delezacalyo:
     ara: []
   trans_v2:
     eng:
-      "":
+      "n":
       - sled
       - sleigh
       - sledge
       - toboggan
     epo:
-      "":
+      s:
       - glitveturilo
       - sledo
     spa:
@@ -96599,6 +96598,10 @@ delezacalyo:
     - deleza
     - +
     - calyo
+    natlang similar:
+      Arabisa: مَزْلَقَة &ldquo;mazlaka&rdquo;
+      Indonesisa: kereta luncur
+      Vyetnamsa: xe trượt tuyết
 deli:
   term: deli
   word class: t
@@ -103704,11 +103707,8 @@ diskrimina:
     - - 'v.intr: discriminate'
     epo:
     - - 's: diskriminacio'
-      - diskrimino
     - - 'v.tr: diskriminacii'
-      - diskrimini
     - - 'v.ntr: diskriminacii'
-      - diskrimini
     spa:
     - - discriminación
     - - discriminar
@@ -103729,13 +103729,10 @@ diskrimina:
     epo:
       s:
       - diskriminacio
-      - diskrimino
       v.tr:
       - diskriminacii
-      - diskrimini
       v.ntr:
       - diskriminacii
-      - diskrimini
     spa:
       noun:
       - discriminación
@@ -112275,7 +112272,7 @@ ducane:
 ducibermahi:
   term: ducibermahi
   word class: b
-  category: root
+  category: derived
   trans:
     eng:
     - - 'n: phishing'
@@ -133572,6 +133569,53 @@ estoka:
       Indonesisa: stok
       Swahilisa: stoa
       Turkisa: stok
+estokadom:
+  term: estokadom
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: warehouse'
+      - depot
+      - depository
+      - repository
+    epo:
+    - - 's: stokejo'
+      - deponejo
+      - tenejo
+      - magazeno
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - warehouse
+      - depot
+      - depository
+      - repository
+    epo:
+      s:
+      - stokejo
+      - deponejo
+      - tenejo
+      - magazeno
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - estoka
+    - +
+    - -dom
 estomotsufono:
   term: estomotsufono
   word class: b
@@ -134821,7 +134865,7 @@ estudiyen:
     - -yen
 estuf:
   term: estuf
-  word class: b
+  word class: ""
   category: root
   trans:
     eng:
@@ -134830,11 +134874,15 @@ estuf:
     epo:
     - - estufaĵo
     - - estufi
-    spa: []
+    spa:
+    - - estofado
+    - - estofar
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 炖菜
+    - - 炖
     hin: []
     ara: []
   trans_v2:
@@ -134848,11 +134896,19 @@ estuf:
       - estufaĵo
       verb:
       - estufi
-    spa: []
+    spa:
+      noun:
+      - estofado
+      verb:
+      - estofar
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      noun:
+      - 炖菜
+      verb:
+      - 炖
     hin: []
     ara: []
   etymology:
@@ -149455,7 +149511,7 @@ feka:
     epo:
     - - 's: feko'
     - - 'v.tr: feki'
-    - - 'interj: fek!'
+    - - 'interj: fek'
     spa:
     - - heces (<em>clínico</em>)
       - excremento
@@ -149484,7 +149540,7 @@ feka:
       v.tr:
       - feki
       interj:
-      - fek!
+      - fek
     spa:
       noun:
       - heces (<em>clínico</em>)
@@ -169455,8 +169511,8 @@ ganxopu:
     epo:
     - - 's: interfero'
       - interveno
-    - - 'v.tr: interferi'
-      - interveni
+    - - 'v.tr: interferi en'
+      - interveni en
     - - 'v.ntr: interferi'
       - interveni
     spa:
@@ -169487,8 +169543,8 @@ ganxopu:
       - interfero
       - interveno
       v.tr:
-      - interferi
-      - interveni
+      - interferi en
+      - interveni en
       v.ntr:
       - interferi
       - interveni
@@ -186774,8 +186830,10 @@ haleluya:
     - - 哈利路亚
       - 阿利路亚
       - 阿肋路亚
-    hin: []
-    ara: []
+    hin:
+    - - हलिलुय
+    ara:
+    - - هَلِّلُويَا، هَلُولِيَا
   trans_v2:
     eng:
       "n":
@@ -186802,8 +186860,12 @@ haleluya:
       - 哈利路亚
       - 阿利路亚
       - 阿肋路亚
-    hin: []
-    ara: []
+    hin:
+      "":
+      - हलिलुय
+    ara:
+      "":
+      - هَلِّلُويَا، هَلُولِيَا
   etymology:
     natlang:
       Arabisa: هَلِّلُويَا &ldquo;halliluya&rdquo;, هَلُولِيَا &ldquo;haluliya&rdquo;
@@ -191852,8 +191914,10 @@ hawakontamina:
     zho:
     - - 空氣污染
       - 空污
-    hin: []
-    ara: []
+    hin:
+    - - वायु प्रदूषण
+    ara:
+    - - تلوث الهواء
   trans_v2:
     eng:
       "n":
@@ -191878,8 +191942,12 @@ hawakontamina:
       "":
       - 空氣污染
       - 空污
-    hin: []
-    ara: []
+    hin:
+      "":
+      - वायु प्रदूषण
+    ara:
+      "":
+      - تلوث الهواء
   etymology:
     derived:
     - hawa
@@ -192419,7 +192487,8 @@ hayasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 亚美尼亚语
     hin: []
     ara: []
   trans_v2:
@@ -192435,7 +192504,9 @@ hayasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 亚美尼亚语
     hin: []
     ara: []
   etymology:
@@ -192457,7 +192528,8 @@ hayayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 亚美尼亚人
     hin: []
     ara: []
   trans_v2:
@@ -192473,7 +192545,9 @@ hayayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 亚美尼亚人
     hin: []
     ara: []
   etymology:
@@ -262666,6 +262740,9 @@ komenta:
       Espanisa: comentario
       Fransesa: commentaire
       Indonesisa: komentar
+      Koreasa: 코멘트 &ldquo;komentu&rdquo;
+      Niponsa: コメント &ldquo;komento&rdquo;
+      Parsisa: کامنت &ldquo;k&acirc;ment&rdquo;
       Pilipinasa: komentaryo
       Rusisa: комментарий &ldquo;kommentariy&rdquo;
 komiki:
@@ -266571,6 +266648,7 @@ kontato:
       Espanisa: contacto
       Fransesa: contact
       Indonesisa: kontak
+      Niponsa: コンタクト &ldquo;kontakuto&rdquo;
       Pilipinasa: kontak
       Rusisa: контакт &ldquo;kontakt&rdquo;
       Turkisa: kontak
@@ -268729,9 +268807,13 @@ kosa:
     ara: []
   etymology:
     natlang:
-      Englisa: cause
+      Doycisa: kausal
+      Englisa: cause, causal
       Espanisa: causa
       Fransesa: cause
+      Indonesisa: kausa
+      Pilipinasa: kawsa
+      Rusisa: каузальный &ldquo;kauzalniy&rdquo;
 kosamon:
   term: kosamon
   word class: b
@@ -280700,6 +280782,8 @@ label:
       - marki
     spa:
     - - etiqueta
+      - marbete
+      - pestaña (de navegador)
     - - etiquetar
     deu: []
     fra: []
@@ -280728,6 +280812,8 @@ label:
     spa:
       noun:
       - etiqueta
+      - marbete
+      - pestaña (de navegador)
       verb:
       - etiquetar
     deu: []
@@ -281153,7 +281239,9 @@ lafuzu:
     - - произносить
     zho:
     - - 发音
-    hin: []
+    hin:
+    - - उच्चारण
+    - - उच्चारण करना
     ara: []
   trans_v2:
     eng:
@@ -281191,7 +281279,11 @@ lafuzu:
     zho:
       "":
       - 发音
-    hin: []
+    hin:
+      noun:
+      - उच्चारण
+      verb:
+      - उच्चारण करना
     ara: []
   etymology:
     natlang:
@@ -291789,8 +291881,9 @@ lileksame:
     - - 'v.tr: quiz'
     epo:
     - - 's: ekzameneto'
-      - kvizo
+      - testeto
     - - 'v.tr: ekzameneti'
+      - testeti
     spa:
     - - examen
       - prueba
@@ -291811,9 +291904,10 @@ lileksame:
     epo:
       s:
       - ekzameneto
-      - kvizo
+      - testeto
       v.tr:
       - ekzameneti
+      - testeti
     spa:
       noun:
       - examen
@@ -306129,9 +306223,8 @@ malxengi:
     - - 'n: miscarriage'
     - - 'v.tr: miscarry'
     epo:
-    - - 's: aborto'
-    - - 'v.tr: aborti'
-      - spontane aborti
+    - - 's: (spontana) aborto'
+    - - 'v.tr: (spontane) aborti'
     spa:
     - - aborto
     - - abortar
@@ -306149,10 +306242,9 @@ malxengi:
       - miscarry
     epo:
       s:
-      - aborto
+      - (spontana) aborto
       v.tr:
-      - aborti
-      - spontane aborti
+      - (spontane) aborti
     spa:
       noun:
       - aborto
@@ -313413,12 +313505,7 @@ masturba:
     - - 'v.tr: masturbate'
     epo:
     - - 's: masturbado'
-      - sinmasturbado
-      - memmasturbado
     - - 'v.tr: masturbi'
-      - memmasturbi
-      - sinmasturbi
-      - onani
     spa: []
     deu: []
     fra: []
@@ -313435,13 +313522,8 @@ masturba:
     epo:
       s:
       - masturbado
-      - sinmasturbado
-      - memmasturbado
       v.tr:
       - masturbi
-      - memmasturbi
-      - sinmasturbi
-      - onani
     spa: []
     deu: []
     fra: []
@@ -314468,8 +314550,7 @@ matu:
       - checkmate
     epo:
     - - 's: mato'
-    - - 'v.tr: mati'
-      - matigi
+    - - 'v.tr: matigi'
     - - 'interj: ŝakmat'
     spa:
     - - jaque mate
@@ -314497,7 +314578,6 @@ matu:
       s:
       - mato
       v.tr:
-      - mati
       - matigi
       interj:
       - ŝakmat
@@ -332419,11 +332499,9 @@ mogoki:
     - - 'n: witnessing'
     - - 'v.tr: witness (<em>be witness to</em>)'
     epo:
-    - - 's: atestado'
-      - okulvido
-    - - 'v.tr: atesti'
-      - okulvidi
-      - vidi (okazon)
+    - - 's: okulvido'
+    - - 'v.tr: okulvidi'
+      - vidi (<em>okazon</em>)
     spa:
     - - presenciar
       - observar
@@ -332442,12 +332520,10 @@ mogoki:
       - witness (<em>be witness to</em>)
     epo:
       s:
-      - atestado
       - okulvido
       v.tr:
-      - atesti
       - okulvidi
-      - vidi (okazon)
+      - vidi (<em>okazon</em>)
     spa:
       "":
       - presenciar
@@ -363033,11 +363109,9 @@ ofidi:
     - - 's: deveturiĝo'
       - deseliĝo
       - eliro
-      - descendo
-    - - 'v.tr: deveturiĝi'
-      - deseliĝi
+    - - 'v.tr: deveturiĝi (el)'
+      - deseliĝi (el)
       - eliri (el)
-      - descendi
     spa: []
     deu: []
     fra: []
@@ -363057,12 +363131,10 @@ ofidi:
       - deveturiĝo
       - deseliĝo
       - eliro
-      - descendo
       v.tr:
-      - deveturiĝi
-      - deseliĝi
+      - deveturiĝi (el)
+      - deseliĝi (el)
       - eliri (el)
-      - descendi
     spa: []
     deu: []
     fra: []
@@ -363821,7 +363893,6 @@ ofya:
     eng:
     - - 'v.tr: be from'
     epo:
-    - - 's: deveno'
     - - 'v.tr: esti de'
     spa:
     - - ser de
@@ -363836,8 +363907,6 @@ ofya:
       v.tr:
       - be from
     epo:
-      s:
-      - deveno
       v.tr:
       - esti de
     spa:
@@ -363941,11 +364010,9 @@ ogar:
     epo:
     - - 's: hejmo'
       - loĝejo
-    - - 'v.tr: loĝi'
-      - enloĝi
+    - - 'v.tr: loĝi en'
     - - 'v.ntr: loĝi'
       - rezidi
-      - vivi
     spa:
     - - hogar
       - residencia
@@ -363975,12 +364042,10 @@ ogar:
       - hejmo
       - loĝejo
       v.tr:
-      - loĝi
-      - enloĝi
+      - loĝi en
       v.ntr:
       - loĝi
       - rezidi
-      - vivi
     spa:
       noun:
       - hogar
@@ -364894,7 +364959,6 @@ oko:
     - - 's: okulo'
     - - 'v.tr: vidi'
       - rigardi
-      - observi
       - spekti
     spa:
     - - ojo
@@ -364922,7 +364986,6 @@ oko:
       v.tr:
       - vidi
       - rigardi
-      - observi
       - spekti
     spa:
       noun:
@@ -378956,6 +379019,8 @@ pasivogi:
     epo:
     - - 's: malaktivigo'
       - deaktivigo
+      - pasivigo
+      - malŝalto
     - - 'v.tr: malaktivigi'
       - deaktivigi
       - pasivigi
@@ -378987,6 +379052,8 @@ pasivogi:
       s:
       - malaktivigo
       - deaktivigo
+      - pasivigo
+      - malŝalto
       v.tr:
       - malaktivigi
       - deaktivigi
@@ -379308,9 +379375,7 @@ pasya:
     eng:
     - - 'v.tr: be through'
     epo:
-    - - 's: trairo'
-    - - 'v.tr: esti trae'
-      - trairi
+    - - 'v.tr: esti tra'
     spa:
     - - estar a través
     deu: []
@@ -379324,11 +379389,8 @@ pasya:
       v.tr:
       - be through
     epo:
-      s:
-      - trairo
       v.tr:
-      - esti trae
-      - trairi
+      - esti tra
     spa:
       "":
       - estar a través
@@ -388803,7 +388865,7 @@ pipi:
       - pee
       - wee
     epo:
-    - - 's: pisado'
+    - - 's: piso'
     - - 'v.tr: pisi'
     spa:
     - - orina (<em>no clínico</em>)
@@ -388827,7 +388889,7 @@ pipi:
       - wee
     epo:
       s:
-      - pisado
+      - piso
       v.tr:
       - pisi
     spa:
@@ -391082,7 +391144,7 @@ pleygi:
     - - 'v.tr: play (<em>video, music, button</em>)'
     epo:
     - - 's: ludado'
-    - - 'v.tr: ludi'
+    - - 'v.tr: ludi (<em>muzikon, filmon</em>)'
     spa: []
     deu: []
     fra: []
@@ -391100,7 +391162,7 @@ pleygi:
       s:
       - ludado
       v.tr:
-      - ludi
+      - ludi (<em>muzikon, filmon</em>)
     spa: []
     deu: []
     fra: []
@@ -395181,9 +395243,7 @@ porya:
     eng:
     - - 'v.tr: be in exchange for'
     epo:
-    - - 's: interŝanĝo'
-    - - 'v.tr: interŝanĝiĝi por'
-      - esti interŝanĝata por
+    - - 'v.tr: esti (interŝanĝata) por'
     spa:
     - - ser en intercambio por
     deu: []
@@ -395197,11 +395257,8 @@ porya:
       v.tr:
       - be in exchange for
     epo:
-      s:
-      - interŝanĝo
       v.tr:
-      - interŝanĝiĝi por
-      - esti interŝanĝata por
+      - esti (interŝanĝata) por
     spa:
       "":
       - ser en intercambio por
@@ -396228,10 +396285,8 @@ poscane:
     eng:
     - - 'v.tr: dishevel'
     epo:
-    - - 's: malordigo'
-      - malkombo
-    - - 'v.tr: malordigi (harojn)'
-      - malkombi
+    - - 's: malkombo'
+    - - 'v.tr: malkombi'
     spa:
     - - despeinar
       - desaliñar
@@ -396247,10 +396302,8 @@ poscane:
       - dishevel
     epo:
       s:
-      - malordigo
       - malkombo
       v.tr:
-      - malordigi (harojn)
       - malkombi
     spa:
       "":
@@ -396586,7 +396639,7 @@ posehtiramfil:
     - -fil
 posenfeksi:
   term: posenfeksi
-  word class: b.oj
+  word class: b.oro
   category: derived
   trans:
     eng:
@@ -396604,7 +396657,7 @@ posenfeksi:
     - - 'v.tr: desinfekti'
       - malinfekti
       - seninfektigi
-    - - 'v.ntr: desinfektiĝi'
+    - - 'v.ntr (opcia uzo de -cu): desinfektiĝi'
       - malinfektiĝi
       - seninfektiĝi
     spa:
@@ -396644,7 +396697,7 @@ posenfeksi:
       - desinfekti
       - malinfekti
       - seninfektigi
-      v.ntr:
+      v.ntr (opcia uzo de -cu):
       - desinfektiĝi
       - malinfektiĝi
       - seninfektiĝi
@@ -414716,7 +414769,6 @@ rol:
     - - 's: rolo'
     - - 'v.tr: roli'
     - - 'v.ntr: partopreni'
-      - preni parton
     spa:
     - - papel
       - rol
@@ -414748,7 +414800,6 @@ rol:
       - roli
       v.ntr:
       - partopreni
-      - preni parton
     spa:
       noun:
       - papel
@@ -418144,6 +418195,7 @@ ruoko:
     - - 'v.tr: look back'
     epo:
     - - 's: rerigardo'
+      - malantaŭa regardo
     - - 'v.tr: rerigardi'
       - rigardi malantaŭen
     spa:
@@ -418161,6 +418213,7 @@ ruoko:
     epo:
       s:
       - rerigardo
+      - malantaŭa regardo
       v.tr:
       - rerigardi
       - rigardi malantaŭen
@@ -419683,7 +419736,7 @@ sabike:
     - - 's: vetkuro'
       - kurkonkurso
     - - 'v.tr: vetkuri'
-      - konkursi
+      - kurkonkursi
     spa:
     - - carrera (<em>competencia</em>)
     - - competir en una carrera (contra)
@@ -419705,7 +419758,7 @@ sabike:
       - kurkonkurso
       v.tr:
       - vetkuri
-      - konkursi
+      - kurkonkursi
     spa:
       noun:
       - carrera (<em>competencia</em>)
@@ -419839,7 +419892,6 @@ sabun:
     epo:
     - - 's: sapo'
     - - 'v.tr: sapumi'
-      - ŝaŭmigi sapon
     spa:
     - - jabón
     - - enjabonar
@@ -419861,7 +419913,6 @@ sabun:
       - sapo
       v.tr:
       - sapumi
-      - ŝaŭmigi sapon
     spa:
       noun:
       - jabón
@@ -425490,13 +425541,12 @@ sanduku:
   trans:
     eng:
     - - 'n: box'
-    - - 'v.tr: box'
+    - - 'v.tr: box (<em>put into box</em>)'
     epo:
     - - 's: skatolo'
       - kofro
       - kesto
     - - 'v.tr: enskatoligi'
-      - boksi
     spa:
     - - caja
     deu: []
@@ -425510,7 +425560,7 @@ sanduku:
       "n":
       - box
       v.tr:
-      - box
+      - box (<em>put into box</em>)
     epo:
       s:
       - skatolo
@@ -425518,7 +425568,6 @@ sanduku:
       - kesto
       v.tr:
       - enskatoligi
-      - boksi
     spa:
       "":
       - caja
@@ -430424,7 +430473,8 @@ sekso:
       - mate
     epo:
     - - 's: seksumo'
-    - - 'v.tr: seksumi (kun)'
+    - - 'v.tr: seksumi kun'
+      - kopulacii kun
     - - 'v.ntr: seksumi'
       - kopulacii
     spa:
@@ -430453,7 +430503,8 @@ sekso:
       s:
       - seksumo
       v.tr:
-      - seksumi (kun)
+      - seksumi kun
+      - kopulacii kun
       v.ntr:
       - seksumi
       - kopulacii
@@ -436755,9 +436806,7 @@ sidegi:
       - seat
     epo:
     - - 's: sidigo'
-      - surseĝigo
     - - 'v.tr: sidigi'
-      - surseĝigi
     spa:
     - - sentar
     deu: []
@@ -436774,10 +436823,8 @@ sidegi:
     epo:
       s:
       - sidigo
-      - surseĝigo
       v.tr:
       - sidigi
-      - surseĝigi
     spa:
       "":
       - sentar
@@ -442208,6 +442255,7 @@ siya:
       - say yes (to)
     epo:
     - - 's: aprobo'
+      - jeso
     - - 'v.tr: aprobi'
       - diri jes (al)
       - jesi
@@ -442230,6 +442278,7 @@ siya:
     epo:
       s:
       - aprobo
+      - jeso
       v.tr:
       - aprobi
       - diri jes (al)
@@ -448084,8 +448133,9 @@ suferi:
     - - 'v.tr: suffer from'
     - - 'v.intr: suffer'
     epo:
-    - - 's: suferado'
-    - - 'v.tr: suferi (de)'
+    - - 's: sufero'
+      - suferado
+    - - 'v.tr: suferi je'
     - - 'v.ntr: suferi'
     spa:
     - - sufrimiento
@@ -448106,9 +448156,10 @@ suferi:
       - suffer
     epo:
       s:
+      - sufero
       - suferado
       v.tr:
-      - suferi (de)
+      - suferi je
       v.ntr:
       - suferi
     spa:
@@ -449318,7 +449369,6 @@ sukigi:
       - ŝatigo
     - - 'v.tr: plaĉi'
       - ŝatigi
-      - alloga esti
     spa:
     - - complacer
       - satisfacer
@@ -449344,7 +449394,6 @@ sukigi:
       v.tr:
       - plaĉi
       - ŝatigi
-      - alloga esti
     spa:
       "":
       - complacer
@@ -451483,10 +451532,8 @@ supragi:
     epo:
     - - 's: levo'
       - suprenmeto
-      - alteno
     - - 'v.tr: levi'
-      - meti supren
-      - alteni
+      - suprenmeti
     spa:
     - - levantamiento
     - - levantar
@@ -451509,11 +451556,9 @@ supragi:
       s:
       - levo
       - suprenmeto
-      - alteno
       v.tr:
       - levi
-      - meti supren
-      - alteni
+      - suprenmeti
     spa:
       noun:
       - levantamiento
@@ -461728,10 +461773,7 @@ tasya:
     eng:
     - - 'v.tr: is for'
     epo:
-    - - 's: celo'
-      - destino
-    - - 'v.tr: esti al'
-      - esti destinita por
+    - - 'v.tr: esti por (<em>ricevanto</em>)'
     spa:
     - - ser para (<em>receptor</em>)
     deu: []
@@ -461745,12 +461787,8 @@ tasya:
       v.tr:
       - is for
     epo:
-      s:
-      - celo
-      - destino
       v.tr:
-      - esti al
-      - esti destinita por
+      - esti por (<em>ricevanto</em>)
     spa:
       "":
       - ser para (<em>receptor</em>)
@@ -465783,7 +465821,6 @@ temfikir:
     epo:
     - - 's: pripenso'
     - - 'v.tr: pripensi'
-      - mediti pri
     spa:
     - - pensar (en)
       - reflexionar (sobre)
@@ -465802,7 +465839,6 @@ temfikir:
       - pripenso
       v.tr:
       - pripensi
-      - mediti pri
     spa:
       "":
       - pensar (en)
@@ -466019,7 +466055,6 @@ temya:
     - - 'v.tr: be about'
       - be regarding
     epo:
-    - - 's: temo'
     - - 'v.tr: temi pri'
     spa:
     - - ser acerca
@@ -466038,8 +466073,6 @@ temya:
       - be about
       - be regarding
     epo:
-      s:
-      - temo
       v.tr:
       - temi pri
     spa:
@@ -472887,7 +472920,7 @@ toka:
     epo:
     - - 's: frapeto'
       - frapsono
-    - - 'v.tr: frapi'
+    - - 'v.tr: frapi (<em>pordon, ktp</em>)'
     spa:
     - - golpe (<em>en la puerta</em>)
       - llamada
@@ -472912,7 +472945,7 @@ toka:
       - frapeto
       - frapsono
       v.tr:
-      - frapi
+      - frapi (<em>pordon, ktp</em>)
     spa:
       noun:
       - golpe (<em>en la puerta</em>)
@@ -475033,7 +475066,7 @@ tonkarar:
     - - 'v.tr: agree (to)'
       - consent (to)
     epo:
-    - - 's: konsento'
+    - - 's: konsenti'
       - kundecido
       - interkonsento
     - - 'v.tr: konsenti'
@@ -475060,7 +475093,7 @@ tonkarar:
       - consent (to)
     epo:
       s:
-      - konsento
+      - konsenti
       - kundecido
       - interkonsento
       v.tr:
@@ -475422,9 +475455,7 @@ tonyongu:
     - - 'v.tr: share'
     epo:
     - - 's: kunuzo'
-      - kundivido
     - - 'v.tr: kunuzi'
-      - kundividi
     spa:
     - - compartición
     - - compartir (<em>usar en común</em>)
@@ -475441,10 +475472,8 @@ tonyongu:
     epo:
       s:
       - kunuzo
-      - kundivido
       v.tr:
       - kunuzi
-      - kundividi
     spa:
       noun:
       - compartición
@@ -478646,8 +478675,6 @@ trasya:
     - - 'v.tr: be across'
       - be on the other side (of)
     epo:
-    - - 's: transaĵo'
-      - alia flanko
     - - 'v.tr: esti trans'
       - esti je la alia flanko
     spa:
@@ -478665,9 +478692,6 @@ trasya:
       - be across
       - be on the other side (of)
     epo:
-      s:
-      - transaĵo
-      - alia flanko
       v.tr:
       - esti trans
       - esti je la alia flanko
@@ -482716,10 +482740,8 @@ turi:
     - - 'v.tr: travel in'
     - - 'v.intr: travel'
     epo:
-    - - 's: vizito'
-      - vojaĝo
-    - - 'v.tr: viziti'
-      - vojaĝi (en)
+    - - 's: vojaĝo'
+    - - 'v.tr: vojaĝi en'
     - - 'v.ntr: vojaĝi'
       - turismi
     spa:
@@ -482745,11 +482767,9 @@ turi:
       - travel
     epo:
       s:
-      - vizito
       - vojaĝo
       v.tr:
-      - viziti
-      - vojaĝi (en)
+      - vojaĝi en
       v.ntr:
       - vojaĝi
       - turismi
@@ -494814,7 +494834,6 @@ vyayamagi:
     eng:
     - - 'v.tr: (cause to) exercise (<em>physical movement</em>)'
     epo:
-    - - 's: (fizika) ekzerco'
     - - 'v.tr: (fizike) ekzerci'
     spa:
     - - ejercitar
@@ -494829,8 +494848,6 @@ vyayamagi:
       v.tr:
       - (cause to) exercise (<em>physical movement</em>)
     epo:
-      s:
-      - (fizika) ekzerco
       v.tr:
       - (fizike) ekzerci
     spa:
@@ -496499,7 +496516,11 @@ walki:
     zho: []
     hin: []
     ara: []
-  etymology: ""
+  etymology:
+    derived:
+    - wal-
+    - +
+    - ki
 walrus:
   term: walrus
   word class: b
@@ -496569,8 +496590,6 @@ walya:
     eng:
     - - 'v.tr: be without'
     epo:
-    - - 's: senesto'
-      - manko
     - - 'v.tr: esti sen'
     spa: []
     deu: []
@@ -496584,9 +496603,6 @@ walya:
       v.tr:
       - be without
     epo:
-      s:
-      - senesto
-      - manko
       v.tr:
       - esti sen
     spa: []
@@ -499627,6 +499643,98 @@ weygi:
     - wey
     - +
     - -gi
+weyhanta:
+  term: weyhanta
+  word class: ""
+  category: derived
+  trans:
+    eng:
+    - - handshake
+    - - shake hands
+    epo:
+    - - manpremo
+    - - manpremi
+    spa:
+    - - apretón de manos
+      - estrechamiento de manos
+      - estrechadura de manos
+    - - darse la mano
+      - estrecharse la mano
+      - apretarse la mano
+      - diñarse la mano
+    deu:
+    - - Händedruck
+    - - Hände schütteln
+    fra:
+    - - poignée de main
+    - - serrer la main
+    rus:
+    - - рукопожатие
+    - - пожимать руку
+    zho:
+    - - 握手
+    hin:
+    - - करमर्दन
+    - - हाथ मिलाना
+      - हाथ दबाना
+    ara:
+    - - مُصَافَحَة
+    - - صَافَحَ
+  trans_v2:
+    eng:
+      noun:
+      - handshake
+      verb:
+      - shake hands
+    epo:
+      noun:
+      - manpremo
+      verb:
+      - manpremi
+    spa:
+      noun:
+      - apretón de manos
+      - estrechamiento de manos
+      - estrechadura de manos
+      verb:
+      - darse la mano
+      - estrecharse la mano
+      - apretarse la mano
+      - diñarse la mano
+    deu:
+      noun:
+      - Händedruck
+      verb:
+      - Hände schütteln
+    fra:
+      noun:
+      - poignée de main
+      verb:
+      - serrer la main
+    rus:
+      noun:
+      - рукопожатие
+      verb:
+      - пожимать руку
+    zho:
+      "":
+      - 握手
+    hin:
+      noun:
+      - करमर्दन
+      verb:
+      - हाथ मिलाना
+      - हाथ दबाना
+    ara:
+      noun:
+      - مُصَافَحَة
+      verb:
+      - صَافَحَ
+  etymology:
+    derived:
+    - wey-
+    - +
+    - hanta
 weykumax:
   term: weykumax
   word class: b
@@ -499833,8 +499941,8 @@ weyya:
     - - 'v.tr: be around'
       - surround
     epo:
-    - - 's: ĉirkaŭo'
     - - 'v.tr: ĉirkaŭi'
+      - esti ĉirkaŭ
     spa:
     - - estar alrededor
       - rodear
@@ -499850,10 +499958,9 @@ weyya:
       - be around
       - surround
     epo:
-      s:
-      - ĉirkaŭo
       v.tr:
       - ĉirkaŭi
+      - esti ĉirkaŭ
     spa:
       "":
       - estar alrededor
@@ -500502,9 +500609,7 @@ woju:
     - - 'v.tr: hold (<em>in hands, etc.</em>)'
     epo:
     - - 's: teno'
-      - mantenado
     - - 'v.tr: teni'
-      - manteni
     spa:
     - - sostener
       - sujetar
@@ -500524,10 +500629,8 @@ woju:
     epo:
       s:
       - teno
-      - mantenado
       v.tr:
       - teni
-      - manteni
     spa:
       "":
       - sostener
@@ -500959,7 +501062,6 @@ xabahu:
     epo:
     - - 's: fantomo'
       - spirito
-      - spektro
     - - 'v.tr: hanti'
     spa:
     - - fantasma
@@ -500988,7 +501090,6 @@ xabahu:
       s:
       - fantomo
       - spirito
-      - spektro
       v.tr:
       - hanti
     spa:
@@ -502964,8 +503065,7 @@ xahu:
     - - 'interj: check'
     epo:
     - - 's: ŝako (<em>ludo aŭ situacio</em>)'
-    - - 'v.tr: ŝaki'
-      - ŝakigi
+    - - 'v.tr: ŝakigi'
     - - 'interj: ŝak'
       - ŝakon
     spa:
@@ -502992,7 +503092,6 @@ xahu:
       s:
       - ŝako (<em>ludo aŭ situacio</em>)
       v.tr:
-      - ŝaki
       - ŝakigi
       interj:
       - ŝak
@@ -503033,9 +503132,8 @@ xahumatu:
     epo:
     - - 's: ŝako (<em>ludo</em>)'
       - ŝakludo
-    - - 'v.tr: ŝakmati'
-      - matigi
-    - - 'interj: ŝakmat'
+    - - 'v.tr: (ŝak)matigi'
+    - - 'interj: ŝakmat'''
     spa:
     - - ajedrez
       - jaque mate
@@ -503058,10 +503156,9 @@ xahumatu:
       - ŝako (<em>ludo</em>)
       - ŝakludo
       v.tr:
-      - ŝakmati
-      - matigi
+      - (ŝak)matigi
       interj:
-      - ŝakmat
+      - ŝakmat'
     spa:
       "":
       - ajedrez
@@ -504731,12 +504828,38 @@ xanti:
     - - paz
     - - hola
       - adiós
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+      - chao
+    deu:
+    - - Frieden
+    - - tschau
+      - hallo
+      - servus
+    fra:
+    - - paix
+    - - tchao
+      - bonjour
+      - salut
+    rus:
+    - - мир
+    - - чао
+      - привет
+      - здорово
+      - здравствуйте
+      - проща́й
+      - до свидания
+      - пока
+    zho:
+    - - 和平
+    - - 你好
+      - 再见
+    hin:
+    - - शांति
+    - - नमस्ते
+      - अलविदा
+    ara:
+    - - سَلَام
+    - - سَلَام
+      - مَعَ ٱلسَّلَامَةِ
   trans_v2:
     eng:
       "n":
@@ -504756,12 +504879,50 @@ xanti:
       verb:
       - hola
       - adiós
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+      - chao
+    deu:
+      noun:
+      - Frieden
+      verb:
+      - tschau
+      - hallo
+      - servus
+    fra:
+      noun:
+      - paix
+      verb:
+      - tchao
+      - bonjour
+      - salut
+    rus:
+      noun:
+      - мир
+      verb:
+      - чао
+      - привет
+      - здорово
+      - здравствуйте
+      - проща́й
+      - до свидания
+      - пока
+    zho:
+      noun:
+      - 和平
+      verb:
+      - 你好
+      - 再见
+    hin:
+      noun:
+      - शांति
+      verb:
+      - नमस्ते
+      - अलविदा
+    ara:
+      noun:
+      - سَلَام
+      verb:
+      - سَلَام
+      - مَعَ ٱلسَّلَامَةِ
   etymology:
     natlang:
       Hindi: शांति &ldquo;śānti&rdquo;
@@ -506390,11 +506551,9 @@ xengi:
       - lay (<em>eggs</em>)
     epo:
     - - 's: nasko'
-      - naskigo
       - demeto
     - - 'v.tr: naski'
-      - naskigi
-      - demeti (ovon)
+      - demeti (<em>ovon</em>)
     spa:
     - - parto
     - - parir
@@ -506416,12 +506575,10 @@ xengi:
     epo:
       s:
       - nasko
-      - naskigo
       - demeto
       v.tr:
       - naski
-      - naskigi
-      - demeti (ovon)
+      - demeti (<em>ovon</em>)
     spa:
       noun:
       - parto
@@ -511323,9 +511480,7 @@ xorjui:
       - take note of
     epo:
     - - 's: rimarko'
-      - ekatento
     - - 'v.tr: rimarki'
-      - ekatenti
     spa:
     - - percatación
     - - percatarse (de)
@@ -511350,10 +511505,8 @@ xorjui:
     epo:
       s:
       - rimarko
-      - ekatento
       v.tr:
       - rimarki
-      - ekatenti
     spa:
       noun:
       - percatación
@@ -514206,8 +514359,9 @@ xupan:
     - - 'v.tr: publish'
     epo:
     - - 's: publikigo'
-      - publikaĵo
+      - eldono
     - - 'v.tr: publikigi'
+      - eldoni
     spa:
     - - publicación
     - - publicar
@@ -514226,9 +514380,10 @@ xupan:
     epo:
       s:
       - publikigo
-      - publikaĵo
+      - eldono
       v.tr:
       - publikigi
+      - eldoni
     spa:
       noun:
       - publicación
@@ -515725,9 +515880,7 @@ yamgi:
     - - 'v.tr: feed'
     epo:
     - - 's: manĝigo'
-      - nutro
     - - 'v.tr: manĝigi'
-      - nutri
     spa:
     - - alimentar
     deu: []
@@ -515743,10 +515896,8 @@ yamgi:
     epo:
       s:
       - manĝigo
-      - nutro
       v.tr:
       - manĝigi
-      - nutri
     spa:
       "":
       - alimentar
@@ -515770,9 +515921,7 @@ yamgibe:
     - - 'v.tr: feed'
     epo:
     - - 's: manĝigo'
-      - nutro
     - - 'v.tr: manĝigi'
-      - nutri
     spa:
     - - alimentar
       - dar de comer
@@ -515789,10 +515938,8 @@ yamgibe:
     epo:
       s:
       - manĝigo
-      - nutro
       v.tr:
       - manĝigi
-      - nutri
     spa:
       "":
       - alimentar

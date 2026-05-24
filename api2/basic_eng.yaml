@@ -53,8 +53,8 @@
   term: -gi
   class: b.oj xfik
   category: affix
-  translation: 'v.tr sfx: <em>causative/transitive marker</em>, make, cause to (be),
-    turn (into)'
+  translation: 'v.tr sfx (causative/transitive marker): make, cause to (be), turn
+    (into)'
 -gon:
   term: -gon
   class: b xfik
@@ -4710,7 +4710,7 @@ binan:
   term: binan
   class: b.nenoj
   category: root
-  translation: 'n (act of): refuge, shelter; v.tr: take refuge, seek refuge, shelter'
+  translation: 'n (act of): refuge, shelter; v.intr: take refuge, seek refuge, shelter'
 binandom:
   term: binandom
   class: b
@@ -6665,7 +6665,7 @@ ciber-:
 ciberbiskiti:
   term: ciberbiskiti
   class: b
-  category: root
+  category: derived
   translation: 'n: HTTP cookie, browser cookie, web cookie, Internet cookie, cookie
     (<em>computer</em>)'
 ciberneti:
@@ -8404,7 +8404,7 @@ delezacalyo:
   term: delezacalyo
   class: b
   category: derived
-  translation: sled, sleigh, sledge, toboggan
+  translation: 'n: sled, sleigh, sledge, toboggan'
 deli:
   term: deli
   class: t
@@ -9833,7 +9833,7 @@ ducane:
 ducibermahi:
   term: ducibermahi
   class: b
-  category: root
+  category: derived
   translation: 'n: phishing'
 ducori:
   term: ducori
@@ -11642,6 +11642,11 @@ estoka:
   class: b.oj
   category: root
   translation: 'n: stock, stockage, inventory; v.tr: stock'
+estokadom:
+  term: estokadom
+  class: b
+  category: derived
+  translation: 'n: warehouse, depot, depository, repository'
 estomotsufono:
   term: estomotsufono
   class: b
@@ -11755,7 +11760,7 @@ estudiyen:
   translation: 'n: student'
 estuf:
   term: estuf
-  class: b
+  class: ""
   category: root
   translation: stew; stew
 estulu:
@@ -34633,7 +34638,7 @@ posehtiramfil:
   translation: 'adj: disrespectful; adv: disrespectfully'
 posenfeksi:
   term: posenfeksi
-  class: b.oj
+  class: b.oro
   category: derived
   translation: 'n: disinfection; v.tr: disinfect, sanitize, sanitise; v.intr (optional
     -cu): get disinfected, get sanitized, get sanitised'
@@ -37161,7 +37166,7 @@ sanduku:
   term: sanduku
   class: b.oj
   category: root
-  translation: 'n: box; v.tr: box'
+  translation: 'n: box; v.tr: box (<em>put into box</em>)'
 sandwici:
   term: sandwici
   class: b
@@ -43705,6 +43710,11 @@ weygi:
   class: b.oj
   category: derived
   translation: 'v.tr: put around, surround'
+weyhanta:
+  term: weyhanta
+  class: ""
+  category: derived
+  translation: handshake; shake hands
 weykumax:
   term: weykumax
   class: b
