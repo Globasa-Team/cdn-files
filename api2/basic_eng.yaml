@@ -2136,15 +2136,19 @@ armadilo:
   translation: 'n: armadillo, <em>Cingulata</em>'
 armoni:
   term: armoni
-  class: b.oro
+  class: b.nenoj
   category: root
-  translation: 'n: harmony; v.tr: harmonize, harmonise; v.intr (optional -cu): become
-    harmonized, become harmonised'
+  translation: 'n: harmony; v.intr: harmonize (<em>be in harmony</em>), harmonise'
 armonicu:
   term: armonicu
   class: b.nenoj
   category: derived
   translation: 'v.intr (optional -cu): get harmonized, get harmonised'
+armonigi:
+  term: armonigi
+  class: b.oj
+  category: derived
+  translation: 'n: harmonization; v.tr: harmonize, harmonise '
 armonika:
   term: armonika
   class: b
@@ -4850,8 +4854,8 @@ bisu:
   term: bisu
   class: t
   category: root
-  translation: 'adj: compulsory, mandatory, indispensable, essential; root suffix:
-    which must be done, which must happen, must-'
+  translation: 'adj: compulsory, mandatory, indispensable, essential; root sfx: which
+    must be done, which must happen, must-'
 biti:
   term: biti
   class: b
@@ -5039,7 +5043,7 @@ boloku:
   term: boloku
   class: b
   category: root
-  translation: 'n: block (<em>approximately cuboid or rectangular object or group</em>)'
+  translation: 'n: block (<em>approximately cuboid or rectangular object</em>)'
 bolokuflutu:
   term: bolokuflutu
   class: b
@@ -7042,7 +7046,7 @@ cote:
   term: cote
   class: t
   category: root
-  translation: 'adj: short (<em>opp of tall, high</em>), low; adv: low'
+  translation: 'adj: short (<em>opp of tall</em>), low; adv: low'
 cotebahari:
   term: cotebahari
   class: b
@@ -9759,11 +9763,6 @@ duaple_basun:
   class: b
   category: derived
   translation: 'n: contrabassoon, double bassoon'
-duarmoni:
-  term: duarmoni
-  class: b
-  category: derived
-  translation: 'n: harmonization, harmonisation'
 duato:
   term: duato
   class: b
@@ -11760,9 +11759,9 @@ estudiyen:
   translation: 'n: student'
 estuf:
   term: estuf
-  class: ""
+  class: b.oro
   category: root
-  translation: stew; stew
+  translation: 'n: stew; v.tr: stew; v.intr (optional -cu): stew'
 estulu:
   term: estulu
   class: b
@@ -16129,8 +16128,9 @@ guton:
   term: guton
   class: b.oro.hisi
   category: root
-  translation: 'n: pain, ache; v.tr: hurt (<em>cause pain</em>); v.intr: ache, hurt
-    (<em>feel pain, have pain, suffer from pain</em>)'
+  translation: 'n: pain, ache; v.tr: hurt (<em>cause pain</em>); v.intr: <em>feel
+    pain</em>, <em>have pain</em>, <em>suffer from pain</em>, <em>be in pain</em>,
+    ache, hurt'
 gutoncune:
   term: gutoncune
   class: t
@@ -43712,9 +43712,9 @@ weygi:
   translation: 'v.tr: put around, surround'
 weyhanta:
   term: weyhanta
-  class: ""
+  class: b.oj
   category: derived
-  translation: handshake; shake hands
+  translation: 'n: handshake; v.tr: shake hands (with)'
 weykumax:
   term: weykumax
   class: b
@@ -44514,8 +44514,8 @@ xinxiku:
   term: xinxiku
   class: b.oro
   category: root
-  translation: 'n: erosion; v.tr: erode, wear down, eat away (at); v.intr (optional
-    -cu): erode, wear away'
+  translation: 'n: erosion, wear; v.tr: erode, wear down, wear out, eat away (at);
+    v.intr (optional -cu): erode, wear away'
 xinxikudo:
   term: xinxikudo
   class: t

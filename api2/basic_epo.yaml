@@ -1741,7 +1741,7 @@ ansya:
   term: ansya
   class: b.oro.hisi
   category: root
-  translation: 's: anksio; v.tr: anksiigi; v.ntr: anksiiĝi'
+  translation: 's: anksio; v.tr: anksiigi; v.ntr: esti anksia'
 ansyacu:
   term: ansyacu
   class: b.nenoj
@@ -2103,14 +2103,19 @@ armadilo:
   translation: 's: armadelo'
 armoni:
   term: armoni
-  class: b.oro
+  class: b.nenoj
   category: root
-  translation: 's: harmonio; v.tr: harmoniigi; v.ntr (opcia uzo de -cu): harmoniiĝi'
+  translation: 's: harmonio; v.ntr: harmonii'
 armonicu:
   term: armonicu
   class: b.nenoj
   category: derived
   translation: 's: harmoniiĝo; v.ntr (opcia uzo de -cu): harmoniiĝi'
+armonigi:
+  term: armonigi
+  class: b.oj
+  category: derived
+  translation: 's: harmoniigo; v.tr: harmoniigi'
 armonika:
   term: armonika
   class: b
@@ -2400,7 +2405,7 @@ astama:
   term: astama
   class: b.oro.jotay
   category: root
-  translation: 's: astmo; v.tr: kaŭzi astmon; v.ntr: trafiĝi de astmo'
+  translation: 's: astmo; v.tr: kaŭzi astmon; v.ntr: suferi je astmo'
 astamacu:
   term: astamacu
   class: b.nenoj
@@ -2490,7 +2495,7 @@ atex:
   term: atex
   class: b.oro
   category: root
-  translation: 's: fajro; v.tr: (ek)bruligi; v.ntr (opcia uzo de -cu): bruli, fajri'
+  translation: 's: fajro; v.tr: (ek)bruligi; v.ntr (opcia uzo de -cu): bruli'
 atexalkoba:
   term: atexalkoba
   class: b
@@ -5511,7 +5516,7 @@ buhar:
   term: buhar
   class: b.oro
   category: root
-  translation: 's: vaporo; v.tr: vaporumi; v.ntr (opcia uzo de -cu): vapori'
+  translation: 's: vaporo; v.tr: vaporumi, vaporkuiri; v.ntr (opcia uzo de -cu): vapori'
 buharcu:
   term: buharcu
   class: b.nenoj
@@ -6177,7 +6182,7 @@ carme:
   term: carme
   class: b.oro.hisi
   category: root
-  translation: 's: ĉarmo; v.tr: ĉarmi; v.ntr: ĉarmiĝi'
+  translation: 's: ĉarmo; v.tr: ĉarmi; v.ntr: esti ĉarmita'
 carmecu:
   term: carmecu
   class: b.nenoj
@@ -6594,7 +6599,7 @@ ciber-:
   term: ciber-
   class: nenhuru genu
   category: bound root
-  translation: kiber-, ret-
+  translation: kiber-, ret-, saĝ-
 ciberbiskiti:
   term: ciberbiskiti
   class: b
@@ -8140,7 +8145,7 @@ daysurprisa:
   term: daysurprisa
   class: b.oro.hisi
   category: derived
-  translation: 's: surprizego; v.tr: surprizegi; v.ntr: surprizegiĝi'
+  translation: 's: surprizego; v.tr: surprizegi; v.ntr: esti surprizegita'
 daysurprisado:
   term: daysurprisado
   class: t
@@ -8577,7 +8582,7 @@ depresi:
   term: depresi
   class: b.oro.hisi
   category: root
-  translation: 's: depresio, deprimo; v.tr: deprimi; v.ntr: deprimiĝi'
+  translation: 's: depresio, deprimo; v.tr: deprimi; v.ntr: esti deprimita'
 depresicu:
   term: depresicu
   class: b.nenoj
@@ -8814,7 +8819,8 @@ deylyu:
   term: deylyu
   class: b.oro
   category: root
-  translation: 's: konvekto; v.tr: konvektigi; v.ntr (opcia uzo de -cu): konvekti'
+  translation: 's: konvekto, konvekcio; v.tr: konvekti; v.ntr (opcia uzo de -cu):
+    konvektiĝi'
 deysi:
   term: deysi
   class: b
@@ -9676,11 +9682,6 @@ duaple_basun:
   class: b
   category: derived
   translation: 's: kontrafagoto'
-duarmoni:
-  term: duarmoni
-  class: b
-  category: derived
-  translation: 's: harmoniigo, harmoniado'
 duato:
   term: duato
   class: b
@@ -11484,7 +11485,7 @@ estimula:
   class: b.oro.hisi
   category: root
   translation: 's: stimulo, instigo, incito, motivo; v.tr: stimuli, instigi, inciti,
-    motivigi; v.ntr: stimuliĝi, instigiĝi, incitiĝi, motiviĝi'
+    motivigi; v.ntr: esti stimulilta, esti instigita, esti incitita, esti motivita'
 estimulacu:
   term: estimulacu
   class: b.nenoj
@@ -11590,7 +11591,7 @@ estres:
   term: estres
   class: b.oro.hisi
   category: root
-  translation: 's: streso; v.tr: stresigi; v.ntr: stresiĝi'
+  translation: 's: streso; v.tr: stresigi; v.ntr: stresi'
 estrescu:
   term: estrescu
   class: b.nenoj
@@ -11670,9 +11671,9 @@ estudiyen:
   translation: 's: studanto, studento'
 estuf:
   term: estuf
-  class: ""
+  class: b.oro
   category: root
-  translation: estufaĵo; estufi
+  translation: 's: estufaĵo; v.tr: estufi; v.ntr (opcia uzo de -cu): estufiĝi'
 estulu:
   term: estulu
   class: b
@@ -13090,7 +13091,7 @@ fefuitis:
   class: b.oro.jotay
   category: derived
   translation: 's: pneŭmonito, pneŭmonio, pulmobrulumo; v.tr: kaŭzi pneŭmonion; v.ntr:
-    trafiĝi de pneŭmonio'
+    suferi je pneŭmonio'
 feka:
   term: feka
   class: b.oj.ru; il
@@ -13859,7 +13860,7 @@ fobi:
   term: fobi
   class: b.oro.hisi
   category: root
-  translation: 's: timo, fobio; v.tr: timigi; v.ntr: timi, timiĝi'
+  translation: 's: timo, fobio; v.tr: timigi; v.ntr: timi'
 fobicu:
   term: fobicu
   class: b.nenoj
@@ -14296,7 +14297,7 @@ frustra:
   term: frustra
   class: b.oro.hisi
   category: root
-  translation: 's: frustriĝo, frustracio; v.tr: frustri; v.ntr: frustriĝi'
+  translation: 's: frustriĝo, frustracio; v.tr: frustri; v.ntr: esti frustrita'
 frustracu:
   term: frustracu
   class: b.nenoj
@@ -14459,7 +14460,7 @@ furaha:
   term: furaha
   class: b.oro.hisi
   category: root
-  translation: 's: ĝuo, plezuro; v.tr: plezurigi, plaĉi; v.ntr: ĝui, plezuri'
+  translation: 's: ĝuo, plezuro; v.tr: plezurigi, plaĉi; v.ntr: plezuri'
 furahacu:
   term: furahacu
   class: b.nenoj
@@ -16027,7 +16028,7 @@ guton:
   term: guton
   class: b.oro.hisi
   category: root
-  translation: 's: doloro; v.tr: dolorigi; v.ntr: dolori'
+  translation: 's: doloro; v.tr: dolori, dolorigi; v.ntr: suferi je doloro'
 gutoncune:
   term: gutoncune
   class: t
@@ -16677,7 +16678,7 @@ hatari:
   term: hatari
   class: b.oro.jotay
   category: root
-  translation: 's: danĝero; v.tr: danĝerigi; v.ntr: esti danĝera, danĝeriĝi'
+  translation: 's: danĝero; v.tr: danĝerigi; v.ntr: esti danĝera'
 hataripul:
   term: hataripul
   class: t
@@ -17790,7 +17791,8 @@ hunfun:
   term: hunfun
   class: b.oro.hisi
   category: root
-  translation: 's: ekscito, agito; v.tr: eksciti, agiti; v.ntr: ekscitiĝi, agitiĝi'
+  translation: 's: ekscito, agito; v.tr: eksciti, agiti; v.ntr: esti ekscitita, esti
+    agitita'
 hunfuncu:
   term: hunfuncu
   class: b.nenoj
@@ -18120,7 +18122,7 @@ ilhamu:
   term: ilhamu
   class: b.oro.hisi
   category: root
-  translation: 's: inspiro; v.tr: inspiri; v.ntr: inspiriĝi'
+  translation: 's: inspiro; v.tr: inspiri; v.ntr: esti inspirita'
 ilhamuabil:
   term: ilhamuabil
   class: t
@@ -18400,7 +18402,7 @@ influenza:
   term: influenza
   class: b.oro.jotay
   category: root
-  translation: 's: gripo, influenco; v.tr: kaŭzi gripon; v.ntr: trafiĝi de gripo'
+  translation: 's: gripo, influenco; v.tr: kaŭzi gripon; v.ntr: suferi je gripo'
 infobigi:
   term: infobigi
   class: b.oj
@@ -18902,7 +18904,7 @@ inxo:
   term: inxo
   class: b.oro.hisi
   category: root
-  translation: 's: impreso; v.tr: impresi; v.ntr: impresiĝi'
+  translation: 's: impreso; v.tr: impresi; v.ntr: esti impresita'
 inxoabil:
   term: inxoabil
   class: t
@@ -19168,7 +19170,7 @@ itis:
   term: itis
   class: b.oro.jotay
   category: root
-  translation: 's: inflamo; v.tr: inflami; v.ntr: inflamiĝi'
+  translation: 's: inflamo; v.tr: inflami; v.ntr: esti inflamita'
 itisli:
   term: itisli
   class: t
@@ -19524,7 +19526,7 @@ jame:
   term: jame
   class: b.oro.jotay
   category: root
-  translation: 's: frosto, frostigo; v.tr: frostigi; v.ntr: frostiĝi'
+  translation: 's: frosto; v.tr: frostigi; v.ntr: frosti'
 jamecu:
   term: jamecu
   class: b.nenoj
@@ -20283,7 +20285,7 @@ joxu:
   class: b.oro.hisi
   category: root
   translation: 's: entuziasmo, ekscito; v.tr: entuziasmigi, eksciti; v.ntr: entuziasmi,
-    ekscitiĝi'
+    esti ekscitita'
 joxucu:
   term: joxucu
   class: b.nenoj
@@ -21784,8 +21786,8 @@ katarata:
   term: katarata
   class: b.oro.jotay
   category: root
-  translation: 's: katarakto (<em>okula</em>); v.tr: kaŭzi katarakton; v.ntr: trafiĝi
-    de katarakto'
+  translation: 's: katarakto (<em>okula</em>); v.tr: kaŭzi katarakton; v.ntr: suferi
+    je katarakto'
 katarli:
   term: Katarli
   class: su t
@@ -23126,7 +23128,7 @@ konforta:
   term: konforta
   class: b.oro.hisi
   category: root
-  translation: 's: komforto; v.tr: komfortigi; v.ntr: komfortiĝi'
+  translation: 's: komforto; v.tr: komfortigi; v.ntr: esti komforta'
 konfortacu:
   term: konfortacu
   class: b.nenoj
@@ -23158,8 +23160,8 @@ konhwoku:
   term: konhwoku
   class: b.oro.hisi
   category: root
-  translation: 's: konfuzo, perpleksiĝo; v.tr: konfuzi, perpleksigi; v.ntr: konfuziĝi,
-    perpleksiĝi'
+  translation: 's: konfuzo, perplekseco; v.tr: konfuzi, perpleksigi; v.ntr: esti konfuzita,
+    esti perpleksita'
 konhwokucu:
   term: konhwokucu
   class: b.nenoj
@@ -24668,7 +24670,7 @@ lawfen:
   term: lawfen
   class: b.oro.hisi
   category: root
-  translation: 's: ĝeno, ĉagreno; v.tr: ĝeni, ĉagreni; v.ntr: ĝeniĝi, ĉagreniĝi'
+  translation: 's: ĝeno, ĉagreno; v.tr: ĝeni, ĉagreni; v.ntr: esti ĝenita, esti ĉagrenita'
 lawfencu:
   term: lawfencu
   class: b.nenoj
@@ -26323,7 +26325,7 @@ majin:
   term: majin
   class: b.oro.jotay
   category: root
-  translation: 's: morbilo; v.tr: kaŭzi morbilon; v.ntr: trafiĝi de morbilo'
+  translation: 's: morbilo; v.tr: kaŭzi morbilon; v.ntr: suferi je morbilo'
 majnuni:
   term: majnuni
   class: t
@@ -32603,7 +32605,7 @@ paniko:
   term: paniko
   class: b.oro.hisi
   category: root
-  translation: 's: paniko; v.tr: panikigi; v.ntr: paniki, panikiĝi'
+  translation: 's: paniko; v.tr: paniki; v.ntr: esti panikita'
 panikocu:
   term: panikocu
   class: b.nenoj
@@ -32804,7 +32806,7 @@ paralisi:
   term: paralisi
   class: b.oro.jotay
   category: root
-  translation: 's: paralizo; v.tr: paralizi; v.ntr: paraliziĝi'
+  translation: 's: paralizo; v.tr: paralizi; v.ntr: esti paralizita'
 paralisicu:
   term: paralisicu
   class: b.nenoj
@@ -32824,7 +32826,7 @@ paranoy:
   term: paranoy
   class: b.oro.hisi
   category: root
-  translation: 's: paranojo; v.tr: paranojigi; v.ntr: paranojiĝi'
+  translation: 's: paranojo; v.tr: paranojigi; v.ntr: esti paranoja'
 paranoydo:
   term: paranoydo
   class: t
@@ -38781,8 +38783,8 @@ sonxi:
   term: sonxi
   class: b.oro
   category: root
-  translation: 's: perdo, maltrovo; v.tr: perdi (<em>ne plu trovi</em>), maltrovi;
-    v.ntr (opcia uzo de -cu): perdiĝi, maltroviĝi'
+  translation: 's: perdo, maltrovo; v.tr: perdi, maltrovi; v.ntr (opcia uzo de -cu):
+    perdiĝi, maltroviĝi'
 sonxicu:
   term: sonxicu
   class: b.nenoj
@@ -38902,7 +38904,7 @@ soyo:
   term: soyo
   class: b.oro.hisi
   category: root
-  translation: 's: juko; v.tr: jukigi; v.ntr: juki, jukiĝi'
+  translation: 's: juko; v.tr: juki; v.ntr: senti jukon'
 soyone:
   term: soyone
   class: t
@@ -40815,8 +40817,8 @@ teslimu:
   term: teslimu
   class: b.oro
   category: root
-  translation: 's: rezigno, kapitulacio; v.tr: cedi; v.ntr (opcia uzo de -cu): rezigni,
-    kapitulacii'
+  translation: 's: rezigno, kapitulacio; v.tr: cedi, rezigni; v.ntr (opcia uzo de
+    -cu): rezigniĝi, kapitulacii'
 tesu:
   term: tesu
   class: su s
@@ -41642,7 +41644,7 @@ trawma:
   term: trawma
   class: b.oro.jotay
   category: root
-  translation: 's: traŭmato; v.tr: traŭmatizi; v.ntr: traŭmatiziĝi'
+  translation: 's: traŭmato; v.tr: traŭmatizi; v.ntr: traŭmatizita'
 trawmacu:
   term: trawmacu
   class: b.nenoj
@@ -43478,9 +43480,9 @@ weygi:
   translation: 's: ĉirkaŭigo; v.tr: ĉirkaŭigi, meti ĉirkaŭ'
 weyhanta:
   term: weyhanta
-  class: ""
+  class: b.oj
   category: derived
-  translation: manpremo; manpremi
+  translation: 's: manpremo; v.tr: manpremi'
 weykumax:
   term: weykumax
   class: b
@@ -44483,7 +44485,7 @@ xorfobi:
   term: xorfobi
   class: b.oro.hisi
   category: derived
-  translation: 'v.tr: timigi, ektimigi; v.ntr: timiĝi, ektimi'
+  translation: 's: ektimo; v.tr: timigi, ektimigi; v.ntr: ektimi'
 xorganci:
   term: xorganci
   class: b.oj
@@ -44573,7 +44575,7 @@ xorpilo:
   term: xorpilo
   class: b.oro.hisi
   category: derived
-  translation: 'v.tr: (ek)lacigi; v.ntr: (ek)laciĝi'
+  translation: 's: lacigo, laciĝo; v.tr: (ek)lacigi; v.ntr: (ek)laciĝi'
 xorsen:
   term: xorsen
   class: b.lin

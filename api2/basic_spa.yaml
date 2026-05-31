@@ -24,7 +24,7 @@
   term: -day
   class: t xfik
   category: affix
-  translation: ""
+  translation: alto en, rico en
 -din:
   term: -din
   class: b xfik
@@ -96,7 +96,7 @@
   term: -lil
   class: t xfik
   category: affix
-  translation: ""
+  translation: bajo en, pobre en
 -mo:
   term: -mo
   class: m xfik
@@ -367,7 +367,7 @@ adatecu:
   term: adatecu
   class: b.nenoj
   category: derived
-  translation: ""
+  translation: adaptaci&oacute;n; adaptarse
 adatecuabil:
   term: adatecuabil
   class: t
@@ -2120,12 +2120,17 @@ armadilo:
   translation: 's: armadillo'
 armoni:
   term: armoni
-  class: b.oro
+  class: b.nenoj
   category: root
   translation: (h)armon&iacute;a; (h)armonizar(se)
 armonicu:
   term: armonicu
   class: b.nenoj
+  category: derived
+  translation: ""
+armonigi:
+  term: armonigi
+  class: b.oj
   category: derived
   translation: ""
 armonika:
@@ -9717,11 +9722,6 @@ duaple_basun:
   class: b
   category: derived
   translation: 's: contrafagot'
-duarmoni:
-  term: duarmoni
-  class: b
-  category: derived
-  translation: 's: armonizaci&oacute;n'
 duato:
   term: duato
   class: b
@@ -11707,9 +11707,9 @@ estudiyen:
   translation: 's: estudiante'
 estuf:
   term: estuf
-  class: ""
+  class: b.oro
   category: root
-  translation: estofado; estofar
+  translation: estofado; estofar; estofarse
 estulu:
   term: estulu
   class: b
@@ -16795,7 +16795,7 @@ haxhaxa:
   term: haxhaxa
   class: b.nenoj
   category: root
-  translation: ""
+  translation: susurro; susurrar
 haxi:
   term: haxi
   class: b
@@ -19038,7 +19038,7 @@ iris:
   term: Iris
   class: su n
   category: proper word
-  translation: Iris (<em>mitolog&iacute;a</em>)
+  translation: Iris (<em>nombre</em>)
 irisplanta:
   term: irisplanta
   class: b
@@ -19679,7 +19679,7 @@ janucu:
   term: janucu
   class: b.nenoj
   category: derived
-  translation: ""
+  translation: arrodillamiento; arrodillarse
 jao:
   term: jao
   class: b
@@ -42172,7 +42172,7 @@ tutumli:
   term: tutumli
   class: t
   category: derived
-  translation: ""
+  translation: cardiaco
 tutumli_adolaitis:
   term: tutumli adolaitis
   class: b
@@ -43584,7 +43584,7 @@ weygi:
   translation: poner alrededor, rodear
 weyhanta:
   term: weyhanta
-  class: ""
+  class: b.oj
   category: derived
   translation: apret&oacute;n de manos, estrechamiento de manos, estrechadura de manos;
     darse la mano, estrecharse la mano, apretarse la mano, di&ntilde;arse la mano
@@ -44353,7 +44353,7 @@ xinenmal:
   term: xinenmal
   class: t
   category: derived
-  translation: her&eacute;tico, sacr&iacute;lego, profano
+  translation: her&eacute;tico, heterodoxo, sacr&iacute;lego, profano
 xinenpul:
   term: xinenpul
   class: t

@@ -2091,12 +2091,17 @@ armadilo:
   translation: 'сущ: броненосец'
 armoni:
   term: armoni
-  class: b.oro
+  class: b.nenoj
   category: root
   translation: 'гармония '
 armonicu:
   term: armonicu
   class: b.nenoj
+  category: derived
+  translation: ""
+armonigi:
+  term: armonigi
+  class: b.oj
   category: derived
   translation: ""
 armonika:
@@ -8585,7 +8590,7 @@ des:
   term: des
   class: num
   category: root
-  translation: ""
+  translation: десять
 des_care:
   term: des care
   class: num
@@ -9541,7 +9546,7 @@ dua:
   term: dua
   class: num
   category: root
-  translation: ""
+  translation: два
 duabasali:
   term: duabasali
   class: t
@@ -9647,11 +9652,6 @@ duaple_basun:
   class: b
   category: derived
   translation: 'сущ: контрафагот'
-duarmoni:
-  term: duarmoni
-  class: b
-  category: derived
-  translation: 'сущ: гармонизация'
 duato:
   term: duato
   class: b
@@ -11624,7 +11624,7 @@ estudiyen:
   translation: 'сущ: студент, учащийся'
 estuf:
   term: estuf
-  class: ""
+  class: b.oro
   category: root
   translation: ""
 estulu:
@@ -28144,7 +28144,7 @@ mi:
   term: mi
   class: pn
   category: root
-  translation: ""
+  translation: я
 mida:
   term: mida
   class: b
@@ -30439,7 +30439,7 @@ neo:
   term: neo
   class: t
   category: root
-  translation: ""
+  translation: новый
 neodimyum:
   term: neodimyum
   class: b
@@ -30459,7 +30459,7 @@ neonyandin:
   term: Neonyandin
   class: su n
   category: proper word
-  translation: ""
+  translation: Новый год
 neoxey:
   term: neoxey
   class: b
@@ -30904,7 +30904,7 @@ noceli:
   term: noceli
   class: t
   category: derived
-  translation: ""
+  translation: ночной
 nohudu:
   term: nohudu
   class: b
@@ -31089,7 +31089,7 @@ nue:
   term: nue
   class: num
   category: root
-  translation: ""
+  translation: девять
 nuecen:
   term: nuecen
   class: num
@@ -31314,7 +31314,7 @@ oco:
   term: oco
   class: num
   category: root
-  translation: ""
+  translation: восемь
 ococen:
   term: ococen
   class: num
@@ -35899,7 +35899,7 @@ roso:
   term: roso
   class: t
   category: root
-  translation: ""
+  translation: красный
 rosopanda:
   term: rosopanda
   class: b
@@ -36849,7 +36849,7 @@ santo:
   term: santo
   class: t
   category: root
-  translation: ""
+  translation: святой, священный
 santo_biskopodom:
   term: Santo Biskopodom
   class: su n
@@ -38334,7 +38334,7 @@ soberen:
   term: soberen
   class: t
   category: root
-  translation: ""
+  translation: суверенный; суверенно
 soberenya:
   term: soberenya
   class: b
@@ -39069,17 +39069,17 @@ suo:
   term: suo
   class: t
   category: root
-  translation: ""
+  translation: левый
 suohantafil:
   term: suohantafil
   class: t
   category: derived
-  translation: ""
+  translation: леворукий
 suohantali:
   term: suohantali
   class: t
   category: derived
-  translation: ""
+  translation: леворукий
 suohantaya:
   term: suohantaya
   class: b
@@ -40279,7 +40279,7 @@ teliergo:
   term: teliergo
   class: b.oj
   category: derived
-  translation: ""
+  translation: удалённая работа, дистанционная работа, телеработа, онлайн-работа
 telifikir:
   term: telifikir
   class: b.oj
@@ -40509,7 +40509,7 @@ teorili:
   term: teorili
   class: t
   category: derived
-  translation: ""
+  translation: теоретический
 tera:
   term: tera
   class: num
@@ -40549,7 +40549,7 @@ teritorifil:
   term: teritorifil
   class: t
   category: derived
-  translation: ""
+  translation: территориальный
 teritorili:
   term: teritorili
   class: t
@@ -41420,7 +41420,7 @@ trasatlantikoli:
   term: trasatlantikoli
   class: t
   category: derived
-  translation: ""
+  translation: трансатлантический
 trascu:
   term: trascu
   class: b.nenoj
@@ -41440,7 +41440,7 @@ trasjensili:
   term: trasjensili
   class: t
   category: derived
-  translation: ""
+  translation: трансгендерный, транссексуальный
 trasli:
   term: trasli
   class: t
@@ -41575,12 +41575,12 @@ trol:
   term: trol
   class: b.oj
   category: root
-  translation: ""
+  translation: тролль; троллить
 troldo:
   term: troldo
   class: t
   category: derived
-  translation: ""
+  translation: тролленный
 trombon:
   term: trombon
   class: b
@@ -41605,7 +41605,7 @@ tropikali:
   term: tropikali
   class: t
   category: derived
-  translation: ""
+  translation: тропический
 trufel:
   term: trufel
   class: b
@@ -42360,7 +42360,7 @@ utarakorea:
   term: Utarakorea
   class: su n
   category: proper word
-  translation: ""
+  translation: Северная Корея
 utarali:
   term: utarali
   class: t
@@ -42535,7 +42535,7 @@ vegan:
   term: vegan
   class: t
   category: root
-  translation: ""
+  translation: веганский
 veganyen:
   term: veganyen
   class: b
@@ -42545,7 +42545,7 @@ vegetari:
   term: vegetari
   class: t
   category: root
-  translation: ""
+  translation: вегетарианский
 vegetariyen:
   term: vegetariyen
   class: b
@@ -42725,7 +42725,7 @@ virusli:
   term: virusli
   class: t
   category: derived
-  translation: ""
+  translation: вирусный
 visa:
   term: visa
   class: b
@@ -42755,7 +42755,7 @@ vite:
   term: vite
   class: b.oj
   category: root
-  translation: ""
+  translation: винт; винтить, завинчивать
 vodka:
   term: vodka
   class: b
@@ -43303,7 +43303,7 @@ weygi:
   translation: ""
 weyhanta:
   term: weyhanta
-  class: ""
+  class: b.oj
   category: derived
   translation: рукопожатие; пожимать руку
 weykumax:

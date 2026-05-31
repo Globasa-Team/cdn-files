@@ -2093,12 +2093,17 @@ armadilo:
   translation: 'S: G&uuml;rteltier'
 armoni:
   term: armoni
-  class: b.oro
+  class: b.nenoj
   category: root
   translation: ""
 armonicu:
   term: armonicu
   class: b.nenoj
+  category: derived
+  translation: ""
+armonigi:
+  term: armonigi
+  class: b.oj
   category: derived
   translation: ""
 armonika:
@@ -9646,11 +9651,6 @@ duaple_basun:
   class: b
   category: derived
   translation: 'S: Kontrafagott'
-duarmoni:
-  term: duarmoni
-  class: b
-  category: derived
-  translation: 'S: Harmonisierung'
 duato:
   term: duato
   class: b
@@ -10530,7 +10530,7 @@ eliniyen:
   term: Eliniyen
   class: su n
   category: proper word
-  translation: Este
+  translation: Grieche
 elipse:
   term: elipse
   class: b
@@ -11623,7 +11623,7 @@ estudiyen:
   translation: 'S: Student, Sch&uuml;ler'
 estuf:
   term: estuf
-  class: ""
+  class: b.oro
   category: root
   translation: ""
 estulu:
@@ -21134,7 +21134,7 @@ kancer:
   term: kancer
   class: b.oro.jotay
   category: root
-  translation: KrebS (<em>Medizin</em>)
+  translation: Krebs (<em>Medizin</em>)
 kancerdo:
   term: kancerdo
   class: t
@@ -28146,7 +28146,7 @@ mi:
   term: mi
   class: pn
   category: root
-  translation: ""
+  translation: ich
 mida:
   term: mida
   class: b
@@ -30443,7 +30443,7 @@ neo:
   term: neo
   class: t
   category: root
-  translation: ""
+  translation: neu
 neodimyum:
   term: neodimyum
   class: b
@@ -30463,7 +30463,7 @@ neonyandin:
   term: Neonyandin
   class: su n
   category: proper word
-  translation: ""
+  translation: Neujahrstag, Neujahr
 neoxey:
   term: neoxey
   class: b
@@ -30908,7 +30908,7 @@ noceli:
   term: noceli
   class: t
   category: derived
-  translation: ""
+  translation: n&auml;chtlich
 nohudu:
   term: nohudu
   class: b
@@ -31833,7 +31833,7 @@ or:
   term: or
   class: l
   category: root
-  translation: ""
+  translation: oder
 orange:
   term: orange
   class: t
@@ -35903,7 +35903,7 @@ roso:
   term: roso
   class: t
   category: root
-  translation: ""
+  translation: rot
 rosopanda:
   term: rosopanda
   class: b
@@ -36854,7 +36854,7 @@ santo:
   term: santo
   class: t
   category: root
-  translation: ""
+  translation: heilig
 santo_biskopodom:
   term: Santo Biskopodom
   class: su n
@@ -38339,7 +38339,7 @@ soberen:
   term: soberen
   class: t
   category: root
-  translation: ""
+  translation: souver&auml;n
 soberenya:
   term: soberenya
   class: b
@@ -39074,17 +39074,17 @@ suo:
   term: suo
   class: t
   category: root
-  translation: ""
+  translation: links
 suohantafil:
   term: suohantafil
   class: t
   category: derived
-  translation: ""
+  translation: linksh&auml;ndig
 suohantali:
   term: suohantali
   class: t
   category: derived
-  translation: ""
+  translation: linksh&auml;ndig
 suohantaya:
   term: suohantaya
   class: b
@@ -40284,7 +40284,7 @@ teliergo:
   term: teliergo
   class: b.oj
   category: derived
-  translation: ""
+  translation: Telearbeit, Fernarbeit
 telifikir:
   term: telifikir
   class: b.oj
@@ -40514,7 +40514,7 @@ teorili:
   term: teorili
   class: t
   category: derived
-  translation: ""
+  translation: theoretisch
 tera:
   term: tera
   class: num
@@ -41425,7 +41425,7 @@ trasatlantikoli:
   term: trasatlantikoli
   class: t
   category: derived
-  translation: ""
+  translation: transatlantisch
 trascu:
   term: trascu
   class: b.nenoj
@@ -41445,7 +41445,7 @@ trasjensili:
   term: trasjensili
   class: t
   category: derived
-  translation: ""
+  translation: transgender, transsexuell, transgeschlechtlich
 trasli:
   term: trasli
   class: t
@@ -42540,7 +42540,7 @@ vegan:
   term: vegan
   class: t
   category: root
-  translation: ""
+  translation: vegan
 veganyen:
   term: veganyen
   class: b
@@ -42550,7 +42550,7 @@ vegetari:
   term: vegetari
   class: t
   category: root
-  translation: ""
+  translation: vegetarisch
 vegetariyen:
   term: vegetariyen
   class: b
@@ -43308,7 +43308,7 @@ weygi:
   translation: ""
 weyhanta:
   term: weyhanta
-  class: ""
+  class: b.oj
   category: derived
   translation: H&auml;ndedruck; H&auml;nde sch&uuml;tteln
 weykumax:
@@ -44015,7 +44015,7 @@ xikenjedo:
   term: xikenjedo
   class: t
   category: derived
-  translation: ""
+  translation: gefoltert
 xikenjekamer:
   term: xikenjekamer
   class: b

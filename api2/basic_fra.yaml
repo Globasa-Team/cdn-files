@@ -2092,12 +2092,17 @@ armadilo:
   translation: 'n: tatou'
 armoni:
   term: armoni
-  class: b.oro
+  class: b.nenoj
   category: root
   translation: harmonie
 armonicu:
   term: armonicu
   class: b.nenoj
+  category: derived
+  translation: ""
+armonigi:
+  term: armonigi
+  class: b.oj
   category: derived
   translation: ""
 armonika:
@@ -8585,7 +8590,7 @@ des:
   term: des
   class: num
   category: root
-  translation: ""
+  translation: dix
 des_care:
   term: des care
   class: num
@@ -9540,7 +9545,7 @@ dua:
   term: dua
   class: num
   category: root
-  translation: ""
+  translation: deux
 duabasali:
   term: duabasali
   class: t
@@ -9646,11 +9651,6 @@ duaple_basun:
   class: b
   category: derived
   translation: 'n: contrebasson'
-duarmoni:
-  term: duarmoni
-  class: b
-  category: derived
-  translation: 'n: harmonisation'
 duato:
   term: duato
   class: b
@@ -11623,7 +11623,7 @@ estudiyen:
   translation: 'n: &eacute;tudiant, &eacute;l&egrave;ve'
 estuf:
   term: estuf
-  class: ""
+  class: b.oro
   category: root
   translation: ""
 estulu:
@@ -24337,7 +24337,7 @@ lalagi:
   term: lalagi
   class: b.oj
   category: derived
-  translation: ""
+  translation: faire chanter
 lalane:
   term: lalane
   class: t
@@ -28144,7 +28144,7 @@ mi:
   term: mi
   class: pn
   category: root
-  translation: ""
+  translation: je, moi
 mida:
   term: mida
   class: b
@@ -30906,7 +30906,7 @@ noceli:
   term: noceli
   class: t
   category: derived
-  translation: ""
+  translation: nocturne
 nohudu:
   term: nohudu
   class: b
@@ -31091,7 +31091,7 @@ nue:
   term: nue
   class: num
   category: root
-  translation: ""
+  translation: neuf
 nuecen:
   term: nuecen
   class: num
@@ -31316,7 +31316,7 @@ oco:
   term: oco
   class: num
   category: root
-  translation: ""
+  translation: huit
 ococen:
   term: ococen
   class: num
@@ -31831,7 +31831,7 @@ or:
   term: or
   class: l
   category: root
-  translation: ""
+  translation: ou
 orange:
   term: orange
   class: t
@@ -35901,7 +35901,7 @@ roso:
   term: roso
   class: t
   category: root
-  translation: ""
+  translation: rouge
 rosopanda:
   term: rosopanda
   class: b
@@ -36851,7 +36851,7 @@ santo:
   term: santo
   class: t
   category: root
-  translation: ""
+  translation: saint, sacr&eacute;
 santo_biskopodom:
   term: Santo Biskopodom
   class: su n
@@ -38336,7 +38336,7 @@ soberen:
   term: soberen
   class: t
   category: root
-  translation: ""
+  translation: souverain; souverainement
 soberenya:
   term: soberenya
   class: b
@@ -39071,17 +39071,17 @@ suo:
   term: suo
   class: t
   category: root
-  translation: ""
+  translation: gauche
 suohantafil:
   term: suohantafil
   class: t
   category: derived
-  translation: ""
+  translation: gaucher
 suohantali:
   term: suohantali
   class: t
   category: derived
-  translation: ""
+  translation: gaucher
 suohantaya:
   term: suohantaya
   class: b
@@ -40281,7 +40281,7 @@ teliergo:
   term: teliergo
   class: b.oj
   category: derived
-  translation: ""
+  translation: t&eacute;l&eacute;travail
 telifikir:
   term: telifikir
   class: b.oj
@@ -40511,7 +40511,7 @@ teorili:
   term: teorili
   class: t
   category: derived
-  translation: ""
+  translation: th&eacute;orique
 tera:
   term: tera
   class: num
@@ -41422,7 +41422,7 @@ trasatlantikoli:
   term: trasatlantikoli
   class: t
   category: derived
-  translation: ""
+  translation: transatlantique
 trascu:
   term: trascu
   class: b.nenoj
@@ -41442,7 +41442,7 @@ trasjensili:
   term: trasjensili
   class: t
   category: derived
-  translation: ""
+  translation: transgenre, transsexuel
 trasli:
   term: trasli
   class: t
@@ -41582,7 +41582,7 @@ troldo:
   term: troldo
   class: t
   category: derived
-  translation: ""
+  translation: troll&eacute;
 trombon:
   term: trombon
   class: b
@@ -41607,7 +41607,7 @@ tropikali:
   term: tropikali
   class: t
   category: derived
-  translation: ""
+  translation: tropical
 trufel:
   term: trufel
   class: b
@@ -41897,7 +41897,7 @@ tutumli:
   term: tutumli
   class: t
   category: derived
-  translation: ""
+  translation: cardiaque
 tutumli_adolaitis:
   term: tutumli adolaitis
   class: b
@@ -42538,7 +42538,7 @@ vegan:
   term: vegan
   class: t
   category: root
-  translation: ""
+  translation: v&eacute;gan
 veganyen:
   term: veganyen
   class: b
@@ -42548,7 +42548,7 @@ vegetari:
   term: vegetari
   class: t
   category: root
-  translation: ""
+  translation: v&eacute;g&eacute;tarien
 vegetariyen:
   term: vegetariyen
   class: b
@@ -42758,7 +42758,7 @@ vite:
   term: vite
   class: b.oj
   category: root
-  translation: ""
+  translation: vis; visser
 vodka:
   term: vodka
   class: b
@@ -43306,7 +43306,7 @@ weygi:
   translation: ""
 weyhanta:
   term: weyhanta
-  class: ""
+  class: b.oj
   category: derived
   translation: 'poign&eacute;e de main; serrer la main '
 weykumax:
@@ -44013,7 +44013,7 @@ xikenjedo:
   term: xikenjedo
   class: t
   category: derived
-  translation: ""
+  translation: tortur&eacute;
 xikenjekamer:
   term: xikenjekamer
   class: b

@@ -552,8 +552,6 @@ agitita:
 agitite:
 - hunfundo
 - kalapado
-agitiĝi:
-- hunfun
 agito:
 - hunfun
 aglo:
@@ -1584,7 +1582,6 @@ anksiigi:
 - ansya
 anksiiĝi:
 - ansyacu
-- ansya
 anksiiĝo:
 - ansyacu
 anksio:
@@ -4527,8 +4524,6 @@ danĝere:
 - hataripul
 danĝerigi:
 - hatari
-danĝeriĝi:
-- hatari
 danĝero:
 - hatari
 darmŝtatio:
@@ -5016,8 +5011,8 @@ dependulo:
 deponado:
 - inplasi
 deponejo:
-- inplasidom
 - estokadom
+- inplasidom
 deponi:
 - inplasi
 depoto:
@@ -5052,7 +5047,6 @@ deprimite:
 - depresipul
 deprimiĝi:
 - depresicu
-- depresi
 deprimiĝo:
 - depresicu
 deprimo:
@@ -6380,8 +6374,6 @@ ekscitite:
 - joxudo
 ekscitiĝi:
 - hunfuncu
-- hunfun
-- joxu
 ekscitiĝo:
 - hunfuncu
 ekscito:
@@ -6533,6 +6525,8 @@ eksvalidigi:
 ektimi:
 - xorfobi
 ektimigi:
+- xorfobi
+ektimo:
 - xorfobi
 ektoskeleto:
 - exeskeleto
@@ -7474,8 +7468,12 @@ ester:
 esti:
 - sen
 - hay
+esti agitita:
+- hunfun
 esti al:
 - sen_hoy
+esti anksia:
+- ansya
 esti antaŭ:
 - leya
 esti aplikebla:
@@ -7490,6 +7488,8 @@ esti de:
 - falya
 - ofya
 - sen_of
+esti deprimita:
+- depresi
 esti direkta al:
 - hoyya
 esti direkte al:
@@ -7497,6 +7497,9 @@ esti direkte al:
 esti dum:
 - durya
 - sen_dur
+esti ekscitita:
+- hunfun
+- joxu
 esti ekster:
 - sen_ex
 esti el:
@@ -7522,8 +7525,20 @@ esti farita de:
 - sen_fal
 esti favora al:
 - sen_pro
+esti frustrita:
+- frustra
+esti impresita:
+- inxo
+esti incitita:
+- estimula
 esti inda je:
 - layeya
+esti inflamita:
+- itis
+esti inspirita:
+- ilhamu
+esti instigita:
+- estimula
 esti inteligenta:
 - cinon
 esti inter:
@@ -7546,6 +7561,10 @@ esti kancera:
 - kancer
 esti kaŭze de:
 - sen_kos
+esti komforta:
+- konforta
+esti konfuzita:
+- konhwoku
 esti kontraŭ:
 - sen_por
 esti kuna:
@@ -7559,10 +7578,20 @@ esti malsupre de:
 - sen_infra
 esti mania:
 - manika
+esti motivita:
+- estimula
 esti onia vico:
 - turno
+esti panikita:
+- paniko
+esti paralizita:
+- paralisi
+esti paranoja:
+- paranoy
 esti perforta:
 - bawlu
+esti perpleksita:
+- konhwoku
 esti por:
 - porya
 - tasya
@@ -7580,6 +7609,8 @@ esti pro:
 esti sen:
 - walya
 - sen_wal
+esti stimulilta:
+- estimula
 esti sub:
 - baxya
 - sen_bax
@@ -7594,6 +7625,8 @@ esti sur:
 - sen_per
 esti sur surfaco de:
 - perya
+esti surprizegita:
+- daysurprisa
 esti talenta:
 - talento
 esti tra:
@@ -7604,8 +7637,12 @@ esti trans:
 - sen_tras
 esti violenta:
 - bawlu
+esti ĉagrenita:
+- lawfen
 esti ĉar:
 - kosya_ki
+esti ĉarmita:
+- carme
 esti ĉe:
 - feya
 esti ĉi-flanke de:
@@ -7613,6 +7650,8 @@ esti ĉi-flanke de:
 esti ĉirkaŭ:
 - weyya
 - sen_wey
+esti ĝenita:
+- lawfen
 estinta:
 - le-
 - leli
@@ -7656,6 +7695,8 @@ estro:
 estufaĵo:
 - estuf
 estufi:
+- estuf
+estufiĝi:
 - estuf
 estulo:
 - bioyen
@@ -7906,8 +7947,6 @@ fajrejo:
 - atexalkoba
 fajrero:
 - atexmon
-fajri:
-- atex
 fajro:
 - atex
 fajroŝtono:
@@ -9387,6 +9426,8 @@ frosta:
 froste:
 - bardiday
 - daybardipul
+frosti:
+- jame
 frostigi:
 - jame
 frostigilo:
@@ -9395,15 +9436,12 @@ frostigita:
 - jamedo
 frostigite:
 - jamedo
-frostigo:
-- jame
 frostita jahurto:
 - jameyogurtu
 frostita jogurto:
 - jameyogurtu
 frostiĝi:
 - jamecu
-- jame
 frostiĝinta:
 - jamedo
 frostiĝinte:
@@ -9465,7 +9503,6 @@ frustrite:
 - frustrapul
 frustriĝi:
 - frustracu
-- frustra
 frustriĝo:
 - frustracu
 - frustra
@@ -10529,17 +10566,16 @@ haringo:
 - eringa
 harmonia:
 - armonipul
-harmoniado:
-- duarmoni
 harmonie:
 - armonipul
-harmoniigi:
+harmonii:
 - armoni
+harmoniigi:
+- armonigi
 harmoniigo:
-- duarmoni
+- armonigi
 harmoniiĝi:
 - armonicu
-- armoni
 harmoniiĝo:
 - armonicu
 harmoniko:
@@ -11321,7 +11357,6 @@ impresite:
 - inxodo
 impresiĝi:
 - inxocu
-- inxo
 impresiĝo:
 - inxocu
 impreso:
@@ -11369,8 +11404,6 @@ incitita:
 incitite:
 - estimulado
 - estimulapul
-incitiĝi:
-- estimula
 incito:
 - provoka
 - estimula
@@ -11524,8 +11557,6 @@ inflame:
 - itisli
 inflami:
 - itis
-inflamiĝi:
-- itis
 inflamo:
 - itis
 influanto:
@@ -11671,7 +11702,6 @@ inspirite:
 - ilhamudo
 inspiriĝi:
 - ilhamucu
-- ilhamu
 inspiriĝo:
 - ilhamucu
 inspiro:
@@ -11701,8 +11731,6 @@ instigita:
 instigite:
 - estimulado
 - estimulapul
-instigiĝi:
-- estimula
 instigo:
 - provoka
 - estimula
@@ -12381,10 +12409,6 @@ jukante:
 juke:
 - soyone
 juki:
-- soyo
-jukigi:
-- soyo
-jukiĝi:
 - soyo
 juko:
 - soyo
@@ -13831,7 +13855,6 @@ komfortite:
 - konfortapul
 komfortiĝi:
 - konfortacu
-- konforta
 komfortiĝo:
 - konfortacu
 komforto:
@@ -14192,7 +14215,6 @@ konfuzite:
 - konhwokudo
 konfuziĝi:
 - konhwokucu
-- konhwoku
 konfuziĝo:
 - konhwokucu
 konfuzo:
@@ -14598,9 +14620,11 @@ konuso:
 - konus
 konvalo:
 - wadisusana
+konvekcio:
+- deylyu
 konvekti:
 - deylyu
-konvektigi:
+konvektiĝi:
 - deylyu
 konvekto:
 - deylyu
@@ -16229,11 +16253,14 @@ lacigita:
 - pilodo
 lacigite:
 - pilodo
+lacigo:
+- xorpilo
 laciĝi:
 - pilocu
 - xorpilo
 laciĝo:
 - pilocu
+- xorpilo
 ladskatolo:
 - banka
 lafo:
@@ -17359,8 +17386,8 @@ madagaskaro:
 mafino:
 - mufin
 magazeno:
-- produtidom
 - estokadom
+- produtidom
 magazino:
 - zaxi
 magdalena:
@@ -20360,7 +20387,6 @@ motivite:
 - peldo
 motiviĝi:
 - estimulacu
-- estimula
 motiviĝo:
 - estimulacu
 motivo:
@@ -22425,16 +22451,12 @@ panike:
 paniki:
 - panikocu
 - paniko
-panikigi:
-- paniko
 panikita:
 - panikodo
 - panikopul
 panikite:
 - panikodo
 - panikopul
-panikiĝi:
-- paniko
 paniko:
 - panikocu
 - paniko
@@ -22533,7 +22555,6 @@ paralizite:
 - paralisido
 paraliziĝi:
 - paralisicu
-- paralisi
 paraliziĝo:
 - paralisicu
 paralizo:
@@ -22553,8 +22574,6 @@ paranoje:
 - paranoydo
 - paranoypul
 paranojigi:
-- paranoy
-paranojiĝi:
 - paranoy
 paranojo:
 - paranoy
@@ -23131,6 +23150,8 @@ perpleksa:
 - konhwokudo
 perplekse:
 - konhwokudo
+perplekseco:
+- konhwoku
 perpleksiganta:
 - konhwokune
 perpleksigante:
@@ -23139,9 +23160,6 @@ perpleksigi:
 - konhwoku
 perpleksiĝi:
 - konhwokucu
-- konhwoku
-perpleksiĝo:
-- konhwoku
 persa:
 - parsili
 persekuti:
@@ -25965,6 +25983,8 @@ rezidi:
 rezigni:
 - awizin
 - teslimu
+rezigniĝi:
+- teslimu
 rezigno:
 - awizin
 - teslimu
@@ -26809,6 +26829,8 @@ savisto:
 - juyuenyen
 savo:
 - juyuen
+saĝ-:
+- ciber-
 saĝa:
 - sofipul
 saĝe:
@@ -27400,6 +27422,8 @@ senti:
 - hisi
 senti de interne:
 - ganjon
+senti jukon:
+- soyo
 senti mankon:
 - walaganjon
 senti mankon de:
@@ -28619,7 +28643,6 @@ stimulite:
 - estimulapul
 stimuliĝi:
 - estimulacu
-- estimula
 stimuliĝo:
 - estimulacu
 stimulo:
@@ -28672,6 +28695,8 @@ strato:
 - dolo
 streketo:
 - hayfen
+stresi:
+- estres
 stresiga:
 - estresne
 - estrespul
@@ -28692,7 +28717,6 @@ stresigite:
 - estrespul
 stresiĝi:
 - estrescu
-- estres
 stresiĝinta:
 - estresdo
 - estrespul
@@ -28975,6 +28999,18 @@ suferi:
 - suferi
 suferi je:
 - suferi
+suferi je astmo:
+- astama
+suferi je doloro:
+- guton
+suferi je gripo:
+- influenza
+suferi je katarakto:
+- katarata
+suferi je morbilo:
+- majin
+suferi je pneŭmonio:
+- fefuitis
 sufero:
 - suferi
 sufikso:
@@ -29228,8 +29264,6 @@ surprizegita:
 - daysurprisado
 surprizegite:
 - daysurprisado
-surprizegiĝi:
-- daysurprisa
 surprizego:
 - daysurprisa
 surprizi:
@@ -29702,9 +29736,9 @@ tendumado:
 tendumi:
 - kampi
 tenejo:
+- estokadom
 - inplasidom
 - produtidom
-- estokadom
 tenera:
 - hasaxi
 tenere:
@@ -30025,8 +30059,6 @@ timite:
 - befobido
 timiĝi:
 - fobicu
-- fobi
-- xorfobi
 timiĝo:
 - fobicu
 timo:
@@ -30236,8 +30268,6 @@ trafikŝtopiĝo:
 - burtrafiko
 trafiĝi de artrito:
 - artroitis
-trafiĝi de astmo:
-- astama
 trafiĝi de diabeto:
 - dyabetes
 trafiĝi de encefalito:
@@ -30248,8 +30278,6 @@ trafiĝi de febro:
 - homa
 trafiĝi de gonoreo:
 - gonorey
-trafiĝi de gripo:
-- influenza
 trafiĝi de hepatito:
 - ganzoitis
 trafiĝi de herpeto:
@@ -30258,8 +30286,6 @@ trafiĝi de hipotermio:
 - infratermo
 trafiĝi de kancero:
 - kancer
-trafiĝi de katarakto:
-- katarata
 trafiĝi de lakso:
 - ishal
 trafiĝi de lepro:
@@ -30270,12 +30296,8 @@ trafiĝi de malsano:
 - osis
 trafiĝi de manio:
 - manika
-trafiĝi de morbilo:
-- majin
 trafiĝi de panikatako:
 - panikokrisis
-trafiĝi de pneŭmonio:
-- fefuitis
 trafiĝi de reŭmatismo:
 - rewmati
 trafiĝi de rubeolo:
@@ -30474,6 +30496,7 @@ traŭmatizante:
 traŭmatizi:
 - trawma
 traŭmatizita:
+- trawma
 - trawmado
 - trawmapul
 traŭmatizite:
@@ -30481,7 +30504,6 @@ traŭmatizite:
 - trawmapul
 traŭmatiziĝi:
 - trawmacu
-- trawma
 traŭmatiziĝo:
 - trawmacu
 traŭmato:
@@ -31259,6 +31281,7 @@ vapori:
 - buhar
 vaporkuiri:
 - buharkoki
+- buhar
 vaporkuirita:
 - buhardo
 vaporkuirite:
@@ -32304,7 +32327,6 @@ zumo:
 - lawfendo
 ĉagreniĝi:
 - lawfencu
-- lawfen
 ĉagreniĝo:
 - lawfencu
 ĉagreno:
@@ -32359,7 +32381,6 @@ zumo:
 - kawaywaodo
 ĉarmiĝi:
 - carmecu
-- carme
 ĉarmiĝo:
 - carmecu
 ĉarmo:
@@ -32767,7 +32788,6 @@ zumo:
 - lawfendo
 ĝeniĝi:
 - lawfencu
-- lawfen
 ĝeniĝo:
 - lawfencu
 ĝeno:
@@ -32847,7 +32867,6 @@ zumo:
 - hoxya
 ĝui:
 - befuraha
-- furaha
 ĝuo:
 - furaha
 ĝusta:

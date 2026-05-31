@@ -195,7 +195,9 @@
       - high in
     epo:
     - - riĉa je
-    spa: []
+    spa:
+    - - alto en
+      - rico en
     deu: []
     fra: []
     rus: []
@@ -210,7 +212,10 @@
     epo:
       "":
       - riĉa je
-    spa: []
+    spa:
+      "":
+      - alto en
+      - rico en
     deu: []
     fra: []
     rus: []
@@ -882,7 +887,9 @@
     - - 'adj/adv sfx: low in'
     epo:
     - - malriĉa je
-    spa: []
+    spa:
+    - - bajo en
+      - pobre en
     deu: []
     fra: []
     rus: []
@@ -896,7 +903,10 @@
     epo:
       "":
       - malriĉa je
-    spa: []
+    spa:
+      "":
+      - bajo en
+      - pobre en
     deu: []
     fra: []
     rus: []
@@ -4111,7 +4121,9 @@ adatecu:
     epo:
     - - 's: adaptiĝo'
     - - 'v.ntr (opcia uzo de -cu): adaptiĝi'
-    spa: []
+    spa:
+    - - adaptación
+    - - adaptarse
     deu: []
     fra: []
     rus: []
@@ -4130,7 +4142,11 @@ adatecu:
       - adaptiĝo
       v.ntr (opcia uzo de -cu):
       - adaptiĝi
-    spa: []
+    spa:
+      noun:
+      - adaptación
+      verb:
+      - adaptarse
     deu: []
     fra: []
     rus: []
@@ -6780,7 +6796,8 @@ afganiyen:
     fra:
     - - Afghan
     rus: []
-    zho: []
+    zho:
+    - - 阿富汗人
     hin: []
     ara: []
   trans_v2:
@@ -6798,7 +6815,9 @@ afganiyen:
       "":
       - Afghan
     rus: []
-    zho: []
+    zho:
+      "":
+      - 阿富汗人
     hin: []
     ara: []
   etymology:
@@ -14978,7 +14997,9 @@ amarayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 阿姆哈拉人
+      - 安哈拉人
     hin: []
     ara: []
   trans_v2:
@@ -14995,7 +15016,10 @@ amarayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 阿姆哈拉人
+      - 安哈拉人
     hin: []
     ara: []
   etymology:
@@ -19602,7 +19626,8 @@ angolayen:
     rus:
     - - анголец
       - анголка
-    zho: []
+    zho:
+    - - 安哥拉人
     hin: []
     ara: []
   trans_v2:
@@ -19621,7 +19646,9 @@ angolayen:
       "":
       - анголец
       - анголка
-    zho: []
+    zho:
+      "":
+      - 安哥拉人
     hin: []
     ara: []
   etymology:
@@ -20386,7 +20413,7 @@ ansya:
     epo:
     - - 's: anksio'
     - - 'v.tr: anksiigi'
-    - - 'v.ntr: anksiiĝi'
+    - - 'v.ntr: esti anksia'
     spa:
     - - ansiedad
       - ansia
@@ -20413,7 +20440,7 @@ ansya:
       v.tr:
       - anksiigi
       v.ntr:
-      - anksiiĝi
+      - esti anksia
     spa:
       noun:
       - ansiedad
@@ -24504,19 +24531,16 @@ armadilo:
       Turkisa: armadillo
 armoni:
   term: armoni
-  word class: b.oro
+  word class: b.nenoj
   category: root
   trans:
     eng:
     - - 'n: harmony'
-    - - 'v.tr: harmonize'
+    - - 'v.intr: harmonize (<em>be in harmony</em>)'
       - harmonise
-    - - 'v.intr (optional -cu): become harmonized'
-      - become harmonised
     epo:
     - - 's: harmonio'
-    - - 'v.tr: harmoniigi'
-    - - 'v.ntr (opcia uzo de -cu): harmoniiĝi'
+    - - 'v.ntr: harmonii'
     spa:
     - - (h)armonía
     - - (h)armonizar(se)
@@ -24532,19 +24556,14 @@ armoni:
     eng:
       "n":
       - harmony
-      v.tr:
-      - harmonize
+      v.intr:
+      - harmonize (<em>be in harmony</em>)
       - harmonise
-      v.intr (optional -cu):
-      - become harmonized
-      - become harmonised
     epo:
       s:
       - harmonio
-      v.tr:
-      - harmoniigi
-      v.ntr (opcia uzo de -cu):
-      - harmoniiĝi
+      v.ntr:
+      - harmonii
     spa:
       noun:
       - (h)armonía
@@ -24610,6 +24629,49 @@ armonicu:
     - armoni
     - +
     - -cu
+armonigi:
+  term: armonigi
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - 'n: harmonization'
+    - - 'v.tr: harmonize'
+      - harmonise
+    epo:
+    - - 's: harmoniigo'
+    - - 'v.tr: harmoniigi'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - harmonization
+      v.tr:
+      - harmonize
+      - harmonise
+    epo:
+      s:
+      - harmoniigo
+      v.tr:
+      - harmoniigi
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - armoni
+    - +
+    - -gi
 armonika:
   term: armonika
   word class: b
@@ -25955,8 +26017,11 @@ artroitis:
     - - артрит
     zho:
     - - 关节炎
-    hin: []
-    ara: []
+    hin:
+    - - गठिया
+      - संधि शोथ
+    ara:
+    - - اِلْتِهَاب الْمَفَاصِل
   trans_v2:
     eng:
       "n":
@@ -25990,8 +26055,13 @@ artroitis:
     zho:
       "":
       - 关节炎
-    hin: []
-    ara: []
+    hin:
+      "":
+      - गठिया
+      - संधि शोथ
+    ara:
+      "":
+      - اِلْتِهَاب الْمَفَاصِل
   etymology:
     derived:
     - artro
@@ -27913,7 +27983,7 @@ astama:
     epo:
     - - 's: astmo'
     - - 'v.tr: kaŭzi astmon'
-    - - 'v.ntr: trafiĝi de astmo'
+    - - 'v.ntr: suferi je astmo'
     spa:
     - - asma
     deu:
@@ -27945,7 +28015,7 @@ astama:
       v.tr:
       - kaŭzi astmon
       v.ntr:
-      - trafiĝi de astmo
+      - suferi je astmo
     spa:
       "":
       - asma
@@ -28924,7 +28994,6 @@ atex:
     - - 's: fajro'
     - - 'v.tr: (ek)bruligi'
     - - 'v.ntr (opcia uzo de -cu): bruli'
-      - fajri
     spa:
     - - fuego
       - lumbre
@@ -28954,7 +29023,6 @@ atex:
       - (ek)bruligi
       v.ntr (opcia uzo de -cu):
       - bruli
-      - fajri
     spa:
       noun:
       - fuego
@@ -35869,7 +35937,8 @@ azerbayjansa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 阿塞拜疆语
     hin: []
     ara: []
   trans_v2:
@@ -35889,7 +35958,9 @@ azerbayjansa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 阿塞拜疆语
     hin: []
     ara: []
   etymology:
@@ -35914,7 +35985,8 @@ azerbayjanyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 阿塞拜疆人
     hin: []
     ara: []
   trans_v2:
@@ -35933,7 +36005,9 @@ azerbayjanyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 阿塞拜疆人
     hin: []
     ara: []
   etymology:
@@ -49822,7 +49896,8 @@ belgiyen:
     rus:
     - - бельгиец
       - бельгийка
-    zho: []
+    zho:
+    - - 比利时人
     hin: []
     ara: []
   trans_v2:
@@ -49841,7 +49916,9 @@ belgiyen:
       "":
       - бельгиец
       - бельгийка
-    zho: []
+    zho:
+      "":
+      - 比利时人
     hin: []
     ara: []
   etymology:
@@ -55859,7 +55936,7 @@ bisu:
       - mandatory
       - indispensable
       - essential
-    - - 'root suffix: which must be done'
+    - - 'root sfx: which must be done'
       - which must happen
       - must-
     epo:
@@ -55888,7 +55965,7 @@ bisu:
       - mandatory
       - indispensable
       - essential
-      root suffix:
+      root sfx:
       - which must be done
       - which must happen
       - must-
@@ -58279,7 +58356,7 @@ boloku:
   category: root
   trans:
     eng:
-    - - 'n: block (<em>approximately cuboid or rectangular object or group</em>)'
+    - - 'n: block (<em>approximately cuboid or rectangular object</em>)'
     epo:
     - - 's: bloko'
     spa:
@@ -58303,7 +58380,7 @@ boloku:
   trans_v2:
     eng:
       "n":
-      - block (<em>approximately cuboid or rectangular object or group</em>)
+      - block (<em>approximately cuboid or rectangular object</em>)
     epo:
       s:
       - bloko
@@ -64329,6 +64406,7 @@ buhar:
     epo:
     - - 's: vaporo'
     - - 'v.tr: vaporumi'
+      - vaporkuiri
     - - 'v.ntr (opcia uzo de -cu): vapori'
     spa:
     - - vapor
@@ -64355,6 +64433,7 @@ buhar:
       - vaporo
       v.tr:
       - vaporumi
+      - vaporkuiri
       v.ntr (opcia uzo de -cu):
       - vapori
     spa:
@@ -65359,7 +65438,8 @@ bulgarisa:
     fra: []
     rus:
     - - болгарский (язык)
-    zho: []
+    zho:
+    - - 保加利亚語
     hin: []
     ara: []
   trans_v2:
@@ -65377,7 +65457,9 @@ bulgarisa:
     rus:
       "":
       - болгарский (язык)
-    zho: []
+    zho:
+      "":
+      - 保加利亚語
     hin: []
     ara: []
   etymology:
@@ -65401,7 +65483,8 @@ bulgariyen:
     rus:
     - - болгарин
       - болгарка
-    zho: []
+    zho:
+    - - 保加利亚人
     hin: []
     ara: []
   trans_v2:
@@ -65420,7 +65503,9 @@ bulgariyen:
       "":
       - болгарин
       - болгарка
-    zho: []
+    zho:
+      "":
+      - 保加利亚人
     hin: []
     ara: []
   etymology:
@@ -71857,7 +71942,7 @@ carme:
     epo:
     - - 's: ĉarmo'
     - - 'v.tr: ĉarmi'
-    - - 'v.ntr: ĉarmiĝi'
+    - - 'v.ntr: esti ĉarmita'
     spa:
     - - encanto
       - atractivo
@@ -71891,7 +71976,7 @@ carme:
       v.tr:
       - ĉarmi
       v.ntr:
-      - ĉarmiĝi
+      - esti ĉarmita
     spa:
       noun:
       - encanto
@@ -74080,8 +74165,10 @@ cen:
       - сотня
     zho:
     - - 百
-    hin: []
-    ara: []
+    hin:
+    - - सौ
+    ara:
+    - - مِئَة
   trans_v2:
     eng:
       num:
@@ -74107,8 +74194,12 @@ cen:
     zho:
       "":
       - 百
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सौ
+    ara:
+      "":
+      - مِئَة
   etymology:
     natlang:
       Englisa: century
@@ -76357,6 +76448,7 @@ ciber-:
     epo:
     - - kiber-
       - ret-
+      - saĝ-
     spa:
     - - ciber-
       - <em>smart</em>
@@ -76391,6 +76483,7 @@ ciber-:
       "":
       - kiber-
       - ret-
+      - saĝ-
     spa:
       "":
       - ciber-
@@ -80739,7 +80832,7 @@ cote:
   category: root
   trans:
     eng:
-    - - 'adj: short (<em>opp of tall, high</em>)'
+    - - 'adj: short (<em>opp of tall</em>)'
       - low
     - - 'adv: low'
     epo:
@@ -80757,7 +80850,7 @@ cote:
   trans_v2:
     eng:
       adj:
-      - short (<em>opp of tall, high</em>)
+      - short (<em>opp of tall</em>)
       - low
       adv:
       - low
@@ -94501,7 +94594,7 @@ daysurprisa:
     epo:
     - - 's: surprizego'
     - - 'v.tr: surprizegi'
-    - - 'v.ntr: surprizegiĝi'
+    - - 'v.ntr: esti surprizegita'
     spa:
     - - pasmo
     - - pasmarse
@@ -94528,7 +94621,7 @@ daysurprisa:
       v.tr:
       - surprizegi
       v.ntr:
-      - surprizegiĝi
+      - esti surprizegita
     spa:
       noun:
       - pasmo
@@ -99245,7 +99338,7 @@ depresi:
     - - 's: depresio'
       - deprimo
     - - 'v.tr: deprimi'
-    - - 'v.ntr: deprimiĝi'
+    - - 'v.ntr: esti deprimita'
     spa:
     - - depresión
     - - estar deprimido
@@ -99271,7 +99364,7 @@ depresi:
       v.tr:
       - deprimi
       v.ntr:
-      - deprimiĝi
+      - esti deprimita
     spa:
       noun:
       - depresión
@@ -99567,11 +99660,16 @@ des:
       - 10(^1)
     deu:
     - - zehn
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    fra:
+    - - dix
+    rus:
+    - - десять
+    zho:
+    - - 十
+    hin:
+    - - दस
+    ara:
+    - - عَشَرَة
   trans_v2:
     eng:
       num:
@@ -99587,11 +99685,21 @@ des:
     deu:
       "":
       - zehn
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    fra:
+      "":
+      - dix
+    rus:
+      "":
+      - десять
+    zho:
+      "":
+      - 十
+    hin:
+      "":
+      - दस
+    ara:
+      "":
+      - عَشَرَة
   etymology:
     natlang:
       Espanisa: diez
@@ -101470,8 +101578,9 @@ deylyu:
     - - 'v.intr (optional -cu): convect'
     epo:
     - - 's: konvekto'
-    - - 'v.tr: konvektigi'
-    - - 'v.ntr (opcia uzo de -cu): konvekti'
+      - konvekcio
+    - - 'v.tr: konvekti'
+    - - 'v.ntr (opcia uzo de -cu): konvektiĝi'
     spa:
     - - convección
     - - mover por convección
@@ -101493,10 +101602,11 @@ deylyu:
     epo:
       s:
       - konvekto
+      - konvekcio
       v.tr:
-      - konvektigi
-      v.ntr (opcia uzo de -cu):
       - konvekti
+      v.ntr (opcia uzo de -cu):
+      - konvektiĝi
     spa:
       noun:
       - convección
@@ -110172,11 +110282,16 @@ dua:
     - - dos
     deu:
     - - zwei
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    fra:
+    - - deux
+    rus:
+    - - два
+    zho:
+    - - 二
+    hin:
+    - - दो
+    ara:
+    - - اِثْنَان
   trans_v2:
     eng:
       num:
@@ -110194,11 +110309,21 @@ dua:
     deu:
       "":
       - zwei
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    fra:
+      "":
+      - deux
+    rus:
+      "":
+      - два
+    zho:
+      "":
+      - 二
+    hin:
+      "":
+      - दो
+    ara:
+      "":
+      - اِثْنَان
   etymology:
     natlang:
       Banglasa: দুই &ldquo;du&#039;i&rdquo;
@@ -111372,70 +111497,6 @@ duaple_basun:
     - dua
     - +
     - -ple
-duarmoni:
-  term: duarmoni
-  word class: b
-  category: derived
-  trans:
-    eng:
-    - - 'n: harmonization'
-      - harmonisation
-    epo:
-    - - 's: harmoniigo'
-      - harmoniado
-    spa:
-    - - 's: armonización'
-    deu:
-    - - 'S: Harmonisierung'
-    fra:
-    - - 'n: harmonisation'
-    rus:
-    - - 'сущ: гармонизация'
-    zho:
-    - - '名: 和谐化'
-      - 协调化
-    hin:
-    - - 'सं: सामंजस्य'
-      - मेलजोल
-    ara:
-    - - 'اسم: مُوَاءَمَة، تَوْلِيف هَارْمُونِيّ'
-  trans_v2:
-    eng:
-      "n":
-      - harmonization
-      - harmonisation
-    epo:
-      s:
-      - harmoniigo
-      - harmoniado
-    spa:
-      s:
-      - armonización
-    deu:
-      S:
-      - Harmonisierung
-    fra:
-      "n":
-      - harmonisation
-    rus:
-      сущ:
-      - гармонизация
-    zho:
-      名:
-      - 和谐化
-      - 协调化
-    hin:
-      सं:
-      - सामंजस्य
-      - मेलजोल
-    ara:
-      اسم:
-      - مُوَاءَمَة، تَوْلِيف هَارْمُونِيّ
-  etymology:
-    derived:
-    - du-
-    - +
-    - armoni
 duato:
   term: duato
   word class: b
@@ -120286,7 +120347,8 @@ ekwadoryen:
     fra: []
     rus:
     - - Эквадор
-    zho: []
+    zho:
+    - - 厄瓜多尔人
     hin: []
     ara: []
   trans_v2:
@@ -120304,7 +120366,9 @@ ekwadoryen:
     rus:
       "":
       - Эквадор
-    zho: []
+    zho:
+      "":
+      - 厄瓜多尔人
     hin: []
     ara: []
   etymology:
@@ -120392,8 +120456,10 @@ ekwatoragine:
     - - Экваториальная Гвинея
     zho:
     - - 赤道几内亚
-    hin: []
-    ara: []
+    hin:
+    - - भूमध्यरेखीय गिनी
+    ara:
+    - - غينيا الاستوائية
   trans_v2:
     eng:
       prop n:
@@ -120416,8 +120482,12 @@ ekwatoragine:
     zho:
       "":
       - 赤道几内亚
-    hin: []
-    ara: []
+    hin:
+      "":
+      - भूमध्यरेखीय गिनी
+    ara:
+      "":
+      - غينيا الاستوائية
   etymology:
     natlang:
       Espanisa: Guinea Ecuatorial
@@ -121748,7 +121818,7 @@ eliniyen:
     spa:
     - - griego (<em>persona</em>)
     deu:
-    - - Este
+    - - Grieche
     fra: []
     rus:
     - - грек
@@ -121769,7 +121839,7 @@ eliniyen:
       - griego (<em>persona</em>)
     deu:
       "":
-      - Este
+      - Grieche
     fra: []
     rus:
       "":
@@ -126697,7 +126767,8 @@ eskizofreni:
     zho:
     - - 精神分裂症
       - 思覺失調症
-    hin: []
+    hin:
+    - - मनोविदलता
     ara: []
   trans_v2:
     eng:
@@ -126737,7 +126808,9 @@ eskizofreni:
       "":
       - 精神分裂症
       - 思覺失調症
-    hin: []
+    hin:
+      "":
+      - मनोविदलता
     ara: []
   etymology:
     natlang:
@@ -132836,10 +132909,10 @@ estimula:
       - instigi
       - inciti
       - motivigi
-    - - 'v.ntr: stimuliĝi'
-      - instigiĝi
-      - incitiĝi
-      - motiviĝi
+    - - 'v.ntr: esti stimulilta'
+      - esti instigita
+      - esti incitita
+      - esti motivita
     spa:
     - - estímulo
       - motivación
@@ -132876,10 +132949,10 @@ estimula:
       - inciti
       - motivigi
       v.ntr:
-      - stimuliĝi
-      - instigiĝi
-      - incitiĝi
-      - motiviĝi
+      - esti stimulilta
+      - esti instigita
+      - esti incitita
+      - esti motivita
     spa:
       noun:
       - estímulo
@@ -133989,7 +134062,7 @@ estres:
     epo:
     - - 's: streso'
     - - 'v.tr: stresigi'
-    - - 'v.ntr: stresiĝi'
+    - - 'v.ntr: stresi'
     spa:
     - - estrés
     - - estar estresado
@@ -134014,7 +134087,7 @@ estres:
       v.tr:
       - stresigi
       v.ntr:
-      - stresiĝi
+      - stresi
     spa:
       noun:
       - estrés
@@ -134865,18 +134938,21 @@ estudiyen:
     - -yen
 estuf:
   term: estuf
-  word class: ""
+  word class: b.oro
   category: root
   trans:
     eng:
-    - - stew
-    - - stew
+    - - 'n: stew'
+    - - 'v.tr: stew'
+    - - 'v.intr (optional -cu): stew'
     epo:
-    - - estufaĵo
-    - - estufi
+    - - 's: estufaĵo'
+    - - 'v.tr: estufi'
+    - - 'v.ntr (opcia uzo de -cu): estufiĝi'
     spa:
     - - estofado
     - - estofar
+    - - estofarse
     deu: []
     fra: []
     rus: []
@@ -134887,20 +134963,24 @@ estuf:
     ara: []
   trans_v2:
     eng:
-      noun:
+      "n":
       - stew
-      verb:
+      v.tr:
+      - stew
+      v.intr (optional -cu):
       - stew
     epo:
-      noun:
+      s:
       - estufaĵo
-      verb:
+      v.tr:
       - estufi
+      v.ntr (opcia uzo de -cu):
+      - estufiĝi
     spa:
       noun:
       - estofado
       verb:
-      - estofar
+      - estofarse
     deu: []
     fra: []
     rus: []
@@ -149450,7 +149530,7 @@ fefuitis:
       - pneŭmonio
       - pulmobrulumo
     - - 'v.tr: kaŭzi pneŭmonion'
-    - - 'v.ntr: trafiĝi de pneŭmonio'
+    - - 'v.ntr: suferi je pneŭmonio'
     spa:
     - - pulmonía
       - neumonía
@@ -149479,7 +149559,7 @@ fefuitis:
       v.tr:
       - kaŭzi pneŭmonion
       v.ntr:
-      - trafiĝi de pneŭmonio
+      - suferi je pneŭmonio
     spa:
       "":
       - pulmonía
@@ -158408,7 +158488,6 @@ fobi:
       - fobio
     - - 'v.tr: timigi'
     - - 'v.ntr: timi'
-      - timiĝi
     spa:
     - - miedo
       - temor
@@ -158444,7 +158523,6 @@ fobi:
       - timigi
       v.ntr:
       - timi
-      - timiĝi
     spa:
       noun:
       - miedo
@@ -163090,7 +163168,7 @@ frustra:
     - - 's: frustriĝo'
       - frustracio
     - - 'v.tr: frustri'
-    - - 'v.ntr: frustriĝi'
+    - - 'v.ntr: esti frustrita'
     spa:
     - - frustración
     - - estar frustrado
@@ -163116,7 +163194,7 @@ frustra:
       v.tr:
       - frustri
       v.ntr:
-      - frustriĝi
+      - esti frustrita
     spa:
       noun:
       - frustración
@@ -164970,8 +165048,7 @@ furaha:
       - plezuro
     - - 'v.tr: plezurigi'
       - plaĉi
-    - - 'v.ntr: ĝui'
-      - plezuri
+    - - 'v.ntr: plezuri'
     spa:
     - - disfrute
       - placer
@@ -165007,7 +165084,6 @@ furaha:
       - plezurigi
       - plaĉi
       v.ntr:
-      - ĝui
       - plezuri
     spa:
       noun:
@@ -169658,8 +169734,11 @@ ganzoitis:
     - - гепатит
     zho:
     - - 肝炎
-    hin: []
-    ara: []
+    hin:
+    - - हेपेटाइटिस
+      - यकृत शोथ
+    ara:
+    - - اِلْتِهَاب الْكَبِد. التهاب كبدي
   trans_v2:
     eng:
       "n":
@@ -169697,8 +169776,13 @@ ganzoitis:
     zho:
       "":
       - 肝炎
-    hin: []
-    ara: []
+    hin:
+      "":
+      - हेपेटाइटिस
+      - यकृत शोथ
+    ara:
+      "":
+      - اِلْتِهَاب الْكَبِد. التهاب كبدي
   etymology:
     derived:
     - ganzo
@@ -179219,8 +179303,11 @@ gonorey:
       - триппер
     zho:
     - - 淋病
-    hin: []
-    ara: []
+    hin:
+    - - प्रमेह
+      - गोनोरिया
+    ara:
+    - - سَيَلَان (مرض)
   trans_v2:
     eng:
       "n":
@@ -179261,8 +179348,13 @@ gonorey:
     zho:
       "":
       - 淋病
-    hin: []
-    ara: []
+    hin:
+      "":
+      - प्रमेह
+      - गोनोरिया
+    ara:
+      "":
+      - سَيَلَان (مرض)
   etymology:
     natlang:
       Doycisa: Gonorrhoe
@@ -183688,12 +183780,17 @@ guton:
     - - 'n: pain'
       - ache
     - - 'v.tr: hurt (<em>cause pain</em>)'
-    - - 'v.intr: ache'
-      - hurt (<em>feel pain, have pain, suffer from pain</em>)
+    - - 'v.intr: <em>feel pain</em>'
+      - <em>have pain</em>
+      - <em>suffer from pain</em>
+      - <em>be in pain</em>
+      - ache
+      - hurt
     epo:
     - - 's: doloro'
-    - - 'v.tr: dolorigi'
-    - - 'v.ntr: dolori'
+    - - 'v.tr: dolori'
+      - dolorigi
+    - - 'v.ntr: suferi je doloro'
     spa:
     - - dolor
     - - sentir dolor
@@ -183713,15 +183810,20 @@ guton:
       v.tr:
       - hurt (<em>cause pain</em>)
       v.intr:
+      - <em>feel pain</em>
+      - <em>have pain</em>
+      - <em>suffer from pain</em>
+      - <em>be in pain</em>
       - ache
-      - hurt (<em>feel pain, have pain, suffer from pain</em>)
+      - hurt
     epo:
       s:
       - doloro
       v.tr:
+      - dolori
       - dolorigi
       v.ntr:
-      - dolori
+      - suferi je doloro
     spa:
       noun:
       - dolor
@@ -191251,7 +191353,6 @@ hatari:
     - - 's: danĝero'
     - - 'v.tr: danĝerigi'
     - - 'v.ntr: esti danĝera'
-      - danĝeriĝi
     spa:
     - - peligro
     - - ser peligroso
@@ -191278,7 +191379,6 @@ hatari:
       - danĝerigi
       v.ntr:
       - esti danĝera
-      - danĝeriĝi
     spa:
       noun:
       - peligro
@@ -191489,7 +191589,9 @@ haulsa:
     rus:
     - - вой
     - - выть
-    zho: []
+    zho:
+    - - 嚎叫
+    - - 嚎叫
     hin: []
     ara: []
   trans_v2:
@@ -191525,7 +191627,11 @@ haulsa:
       - вой
       verb:
       - выть
-    zho: []
+    zho:
+      noun:
+      - 嚎叫
+      verb:
+      - 嚎叫
     hin: []
     ara: []
   etymology:
@@ -192168,7 +192274,9 @@ haxhaxa:
     epo:
     - - 's: susuro'
     - - 'v.ntr: susuri'
-    spa: []
+    spa:
+    - - susurro
+    - - susurrar
     deu: []
     fra: []
     rus: []
@@ -192186,7 +192294,11 @@ haxhaxa:
       - susuro
       v.ntr:
       - susuri
-    spa: []
+    spa:
+      noun:
+      - susurro
+      verb:
+      - susurrar
     deu: []
     fra: []
     rus: []
@@ -196173,8 +196285,10 @@ herpes:
     - - герпес
     zho:
     - - 疱疹
-    hin: []
-    ara: []
+    hin:
+    - - हरपीज
+    ara:
+    - - هربس
   trans_v2:
     eng:
       "n":
@@ -196208,8 +196322,12 @@ herpes:
     zho:
       "":
       - 疱疹
-    hin: []
-    ara: []
+    hin:
+      "":
+      - हरपीज
+    ara:
+      "":
+      - هربس
   etymology:
     natlang:
       Arabisa: هربس &ldquo;hirbis&rdquo;
@@ -197980,7 +198098,8 @@ hindiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 印地语人
     hin: []
     ara: []
   trans_v2:
@@ -197996,7 +198115,9 @@ hindiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 印地语人
     hin: []
     ara: []
   etymology:
@@ -198796,7 +198917,9 @@ hipokrate:
     - - Гиппократ
     zho:
     - - 希波克拉底
-    hin: []
+    hin:
+    - - हिपोक्रेटिस. हिपॉक्रेटीज़
+      - बुक़रात
     ara:
     - - أَبُقْرَاط
   trans_v2:
@@ -198821,7 +198944,10 @@ hipokrate:
     zho:
       "":
       - 希波克拉底
-    hin: []
+    hin:
+      "":
+      - हिपोक्रेटिस. हिपॉक्रेटीज़
+      - बुक़रात
     ara:
       "":
       - أَبُقْرَاط
@@ -200796,7 +200922,8 @@ hondura:
     - - 洪都拉斯
     hin:
     - - होंडुरास
-    ara: []
+    ara:
+    - - هندوراس
   trans_v2:
     eng:
       prop n:
@@ -200822,7 +200949,9 @@ hondura:
     hin:
       "":
       - होंडुरास
-    ara: []
+    ara:
+      "":
+      - هندوراس
   etymology:
     natlang:
       Espanisa: Honduras
@@ -200878,7 +201007,8 @@ hondurayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 洪都拉斯人
     hin: []
     ara: []
   trans_v2:
@@ -200894,7 +201024,9 @@ hondurayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 洪都拉斯人
     hin: []
     ara: []
   etymology:
@@ -203642,8 +203774,8 @@ hunfun:
       - agito
     - - 'v.tr: eksciti'
       - agiti
-    - - 'v.ntr: ekscitiĝi'
-      - agitiĝi
+    - - 'v.ntr: esti ekscitita'
+      - esti agitita
     spa:
     - - agitación
       - excitación
@@ -203682,8 +203814,8 @@ hunfun:
       - eksciti
       - agiti
       v.ntr:
-      - ekscitiĝi
-      - agitiĝi
+      - esti ekscitita
+      - esti agitita
     spa:
       noun:
       - agitación
@@ -207628,7 +207760,7 @@ ilhamu:
     epo:
     - - 's: inspiro'
     - - 'v.tr: inspiri'
-    - - 'v.ntr: inspiriĝi'
+    - - 'v.ntr: esti inspirita'
     spa:
     - - inspiración
     - - estar inspirado
@@ -207653,7 +207785,7 @@ ilhamu:
       v.tr:
       - inspiri
       v.ntr:
-      - inspiriĝi
+      - esti inspirita
     spa:
       noun:
       - inspiración
@@ -208658,8 +208790,10 @@ imi:
     zho:
     - - 我们
       - 俺们
-    hin: []
-    ara: []
+    hin:
+    - - हम
+    ara:
+    - - نَحْنُ
   trans_v2:
     eng:
       pron:
@@ -208685,8 +208819,12 @@ imi:
       "":
       - 我们
       - 俺们
-    hin: []
-    ara: []
+    hin:
+      "":
+      - हम
+    ara:
+      "":
+      - نَحْنُ
   etymology:
     am oko:
       mi: mi
@@ -209920,7 +210058,10 @@ indonesisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 印尼语
+      - 印尼话
+      - 印度尼西亚语
     hin: []
     ara: []
   trans_v2:
@@ -209936,7 +210077,11 @@ indonesisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 印尼语
+      - 印尼话
+      - 印度尼西亚语
     hin: []
     ara: []
   etymology:
@@ -209958,7 +210103,9 @@ indonesiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 印度尼西亚人
+      - 印尼人
     hin: []
     ara: []
   trans_v2:
@@ -209974,7 +210121,10 @@ indonesiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 印度尼西亚人
+      - 印尼人
     hin: []
     ara: []
   etymology:
@@ -210532,7 +210682,7 @@ influenza:
     - - 's: gripo'
       - influenco
     - - 'v.tr: kaŭzi gripon'
-    - - 'v.ntr: trafiĝi de gripo'
+    - - 'v.ntr: suferi je gripo'
     spa:
     - - gripe
       - gripa
@@ -210571,7 +210721,7 @@ influenza:
       v.tr:
       - kaŭzi gripon
       v.ntr:
-      - trafiĝi de gripo
+      - suferi je gripo
     spa:
       noun:
       - gripe
@@ -215953,7 +216103,7 @@ inxo:
     epo:
     - - 's: impreso'
     - - 'v.tr: impresi'
-    - - 'v.ntr: impresiĝi'
+    - - 'v.ntr: esti impresita'
     spa:
     - - impresión
     - - estar impresionado
@@ -215978,7 +216128,7 @@ inxo:
       v.tr:
       - impresi
       v.ntr:
-      - impresiĝi
+      - esti impresita
     spa:
       noun:
       - impresión
@@ -216521,7 +216671,8 @@ irakiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 伊拉克人
     hin: []
     ara: []
   trans_v2:
@@ -216537,7 +216688,9 @@ irakiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 伊拉克人
     hin: []
     ara: []
   etymology:
@@ -216651,7 +216804,8 @@ iranyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 伊朗人
     hin: []
     ara: []
   trans_v2:
@@ -216667,7 +216821,9 @@ iranyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 伊朗人
     hin: []
     ara: []
   etymology:
@@ -216822,7 +216978,7 @@ iris:
     epo:
     - - 'prop n: Iriso (<em>mitologio</em>)'
     spa:
-    - - Iris (<em>mitología</em>)
+    - - Iris (<em>nombre</em>)
     deu:
     - - IriS (<em>Name</em>)
     fra:
@@ -216832,7 +216988,8 @@ iris:
     zho:
     - - 伊里斯
     hin: []
-    ara: []
+    ara:
+    - - إيريس
   trans_v2:
     eng:
       prop n:
@@ -216842,7 +216999,7 @@ iris:
       - Iriso (<em>mitologio</em>)
     spa:
       "":
-      - Iris (<em>mitología</em>)
+      - Iris (<em>nombre</em>)
     deu:
       "":
       - IriS (<em>Name</em>)
@@ -216856,7 +217013,9 @@ iris:
       "":
       - 伊里斯
     hin: []
-    ara: []
+    ara:
+      "":
+      - إيريس
   etymology:
     natlang:
       Elinisa: Ἶ&rho;ῐ&sigmaf; &ldquo;iris&rdquo;
@@ -217682,7 +217841,8 @@ islandisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 冰岛语
     hin: []
     ara: []
   trans_v2:
@@ -217698,7 +217858,9 @@ islandisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 冰岛语
     hin: []
     ara: []
   etymology:
@@ -217720,7 +217882,8 @@ islandiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 冰岛人
     hin: []
     ara: []
   trans_v2:
@@ -217736,7 +217899,9 @@ islandiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 冰岛人
     hin: []
     ara: []
   etymology:
@@ -218568,7 +218733,9 @@ italisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 意大利语
+      - 意语
     hin: []
     ara: []
   trans_v2:
@@ -218584,7 +218751,10 @@ italisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 意大利语
+      - 意语
     hin: []
     ara: []
   etymology:
@@ -218606,7 +218776,8 @@ italiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 意大利人
     hin: []
     ara: []
   trans_v2:
@@ -218622,7 +218793,9 @@ italiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 意大利人
     hin: []
     ara: []
   etymology:
@@ -218876,7 +219049,7 @@ itis:
     epo:
     - - 's: inflamo'
     - - 'v.tr: inflami'
-    - - 'v.ntr: inflamiĝi'
+    - - 'v.ntr: esti inflamita'
     spa:
     - - inflamación
     - - inflamar
@@ -218903,7 +219076,7 @@ itis:
       v.tr:
       - inflami
       v.ntr:
-      - inflamiĝi
+      - esti inflamita
     spa:
       noun:
       - inflamación
@@ -219265,7 +219438,8 @@ ityopiyen:
     - - Éthiopien
     rus:
     - - эфиоп
-    zho: []
+    zho:
+    - - 埃塞俄比亚人
     hin: []
     ara: []
   trans_v2:
@@ -219288,7 +219462,9 @@ ityopiyen:
     rus:
       "":
       - эфиоп
-    zho: []
+    zho:
+      "":
+      - 埃塞俄比亚人
     hin: []
     ara: []
   etymology:
@@ -219432,6 +219608,7 @@ ivrisa:
       - еврейский (язык)
     zho:
     - - 希伯来语
+      - 希伯来文
     hin: []
     ara: []
   trans_v2:
@@ -219455,6 +219632,7 @@ ivrisa:
     zho:
       "":
       - 希伯来语
+      - 希伯来文
     hin: []
     ara: []
   etymology:
@@ -219476,7 +219654,8 @@ ivriyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 希伯来人
     hin: []
     ara: []
   trans_v2:
@@ -219492,7 +219671,9 @@ ivriyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 希伯来人
     hin: []
     ara: []
   etymology:
@@ -222906,9 +223087,8 @@ jame:
     - - 'v.intr: be frozen'
     epo:
     - - 's: frosto'
-      - frostigo
     - - 'v.tr: frostigi'
-    - - 'v.ntr: frostiĝi'
+    - - 'v.ntr: frosti'
     spa:
     - - congelado
     deu: []
@@ -222929,11 +223109,10 @@ jame:
     epo:
       s:
       - frosto
-      - frostigo
       v.tr:
       - frostigi
       v.ntr:
-      - frostiĝi
+      - frosti
     spa:
       "":
       - congelado
@@ -224053,7 +224232,9 @@ janucu:
     epo:
     - - 's: genuiĝo'
     - - 'v.ntr: genuiĝi'
-    spa: []
+    spa:
+    - - arrodillamiento
+    - - arrodillarse
     deu: []
     fra: []
     rus: []
@@ -224071,7 +224252,11 @@ janucu:
       - genuiĝo
       v.ntr:
       - genuiĝi
-    spa: []
+    spa:
+      noun:
+      - arrodillamiento
+      verb:
+      - arrodillarse
     deu: []
     fra: []
     rus: []
@@ -226141,7 +226326,8 @@ jazairyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 阿尔及利亚人
     hin: []
     ara: []
   trans_v2:
@@ -226157,7 +226343,9 @@ jazairyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 阿尔及利亚人
     hin: []
     ara: []
   etymology:
@@ -231861,7 +232049,7 @@ joxu:
     - - 'v.tr: entuziasmigi'
       - eksciti
     - - 'v.ntr: entuziasmi'
-      - ekscitiĝi
+      - esti ekscitita
     spa:
     - - entusiasmo
       - emoción
@@ -231896,7 +232084,7 @@ joxu:
       - eksciti
       v.ntr:
       - entuziasmi
-      - ekscitiĝi
+      - esti ekscitita
     spa:
       noun:
       - entusiasmo
@@ -241459,7 +241647,8 @@ kamerunyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 喀麦隆人
     hin: []
     ara: []
   trans_v2:
@@ -241476,7 +241665,9 @@ kamerunyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 喀麦隆人
     hin: []
     ara: []
   etymology:
@@ -242027,6 +242218,7 @@ kampuci:
     zho:
     - - 柬埔寨
       - 柬国
+      - 高棉
     hin:
     - - कम्बोडिया
       - कंबोडिया
@@ -242055,6 +242247,7 @@ kampuci:
       "":
       - 柬埔寨
       - 柬国
+      - 高棉
     hin:
       "":
       - कम्बोडिया
@@ -242120,7 +242313,8 @@ kampucisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 高棉语
     hin: []
     ara: []
   trans_v2:
@@ -242139,7 +242333,9 @@ kampucisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 高棉语
     hin: []
     ara: []
   etymology:
@@ -242163,7 +242359,8 @@ kampuciyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 柬埔寨人
     hin: []
     ara: []
   trans_v2:
@@ -242181,7 +242378,9 @@ kampuciyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 柬埔寨人
     hin: []
     ara: []
   etymology:
@@ -242382,7 +242581,8 @@ kanadayen:
     fra:
     - - Canadien(ne)
     rus: []
-    zho: []
+    zho:
+    - - 加拿大人
     hin: []
     ara: []
   trans_v2:
@@ -242400,7 +242600,9 @@ kanadayen:
       "":
       - Canadien(ne)
     rus: []
-    zho: []
+    zho:
+      "":
+      - 加拿大人
     hin: []
     ara: []
   etymology:
@@ -242866,7 +243068,7 @@ kancer:
     spa:
     - - cáncer
     deu:
-    - - KrebS (<em>Medizin</em>)
+    - - Krebs (<em>Medizin</em>)
     fra:
     - - cancer
     rus: []
@@ -242897,7 +243099,7 @@ kancer:
       - cáncer
     deu:
       "":
-      - KrebS (<em>Medizin</em>)
+      - Krebs (<em>Medizin</em>)
     fra:
       "":
       - cancer
@@ -247665,7 +247867,9 @@ karnatakasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 卡纳达语
+      - 卡纳塔克语
     hin: []
     ara: []
   trans_v2:
@@ -247684,7 +247888,10 @@ karnatakasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 卡纳达语
+      - 卡纳塔克语
     hin: []
     ara: []
   etymology:
@@ -247710,7 +247917,11 @@ karnatakayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 坎納拉人
+      - 坎納達人
+      - 卡納達人
+      - 卡纳塔克人
     hin: []
     ara: []
   trans_v2:
@@ -247730,7 +247941,12 @@ karnatakayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 坎納拉人
+      - 坎納達人
+      - 卡納達人
+      - 卡纳塔克人
     hin: []
     ara: []
   etymology:
@@ -249677,7 +249893,7 @@ katarata:
     epo:
     - - 's: katarakto (<em>okula</em>)'
     - - 'v.tr: kaŭzi katarakton'
-    - - 'v.ntr: trafiĝi de katarakto'
+    - - 'v.ntr: suferi je katarakto'
     spa:
     - - catarata(s) (de ojos)
     - - causar catarata
@@ -249703,7 +249919,7 @@ katarata:
       v.tr:
       - kaŭzi katarakton
       v.ntr:
-      - trafiĝi de katarakto
+      - suferi je katarakto
     spa:
       noun:
       - catarata(s) (de ojos)
@@ -249778,7 +249994,8 @@ kataryen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 卡塔尔人
     hin: []
     ara: []
   trans_v2:
@@ -249794,7 +250011,9 @@ kataryen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 卡塔尔人
     hin: []
     ara: []
   etymology:
@@ -251093,7 +251312,8 @@ kaxmirsa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 克什米尔语
     hin: []
     ara: []
   trans_v2:
@@ -251110,7 +251330,9 @@ kaxmirsa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 克什米尔语
     hin: []
     ara: []
   etymology:
@@ -251132,7 +251354,8 @@ kaxmiryen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 克什米尔人
     hin: []
     ara: []
   trans_v2:
@@ -251148,7 +251371,9 @@ kaxmiryen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 克什米尔人
     hin: []
     ara: []
   etymology:
@@ -251800,7 +252025,8 @@ kazakisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 哈萨克语
     hin: []
     ara: []
   trans_v2:
@@ -251816,7 +252042,9 @@ kazakisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 哈萨克语
     hin: []
     ara: []
   etymology:
@@ -251838,7 +252066,8 @@ kazakiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 哈萨克人
     hin: []
     ara: []
   trans_v2:
@@ -251854,7 +252083,9 @@ kazakiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 哈萨克人
     hin: []
     ara: []
   etymology:
@@ -256498,7 +256729,8 @@ kiprosyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 塞浦路斯
     hin: []
     ara: []
   trans_v2:
@@ -256514,7 +256746,9 @@ kiprosyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 塞浦路斯
     hin: []
     ara: []
   etymology:
@@ -265279,7 +265513,7 @@ konforta:
     epo:
     - - 's: komforto'
     - - 'v.tr: komfortigi'
-    - - 'v.ntr: komfortiĝi'
+    - - 'v.ntr: esti komforta'
     spa:
     - - comodidad
       - confort
@@ -265306,7 +265540,7 @@ konforta:
       v.tr:
       - komfortigi
       v.ntr:
-      - komfortiĝi
+      - esti komforta
     spa:
       noun:
       - comodidad
@@ -265620,11 +265854,11 @@ konhwoku:
       - be (<em>feel</em>) bewildered
     epo:
     - - 's: konfuzo'
-      - perpleksiĝo
+      - perplekseco
     - - 'v.tr: konfuzi'
       - perpleksigi
-    - - 'v.ntr: konfuziĝi'
-      - perpleksiĝi
+    - - 'v.ntr: esti konfuzita'
+      - esti perpleksita
     spa:
     - - confusión
       - perplejidad
@@ -265659,13 +265893,13 @@ konhwoku:
     epo:
       s:
       - konfuzo
-      - perpleksiĝo
+      - perplekseco
       v.tr:
       - konfuzi
       - perpleksigi
       v.ntr:
-      - konfuziĝi
-      - perpleksiĝi
+      - esti konfuzita
+      - esti perpleksita
     spa:
       noun:
       - confusión
@@ -281242,7 +281476,8 @@ lafuzu:
     hin:
     - - उच्चारण
     - - उच्चारण करना
-    ara: []
+    ara:
+    - - تَلَفُّظ، لَفْظ؛ لَفَظَ
   trans_v2:
     eng:
       "n":
@@ -281284,10 +281519,13 @@ lafuzu:
       - उच्चारण
       verb:
       - उच्चारण करना
-    ara: []
+    ara:
+      "":
+      - تَلَفُّظ، لَفْظ؛ لَفَظَ
   etymology:
     natlang:
       Arabisa: لفظ &ldquo;lafaz&rdquo;, يَلْفِظُ&lrm;&lrm; &ldquo;yalfiẓu&rdquo;
+      Hindi: तलफ़्फ़ुज़ &ldquo;talafuz&rdquo;
       Parsisa: تلفظ &ldquo;talafoz&rdquo;
       Turkisa: telaffuz
 lafuzudo:
@@ -281673,7 +281911,8 @@ lalagi:
     spa:
     - - hacer cantar
     deu: []
-    fra: []
+    fra:
+    - - faire chanter
     rus: []
     zho: []
     hin: []
@@ -281692,7 +281931,9 @@ lalagi:
       "":
       - hacer cantar
     deu: []
-    fra: []
+    fra:
+      "":
+      - faire chanter
     rus: []
     zho: []
     hin: []
@@ -284285,8 +284526,8 @@ lawfen:
       - ĉagreno
     - - 'v.tr: ĝeni'
       - ĉagreni
-    - - 'v.ntr: ĝeniĝi'
-      - ĉagreniĝi
+    - - 'v.ntr: esti ĝenita'
+      - esti ĉagrenita
     spa:
     - - molestia
       - irritación
@@ -284330,8 +284571,8 @@ lawfen:
       - ĝeni
       - ĉagreni
       v.ntr:
-      - ĝeniĝi
-      - ĉagreniĝi
+      - esti ĝenita
+      - esti ĉagrenita
     spa:
       noun:
       - molestia
@@ -288058,7 +288299,8 @@ lesboyen:
     - - Lesbien
       - Lesbienne
     rus: []
-    zho: []
+    zho:
+    - - 莱斯沃斯人
     hin: []
     ara: []
   trans_v2:
@@ -288077,7 +288319,9 @@ lesboyen:
       - Lesbien
       - Lesbienne
     rus: []
-    zho: []
+    zho:
+      "":
+      - 莱斯沃斯人
     hin: []
     ara: []
   etymology:
@@ -289372,7 +289616,8 @@ libiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 利比亚人
     hin: []
     ara: []
   trans_v2:
@@ -289388,7 +289633,9 @@ libiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 利比亚人
     hin: []
     ara: []
   etymology:
@@ -290488,7 +290735,8 @@ lihtenstaynyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 列支敦士登人
     hin: []
     ara: []
   trans_v2:
@@ -290504,7 +290752,9 @@ lihtenstaynyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 列支敦士登人
     hin: []
     ara: []
   etymology:
@@ -293584,8 +293834,10 @@ lima:
     - - пять
     zho:
     - - 五
-    hin: []
-    ara: []
+    hin:
+    - - पाँच
+    ara:
+    - - خَمْسَة
   trans_v2:
     eng:
       num:
@@ -293608,8 +293860,12 @@ lima:
     zho:
       "":
       - 五
-    hin: []
-    ara: []
+    hin:
+      "":
+      - पाँच
+    ara:
+      "":
+      - خَمْسَة
   etymology:
     natlang:
       Indonesisa: lima
@@ -299486,8 +299742,10 @@ luter:
     - - Лютер
     zho:
     - - 路德
-    hin: []
-    ara: []
+    hin:
+    - - लूथर
+    ara:
+    - - لوثر
   trans_v2:
     eng:
       prop n:
@@ -299510,8 +299768,12 @@ luter:
     zho:
       "":
       - 路德
-    hin: []
-    ara: []
+    hin:
+      "":
+      - लूथर
+    ara:
+      "":
+      - لوثر
   etymology:
     natlang:
       Arabisa: لوثرية &quot;Luthariya&quot;
@@ -299550,8 +299812,10 @@ luterismo:
     zho:
     - - 路德宗
       - 信义宗
-    hin: []
-    ara: []
+    hin:
+    - - लूथरवाद
+    ara:
+    - - لوثرية
   trans_v2:
     eng:
       prop n:
@@ -299576,8 +299840,12 @@ luterismo:
       "":
       - 路德宗
       - 信义宗
-    hin: []
-    ara: []
+    hin:
+      "":
+      - लूथरवाद
+    ara:
+      "":
+      - لوثرية
   etymology:
     derived:
     - luter
@@ -300433,7 +300701,8 @@ lyetuvasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 立陶宛语
     hin: []
     ara: []
   trans_v2:
@@ -300449,7 +300718,9 @@ lyetuvasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 立陶宛语
     hin: []
     ara: []
   etymology:
@@ -300471,7 +300742,8 @@ lyetuvayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 立陶宛人
     hin: []
     ara: []
   trans_v2:
@@ -300487,7 +300759,9 @@ lyetuvayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 立陶宛人
     hin: []
     ara: []
   etymology:
@@ -302339,7 +302613,8 @@ magyarsa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 匈牙利语
     hin: []
     ara: []
   trans_v2:
@@ -302355,7 +302630,9 @@ magyarsa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 匈牙利语
     hin: []
     ara: []
   etymology:
@@ -302377,7 +302654,8 @@ magyaryen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 匈牙利人
     hin: []
     ara: []
   trans_v2:
@@ -302393,7 +302671,9 @@ magyaryen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 匈牙利人
     hin: []
     ara: []
   etymology:
@@ -302798,7 +303078,8 @@ maharaxtrasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 马拉地语
     hin: []
     ara: []
   trans_v2:
@@ -302815,7 +303096,9 @@ maharaxtrasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 马拉地语
     hin: []
     ara: []
   etymology:
@@ -302838,7 +303121,8 @@ maharaxtrayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 马拉地人
     hin: []
     ara: []
   trans_v2:
@@ -302855,7 +303139,9 @@ maharaxtrayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 马拉地人
     hin: []
     ara: []
   etymology:
@@ -303562,7 +303848,8 @@ majelisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 马绍尔语
     hin: []
     ara: []
   trans_v2:
@@ -303578,7 +303865,9 @@ majelisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 马绍尔语
     hin: []
     ara: []
   etymology:
@@ -303599,7 +303888,7 @@ majin:
     epo:
     - - 's: morbilo'
     - - 'v.tr: kaŭzi morbilon'
-    - - 'v.ntr: trafiĝi de morbilo'
+    - - 'v.ntr: suferi je morbilo'
     spa:
     - - sarampión
     deu:
@@ -303627,7 +303916,7 @@ majin:
       v.tr:
       - kaŭzi morbilon
       v.ntr:
-      - trafiĝi de morbilo
+      - suferi je morbilo
     spa:
       "":
       - sarampión
@@ -304107,7 +304396,8 @@ makedonisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 马其顿语
     hin: []
     ara: []
   trans_v2:
@@ -304123,7 +304413,9 @@ makedonisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 马其顿语
     hin: []
     ara: []
   etymology:
@@ -304145,7 +304437,8 @@ makedoniyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 马其顿人
     hin: []
     ara: []
   trans_v2:
@@ -304161,7 +304454,9 @@ makedoniyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 马其顿人
     hin: []
     ara: []
   etymology:
@@ -304718,7 +305013,8 @@ malawiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 马拉维人
     hin: []
     ara: []
   trans_v2:
@@ -304734,7 +305030,9 @@ malawiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 马拉维人
     hin: []
     ara: []
   etymology:
@@ -304887,7 +305185,8 @@ malaysiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 马来西亚人
     hin: []
     ara: []
   trans_v2:
@@ -304904,7 +305203,9 @@ malaysiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 马来西亚人
     hin: []
     ara: []
   etymology:
@@ -305545,7 +305846,8 @@ maliyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 馬里人
     hin: []
     ara: []
   trans_v2:
@@ -305561,7 +305863,9 @@ maliyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 馬里人
     hin: []
     ara: []
   etymology:
@@ -305869,7 +306173,7 @@ maltasa:
     rus:
     - - мальтиец
     zho:
-    - - 马耳他人
+    - - 马耳他语
     hin: []
     ara: []
   trans_v2:
@@ -305894,7 +306198,7 @@ maltasa:
       - мальтиец
     zho:
       "":
-      - 马耳他人
+      - 马耳他语
     hin: []
     ara: []
   etymology:
@@ -305918,7 +306222,7 @@ maltayen:
     fra: []
     rus: []
     zho:
-    - - 马耳他语
+    - - 马耳他人
     hin: []
     ara: []
   trans_v2:
@@ -305938,7 +306242,7 @@ maltayen:
     rus: []
     zho:
       "":
-      - 马耳他语
+      - 马耳他人
     hin: []
     ara: []
   etymology:
@@ -308516,7 +308820,8 @@ manipursa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 曼尼普尔语
     hin: []
     ara: []
   trans_v2:
@@ -308538,7 +308843,9 @@ manipursa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 曼尼普尔语
     hin: []
     ara: []
   etymology:
@@ -308562,7 +308869,8 @@ manipuryen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 曼尼普尔人
     hin: []
     ara: []
   trans_v2:
@@ -308580,7 +308888,9 @@ manipuryen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 曼尼普尔人
     hin: []
     ara: []
   etymology:
@@ -314772,7 +315082,8 @@ mawrisyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 毛里求斯人
     hin: []
     ara: []
   trans_v2:
@@ -314788,7 +315099,9 @@ mawrisyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 毛里求斯人
     hin: []
     ara: []
   etymology:
@@ -325372,7 +325685,8 @@ mexikoyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 墨西哥人
     hin: []
     ara: []
   trans_v2:
@@ -325389,7 +325703,9 @@ mexikoyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 墨西哥人
     hin: []
     ara: []
   etymology:
@@ -326096,12 +326412,19 @@ mi:
     - - yo
       - me
       - mí
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - ich
+    fra:
+    - - je
+      - moi
+    rus:
+    - - я
+    zho:
+    - - 我
+    hin:
+    - - मैं
+    ara:
+    - - أَنَا
   trans_v2:
     eng:
       pron:
@@ -326115,12 +326438,25 @@ mi:
       - yo
       - me
       - mí
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - ich
+    fra:
+      "":
+      - je
+      - moi
+    rus:
+      "":
+      - я
+    zho:
+      "":
+      - 我
+    hin:
+      "":
+      - मैं
+    ara:
+      "":
+      - أَنَا
   etymology:
     natlang:
       Doycisa: mich
@@ -333310,7 +333646,8 @@ moldovayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 摩尔多瓦人
     hin: []
     ara: []
   trans_v2:
@@ -333326,7 +333663,9 @@ moldovayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 摩尔多瓦人
     hin: []
     ara: []
   etymology:
@@ -334011,7 +334350,8 @@ monakoyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 摩纳哥人
     hin: []
     ara: []
   trans_v2:
@@ -334028,7 +334368,9 @@ monakoyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 摩纳哥人
     hin: []
     ara: []
   etymology:
@@ -334100,7 +334442,8 @@ mongolisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 蒙古语
     hin: []
     ara: []
   trans_v2:
@@ -334116,7 +334459,9 @@ mongolisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 蒙古语
     hin: []
     ara: []
   etymology:
@@ -334138,7 +334483,8 @@ mongoliyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 蒙古人
     hin: []
     ara: []
   trans_v2:
@@ -334154,7 +334500,9 @@ mongoliyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 蒙古人
     hin: []
     ara: []
   etymology:
@@ -334605,8 +334953,10 @@ monika:
     - - Моника
     zho:
     - - 莫妮卡
-    hin: []
-    ara: []
+    hin:
+    - - मोनिका
+    ara:
+    - - مونيكا
   trans_v2:
     eng:
       prop n:
@@ -334629,8 +334979,12 @@ monika:
     zho:
       "":
       - 莫妮卡
-    hin: []
-    ara: []
+    hin:
+      "":
+      - मोनिका
+    ara:
+      "":
+      - مونيكا
   etymology:
     natlang:
       Arabisa: مونيكا &ldquo;Munika&rdquo;
@@ -336016,8 +336370,10 @@ mormon:
     - - Мормон
     zho:
     - - 摩爾門
-    hin: []
-    ara: []
+    hin:
+    - - मॉरमन
+    ara:
+    - - مورمون
   trans_v2:
     eng:
       prop n:
@@ -336040,8 +336396,12 @@ mormon:
     zho:
       "":
       - 摩爾門
-    hin: []
-    ara: []
+    hin:
+      "":
+      - मॉरमन
+    ara:
+      "":
+      - مورمون
   etymology:
     natlang:
       Arabisa: مورمون &ldquo;Murmun&rdquo;
@@ -336081,7 +336441,8 @@ mormonismo:
     zho:
     - - 摩尔门教
     hin: []
-    ara: []
+    ara:
+    - - مورمونية
   trans_v2:
     eng:
       prop n:
@@ -336105,7 +336466,9 @@ mormonismo:
       "":
       - 摩尔门教
     hin: []
-    ara: []
+    ara:
+      "":
+      - مورمونية
   etymology:
     derived:
     - mormon
@@ -336130,8 +336493,10 @@ morse:
     - - Морзе
     zho:
     - - 摩尔斯
-    hin: []
-    ara: []
+    hin:
+    - - मोर्स
+    ara:
+    - - مورس
   trans_v2:
     eng:
       prop n:
@@ -336154,8 +336519,12 @@ morse:
     zho:
       "":
       - 摩尔斯
-    hin: []
-    ara: []
+    hin:
+      "":
+      - मोर्स
+    ara:
+      "":
+      - مورس
   etymology:
     natlang:
       Arabisa: مورس &quot;Mors&quot;
@@ -336398,8 +336767,10 @@ mose:
     zho:
     - - 摩西
       - 梅瑟
-    hin: []
-    ara: []
+    hin:
+    - - मूसा
+    ara:
+    - - مُوسَى
   trans_v2:
     eng:
       prop n:
@@ -336424,8 +336795,12 @@ mose:
       "":
       - 摩西
       - 梅瑟
-    hin: []
-    ara: []
+    hin:
+      "":
+      - मूसा
+    ara:
+      "":
+      - مُوسَى
   etymology:
     natlang:
       Arabisa: مُوسَى &ldquo;Musa&rdquo;
@@ -338666,8 +339041,10 @@ mozambiki:
     - - Мозамбик
     zho:
     - - 莫桑比克
-    hin: []
-    ara: []
+    hin:
+    - - मोज़ाम्बिक
+    ara:
+    - - مُوزَامْبِيق
   trans_v2:
     eng:
       prop n:
@@ -338690,8 +339067,12 @@ mozambiki:
     zho:
       "":
       - 莫桑比克
-    hin: []
-    ara: []
+    hin:
+      "":
+      - मोज़ाम्बिक
+    ara:
+      "":
+      - مُوزَامْبِيق
   etymology:
     natlang:
       Cewasa: Mozambiki
@@ -340679,8 +341060,10 @@ muritani:
     - - Мавритания
     zho:
     - - 毛里塔尼亚
-    hin: []
-    ara: []
+    hin:
+    - - मॉरिटानिया
+    ara:
+    - - موريتانيا‎
   trans_v2:
     eng:
       prop n:
@@ -340703,8 +341086,12 @@ muritani:
     zho:
       "":
       - 毛里塔尼亚
-    hin: []
-    ara: []
+    hin:
+      "":
+      - मॉरिटानिया
+    ara:
+      "":
+      - موريتانيا‎
   etymology:
     natlang:
       Arabisa: موريتانيا&lrm; &ldquo;Mūrītānyā&rdquo;
@@ -341950,8 +342337,11 @@ muxtari:
     - - Юпитер
     zho:
     - - 木星
-    hin: []
-    ara: []
+    hin:
+    - - اَلْمُشْتَرِ
+    ara:
+    - - बृहस्पति
+      - गुरु
   trans_v2:
     eng:
       prop n:
@@ -341974,8 +342364,13 @@ muxtari:
     zho:
       "":
       - 木星
-    hin: []
-    ara: []
+    hin:
+      "":
+      - اَلْمُشْتَرِ
+    ara:
+      "":
+      - बृहस्पति
+      - गुरु
   etymology:
     natlang:
       Arabisa: المشتري &ldquo;almushtari&rdquo;
@@ -343806,8 +344201,10 @@ nahum:
     - - Наум
     zho:
     - - 那鸿
-    hin: []
-    ara: []
+    hin:
+    - - नहूम
+    ara:
+    - - نَاحُوم
   trans_v2:
     eng:
       prop n:
@@ -343831,8 +344228,12 @@ nahum:
     zho:
       "":
       - 那鸿
-    hin: []
-    ara: []
+    hin:
+      "":
+      - नहूम
+    ara:
+      "":
+      - نَاحُوم
   etymology:
     natlang:
       Arabisa: نَاحُوم &quot;Nahum&quot;
@@ -344538,8 +344939,10 @@ namibi:
     - - Намибия
     zho:
     - - 纳米比亚
-    hin: []
-    ara: []
+    hin:
+    - - नामीबिया
+    ara:
+    - - نَامِيبِيَا
   trans_v2:
     eng:
       prop n:
@@ -344562,8 +344965,12 @@ namibi:
     zho:
       "":
       - 纳米比亚
-    hin: []
-    ara: []
+    hin:
+      "":
+      - नामीबिया
+    ara:
+      "":
+      - نَامِيبِيَا
   etymology:
     natlang:
       Afrikansesa: Namibi&euml;
@@ -344627,7 +345034,8 @@ namibiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 纳米比亚人
     hin: []
     ara: []
   trans_v2:
@@ -344643,7 +345051,9 @@ namibiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 纳米比亚人
     hin: []
     ara: []
   etymology:
@@ -345022,7 +345432,8 @@ narciso:
     zho:
     - - 纳西瑟斯
     hin: []
-    ara: []
+    ara:
+    - - ناركيسوس، نركسوس، نرسيس، نرجس
   trans_v2:
     eng:
       prop n:
@@ -345047,7 +345458,9 @@ narciso:
       "":
       - 纳西瑟斯
     hin: []
-    ara: []
+    ara:
+      "":
+      - ناركيسوس، نركسوس، نرسيس، نرجس
   etymology:
     natlang:
       Elinisa: '&Nu;ά&rho;&kappa;&iota;&sigma;&sigma;&omicron;&sigmaf; &ldquo;Narkissos&rdquo;'
@@ -346648,8 +347061,10 @@ natan:
     - - Нафан
     zho:
     - - 拿单
-    hin: []
-    ara: []
+    hin:
+    - - नातान
+    ara:
+    - - نَاثَانَ
   trans_v2:
     eng:
       prop n:
@@ -346672,11 +347087,15 @@ natan:
     zho:
       "":
       - 拿单
-    hin: []
-    ara: []
+    hin:
+      "":
+      - नातान
+    ara:
+      "":
+      - نَاثَانَ
   etymology:
     natlang:
-      Arabisa: نَاثَانَ &ldquo;Nathan&rdquo;
+      Arabisa: نَاثَانَ &ldquo;Naṯan&rdquo;
       Doycisa: Natan
       Englisa: Nathan
       Espanisa: Nat&aacute;n
@@ -346713,8 +347132,10 @@ natanael:
     - - Нафанаил
     zho:
     - - 拿但业
-    hin: []
-    ara: []
+    hin:
+    - - नतनएल
+    ara:
+    - - نَثَنَائِيلُ
   trans_v2:
     eng:
       prop n:
@@ -346738,8 +347159,12 @@ natanael:
     zho:
       "":
       - 拿但业
-    hin: []
-    ara: []
+    hin:
+      "":
+      - नतनएल
+    ara:
+      "":
+      - نَثَنَائِيلُ
   etymology:
     natlang:
       Arabisa: نَثَنَائِيلُ &ldquo;Naṯanayil&rdquo;
@@ -347002,7 +347427,8 @@ natziismo:
     zho:
     - - 纳粹主义
     hin: []
-    ara: []
+    ara:
+    - - نَازِيَّة
   trans_v2:
     eng:
       prop n:
@@ -347026,7 +347452,9 @@ natziismo:
       "":
       - 纳粹主义
     hin: []
-    ara: []
+    ara:
+      "":
+      - نَازِيَّة
   etymology:
     derived:
     - natzi
@@ -347089,8 +347517,10 @@ nauru:
     - - Науру
     zho:
     - - 瑙鲁
-    hin: []
-    ara: []
+    hin:
+    - - नाउरु
+    ara:
+    - - نَاوْرُو
   trans_v2:
     eng:
       prop n:
@@ -347113,8 +347543,12 @@ nauru:
     zho:
       "":
       - 瑙鲁
-    hin: []
-    ara: []
+    hin:
+      "":
+      - नाउरु
+    ara:
+      "":
+      - نَاوْرُو
   etymology:
     natlang:
       Englisa: Nauru
@@ -347133,7 +347567,8 @@ naurusa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 瑙鲁语
     hin: []
     ara: []
   trans_v2:
@@ -347149,7 +347584,9 @@ naurusa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 瑙鲁语
     hin: []
     ara: []
   etymology:
@@ -347656,7 +348093,8 @@ nayjeriyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 尼日利亚人
     hin: []
     ara: []
   trans_v2:
@@ -347672,7 +348110,9 @@ nayjeriyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 尼日利亚人
     hin: []
     ara: []
   etymology:
@@ -347923,7 +348363,8 @@ nederisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 荷兰语
     hin: []
     ara: []
   trans_v2:
@@ -347940,7 +348381,9 @@ nederisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 荷兰语
     hin: []
     ara: []
   etymology:
@@ -347963,7 +348406,8 @@ nederiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 荷兰人
     hin: []
     ara: []
   trans_v2:
@@ -347980,7 +348424,9 @@ nederiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 荷兰人
     hin: []
     ara: []
   etymology:
@@ -352309,12 +352755,16 @@ neo:
     - - 'adv: nove'
     spa:
     - - nuevo
-    deu: []
+    deu:
+    - - neu
     fra: []
-    rus: []
-    zho: []
+    rus:
+    - - новый
+    zho:
+    - - 新
     hin: []
-    ara: []
+    ara:
+    - - جَدِيد
   trans_v2:
     eng:
       adj:
@@ -352330,12 +352780,20 @@ neo:
     spa:
       "":
       - nuevo
-    deu: []
+    deu:
+      "":
+      - neu
     fra: []
-    rus: []
-    zho: []
+    rus:
+      "":
+      - новый
+    zho:
+      "":
+      - 新
     hin: []
-    ara: []
+    ara:
+      "":
+      - جَدِيد
   etymology:
     natlang:
       Doycisa: neu, neo
@@ -352434,7 +352892,8 @@ neoklasiko:
     fra: []
     rus: []
     zho: []
-    hin: []
+    hin:
+    - - नवशास्त्रीय
     ara: []
   trans_v2:
     eng:
@@ -352454,7 +352913,9 @@ neoklasiko:
     fra: []
     rus: []
     zho: []
-    hin: []
+    hin:
+      "":
+      - नवशास्त्रीय
     ara: []
   etymology:
     derived:
@@ -352542,10 +353003,14 @@ neonyandin:
     - - 'prop n: Novjara Tago'
     spa:
     - - año nuevo
-    deu: []
+    deu:
+    - - Neujahrstag
+      - Neujahr
     fra: []
-    rus: []
-    zho: []
+    rus:
+    - - Новый год
+    zho:
+    - - 元旦
     hin: []
     ara: []
   trans_v2:
@@ -352558,10 +353023,17 @@ neonyandin:
     spa:
       "":
       - año nuevo
-    deu: []
+    deu:
+      "":
+      - Neujahrstag
+      - Neujahr
     fra: []
-    rus: []
-    zho: []
+    rus:
+      "":
+      - Новый год
+    zho:
+      "":
+      - 元旦
     hin: []
     ara: []
   etymology:
@@ -352706,8 +353178,10 @@ nepal:
     - - Непал
     zho:
     - - 尼泊尔
-    hin: []
-    ara: []
+    hin:
+    - - नेपाल
+    ara:
+    - - نيبال
   trans_v2:
     eng:
       prop n:
@@ -352730,8 +353204,12 @@ nepal:
     zho:
       "":
       - 尼泊尔
-    hin: []
-    ara: []
+    hin:
+      "":
+      - नेपाल
+    ara:
+      "":
+      - نيبال
   etymology:
     natlang:
       Nepalsa: नेपाल &ldquo;nepal&rdquo;
@@ -354460,8 +354938,10 @@ nice:
     - - Ницше
     zho:
     - - 尼采
-    hin: []
-    ara: []
+    hin:
+    - - नीत्शे
+    ara:
+    - - نِتْشَة
   trans_v2:
     eng:
       prop n:
@@ -354484,8 +354964,12 @@ nice:
     zho:
       "":
       - 尼采
-    hin: []
-    ara: []
+    hin:
+      "":
+      - नीत्शे
+    ara:
+      "":
+      - نِتْشَة
   etymology:
     natlang:
       Arabisa: نِتْشَة &quot;Nitxa&quot;
@@ -354886,8 +355370,10 @@ nijer:
     - - Нигер
     zho:
     - - 尼日尔
-    hin: []
-    ara: []
+    hin:
+    - - नाइजर
+    ara:
+    - - النِّيجَر
   trans_v2:
     eng:
       prop n:
@@ -354910,8 +355396,12 @@ nijer:
     zho:
       "":
       - 尼日尔
-    hin: []
-    ara: []
+    hin:
+      "":
+      - नाइजर
+    ara:
+      "":
+      - النِّيجَر
   etymology:
     natlang:
       Fransesa: Niger
@@ -354934,8 +355424,10 @@ nikaragwa:
     - - Никарагуа
     zho:
     - - 尼加拉瓜
-    hin: []
-    ara: []
+    hin:
+    - - निकारागुआ
+    ara:
+    - - النيجر
   trans_v2:
     eng:
       prop n:
@@ -354958,8 +355450,12 @@ nikaragwa:
     zho:
       "":
       - 尼加拉瓜
-    hin: []
-    ara: []
+    hin:
+      "":
+      - निकारागुआ
+    ara:
+      "":
+      - النيجر
   etymology:
     natlang:
       Espanisa: Nicaragua
@@ -355054,7 +355550,8 @@ nikolas:
     - - Николай
     zho:
     - - 尼古拉
-    hin: []
+    hin:
+    - - निकोलस
     ara: []
   trans_v2:
     eng:
@@ -355079,7 +355576,9 @@ nikolas:
     zho:
       "":
       - 尼古拉
-    hin: []
+    hin:
+      "":
+      - निकोलस
     ara: []
   etymology:
     natlang:
@@ -355122,7 +355621,8 @@ nikot:
     zho:
     - - Nicot
     hin: []
-    ara: []
+    ara:
+    - - نيكوت
   trans_v2:
     eng:
       prop n:
@@ -355146,7 +355646,9 @@ nikot:
       "":
       - Nicot
     hin: []
-    ara: []
+    ara:
+      "":
+      - نيكوت
   etymology:
     natlang:
       Arabisa: نِيكُوتِين &quot;nikutin&quot;
@@ -356513,8 +357015,10 @@ nipon:
     - - Япония
     zho:
     - - 日本
-    hin: []
-    ara: []
+    hin:
+    - - जापान
+    ara:
+    - - الْيَابَان
   trans_v2:
     eng:
       prop n:
@@ -356539,8 +357043,12 @@ nipon:
     zho:
       "":
       - 日本
-    hin: []
-    ara: []
+    hin:
+      "":
+      - जापान
+    ara:
+      "":
+      - الْيَابَان
   etymology:
     natlang:
       Niponsa: 日本 &ldquo;Nippon, Nihon&rdquo;
@@ -356558,7 +357066,9 @@ niponsa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 日语
+      - 日文
     hin: []
     ara: []
   trans_v2:
@@ -356574,7 +357084,10 @@ niponsa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 日语
+      - 日文
     hin: []
     ara: []
   etymology:
@@ -357121,8 +357634,10 @@ noa:
     - - 诺亚
       - 挪亚
       - 诺厄
-    hin: []
-    ara: []
+    hin:
+    - - नूह
+    ara:
+    - - نُوح
   trans_v2:
     eng:
       prop n:
@@ -357147,8 +357662,12 @@ noa:
       - 诺亚
       - 挪亚
       - 诺厄
-    hin: []
-    ara: []
+    hin:
+      "":
+      - नूह
+    ara:
+      "":
+      - نُوح
   etymology:
     natlang:
       Arabisa: نُوح &ldquo;Nuh&rdquo;
@@ -357315,12 +357834,18 @@ noceli:
     spa:
     - - nocturno
       - nocturnal
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - nächtlich
+    fra:
+    - - nocturne
+    rus:
+    - - ночной
+    zho:
+    - - 夜间的
+    hin:
+    - - रात्रिक
+    ara:
+    - - لَيْلِيّ
   trans_v2:
     eng:
       adj:
@@ -357337,12 +357862,24 @@ noceli:
       "":
       - nocturno
       - nocturnal
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - nächtlich
+    fra:
+      "":
+      - nocturne
+    rus:
+      "":
+      - ночной
+    zho:
+      "":
+      - 夜间的
+    hin:
+      "":
+      - रात्रिक
+    ara:
+      "":
+      - لَيْلِيّ
   etymology:
     derived:
     - noce
@@ -357980,8 +358517,10 @@ norge:
     - - Норвегия
     zho:
     - - 挪威
-    hin: []
-    ara: []
+    hin:
+    - - नॉर्वे
+    ara:
+    - - النُّرْوِيج
   trans_v2:
     eng:
       prop n:
@@ -358005,8 +358544,12 @@ norge:
     zho:
       "":
       - 挪威
-    hin: []
-    ara: []
+    hin:
+      "":
+      - नॉर्वे
+    ara:
+      "":
+      - النُّرْوِيج
   etymology:
     natlang:
       Norgesa: Norge
@@ -358024,7 +358567,8 @@ norgesa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 挪威语
     hin: []
     ara: []
   trans_v2:
@@ -358040,7 +358584,9 @@ norgesa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 挪威语
     hin: []
     ara: []
   etymology:
@@ -358062,7 +358608,8 @@ norgeyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 挪威人
     hin: []
     ara: []
   trans_v2:
@@ -358078,7 +358625,9 @@ norgeyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 挪威人
     hin: []
     ara: []
   etymology:
@@ -359436,11 +359985,16 @@ nue:
     - - nueve
     deu:
     - - neun
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    fra:
+    - - neuf
+    rus:
+    - - девять
+    zho:
+    - - 九
+    hin:
+    - - नौ
+    ara:
+    - - تِسْعَة
   trans_v2:
     eng:
       num:
@@ -359454,11 +360008,21 @@ nue:
     deu:
       "":
       - neun
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    fra:
+      "":
+      - neuf
+    rus:
+      "":
+      - девять
+    zho:
+      "":
+      - 九
+    hin:
+      "":
+      - नौ
+    ara:
+      "":
+      - تِسْعَة
   etymology:
     natlang:
       Doycisa: neun
@@ -361412,8 +361976,10 @@ obadia:
     - - Авдия
     zho:
     - - 俄巴底亚
-    hin: []
-    ara: []
+    hin:
+    - - ओबद्दाह
+    ara:
+    - - عُوبَدْيَا
   trans_v2:
     eng:
       prop n:
@@ -361436,8 +362002,12 @@ obadia:
     zho:
       "":
       - 俄巴底亚
-    hin: []
-    ara: []
+    hin:
+      "":
+      - ओबद्दाह
+    ara:
+      "":
+      - عُوبَدْيَا
   etymology:
     natlang:
       Arabisa: عُوبَدْيَا &quot;Awbadiya&quot;
@@ -361962,11 +362532,16 @@ oco:
     - - ocho
     deu:
     - - acht
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    fra:
+    - - huit
+    rus:
+    - - восемь
+    zho:
+    - - 八
+    hin:
+    - - आठ
+    ara:
+    - - ثَمَانِيَة
   trans_v2:
     eng:
       num:
@@ -361980,11 +362555,21 @@ oco:
     deu:
       "":
       - acht
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    fra:
+      "":
+      - huit
+    rus:
+      "":
+      - восемь
+    zho:
+      "":
+      - 八
+    hin:
+      "":
+      - आठ
+    ara:
+      "":
+      - ثَمَانِيَة
   etymology:
     natlang:
       Doycisa: okto-, acht
@@ -364501,8 +365086,10 @@ ohom:
     - - Ассам
     zho:
     - - 阿萨姆邦
-    hin: []
-    ara: []
+    hin:
+    - - असम
+    ara:
+    - - آسام
   trans_v2:
     eng:
       prop n:
@@ -364525,8 +365112,12 @@ ohom:
     zho:
       "":
       - 阿萨姆邦
-    hin: []
-    ara: []
+    hin:
+      "":
+      - असम
+    ara:
+      "":
+      - آسام
   etymology:
     natlang:
       Ohomsa: অসম &ldquo;ohom&rdquo;
@@ -364582,7 +365173,8 @@ ohomsa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 阿萨姆语
     hin: []
     ara: []
   trans_v2:
@@ -364598,7 +365190,9 @@ ohomsa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 阿萨姆语
     hin: []
     ara: []
   etymology:
@@ -364620,7 +365214,8 @@ ohomyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 阿萨姆人
     hin: []
     ara: []
   trans_v2:
@@ -364636,7 +365231,9 @@ ohomyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 阿萨姆人
     hin: []
     ara: []
   etymology:
@@ -366408,8 +367005,10 @@ olandi:
     - - Аланды
     zho:
     - - 奥兰
-    hin: []
-    ara: []
+    hin:
+    - - ऑलैण्ड
+    ara:
+    - - أولاند
   trans_v2:
     eng:
       prop n:
@@ -366434,8 +367033,12 @@ olandi:
     zho:
       "":
       - 奥兰
-    hin: []
-    ara: []
+    hin:
+      "":
+      - ऑलैण्ड
+    ara:
+      "":
+      - أولاند
   etymology:
     natlang:
       Swerisa: '&Aring;land'
@@ -366527,8 +367130,10 @@ oman:
     - - Оман
     zho:
     - - 阿曼
-    hin: []
-    ara: []
+    hin:
+    - - ओमान
+    ara:
+    - - عُمان
   trans_v2:
     eng:
       prop n:
@@ -366551,8 +367156,12 @@ oman:
     zho:
       "":
       - 阿曼
-    hin: []
-    ara: []
+    hin:
+      "":
+      - ओमान
+    ara:
+      "":
+      - عُمان
   etymology:
     natlang:
       Arabisa: عُمَان&lrm; &ldquo;ʿUmān&rdquo;
@@ -366575,8 +367184,10 @@ omar:
     - - Омар
     zho:
     - - 阿抹
-    hin: []
-    ara: []
+    hin:
+    - - ओमार
+    ara:
+    - - عمر
   trans_v2:
     eng:
       prop n:
@@ -366599,8 +367210,12 @@ omar:
     zho:
       "":
       - 阿抹
-    hin: []
-    ara: []
+    hin:
+      "":
+      - ओमार
+    ara:
+      "":
+      - عمر
   etymology:
     natlang:
       Arabisa: عمر &ldquo;Umar&rdquo;
@@ -367839,8 +368454,10 @@ or:
     spa:
     - - o
       - u
-    deu: []
-    fra: []
+    deu:
+    - - oder
+    fra:
+    - - ou
     rus: []
     zho: []
     hin: []
@@ -367856,8 +368473,12 @@ or:
       "":
       - o
       - u
-    deu: []
-    fra: []
+    deu:
+      "":
+      - oder
+    fra:
+      "":
+      - ou
     rus: []
     zho: []
     hin: []
@@ -369286,9 +369907,11 @@ orisa:
     rus:
     - - Одиша
     zho:
-    - - 奥里萨
-    hin: []
-    ara: []
+    - - 奥里萨邦
+    hin:
+    - - ओडिशा
+    ara:
+    - - أَدِيشَة
   trans_v2:
     eng:
       prop n:
@@ -369315,9 +369938,13 @@ orisa:
       - Одиша
     zho:
       "":
-      - 奥里萨
-    hin: []
-    ara: []
+      - 奥里萨邦
+    hin:
+      "":
+      - ओडिशा
+    ara:
+      "":
+      - أَدِيشَة
   etymology:
     natlang:
       Orisasa: ଓଡ଼ିଶା &ldquo;orisa&rdquo;
@@ -369377,7 +370004,9 @@ orisasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 奥里亚语
+      - 奥里萨语
     hin: []
     ara: []
   trans_v2:
@@ -369395,7 +370024,10 @@ orisasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 奥里亚语
+      - 奥里萨语
     hin: []
     ara: []
   etymology:
@@ -369420,7 +370052,9 @@ orisayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 奥里亚人
+      - 奥里萨人
     hin: []
     ara: []
   trans_v2:
@@ -369439,7 +370073,10 @@ orisayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 奥里亚人
+      - 奥里萨人
     hin: []
     ara: []
   etymology:
@@ -370410,8 +371047,10 @@ osman:
     - - Осман
     zho:
     - - 奥斯曼
-    hin: []
-    ara: []
+    hin:
+    - - उस्मान
+    ara:
+    - - عُثْمَان
   trans_v2:
     eng:
       prop n:
@@ -370435,8 +371074,12 @@ osman:
     zho:
       "":
       - 奥斯曼
-    hin: []
-    ara: []
+    hin:
+      "":
+      - उस्मान
+    ara:
+      "":
+      - عُثْمَان
   etymology:
     natlang:
       Arabisa: عُثْمَان &quot;Uṯman&quot;
@@ -370712,8 +371355,10 @@ osteri:
     - - Австрия
     zho:
     - - 奥地利
-    hin: []
-    ara: []
+    hin:
+    - - ऑस्ट्रिया
+    ara:
+    - - النِّمْسَا، النَّمسا
   trans_v2:
     eng:
       prop n:
@@ -370737,8 +371382,12 @@ osteri:
     zho:
       "":
       - 奥地利
-    hin: []
-    ara: []
+    hin:
+      "":
+      - ऑस्ट्रिया
+    ara:
+      "":
+      - النِّمْسَا، النَّمسا
   etymology:
     natlang:
       Doycisa: '&Ouml;sterreich'
@@ -371876,8 +372525,10 @@ ozbeki:
     - - Узбекистан
     zho:
     - - 乌兹别克斯坦
-    hin: []
-    ara: []
+    hin:
+    - - उज़्बेकिस्तान
+    ara:
+    - - أوزبكستان، أُزبَكِستان
   trans_v2:
     eng:
       prop n:
@@ -371902,8 +372553,12 @@ ozbeki:
     zho:
       "":
       - 乌兹别克斯坦
-    hin: []
-    ara: []
+    hin:
+      "":
+      - उज़्बेकिस्तान
+    ara:
+      "":
+      - أوزبكستان، أُزبَكِستان
   etymology:
     natlang:
       Ozbekisa: Oʻzbekiston
@@ -371972,7 +372627,8 @@ ozbekisa:
     - - Usbekisch
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 乌兹别克语
     hin: []
     ara: []
   trans_v2:
@@ -371990,7 +372646,9 @@ ozbekisa:
       - Usbekisch
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 乌兹别克语
     hin: []
     ara: []
   etymology:
@@ -372820,8 +373478,10 @@ paki:
     - - Пакистан
     zho:
     - - 巴基斯坦
-    hin: []
-    ara: []
+    hin:
+    - - पाकिस्तान
+    ara:
+    - - بَاكِسْتَان
   trans_v2:
     eng:
       prop n:
@@ -372844,8 +373504,12 @@ paki:
     zho:
       "":
       - 巴基斯坦
-    hin: []
-    ara: []
+    hin:
+      "":
+      - पाकिस्तान
+    ara:
+      "":
+      - بَاكِسْتَان
   etymology:
     natlang:
       Urdu: پاکستان &ldquo;Pakistan&rdquo;
@@ -373434,8 +374098,10 @@ palestin:
     - - Палестина
     zho:
     - - 巴勒斯坦
-    hin: []
-    ara: []
+    hin:
+    - - फ़िलिस्तीन
+    ara:
+    - - فِلَسْطِين
   trans_v2:
     eng:
       prop n:
@@ -373460,8 +374126,12 @@ palestin:
     zho:
       "":
       - 巴勒斯坦
-    hin: []
-    ara: []
+    hin:
+      "":
+      - फ़िलिस्तीन
+    ara:
+      "":
+      - فِلَسْطِين
   etymology:
     natlang:
       Arabisa: فِلَسْطِين &ldquo;filastin&rdquo;
@@ -374287,8 +374957,10 @@ panama:
     - - Панама
     zho:
     - - 巴拿马
-    hin: []
-    ara: []
+    hin:
+    - - पनामा
+    ara:
+    - - بَنَمَا
   trans_v2:
     eng:
       prop n:
@@ -374311,8 +374983,12 @@ panama:
     zho:
       "":
       - 巴拿马
-    hin: []
-    ara: []
+    hin:
+      "":
+      - पनामा
+    ara:
+      "":
+      - بَنَمَا
   etymology:
     natlang:
       Espanisa: Panam&aacute;
@@ -375067,9 +375743,8 @@ paniko:
       - be panicking
     epo:
     - - 's: paniko'
-    - - 'v.tr: panikigi'
-    - - 'v.ntr: paniki'
-      - panikiĝi
+    - - 'v.tr: paniki'
+    - - 'v.ntr: esti panikita'
     spa:
     - - pánico
     - - estar en pánico
@@ -375094,10 +375769,9 @@ paniko:
       s:
       - paniko
       v.tr:
-      - panikigi
-      v.ntr:
       - paniki
-      - panikiĝi
+      v.ntr:
+      - esti panikita
     spa:
       noun:
       - pánico
@@ -375425,8 +376099,10 @@ panjabi:
     - - Панджаби
     zho:
     - - 旁遮普
-    hin: []
-    ara: []
+    hin:
+    - - पंजाब
+    ara:
+    - - بنجاب
   trans_v2:
     eng:
       prop n:
@@ -375454,8 +376130,12 @@ panjabi:
     zho:
       "":
       - 旁遮普
-    hin: []
-    ara: []
+    hin:
+      "":
+      - पंजाब
+    ara:
+      "":
+      - بنجاب
   etymology:
     natlang:
       Panjabisa: ਪੰਜਾਬ &ldquo;panjabi&rdquo;
@@ -377407,7 +378087,7 @@ paralisi:
     epo:
     - - 's: paralizo'
     - - 'v.tr: paralizi'
-    - - 'v.ntr: paraliziĝi'
+    - - 'v.ntr: esti paralizita'
     spa:
     - - parálisis
     - - paralizar
@@ -377438,7 +378118,7 @@ paralisi:
       v.tr:
       - paralizi
       v.ntr:
-      - paraliziĝi
+      - esti paralizita
     spa:
       noun:
       - parálisis
@@ -377631,7 +378311,7 @@ paranoy:
     epo:
     - - 's: paranojo'
     - - 'v.tr: paranojigi'
-    - - 'v.ntr: paranojiĝi'
+    - - 'v.ntr: esti paranoja'
     spa:
     - - paranoia
     - - estar paranoico
@@ -377658,7 +378338,7 @@ paranoy:
       v.tr:
       - paranojigi
       v.ntr:
-      - paranojiĝi
+      - esti paranoja
     spa:
       noun:
       - paranoia
@@ -378327,7 +379007,8 @@ parsisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 波斯语
     hin: []
     ara: []
   trans_v2:
@@ -378345,7 +379026,9 @@ parsisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 波斯语
     hin: []
     ara: []
   etymology:
@@ -378367,7 +379050,8 @@ parsiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 波斯人
     hin: []
     ara: []
   trans_v2:
@@ -378383,7 +379067,9 @@ parsiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 波斯人
     hin: []
     ara: []
   etymology:
@@ -379777,8 +380463,10 @@ patrico:
     zho:
     - - 博德
       - 帕特里克
-    hin: []
-    ara: []
+    hin:
+    - - पैट्रिक
+    ara:
+    - - باتريك
   trans_v2:
     eng:
       prop n:
@@ -379802,8 +380490,12 @@ patrico:
       "":
       - 博德
       - 帕特里克
-    hin: []
-    ara: []
+    hin:
+      "":
+      - पैट्रिक
+    ara:
+      "":
+      - باتريك
   etymology:
     natlang:
       Arabisa: باتريك &ldquo;Batrik&rdquo;
@@ -380135,8 +380827,10 @@ pawlo:
     zho:
     - - 保羅
       - 保祿
-    hin: []
-    ara: []
+    hin:
+    - - पौलुस
+    ara:
+    - - بُولُس
   trans_v2:
     eng:
       prop n:
@@ -380161,8 +380855,12 @@ pawlo:
       "":
       - 保羅
       - 保祿
-    hin: []
-    ara: []
+    hin:
+      "":
+      - पौलुस
+    ara:
+      "":
+      - بُولُس
   etymology:
     natlang:
       Arabisa: بُولُس &ldquo;Bulus&rdquo;
@@ -384803,7 +385501,8 @@ peru:
     - - Перу
     zho:
     - - 秘鲁
-    hin: []
+    hin:
+    - - पेरू
     ara: []
   trans_v2:
     eng:
@@ -384827,7 +385526,9 @@ peru:
     zho:
       "":
       - 秘鲁
-    hin: []
+    hin:
+      "":
+      - पेरू
     ara: []
   etymology:
     natlang:
@@ -384884,7 +385585,8 @@ peruyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 秘鲁人
     hin: []
     ara: []
   trans_v2:
@@ -384900,7 +385602,9 @@ peruyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 秘鲁人
     hin: []
     ara: []
   etymology:
@@ -386399,8 +387103,10 @@ petro:
     zho:
     - - 彼得
       - 伯多禄
-    hin: []
-    ara: []
+    hin:
+    - - पतरस
+    ara:
+    - - بُطْرُس
   trans_v2:
     eng:
       prop n:
@@ -386424,8 +387130,12 @@ petro:
       "":
       - 彼得
       - 伯多禄
-    hin: []
-    ara: []
+    hin:
+      "":
+      - पतरस
+    ara:
+      "":
+      - بُطْرُس
   etymology:
     natlang:
       Arabisa: بُطْرُس &ldquo;Butrus&rdquo;
@@ -387398,8 +388108,10 @@ pilipina:
     zho:
     - - 菲律宾
       - 菲律滨
-    hin: []
-    ara: []
+    hin:
+    - - फ़िलीपींस
+    ara:
+    - - الْفِلِبِّين
   trans_v2:
     eng:
       prop n:
@@ -387423,8 +388135,12 @@ pilipina:
       "":
       - 菲律宾
       - 菲律滨
-    hin: []
-    ara: []
+    hin:
+      "":
+      - फ़िलीपींस
+    ara:
+      "":
+      - الْفِلِبِّين
   etymology:
     natlang:
       Pilipinasa: Pilipinas
@@ -387486,7 +388202,8 @@ pilipinasa:
     - - Philippinisch
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 菲律宾语
     hin: []
     ara: []
   trans_v2:
@@ -387506,7 +388223,9 @@ pilipinasa:
       - Philippinisch
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 菲律宾语
     hin: []
     ara: []
   etymology:
@@ -387530,7 +388249,8 @@ pilipinayen:
       - Philippinerin
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 菲律宾人
     hin: []
     ara: []
   trans_v2:
@@ -387549,7 +388269,9 @@ pilipinayen:
       - Philippinerin
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 菲律宾人
     hin: []
     ara: []
   etymology:
@@ -389245,8 +389967,10 @@ pitagora:
     - - Пифагор
     zho:
     - - 毕达哥拉斯
-    hin: []
-    ara: []
+    hin:
+    - - पाईथोगोरस
+    ara:
+    - - فِيثَاغُورَس
   trans_v2:
     eng:
       prop n:
@@ -389269,8 +389993,12 @@ pitagora:
     zho:
       "":
       - 毕达哥拉斯
-    hin: []
-    ara: []
+    hin:
+      "":
+      - पाईथोगोरस
+    ara:
+      "":
+      - فِيثَاغُورَس
   etymology:
     natlang:
       Arabisa: فِيثَاغُورَس &quot;Fiṯaḡuras&quot;
@@ -390884,8 +391612,10 @@ platon:
     - - Платон
     zho:
     - - 柏拉图
-    hin: []
-    ara: []
+    hin:
+    - - प्लेटो
+    ara:
+    - - أَفْلَاطُون
   trans_v2:
     eng:
       prop n:
@@ -390909,8 +391639,12 @@ platon:
     zho:
       "":
       - 柏拉图
-    hin: []
-    ara: []
+    hin:
+      "":
+      - प्लेटो
+    ara:
+      "":
+      - أَفْلَاطُون
   etymology:
     natlang:
       Arabisa: أفلاطون &quot;Aflatun&quot;
@@ -393349,7 +394083,8 @@ polskasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 波兰语
     hin: []
     ara: []
   trans_v2:
@@ -393365,7 +394100,9 @@ polskasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 波兰语
     hin: []
     ara: []
   etymology:
@@ -393387,7 +394124,8 @@ polskayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 波兰人
     hin: []
     ara: []
   trans_v2:
@@ -393403,7 +394141,9 @@ polskayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 波兰人
     hin: []
     ara: []
   etymology:
@@ -393970,8 +394710,10 @@ popu:
       - попса
     zho:
     - - 流行(音樂)
-    hin: []
-    ara: []
+    hin:
+    - - पॉप (संगीत)
+    ara:
+    - - بوب‎
   trans_v2:
     eng:
       adj:
@@ -393997,8 +394739,12 @@ popu:
     zho:
       "":
       - 流行(音樂)
-    hin: []
-    ara: []
+    hin:
+      "":
+      - पॉप (संगीत)
+    ara:
+      "":
+      - بوب‎
   etymology:
     natlang:
       Arabisa: مُوسِيقَى البوب&lrm; &ldquo;musiqa al-bob&rdquo;
@@ -395173,7 +395919,8 @@ portugalsa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 葡萄牙语
     hin: []
     ara: []
   trans_v2:
@@ -395189,7 +395936,9 @@ portugalsa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 葡萄牙语
     hin: []
     ara: []
   etymology:
@@ -395211,7 +395960,8 @@ portugalyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 葡萄牙人
     hin: []
     ara: []
   trans_v2:
@@ -395227,7 +395977,9 @@ portugalyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 葡萄牙人
     hin: []
     ara: []
   etymology:
@@ -415336,12 +416088,19 @@ roso:
     spa:
     - - (de color) rojo
       - colorado
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - rot
+    fra:
+    - - rouge
+    rus:
+    - - красный
+    zho:
+    - - 红
+    hin:
+    - - लाल
+      - सुर्ख़
+    ara:
+    - - أَحْمَر
   trans_v2:
     eng:
       adj:
@@ -415355,12 +416114,25 @@ roso:
       "":
       - (de color) rojo
       - colorado
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - rot
+    fra:
+      "":
+      - rouge
+    rus:
+      "":
+      - красный
+    zho:
+      "":
+      - 红
+    hin:
+      "":
+      - लाल
+      - सुर्ख़
+    ara:
+      "":
+      - أَحْمَر
   etymology:
     natlang:
       Doycisa: rot
@@ -417950,7 +418722,8 @@ rumanisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 罗马尼亚语
     hin: []
     ara: []
   trans_v2:
@@ -417966,7 +418739,9 @@ rumanisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 罗马尼亚语
     hin: []
     ara: []
   etymology:
@@ -417988,7 +418763,8 @@ rumaniyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 罗马尼亚人
     hin: []
     ara: []
   trans_v2:
@@ -418004,7 +418780,9 @@ rumaniyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 罗马尼亚人
     hin: []
     ara: []
   etymology:
@@ -418673,7 +419451,11 @@ rusisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 俄语
+      - 俄文
+      - 俄罗斯语
+      - 俄罗斯文
     hin: []
     ara: []
   trans_v2:
@@ -418689,7 +419471,12 @@ rusisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 俄语
+      - 俄文
+      - 俄罗斯语
+      - 俄罗斯文
     hin: []
     ara: []
   etymology:
@@ -418711,7 +419498,8 @@ rusiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 俄罗斯人
     hin: []
     ara: []
   trans_v2:
@@ -418727,7 +419515,9 @@ rusiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 俄罗斯人
     hin: []
     ara: []
   etymology:
@@ -419001,8 +419791,10 @@ rutu:
     zho:
     - - 路得
       - 卢德
-    hin: []
-    ara: []
+    hin:
+    - - रूत
+    ara:
+    - - راعوث
   trans_v2:
     eng:
       prop n:
@@ -419026,8 +419818,12 @@ rutu:
       "":
       - 路得
       - 卢德
-    hin: []
-    ara: []
+    hin:
+      "":
+      - रूत
+    ara:
+      "":
+      - راعوث
   etymology:
     natlang:
       Arabisa: راعوث &ldquo;Ra&#039;uth&rdquo;
@@ -419274,8 +420070,10 @@ rwanda:
     - - Rwanda
     zho:
     - - 卢旺达
-    hin: []
-    ara: []
+    hin:
+    - - रवांडा
+    ara:
+    - - رُوَانْدَا
   trans_v2:
     eng:
       prop n:
@@ -419299,8 +420097,12 @@ rwanda:
     zho:
       "":
       - 卢旺达
-    hin: []
-    ara: []
+    hin:
+      "":
+      - रवांडा
+    ara:
+      "":
+      - رُوَانْدَا
   etymology:
     natlang:
       Englisa: Rwanda
@@ -422371,8 +423173,10 @@ sakartwelo:
     - - Грузия
     zho:
     - - 格鲁吉亚
-    hin: []
-    ara: []
+    hin:
+    - - जॉर्जिया
+    ara:
+    - - جُورْجِيَا
   trans_v2:
     eng:
       prop n:
@@ -422396,8 +423200,12 @@ sakartwelo:
     zho:
       "":
       - 格鲁吉亚
-    hin: []
-    ara: []
+    hin:
+      "":
+      - जॉर्जिया
+    ara:
+      "":
+      - جُورْجِيَا
   etymology:
     natlang:
       Sakartwelosa: საქართველო &ldquo;sakartwelo&rdquo;
@@ -422415,7 +423223,8 @@ sakartwelosa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 格鲁吉亚语
     hin: []
     ara: []
   trans_v2:
@@ -422431,7 +423240,9 @@ sakartwelosa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 格鲁吉亚语
     hin: []
     ara: []
   etymology:
@@ -422453,7 +423264,8 @@ sakartweloyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 格鲁吉亚人
     hin: []
     ara: []
   trans_v2:
@@ -422469,7 +423281,9 @@ sakartweloyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 格鲁吉亚人
     hin: []
     ara: []
   etymology:
@@ -423131,8 +423945,10 @@ salomon:
     - - Соломон
     zho:
     - - 所羅門
-    hin: []
-    ara: []
+    hin:
+    - - सुलैमान
+    ara:
+    - - سُلَيْمَان
   trans_v2:
     eng:
       prop n:
@@ -423155,8 +423971,12 @@ salomon:
     zho:
       "":
       - 所羅門
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सुलैमान
+    ara:
+      "":
+      - سُلَيْمَان
   etymology:
     natlang:
       Arabisa: سُلَيْمَان &ldquo;Sulayman&rdquo;
@@ -423517,8 +424337,10 @@ salvadori:
     - - Сальвадор
     zho:
     - - 萨尔瓦多
-    hin: []
-    ara: []
+    hin:
+    - - अल साल्वाडोर
+    ara:
+    - - السَّلْفَادُور
   trans_v2:
     eng:
       prop n:
@@ -423542,8 +424364,12 @@ salvadori:
     zho:
       "":
       - 萨尔瓦多
-    hin: []
-    ara: []
+    hin:
+      "":
+      - अल साल्वाडोर
+    ara:
+      "":
+      - السَّلْفَادُور
   etymology:
     natlang:
       Espanisa: El Salvador
@@ -424685,7 +425511,8 @@ samoasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 萨摩亚语
     hin: []
     ara: []
   trans_v2:
@@ -424701,7 +425528,9 @@ samoasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 萨摩亚语
     hin: []
     ara: []
   etymology:
@@ -424723,7 +425552,8 @@ samoayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 萨摩亚人
     hin: []
     ara: []
   trans_v2:
@@ -424739,7 +425569,9 @@ samoayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 萨摩亚人
     hin: []
     ara: []
   etymology:
@@ -425033,8 +425865,10 @@ samwel:
     zho:
     - - 撒母耳
       - 撒慕尔
-    hin: []
-    ara: []
+    hin:
+    - - शमूएल
+    ara:
+    - - صَمُوئِيلَ
   trans_v2:
     eng:
       prop n:
@@ -425058,8 +425892,12 @@ samwel:
       "":
       - 撒母耳
       - 撒慕尔
-    hin: []
-    ara: []
+    hin:
+      "":
+      - शमूएल
+    ara:
+      "":
+      - صَمُوئِيلَ
   etymology:
     natlang:
       Arabisa: صَمُوئِيلَ &ldquo;Samuil&rdquo;
@@ -425101,8 +425939,10 @@ san_kristofer_ji_nevis:
       - Сент-Кристофер и Невис
     zho:
     - - 圣克里斯多福与尼维斯
-    hin: []
-    ara: []
+    hin:
+    - - 圣基茨和尼维斯
+    ara:
+    - - सन्त किट्स और नेविस
   trans_v2:
     eng:
       prop n:
@@ -425128,8 +425968,12 @@ san_kristofer_ji_nevis:
     zho:
       "":
       - 圣克里斯多福与尼维斯
-    hin: []
-    ara: []
+    hin:
+      "":
+      - 圣基茨和尼维斯
+    ara:
+      "":
+      - सन्त किट्स और नेविस
   etymology:
     natlang:
       Englisa: Saint Christopher and Nevis
@@ -425152,8 +425996,10 @@ san_lorenso:
     - - Святого Лаврентия
     zho:
     - - 圣劳伦斯
-    hin: []
-    ara: []
+    hin:
+    - - सेंट लॉरेंस
+    ara:
+    - - سانت لورانس
   trans_v2:
     eng:
       prop n:
@@ -425176,8 +426022,12 @@ san_lorenso:
     zho:
       "":
       - 圣劳伦斯
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सेंट लॉरेंस
+    ara:
+      "":
+      - سانت لورانس
   etymology:
     natlang:
       Arabisa: سانت لورانس &ldquo;Sant Lurans&rdquo;
@@ -425213,8 +426063,10 @@ san_lusia:
     - - Сент-Люсия
     zho:
     - - 圣卢西亚
-    hin: []
-    ara: []
+    hin:
+    - - सेण्ट लूसिया
+    ara:
+    - - سانت لوسيا
   trans_v2:
     eng:
       prop n:
@@ -425238,8 +426090,12 @@ san_lusia:
     zho:
       "":
       - 圣卢西亚
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सेण्ट लूसिया
+    ara:
+      "":
+      - سانت لوسيا
   etymology:
     natlang:
       Englisa: Saint Lucia
@@ -425263,8 +426119,10 @@ san_marino:
     - - Сан-Марино
     zho:
     - - 圣马力诺
-    hin: []
-    ara: []
+    hin:
+    - - सान मारिनो
+    ara:
+    - - سان مارينو
   trans_v2:
     eng:
       prop n:
@@ -425288,8 +426146,12 @@ san_marino:
     zho:
       "":
       - 圣马力诺
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सान मारिनो
+    ara:
+      "":
+      - سان مارينو
   etymology:
     natlang:
       Italisa: San Marino
@@ -425312,8 +426174,10 @@ san_tome_ji_prinsipe:
     - - Сан-Томе и Принсипи
     zho:
     - - 圣多美和普林西比
-    hin: []
-    ara: []
+    hin:
+    - - साओ तोमे और प्रिन्सिपी
+    ara:
+    - - ساو تومي وبرينسيب
   trans_v2:
     eng:
       prop n:
@@ -425336,8 +426200,12 @@ san_tome_ji_prinsipe:
     zho:
       "":
       - 圣多美和普林西比
-    hin: []
-    ara: []
+    hin:
+      "":
+      - साओ तोमे और प्रिन्सिपी
+    ara:
+      "":
+      - ساو تومي وبرينسيب
   etymology:
     natlang:
       Portugalsa: S&atilde;o Tom&eacute; e Pr&iacute;ncipe
@@ -425360,8 +426228,12 @@ san_vinsent_ji_grenadin:
     - - Сент-Винсент и Гренадины
     zho:
     - - 圣文森特和格林纳丁斯
-    hin: []
-    ara: []
+    hin:
+    - - सेंट विंसेंट एवं ग्रेनाडींस
+      - सेंट विंसेंट एंड ग्रेनाडाइन्स
+      - सेंट विंसेंट एंड द ग्रेनाडाइन्स
+    ara:
+    - - سانت فنسنت وجزر غرينادين
   trans_v2:
     eng:
       prop n:
@@ -425384,8 +426256,14 @@ san_vinsent_ji_grenadin:
     zho:
       "":
       - 圣文森特和格林纳丁斯
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सेंट विंसेंट एवं ग्रेनाडींस
+      - सेंट विंसेंट एंड ग्रेनाडाइन्स
+      - सेंट विंसेंट एंड द ग्रेनाडाइन्स
+    ara:
+      "":
+      - سانت فنسنت وجزر غرينادين
   etymology:
     natlang:
       Englisa: Saint Vincent and the Grenadines
@@ -425918,8 +426796,10 @@ sanskritam:
     - - Санскрит
     zho:
     - - 梵语
-    hin: []
-    ara: []
+    hin:
+    - - संस्कृत
+    ara:
+    - - سَنْسْكْرِيتِيّ
   trans_v2:
     eng:
       prop n:
@@ -425942,8 +426822,12 @@ sanskritam:
     zho:
       "":
       - 梵语
-    hin: []
-    ara: []
+    hin:
+      "":
+      - संस्कृत
+    ara:
+      "":
+      - سَنْسْكْرِيتِيّ
   etymology:
     natlang:
       Sanskritam: संस्कृतम् &ldquo;sanskŕtam&rdquo;
@@ -425967,8 +426851,10 @@ santari:
     rus:
     - - сантали
     zho:
-    - - 桑塔尔
-    hin: []
+    - - 桑塔利语
+    hin:
+    - - संथाल
+      - सांथाल
     ara: []
   trans_v2:
     eng:
@@ -425993,8 +426879,11 @@ santari:
       - сантали
     zho:
       "":
-      - 桑塔尔
-    hin: []
+      - 桑塔利语
+    hin:
+      "":
+      - संथाल
+      - सांथाल
     ara: []
   etymology:
     natlang:
@@ -426014,12 +426903,20 @@ santo:
     spa:
     - - santo
       - sagrado
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - heilig
+    fra:
+    - - saint
+      - sacré
+    rus:
+    - - святой
+      - священный
+    zho:
+    - - 神圣
+      - 圣
     hin: []
-    ara: []
+    ara:
+    - - مُقَدَّس
   trans_v2:
     eng:
       adj:
@@ -426036,12 +426933,25 @@ santo:
       "":
       - santo
       - sagrado
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+      "":
+      - heilig
+    fra:
+      "":
+      - saint
+      - sacré
+    rus:
+      "":
+      - святой
+      - священный
+    zho:
+      "":
+      - 神圣
+      - 圣
     hin: []
-    ara: []
+    ara:
+      "":
+      - مُقَدَّس
   etymology:
     natlang:
       Doycisa: Sankt - santoyen
@@ -426073,8 +426983,10 @@ santo_biskopodom:
     - - Святой Престол
     zho:
     - - 圣座
-    hin: []
-    ara: []
+    hin:
+    - - होली सी
+    ara:
+    - - الكرسي الرسولي
   trans_v2:
     eng:
       prop n:
@@ -426099,8 +427011,12 @@ santo_biskopodom:
     zho:
       "":
       - 圣座
-    hin: []
-    ara: []
+    hin:
+      "":
+      - होली सी
+    ara:
+      "":
+      - الكرسي الرسولي
   etymology:
     derived:
     - santo
@@ -426487,8 +427403,10 @@ sapfo:
     zho:
     - - 莎孚
       - 萨福
-    hin: []
-    ara: []
+    hin:
+    - - साफ़ो
+    ara:
+    - - صافو
   trans_v2:
     eng:
       prop n:
@@ -426512,8 +427430,12 @@ sapfo:
       "":
       - 莎孚
       - 萨福
-    hin: []
-    ara: []
+    hin:
+      "":
+      - साफ़ो
+    ara:
+      "":
+      - صافو
   etymology:
     natlang:
       Arabisa: صافو &quot;Safu&quot;
@@ -426597,8 +427519,10 @@ sara:
     - - Сара
     zho:
     - - 撒拉
-    hin: []
-    ara: []
+    hin:
+    - - सारा
+    ara:
+    - - سَارَة
   trans_v2:
     eng:
       prop n:
@@ -426623,8 +427547,12 @@ sara:
     zho:
       "":
       - 撒拉
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सारा
+    ara:
+      "":
+      - سَارَة
   etymology:
     natlang:
       Arabisa: سَارَة &ldquo;Sara&rdquo;
@@ -427564,7 +428492,8 @@ saul:
     zho:
     - - 扫罗
       - 撒乌耳
-    hin: []
+    hin:
+    - - शाऊल
     ara: []
   trans_v2:
     eng:
@@ -427590,7 +428519,9 @@ saul:
       "":
       - 扫罗
       - 撒乌耳
-    hin: []
+    hin:
+      "":
+      - शाऊल
     ara: []
   etymology:
     natlang:
@@ -427799,7 +428730,8 @@ sawdiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 沙特人
     hin: []
     ara: []
   trans_v2:
@@ -427819,7 +428751,9 @@ sawdiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 沙特人
     hin: []
     ara: []
   etymology:
@@ -428763,7 +429697,8 @@ sebastyan:
     zho:
     - - 塞巴斯蒂安
     hin: []
-    ara: []
+    ara:
+    - - سيباستيان
   trans_v2:
     eng:
       prop n:
@@ -428787,7 +429722,9 @@ sebastyan:
       "":
       - 塞巴斯蒂安
     hin: []
-    ara: []
+    ara:
+      "":
+      - سيباستيان
   etymology:
     natlang:
       Arabisa: سيباستيان &ldquo;Sibastian&rdquo;
@@ -428971,8 +429908,10 @@ sefani:
     - - Софония
     zho:
     - - 西番雅
-    hin: []
-    ara: []
+    hin:
+    - - सपन्याह
+    ara:
+    - - صَفَنْيَا
   trans_v2:
     eng:
       prop n:
@@ -428995,8 +429934,12 @@ sefani:
     zho:
       "":
       - 西番雅
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सपन्याह
+    ara:
+      "":
+      - صَفَنْيَا
   etymology:
     natlang:
       Arabisa: صَفَنْيَا &quot;Safaniya&quot;
@@ -430342,7 +431285,8 @@ seksi:
     rus:
     - - секси
     zho: []
-    hin: []
+    hin:
+    - - सेक्सी
     ara: []
   trans_v2:
     eng:
@@ -430375,7 +431319,9 @@ seksi:
       "":
       - секси
     zho: []
-    hin: []
+    hin:
+      "":
+      - सेक्सी
     ara: []
   etymology:
     natlang:
@@ -434130,8 +435076,10 @@ senegal:
     - - Сенегал
     zho:
     - - 塞内加尔
-    hin: []
-    ara: []
+    hin:
+    - - सेनेगल
+    ara:
+    - - السِّنْغَال
   trans_v2:
     eng:
       prop n:
@@ -434155,8 +435103,12 @@ senegal:
     zho:
       "":
       - 塞内加尔
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सेनेगल
+    ara:
+      "":
+      - السِّنْغَال
   etymology:
     natlang:
       Fransesa: S&eacute;n&eacute;gal
@@ -434213,7 +435165,8 @@ senegalyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 塞内加尔人
     hin: []
     ara: []
   trans_v2:
@@ -434230,7 +435183,9 @@ senegalyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 塞内加尔人
     hin: []
     ara: []
   etymology:
@@ -434624,7 +435579,8 @@ serbisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 塞尔维亚语
     hin: []
     ara: []
   trans_v2:
@@ -434640,7 +435596,9 @@ serbisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 塞尔维亚语
     hin: []
     ara: []
   etymology:
@@ -434663,7 +435621,8 @@ serbiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 塞尔维亚人
     hin: []
     ara: []
   trans_v2:
@@ -434680,7 +435639,9 @@ serbiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 塞尔维亚人
     hin: []
     ara: []
   etymology:
@@ -436486,8 +437447,10 @@ sibiri:
     - - Сибирь
     zho:
     - - 西伯利亚
-    hin: []
-    ara: []
+    hin:
+    - - साइबेरिया
+    ara:
+    - - سِيبِيرِيَا
   trans_v2:
     eng:
       prop n:
@@ -436510,8 +437473,12 @@ sibiri:
     zho:
       "":
       - 西伯利亚
-    hin: []
-    ara: []
+    hin:
+      "":
+      - साइबेरिया
+    ara:
+      "":
+      - سِيبِيرِيَا
   etymology:
     natlang:
       Arabisa: سِيبِيرِيَا &ldquo;Sibiriya&rdquo;
@@ -439095,8 +440062,10 @@ simon:
     - - Симон
     zho:
     - - 西門
-    hin: []
-    ara: []
+    hin:
+    - - शमौन
+    ara:
+    - - سِمْعَان
   trans_v2:
     eng:
       prop n:
@@ -439122,8 +440091,12 @@ simon:
     zho:
       "":
       - 西門
-    hin: []
-    ara: []
+    hin:
+      "":
+      - शमौन
+    ara:
+      "":
+      - سِمْعَان
   etymology:
     natlang:
       Arabisa: سِمْعَان &ldquo;Siman&rdquo;
@@ -439727,7 +440700,8 @@ sindisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 信德语
     hin: []
     ara: []
   trans_v2:
@@ -439743,7 +440717,9 @@ sindisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 信德语
     hin: []
     ara: []
   etymology:
@@ -439765,7 +440741,8 @@ sindiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 信德人
     hin: []
     ara: []
   trans_v2:
@@ -439781,7 +440758,9 @@ sindiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 信德人
     hin: []
     ara: []
   etymology:
@@ -440384,7 +441363,8 @@ sinhalasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 僧伽罗语
     hin: []
     ara: []
   trans_v2:
@@ -440402,7 +441382,9 @@ sinhalasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 僧伽罗语
     hin: []
     ara: []
   etymology:
@@ -442423,9 +443405,14 @@ soberen:
     spa:
     - - soberano
     - - soberanamente
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - souverän
+    fra:
+    - - souverain
+    - - souverainement
+    rus:
+    - - суверенный
+    - - суверенно
     zho: []
     hin: []
     ara: []
@@ -442443,9 +443430,19 @@ soberen:
       - soberano
       verb:
       - soberanamente
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      "":
+      - souverän
+    fra:
+      noun:
+      - souverain
+      verb:
+      - souverainement
+    rus:
+      noun:
+      - суверенный
+      verb:
+      - суверенно
     zho: []
     hin: []
     ara: []
@@ -443074,8 +444071,10 @@ sofi_name:
     - - София
     zho:
     - - 索菲亚
-    hin: []
-    ara: []
+    hin:
+    - - सोफिया
+    ara:
+    - - صوفيا
   trans_v2:
     eng:
       prop n:
@@ -443099,8 +444098,12 @@ sofi_name:
     zho:
       "":
       - 索菲亚
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सोफिया
+    ara:
+      "":
+      - صوفيا
   etymology:
     natlang:
       Arabisa: صوفيا &ldquo;Sufiya&rdquo;
@@ -443608,8 +444611,10 @@ sokrate:
     - - Сократ
     zho:
     - - 苏格拉底
-    hin: []
-    ara: []
+    hin:
+    - - सुकरात
+    ara:
+    - - سُقْرَاط
   trans_v2:
     eng:
       prop n:
@@ -443632,8 +444637,12 @@ sokrate:
     zho:
       "":
       - 苏格拉底
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सुकरात
+    ara:
+      "":
+      - سُقْرَاط
   etymology:
     natlang:
       Arabisa: سُقْرَاط &quot;Suqrat&quot;
@@ -445075,8 +446084,10 @@ somali:
     - - Сомали
     zho:
     - - 索马里
-    hin: []
-    ara: []
+    hin:
+    - - सोमालिया
+    ara:
+    - - اَلصُّومَال
   trans_v2:
     eng:
       prop n:
@@ -445100,8 +446111,12 @@ somali:
     zho:
       "":
       - 索马里
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सोमालिया
+    ara:
+      "":
+      - اَلصُّومَال
   etymology:
     natlang:
       Somalisa: Soomaaliya
@@ -445119,7 +446134,8 @@ somalisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 索马里语
     hin: []
     ara: []
   trans_v2:
@@ -445135,7 +446151,9 @@ somalisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 索马里语
     hin: []
     ara: []
   etymology:
@@ -445611,8 +446629,10 @@ somov:
     - - Сомов
     zho:
     - - 索莫夫
-    hin: []
-    ara: []
+    hin:
+    - - सोमोव
+    ara:
+    - - سوموف
   trans_v2:
     eng:
       prop n:
@@ -445635,11 +446655,15 @@ somov:
     zho:
       "":
       - 索莫夫
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सोमोव
+    ara:
+      "":
+      - سوموف
   etymology:
     natlang:
-      Arabisa: سوموف &ldquo;sumuf&rdquo;
+      Arabisa: سوموف &ldquo;Sumuf&rdquo;
       Doycisa: Somov
       Espanisa: Somov
       Fransesa: Somov
@@ -445821,7 +446845,7 @@ sonxi:
     epo:
     - - 's: perdo'
       - maltrovo
-    - - 'v.tr: perdi (<em>ne plu trovi</em>)'
+    - - 'v.tr: perdi'
       - maltrovi
     - - 'v.ntr (opcia uzo de -cu): perdiĝi'
       - maltroviĝi
@@ -445849,7 +446873,7 @@ sonxi:
       - perdo
       - maltrovo
       v.tr:
-      - perdi (<em>ne plu trovi</em>)
+      - perdi
       - maltrovi
       v.ntr (opcia uzo de -cu):
       - perdiĝi
@@ -447258,9 +448282,8 @@ soyo:
       - be (<em>feel</em>) itchy
     epo:
     - - 's: juko'
-    - - 'v.tr: jukigi'
-    - - 'v.ntr: juki'
-      - jukiĝi
+    - - 'v.tr: juki'
+    - - 'v.ntr: senti jukon'
     spa:
     - - comezón
       - picor
@@ -447288,10 +448311,9 @@ soyo:
       s:
       - juko
       v.tr:
-      - jukigi
-      v.ntr:
       - juki
-      - jukiĝi
+      v.ntr:
+      - senti jukon
     spa:
       noun:
       - comezón
@@ -447563,8 +448585,10 @@ sudan:
     - - Судан
     zho:
     - - 苏丹
-    hin: []
-    ara: []
+    hin:
+    - - सूडान
+    ara:
+    - - السُّودَان
   trans_v2:
     eng:
       prop n:
@@ -447587,8 +448611,12 @@ sudan:
     zho:
       "":
       - 苏丹
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सूडान
+    ara:
+      "":
+      - السُّودَان
   etymology:
     natlang:
       Arabisa: السودان&lrm; &ldquo;as-Sūdān&rdquo;
@@ -447671,8 +448699,10 @@ sudeafrika:
     - - Южная Африка
     zho:
     - - 南非
-    hin: []
-    ara: []
+    hin:
+    - - दक्षिण अफ़्रीका
+    ara:
+    - - جَنُوب أَفْرِيقْيَا
   trans_v2:
     eng:
       prop n:
@@ -447695,8 +448725,12 @@ sudeafrika:
     zho:
       "":
       - 南非
-    hin: []
-    ara: []
+    hin:
+      "":
+      - दक्षिण अफ़्रीका
+    ara:
+      "":
+      - جَنُوب أَفْرِيقْيَا
   etymology:
     derived:
     - sude
@@ -447767,7 +448801,8 @@ sudeafrikayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 南非人
     hin: []
     ara: []
   trans_v2:
@@ -447783,7 +448818,9 @@ sudeafrikayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 南非人
     hin: []
     ara: []
   etymology:
@@ -447925,8 +448962,10 @@ sudekorea:
     - - Южная Корея
     zho:
     - - 韩国
-    hin: []
-    ara: []
+    hin:
+    - - दक्षिण कोरिया
+    ara:
+    - - كُورْيَا ٱلجَنُوبِيَّة
   trans_v2:
     eng:
       prop n:
@@ -447950,8 +448989,12 @@ sudekorea:
     zho:
       "":
       - 韩国
-    hin: []
-    ara: []
+    hin:
+      "":
+      - दक्षिण कोरिया
+    ara:
+      "":
+      - كُورْيَا ٱلجَنُوبِيَّة
   etymology:
     derived:
     - sude
@@ -448027,8 +449070,10 @@ sudesudan:
     - - Южный Судан
     zho:
     - - 南苏丹
-    hin: []
-    ara: []
+    hin:
+    - - दक्षिण सूडान
+    ara:
+    - - جَنُوب السُّودَان
   trans_v2:
     eng:
       prop n:
@@ -448052,8 +449097,12 @@ sudesudan:
     zho:
       "":
       - 南苏丹
-    hin: []
-    ara: []
+    hin:
+      "":
+      - दक्षिण सूडान
+    ara:
+      "":
+      - جَنُوب السُّودَان
   etymology:
     derived:
     - sude
@@ -449590,8 +450639,10 @@ sulawesi:
     - - Сулавеси
     zho:
     - - 苏拉威西
-    hin: []
-    ara: []
+    hin:
+    - - सुलावेसी
+    ara:
+    - - سولاوسي
   trans_v2:
     eng:
       prop n:
@@ -449618,8 +450669,12 @@ sulawesi:
     zho:
       "":
       - 苏拉威西
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सुलावेसी
+    ara:
+      "":
+      - سولاوسي
   etymology:
     natlang:
       Arabisa: سولاوسي &ldquo;Sulawisi&rdquo;
@@ -449934,8 +450989,10 @@ sulu:
     - - Сулу
     zho:
     - - 苏禄省
-    hin: []
-    ara: []
+    hin:
+    - - सुलु
+    ara:
+    - - سولو
   trans_v2:
     eng:
       prop n:
@@ -449958,8 +451015,12 @@ sulu:
     zho:
       "":
       - 苏禄省
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सुलु
+    ara:
+      "":
+      - سولو
   etymology:
     natlang:
       Arabisa: سولو &ldquo;Sulu&rdquo;
@@ -450948,12 +452009,20 @@ suo:
     - - izquierdo
       - siniestro
       - levo-
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - links
+    fra:
+    - - gauche
+    rus:
+    - - левый
+    zho:
+    - - 左
+    hin:
+    - - बायाँ
+      - बाएँ
+    ara:
+    - - يَسَار
+      - شِمَال
   trans_v2:
     eng:
       adj:
@@ -450972,12 +452041,26 @@ suo:
       - izquierdo
       - siniestro
       - levo-
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - links
+    fra:
+      "":
+      - gauche
+    rus:
+      "":
+      - левый
+    zho:
+      "":
+      - 左
+    hin:
+      "":
+      - बायाँ
+      - बाएँ
+    ara:
+      "":
+      - يَسَار
+      - شِمَال
   etymology:
     natlang:
       Putunhwa: 左 &ldquo;zuǒ&rdquo;
@@ -450994,9 +452077,12 @@ suohantafil:
     - - 'adv: maldekstramane'
     spa:
     - - zurdo
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - linkshändig
+    fra:
+    - - gaucher
+    rus:
+    - - леворукий
     zho: []
     hin: []
     ara: []
@@ -451012,9 +452098,15 @@ suohantafil:
     spa:
       "":
       - zurdo
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      "":
+      - linkshändig
+    fra:
+      "":
+      - gaucher
+    rus:
+      "":
+      - леворукий
     zho: []
     hin: []
     ara: []
@@ -451038,12 +452130,16 @@ suohantali:
     spa:
     - - (de la) mano izquierda
       - del lado izquierdo
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - linkshändig
+    fra:
+    - - gaucher
+    rus:
+    - - леворукий
     zho: []
     hin: []
-    ara: []
+    ara:
+    - - شِمَال
   trans_v2:
     eng:
       adj:
@@ -451057,12 +452153,20 @@ suohantali:
       "":
       - (de la) mano izquierda
       - del lado izquierdo
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      "":
+      - linkshändig
+    fra:
+      "":
+      - gaucher
+    rus:
+      "":
+      - леворукий
     zho: []
     hin: []
-    ara: []
+    ara:
+      "":
+      - شِمَال
   etymology:
     derived:
     - suo
@@ -452933,7 +454037,8 @@ susana_name:
     - - Сусанна
     zho:
     - - 苏撒拿
-    hin: []
+    hin:
+    - - सूसन्नाह
     ara: []
   trans_v2:
     eng:
@@ -452958,7 +454063,9 @@ susana_name:
     zho:
       "":
       - 苏撒拿
-    hin: []
+    hin:
+      "":
+      - सूसन्नाह
     ara: []
   etymology:
     natlang:
@@ -454043,7 +455150,8 @@ swahilisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 斯瓦希里语
     hin: []
     ara: []
   trans_v2:
@@ -454060,7 +455168,9 @@ swahilisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 斯瓦希里语
     hin: []
     ara: []
   etymology:
@@ -454083,7 +455193,8 @@ swahiliyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 斯瓦希里人
     hin: []
     ara: []
   trans_v2:
@@ -454100,7 +455211,9 @@ swahiliyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 斯瓦希里人
     hin: []
     ara: []
   etymology:
@@ -455326,7 +456439,8 @@ switzeyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 瑞士人
     hin: []
     ara: []
   trans_v2:
@@ -455342,7 +456456,9 @@ switzeyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 瑞士人
     hin: []
     ara: []
   etymology:
@@ -456239,8 +457355,10 @@ syon:
     - - Сион
     zho:
     - - 锡安
-    hin: []
-    ara: []
+    hin:
+    - - सिय्योन
+    ara:
+    - - صَهْيُون
   trans_v2:
     eng:
       prop n:
@@ -456263,8 +457381,12 @@ syon:
     zho:
       "":
       - 锡安
-    hin: []
-    ara: []
+    hin:
+      "":
+      - सिय्योन
+    ara:
+      "":
+      - صَهْيُون
   etymology:
     natlang:
       Arabisa: صَهْيُون &ldquo;Sahyun&rdquo;
@@ -459253,7 +460375,8 @@ tamilsa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 泰米尔语
     hin: []
     ara: []
   trans_v2:
@@ -459269,7 +460392,9 @@ tamilsa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 泰米尔语
     hin: []
     ara: []
   etymology:
@@ -459291,7 +460416,8 @@ tamilyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 泰米尔人
     hin: []
     ara: []
   trans_v2:
@@ -459307,7 +460433,9 @@ tamilyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 泰米尔人
     hin: []
     ara: []
   etymology:
@@ -463115,7 +464243,9 @@ taysa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 泰语
+      - 泰文
     hin: []
     ara: []
   trans_v2:
@@ -463131,7 +464261,10 @@ taysa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 泰语
+      - 泰文
     hin: []
     ara: []
   etymology:
@@ -463309,7 +464442,8 @@ tayyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 泰人
     hin: []
     ara: []
   trans_v2:
@@ -463325,7 +464459,9 @@ tayyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 泰人
     hin: []
     ara: []
   etymology:
@@ -464796,12 +465932,22 @@ teliergo:
       - teletrabajo
       - trabajo remoto
     - - trabajar a distancia
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - Telearbeit
+      - Fernarbeit
+    fra:
+    - - télétravail
+    rus:
+    - - удалённая работа
+      - дистанционная работа
+      - телеработа
+      - онлайн-работа
+    zho:
+    - - 遠距工作、遠端工作、居家就業
+    hin:
+    - - दूरस्थ कार्य
+    ara:
+    - - العمل عن بعد، بالعمل من المنزل، العمل عبر الإنترنت
   trans_v2:
     eng:
       "n":
@@ -464822,12 +465968,28 @@ teliergo:
       - trabajo remoto
       verb:
       - trabajar a distancia
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - Telearbeit
+      - Fernarbeit
+    fra:
+      "":
+      - télétravail
+    rus:
+      "":
+      - удалённая работа
+      - дистанционная работа
+      - телеработа
+      - онлайн-работа
+    zho:
+      "":
+      - 遠距工作、遠端工作、居家就業
+    hin:
+      "":
+      - दूरस्थ कार्य
+    ara:
+      "":
+      - العمل عن بعد، بالعمل من المنزل، العمل عبر الإنترنت
   etymology:
     derived:
     - teli-
@@ -465410,7 +466572,8 @@ telugusa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 泰卢固语
     hin: []
     ara: []
   trans_v2:
@@ -465426,7 +466589,9 @@ telugusa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 泰卢固语
     hin: []
     ara: []
   etymology:
@@ -465448,7 +466613,8 @@ teluguyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 泰卢固人
     hin: []
     ara: []
   trans_v2:
@@ -465464,7 +466630,9 @@ teluguyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 泰卢固人
     hin: []
     ara: []
   etymology:
@@ -467565,12 +468733,18 @@ teorili:
     spa:
     - - teórico
     - - teóricamente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - theoretisch
+    fra:
+    - - théorique
+    rus:
+    - - теоретический
+    zho:
+    - - 理论的
+    hin:
+    - - теоретический
+    ara:
+    - - نَظَرِيّ
   trans_v2:
     eng:
       adj:
@@ -467588,12 +468762,24 @@ teorili:
       - teórico
       verb:
       - teóricamente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - theoretisch
+    fra:
+      "":
+      - théorique
+    rus:
+      "":
+      - теоретический
+    zho:
+      "":
+      - 理论的
+    hin:
+      "":
+      - теоретический
+    ara:
+      "":
+      - نَظَرِيّ
   etymology:
     derived:
     - teori
@@ -468085,7 +469271,8 @@ teritorifil:
     deu:
     - - territorial
     fra: []
-    rus: []
+    rus:
+    - - территориальный
     zho: []
     hin: []
     ara: []
@@ -468107,7 +469294,9 @@ teritorifil:
       "":
       - territorial
     fra: []
-    rus: []
+    rus:
+      "":
+      - территориальный
     zho: []
     hin: []
     ara: []
@@ -469247,7 +470436,8 @@ teslimu:
     - - 's: rezigno'
       - kapitulacio
     - - 'v.tr: cedi'
-    - - 'v.ntr (opcia uzo de -cu): rezigni'
+      - rezigni
+    - - 'v.ntr (opcia uzo de -cu): rezigniĝi'
       - kapitulacii
     spa:
     - - rendición
@@ -469281,8 +470471,9 @@ teslimu:
       - kapitulacio
       v.tr:
       - cedi
-      v.ntr (opcia uzo de -cu):
       - rezigni
+      v.ntr (opcia uzo de -cu):
+      - rezigniĝi
       - kapitulacii
     spa:
       noun:
@@ -472839,7 +474030,8 @@ tojikisa:
     fra: []
     rus:
     - - таджикский (язык)
-    zho: []
+    zho:
+    - - 塔吉克语
     hin: []
     ara: []
   trans_v2:
@@ -472858,7 +474050,9 @@ tojikisa:
     rus:
       "":
       - таджикский (язык)
-    zho: []
+    zho:
+      "":
+      - 塔吉克语
     hin: []
     ara: []
   etymology:
@@ -472882,7 +474076,8 @@ tojikiyen:
     rus:
     - - таджик
       - таджичка
-    zho: []
+    zho:
+    - - 塔吉克人
     hin: []
     ara: []
   trans_v2:
@@ -472901,7 +474096,9 @@ tojikiyen:
       "":
       - таджик
       - таджичка
-    zho: []
+    zho:
+      "":
+      - 塔吉克人
     hin: []
     ara: []
   etymology:
@@ -474414,7 +475611,8 @@ tongasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 汤加语
     hin: []
     ara: []
   trans_v2:
@@ -474430,7 +475628,9 @@ tongasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 汤加语
     hin: []
     ara: []
   etymology:
@@ -474452,7 +475652,8 @@ tongayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 汤加人
     hin: []
     ara: []
   trans_v2:
@@ -474468,7 +475669,9 @@ tongayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 汤加人
     hin: []
     ara: []
   etymology:
@@ -478172,9 +479375,12 @@ trasatlantikoli:
     - - 'adv: transatlantike'
     spa:
     - - transatlántico
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - transatlantisch
+    fra:
+    - - transatlantique
+    rus:
+    - - трансатлантический
     zho: []
     hin: []
     ara: []
@@ -478190,9 +479396,15 @@ trasatlantikoli:
     spa:
       "":
       - transatlántico
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      "":
+      - transatlantisch
+    fra:
+      "":
+      - transatlantique
+    rus:
+      "":
+      - трансатлантический
     zho: []
     hin: []
     ara: []
@@ -478369,9 +479581,16 @@ trasjensili:
       - transgenre
     spa:
     - - trans(género)
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - transgender
+      - transsexuell
+      - transgeschlechtlich
+    fra:
+    - - transgenre
+      - transsexuel
+    rus:
+    - - трансгендерный
+      - транссексуальный
     zho: []
     hin: []
     ara: []
@@ -478390,9 +479609,19 @@ trasjensili:
     spa:
       "":
       - trans(género)
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      "":
+      - transgender
+      - transsexuell
+      - transgeschlechtlich
+    fra:
+      "":
+      - transgenre
+      - transsexuel
+    rus:
+      "":
+      - трансгендерный
+      - транссексуальный
     zho: []
     hin: []
     ara: []
@@ -478798,7 +480027,7 @@ trawma:
     epo:
     - - 's: traŭmato'
     - - 'v.tr: traŭmatizi'
-    - - 'v.ntr: traŭmatiziĝi'
+    - - 'v.ntr: traŭmatizita'
     spa:
     - - trauma (<em>daño duradero</em>)
     - - traumatizar
@@ -478833,7 +480062,7 @@ trawma:
       v.tr:
       - traŭmatizi
       v.ntr:
-      - traŭmatiziĝi
+      - traŭmatizita
     spa:
       noun:
       - trauma (<em>daño duradero</em>)
@@ -479900,8 +481129,12 @@ trol:
     fra:
     - - troll
     - - troller
-    rus: []
-    zho: []
+    rus:
+    - - тролль
+    - - троллить
+    zho:
+    - - 巨魔
+    - - 钓鱼
     hin: []
     ara: []
   trans_v2:
@@ -479930,8 +481163,16 @@ trol:
       - troll
       verb:
       - troller
-    rus: []
-    zho: []
+    rus:
+      noun:
+      - тролль
+      verb:
+      - троллить
+    zho:
+      noun:
+      - 巨魔
+      verb:
+      - 钓鱼
     hin: []
     ara: []
   etymology:
@@ -479965,8 +481206,10 @@ troldo:
     - - troleado
     deu:
     - - getrollt
-    fra: []
-    rus: []
+    fra:
+    - - trollé
+    rus:
+    - - тролленный
     zho: []
     hin: []
     ara: []
@@ -479985,8 +481228,12 @@ troldo:
     deu:
       "":
       - getrollt
-    fra: []
-    rus: []
+    fra:
+      "":
+      - trollé
+    rus:
+      "":
+      - тролленный
     zho: []
     hin: []
     ara: []
@@ -480284,11 +481531,15 @@ tropikali:
     - - tropical
     deu:
     - - tropisch
-    fra: []
-    rus: []
+    fra:
+    - - tropical
+    rus:
+    - - тропический
     zho: []
-    hin: []
-    ara: []
+    hin:
+    - - उष्णकटिबंधीय
+    ara:
+    - - مَدَارِيّ
   trans_v2:
     eng:
       adj:
@@ -480306,11 +481557,19 @@ tropikali:
     deu:
       "":
       - tropisch
-    fra: []
-    rus: []
+    fra:
+      "":
+      - tropical
+    rus:
+      "":
+      - тропический
     zho: []
-    hin: []
-    ara: []
+    hin:
+      "":
+      - उष्णकटिबंधीय
+    ara:
+      "":
+      - مَدَارِيّ
   etymology:
     derived:
     - tropika
@@ -483079,7 +484338,9 @@ turkisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 土耳其语
+      - 土耳其文
     hin: []
     ara: []
   trans_v2:
@@ -483095,7 +484356,10 @@ turkisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 土耳其语
+      - 土耳其文
     hin: []
     ara: []
   etymology:
@@ -483117,7 +484381,8 @@ turkiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 土耳其人
     hin: []
     ara: []
   trans_v2:
@@ -483133,7 +484398,9 @@ turkiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 土耳其人
     hin: []
     ara: []
   etymology:
@@ -483248,7 +484515,8 @@ turkmenisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 土库曼语
     hin: []
     ara: []
   trans_v2:
@@ -483265,7 +484533,9 @@ turkmenisa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 土库曼语
     hin: []
     ara: []
   etymology:
@@ -483288,7 +484558,8 @@ turkmeniyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 土库曼人
     hin: []
     ara: []
   trans_v2:
@@ -483305,7 +484576,9 @@ turkmeniyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 土库曼人
     hin: []
     ara: []
   etymology:
@@ -483842,13 +485115,16 @@ tutumli:
     epo:
     - - 'adj: kora'
     - - 'adv: kore'
-    spa: []
+    spa:
+    - - cardiaco
     deu: []
-    fra: []
+    fra:
+    - - cardiaque
     rus: []
     zho: []
     hin: []
-    ara: []
+    ara:
+    - - قَلْبِيّ
   trans_v2:
     eng:
       adj:
@@ -483858,13 +485134,19 @@ tutumli:
       - kora
       adv:
       - kore
-    spa: []
+    spa:
+      "":
+      - cardiaco
     deu: []
-    fra: []
+    fra:
+      "":
+      - cardiaque
     rus: []
     zho: []
     hin: []
-    ara: []
+    ara:
+      "":
+      - قَلْبِيّ
   etymology:
     derived:
     - tutum
@@ -484152,7 +485434,8 @@ tuvalusa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 图瓦卢语
     hin: []
     ara: []
   trans_v2:
@@ -484168,7 +485451,9 @@ tuvalusa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 图瓦卢语
     hin: []
     ara: []
   etymology:
@@ -484190,7 +485475,8 @@ tuvaluyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 图瓦卢人
     hin: []
     ara: []
   trans_v2:
@@ -484206,7 +485492,9 @@ tuvaluyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 图瓦卢人
     hin: []
     ara: []
   etymology:
@@ -485457,7 +486745,8 @@ ugandayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 乌干达人
     hin: []
     ara: []
   trans_v2:
@@ -485473,7 +486762,9 @@ ugandayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 乌干达人
     hin: []
     ara: []
   etymology:
@@ -485759,7 +487050,8 @@ ukrainasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 乌克兰语
     hin: []
     ara: []
   trans_v2:
@@ -485775,7 +487067,9 @@ ukrainasa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 乌克兰语
     hin: []
     ara: []
   etymology:
@@ -485797,7 +487091,8 @@ ukrainayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 乌克兰人
     hin: []
     ara: []
   trans_v2:
@@ -485813,7 +487108,9 @@ ukrainayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 乌克兰人
     hin: []
     ara: []
   etymology:
@@ -488519,7 +489816,8 @@ usayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 美国人
     hin: []
     ara: []
   trans_v2:
@@ -488535,7 +489833,9 @@ usayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 美国人
     hin: []
     ara: []
   etymology:
@@ -488976,10 +490276,16 @@ utarakorea:
     - - Nordkorea
     fra:
     - - Corée du Nord
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    rus:
+    - - Северная Корея
+    zho:
+    - - 朝鲜
+      - 北韩
+      - 北朝鲜
+    hin:
+    - - उत्तर कोरिया
+    ara:
+    - - كُورِيَا الشَّمَالِيَّة
   trans_v2:
     eng:
       prop n:
@@ -488998,10 +490304,20 @@ utarakorea:
     fra:
       "":
       - Corée du Nord
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    rus:
+      "":
+      - Северная Корея
+    zho:
+      "":
+      - 朝鲜
+      - 北韩
+      - 北朝鲜
+    hin:
+      "":
+      - उत्तर कोरिया
+    ara:
+      "":
+      - كُورِيَا الشَّمَالِيَّة
   etymology:
     derived:
     - utara
@@ -489079,8 +490395,10 @@ utaramakedoni:
     - - Северная Македония
     zho:
     - - 北馬其頓
-    hin: []
-    ara: []
+    hin:
+    - - उत्तर मैसिडोनिया
+    ara:
+    - - مَقِدُونِيَا الشَّمَالِيَّة
   trans_v2:
     eng:
       prop n:
@@ -489104,8 +490422,12 @@ utaramakedoni:
     zho:
       "":
       - 北馬其頓
-    hin: []
-    ara: []
+    hin:
+      "":
+      - उत्तर मैसिडोनिया
+    ara:
+      "":
+      - مَقِدُونِيَا الشَّمَالِيَّة
   etymology:
     derived:
     - utara
@@ -489968,7 +491290,12 @@ vaksina:
     zho:
     - - 疫苗
       - 接种
-    hin: []
+    hin:
+    - - टीका
+      - वैक्सीन
+    - - टीका लगाना
+      - टीकाकरण करना
+      - वैक्सीन देना
     ara: []
   trans_v2:
     eng:
@@ -490006,7 +491333,14 @@ vaksina:
       "":
       - 疫苗
       - 接种
-    hin: []
+    hin:
+      noun:
+      - टीका
+      - वैक्सीन
+      verb:
+      - टीका लगाना
+      - टीकाकरण करना
+      - वैक्सीन देना
     ara: []
   etymology:
     natlang:
@@ -490014,6 +491348,7 @@ vaksina:
       Englisa: vaccine, vaccination
       Espanisa: vacuna
       Fransesa: vaccine, vaccination
+      Hindi: वैक्सीन &ldquo;veksin&rdquo;
       Indonesisa: vaksin, vaksinasi
       Koreasa: 백신 &ldquo;baegsin&rdquo;
       Niponsa: ワクチン &ldquo;wakuchin&rdquo;
@@ -490082,8 +491417,10 @@ valentin:
     - - Валентин
     zho:
     - - 瓦倫丁
-    hin: []
-    ara: []
+    hin:
+    - - वैलेंटाइन
+    ara:
+    - - فالنتين
   trans_v2:
     eng:
       prop n:
@@ -490107,8 +491444,12 @@ valentin:
     zho:
       "":
       - 瓦倫丁
-    hin: []
-    ara: []
+    hin:
+      "":
+      - वैलेंटाइन
+    ara:
+      "":
+      - فالنتين
   etymology:
     natlang:
       Arabisa: فالنتين &ldquo;Falantin&rdquo;
@@ -490555,8 +491896,10 @@ vanwatu:
     - - Вануату
     zho:
     - - 瓦努阿图
-    hin: []
-    ara: []
+    hin:
+    - - वानूआतू
+    ara:
+    - - فَانُوَاتُو
   trans_v2:
     eng:
       prop n:
@@ -490579,8 +491922,12 @@ vanwatu:
     zho:
       "":
       - 瓦努阿图
-    hin: []
-    ara: []
+    hin:
+      "":
+      - वानूआतू
+    ara:
+      "":
+      - فَانُوَاتُو
   etymology:
     natlang:
       Bislama: Vanuatu
@@ -491008,12 +492355,18 @@ vegan:
     - - 'adv: vegane'
     spa:
     - - vegano
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - vegan
+    fra:
+    - - végan
+    rus:
+    - - веганский
+    zho:
+    - - 纯素
+    hin:
+    - - वीगन
+    ara:
+    - - خُضْرِيّ
   trans_v2:
     eng:
       adj:
@@ -491026,12 +492379,24 @@ vegan:
     spa:
       "":
       - vegano
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - vegan
+    fra:
+      "":
+      - végan
+    rus:
+      "":
+      - веганский
+    zho:
+      "":
+      - 纯素
+    hin:
+      "":
+      - वीगन
+    ara:
+      "":
+      - خُضْرِيّ
   etymology:
     natlang:
       Doycisa: vegan, Veganismus
@@ -491120,12 +492485,19 @@ vegetari:
     - - 'adv: vegetare'
     spa:
     - - vegetariano
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - vegetarisch
+    fra:
+    - - végétarien
+    rus:
+    - - вегетарианский
+    zho:
+    - - 吃素的
+      - 素食的
+    hin:
+    - - शाकाहारी
+    ara:
+    - - نَبَاتِيّ
   trans_v2:
     eng:
       adj:
@@ -491139,12 +492511,25 @@ vegetari:
     spa:
       "":
       - vegetariano
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - vegetarisch
+    fra:
+      "":
+      - végétarien
+    rus:
+      "":
+      - вегетарианский
+    zho:
+      "":
+      - 吃素的
+      - 素食的
+    hin:
+      "":
+      - शाकाहारी
+    ara:
+      "":
+      - نَبَاتِيّ
   etymology:
     natlang:
       Doycisa: vegetarisch, Vegetarismus
@@ -491611,8 +492996,10 @@ venezwela:
     - - Венесуэла
     zho:
     - - 委内瑞拉
-    hin: []
-    ara: []
+    hin:
+    - - वेनेज़ुएला
+    ara:
+    - - فِنْزُوِيلَ
   trans_v2:
     eng:
       prop n:
@@ -491636,8 +493023,12 @@ venezwela:
     zho:
       "":
       - 委内瑞拉
-    hin: []
-    ara: []
+    hin:
+      "":
+      - वेनेज़ुएला
+    ara:
+      "":
+      - فِنْزُوِيلَ
   etymology:
     natlang:
       Espanisa: Venezuela
@@ -491693,7 +493084,8 @@ venezwelayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 委内瑞拉人
     hin: []
     ara: []
   trans_v2:
@@ -491709,7 +493101,9 @@ venezwelayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 委内瑞拉人
     hin: []
     ara: []
   etymology:
@@ -492409,7 +493803,8 @@ vicenti:
     zho:
     - - 文森特
     hin: []
-    ara: []
+    ara:
+    - - فنسنت
   trans_v2:
     eng:
       prop n:
@@ -492433,7 +493828,9 @@ vicenti:
       "":
       - 文森特
     hin: []
-    ara: []
+    ara:
+      "":
+      - فنسنت
   etymology:
     natlang:
       Arabisa: فنسنت &ldquo;Finsant&rdquo;
@@ -493098,8 +494495,10 @@ virtwal:
     - - виртуальный
     zho:
     - - 虚拟
-    hin: []
-    ara: []
+    hin:
+    - - वर्चुअल
+    ara:
+    - - اِفْتِرَاضِيّ، ظاهري
   trans_v2:
     eng:
       adj:
@@ -493128,8 +494527,12 @@ virtwal:
     zho:
       "":
       - 虚拟
-    hin: []
-    ara: []
+    hin:
+      "":
+      - वर्चुअल
+    ara:
+      "":
+      - اِفْتِرَاضِيّ، ظاهري
   etymology:
     natlang:
       Doycisa: virtuell
@@ -493167,8 +494570,11 @@ virus:
     - - вирус
     zho:
     - - 病毒
-    hin: []
-    ara: []
+    hin:
+    - - विषाणु
+      - वाइरस
+    ara:
+    - - فيروس، حُمَة
   trans_v2:
     eng:
       "n":
@@ -493201,8 +494607,13 @@ virus:
     zho:
       "":
       - 病毒
-    hin: []
-    ara: []
+    hin:
+      "":
+      - विषाणु
+      - वाइरस
+    ara:
+      "":
+      - فيروس، حُمَة
   etymology:
     natlang:
       Arabisa: ڤِيرُوس &ldquo;vīrūs&rdquo;, فِيرُوس &ldquo;fīrūs&rdquo;
@@ -493237,7 +494648,8 @@ virusli:
       - vírico
     deu: []
     fra: []
-    rus: []
+    rus:
+    - - вирусный
     zho: []
     hin: []
     ara: []
@@ -493258,7 +494670,9 @@ virusli:
       - vírico
     deu: []
     fra: []
-    rus: []
+    rus:
+      "":
+      - вирусный
     zho: []
     hin: []
     ara: []
@@ -493580,9 +494994,15 @@ vite:
     deu:
     - - Schraube
     - - schrauben
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - vis
+    - - visser
+    rus:
+    - - винт
+    - - винтить
+      - завинчивать
+    zho:
+    - - 螺丝；拧螺丝
     hin: []
     ara: []
   trans_v2:
@@ -493606,9 +495026,20 @@ vite:
       - Schraube
       verb:
       - schrauben
-    fra: []
-    rus: []
-    zho: []
+    fra:
+      noun:
+      - vis
+      verb:
+      - visser
+    rus:
+      noun:
+      - винт
+      verb:
+      - винтить
+      - завинчивать
+    zho:
+      "":
+      - 螺丝；拧螺丝
     hin: []
     ara: []
   etymology:
@@ -494886,8 +496317,10 @@ vyetnam:
     - - Вьетнам
     zho:
     - - 越南
-    hin: []
-    ara: []
+    hin:
+    - - वियतनाम
+    ara:
+    - - فِيتْنَام
   trans_v2:
     eng:
       prop n:
@@ -494913,8 +496346,12 @@ vyetnam:
     zho:
       "":
       - 越南
-    hin: []
-    ara: []
+    hin:
+      "":
+      - वियतनाम
+    ara:
+      "":
+      - فِيتْنَام
   etymology:
     natlang:
       Vyetnamsa: Việt Nam
@@ -494970,7 +496407,8 @@ vyetnamsa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 越南语
     hin: []
     ara: []
   trans_v2:
@@ -494986,7 +496424,9 @@ vyetnamsa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 越南语
     hin: []
     ara: []
   etymology:
@@ -495008,7 +496448,8 @@ vyetnamyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 越南人
     hin: []
     ara: []
   trans_v2:
@@ -495024,7 +496465,9 @@ vyetnamyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 越南人
     hin: []
     ara: []
   etymology:
@@ -499645,15 +501088,15 @@ weygi:
     - -gi
 weyhanta:
   term: weyhanta
-  word class: ""
+  word class: b.oj
   category: derived
   trans:
     eng:
-    - - handshake
-    - - shake hands
+    - - 'n: handshake'
+    - - 'v.tr: shake hands (with)'
     epo:
-    - - manpremo
-    - - manpremi
+    - - 's: manpremo'
+    - - 'v.tr: manpremi'
     spa:
     - - apretón de manos
       - estrechamiento de manos
@@ -499682,14 +501125,14 @@ weyhanta:
     - - صَافَحَ
   trans_v2:
     eng:
-      noun:
+      "n":
       - handshake
-      verb:
-      - shake hands
+      v.tr:
+      - shake hands (with)
     epo:
-      noun:
+      s:
       - manpremo
-      verb:
+      v.tr:
       - manpremi
     spa:
       noun:
@@ -505751,8 +507194,10 @@ xaveri:
     - - Ксаверий
     zho:
     - - 沙勿略
-    hin: []
-    ara: []
+    hin:
+    - - ज़ेवियर
+    ara:
+    - - كسفاريوس
   trans_v2:
     eng:
       prop n:
@@ -505776,8 +507221,12 @@ xaveri:
     zho:
       "":
       - 沙勿略
-    hin: []
-    ara: []
+    hin:
+      "":
+      - ज़ेवियर
+    ara:
+      "":
+      - كسفاريوس
   etymology:
     natlang:
       Arabisa: كسفاريوس &ldquo;Kasafariyus&rdquo;
@@ -507843,12 +509292,15 @@ xikenjedo:
     - - 'adv: torturite'
     spa:
     - - torturado
-    deu: []
-    fra: []
+    deu:
+    - - gefoltert
+    fra:
+    - - torturé
     rus: []
     zho: []
     hin: []
-    ara: []
+    ara:
+    - - مُعَذَّب
   trans_v2:
     eng:
       adj:
@@ -507861,12 +509313,18 @@ xikenjedo:
     spa:
       "":
       - torturado
-    deu: []
-    fra: []
+    deu:
+      "":
+      - gefoltert
+    fra:
+      "":
+      - torturé
     rus: []
     zho: []
     hin: []
-    ara: []
+    ara:
+      "":
+      - مُعَذَّب
   etymology:
     derived:
     - xikenje
@@ -508551,6 +510009,7 @@ xinenmal:
       - heterodokse
     spa:
     - - herético
+      - heterodoxo
       - sacrílego
       - profano
     deu:
@@ -508565,8 +510024,14 @@ xinenmal:
       - еретический
     zho:
     - - 异端的
-    hin: []
-    ara: []
+    hin:
+    - - विधर्मी
+      - पाखंडी
+      - अपरंपरागत
+      - अरूढ़िवादी
+    ara:
+    - - تقليدي
+      - أُرْثُوذُكْسِيّ
   trans_v2:
     eng:
       adj:
@@ -508588,6 +510053,7 @@ xinenmal:
     spa:
       "":
       - herético
+      - heterodoxo
       - sacrílego
       - profano
     deu:
@@ -508606,8 +510072,16 @@ xinenmal:
     zho:
       "":
       - 异端的
-    hin: []
-    ara: []
+    hin:
+      "":
+      - विधर्मी
+      - पाखंडी
+      - अपरंपरागत
+      - अरूढ़िवादी
+    ara:
+      "":
+      - تقليدي
+      - أُرْثُوذُكْسِيّ
   etymology:
     derived:
     - xinen
@@ -508673,8 +510147,10 @@ xinensahi:
       - православный
     zho:
     - - 正统的
-    hin: []
-    ara: []
+    hin:
+    - - रूढ़िवादी
+    ara:
+    - - غير تقليدي
   trans_v2:
     eng:
       adj:
@@ -508702,8 +510178,12 @@ xinensahi:
     zho:
       "":
       - 正统的
-    hin: []
-    ara: []
+    hin:
+      "":
+      - रूढ़िवादी
+    ara:
+      "":
+      - غير تقليدي
   etymology:
     derived:
     - xinen
@@ -508898,8 +510378,10 @@ xinxiku:
   trans:
     eng:
     - - 'n: erosion'
+      - wear
     - - 'v.tr: erode'
       - wear down
+      - wear out
       - eat away (at)
     - - 'v.intr (optional -cu): erode'
       - wear away
@@ -508924,9 +510406,11 @@ xinxiku:
     eng:
       "n":
       - erosion
+      - wear
       v.tr:
       - erode
       - wear down
+      - wear out
       - eat away (at)
       v.intr (optional -cu):
       - erode
@@ -511064,10 +512548,10 @@ xorfobi:
     - - 'v.intr: become frightened'
       - become scared
     epo:
+    - - 's: ektimo'
     - - 'v.tr: timigi'
       - ektimigi
-    - - 'v.ntr: timiĝi'
-      - ektimi
+    - - 'v.ntr: ektimi'
     spa:
     - - asustarse
     deu: []
@@ -511085,11 +512569,12 @@ xorfobi:
       - become frightened
       - become scared
     epo:
+      s:
+      - ektimo
       v.tr:
       - timigi
       - ektimigi
       v.ntr:
-      - timiĝi
       - ektimi
     spa:
       "":
@@ -511949,6 +513434,8 @@ xorpilo:
       - get tired
       - get fatigued
     epo:
+    - - 's: lacigo'
+      - laciĝo
     - - 'v.tr: (ek)lacigi'
     - - 'v.ntr: (ek)laciĝi'
     spa:
@@ -511974,6 +513461,9 @@ xorpilo:
       - get tired
       - get fatigued
     epo:
+      s:
+      - lacigo
+      - laciĝo
       v.tr:
       - (ek)lacigi
       v.ntr:
@@ -523801,7 +525291,8 @@ zambiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 赞比亚人
     hin: []
     ara: []
   trans_v2:
@@ -523817,7 +525308,9 @@ zambiyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 赞比亚人
     hin: []
     ara: []
   etymology:
@@ -524944,7 +526437,8 @@ zimbabweyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 津巴布韦人
     hin: []
     ara: []
   trans_v2:
@@ -524960,7 +526454,9 @@ zimbabweyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 津巴布韦人
     hin: []
     ara: []
   etymology:
@@ -525930,8 +527426,10 @@ zuhura:
     - - Венера
     zho:
     - - 金星
-    hin: []
-    ara: []
+    hin:
+    - - शुक्र (ग्रह)
+    ara:
+    - - الزُّهَرَة
   trans_v2:
     eng:
       prop n:
@@ -525954,8 +527452,12 @@ zuhura:
     zho:
       "":
       - 金星
-    hin: []
-    ara: []
+    hin:
+      "":
+      - शुक्र (ग्रह)
+    ara:
+      "":
+      - الزُّهَرَة
   etymology:
     natlang:
       Arabisa: الزهرة &ldquo;alzahra&rdquo;
