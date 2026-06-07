@@ -9358,12 +9358,19 @@ akrili:
     - - 'adv: akrile'
     spa:
     - - acrílico
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - acrylisch
+    fra:
+    - - acrylique
+    rus:
+    - - акриловый
+    zho:
+    - - 丙烯酸的
+      - 丙烯
+    hin:
+    - - ऐक्रेलिक
+    ara:
+    - - أكريليك، اكريلك
   trans_v2:
     eng:
       adj:
@@ -9376,12 +9383,25 @@ akrili:
     spa:
       "":
       - acrílico
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - acrylisch
+    fra:
+      "":
+      - acrylique
+    rus:
+      "":
+      - акриловый
+    zho:
+      "":
+      - 丙烯酸的
+      - 丙烯
+    hin:
+      "":
+      - ऐक्रेलिक
+    ara:
+      "":
+      - أكريليك، اكريلك
   etymology:
     natlang:
       Arabisa: أكريليك &ldquo;akrilik&rdquo;
@@ -9713,7 +9733,8 @@ akseli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 轴的
     hin: []
     ara: []
   trans_v2:
@@ -9735,7 +9756,9 @@ akseli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 轴的
     hin: []
     ara: []
   etymology:
@@ -10437,8 +10460,11 @@ alegorili:
     spa:
     - - alegórico
     - - alegóricamente
-    deu: []
-    fra: []
+    deu:
+    - - allegorisch
+    fra:
+    - - allégorique
+    - - allégoriquement
     rus: []
     zho: []
     hin: []
@@ -10460,8 +10486,14 @@ alegorili:
       - alegórico
       verb:
       - alegóricamente
-    deu: []
-    fra: []
+    deu:
+      "":
+      - allegorisch
+    fra:
+      noun:
+      - allégorique
+      verb:
+      - allégoriquement
     rus: []
     zho: []
     hin: []
@@ -10906,6 +10938,7 @@ algoritmali:
     fra: []
     rus:
     - - алгоритмический
+    - - алгоритмически
     zho: []
     hin: []
     ara: []
@@ -10928,8 +10961,10 @@ algoritmali:
     deu: []
     fra: []
     rus:
-      "":
+      noun:
       - алгоритмический
+      verb:
+      - алгоритмически
     zho: []
     hin: []
     ara: []
@@ -11593,9 +11628,14 @@ aljebrali:
     spa:
     - - algebraico
     - - algebraicamente
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - algebraisch
+    fra:
+    - - algébrique
+    - - algébriquement
+    rus:
+    - - алгебраический
+    - - алгебраически
     zho: []
     hin: []
     ara: []
@@ -11615,9 +11655,19 @@ aljebrali:
       - algebraico
       verb:
       - algebraicamente
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      "":
+      - algebraisch
+    fra:
+      noun:
+      - algébrique
+      verb:
+      - algébriquement
+    rus:
+      noun:
+      - алгебраический
+      verb:
+      - алгебраически
     zho: []
     hin: []
     ara: []
@@ -11816,9 +11866,14 @@ alkimili:
     - - 'adv: alĥemie'
     spa:
     - - alquímico
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - alchemistisch
+    fra:
+    - - alchimique
+    - - alchimiquement
+    rus:
+    - - алхимический
+    - - алхимически
     zho: []
     hin: []
     ara: []
@@ -11836,9 +11891,19 @@ alkimili:
     spa:
       "":
       - alquímico
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      "":
+      - alchemistisch
+    fra:
+      noun:
+      - alchimique
+      verb:
+      - alchimiquement
+    rus:
+      noun:
+      - алхимический
+      verb:
+      - алхимически
     zho: []
     hin: []
     ara: []
@@ -14915,7 +14980,8 @@ amarali:
     fra: []
     rus:
     - - амхарский
-    zho: []
+    zho:
+    - - 阿姆哈拉的
     hin: []
     ara: []
   trans_v2:
@@ -14933,7 +14999,9 @@ amarali:
     rus:
       "":
       - амхарский
-    zho: []
+    zho:
+      "":
+      - 阿姆哈拉的
     hin: []
     ara: []
   etymology:
@@ -17952,8 +18020,11 @@ analogu:
     zho:
     - - 模拟
       - 类比
-    hin: []
-    ara: []
+    hin:
+    - - एनालॉग
+      - एनालोग
+    ara:
+    - - تَمْثِيلِيّ
   trans_v2:
     eng:
       adj:
@@ -17980,8 +18051,13 @@ analogu:
       "":
       - 模拟
       - 类比
-    hin: []
-    ara: []
+    hin:
+      "":
+      - एनालॉग
+      - एनालोग
+    ara:
+      "":
+      - تَمْثِيلِيّ
   etymology:
     natlang:
       Doycisa: analog
@@ -18452,8 +18528,11 @@ anarkili:
     fra:
     - - anarchique
       - anarchiste
+    - - anarchiquement
+      - anarchistement
     rus:
     - - анархический
+    - - анархически
     zho:
     - - 无政府主义的
     hin: []
@@ -18480,12 +18559,17 @@ anarkili:
       "":
       - anarchistisch
     fra:
-      "":
+      noun:
       - anarchique
       - anarchiste
+      verb:
+      - anarchiquement
+      - anarchistement
     rus:
-      "":
+      noun:
       - анархический
+      verb:
+      - анархически
     zho:
       "":
       - 无政府主义的
@@ -19584,7 +19668,8 @@ angolali:
     fra: []
     rus:
     - - ангольский
-    zho: []
+    zho:
+    - - 安哥拉的
     hin: []
     ara: []
   trans_v2:
@@ -19602,7 +19687,9 @@ angolali:
     rus:
       "":
       - ангольский
-    zho: []
+    zho:
+      "":
+      - 安哥拉的
     hin: []
     ara: []
   etymology:
@@ -23800,7 +23887,8 @@ argentinali:
     fra: []
     rus:
     - - аргентинский
-    zho: []
+    zho:
+    - - 阿根廷的
     hin: []
     ara: []
   trans_v2:
@@ -23819,7 +23907,9 @@ argentinali:
     rus:
       "":
       - аргентинский
-    zho: []
+    zho:
+      "":
+      - 阿根廷的
     hin: []
     ara: []
   etymology:
@@ -23968,10 +24058,25 @@ aristo:
     spa:
     - - aristocrático
       - noble
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    - - aristocráticamente
+      - noblemente
+    deu:
+    - - aristokratisch
+      - adlig
+      - nobel
+      - vornehm
+    fra:
+    - - aristocratique
+      - noble
+    - - aristocratiquement
+      - noblement
+    rus:
+    - - аристократический
+      - благородный
+    - - аристократично
+      - благородно
+    zho:
+    - - 贵族的
     hin: []
     ara: []
   trans_v2:
@@ -23990,13 +24095,35 @@ aristo:
       - aristokrate
       - nobele
     spa:
-      "":
+      noun:
       - aristocrático
       - noble
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+      verb:
+      - aristocráticamente
+      - noblemente
+    deu:
+      "":
+      - aristokratisch
+      - adlig
+      - nobel
+      - vornehm
+    fra:
+      noun:
+      - aristocratique
+      - noble
+      verb:
+      - aristocratiquement
+      - noblement
+    rus:
+      noun:
+      - аристократический
+      - благородный
+      verb:
+      - аристократично
+      - благородно
+    zho:
+      "":
+      - 贵族的
     hin: []
     ara: []
   etymology:
@@ -27050,7 +27177,8 @@ asiali:
     fra: []
     rus:
     - - азиатский
-    zho: []
+    zho:
+    - - 亚洲的
     hin: []
     ara: []
   trans_v2:
@@ -27068,7 +27196,9 @@ asiali:
     rus:
       "":
       - азиатский
-    zho: []
+    zho:
+      "":
+      - 亚洲的
     hin: []
     ara: []
   etymology:
@@ -33443,7 +33573,9 @@ awti:
     - - autiste
     rus:
     - - аутичный
-    zho: []
+    zho:
+    - - 自闭症的
+      - 孤独症的
     hin: []
     ara:
     - - تَوَحُّدِي
@@ -33471,7 +33603,10 @@ awti:
     rus:
       "":
       - аутичный
-    zho: []
+    zho:
+      "":
+      - 自闭症的
+      - 孤独症的
     hin: []
     ara:
       "":
@@ -33777,7 +33912,8 @@ awtomimbay:
     spa:
     - - autoevidente
     deu: []
-    fra: []
+    fra:
+    - - qui va de soi
     rus:
     - - самоочевидно
     zho: []
@@ -33796,7 +33932,9 @@ awtomimbay:
       "":
       - autoevidente
     deu: []
-    fra: []
+    fra:
+      "":
+      - qui va de soi
     rus:
       "":
       - самоочевидно
@@ -35894,7 +36032,8 @@ azerbayjanli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 阿塞拜疆语
     hin: []
     ara: []
   trans_v2:
@@ -35911,7 +36050,9 @@ azerbayjanli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 阿塞拜疆语
     hin: []
     ara: []
   etymology:
@@ -40567,7 +40708,8 @@ banglali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 孟加拉的
     hin: []
     ara: []
   trans_v2:
@@ -40583,7 +40725,9 @@ banglali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 孟加拉的
     hin: []
     ara: []
   etymology:
@@ -42347,7 +42491,8 @@ baratili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 印度的
     hin: []
     ara: []
   trans_v2:
@@ -42363,7 +42508,9 @@ baratili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 印度的
     hin: []
     ara: []
   etymology:
@@ -42598,9 +42745,12 @@ barbari:
     - - barbarisch
     fra:
     - - barbare
+    - - barbarement
     rus:
     - - варварский
-    zho: []
+    - - варварски
+    zho:
+    - - 野蛮的
     hin: []
     ara: []
   trans_v2:
@@ -42625,12 +42775,18 @@ barbari:
       "":
       - barbarisch
     fra:
-      "":
+      noun:
       - barbare
+      verb:
+      - barbarement
     rus:
-      "":
+      noun:
       - варварский
-    zho: []
+      verb:
+      - варварски
+    zho:
+      "":
+      - 野蛮的
     hin: []
     ara: []
   etymology:
@@ -44504,14 +44660,21 @@ basalogili:
     spa:
     - - lingüístico
     - - lingüísticamente
-    deu: []
-    fra: []
+    deu:
+    - - sprachwissenschaftlich
+      - linguistisch
+    fra:
+    - - linguistique
+    - - linguistiquement
     rus:
     - - языковед
       - лингвист
-    zho: []
-    hin: []
-    ara: []
+    zho:
+    - - 语言学的
+    hin:
+    - - भाषावैज्ञानिक
+    ara:
+    - - لُغَوِيّ
   trans_v2:
     eng:
       adj:
@@ -44530,15 +44693,28 @@ basalogili:
       - lingüístico
       verb:
       - lingüísticamente
-    deu: []
-    fra: []
+    deu:
+      "":
+      - sprachwissenschaftlich
+      - linguistisch
+    fra:
+      noun:
+      - linguistique
+      verb:
+      - linguistiquement
     rus:
       "":
       - языковед
       - лингвист
-    zho: []
-    hin: []
-    ara: []
+    zho:
+      "":
+      - 语言学的
+    hin:
+      "":
+      - भाषावैज्ञानिक
+    ara:
+      "":
+      - لُغَوِيّ
   etymology:
     derived:
     - basa
@@ -62606,7 +62782,8 @@ brazilli:
     fra: []
     rus:
     - - бразильский
-    zho: []
+    zho:
+    - - 巴西的
     hin: []
     ara: []
   trans_v2:
@@ -62626,7 +62803,9 @@ brazilli:
     rus:
       "":
       - бразильский
-    zho: []
+    zho:
+      "":
+      - 巴西的
     hin: []
     ara: []
   etymology:
@@ -65262,12 +65441,21 @@ buleli:
     - - 'adv: bulee'
     spa:
     - - booleano
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - boolesch
+    fra:
+    - - booléen
+    rus:
+    - - булева
+      - логический
+      - высказываний
+    zho:
+    - - 布尔的
+    hin:
+    - - बुलियन
+      - बूलियन
+    ara:
+    - - بُول، منطقي
   trans_v2:
     eng:
       adj:
@@ -65280,12 +65468,27 @@ buleli:
     spa:
       "":
       - booleano
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - boolesch
+    fra:
+      "":
+      - booléen
+    rus:
+      "":
+      - булева
+      - логический
+      - высказываний
+    zho:
+      "":
+      - 布尔的
+    hin:
+      "":
+      - बुलियन
+      - बूलियन
+    ara:
+      "":
+      - بُول، منطقي
   etymology:
     derived:
     - bule
@@ -70049,7 +70252,8 @@ cadili:
     fra: []
     rus:
     - - чадский
-    zho: []
+    zho:
+    - - 乍得的
     hin: []
     ara: []
   trans_v2:
@@ -70067,7 +70271,9 @@ cadili:
     rus:
       "":
       - чадский
-    zho: []
+    zho:
+      "":
+      - 乍得的
     hin: []
     ara: []
   etymology:
@@ -70912,13 +71118,21 @@ cambay:
     - - 'adv: pale'
     spa:
     - - pálido
-    deu: []
-    fra: []
+    deu:
+    - - blass
+      - bleich
+      - fahl
+    fra:
+    - - pâle
+      - blafard
     rus:
     - - бледный
-    zho: []
-    hin: []
-    ara: []
+    zho:
+    - - 苍白
+    hin:
+    - - फीका
+    ara:
+    - - بَاهِت، شَاحِب
   trans_v2:
     eng:
       adj:
@@ -70935,14 +71149,27 @@ cambay:
     spa:
       "":
       - pálido
-    deu: []
-    fra: []
+    deu:
+      "":
+      - blass
+      - bleich
+      - fahl
+    fra:
+      "":
+      - pâle
+      - blafard
     rus:
       "":
       - бледный
-    zho: []
-    hin: []
-    ara: []
+    zho:
+      "":
+      - 苍白
+    hin:
+      "":
+      - फीका
+    ara:
+      "":
+      - بَاهِت، شَاحِب
   etymology:
     natlang:
       Koreasa: 창백한 &ldquo;cangbekhan&rdquo;
@@ -73937,13 +74164,19 @@ celulli:
     - - 'adv: ĉele'
     spa:
     - - celular (<em>relativo a las células</em>)
-    deu: []
-    fra: []
+    deu:
+    - - Zellen-
+      - zellulär
+    fra:
+    - - cellulaire
+      - celluleux
     rus:
     - - клеточный
-    zho: []
+    zho:
+    - - 细胞的
     hin: []
-    ara: []
+    ara:
+    - - خلوي
   trans_v2:
     eng:
       adj:
@@ -73956,14 +74189,24 @@ celulli:
     spa:
       "":
       - celular (<em>relativo a las células</em>)
-    deu: []
-    fra: []
+    deu:
+      "":
+      - Zellen-
+      - zellulär
+    fra:
+      "":
+      - cellulaire
+      - celluleux
     rus:
       "":
       - клеточный
-    zho: []
+    zho:
+      "":
+      - 细胞的
     hin: []
-    ara: []
+    ara:
+      "":
+      - خلوي
   etymology:
     derived:
     - celul
@@ -75533,12 +75776,16 @@ ceramikali:
     - - 'adv: ceramike'
     spa:
     - - cerámico
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - keramisch
+    fra:
+    - - céramique
+    rus:
+    - - керамический
     zho: []
     hin: []
-    ara: []
+    ara:
+    - - خَزَفِيّ
   trans_v2:
     eng:
       adj:
@@ -75551,12 +75798,20 @@ ceramikali:
     spa:
       "":
       - cerámico
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      "":
+      - keramisch
+    fra:
+      "":
+      - céramique
+    rus:
+      "":
+      - керамический
     zho: []
     hin: []
-    ara: []
+    ara:
+      "":
+      - خَزَفِيّ
   etymology:
     derived:
     - ceramika
@@ -76139,7 +76394,8 @@ ceskili:
     fra: []
     rus:
     - - чешский
-    zho: []
+    zho:
+    - - 捷克的
     hin: []
     ara: []
   trans_v2:
@@ -76159,7 +76415,9 @@ ceskili:
     rus:
       "":
       - чешский
-    zho: []
+    zho:
+      "":
+      - 捷克的
     hin: []
     ara: []
   etymology:
@@ -77179,7 +77437,8 @@ cileli:
     fra: []
     rus:
     - - чилийский
-    zho: []
+    zho:
+    - - 智利的
     hin: []
     ara: []
   trans_v2:
@@ -77197,7 +77456,9 @@ cileli:
     rus:
       "":
       - чилийский
-    zho: []
+    zho:
+      "":
+      - 智利的
     hin: []
     ara: []
   etymology:
@@ -79809,11 +80070,13 @@ cokolateli:
     - - 'adv: ĉokolade'
     spa:
     - - chocolatero
-    deu: []
+    deu:
+    - - schokoladen
     fra: []
     rus:
     - - шоколадний
-    zho: []
+    zho:
+    - - 巧克力的
     hin: []
     ara: []
   trans_v2:
@@ -79828,12 +80091,16 @@ cokolateli:
     spa:
       "":
       - chocolatero
-    deu: []
+    deu:
+      "":
+      - schokoladen
     fra: []
     rus:
       "":
       - шоколадний
-    zho: []
+    zho:
+      "":
+      - 巧克力的
     hin: []
     ara: []
   etymology:
@@ -97356,12 +97623,19 @@ demokrasili:
     spa:
     - - democrático
     - - democráticamente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - demokratisch
+    fra:
+    - - démocratique
+    - - démocratiquement
+    rus:
+    - - демократический
+    - - демократически
+    zho:
+    - - 民主的
     hin: []
-    ara: []
+    ara:
+    - - دِيمُقْرَاطِيّ
   trans_v2:
     eng:
       adj:
@@ -97380,12 +97654,26 @@ demokrasili:
       - democrático
       verb:
       - democráticamente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+      "":
+      - demokratisch
+    fra:
+      noun:
+      - démocratique
+      verb:
+      - démocratiquement
+    rus:
+      noun:
+      - демократический
+      verb:
+      - демократически
+    zho:
+      "":
+      - 民主的
     hin: []
-    ara: []
+    ara:
+      "":
+      - دِيمُقْرَاطِيّ
   etymology:
     derived:
     - demo
@@ -98770,9 +99058,14 @@ dentali:
     spa:
     - - dental
     deu: []
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - dentaire
+    rus:
+    - - зубной
+    zho:
+    - - 牙齿的
+      - 牙的
+      - 齿的
     hin: []
     ara: []
   trans_v2:
@@ -98790,9 +99083,17 @@ dentali:
       "":
       - dental
     deu: []
-    fra: []
-    rus: []
-    zho: []
+    fra:
+      "":
+      - dentaire
+    rus:
+      "":
+      - зубной
+    zho:
+      "":
+      - 牙齿的
+      - 牙的
+      - 齿的
     hin: []
     ara: []
   etymology:
@@ -106440,7 +106741,8 @@ domakuli:
     - - artériel
     rus:
     - - артериальный
-    zho: []
+    zho:
+    - - 动脉的
     hin: []
     ara: []
   trans_v2:
@@ -106464,7 +106766,9 @@ domakuli:
     rus:
       "":
       - артериальный
-    zho: []
+    zho:
+      "":
+      - 动脉的
     hin: []
     ara: []
   etymology:
@@ -109964,7 +110268,8 @@ drukili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 不丹的
     hin: []
     ara: []
   trans_v2:
@@ -109980,7 +110285,9 @@ drukili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 不丹的
     hin: []
     ara: []
   etymology:
@@ -111297,7 +111604,8 @@ duapedali:
     - - bipède
     rus:
     - - двуногий
-    zho: []
+    zho:
+    - - 双足的
     hin: []
     ara: []
   trans_v2:
@@ -111321,7 +111629,9 @@ duapedali:
     rus:
       "":
       - двуногий
-    zho: []
+    zho:
+      "":
+      - 双足的
     hin: []
     ara: []
   etymology:
@@ -120308,7 +120618,8 @@ ekwadorli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 厄瓜多尔的
     hin: []
     ara: []
   trans_v2:
@@ -120324,7 +120635,9 @@ ekwadorli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 厄瓜多尔的
     hin: []
     ara: []
   etymology:
@@ -121738,7 +122051,8 @@ elinili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 希腊的
     hin: []
     ara: []
   trans_v2:
@@ -121754,7 +122068,9 @@ elinili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 希腊的
     hin: []
     ara: []
   etymology:
@@ -121931,9 +122247,12 @@ elipseli:
     spa:
     - - elíptico
     deu: []
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - elliptique
+    rus:
+    - - эллиптический
+    zho:
+    - - 椭圆的
     hin: []
     ara: []
   trans_v2:
@@ -121951,9 +122270,15 @@ elipseli:
       "":
       - elíptico
     deu: []
-    fra: []
-    rus: []
-    zho: []
+    fra:
+      "":
+      - elliptique
+    rus:
+      "":
+      - эллиптический
+    zho:
+      "":
+      - 椭圆的
     hin: []
     ara: []
   etymology:
@@ -122714,9 +123039,14 @@ enciklopedili:
     spa:
     - - enciclopédico
     - - enciclopédicamente
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - enzyklopädisch
+    fra:
+    - - encyclopédique
+    - - encyclopédiquement
+    rus:
+    - - энциклопедический
+    - - энциклопедически
     zho: []
     hin: []
     ara: []
@@ -122738,9 +123068,19 @@ enciklopedili:
       - enciclopédico
       verb:
       - enciclopédicamente
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      "":
+      - enzyklopädisch
+    fra:
+      noun:
+      - encyclopédique
+      verb:
+      - encyclopédiquement
+    rus:
+      noun:
+      - энциклопедический
+      verb:
+      - энциклопедически
     zho: []
     hin: []
     ara: []
@@ -126925,7 +127265,8 @@ eskizofrenipul:
       - skizofrenia (<em>trafita de skizofrenio</em>)
     - - 'adv: sĥizofrenie'
       - skizofrenie
-    spa: []
+    spa:
+    - - esquizofrénico (<em>que sufre de esquizofrenia</em>)
     deu: []
     fra: []
     rus: []
@@ -126943,7 +127284,9 @@ eskizofrenipul:
       adv:
       - sĥizofrenie
       - skizofrenie
-    spa: []
+    spa:
+      "":
+      - esquizofrénico (<em>que sufre de esquizofrenia</em>)
     deu: []
     fra: []
     rus: []
@@ -128735,7 +129078,8 @@ eslovakili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 斯洛伐克的
     hin: []
     ara: []
   trans_v2:
@@ -128752,7 +129096,9 @@ eslovakili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 斯洛伐克的
     hin: []
     ara: []
   etymology:
@@ -128922,7 +129268,8 @@ eslovenili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 斯洛文尼亚的
     hin: []
     ara: []
   trans_v2:
@@ -128939,7 +129286,9 @@ eslovenili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 斯洛文尼亚的
     hin: []
     ara: []
   etymology:
@@ -129385,7 +129734,8 @@ espanili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 西班牙的
     hin: []
     ara: []
   trans_v2:
@@ -129401,7 +129751,9 @@ espanili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 西班牙的
     hin: []
     ara: []
   etymology:
@@ -131013,7 +131365,8 @@ esrilankali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 斯里兰卡的
     hin: []
     ara: []
   trans_v2:
@@ -131029,7 +131382,9 @@ esrilankali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 斯里兰卡的
     hin: []
     ara: []
   etymology:
@@ -131806,9 +132161,14 @@ estatistili:
     spa:
     - - estadístico
     - - estadísticamente
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - statistisch
+    fra:
+    - - statistique
+    - - statistiquement
+    rus:
+    - - статистический
+    - - статистически
     zho: []
     hin: []
     ara: []
@@ -131829,9 +132189,19 @@ estatistili:
       - estadístico
       verb:
       - estadísticamente
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      "":
+      - statistisch
+    fra:
+      noun:
+      - statistique
+      verb:
+      - statistiquement
+    rus:
+      noun:
+      - статистический
+      verb:
+      - статистически
     zho: []
     hin: []
     ara: []
@@ -139212,10 +139582,19 @@ exnetoli:
     - - sin conexión
       - desconectado
       - <em>offline</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - offline
+    fra:
+    - - hors ligne
+    rus:
+    - - офлайн
+      - автономный
+      - вне сети
+      - не в сети
+    zho:
+    - - 脱机
+      - 离线
+      - 線下
     hin: []
     ara: []
   trans_v2:
@@ -139234,10 +139613,23 @@ exnetoli:
       - sin conexión
       - desconectado
       - <em>offline</em>
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+      "":
+      - offline
+    fra:
+      "":
+      - hors ligne
+    rus:
+      "":
+      - офлайн
+      - автономный
+      - вне сети
+      - не в сети
+    zho:
+      "":
+      - 脱机
+      - 离线
+      - 線下
     hin: []
     ara: []
   etymology:
@@ -139266,7 +139658,9 @@ exordinari:
     - - extraordinariamente
       - excepcionalmente
     deu: []
-    fra: []
+    fra:
+    - - extraordinaire
+    - - extraordinairement
     rus: []
     zho: []
     hin: []
@@ -139292,7 +139686,11 @@ exordinari:
       - extraordinariamente
       - excepcionalmente
     deu: []
-    fra: []
+    fra:
+      noun:
+      - extraordinaire
+      verb:
+      - extraordinairement
     rus: []
     zho: []
     hin: []
@@ -152374,7 +152772,8 @@ feodal:
     zho:
     - - 封建的
     hin: []
-    ara: []
+    ara:
+    - - إِقْطَاعِيّ
   trans_v2:
     eng:
       adj:
@@ -152402,7 +152801,9 @@ feodal:
       "":
       - 封建的
     hin: []
-    ara: []
+    ara:
+      "":
+      - إِقْطَاعِيّ
   etymology:
     natlang:
       Doycisa: feudal, Feudalismus
@@ -153359,7 +153760,8 @@ fijili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 斐济的
     hin: []
     ara: []
   trans_v2:
@@ -153375,7 +153777,9 @@ fijili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 斐济的
     hin: []
     ara: []
   etymology:
@@ -167213,8 +167617,10 @@ galaksili:
     - - галактический
     zho:
     - - 星系的
-    hin: []
-    ara: []
+    hin:
+    - - मंदाकिनीय
+    ara:
+    - - مَجَرِّيّ
   trans_v2:
     eng:
       adj:
@@ -167243,8 +167649,12 @@ galaksili:
     zho:
       "":
       - 星系的
-    hin: []
-    ara: []
+    hin:
+      "":
+      - मंदाकिनीय
+    ara:
+      "":
+      - مَجَرِّيّ
   etymology:
     derived:
     - galaksi
@@ -168727,7 +169137,8 @@ ganali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 加纳的
     hin: []
     ara: []
   trans_v2:
@@ -168744,7 +169155,9 @@ ganali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 加纳的
     hin: []
     ara: []
   etymology:
@@ -173887,8 +174300,11 @@ germani:
     - - германский
     zho:
     - - 日耳曼
-    hin: []
-    ara: []
+    hin:
+    - - जर्मैनी
+      - जर्मनिक
+    ara:
+    - - جِرْمَانِيّ
   trans_v2:
     eng:
       prop adj:
@@ -173911,8 +174327,13 @@ germani:
     zho:
       "":
       - 日耳曼
-    hin: []
-    ara: []
+    hin:
+      "":
+      - जर्मैनी
+      - जर्मनिक
+    ara:
+      "":
+      - جِرْمَانِيّ
   etymology:
     natlang:
       Arabisa: الجِرْمَانِيَّة &ldquo;al-jirmaniya&rdquo;
@@ -174022,8 +174443,10 @@ gey:
     zho:
     - - 基
       - gay
-    hin: []
-    ara: []
+    hin:
+    - - समलैंगिक
+    ara:
+    - - مِثْلِيّ
   trans_v2:
     eng:
       adj:
@@ -174052,8 +174475,12 @@ gey:
       "":
       - 基
       - gay
-    hin: []
-    ara: []
+    hin:
+      "":
+      - समलैंगिक
+    ara:
+      "":
+      - مِثْلِيّ
   etymology:
     natlang:
       Doycisa: gay
@@ -174923,11 +175350,16 @@ gile:
     spa:
     - - mojado
       - empapado
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - nass
+      - feucht
+    fra:
+    - - mouillé
+    rus:
+    - - мокрый
     zho: []
-    hin: []
+    hin:
+    - - गीला
     ara: []
   trans_v2:
     eng:
@@ -174944,11 +175376,20 @@ gile:
       "":
       - mojado
       - empapado
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      "":
+      - nass
+      - feucht
+    fra:
+      "":
+      - mouillé
+    rus:
+      "":
+      - мокрый
     zho: []
-    hin: []
+    hin:
+      "":
+      - गीला
     ara: []
   etymology:
     natlang:
@@ -180753,7 +181194,9 @@ gramatili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 语法的
+      - 文法的
     hin: []
     ara: []
   trans_v2:
@@ -180773,7 +181216,10 @@ gramatili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 语法的
+      - 文法的
     hin: []
     ara: []
   etymology:
@@ -181424,7 +181870,8 @@ grenadali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 格林纳达的
     hin: []
     ara: []
   trans_v2:
@@ -181440,7 +181887,9 @@ grenadali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 格林纳达的
     hin: []
     ara: []
   etymology:
@@ -182575,7 +183024,8 @@ gujaratili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 古吉拉特的
     hin: []
     ara: []
   trans_v2:
@@ -182591,7 +183041,9 @@ gujaratili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 古吉拉特的
     hin: []
     ara: []
   etymology:
@@ -184952,7 +185404,8 @@ gwatemalali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 危地马拉的
     hin: []
     ara: []
   trans_v2:
@@ -184968,7 +185421,9 @@ gwatemalali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 危地马拉的
     hin: []
     ara: []
   etymology:
@@ -195878,7 +196333,8 @@ herkuleli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 赫丘利的
     hin: []
     ara: []
   trans_v2:
@@ -195894,7 +196350,9 @@ herkuleli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 赫丘利的
     hin: []
     ara: []
   etymology:
@@ -197125,12 +197583,20 @@ hibrido:
     - - 'adv: hibride'
     spa:
     - - híbrido
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - hybrid
+    fra:
+    - - hybride
+    rus:
+    - - гибридный
+    zho:
+    - - 杂种的
+      - 混合的
+    hin:
+    - - हाइब्रिड
+    ara:
+    - - هَجِين
+      - مختلط
   trans_v2:
     eng:
       adj:
@@ -197143,12 +197609,26 @@ hibrido:
     spa:
       "":
       - híbrido
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - hybrid
+    fra:
+      "":
+      - hybride
+    rus:
+      "":
+      - гибридный
+    zho:
+      "":
+      - 杂种的
+      - 混合的
+    hin:
+      "":
+      - हाइब्रिड
+    ara:
+      "":
+      - هَجِين
+      - مختلط
   etymology:
     natlang:
       Doycisa: hybride
@@ -200969,7 +201449,8 @@ hondurali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 洪都拉斯的
     hin: []
     ara: []
   trans_v2:
@@ -200985,7 +201466,9 @@ hondurali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 洪都拉斯的
     hin: []
     ara: []
   etymology:
@@ -204198,12 +204681,18 @@ huru:
     - - libre
       - horro
     - - libremente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - Freiheit
+    fra:
+    - - liberté
+    rus:
+    - - свобода
+    zho:
+    - - 自由
+    hin:
+    - - आज़ादी
+    ara:
+    - - حُرِّيَّة
   trans_v2:
     eng:
       adj:
@@ -204222,12 +204711,24 @@ huru:
       - horro
       verb:
       - libremente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - Freiheit
+    fra:
+      "":
+      - liberté
+    rus:
+      "":
+      - свобода
+    zho:
+      "":
+      - 自由
+    hin:
+      "":
+      - आज़ादी
+    ara:
+      "":
+      - حُرِّيَّة
   etymology:
     natlang:
       Arabisa: حُرّ &ldquo;ḥurr&rdquo;
@@ -209265,7 +209766,8 @@ imperili:
     rus: []
     zho: []
     hin: []
-    ara: []
+    ara:
+    - - إمْبَرَاطُورِيّ
   trans_v2:
     eng:
       adj:
@@ -209289,7 +209791,9 @@ imperili:
     rus: []
     zho: []
     hin: []
-    ara: []
+    ara:
+      "":
+      - إمْبَرَاطُورِيّ
   etymology:
     derived:
     - imperi
@@ -210211,7 +210715,8 @@ industrili:
     spa:
     - - industrial
     deu: []
-    fra: []
+    fra:
+    - - industriel
     rus: []
     zho: []
     hin: []
@@ -210231,7 +210736,9 @@ industrili:
       "":
       - industrial
     deu: []
-    fra: []
+    fra:
+      "":
+      - industriel
     rus: []
     zho: []
     hin: []
@@ -211568,8 +212075,10 @@ infraroso:
     - - инфракрасный
     zho:
     - - 红外
-    hin: []
-    ara: []
+    hin:
+    - - अवरक्त
+    ara:
+    - - تَحْتَ اَلْحَمْرَاء
   trans_v2:
     eng:
       adj:
@@ -211595,8 +212104,12 @@ infraroso:
     zho:
       "":
       - 红外
-    hin: []
-    ara: []
+    hin:
+      "":
+      - अवरक्त
+    ara:
+      "":
+      - تَحْتَ اَلْحَمْرَاء
   etymology:
     derived:
     - infra-
@@ -212738,8 +213251,11 @@ inkilabuli:
     spa:
     - - revolucionario
     - - revolucionariamente
-    deu: []
-    fra: []
+    deu:
+    - - revolutionär
+    fra:
+    - - révolutionnaire
+    - - révolutionnairement
     rus: []
     zho: []
     hin: []
@@ -212760,8 +213276,14 @@ inkilabuli:
       - revolucionario
       verb:
       - revolucionariamente
-    deu: []
-    fra: []
+    deu:
+      "":
+      - revolutionär
+    fra:
+      noun:
+      - révolutionnaire
+      verb:
+      - révolutionnairement
     rus: []
     zho: []
     hin: []
@@ -215129,8 +215651,10 @@ intregalaksili:
     - - межгалактический
     zho:
     - - 星系际
-    hin: []
-    ara: []
+    hin:
+    - - अंतरमंदाकिनीय
+    ara:
+    - - بين المجرات
   trans_v2:
     eng:
       adj:
@@ -215155,8 +215679,12 @@ intregalaksili:
     zho:
       "":
       - 星系际
-    hin: []
-    ara: []
+    hin:
+      "":
+      - अंतरमंदाकिनीय
+    ara:
+      "":
+      - بين المجرات
   etymology:
     derived:
     - intre
@@ -216633,7 +217161,8 @@ irakili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 伊拉克的
     hin: []
     ara: []
   trans_v2:
@@ -216649,7 +217178,9 @@ irakili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 伊拉克的
     hin: []
     ara: []
   etymology:
@@ -216766,7 +217297,8 @@ iranli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 伊朗的
     hin: []
     ara: []
   trans_v2:
@@ -216782,7 +217314,9 @@ iranli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 伊朗的
     hin: []
     ara: []
   etymology:
@@ -218394,7 +218928,9 @@ istyareli:
       - figure esprimite
     spa:
     - - metafórico
+      - figurativo
     - - metafóricamente
+      - figurativamente
     deu: []
     fra:
     - - métaphorique
@@ -218426,8 +218962,10 @@ istyareli:
     spa:
       noun:
       - metafórico
+      - figurativo
       verb:
       - metafóricamente
+      - figurativamente
     deu: []
     fra:
       noun:
@@ -219395,7 +219933,8 @@ ityopili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 埃塞俄比亚的
     hin: []
     ara: []
   trans_v2:
@@ -219412,7 +219951,9 @@ ityopili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 埃塞俄比亚的
     hin: []
     ara: []
   etymology:
@@ -222906,8 +223447,11 @@ jalo:
     - - жёлтый
     zho:
     - - 黄色
-    hin: []
-    ara: []
+    hin:
+    - - पीला
+      - ज़र्द
+    ara:
+    - - أَصْفَر
   trans_v2:
     eng:
       adj:
@@ -222932,8 +223476,13 @@ jalo:
     zho:
       "":
       - 黄色
-    hin: []
-    ara: []
+    hin:
+      "":
+      - पीला
+      - ज़र्द
+    ara:
+      "":
+      - أَصْفَر
   etymology:
     natlang:
       Englisa: yellow
@@ -226288,7 +226837,8 @@ jazairli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 阿尔及利亚的
     hin: []
     ara: []
   trans_v2:
@@ -226304,7 +226854,9 @@ jazairli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 阿尔及利亚的
     hin: []
     ara: []
   etymology:
@@ -228054,11 +228606,16 @@ jeruhili:
     - - quirúrgico
     - - quirúrgicamente
     deu: []
-    fra: []
-    rus: []
+    fra:
+    - - chirurgical
+    - - chirurgicalement
+    rus:
+    - - хирургический
+    - - хирургически
     zho: []
     hin: []
-    ara: []
+    ara:
+    - - جِرَاحِيّ
   trans_v2:
     eng:
       adj:
@@ -228078,11 +228635,21 @@ jeruhili:
       verb:
       - quirúrgicamente
     deu: []
-    fra: []
-    rus: []
+    fra:
+      noun:
+      - chirurgical
+      verb:
+      - chirurgicalement
+    rus:
+      noun:
+      - хирургический
+      verb:
+      - хирургически
     zho: []
     hin: []
-    ara: []
+    ara:
+      "":
+      - جِرَاحِيّ
   etymology:
     derived:
     - jeruhi
@@ -234718,7 +235285,10 @@ juni:
       - юный
     zho:
     - - 年轻
-    hin: []
+    hin:
+    - - युवा
+      - जवान
+      - तरुण
     ara: []
   trans_v2:
     eng:
@@ -234752,7 +235322,11 @@ juni:
     zho:
       "":
       - 年轻
-    hin: []
+    hin:
+      "":
+      - युवा
+      - जवान
+      - तरुण
     ara: []
   etymology:
     natlang:
@@ -235824,7 +236398,8 @@ junisim:
     epo:
     - - 'adj: juneca'
     - - 'adv: junece'
-    spa: []
+    spa:
+    - - juvenil
     deu: []
     fra: []
     rus: []
@@ -235842,7 +236417,9 @@ junisim:
       - juneca
       adv:
       - junece
-    spa: []
+    spa:
+      "":
+      - juvenil
     deu: []
     fra: []
     rus: []
@@ -241608,7 +242185,8 @@ kamerunli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 喀麦隆的
     hin: []
     ara: []
   trans_v2:
@@ -241624,7 +242202,9 @@ kamerunli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 喀麦隆的
     hin: []
     ara: []
   etymology:
@@ -242540,7 +243120,8 @@ kanadali:
     fra:
     - - canadien(ne)
     rus: []
-    zho: []
+    zho:
+    - - 加拿大的
     hin: []
     ara: []
   trans_v2:
@@ -242558,7 +243139,9 @@ kanadali:
       "":
       - canadien(ne)
     rus: []
-    zho: []
+    zho:
+      "":
+      - 加拿大的
     hin: []
     ara: []
   etymology:
@@ -242626,11 +243209,14 @@ kanan:
     spa:
     - - derecho (<em>opuesto de izquierdo</em>)
     deu: []
-    fra: []
+    fra:
+    - - droit
     rus: []
-    zho: []
+    zho:
+    - - 右
     hin: []
-    ara: []
+    ara:
+    - - يَمِين
   trans_v2:
     eng:
       adj:
@@ -242648,11 +243234,17 @@ kanan:
       "":
       - derecho (<em>opuesto de izquierdo</em>)
     deu: []
-    fra: []
+    fra:
+      "":
+      - droit
     rus: []
-    zho: []
+    zho:
+      "":
+      - 右
     hin: []
-    ara: []
+    ara:
+      "":
+      - يَمِين
   etymology:
     natlang:
       Indonesisa: kanan
@@ -245973,10 +246565,16 @@ karay:
     - - 'adv: pikante'
     spa:
     - - picante
-    deu: []
-    fra: []
+    deu:
+    - - scharf
+      - pikant
+    fra:
+    - - épicé
+      - piquant
     rus: []
-    zho: []
+    zho:
+    - - 辣
+      - 辛辣
     hin: []
     ara: []
   trans_v2:
@@ -245995,10 +246593,19 @@ karay:
     spa:
       "":
       - picante
-    deu: []
-    fra: []
+    deu:
+      "":
+      - scharf
+      - pikant
+    fra:
+      "":
+      - épicé
+      - piquant
     rus: []
-    zho: []
+    zho:
+      "":
+      - 辣
+      - 辛辣
     hin: []
     ara: []
   etymology:
@@ -249956,7 +250563,8 @@ katarli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 卡塔尔的
     hin: []
     ara: []
   trans_v2:
@@ -249972,7 +250580,9 @@ katarli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 卡塔尔的
     hin: []
     ara: []
   etymology:
@@ -250427,7 +251037,7 @@ katoliki:
     rus:
     - - католик
     zho:
-    - - 天主教(的)
+    - - 天主教的
     hin: []
     ara: []
   trans_v2:
@@ -250451,7 +251061,7 @@ katoliki:
       - католик
     zho:
       "":
-      - 天主教(的)
+      - 天主教的
     hin: []
     ara: []
   etymology:
@@ -251273,7 +251883,8 @@ kaxmirli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 克什米尔的
     hin: []
     ara: []
   trans_v2:
@@ -251289,7 +251900,9 @@ kaxmirli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 克什米尔的
     hin: []
     ara: []
   etymology:
@@ -251987,7 +252600,8 @@ kazakili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 哈薩克的
     hin: []
     ara: []
   trans_v2:
@@ -252003,7 +252617,9 @@ kazakili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 哈薩克的
     hin: []
     ara: []
   etymology:
@@ -255256,11 +255872,17 @@ kijawi:
     - - 'adv: verde'
     spa:
     - - (de color) verde
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
+    deu:
+    - - grün
+    fra:
+    - - vert
+    rus:
+    - - зелёный
+    zho:
+    - - 绿色的
+    hin:
+    - - हरा
+      - सब्ज़
     ara: []
   trans_v2:
     eng:
@@ -255274,11 +255896,22 @@ kijawi:
     spa:
       "":
       - (de color) verde
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
+    deu:
+      "":
+      - grün
+    fra:
+      "":
+      - vert
+    rus:
+      "":
+      - зелёный
+    zho:
+      "":
+      - 绿色的
+    hin:
+      "":
+      - हरा
+      - सब्ज़
     ara: []
   etymology:
     natlang:
@@ -256691,7 +257324,8 @@ kiprosli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 塞浦路斯的
     hin: []
     ara: []
   trans_v2:
@@ -256707,7 +257341,9 @@ kiprosli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 塞浦路斯的
     hin: []
     ara: []
   etymology:
@@ -258316,9 +258952,14 @@ klasiko:
     spa:
     - - clásico
     - - clásicamente
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - klassisch
+    fra:
+    - - classique
+    - - classiquement
+    rus:
+    - - классический
+    - - классически
     zho: []
     hin: []
     ara: []
@@ -258339,9 +258980,19 @@ klasiko:
       - clásico
       verb:
       - clásicamente
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      "":
+      - klassisch
+    fra:
+      noun:
+      - classique
+      verb:
+      - classiquement
+    rus:
+      noun:
+      - классический
+      verb:
+      - классически
     zho: []
     hin: []
     ara: []
@@ -261765,7 +262416,8 @@ kolombili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 哥伦比亚的
     hin: []
     ara: []
   trans_v2:
@@ -261781,7 +262433,9 @@ kolombili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 哥伦比亚的
     hin: []
     ara: []
   etymology:
@@ -263179,7 +263833,8 @@ komorili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 科摩罗的
     hin: []
     ara: []
   trans_v2:
@@ -263195,7 +263850,9 @@ komorili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 科摩罗的
     hin: []
     ara: []
   etymology:
@@ -263407,8 +264064,12 @@ kompeten:
     - - competente
     - - competentemente
     deu: []
-    fra: []
-    rus: []
+    fra:
+    - - compétent
+    - - compétemment
+    rus:
+    - - компетентный
+    - - компетентно
     zho: []
     hin: []
     ara: []
@@ -263429,8 +264090,16 @@ kompeten:
       verb:
       - competentemente
     deu: []
-    fra: []
-    rus: []
+    fra:
+      noun:
+      - compétent
+      verb:
+      - compétemment
+    rus:
+      noun:
+      - компетентный
+      verb:
+      - компетентно
     zho: []
     hin: []
     ara: []
@@ -266155,7 +266824,8 @@ konkanli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 康坎的
     hin: []
     ara: []
   trans_v2:
@@ -266171,7 +266841,9 @@ konkanli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 康坎的
     hin: []
     ara: []
   etymology:
@@ -266272,8 +266944,10 @@ konkreto:
     deu: []
     fra:
     - - concret
+    - - concrètement
     rus:
     - - конкретный
+    - - конкретно
     zho:
     - - 具体
     hin: []
@@ -266296,11 +266970,15 @@ konkreto:
       - concretamente
     deu: []
     fra:
-      "":
+      noun:
       - concret
+      verb:
+      - concrètement
     rus:
-      "":
+      noun:
       - конкретный
+      verb:
+      - конкретно
     zho:
       "":
       - 具体
@@ -269318,9 +269996,13 @@ kosmoli:
     spa:
     - - cósmico
     deu: []
-    fra: []
-    rus: []
-    zho: []
+    fra:
+    - - cosmique
+    rus:
+    - - космический
+    - - космически
+    zho:
+    - - 宇宙的
     hin: []
     ara: []
   trans_v2:
@@ -269338,9 +270020,17 @@ kosmoli:
       "":
       - cósmico
     deu: []
-    fra: []
-    rus: []
-    zho: []
+    fra:
+      "":
+      - cosmique
+    rus:
+      noun:
+      - космический
+      verb:
+      - космически
+    zho:
+      "":
+      - 宇宙的
     hin: []
     ara: []
   etymology:
@@ -269675,7 +270365,8 @@ kostarikali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 哥斯达黎加的
     hin: []
     ara: []
   trans_v2:
@@ -269691,7 +270382,9 @@ kostarikali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 哥斯达黎加的
     hin: []
     ara: []
   etymology:
@@ -280093,8 +280786,10 @@ kwir:
     - - квир
     zho:
     - - 酷儿
-    hin: []
-    ara: []
+    hin:
+    - - क्वीर
+    ara:
+    - - كْوِير
   trans_v2:
     eng:
       adj:
@@ -280123,14 +280818,19 @@ kwir:
     zho:
       "":
       - 酷儿
-    hin: []
-    ara: []
+    hin:
+      "":
+      - क्वीर
+    ara:
+      "":
+      - كْوِير
   etymology:
     natlang:
       Arabisa: كُوير &ldquo;kuyr&rdquo;
       Englisa: queer
       Espanisa: cuir, queer
       Fransesa: queer
+      Hindi: क्वीर &ldquo;kvir&rdquo;
       Indonesisa: queer
       Koreasa: 퀴어 &ldquo;kwie&rdquo;
       Niponsa: クィア &ldquo;kwia&rdquo;
@@ -283922,7 +284622,8 @@ latin:
     epo:
     - - 'prop adj: latina'
     spa:
-    - - latino
+    - - latín
+      - latino
     deu:
     - - lateinisch
     fra:
@@ -283942,6 +284643,7 @@ latin:
       - latina
     spa:
       "":
+      - latín
       - latino
     deu:
       "":
@@ -284039,32 +284741,49 @@ latinikali:
   category: proper word
   trans:
     eng:
-    - - 'prop adj: Latina'
-      - Latino
-      - Latinx
+    - - 'prop adj: Latino'
+      - Latina
     epo:
     - - 'prop adj: latinamerika'
-    spa: []
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    spa:
+    - - latinoamericano
+      - latino
+    deu:
+    - - lateinamerikanisch
+    fra:
+    - - latinoaméricain
+      - latino
+    rus:
+    - - латиноамериканский
+    zho:
+    - - 拉丁美洲的
     hin: []
     ara: []
   trans_v2:
     eng:
       prop adj:
-      - Latina
       - Latino
-      - Latinx
+      - Latina
     epo:
       prop adj:
       - latinamerika
-    spa: []
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    spa:
+      "":
+      - latinoamericano
+      - latino
+    deu:
+      "":
+      - lateinamerikanisch
+    fra:
+      "":
+      - latinoaméricain
+      - latino
+    rus:
+      "":
+      - латиноамериканский
+    zho:
+      "":
+      - 拉丁美洲的
     hin: []
     ara: []
   etymology:
@@ -289578,7 +290297,8 @@ libili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 利比亚的
     hin: []
     ara: []
   trans_v2:
@@ -289594,7 +290314,9 @@ libili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 利比亚的
     hin: []
     ara: []
   etymology:
@@ -290697,7 +291419,8 @@ lihtenstaynli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 列支敦士登的
     hin: []
     ara: []
   trans_v2:
@@ -290713,7 +291436,9 @@ lihtenstaynli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 列支敦士登的
     hin: []
     ara: []
   etymology:
@@ -300663,7 +301388,8 @@ lyetuvali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 立陶宛的
     hin: []
     ara: []
   trans_v2:
@@ -300679,7 +301405,9 @@ lyetuvali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 立陶宛的
     hin: []
     ara: []
   etymology:
@@ -302575,7 +303303,8 @@ magyarli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 匈牙利的
     hin: []
     ara: []
   trans_v2:
@@ -302591,7 +303320,9 @@ magyarli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 匈牙利的
     hin: []
     ara: []
   etymology:
@@ -304358,7 +305089,8 @@ makedonili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 马其顿的
     hin: []
     ara: []
   trans_v2:
@@ -304374,7 +305106,9 @@ makedonili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 马其顿的
     hin: []
     ara: []
   etymology:
@@ -308776,7 +309510,8 @@ manipurli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 曼尼普尔的
     hin: []
     ara: []
   trans_v2:
@@ -308792,7 +309527,9 @@ manipurli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 曼尼普尔的
     hin: []
     ara: []
   etymology:
@@ -313675,7 +314412,8 @@ masrili:
     - - ägyptisch
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 埃及的
     hin: []
     ara: []
   trans_v2:
@@ -313693,7 +314431,9 @@ masrili:
       - ägyptisch
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 埃及的
     hin: []
     ara: []
   etymology:
@@ -315044,7 +315784,8 @@ mawrisli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 毛里求斯的
     hin: []
     ara: []
   trans_v2:
@@ -315060,7 +315801,9 @@ mawrisli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 毛里求斯的
     hin: []
     ara: []
   etymology:
@@ -324298,7 +325041,11 @@ meta:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 元-
+      - 形而上
+      - 自指的
+      - 递归的
     hin: []
     ara: []
   trans_v2:
@@ -324327,7 +325074,12 @@ meta:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 元-
+      - 形而上
+      - 自指的
+      - 递归的
     hin: []
     ara: []
   etymology:
@@ -324430,7 +325182,8 @@ metabolisli:
     - - métabolique
     - - métaboliquement
     rus: []
-    zho: []
+    zho:
+    - - 新陈代谢的
     hin: []
     ara: []
   trans_v2:
@@ -324456,7 +325209,9 @@ metabolisli:
       verb:
       - métaboliquement
     rus: []
-    zho: []
+    zho:
+      "":
+      - 新陈代谢的
     hin: []
     ara: []
   etymology:
@@ -325645,7 +326400,8 @@ mexikoli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 墨西哥的
     hin: []
     ara: []
   trans_v2:
@@ -325662,7 +326418,9 @@ mexikoli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 墨西哥的
     hin: []
     ara: []
   etymology:
@@ -333608,7 +334366,8 @@ moldovali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 摩尔多瓦的
     hin: []
     ara: []
   trans_v2:
@@ -333624,7 +334383,9 @@ moldovali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 摩尔多瓦的
     hin: []
     ara: []
   etymology:
@@ -333752,7 +334513,8 @@ molekulli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 分子的
     hin: []
     ara: []
   trans_v2:
@@ -333772,7 +334534,9 @@ molekulli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 分子的
     hin: []
     ara: []
   etymology:
@@ -335369,7 +336133,8 @@ mor:
     - - mort
       - décédé
     rus: []
-    zho: []
+    zho:
+    - - 死的
     hin: []
     ara: []
   trans_v2:
@@ -335391,7 +336156,9 @@ mor:
       - mort
       - décédé
     rus: []
-    zho: []
+    zho:
+      "":
+      - 死的
     hin: []
     ara: []
   etymology:
@@ -338127,7 +338894,8 @@ moyjensifil:
     - - пансексуальный
     zho:
     - - 泛性恋的
-    hin: []
+    hin:
+    - - सर्वलैंगिक
     ara: []
   trans_v2:
     eng:
@@ -338155,7 +338923,9 @@ moyjensifil:
     zho:
       "":
       - 泛性恋的
-    hin: []
+    hin:
+      "":
+      - सर्वलैंगिक
     ara: []
   etymology:
     derived:
@@ -344996,7 +345766,8 @@ namibili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 纳米比亚的
     hin: []
     ara: []
   trans_v2:
@@ -345012,7 +345783,9 @@ namibili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 纳米比亚的
     hin: []
     ara: []
   etymology:
@@ -348049,7 +348822,8 @@ nayjerili:
     - - nigérian
     rus:
     - - нигерийский
-    zho: []
+    zho:
+    - - 尼日利亚的
     hin: []
     ara: []
   trans_v2:
@@ -348071,7 +348845,9 @@ nayjerili:
     rus:
       "":
       - нигерийский
-    zho: []
+    zho:
+      "":
+      - 尼日利亚的
     hin: []
     ara: []
   etymology:
@@ -365135,7 +365911,8 @@ ohomli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 阿萨姆的
     hin: []
     ara: []
   trans_v2:
@@ -365151,7 +365928,9 @@ ohomli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 阿萨姆的
     hin: []
     ara: []
   etymology:
@@ -369963,7 +370742,8 @@ orisali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 奥里萨的
     hin: []
     ara: []
   trans_v2:
@@ -369980,7 +370760,9 @@ orisali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 奥里萨的
     hin: []
     ara: []
   etymology:
@@ -371115,7 +371897,8 @@ osmanli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 奥斯曼的
     hin: []
     ara: []
   trans_v2:
@@ -371134,7 +371917,9 @@ osmanli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 奥斯曼的
     hin: []
     ara: []
   etymology:
@@ -377923,7 +378708,8 @@ paragwayyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 巴拉圭人
     hin: []
     ara: []
   trans_v2:
@@ -377939,7 +378725,9 @@ paragwayyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 巴拉圭人
     hin: []
     ara: []
   etymology:
@@ -378967,7 +379755,8 @@ parsili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 波斯的
     hin: []
     ara: []
   trans_v2:
@@ -378983,7 +379772,9 @@ parsili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 波斯的
     hin: []
     ara: []
   etymology:
@@ -385547,7 +386338,8 @@ peruli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 秘鲁的
     hin: []
     ara: []
   trans_v2:
@@ -385563,7 +386355,9 @@ peruli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 秘鲁的
     hin: []
     ara: []
   etymology:
@@ -388159,7 +388953,9 @@ pilipinali:
     - - philippinisch
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 菲律宾的
+      - 菲律滨的
     hin: []
     ara: []
   trans_v2:
@@ -388177,7 +388973,10 @@ pilipinali:
       - philippinisch
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 菲律宾的
+      - 菲律滨的
     hin: []
     ara: []
   etymology:
@@ -391678,7 +392477,8 @@ platonli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 柏拉图的
     hin: []
     ara: []
   trans_v2:
@@ -391694,7 +392494,9 @@ platonli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 柏拉图的
     hin: []
     ara: []
   etymology:
@@ -394045,7 +394847,8 @@ polskali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 波兰的
     hin: []
     ara: []
   trans_v2:
@@ -394061,7 +394864,9 @@ polskali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 波兰的
     hin: []
     ara: []
   etymology:
@@ -402632,7 +403437,8 @@ privato:
     spa:
     - - privado
     - - en privado
-    deu: []
+    deu:
+    - - privat
     fra: []
     rus: []
     zho: []
@@ -402654,7 +403460,9 @@ privato:
       - privado
       verb:
       - en privado
-    deu: []
+    deu:
+      "":
+      - privat
     fra: []
     rus: []
     zho: []
@@ -405827,7 +406635,8 @@ purpuro:
     - - (de color) morado
       - púrpura
       - violeta
-    deu: []
+    deu:
+    - - purpurn
     fra: []
     rus: []
     zho: []
@@ -405847,7 +406656,9 @@ purpuro:
       - (de color) morado
       - púrpura
       - violeta
-    deu: []
+    deu:
+      "":
+      - purpurn
     fra: []
     rus: []
     zho: []
@@ -415775,7 +416586,7 @@ romani:
     fra: []
     rus: []
     zho:
-    - - 羅姆
+    - - 罗姆
     hin: []
     ara: []
   trans_v2:
@@ -415799,7 +416610,7 @@ romani:
     rus: []
     zho:
       "":
-      - 羅姆
+      - 罗姆
     hin: []
     ara: []
   etymology:
@@ -418678,7 +419489,8 @@ rumanili:
     - - roumain
     rus:
     - - румынский
-    zho: []
+    zho:
+    - - 罗马尼亚的
     hin: []
     ara: []
   trans_v2:
@@ -418700,7 +419512,9 @@ rumanili:
     rus:
       "":
       - румынский
-    zho: []
+    zho:
+      "":
+      - 罗马尼亚的
     hin: []
     ara: []
   etymology:
@@ -419406,7 +420220,9 @@ rusili:
     rus:
     - - российский
       - русский
-    zho: []
+    zho:
+    - - 俄罗斯的
+      - 俄
     hin: []
     ara: []
   trans_v2:
@@ -419429,7 +420245,10 @@ rusili:
       "":
       - российский
       - русский
-    zho: []
+    zho:
+      "":
+      - 俄罗斯的
+      - 俄
     hin: []
     ara: []
   etymology:
@@ -425473,7 +426292,8 @@ samoali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 萨摩亚的
     hin: []
     ara: []
   trans_v2:
@@ -425489,7 +426309,9 @@ samoali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 萨摩亚的
     hin: []
     ara: []
   etymology:
@@ -427470,7 +428292,10 @@ sapfoli:
     fra:
     - - saphique
     rus: []
-    zho: []
+    zho:
+    - - 莎芙的
+      - 萨福的
+      - 莎孚的
     hin: []
     ara: []
   trans_v2:
@@ -427490,7 +428315,11 @@ sapfoli:
       "":
       - saphique
     rus: []
-    zho: []
+    zho:
+      "":
+      - 莎芙的
+      - 萨福的
+      - 莎孚的
     hin: []
     ara: []
   etymology:
@@ -428685,7 +429514,8 @@ sawdili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 沙特(的)
     hin: []
     ara: []
   trans_v2:
@@ -428704,7 +429534,9 @@ sawdili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 沙特(的)
     hin: []
     ara: []
   etymology:
@@ -435126,7 +435958,8 @@ senegalli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 塞内加尔的
     hin: []
     ara: []
   trans_v2:
@@ -435142,7 +435975,9 @@ senegalli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 塞内加尔的
     hin: []
     ara: []
   etymology:
@@ -440662,7 +441497,9 @@ sindili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 信德省的
+      - 信德的
     hin: []
     ara: []
   trans_v2:
@@ -440678,7 +441515,10 @@ sindili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 信德省的
+      - 信德的
     hin: []
     ara: []
   etymology:
@@ -448755,7 +449595,8 @@ sudeafrikali:
     - - sud-africain
     rus:
     - - южноафриканский
-    zho: []
+    zho:
+    - - 南非的
     hin: []
     ara: []
   trans_v2:
@@ -448777,7 +449618,9 @@ sudeafrikali:
     rus:
       "":
       - южноафриканский
-    zho: []
+    zho:
+      "":
+      - 南非的
     hin: []
     ara: []
   etymology:
@@ -451257,10 +452100,16 @@ suna:
     spa:
     - - artificial
     - - artificialmente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - künstlich
+    fra:
+    - - artificiel
+    - - artificiellement
+    rus:
+    - - искусственный
+    - - искусственно
+    zho:
+    - - 人造的
     hin: []
     ara: []
   trans_v2:
@@ -451280,10 +452129,22 @@ suna:
       - artificial
       verb:
       - artificialmente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+      "":
+      - künstlich
+    fra:
+      noun:
+      - artificiel
+      verb:
+      - artificiellement
+    rus:
+      noun:
+      - искусственный
+      verb:
+      - искусственно
+    zho:
+      "":
+      - 人造的
     hin: []
     ara: []
   etymology:
@@ -456399,7 +457260,8 @@ switzeli:
     - - schweizerisch
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 瑞士的
     hin: []
     ara: []
   trans_v2:
@@ -456417,7 +457279,9 @@ switzeli:
       - schweizerisch
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 瑞士的
     hin: []
     ara: []
   etymology:
@@ -460238,12 +461102,19 @@ tami:
       - sukere
     spa:
     - - dulce (<em>sabor</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - süß
+    fra:
+    - - sucré
+      - doux
+    rus:
+    - - сладкий
+    zho:
+    - - 甜
+    hin:
+    - - मीठा
+    ara:
+    - - حُلْو
   trans_v2:
     eng:
       adj:
@@ -460260,12 +461131,25 @@ tami:
     spa:
       "":
       - dulce (<em>sabor</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - süß
+    fra:
+      "":
+      - sucré
+      - doux
+    rus:
+      "":
+      - сладкий
+    zho:
+      "":
+      - 甜
+    hin:
+      "":
+      - मीठा
+    ara:
+      "":
+      - حُلْو
   etymology:
     natlang:
       Pilipinasa: tamis
@@ -460337,7 +461221,8 @@ tamilli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 泰米尔的
     hin: []
     ara: []
   trans_v2:
@@ -460353,7 +461238,9 @@ tamilli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 泰米尔的
     hin: []
     ara: []
   etymology:
@@ -463981,7 +464868,9 @@ tayli:
     - - thailändisch
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 泰国的
+      - 泰
     hin: []
     ara: []
   trans_v2:
@@ -463999,7 +464888,10 @@ tayli:
       - thailändisch
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 泰国的
+      - 泰
     hin: []
     ara: []
   etymology:
@@ -473985,7 +474877,8 @@ tojikili:
     - - tadjik
     rus:
     - - таджикский
-    zho: []
+    zho:
+    - - 塔吉克
     hin: []
     ara: []
   trans_v2:
@@ -474006,7 +474899,9 @@ tojikili:
     rus:
       "":
       - таджикский
-    zho: []
+    zho:
+      "":
+      - 塔吉克
     hin: []
     ara: []
   etymology:
@@ -475573,7 +476468,8 @@ tongali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 汤加的
     hin: []
     ara: []
   trans_v2:
@@ -475589,7 +476485,9 @@ tongali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 汤加的
     hin: []
     ara: []
   etymology:
@@ -484300,7 +485198,8 @@ turkili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 土耳其的
     hin: []
     ara: []
   trans_v2:
@@ -484316,7 +485215,9 @@ turkili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 土耳其的
     hin: []
     ara: []
   etymology:
@@ -484475,7 +485376,8 @@ turkmenili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 土库曼
     hin: []
     ara: []
   trans_v2:
@@ -484492,7 +485394,9 @@ turkmenili:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 土库曼
     hin: []
     ara: []
   etymology:
@@ -485396,7 +486300,8 @@ tuvaluli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 图瓦卢的
     hin: []
     ara: []
   trans_v2:
@@ -485412,7 +486317,9 @@ tuvaluli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 图瓦卢的
     hin: []
     ara: []
   etymology:
@@ -486707,7 +487614,8 @@ ugandali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 乌干达的
     hin: []
     ara: []
   trans_v2:
@@ -486723,7 +487631,9 @@ ugandali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 乌干达的
     hin: []
     ara: []
   etymology:
@@ -487012,7 +487922,8 @@ ukrainali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 乌克兰的
     hin: []
     ara: []
   trans_v2:
@@ -487028,7 +487939,9 @@ ukrainali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 乌克兰的
     hin: []
     ara: []
   etymology:
@@ -493046,7 +493959,8 @@ venezwelali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 委内瑞拉的
     hin: []
     ara: []
   trans_v2:
@@ -493062,7 +493976,9 @@ venezwelali:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 委内瑞拉的
     hin: []
     ara: []
   etymology:
@@ -495532,12 +496448,20 @@ volkanoli:
     spa:
     - - volcánico
     - - volcánicamente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - vulkanisch
+    fra:
+    - - volcanique
+    - - volcaniquement
+    rus:
+    - - вулканический
+    - - вулканически
+    zho:
+    - - 火山的
+    hin:
+    - - ज्वालामुखीय
+    ara:
+    - - بُرْكَانِيّ
   trans_v2:
     eng:
       adj:
@@ -495554,12 +496478,28 @@ volkanoli:
       - volcánico
       verb:
       - volcánicamente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - vulkanisch
+    fra:
+      noun:
+      - volcanique
+      verb:
+      - volcaniquement
+    rus:
+      noun:
+      - вулканический
+      verb:
+      - вулканически
+    zho:
+      "":
+      - 火山的
+    hin:
+      "":
+      - ज्वालामुखीय
+    ara:
+      "":
+      - بُرْكَانِيّ
   etymology:
     derived:
     - volkano
@@ -496369,7 +497309,8 @@ vyetnamli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 越南的
     hin: []
     ara: []
   trans_v2:
@@ -496385,7 +497326,9 @@ vyetnamli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 越南的
     hin: []
     ara: []
   etymology:
@@ -500719,12 +501662,25 @@ wenxi:
     - - primitivo
       - primordial
       - proto-
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - primitiv
+      - primordial
+      - ursprünglich
+      - ur-
+    fra:
+    - - primitif
+      - primordial
+      - proto-
+    rus:
+    - - примитивный
+      - изначальный
+      - пра-
+    zho:
+    - - 原始的
+    hin:
+    - - आदिम
+    ara:
+    - - بُدائية
   trans_v2:
     eng:
       adj:
@@ -500747,12 +501703,31 @@ wenxi:
       - primitivo
       - primordial
       - proto-
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - primitiv
+      - primordial
+      - ursprünglich
+      - ur-
+    fra:
+      "":
+      - primitif
+      - primordial
+      - proto-
+    rus:
+      "":
+      - примитивный
+      - изначальный
+      - пра-
+    zho:
+      "":
+      - 原始的
+    hin:
+      "":
+      - आदिम
+    ara:
+      "":
+      - بُدائية
   etymology:
     natlang:
       Koreasa: 원시 &ldquo;wonxi&rdquo;
@@ -525251,7 +526226,8 @@ zambili:
     fra: []
     rus:
     - - замбийский
-    zho: []
+    zho:
+    - - 赞比亚的
     hin: []
     ara: []
   trans_v2:
@@ -525269,7 +526245,9 @@ zambili:
     rus:
       "":
       - замбийский
-    zho: []
+    zho:
+      "":
+      - 赞比亚的
     hin: []
     ara: []
   etymology:
@@ -526399,7 +527377,8 @@ zimbabweli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 津巴布韦的
     hin: []
     ara: []
   trans_v2:
@@ -526415,7 +527394,9 @@ zimbabweli:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 津巴布韦的
     hin: []
     ara: []
   etymology:
