@@ -578,12 +578,16 @@
     - - 's sfk: -ismo'
     spa:
     - - -ismo (<em>ideología</em>)
-    deu: []
-    fra: []
+    deu:
+    - - -ismus
+    fra:
+    - - -isme
     rus:
     - - -изм
-    zho: []
-    hin: []
+    zho:
+    - - -主义
+    hin:
+    - - -वाद
     ara: []
   trans_v2:
     eng:
@@ -595,13 +599,21 @@
     spa:
       "":
       - -ismo (<em>ideología</em>)
-    deu: []
-    fra: []
+    deu:
+      "":
+      - -ismus
+    fra:
+      "":
+      - -isme
     rus:
       "":
       - -изм
-    zho: []
-    hin: []
+    zho:
+      "":
+      - -主义
+    hin:
+      "":
+      - -वाद
     ara: []
   etymology:
     natlang:
@@ -627,12 +639,15 @@
     - - 's sfk: -isto (<em>nur rilate al -ismo</em>)'
     spa:
     - - -ista (<em>partidario</em>)
-    deu: []
-    fra: []
+    deu:
+    - - -ist
+    fra:
+    - - -iste
     rus:
     - - -ист
       - -истка
-    zho: []
+    zho:
+    - - -主义者
     hin: []
     ara: []
   trans_v2:
@@ -645,13 +660,19 @@
     spa:
       "":
       - -ista (<em>partidario</em>)
-    deu: []
-    fra: []
+    deu:
+      "":
+      - -ist
+    fra:
+      "":
+      - -iste
     rus:
       "":
       - -ист
       - -истка
-    zho: []
+    zho:
+      "":
+      - -主义者
     hin: []
     ara: []
   etymology:
@@ -687,7 +708,8 @@
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - -度
     hin: []
     ara: []
   trans_v2:
@@ -710,7 +732,9 @@
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - -度
     hin: []
     ara: []
   etymology:
@@ -1246,7 +1270,9 @@
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - -语
+      - -文
     hin: []
     ara: []
   trans_v2:
@@ -1270,7 +1296,10 @@
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - -语
+      - -文
     hin: []
     ara: []
   etymology:
@@ -1392,7 +1421,8 @@
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - -队
     hin: []
     ara: []
   trans_v2:
@@ -1414,7 +1444,9 @@
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - -队
     hin: []
     ara: []
   etymology:
@@ -1597,7 +1629,14 @@
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - -者
+      - -家
+      - -人
+      - -员
+      - -工
+      - -手
+      - -师
     hin: []
     ara: []
   trans_v2:
@@ -1629,7 +1668,15 @@
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - -者
+      - -家
+      - -人
+      - -员
+      - -工
+      - -手
+      - -师
     hin: []
     ara: []
   etymology:
@@ -42142,8 +42189,11 @@ bao:
     - - 'v.tr: ensakigi'
     spa:
     - - bolsa
+    - - embolsar
     deu: []
-    fra: []
+    fra:
+    - - sac
+    - - ensacher
     rus: []
     zho: []
     hin: []
@@ -42160,10 +42210,16 @@ bao:
       v.tr:
       - ensakigi
     spa:
-      "":
+      noun:
       - bolsa
+      verb:
+      - embolsar
     deu: []
-    fra: []
+    fra:
+      noun:
+      - sac
+      verb:
+      - ensacher
     rus: []
     zho: []
     hin: []
@@ -102300,6 +102356,8 @@ dimensi:
     zho:
     - - '名: 维度'
       - 维
+      - 维数
+      - 次元
     hin:
     - - 'सं: आयाम'
     ara:
@@ -102327,6 +102385,8 @@ dimensi:
       名:
       - 维度
       - 维
+      - 维数
+      - 次元
     hin:
       सं:
       - आयाम
@@ -109470,7 +109530,7 @@ drage:
     - - 'сущ: драг'
       - дрэг
     zho:
-    - - '名: 变装'
+    - - '名: 变装(表演)'
       - 异装
     hin:
     - - 'सं: ड्रैग पोशाक'
@@ -109500,7 +109560,7 @@ drage:
       - дрэг
     zho:
       名:
-      - 变装
+      - 变装(表演)
       - 异装
     hin:
       सं:
@@ -114165,6 +114225,7 @@ duke:
     zho:
     - - '名: 公爵'
       - 公爵夫人
+      - ⼥公爵
     hin:
     - - 'सं: ड्यूक'
       - डचेस
@@ -114199,6 +114260,7 @@ duke:
       名:
       - 公爵
       - 公爵夫人
+      - ⼥公爵
     hin:
       सं:
       - ड्यूक
@@ -263330,12 +263392,18 @@ koma:
     - - 'v.ntr: esti en komato'
     spa:
     - - coma (<em>estado patológico</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - Koma
+    fra:
+    - - coma
+    rus:
+    - - кома
+    zho:
+    - - 昏迷
+    hin:
+    - - कोमा
+    ara:
+    - - غَيْبُوبَة
   trans_v2:
     eng:
       "n":
@@ -263350,12 +263418,24 @@ koma:
     spa:
       "":
       - coma (<em>estado patológico</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      "":
+      - Koma
+    fra:
+      "":
+      - coma
+    rus:
+      "":
+      - кома
+    zho:
+      "":
+      - 昏迷
+    hin:
+      "":
+      - कोमा
+    ara:
+      "":
+      - غَيْبُوبَة
   etymology:
     natlang:
       Doycisa: Koma
@@ -301511,12 +301591,21 @@ lyudon:
     spa:
     - - flujo
     - - fluir
-    deu: []
-    fra: []
+    deu:
+    - - Fluss
+    - - fließen
+      - rinnen
+    fra:
+    - - écoulement
+      - flux
+    - - écouler
     rus: []
-    zho: []
+    zho:
+    - - 流
     hin: []
-    ara: []
+    ara:
+    - - تَدَفُّق
+    - - تَدَفَّقَ
   trans_v2:
     eng:
       "n":
@@ -301533,12 +301622,28 @@ lyudon:
       - flujo
       verb:
       - fluir
-    deu: []
-    fra: []
+    deu:
+      noun:
+      - Fluss
+      verb:
+      - fließen
+      - rinnen
+    fra:
+      noun:
+      - écoulement
+      - flux
+      verb:
+      - écouler
     rus: []
-    zho: []
+    zho:
+      "":
+      - 流
     hin: []
-    ara: []
+    ara:
+      noun:
+      - تَدَفُّق
+      verb:
+      - تَدَفَّقَ
   etymology:
     natlang:
       Niponsa: 流動 &ldquo;ryūdō&rdquo;
@@ -343796,11 +343901,18 @@ myawsa:
     rus:
     - - мяукание
       - мяу
-    - - мяуканье
+    - - мяукать
+      - мяукнуть
     zho:
     - - 喵
-    hin: []
-    ara: []
+      - 咪咪
+    - - 猫叫
+    hin:
+    - - म्याऊँ
+    ara:
+    - - مُوَاء
+    - - مَاءَ
+      - تَمَوَّأَ
   trans_v2:
     eng:
       v.intr:
@@ -343830,12 +343942,23 @@ myawsa:
       - мяукание
       - мяу
       verb:
-      - мяуканье
+      - мяукать
+      - мяукнуть
     zho:
-      "":
+      noun:
       - 喵
-    hin: []
-    ara: []
+      - 咪咪
+      verb:
+      - 猫叫
+    hin:
+      "":
+      - म्याऊँ
+    ara:
+      noun:
+      - مُوَاء
+      verb:
+      - مَاءَ
+      - تَمَوَّأَ
   etymology:
     derived:
     - myaw
@@ -358736,9 +358859,11 @@ nokapi:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 摇头
     hin: []
-    ara: []
+    ara:
+    - - هَزَّ رَأْسَهُ
   trans_v2:
     eng:
       v.intr:
@@ -358754,9 +358879,13 @@ nokapi:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 摇头
     hin: []
-    ara: []
+    ara:
+      "":
+      - هَزَّ رَأْسَهُ
   etymology:
     derived:
     - "no"
@@ -370433,9 +370562,16 @@ orgasmo:
     epo:
     - - 's: orgasmo'
     - - 'v.ntr: orgasmi'
-    spa: []
+    spa:
+    - - orgasmo
+    - - tener un orgasmo
+      - llegar al orgasmo
+      - orgasmear
     deu: []
-    fra: []
+    fra:
+    - - orgasme
+    - - jouir
+      - orgasmer
     rus: []
     zho: []
     hin: []
@@ -370451,9 +370587,20 @@ orgasmo:
       - orgasmo
       v.ntr:
       - orgasmi
-    spa: []
+    spa:
+      noun:
+      - orgasmo
+      verb:
+      - tener un orgasmo
+      - llegar al orgasmo
+      - orgasmear
     deu: []
-    fra: []
+    fra:
+      noun:
+      - orgasme
+      verb:
+      - jouir
+      - orgasmer
     rus: []
     zho: []
     hin: []
@@ -378120,9 +378267,13 @@ paracutu:
     spa:
     - - paracaídas
     - - lanzarse con paracaídas
-    deu: []
+    deu:
+    - - Fallschirm
+    - - Fallschirm abspringen
     fra: []
-    rus: []
+    rus:
+    - - парашют
+    - - прыгать с парашютом
     zho: []
     hin: []
     ara: []
@@ -378142,9 +378293,17 @@ paracutu:
       - paracaídas
       verb:
       - lanzarse con paracaídas
-    deu: []
+    deu:
+      noun:
+      - Fallschirm
+      verb:
+      - Fallschirm abspringen
     fra: []
-    rus: []
+    rus:
+      noun:
+      - парашют
+      verb:
+      - прыгать с парашютом
     zho: []
     hin: []
     ara: []
@@ -388647,10 +388806,18 @@ pikniku:
     - - pícnic
       - día de campo
     - - ir de pícnic
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - Picknick
+    - - picknicken
+    fra:
+    - - pique-nique
+    - - pique-niquer
+    rus:
+    - - пикник
+    - - устраивать пикник
+    zho:
+    - - 野餐
+    - - 去野餐
     hin: []
     ara: []
   trans_v2:
@@ -388670,10 +388837,26 @@ pikniku:
       - día de campo
       verb:
       - ir de pícnic
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+      noun:
+      - Picknick
+      verb:
+      - picknicken
+    fra:
+      noun:
+      - pique-nique
+      verb:
+      - pique-niquer
+    rus:
+      noun:
+      - пикник
+      verb:
+      - устраивать пикник
+    zho:
+      noun:
+      - 野餐
+      verb:
+      - 去野餐
     hin: []
     ara: []
   etymology:
@@ -477953,7 +478136,8 @@ tora:
     zho:
     - - '名: 设备'
       - 器具
-    - - '词根后缀: 器'
+    - - '词根后缀: 机'
+      - 器
       - 具
     hin:
     - - 'सं: उपकरण'
@@ -478012,6 +478196,7 @@ tora:
       - 设备
       - 器具
       词根后缀:
+      - 机
       - 器
       - 具
     hin:
@@ -524176,6 +524361,63 @@ yukyokal:
     - yukyo
     - +
     - -kal
+yukyokalcu:
+  term: yukyokalcu
+  word class: b.nenoj
+  category: root
+  trans:
+    eng:
+    - - 'n: expiration'
+      - expiry
+    - - 'v.intr: expire'
+    epo:
+    - - 's: eksvalidiĝo'
+    - - 'v.ntr: eksvalidiĝi'
+    spa:
+    - - expiración
+      - vencimiento
+    - - expirar
+      - vencer
+      - caducar
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - expiration
+      - expiry
+      v.intr:
+      - expire
+    epo:
+      s:
+      - eksvalidiĝo
+      v.ntr:
+      - eksvalidiĝi
+    spa:
+      noun:
+      - expiración
+      - vencimiento
+      verb:
+      - expirar
+      - vencer
+      - caducar
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - yukyo
+    - +
+    - -kal
+    - +
+    - -cu
 yukyopul:
   term: yukyopul
   word class: t

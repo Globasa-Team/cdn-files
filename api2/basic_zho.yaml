@@ -63,17 +63,17 @@
   term: -ismo
   class: b xfik
   category: affix
-  translation: ""
+  translation: -主义
 -ista:
   term: -ista
   class: b xfik
   category: affix
-  translation: ""
+  translation: -主义者
 -je:
   term: -je
   class: b xfik
   category: affix
-  translation: ""
+  translation: -度
 -kal:
   term: -kal
   class: t xfik
@@ -128,7 +128,7 @@
   term: -sa
   class: b xfik
   category: affix
-  translation: ""
+  translation: -语, -文
 -sim:
   term: -sim
   class: t xfik
@@ -143,7 +143,7 @@
   term: -tim
   class: b xfik
   category: affix
-  translation: ""
+  translation: -队
 -tul:
   term: -tul
   class: b xfik
@@ -163,7 +163,7 @@
   term: -yen
   class: b xfik
   category: affix
-  translation: ""
+  translation: -者, -家, -人, -员, -工, -手, -师
 -yum:
   term: -yum
   class: t xfik
@@ -8823,7 +8823,7 @@ dimensi:
   term: dimensi
   class: b
   category: root
-  translation: '名: 维度, 维'
+  translation: '名: 维度, 维, 维数, 次元'
 din:
   term: din
   class: b
@@ -9448,7 +9448,7 @@ drage:
   term: drage
   class: b
   category: root
-  translation: '名: 变装, 异装'
+  translation: '名: 变装(表演), 异装'
 dragon:
   term: dragon
   class: b
@@ -9843,7 +9843,7 @@ duke:
   term: duke
   class: b
   category: root
-  translation: '名: 公爵, 公爵夫人'
+  translation: '名: 公爵, 公爵夫人, ⼥公爵'
 dukrea:
   term: dukrea
   class: b
@@ -22778,7 +22778,7 @@ koma:
   term: koma
   class: b.nenoj
   category: root
-  translation: ""
+  translation: 昏迷
 komado:
   term: komado
   class: t
@@ -25933,7 +25933,7 @@ lyudon:
   term: lyudon
   class: b.nenoj
   category: root
-  translation: ""
+  translation: 流
 lyutu:
   term: lyutu
   class: b
@@ -29563,7 +29563,7 @@ myawsa:
   term: myawsa
   class: b.nenoj
   category: derived
-  translation: 喵
+  translation: 喵, 咪咪; 猫叫
 na:
   term: na
   class: par
@@ -30908,7 +30908,7 @@ nokapi:
   term: nokapi
   class: b.nenoj
   category: derived
-  translation: ""
+  translation: 摇头
 noli:
   term: noli
   class: t
@@ -33493,7 +33493,7 @@ pikniku:
   term: pikniku
   class: b.nenoj
   category: root
-  translation: ""
+  translation: 野餐; 去野餐
 piko:
   term: piko
   class: num
@@ -41213,7 +41213,7 @@ tora:
   term: tora
   class: b
   category: root
-  translation: '名: 设备, 器具; 词根后缀: 器, 具'
+  translation: '名: 设备, 器具; 词根后缀: 机, 器, 具'
 tornado:
   term: tornado
   class: b
@@ -45209,6 +45209,11 @@ yukyokal:
   class: t
   category: derived
   translation: 无效的
+yukyokalcu:
+  term: yukyokalcu
+  class: b.nenoj
+  category: root
+  translation: ""
 yukyopul:
   term: yukyopul
   class: t

@@ -11,9 +11,9 @@
 -fon: '<em>(b xfik)</em> '
 -gi: '<em>(b.oj xfik)</em> '
 -gon: '<em>(b xfik)</em> '
--ismo: '<em>(b xfik)</em> '
--ista: '<em>(b xfik)</em> '
--je: '<em>(b xfik)</em> '
+-ismo: <em>(b xfik)</em> -主义
+-ista: <em>(b xfik)</em> -主义者
+-je: <em>(b xfik)</em> -度
 -kal: '<em>(t xfik)</em> '
 -kef: '<em>(b xfik)</em> '
 -li: '<em>(t xfik)</em> '
@@ -24,14 +24,14 @@
 -pel: '<em>(b.oj xfik)</em> '
 -ple: '<em>(t xfik)</em> '
 -pul: '<em>(t xfik)</em> '
--sa: '<em>(b xfik)</em> '
+-sa: <em>(b xfik)</em> -语, -文
 -sim: '<em>(t xfik)</em> '
 -su: '<em>(t xfik)</em> '
--tim: '<em>(b xfik)</em> '
+-tim: <em>(b xfik)</em> -队
 -tul: '<em>(b xfik)</em> '
 -xey: '<em>(b xfik)</em> '
 -ya: '<em>(b xfik)</em> '
--yen: '<em>(b xfik)</em> '
+-yen: <em>(b xfik)</em> -者, -家, -人, -员, -工, -手, -师
 -yum: '<em>(t xfik)</em> '
 a: <em>(il)</em> 啊
 ababil: '<em>(b)</em> 名: 燕子'
@@ -1763,7 +1763,7 @@ digita: '<em>(b)</em> 名: 数字, 位数'
 digitali: '<em>(t)</em> '
 dila: '<em>(b)</em> 名: 莳萝'
 dildo: '<em>(b)</em> 名: 假阳具, 人工阳具'
-dimensi: '<em>(b)</em> 名: 维度, 维'
+dimensi: '<em>(b)</em> 名: 维度, 维, 维数, 次元'
 din: '<em>(b)</em> 名: 天, 日'
 dinamita: '<em>(b)</em> 名: 炸药'
 dingya: '<em>(b.oj)</em> '
@@ -1888,7 +1888,7 @@ doycili: '<em>(su t)</em> '
 doycisa: <em>(su n)</em> 德文, 德语
 doyciyen: <em>(su n)</em> 德国人
 doyday: '<em>(b.oj)</em> '
-drage: '<em>(b)</em> 名: 变装, 异装'
+drage: '<em>(b)</em> 名: 变装(表演), 异装'
 dragon: '<em>(b)</em> 名: 龙'
 dragonfruta: '<em>(b)</em> 名: 火龙果'
 drama: '<em>(b)</em> 名: 戏剧'
@@ -1967,7 +1967,7 @@ duhikaye: '<em>(b)</em> 名: 讲故事, 叙述'
 duimaje: '<em>(b)</em> 名: 想象, 幻想'
 dujarden: '<em>(b)</em> 名: 园艺'
 dukan: '<em>(b)</em> 名: 商店, 店'
-duke: '<em>(b)</em> 名: 公爵, 公爵夫人'
+duke: '<em>(b)</em> 名: 公爵, 公爵夫人, ⼥公爵'
 dukrea: '<em>(b)</em> 名: 创造, 创作'
 dulala: '<em>(b)</em> 名: 唱歌, 歌唱'
 dumarali: '<em>(t)</em> '
@@ -4554,7 +4554,7 @@ kolose: <em>(su n)</em> 歌罗西
 kolube: '<em>(b)</em> 名: 小屋, 棚屋'
 kolyo: '<em>(b.oj)</em> '
 kom: '<em>(l)</em> '
-koma: '<em>(b.nenoj)</em> '
+koma: <em>(b.nenoj)</em> 昏迷
 komado: '<em>(t)</em> '
 kombina: '<em>(b.oro)</em> '
 kombinado: '<em>(t)</em> '
@@ -5185,7 +5185,7 @@ lyetuva: <em>(su n)</em> 立陶宛
 lyetuvali: <em>(su t)</em> 立陶宛的
 lyetuvasa: <em>(su n)</em> 立陶宛语
 lyetuvayen: <em>(su n)</em> 立陶宛人
-lyudon: '<em>(b.nenoj)</em> '
+lyudon: <em>(b.nenoj)</em> 流
 lyutu: '<em>(b)</em> 名: 鲁特琴'
 macete: '<em>(b)</em> 名: 大砍刀, 开山刀'
 macwi: '<em>(b.oj)</em> '
@@ -5911,7 +5911,7 @@ mwinli: '<em>(t)</em> '
 myanma: <em>(su n)</em> 缅甸
 myanmasa: <em>(su n)</em> 缅甸语
 myaw: '<em>(b)</em> 名: 猫'
-myawsa: <em>(b.nenoj)</em> 喵
+myawsa: <em>(b.nenoj)</em> 喵, 咪咪; 猫叫
 na: '<em>(par)</em> '
 nabiza: '<em>(b.nenoj)</em> '
 nabizane: '<em>(t)</em> '
@@ -6180,7 +6180,7 @@ nobelyum: '<em>(b)</em> 名: 锘'
 noce: '<em>(b)</em> 名: 夜, 夜晚'
 noceli: <em>(t)</em> 夜间的
 nohudu: '<em>(b)</em> 名: 鹰嘴豆'
-nokapi: '<em>(b.nenoj)</em> '
+nokapi: <em>(b.nenoj)</em> 摇头
 noli: '<em>(t)</em> '
 nomune: '<em>(b)</em> 名: 样品, 样本'
 nongyo: '<em>(b.oj)</em> '
@@ -6697,7 +6697,7 @@ pijama: '<em>(b)</em> 名: 睡衣'
 pijin: '<em>(b)</em> 名: 皮钦语, 混杂语'
 pikapu: '<em>(b)</em> 名: 皮卡, 小卡车'
 piklebal: '<em>(b)</em> 名: 匹克球'
-pikniku: '<em>(b.nenoj)</em> '
+pikniku: <em>(b.nenoj)</em> 野餐; 去野餐
 piko: '<em>(num)</em> '
 pikometro: '<em>(b)</em> 名: 皮米'
 piksel: '<em>(b)</em> 名: 像素'
@@ -8241,7 +8241,7 @@ topazi: '<em>(b)</em> 名: 黄玉, 黄晶'
 topi: '<em>(b)</em> 名: 帽子'
 topifutru: '<em>(b)</em> 名: 蘑菇'
 topo: '<em>(b)</em> 名: 鼹鼠'
-tora: '<em>(b)</em> 名: 设备, 器具; 词根后缀: 器, 具'
+tora: '<em>(b)</em> 名: 设备, 器具; 词根后缀: 机, 器, 具'
 tornado: '<em>(b)</em> 名: 龙卷风'
 tortiya: '<em>(b)</em> 名: 玉米薄饼'
 torus: '<em>(b)</em> 名: 环面, 圆环'
@@ -9041,6 +9041,7 @@ yugo: '<em>(b)</em> 名: 轭, 牛轭'
 yukwe: '<em>(t)</em> '
 yukyo: '<em>(b.oro.jotay)</em> '
 yukyokal: <em>(t)</em> 无效的
+yukyokalcu: '<em>(b.nenoj)</em> '
 yukyopul: <em>(t)</em> 有效的
 yulaf: '<em>(b)</em> 名: 燕麦'
 yulyo: <em>(su n)</em> 犹流, 尤利乌斯
