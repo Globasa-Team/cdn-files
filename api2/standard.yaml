@@ -56649,7 +56649,8 @@ blogu:
     hin:
     - - ब्लॉग
     - - ब्लॉग करना
-    ara: []
+    ara:
+    - - مدوَّنة؛ دَوَّنَ
   trans_v2:
     eng:
       "n":
@@ -56694,7 +56695,9 @@ blogu:
       - ब्लॉग
       verb:
       - ब्लॉग करना
-    ara: []
+    ara:
+      "":
+      - مدوَّنة؛ دَوَّنَ
   etymology:
     natlang:
       Doycisa: Blog
@@ -58732,6 +58735,7 @@ boltu:
     spa:
     - - perno (<em>tornillo</em>)
       - bulón
+    - - atornillar (un perno)
     deu: []
     fra: []
     rus: []
@@ -58750,9 +58754,11 @@ boltu:
       v.tr:
       - bolti
     spa:
-      "":
+      noun:
       - perno (<em>tornillo</em>)
       - bulón
+      verb:
+      - atornillar (un perno)
     deu: []
     fra: []
     rus: []
@@ -58847,14 +58853,25 @@ bomba:
     spa:
     - - bomba (<em>explosivo</em>)
     - - bombardear
-    deu: []
-    fra: []
+    deu:
+    - - Bombe
+    - - bombardieren
+    fra:
+    - - bombe
+    - - bombarder
+      - pilonner
     rus:
     - - бомба
     - - бомбить
-    zho: []
-    hin: []
-    ara: []
+    zho:
+    - - 炸弹
+    - - 轰炸
+      - 轰击
+    hin:
+    - - बम
+    - - बमबारी करना
+    ara:
+    - - قُنْبُلَة؛ قَنْبَلَ
   trans_v2:
     eng:
       "n":
@@ -58871,16 +58888,36 @@ bomba:
       - bomba (<em>explosivo</em>)
       verb:
       - bombardear
-    deu: []
-    fra: []
+    deu:
+      noun:
+      - Bombe
+      verb:
+      - bombardieren
+    fra:
+      noun:
+      - bombe
+      verb:
+      - bombarder
+      - pilonner
     rus:
       noun:
       - бомба
       verb:
       - бомбить
-    zho: []
-    hin: []
-    ara: []
+    zho:
+      noun:
+      - 炸弹
+      verb:
+      - 轰炸
+      - 轰击
+    hin:
+      noun:
+      - बम
+      verb:
+      - बमबारी करना
+    ara:
+      "":
+      - قُنْبُلَة؛ قَنْبَلَ
   etymology:
     natlang:
       Doycisa: Bombe
@@ -61149,10 +61186,18 @@ botela:
     - - 'v.tr: enboteligi'
     spa:
     - - botella
-    deu: []
-    fra: []
+    - - embotellar
+      - envasar
+    deu:
+    - - Flasche
+    - - in Flaschen abfüllen
+    fra:
+    - - bouteille
+    - - embouteiller
+      - mettre en bouteille
     rus:
     - - бутылка
+    - - бутилировать
     zho: []
     hin: []
     ara: []
@@ -61168,13 +61213,27 @@ botela:
       v.tr:
       - enboteligi
     spa:
-      "":
+      noun:
       - botella
-    deu: []
-    fra: []
+      verb:
+      - embotellar
+      - envasar
+    deu:
+      noun:
+      - Flasche
+      verb:
+      - in Flaschen abfüllen
+    fra:
+      noun:
+      - bouteille
+      verb:
+      - embouteiller
+      - mettre en bouteille
     rus:
-      "":
+      noun:
       - бутылка
+      verb:
+      - бутилировать
     zho: []
     hin: []
     ara: []
@@ -64828,7 +64887,10 @@ bujeto:
     - - presupuesto
     - - presupuestar
     deu: []
-    fra: []
+    fra:
+    - - budget
+    - - budgétiser
+      - budgéter
     rus: []
     zho: []
     hin: []
@@ -64850,7 +64912,12 @@ bujeto:
       verb:
       - presupuestar
     deu: []
-    fra: []
+    fra:
+      noun:
+      - budget
+      verb:
+      - budgétiser
+      - budgéter
     rus: []
     zho: []
     hin: []
@@ -69451,8 +69518,12 @@ buter:
     - - mantequilla
       - manteca
     - - untar con mantequilla
-    deu: []
-    fra: []
+    deu:
+    - - Butter
+    - - mit Butter bestreichen
+    fra:
+    - - beurre
+    - - beurrer
     rus:
     - - масло
     zho: []
@@ -69475,8 +69546,16 @@ buter:
       - manteca
       verb:
       - untar con mantequilla
-    deu: []
-    fra: []
+    deu:
+      noun:
+      - Butter
+      verb:
+      - mit Butter bestreichen
+    fra:
+      noun:
+      - beurre
+      verb:
+      - beurrer
     rus:
       "":
       - масло
@@ -71600,12 +71679,17 @@ cane:
     spa:
     - - peine
     - - peinar
-    deu: []
-    fra: []
+    deu:
+    - - Kamm
+    - - kämmen
+    fra:
+    - - peigne
+    - - peigner
     rus: []
     zho: []
     hin: []
-    ara: []
+    ara:
+    - - مُشْط، مِشْط؛ مَشَطَ، مَشَّطَ
   trans_v2:
     eng:
       "n":
@@ -71622,12 +71706,22 @@ cane:
       - peine
       verb:
       - peinar
-    deu: []
-    fra: []
+    deu:
+      noun:
+      - Kamm
+      verb:
+      - kämmen
+    fra:
+      noun:
+      - peigne
+      verb:
+      - peigner
     rus: []
     zho: []
     hin: []
-    ara: []
+    ara:
+      "":
+      - مُشْط، مِشْط؛ مَشَطَ، مَشَّطَ
   etymology:
     natlang:
       Parsisa: شانه &ldquo;xane&rdquo;
@@ -74834,14 +74928,20 @@ censora:
     spa:
     - - censura
     - - censurar
-    deu: []
-    fra: []
+    deu:
+    - - Zensur
+    - - zensieren
+    fra:
+    - - censure
+    - - censurer
     rus:
     - - цензура
     - - цензурировать
     zho: []
     hin: []
-    ara: []
+    ara:
+    - - رَقَابَة
+    - - فَرَضَ رَقَابَةً
   trans_v2:
     eng:
       "n":
@@ -74858,8 +74958,16 @@ censora:
       - censura
       verb:
       - censurar
-    deu: []
-    fra: []
+    deu:
+      noun:
+      - Zensur
+      verb:
+      - zensieren
+    fra:
+      noun:
+      - censure
+      verb:
+      - censurer
     rus:
       noun:
       - цензура
@@ -74867,7 +74975,11 @@ censora:
       - цензурировать
     zho: []
     hin: []
-    ara: []
+    ara:
+      noun:
+      - رَقَابَة
+      verb:
+      - فَرَضَ رَقَابَةً
   etymology:
     natlang:
       Doycisa: Zensur
@@ -95909,7 +96021,9 @@ debito:
     - - débito
     - - debitar
     deu: []
-    fra: []
+    fra:
+    - - débit
+    - - débiter
     rus: []
     zho: []
     hin: []
@@ -95931,7 +96045,11 @@ debito:
       verb:
       - debitar
     deu: []
-    fra: []
+    fra:
+      noun:
+      - débit
+      verb:
+      - débiter
     rus: []
     zho: []
     hin: []
@@ -291631,7 +291749,9 @@ lika:
     deu:
     - - Lecken
     - - lecken
-    fra: []
+    fra:
+    - - léchage
+    - - lécher
     rus: []
     zho: []
     hin: []
@@ -291657,14 +291777,18 @@ lika:
       - Lecken
       verb:
       - lecken
-    fra: []
+    fra:
+      noun:
+      - léchage
+      verb:
+      - lécher
     rus: []
     zho: []
     hin: []
     ara: []
   etymology:
     natlang:
-      Arabisa: لعق &ldquo;laeq&rdquo;
+      Arabisa: لَعِقَ &ldquo;la&#039;iqa&rdquo;
       Doycisa: lecken
       Englisa: lick
       Fransesa: l&eacute;cher
@@ -293625,7 +293749,10 @@ lilmwa:
     - - besito
     - - dar un besito
     deu: []
-    fra: []
+    fra:
+    - - bécot
+      - bisou
+    - - bécoter
     rus: []
     zho: []
     hin: []
@@ -293647,7 +293774,12 @@ lilmwa:
       verb:
       - dar un besito
     deu: []
-    fra: []
+    fra:
+      noun:
+      - bécot
+      - bisou
+      verb:
+      - bécoter
     rus: []
     zho: []
     hin: []
@@ -304076,11 +304208,15 @@ mahibujo:
     spa:
     - - pesca
     - - pescar
-    deu: []
-    fra: []
-    rus:
-    - - pêcheur
-    zho: []
+    deu:
+    - - Fischen
+    - - fischen
+    fra:
+    - - pêche
+    - - pêcher
+    rus: []
+    zho:
+    - - 钓鱼
     hin: []
     ara: []
   trans_v2:
@@ -304100,12 +304236,20 @@ mahibujo:
       - pesca
       verb:
       - pescar
-    deu: []
-    fra: []
-    rus:
+    deu:
+      noun:
+      - Fischen
+      verb:
+      - fischen
+    fra:
+      noun:
+      - pêche
+      verb:
+      - pêcher
+    rus: []
+    zho:
       "":
-      - pêcheur
-    zho: []
+      - 钓鱼
     hin: []
     ara: []
   etymology:
@@ -314661,7 +314805,9 @@ masturba:
     epo:
     - - 's: masturbado'
     - - 'v.tr: masturbi'
-    spa: []
+    spa:
+    - - masturbación
+    - - masturbar
     deu: []
     fra: []
     rus: []
@@ -314679,7 +314825,11 @@ masturba:
       - masturbado
       v.tr:
       - masturbi
-    spa: []
+    spa:
+      noun:
+      - masturbación
+      verb:
+      - masturbar
     deu: []
     fra: []
     rus: []
@@ -335671,7 +335821,8 @@ monidoxo:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 校对
     hin: []
     ara: []
   trans_v2:
@@ -335689,7 +335840,9 @@ monidoxo:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 校对
     hin: []
     ara: []
   etymology:
@@ -346778,12 +346931,25 @@ nasa:
     - - nariz
     - - oler
       - olfatear
-    deu: []
+    deu:
+    - - Nase
+    - - riechen
     fra: []
     rus: []
-    zho: []
-    hin: []
-    ara: []
+    zho:
+    - - 鼻子
+      - 鼻
+    - - 闻
+      - 嗅
+    hin:
+    - - नाक
+      - नासिका
+    - - सूँघना
+    ara:
+    - - أَنْف
+      - خَشَم
+    - - شَمَّ
+      - اِشْتَمَّ
   trans_v2:
     eng:
       "n":
@@ -346801,12 +346967,33 @@ nasa:
       verb:
       - oler
       - olfatear
-    deu: []
+    deu:
+      noun:
+      - Nase
+      verb:
+      - riechen
     fra: []
     rus: []
-    zho: []
-    hin: []
-    ara: []
+    zho:
+      noun:
+      - 鼻子
+      - 鼻
+      verb:
+      - 闻
+      - 嗅
+    hin:
+      noun:
+      - नाक
+      - नासिका
+      verb:
+      - सूँघना
+    ara:
+      noun:
+      - أَنْف
+      - خَشَم
+      verb:
+      - شَمَّ
+      - اِشْتَمَّ
   etymology:
     natlang:
       Doycisa: nase, nasal
@@ -416648,6 +416835,7 @@ rolyuxi:
       - RPG
     - - fingir
       - simular
+      - jugar a roles
     deu: []
     fra: []
     rus: []
@@ -416673,6 +416861,7 @@ rolyuxi:
       verb:
       - fingir
       - simular
+      - jugar a roles
     deu: []
     fra: []
     rus: []
@@ -421597,9 +421786,12 @@ sabotaje:
     deu:
     - - Sabotage
     - - sabotieren
-    fra: []
+    fra:
+    - - sabotage
+    - - saboter
     rus: []
-    zho: []
+    zho:
+    - - 破坏
     hin: []
     ara: []
   trans_v2:
@@ -421623,9 +421815,15 @@ sabotaje:
       - Sabotage
       verb:
       - sabotieren
-    fra: []
+    fra:
+      noun:
+      - sabotage
+      verb:
+      - saboter
     rus: []
-    zho: []
+    zho:
+      "":
+      - 破坏
     hin: []
     ara: []
   etymology:
@@ -427432,6 +427630,8 @@ sanduku:
     - - 'v.tr: enskatoligi'
     spa:
     - - caja
+    - - encajar
+      - encajonar
     deu: []
     fra: []
     rus: []
@@ -427452,8 +427652,11 @@ sanduku:
       v.tr:
       - enskatoligi
     spa:
-      "":
+      noun:
       - caja
+      verb:
+      - encajar
+      - encajonar
     deu: []
     fra: []
     rus: []
@@ -461039,7 +461242,10 @@ tamaluku:
     - - 'v.tr: flati'
     spa:
     - - adulación
-    - - adular
+      - halago
+      - peloteo
+    - - halagar
+      - adular
     deu: []
     fra: []
     rus: []
@@ -461062,7 +461268,10 @@ tamaluku:
     spa:
       noun:
       - adulación
+      - halago
+      - peloteo
       verb:
+      - halagar
       - adular
     deu: []
     fra: []
@@ -464346,12 +464555,23 @@ tatua:
     spa:
     - - tatuaje
     - - tatuar
-    deu: []
-    fra: []
+    deu:
+    - - Tätowierung
+      - Tattoo
+    - - tätowieren
+    fra:
+    - - tatouage
+    - - tatouer
     rus: []
-    zho: []
+    zho:
+    - - 文身
+      - 刺青
+      - 紋身
     hin: []
-    ara: []
+    ara:
+    - - وَشْم
+    - - وَشَمَ
+      - وَشَّمَ
   trans_v2:
     eng:
       "n":
@@ -464369,12 +464589,30 @@ tatua:
       - tatuaje
       verb:
       - tatuar
-    deu: []
-    fra: []
+    deu:
+      noun:
+      - Tätowierung
+      - Tattoo
+      verb:
+      - tätowieren
+    fra:
+      noun:
+      - tatouage
+      verb:
+      - tatouer
     rus: []
-    zho: []
+    zho:
+      "":
+      - 文身
+      - 刺青
+      - 紋身
     hin: []
-    ara: []
+    ara:
+      noun:
+      - وَشْم
+      verb:
+      - وَشَمَ
+      - وَشَّمَ
   etymology:
     natlang:
       Doycisa: T&auml;towierung, Tatuierung
@@ -464676,9 +464914,20 @@ tawni:
       - peste
     - - plagar
       - infestar
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Pest
+      - Plage
+      - Seuche
+    - - plagen
+    fra:
+    - - peste
+      - infestation
+    - - infester
+    rus:
+    - - чума
+      - мор
+      - вредитель
+    - - наводнять (<em>о вредителях</em>)
     zho: []
     hin: []
     ara: []
@@ -464707,9 +464956,26 @@ tawni:
       verb:
       - plagar
       - infestar
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      noun:
+      - Pest
+      - Plage
+      - Seuche
+      verb:
+      - plagen
+    fra:
+      noun:
+      - peste
+      - infestation
+      verb:
+      - infester
+    rus:
+      noun:
+      - чума
+      - мор
+      - вредитель
+      verb:
+      - наводнять (<em>о вредителях</em>)
     zho: []
     hin: []
     ara: []
@@ -465164,12 +465430,17 @@ taypu:
     - - 'v.tr: tajpi'
     spa:
     - - mecanografía
+      - tecleo
+      - tipeo
     - - escribir (<em>con teclado</em>)
       - teclear
+      - tipear
+      - mecanografiar
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 打字
     hin: []
     ara: []
   trans_v2:
@@ -465186,13 +465457,19 @@ taypu:
     spa:
       noun:
       - mecanografía
+      - tecleo
+      - tipeo
       verb:
       - escribir (<em>con teclado</em>)
       - teclear
+      - tipear
+      - mecanografiar
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 打字
     hin: []
     ara: []
   etymology:
@@ -477509,8 +477786,15 @@ tonpresyon:
     spa:
     - - compresión
     - - comprimir
-    deu: []
-    fra: []
+    deu:
+    - - Kompression
+      - Komprimierung
+      - Verdichtung
+    - - komprimieren
+      - verdichten
+    fra:
+    - - compression
+    - - comprimer
     rus: []
     zho: []
     hin: []
@@ -477532,8 +477816,19 @@ tonpresyon:
       - compresión
       verb:
       - comprimir
-    deu: []
-    fra: []
+    deu:
+      noun:
+      - Kompression
+      - Komprimierung
+      - Verdichtung
+      verb:
+      - komprimieren
+      - verdichten
+    fra:
+      noun:
+      - compression
+      verb:
+      - comprimer
     rus: []
     zho: []
     hin: []
@@ -478602,9 +478897,16 @@ tosifu:
     spa:
     - - descripción
     - - describir
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - Beschreibung
+      - Deskription
+    - - beschreiben
+    fra:
+    - - description
+    - - décrire
+    rus:
+    - - описание
+    - - описать
     zho: []
     hin: []
     ara: []
@@ -478624,9 +478926,22 @@ tosifu:
       - descripción
       verb:
       - describir
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      noun:
+      - Beschreibung
+      - Deskription
+      verb:
+      - beschreiben
+    fra:
+      noun:
+      - description
+      verb:
+      - décrire
+    rus:
+      noun:
+      - описание
+      verb:
+      - описать
     zho: []
     hin: []
     ara: []
@@ -502338,6 +502653,8 @@ weyhanta:
     - wey-
     - +
     - hanta
+    am kompara:
+      weygebo: weygebo
 weykumax:
   term: weykumax
   word class: b
