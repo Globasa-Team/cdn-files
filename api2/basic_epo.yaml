@@ -8,23 +8,22 @@
   term: -bon
   class: t xfik
   category: affix
-  translation: bon-
+  translation: 'adj sfk: bon-'
 -bur:
   term: -bur
   class: t xfik
   category: affix
-  translation: malbon-, -aĉ-, fi-
+  translation: 'adj sfk: malbon-, -aĉ-, fi-'
 -cu:
   term: -cu
   class: b.nenoj xfik
   category: affix
-  translation: 's sufikso: -iĝo; v.ntr sufikso: -iĝi, <em>markilo de netransativa
-    verbo</em>'
+  translation: 's sfk: -iĝo; v.ntr sfk: -iĝi, <em>markilo de netransativa verbo</em>'
 -day:
   term: -day
   class: t xfik
   category: affix
-  translation: riĉa je
+  translation: 'adj sfk: riĉa je'
 -din:
   term: -din
   class: b xfik
@@ -34,7 +33,7 @@
   term: -do
   class: t xfik
   category: affix
-  translation: <em>in neaktiva stato de</em>, -ita, -ite
+  translation: 'adj sfk (in neaktiva stato de): -ita; adv sfk: -ite'
 -dom:
   term: -dom
   class: b xfik
@@ -44,7 +43,7 @@
   term: -fil
   class: t xfik
   category: affix
-  translation: -ema, -eme, inklina, inkline (al)
+  translation: 'adj sfk: -ema, inklina (al); adv sfk: -eme, inkline (al)'
 -fon:
   term: -fon
   class: b xfik
@@ -80,7 +79,7 @@
   term: -kal
   class: t xfik
   category: affix
-  translation: sen-, malplena, malplene
+  translation: 'adj sfk: sen-, malplena; adv sfk: sen-, malplene'
 -kef:
   term: -kef
   class: b xfik
@@ -90,17 +89,17 @@
   term: -li
   class: t xfik
   category: affix
-  translation: -a, de, rilate al
+  translation: 'adj sfk: -a, de, rilate al; adv sfk: -e, de, rilate al'
 -lil:
   term: -lil
   class: t xfik
   category: affix
-  translation: malriĉa je
+  translation: 'adj sfk: malriĉa je; adv sfk: malriĉe je'
 -mo:
   term: -mo
   class: m xfik
   category: affix
-  translation: <em>adverbo de grado kaj maniero</em>
+  translation: 'adv sfk: <em>adverbo de grado kaj maniero</em>'
 -mon:
   term: -mon
   class: b xfik
@@ -110,7 +109,7 @@
   term: -ne
   class: t xfik
   category: affix
-  translation: <em>en aktiva stato de</em>, -anta, -ante
+  translation: 'adj sfk (en aktiva stato de): -anta; adv sfk: -ante'
 -pel:
   term: -pel
   class: b.oj xfik
@@ -120,12 +119,12 @@
   term: -ple
   class: t xfik
   category: affix
-  translation: -obla; -oble
+  translation: 'adj sfk: -obla; adv sfk: -oble'
 -pul:
   term: -pul
   class: t xfik
   category: affix
-  translation: -plena; -plene
+  translation: 'adj sfk: -plena; adv sfk: -plene'
 -sa:
   term: -sa
   class: b xfik
@@ -135,12 +134,13 @@
   term: -sim
   class: t xfik
   category: affix
-  translation: -eca; -ece
+  translation: 'adj sfk: -eca; adv sfk: -ece'
 -su:
   term: -su
   class: t xfik
   category: affix
-  translation: <em>markilo de poseda adjektivo</em>, -a
+  translation: 'adj sfk: <em>markilo de poseda adjektivo (nur por pronomoj)</em>,
+    -a'
 -tim:
   term: -tim
   class: b xfik
@@ -170,12 +170,12 @@
   term: -yum
   class: t xfik
   category: affix
-  translation: <em>vicnombra numeralo</em>, -a
+  translation: 'adj sfk (vicnombra numeralo): -a; adv sfk: -e'
 a:
   term: a
   class: il
   category: root
-  translation: 'interj: ha'
+  translation: 'interj: ha (<em>montras surprizon aŭ miron</em>)'
 ababil:
   term: ababil
   class: b
@@ -205,7 +205,7 @@ abil:
   term: abil
   class: t; f.sah
   category: root
-  translation: pova, kapabla; povi, kapabli
+  translation: 'adj: pova, kapabla; adv: pove, kapable; helpv: povi, kapabli'
 abil_na_kari:
   term: abil na kari
   class: b.oj
@@ -1046,19 +1046,19 @@ almasihalke:
   translation: 's: diamanta ringo'
 alo:
   term: alo
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: root
-  translation: alia, malsama, diferenca, ali-
+  translation: 'det: alia, ali-'
 alo_bante:
   term: alo bante
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron:'
+  translation: 'pron: iu alia'
 alo_banto:
   term: alo banto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron:'
+  translation: 'pron: io alia'
 alocu:
   term: alocu
   class: b.nenoj
@@ -1081,9 +1081,9 @@ aloe:
   translation: 's: aloo'
 aloete:
   term: aloete
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: aliuloj'
+  translation: 'pron (vivaĵoj): (la) aliaj'
 aloforma:
   term: aloforma
   class: b.oro
@@ -1117,9 +1117,9 @@ alokosmo:
   translation: 's: alternativa universo'
 alokwanti:
   term: alokwanti
-  class: 'tabl: d; m'
+  class: 'tabel: d; m'
   category: derived
-  translation: alia kvanto da, alia kiomo da
+  translation: 'det: alia kvanto da; adv: alia kvanto, alikvante'
 alolabel:
   term: alolabel
   class: b.oj
@@ -1132,17 +1132,17 @@ alolide:
   translation: 's: alidirekto; v.tr: alidirekti'
 aloloka:
   term: aloloka
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: aliloke'
 alomaner:
   term: alomaner
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: alimaniere'
 alomo:
   term: alomo
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: aligrade'
 alomorfo:
@@ -1162,9 +1162,9 @@ alondra:
   translation: 's: alaŭdo'
 alonumer:
   term: alonumer
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: derived
-  translation: alinombro
+  translation: 'det: alinombro (da)'
 aloopsyon:
   term: aloopsyon
   class: b
@@ -1177,14 +1177,14 @@ aloopsyonli:
   translation: 'adj: alternativa; adv: alternative'
 alooto:
   term: alooto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: alioj'
+  translation: 'pron (nevivaĵoj): (la) aliaj'
 alopul:
   term: alopul
-  class: 'tabl: t'
+  class: 'tabel: t'
   category: derived
-  translation: 'adj: alispeca, alimaniera; alispece, alimaniere'
+  translation: 'adj: alispeca, malsama; adv: alispece, malsame'
 alopul_kom:
   term: alopul kom
   class: l
@@ -1192,27 +1192,27 @@ alopul_kom:
   translation: 'konj: malkiel, malsame ol'
 aloseba:
   term: aloseba
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: pro alia kialo, pro alia kaŭzo'
+  translation: 'adv: pro alia kialo, pro alia kaŭzo, alikiale, alikaŭze'
 alosu:
   term: alosu
-  class: 'tabl: t'
+  class: 'tabel: su s'
   category: derived
   translation: 'pos adj: de iu alia, alies'
 alote:
   term: alote
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: iu alia'
+  translation: 'pron (vivaĵo): iu alia, la alia'
 aloto:
   term: aloto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: io alia'
+  translation: 'pron (nevivaĵo): io alia, la alia'
 alowatu:
   term: alowatu
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: alitempe'
 aloy:
@@ -1269,7 +1269,7 @@ am:
   term: am
   class: par
   category: root
-  translation: 'par: -u, <em>markilo de imperativa verbo</em>'
+  translation: 'par (markilo de imperativa verbo): -u'
 amara:
   term: Amara
   class: su n
@@ -1489,9 +1489,8 @@ amusapul:
   term: amusapul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): amuza; adv (por aĵgenraj substantivoj):
-    amuze; adj (por ulgenraj substantivoj): amuzita; adv (por ulgenraj substantivoj):
-    amuzite'
+  translation: 'adj (por nevivaĵoj): amuza; adv (por nevivaĵoj): amuze; adj (por vivaĵoj):
+    amuzita; adv (por vivaĵoj): amuzite'
 amusaxey:
   term: amusaxey
   class: b
@@ -1766,9 +1765,8 @@ ansyapul:
   term: ansyapul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): anksiiga; adv (por aĵgenraj substantivoj):
-    anksiige; adj (por ulgenraj substantivoj): anksia; adv (por ulgenraj substantivoj):
-    anksie'
+  translation: 'adj (por nevivaĵoj): anksiiga; adv (por nevivaĵoj): anksiige; adj
+    (por vivaĵoj): anksia; adv (por vivaĵoj): anksie'
 antartiko:
   term: Antartiko
   class: su n
@@ -1803,7 +1801,7 @@ antibakuterili:
   term: antibakuterili
   class: t
   category: derived
-  translation: 'adj: baktericida; adv: baktericide'
+  translation: 'adj: kontraŭbakteria, baktericida; adv: kontraŭbakterie, baktericide'
 antibioente:
   term: antibioente
   class: b
@@ -2635,7 +2633,7 @@ atomuli:
   term: atomuli
   class: t
   category: derived
-  translation: 'adj: atoma, nuklea (<em>energio</em>); adv: atome, nukleenergie'
+  translation: 'adj: atoma, nuklea (<em>energio</em>); adv: atome, nuklee'
 atopupe:
   term: atopupe
   class: b
@@ -2900,7 +2898,7 @@ awto-:
   term: awto-
   class: lfik
   category: affix
-  translation: 'pfk: aŭtomata, aŭtonoma, mem-; aŭtomate, aŭtonome'
+  translation: 'pfk: aŭtomata, aŭtonoma, mem-'
 awtoahamible:
   term: awtoahamible
   class: t
@@ -3005,7 +3003,7 @@ ay:
   term: ay
   class: il
   category: root
-  translation: 'interj: aj'
+  translation: 'interj: aj (<em>montras doloron aŭ timon</em>)'
 aya:
   term: aya
   class: b
@@ -3112,7 +3110,7 @@ azerbayjansa:
   term: Azerbayjansa
   class: su n
   category: proper word
-  translation: 'prop n: la azerbajĝana (lingvo), la azera (lingvo)'
+  translation: 'prop n: la azerbajĝana (lingvo)'
 azerbayjanyen:
   term: Azerbayjanyen
   class: su n
@@ -3441,19 +3439,19 @@ bamya:
   translation: 's: gombo'
 ban:
   term: ban
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: root
-  translation: iu, i-
+  translation: 'det: iu, i- (<em>korelativa parto</em>)'
 ban_alote:
   term: ban alote
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron:'
+  translation: 'pron: iu alia'
 ban_aloto:
   term: ban aloto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron:'
+  translation: 'pron: io alia'
 banana:
   term: banana
   class: b
@@ -3481,9 +3479,9 @@ bandera:
   translation: 's: flago'
 banete:
   term: banete
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: iuj'
+  translation: 'pron (vivaĵoj): iuj'
 bangla:
   term: Bangla
   class: su n
@@ -3557,62 +3555,62 @@ bankoyen:
   translation: 's: bankisto'
 bankwanti:
   term: bankwanti
-  class: 'tabl: d; m'
+  class: 'tabel: d; m'
   category: derived
-  translation: iom
+  translation: 'det: iom (da); adv: iom'
 banloka:
   term: banloka
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: ie'
 banmaner:
   term: banmaner
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: iel'
 banmo:
   term: banmo
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: iom'
+  translation: 'adv: iel (<em>+ adj</em>)'
 bannumer:
   term: bannumer
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: derived
-  translation: kelkaj
+  translation: 'det: kelkaj'
 banoto:
   term: banoto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: ioj'
+  translation: 'pron (nevivajoj): iuj'
 banpul:
   term: banpul
-  class: 'tabl: t'
+  class: 'tabel: t'
   category: derived
-  translation: 'adj: ia'
+  translation: 'adj: ia; adv: iel'
 banseba:
   term: banseba
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: ial'
 bansu:
   term: bansu
-  class: 'tabl: su s'
+  class: 'tabel: su s'
   category: derived
   translation: 'pos adj: ies'
 bante:
   term: bante
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
   translation: 'pron: iu'
 banto:
   term: banto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
   translation: 'pron: io'
 banwatu:
   term: banwatu
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: iam'
 banyo:
@@ -4035,7 +4033,7 @@ bax_asman:
   term: bax asman
   class: p jm
   category: phrase
-  translation: 'prep fraz: subĉiele, sub la libera ĉielo'
+  translation: 'prep fraz: subĉiele'
 baxasmanli:
   term: baxasmanli
   class: t
@@ -4536,16 +4534,6 @@ beykon:
   class: b
   category: root
   translation: 's: lardo'
-beyongukal:
-  term: beyongukal
-  class: t
-  category: derived
-  translation: 'adj: senutila, neutila, malutila; adv: senutile, neutile, malutile'
-beyongupul:
-  term: beyongupul
-  class: t
-  category: derived
-  translation: 'adj: utila; adv: utile'
 beze:
   term: beze
   class: b
@@ -4800,7 +4788,7 @@ bisu:
   term: bisu
   class: t
   category: root
-  translation: 'adj: deviga, enda; adv: devige, ende'
+  translation: 'adj: deviga; adv: devige; kvazaŭ-sfk: enda, ende'
 biti:
   term: biti
   class: b
@@ -5897,7 +5885,7 @@ burxohrapul:
   term: burxohrapul
   class: t
   category: derived
-  translation: 'adj: fifama, infamia; adv: fifame, infamie'
+  translation: 'adj: fifama; adv: fifame'
 burya:
   term: burya
   class: b
@@ -5942,7 +5930,7 @@ butersim:
   term: butersim
   class: t
   category: derived
-  translation: 'adj: butereca, butera; adv: buterece, butere'
+  translation: 'adj: butereca; adv: buterece'
 buton:
   term: buton
   class: b.oj
@@ -6202,9 +6190,8 @@ carmepul:
   term: carmepul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): ĉarma; adv (por aĵgenraj substantivoj):
-    ĉarme; adj (por ulgenraj substantivoj): ĉarmita; adv (por ulgenraj substantivoj):
-    ĉarmite'
+  translation: 'adj (por nevivaĵoj): ĉarma; adv (por nevivaĵoj): ĉarme; adj (por vivaĵoj):
+    ĉarmita; adv (por vivaĵoj): ĉarmite'
 cati:
   term: cati
   class: b
@@ -6314,7 +6301,7 @@ cel_na:
   term: cel na
   class: jm
   category: phrase
-  translation: por ___i
+  translation: 'fraz: por (<em>+ infinitivo</em>)'
 cel_peda:
   term: cel peda
   class: p jm
@@ -6369,7 +6356,7 @@ celki:
   term: celki
   class: l
   category: derived
-  translation: 'konj: por ke (<em>+ U-modo</em>)'
+  translation: 'konj: por ke (<em>+ u-modo</em>)'
 celul:
   term: celul
   class: b
@@ -6464,7 +6451,7 @@ centi:
   term: centi
   class: num
   category: root
-  translation: 'num: centono, procento, centi-'
+  translation: 'num: centono, centi-'
 centimetro:
   term: centimetro
   class: b
@@ -6594,12 +6581,12 @@ ci:
   term: ci
   class: par
   category: root
-  translation: 'par: -ĉjo, -njo (por karese nomi)'
+  translation: 'par (por karese nomi): -ĉjo, -njo'
 ciber-:
   term: ciber-
   class: nenhuru genu
   category: bound root
-  translation: kiber-, ret-, saĝ-
+  translation: 'mallibera radiko: kiber-, ret-, saĝ-'
 ciberbiskiti:
   term: ciberbiskiti
   class: b
@@ -7154,7 +7141,7 @@ cuyoato_fal:
   term: cuyoato fal
   class: jm
   category: phrase
-  translation: ĉefrolita de, ĉefrolante
+  translation: 'fraz: ĉefrolita de, ĉefrolante'
 cuyoatoyen:
   term: cuyoatoyen
   class: b
@@ -7204,7 +7191,8 @@ da:
   term: da
   class: pn
   category: root
-  translation: 'pron: (<em>relativa pronomo</em>) li, ŝi, ri, ĝi, ili'
+  translation: 'pron (relativa pronomo): li, lin, ŝi, ŝin, ri, rin, ĝi, ĝin, ili,
+    ilin'
 dabagu:
   term: dabagu
   class: b.oj
@@ -7614,7 +7602,7 @@ dasu:
   term: dasu
   class: su s
   category: derived
-  translation: ""
+  translation: 'pos adj (relativa subpropozicio): lia, ŝia, ria, ĝia, ilia'
 data:
   term: data
   class: b
@@ -7699,7 +7687,7 @@ dawn:
   term: Dawn
   class: su n
   category: proper word
-  translation: 'prop n: Down, Daŭn (<em>nomo</em>)'
+  translation: 'prop n: <em>Down</em>, Daŭn (<em>nomo</em>)'
 daxu:
   term: daxu
   class: b
@@ -7709,7 +7697,7 @@ day:
   term: day
   class: t
   category: root
-  translation: 'adj: granda, ega; adv: grande, ege'
+  translation: 'adj: granda, ega; adv: grande, ege, tre (<em>+ verbo</em>)'
 day-:
   term: day-
   class: lfik
@@ -7824,7 +7812,7 @@ daydaymo:
   term: daydaymo
   class: m
   category: derived
-  translation: 'adv: ege, treege'
+  translation: 'adv: ege (<em>+ adj</em>), treege (<em>+ adj</em>)'
 daydayyen:
   term: daydayyen
   class: b
@@ -7832,27 +7820,27 @@ daydayyen:
   translation: 's: giganto, grandegulo'
 daydenkwanti:
   term: daydenkwanti
-  class: 'tabl: d; m'
+  class: 'tabel: d; m'
   category: derived
-  translation: tiom (da)
+  translation: 'det: tiom (da); adv: tiom'
 daydenmo:
   term: daydenmo
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: tiom'
+  translation: 'adv: tiel (<em>+ adj</em>), tiom (<em>+ adj</em>)'
 daydenmo_multi:
   term: daydenmo multi
-  class: 'tabl: d; m'
+  class: 'tabel: d; m'
   category: phrase
-  translation: tiom multe
+  translation: 'det: tiel multe (da); adv: tiel multe'
 daydennumer:
   term: daydennumer
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: derived
-  translation: tiom (da)
+  translation: 'det: tiom (da)'
 daydenpul:
   term: daydenpul
-  class: 'tabl: t'
+  class: 'tabel: t'
   category: derived
   translation: 'adj: kia (___!)'
 daydolo:
@@ -8025,7 +8013,7 @@ daymaxmo:
   term: daymaxmo
   class: m
   category: derived
-  translation: 'adv: multe pli (<em>al multe pli alta grado</em>)'
+  translation: 'adv: multe pli (<em>+ adj</em>)'
 daymeli:
   term: daymeli
   class: t
@@ -8035,22 +8023,22 @@ dayminmo:
   term: dayminmo
   class: m
   category: derived
-  translation: 'adv: multe malpli (<em>al multe malpli alta grado</em>)'
+  translation: 'adv: multe malpli (<em>+ adj</em>)'
 daymo:
   term: daymo
   class: m
   category: derived
-  translation: 'adv: tre'
+  translation: 'adv: tre (<em>+ adj</em>)'
 daymo_maxmo:
   term: daymo maxmo
   class: m
   category: phrase
-  translation: 'adv: multe pli (<em>al multe pli alta grado</em>)'
+  translation: 'adv: multe pli (<em>+ adj</em>)'
 daymo_minmo:
   term: daymo minmo
   class: m
   category: phrase
-  translation: 'adv: multe malpli (<em>al multe malpli alta grado</em>)'
+  translation: 'adv: multe malpli (<em>+ adj</em>)'
 daymuhim:
   term: daymuhim
   class: t
@@ -8410,14 +8398,14 @@ demonili:
   translation: 'adj: demona; adv: demone'
 den:
   term: den
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: root
-  translation: tiu, ti-
+  translation: 'det: tiu, ti- (<em>korelativa parto</em>)'
 denete:
   term: denete
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: tiuj'
+  translation: 'pron (vivaĵoj): tiuj'
 denim:
   term: denim
   class: b
@@ -8430,17 +8418,17 @@ denimli:
   translation: 'adj: ĝinzoŝtofa, denima; adv: ĝinzoŝtofe, denime'
 denkwanti:
   term: denkwanti
-  class: 'tabl: d; m'
+  class: 'tabel: d; m'
   category: derived
-  translation: tiom
+  translation: 'det: tiom (da); adv: tiom'
 denloka:
   term: denloka
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: tie'
 denloka_hu:
   term: denloka hu
-  class: 'tabl: l'
+  class: 'tabel: l'
   category: phrase
   translation: 'konj: (tie,) kie'
 denlokali:
@@ -8450,57 +8438,57 @@ denlokali:
   translation: 'adj: loka, tiea; adv: loke, tiee'
 denmaner:
   term: denmaner
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: tiel'
+  translation: 'adv: tiel (<em>maniero</em>)'
 denmaner_hu:
   term: denmaner hu
-  class: 'tabl: l'
+  class: 'tabel: l'
   category: phrase
   translation: 'konj: (tiel,) kiel'
 denmo:
   term: denmo
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: tiom'
+  translation: 'adv: tiel (<em>+ adj</em>), tiom (<em>+ adj</em>)'
 denmo_kom:
   term: denmo... kom...
-  class: 'tabl: m; l'
+  class: 'tabel: m; l'
   category: phrase
-  translation: 'adv: tiom... kiom...'
+  translation: 'adv: tiel... kiel... (<em>+ adj</em>), tiom... kiom... (<em>+ adj</em>)'
 denmo_multi:
   term: denmo multi
-  class: 'tabl: d; m'
+  class: 'tabel: d; m'
   category: phrase
-  translation: tiom multe
+  translation: 'det: tiom multe (da); adv: tiom multe'
 dennumer:
   term: dennumer
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: derived
-  translation: tiu nombro
+  translation: 'det: tiunombre (da), tiu nombro (da)'
 denoto:
   term: denoto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: tioj'
+  translation: 'pron (nevivaĵoj): tiuj'
 denpul:
   term: denpul
-  class: 'tabl: t'
+  class: 'tabel: t'
   category: derived
-  translation: 'adj: tia'
+  translation: 'adj: tia; adv: tiel'
 denpul_kom:
   term: denpul kom
-  class: 'tabl: l'
+  class: 'tabel: l'
   category: phrase
-  translation: 'konj: (tia,) kia; kiel'
+  translation: 'konj: (tia,) kia, (tiel,) kiel'
 denseba:
   term: denseba
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: tial'
 densu:
   term: densu
-  class: 'tabl: su s'
+  class: 'tabel: su s'
   category: derived
   translation: 'pos adj: ties'
 denta:
@@ -8540,22 +8528,22 @@ dentamedisyen:
   translation: 's: dentisto'
 dente:
   term: dente
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: tiu'
+  translation: 'pron (vivaĵo): tiu'
 dento:
   term: dento
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: tio'
+  translation: 'pron (nevivaĵo): tio, tiu'
 denwatu:
   term: denwatu
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: tiam'
 denwatu_hu:
   term: denwatu hu
-  class: 'tabl: l'
+  class: 'tabel: l'
   category: phrase
   translation: 'konj: (tiam,) kiam'
 denwatuli:
@@ -8612,9 +8600,8 @@ depresipul:
   term: depresipul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): deprimiga; adv (por aĵgenraj substantivoj):
-    deprimige; adj (por ulgenraj substantivoj): deprimita; adv (por ulgenraj substantivoj):
-    deprimite'
+  translation: 'adj (por nevivaĵoj): deprimiga; adv (por nevivaĵoj): deprimige; adj
+    (por vivaĵoj): deprimita; adv (por vivaĵoj): deprimite'
 des:
   term: des
   class: num
@@ -8830,7 +8817,7 @@ di:
   term: di
   class: par
   category: root
-  translation: 'par: (<em>nedeviga) markilo de propra nomo</em>'
+  translation: 'par: <em>(nedeviga) markilo de propra nomo aŭ kulturspecifa vorto</em>'
 digita:
   term: digita
   class: b
@@ -9571,7 +9558,7 @@ du-:
   term: du-
   class: lfik
   category: affix
-  translation: 'pfk: <em>daŭra aŭ kutima aspekto</em>; -ado'
+  translation: 'pfk: <em>daŭra aŭ kutima aspekto</em>; pfk: -ado'
 dua:
   term: dua
   class: num
@@ -9892,8 +9879,7 @@ dumarali:
   term: dumarali
   class: t
   category: derived
-  translation: 'adj: iafoja, iufoja; adv: iafoje, iufoje, kelkfoje, kelkafoje, multfoje,
-    plurfoje'
+  translation: 'adj: foja, kelkfoja; adv: foje, kelkfoje'
 dumbu:
   term: dumbu
   class: b
@@ -10013,22 +9999,22 @@ dur_moyun:
   term: dur moyun
   class: p jm
   category: phrase
-  translation: 'prep fraz: en ĉiu, ĉiu___-e'
+  translation: 'prep fraz: en ĉiu, ĉiu ___-e'
 dur_na:
   term: dur na
   class: p jm
   category: phrase
-  translation: 'prep fraz: dum ___i'
+  translation: 'prep fraz: dum'
 dur_nunya:
   term: dur nunya
   class: p jm
   category: phrase
-  translation: 'prep fraz: nuntempe, ĝis nun, por la momento'
+  translation: 'prep fraz: provizore'
 dur_total:
   term: dur total
   class: p jm
   category: phrase
-  translation: 'prep fraz: totale dum, tra la tuto de'
+  translation: 'prep fraz: dum tuta, dum la tuta'
 dure:
   term: dure
   class: b.nenoj
@@ -10063,7 +10049,7 @@ durki:
   term: durki
   class: l
   category: derived
-  translation: 'konj: dum, dum kiam'
+  translation: 'konj: dum'
 durmomentoli:
   term: durmomentoli
   class: t
@@ -10378,7 +10364,7 @@ eko-:
   term: eko-
   class: nenhuru genu
   category: bound root
-  translation: eko- (ekologio)
+  translation: 'mallibera radiko: eko- (<em>ekologio</em>)'
 ekologi:
   term: ekologi
   class: b
@@ -10897,9 +10883,9 @@ eskan:
   translation: 's: skano; v.tr: skani'
 eskandal:
   term: eskandal
-  class: b.nenoj
+  class: b.oj
   category: root
-  translation: 's: skandalo; v.ntr: skandali'
+  translation: 's: skandalo; v.tr: skandali'
 eskandalpul:
   term: eskandalpul
   class: t
@@ -11507,10 +11493,10 @@ estimulapul:
   term: estimulapul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): stimulanta, instiganta, incitanta,
-    motivanta; adv (por aĵgenraj substantivoj): stimulante, instigante, incitante,
-    motivante; adj (por ulgenraj substantivoj): stimulita, instigita, incitita, motivita;
-    adv (por ulgenraj substantivoj): stimulite, instigite, incitite, motivite'
+  translation: 'adj (por nevivaĵoj): stimulanta, instiganta, incitanta, motivanta;
+    adv (por nevivaĵoj): stimulante, instigante, incitante, motivante; adj (por vivaĵoj):
+    stimulita, instigita, incitita, motivita; adv (por vivaĵoj): stimulite, instigite,
+    incitite, motivite'
 estisa:
   term: Estisa
   class: su n
@@ -11611,9 +11597,8 @@ estrespul:
   term: estrespul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): stresiga; adv (por aĵgenraj substantivoj):
-    stresige; adj (por ulgenraj substantivoj): stresiĝinta, stresigita; adv (por ulgenraj
-    substantivoj): stresiĝinte, stresigite'
+  translation: 'adj (por nevivaĵoj): stresiga; adv (por nevivaĵoj): stresige; adj
+    (por vivaĵoj): stresiĝinta, stresigita; adv (por vivaĵoj): stresiĝinte, stresigite'
 estrimi:
   term: estrimi
   class: b.oj
@@ -11703,7 +11688,7 @@ ete:
   term: ete
   class: pn
   category: root
-  translation: 'pron: ili (<em>vivaj, personigitaj objektoj</em>)'
+  translation: 'pron (vivaĵoj): ili, ilin'
 eter:
   term: eter
   class: b
@@ -11713,27 +11698,27 @@ etesu:
   term: etesu
   class: su s
   category: derived
-  translation: ilia (<em>de vivaj, personigitaj objektoj</em>)
+  translation: 'pos adj (de vivaĵoj): ilia'
 etesu_ete:
   term: etesu ete
   class: su pn
   category: phrase
-  translation: 'pos pron: la iliaj (<em>tiuj de ili</em>)'
+  translation: 'pos pron  (vivaĵoj de vivaĵoj): la iliaj'
 etesu_oto:
   term: etesu oto
   class: su pn
   category: phrase
-  translation: 'pos pron: la iliaj (<em>tioj de ili</em>)'
+  translation: 'pos pron (nevivaĵoj de vivaĵoj): la iliaj'
 etesu_te:
   term: etesu te
   class: su pn
   category: phrase
-  translation: 'pos pron: la ilia (<em>tiu de ili</em>)'
+  translation: 'pos pron (vivaĵo de vivaĵoj): la ilia'
 etesu_to:
   term: etesu to
   class: su pn
   category: phrase
-  translation: 'pos pron: la iliaj (<em>tio de ili</em>)'
+  translation: 'pos pron (nevivaĵo de vivaĵoj): la ilia'
 etika:
   term: etika
   class: b
@@ -12480,12 +12465,12 @@ fe_alo_kaso:
   term: fe alo kaso
   class: p jm
   category: phrase
-  translation: 'prep fraz: aliokaze, alie'
+  translation: 'prep fraz: alikaze, alie'
 fe_alo_lexi:
   term: fe alo lexi
   class: p jm
   category: phrase
-  translation: 'prep fraz: alivorte, en aliaj vortoj'
+  translation: 'prep fraz: alivorte, alidire'
 fe_alo_loga:
   term: fe alo loga
   class: p jm
@@ -12505,7 +12490,7 @@ fe_asif:
   term: fe asif
   class: p jm
   category: phrase
-  translation: 'prep fraz: bedaŭre, bedaŭrinde'
+  translation: 'prep fraz: bedaŭrinde'
 fe_bage:
   term: fe bage
   class: p jm
@@ -12520,12 +12505,12 @@ fe_ban_mara:
   term: (fe) ban mara
   class: p jm
   category: phrase
-  translation: 'prep fraz: iufoje, je iu fojo'
+  translation: 'prep fraz: iufoje, iam'
 fe_ban_xali_watu:
   term: (fe) ban xali watu
   class: p jm
   category: phrase
-  translation: 'prep fraz: je iu estonta fojo'
+  translation: 'prep fraz: iam estontence'
 fe_basi:
   term: fe basi
   class: p jm
@@ -12535,7 +12520,7 @@ fe_basi_fe:
   term: fe basi fe
   class: p
   category: phrase
-  translation: 'prep: surbaze de, baze de'
+  translation: 'prep: surbaze de'
 fe_baxya:
   term: fe baxya
   class: p jm
@@ -12560,12 +12545,12 @@ fe_centro:
   term: fe centro
   class: p jm
   category: phrase
-  translation: 'prep fraz: en la centro, en la mezo'
+  translation: 'prep fraz: en la centro'
 fe_centro_de:
   term: fe centro de
   class: p
   category: phrase
-  translation: 'prep: en la mezo de, meze de'
+  translation: 'prep: en la centro de'
 fe_comen:
   term: fe comen
   class: p jm
@@ -12600,7 +12585,7 @@ fe_durya:
   term: fe durya
   class: p jm
   category: phrase
-  translation: 'prep fraz: dume, interdume'
+  translation: 'prep fraz: dume, intertempe'
 fe_espesyalya:
   term: fe espesyalya
   class: p jm
@@ -12610,7 +12595,7 @@ fe_exkludi_fe:
   term: fe exkludi fe
   class: p
   category: phrase
-  translation: 'prep: ekskluzive de'
+  translation: 'prep: escepte de'
 fe_exya:
   term: fe exya
   class: p jm
@@ -12620,7 +12605,7 @@ fe_exya_de:
   term: fe exya de
   class: p
   category: phrase
-  translation: 'prep: ekstere de, ekster'
+  translation: 'prep: ekstere de'
 fe_fato:
   term: fe fato
   class: p jm
@@ -12650,7 +12635,7 @@ fe_folya:
   term: fe folya
   class: p jm
   category: phrase
-  translation: 'prep fraz: apude (<em>apud</em>); konforme, laŭe (<em>konforme</em>)'
+  translation: 'prep fraz: apude; prep fraz: konforme, laŭe'
 fe_fronta:
   term: fe fronta
   class: p jm
@@ -12675,7 +12660,7 @@ fe_hataya:
   term: fe hataya
   class: p jm
   category: phrase
-  translation: 'prep fraz: tamen, malgraŭ tio'
+  translation: 'prep fraz: tamen, malgraŭ tio, spite tion'
 fe_hataya_fe:
   term: fe hataya fe
   class: p
@@ -12690,7 +12675,7 @@ fe_hin_kaso:
   term: fe hin kaso
   class: p jm
   category: phrase
-  translation: 'prep fraz: en tiu ĉi kazo, en ĉi tiu kazo, ĉi-tiukaze'
+  translation: 'prep fraz: en tiu ĉi kazo, en ĉi tiu kazo, ĉi-kaze'
 fe_hin_noce:
   term: (fe) hin noce
   class: p jm
@@ -12765,7 +12750,7 @@ fe_kaso_de:
   term: fe kaso de
   class: p
   category: phrase
-  translation: 'prep: okaze de, en la kazo de'
+  translation: 'prep: okaze de'
 fe_kaso_fe:
   term: fe kaso fe
   class: p
@@ -12785,7 +12770,7 @@ fe_kompara_fe:
   term: fe kompara fe
   class: p
   category: phrase
-  translation: 'prep: kompare kun, kompare al'
+  translation: 'prep: kompare kun'
 fe_kompara_ki:
   term: fe kompara ki
   class: l
@@ -12870,17 +12855,17 @@ fe_ner_leya:
   term: (fe) ner leya
   class: p jm
   category: phrase
-  translation: 'prep fraz: lastatempe, antaŭ nelonge, freŝdate'
+  translation: 'prep fraz: antaŭ nelonge, freŝdate'
 fe_ner_or_teli_xaya:
   term: (fe) ner or teli xaya
   class: p jm
   category: phrase
-  translation: 'prep fraz: pli aŭ malpli baldaŭ'
+  translation: 'prep fraz: pli-malpli baldaŭ'
 fe_ner_xaya:
   term: (fe) ner xaya
   class: p jm
   category: phrase
-  translation: 'prep fraz: en la proksima estonteco, post nelonge, baldaŭ'
+  translation: 'prep fraz: post nelonge, baldaŭ'
 fe_nerleli_watu:
   term: fe nerleli watu
   class: p jm
@@ -12935,7 +12920,7 @@ fe_peda:
   term: fe peda
   class: p jm
   category: phrase
-  translation: 'prep fraz: funde, ĉe la fundo'
+  translation: 'prep fraz: funde, ĉe la fundo, malsupre'
 fe_peda_de:
   term: fe peda de
   class: p
@@ -12950,7 +12935,7 @@ fe_peti:
   term: fe peti
   class: p jm
   category: phrase
-  translation: 'prep fraz: mi petas, pete'
+  translation: 'prep fraz: mi petas'
 fe_porya:
   term: fe porya
   class: p jm
@@ -13010,7 +12995,7 @@ fe_tayti_ki:
   term: fe tayti ki
   class: l
   category: phrase
-  translation: 'konj: anstataŭ ke, prefere ol'
+  translation: 'konj: anstataŭ ke'
 fe_tema_fe:
   term: fe tema fe
   class: p
@@ -13065,7 +13050,7 @@ fe_xugwan:
   term: fe xugwan
   class: p jm
   category: phrase
-  translation: 'prep fraz: kutime, tipe'
+  translation: 'prep fraz: kutime'
 fe_xukra:
   term: fe xukra
   class: p jm
@@ -13161,7 +13146,7 @@ femete:
   term: femete
   class: pn
   category: derived
-  translation: 'pron: ili (<em>inaj</em>), <em>iŝi</em>'
+  translation: 'pron (inoj): ili, ilin'
 femgami:
   term: femgami
   class: b
@@ -13266,7 +13251,7 @@ femte:
   term: femte
   class: pn
   category: derived
-  translation: 'pron: ŝi'
+  translation: 'pron: ŝi, ŝin'
 femteo:
   term: femteo
   class: b
@@ -13895,9 +13880,8 @@ fobipul:
   term: fobipul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): timiga; adv (por aĵgenraj substantivoj):
-    timige; adj (por ulgenraj substantivoj): tima; adv (por ulgenraj substantivoj):
-    time'
+  translation: 'adj (por nevivaĵoj): timiga; adv (por nevivaĵoj): timige; adj (por
+    vivaĵoj): tima; adv (por vivaĵoj): time'
 fokma:
   term: fokma
   class: b
@@ -14015,7 +13999,7 @@ follexipul:
   translation: 'adj: laŭvorta; adv: laŭvorte'
 folli:
   term: folli
-  class: t
+  class: m
   category: derived
   translation: 'adv: apude'
 follogapul:
@@ -14087,22 +14071,22 @@ fori_lefe_na:
   term: fori lefe na
   class: p jm
   category: phrase
-  translation: 'prep fraz: tuj antaŭ ol (<em>+ verbo</em>)'
+  translation: 'prep fraz: tuj antaŭ ol (<em>+ infinitivo</em>)'
 fori_xafe:
   term: fori xafe
   class: p jm
   category: phrase
-  translation: 'prep fraz: tuj post'
+  translation: 'prep fraz: tuj post (<em> + susbstantivo</em>)'
 fori_xafe_ki:
   term: fori xafe ki
   class: l
   category: phrase
-  translation: 'konj: tuj post kiam (<em>+ frazo</em>), tuj kiam'
+  translation: 'konj: tuj post kiam, tuj kiam'
 fori_xafe_na:
   term: fori xafe na
   class: p jm
   category: phrase
-  translation: 'prep fraz: tuj post kiam (<em>+ verbo</em>)'
+  translation: 'prep fraz: tuj post (<em> + infinitivo</em>)'
 forke:
   term: forke
   class: b
@@ -14317,9 +14301,8 @@ frustrapul:
   term: frustrapul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): frustranta; adv (por aĵgenraj substantivoj):
-    frustrante; adj (por ulgenraj substantivoj): frustrita; adv (por ulgenraj substantivoj):
-    frustrite'
+  translation: 'adj (por nevivaĵoj): frustranta; adv (por nevivaĵoj): frustrante;
+    adj (por vivaĵoj): frustrita; adv (por vivaĵoj): frustrite'
 fruta:
   term: fruta
   class: b
@@ -14451,11 +14434,21 @@ funsyongi:
   class: b.oj
   category: derived
   translation: 's: funkciigo, operacio; v.tr: funkciigi, operacii'
+funsyonkal:
+  term: funsyonkal
+  class: t
+  category: derived
+  translation: 'adj: senutila, neutila, malutila; adv: senutile, neutile, malutile'
 funsyonne:
   term: funsyonne
   class: t
   category: derived
   translation: 'adj: funkcia; adv: funkcie'
+funsyonpul:
+  term: funsyonpul
+  class: t
+  category: derived
+  translation: 'adj: utila; adv: utile'
 furaha:
   term: furaha
   class: b.oro.hisi
@@ -14480,9 +14473,8 @@ furahapul:
   term: furahapul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): plaĉa, plezura; adv (por aĵgenraj
-    substantivoj): plaĉe, plezure; adj (por ulgenraj substantivoj): plaĉita, plezurita;
-    adv (por ulgenraj substantivoj): plaĉite, plezurite'
+  translation: 'adj (por nevivaĵoj): plaĉa, plezura; adv (por nevivaĵoj): plaĉe, plezure;
+    adj (por vivaĵoj): plaĉita, plezurita; adv (por vivaĵoj): plaĉite, plezurite'
 furi:
   term: furi
   class: t
@@ -14964,7 +14956,7 @@ garebili:
   term: garebili
   class: t
   category: derived
-  translation: 'adj: okcidenta; adv: okcidente, okcidenten'
+  translation: 'adj: okcidenta; adv: okcidente'
 gargare:
   term: gargare
   class: b.oj.ru
@@ -15189,17 +15181,17 @@ ger:
   term: ger
   class: par
   category: root
-  translation: 'par: -us (<em>markilo de kondicionalo</em>)'
+  translation: 'par (markilo de kondicionalo): -us'
 ger_abil:
   term: ger abil
   class: f.sah
   category: phrase
-  translation: povus
+  translation: 'helpv: povus'
 ger_preferi:
   term: ger preferi
   class: f jm
   category: phrase
-  translation: preferus
+  translation: 'v fraz: preferus'
 germani:
   term: Germani
   class: su t
@@ -15324,7 +15316,8 @@ gimu:
   term: gimu
   class: t
   category: root
-  translation: 'adj: deva, deviga; adv: deve, devige'
+  translation: 'adj: deviga; adv: devige; kvazaŭ-sfk: kiu devus esti ___ita, kiu devus
+    okazi'
 gindu:
   term: gindu
   class: b
@@ -15532,7 +15525,7 @@ godo:
   term: godo
   class: t
   category: root
-  translation: 'adj: troa; adv: troe, tro da'
+  translation: 'adj: troa, tro da; adv: tro'
 godojaldi:
   term: godojaldi
   class: t
@@ -16048,9 +16041,8 @@ gutonpul:
   term: gutonpul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): dolora, doloriga; adv (por aĵgenraj
-    substantivoj): dolore, dolorige; adj (por ulgenraj substantivoj): dolorita, dolora;
-    adv (por ulgenraj substantivoj): dolorite, dolore'
+  translation: 'adj (por nevivaĵoj): dolora, doloriga; adv (por nevivaĵoj): dolore,
+    dolorige; adj (por vivaĵoj): dolorita, dolora; adv (por vivaĵoj): dolorite, dolore'
 guxi:
   term: guxi
   class: t
@@ -16141,7 +16133,7 @@ ha:
   term: ha
   class: il
   category: root
-  translation: 'interj: ha (<em>montras surprizon, ridadon, ktp.</em>)'
+  translation: 'interj: ha (<em>montras surprizon, ridadon, ktp</em>)'
 habakuk:
   term: Habakuk
   class: su n
@@ -16471,7 +16463,7 @@ har:
   term: har
   class: p
   category: root
-  translation: 'prep: kun, havante'
+  translation: 'prep: kun (<em>havante</em>)'
 har-:
   term: har-
   class: lfik
@@ -16668,7 +16660,7 @@ hata_un:
   term: hata un
   class: jm
   category: phrase
-  translation: eĉ unu
+  translation: 'fraz: eĉ unu'
 hatali:
   term: hatali
   class: t
@@ -16856,197 +16848,197 @@ he:
   term: he
   class: par
   category: root
-  translation: 'par: <em>emfaza partikulo</em>, ajn'
+  translation: 'par (emfaza partikulo): ajn'
 he_alo:
   term: he alo
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: phrase
-  translation: iu ajn alia, ĉia alia, ĉiu alia
+  translation: 'det: iu ajn alia'
 he_aloloka:
   term: he aloloka
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: phrase
   translation: 'adv: en iu ajn alia loko'
 he_alosu:
   term: he alosu
-  class: 'tabl: su s'
+  class: 'tabel: su s'
   category: phrase
   translation: 'pos adj: de iu ajn alia'
 he_alote:
   term: he alote
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: iu ajn alia'
+  translation: 'pron (vivaĵo): iu ajn alia'
 he_aloto:
   term: he aloto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: io ajn alia'
+  translation: 'pron (nevivaĵo): io ajn alia, iu ajn alia'
 he_ban:
   term: he ban
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: phrase
-  translation: iu ajn, i_ ajn
+  translation: 'det: iu ajn'
 he_bankwanti:
   term: he bankwanti
-  class: 'tabl: d; m'
+  class: 'tabel: d; m'
   category: phrase
-  translation: iom ajn
+  translation: 'det: iom ajn (da); adv: iom ajn'
 he_banloka:
   term: he banloka
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: phrase
   translation: 'adv: ie ajn'
 he_banmo:
   term: he banmo
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: phrase
-  translation: 'adv: iom ajn'
+  translation: 'adv: iel ajn (<em>+ adj</em>), iom ajn (<em>+ adj</em>)'
 he_banpul:
   term: he banpul
-  class: 'tabl: t'
+  class: 'tabel: t'
   category: phrase
-  translation: 'adj: ia ajn'
+  translation: 'adj: ia ajn; adv: iel ajn'
 he_bansu:
   term: he bansu
-  class: 'tabl: su s'
+  class: 'tabel: su s'
   category: phrase
   translation: 'pos adj: ies ajn'
 he_bante:
   term: he bante
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: iu ajn'
+  translation: 'pron (vivaĵo): iu ajn'
 he_banto:
   term: he banto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: io ajn'
+  translation: 'pron (nevivaĵo): io ajn, iu ajn'
 he_banwatu:
   term: he banwatu
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: phrase
   translation: 'adv: iam ajn'
 he_den:
   term: he den
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: phrase
-  translation: specife tiu
+  translation: 'det: specife tiu'
 he_dente:
   term: he dente
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: specife tio'
+  translation: 'pron (vivaĵo): specife tiu'
 he_dento:
   term: he dento
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: specife tio'
+  translation: 'pron (nevivaĵo): specife tio, specife tiu'
 he_ete:
   term: he ete
   class: pn
   category: phrase
-  translation: 'pron: ili mem'
+  translation: 'pron (vivaĵoj): ili mem, ilin mem'
 he_hin:
   term: he hin
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: phrase
-  translation: specife ĉi tiu
+  translation: 'det: specife ĉi tiu, specife tiu ĉi'
 he_hinte:
   term: he hinte
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: specife ĉi tio'
+  translation: 'pron (vivaĵo): specife ĉi tiu, specife tiu ĉi'
 he_hinto:
   term: he hinto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: specife ĉi tio'
+  translation: 'pron (nevivaĵo): specife ĉi tio, specife tio ĉi'
 he_imi:
   term: he imi
   class: pn
   category: phrase
-  translation: 'pron: ni mem'
+  translation: 'pron: ni mem, nin mem'
 he_ke:
   term: he ke
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: phrase
-  translation: kiu ajn
+  translation: 'det (demanda): kiu ajn (<em>+ substantivo</em>)'
 he_kete:
   term: he kete
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: kiu ajn'
+  translation: 'pron (demanda, vivaĵo): kiu ajn'
 he_keto:
   term: he keto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: kio ajn'
+  translation: 'pron (demanda, nevivaĵo): kio ajn, kiu ajn'
 he_mi:
   term: he mi
   class: pn
   category: phrase
-  translation: 'pron: mi mem'
+  translation: 'pron: mi mem, min mem'
 he_moy:
   term: he moy
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: phrase
-  translation: ĉiu ajn
+  translation: 'det: ĉiu ajn'
 he_moyte:
   term: he moyte
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: ĉio ajn'
+  translation: 'pron (vivaĵoj): ĉiu ajn'
 he_moyto:
   term: he moyto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: ĉio ajn'
+  translation: 'pron (nevivaĵoj): ĉio ajn, ĉiu ajn'
 he_nil:
   term: he nil
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: phrase
-  translation: neniu ajn, neni_ ajn
+  translation: 'det: neniu ajn (<em>+ substantivo</em>)'
 he_nilte:
   term: he nilte
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: nenio ajn'
+  translation: 'pron (vivaĵo): neniu ajn'
 he_nilto:
   term: he nilto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: nenio ajn'
+  translation: 'pron (nevivaĵo): nenio ajn, neniu ajn'
 he_sama:
   term: he sama
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: phrase
-  translation: ekzakte sama
+  translation: 'det: ekzakte sama'
 he_samate:
   term: he samate
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: ekzakte samo'
+  translation: 'pron (vivaĵo): ekzakte la sama'
 he_samato:
   term: he samato
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: phrase
-  translation: 'pron: ekzakte samo'
+  translation: 'pron (nevivaĵo): ekzakte la sama'
 he_te:
   term: he te
   class: pn
   category: phrase
-  translation: 'pron: li mem, ŝi mem, ri mem'
+  translation: 'pron: li mem, lin mem, ŝi mem, ŝin mem, ri mem, rin mem'
 he_uyu:
   term: he uyu
   class: pn
   category: phrase
-  translation: 'pron: vi mem'
+  translation: 'pron (pluralo): vi mem, vin mem'
 he_yu:
   term: he yu
   class: pn
   category: phrase
-  translation: 'pron: vi mem'
+  translation: 'pron (singularo): vi mem, vin mem'
 hedro:
   term: hedro
   class: b
@@ -17279,9 +17271,10 @@ hilu:
   translation: 's: kalkano'
 hin:
   term: hin
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: root
-  translation: ĉi tiu, ĉi ti-
+  translation: 'det: ĉi tiu, ĉi ti- (<em>korelativa parto</em>), tiu ĉi, ti- (<em>korelativa
+    parto</em>) ĉi'
 hindi:
   term: Hindi
   class: su n
@@ -17309,17 +17302,17 @@ hinduismo:
   translation: 'prop n: hinduismo'
 hinete:
   term: hinete
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: ĉi tiuj, tiuj ĉi'
+  translation: 'pron (vivaĵoj): ĉi tiuj, tiuj ĉi'
 hinkwanti:
   term: hinkwanti
-  class: 'tabl: d; m'
+  class: 'tabel: d; m'
   category: derived
-  translation: ĉi tiom, tiom ĉi
+  translation: 'det: ĉi tiom (da), tiom ĉi (da); adv: ĉi tiom, tiom ĉi'
 hinloka:
   term: hinloka
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: ĉi tie, tie ĉi'
 hinlokali:
@@ -17329,52 +17322,52 @@ hinlokali:
   translation: 'adj: loka; adv: loke'
 hinmaner:
   term: hinmaner
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: ĉi tiel, tiel ĉi'
 hinmo:
   term: hinmo
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: ĉi tiom'
+  translation: 'adv: ĉi tiel (<em>+ adj</em>), iom (<em>+ adj</em>)'
 hinnumer:
   term: hinnumer
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: derived
-  translation: ĉinombre da, ĉi tiu nombro da
+  translation: 'det: ĉinombre (da), ĉi tiu nombro (da), tiu ĉi nombro (da)'
 hinoto:
   term: hinoto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: ĉi tioj'
+  translation: 'pron (nevivaĵoj): ĉi tiuj, tiuj ĉi'
 hinpul:
   term: hinpul
-  class: 'tabl: t'
+  class: 'tabel: t'
   category: derived
-  translation: 'adj: ĉi tia, tia ĉi'
+  translation: 'adj: ĉi tia, tia ĉi; adv: ĉi tiel, tiel ĉi'
 hinseba:
   term: hinseba
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: ĉi tial, tial ĉi'
 hinsu:
   term: hinsu
-  class: 'tabl: su s'
+  class: 'tabel: su s'
   category: derived
   translation: 'pos adj: ĉi ties, ties ĉi'
 hinte:
   term: hinte
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: ĉi tiu, tiu ĉi'
+  translation: 'pron (vivaĵo): ĉi tiu, tiu ĉi'
 hinto:
   term: hinto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: ĉi tio, tio ĉi'
+  translation: 'pron (nevivaĵo): ĉi tio, tio ĉi, ĉi tiu, tui ĉi'
 hinwatu:
   term: hinwatu
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: ĉi tiam, tiam ĉi'
 hinwatuli:
@@ -17506,7 +17499,7 @@ holo-:
   term: holo-
   class: nenhuru genu
   category: bound root
-  translation: holo- (holografio, holomorfa)
+  translation: 'mallibera radiko: holo- (<em>holografio, holomorfa</em>)'
 holoba:
   term: holoba
   class: b
@@ -17691,22 +17684,22 @@ hu_da:
   term: hu da
   class: pn
   category: phrase
-  translation: 'pron: <em>subpropozicio</em>: kiu'
+  translation: 'pron (relativa subpropozicio): kiu, kiun'
 hu_dasu:
   term: hu dasu
   class: su s
   category: phrase
-  translation: '<em>subpropozicio</em>: kies'
+  translation: 'pos adj (relativa subpropozicio): kies'
 hu_denloka:
   term: hu denloka
   class: m
   category: phrase
-  translation: 'adv (relativa propozicio): kie, en kiu'
+  translation: 'adv (relativa propozicio): kie'
 hu_denwatu:
   term: hu denwatu
   class: m
   category: phrase
-  translation: 'adv (relativa propozicio): kiam, je kiu'
+  translation: 'adv (relativa propozicio): kiam'
 hu_in_da:
   term: hu in da
   class: m
@@ -17957,7 +17950,7 @@ ible:
   term: ible
   class: t
   category: root
-  translation: 'adj: ebla; adv: eble'
+  translation: 'adj: ebla; adv: eble; kvazaŭ-sfk: -ebla, -eble'
 iblegi:
   term: iblegi
   class: b.oj
@@ -18222,37 +18215,37 @@ imi:
   term: imi
   class: pn
   category: root
-  translation: 'pron: ni'
+  translation: 'pron: ni, nin'
 imi_am:
   term: imi am
   class: jm
   category: phrase
-  translation: ni ___u
+  translation: 'fraz: ni (<em>+ u-verbo</em>)'
 imisu:
   term: imisu
   class: su s
   category: derived
-  translation: nia
+  translation: 'pos adj: nia'
 imisu_ete:
   term: imisu ete
   class: su pn
   category: phrase
-  translation: 'pos pron: la niaj'
+  translation: 'pos pron (vivaĵoj de ni): la niaj'
 imisu_oto:
   term: imisu oto
   class: su pn
   category: phrase
-  translation: 'pos pron: la niaj'
+  translation: 'pos pron (nevivaĵoj de ni): la niaj'
 imisu_te:
   term: imisu te
   class: su pn
   category: phrase
-  translation: 'pos pron: la nia'
+  translation: 'pos pron (vivaĵo de ni): la nia'
 imisu_to:
   term: imisu to
   class: su pn
   category: phrase
-  translation: 'pos pron: la nia'
+  translation: 'pos pron (nevivaĵo de ni): la nia'
 imperi:
   term: imperi
   class: b
@@ -18507,7 +18500,7 @@ ingay:
   term: ingay
   class: t; f.sah
   category: root
-  translation: kiu devus; devus
+  translation: 'adj: kiu devus; helpv: devus'
 ingi:
   term: ingi
   class: b.oj
@@ -18742,9 +18735,8 @@ interespul:
   term: interespul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): interesa; adv (por aĵgenraj substantivoj):
-    interese; adj (por ulgenraj substantivoj): interesita; adv (por ulgenraj substantivoj):
-    interesite'
+  translation: 'adj (por nevivaĵoj): interesa; adv (por nevivaĵoj): interese; adj
+    (por vivaĵoj): interesita; adv (por vivaĵoj): interesite'
 interesyen:
   term: interesyen
   class: b
@@ -19346,7 +19338,7 @@ ja-:
   term: ja-
   class: lfik
   category: affix
-  translation: 'pfk: partikulo pri tuja proksimeco tempa aŭ loka'
+  translation: 'pfk: tuj proksima'
 jabal:
   term: jabal
   class: b
@@ -19466,7 +19458,7 @@ jale:
   term: jale
   class: par
   category: derived
-  translation: 'par: ĵus, tujantaŭe'
+  translation: 'par: ĵus'
 jaledin:
   term: jaledin
   class: b
@@ -19486,7 +19478,7 @@ jalefe_na:
   term: jalefe na
   class: p jm
   category: phrase
-  translation: 'prep fraz: tuj antaŭ ol (<em>+ verbo</em>)'
+  translation: 'prep fraz: tuj antaŭ ol (<em>+ infinitivo</em>)'
 jaleli:
   term: jaleli
   class: t
@@ -19743,7 +19735,7 @@ jaxa:
   term: jaxa
   class: par
   category: derived
-  translation: 'par: tujposte'
+  translation: 'par: tuj (<em>+ verbo</em>)'
 jaxadin:
   term: jaxadin
   class: b
@@ -19763,7 +19755,7 @@ jaxafe_na:
   term: jaxafe na
   class: p jm
   category: phrase
-  translation: 'prep fraz: tuj post kiam (<em>+ verbo</em>)'
+  translation: 'prep fraz: tuj post (<em> + infinitivo</em>)'
 jaxali:
   term: jaxali
   class: t
@@ -19978,7 +19970,7 @@ ji:
   term: ji
   class: l
   category: root
-  translation: 'konj: kaj, kaj ankaŭ'
+  translation: 'konj: kaj'
 ji_max_ete:
   term: ji max ete
   class: l jm
@@ -20003,7 +19995,7 @@ ji_pia:
   term: ji pia
   class: l jm
   category: phrase
-  translation: 'konj fraz: kaj ankaŭ, plie'
+  translation: 'konj fraz: kaj ankaŭ'
 jibuti:
   term: Jibuti
   class: su n
@@ -20279,7 +20271,7 @@ jowey:
   term: jowey
   class: b
   category: root
-  translation: 's: ĉirkaŭaĵo, medio, ĉirkaŭejo; radika pfk: ĉirkaŭ, proksime, sencele'
+  translation: 's: ĉirkaŭaĵo, medio, ĉirkaŭejo; kvazaŭ-pfk: ĉirkaŭ, proksime, sencele'
 joxu:
   term: joxu
   class: b.oro.hisi
@@ -20310,9 +20302,8 @@ joxupul:
   term: joxupul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): entuziasmiga; adv (por aĵgenraj substantivoj):
-    entuziasmige; adj (por ulgenraj substantivoj): entuziasma; adv (por ulgenraj substantivoj):
-    entuziasme'
+  translation: 'adj (por nevivaĵoj): entuziasmiga; adv (por nevivaĵoj): entuziasmige;
+    adj (por vivaĵoj): entuziasma; adv (por vivaĵoj): entuziasme'
 jozi:
   term: jozi
   class: b
@@ -20522,7 +20513,7 @@ juni:
   term: juni
   class: t
   category: root
-  translation: 'adj: juna; adv: june; kvazaŭ-pfk: ido-, junul-'
+  translation: 'adj: juna; adv: june; kvazaŭ-pfk: -ido'
 junibabur:
   term: junibabur
   class: b
@@ -21195,12 +21186,12 @@ kananhantafil:
   term: kananhantafil
   class: t
   category: derived
-  translation: 'adj: dekstramana; adv: dekstramane'
+  translation: 'adj: dekstramana (<em>preferante dekstran manon</em>); adv: dekstramane'
 kananhantali:
   term: kananhantali
   class: t
   category: derived
-  translation: 'adj: dekstramana; adv: dekstramane'
+  translation: 'adj: dekstramana (<em>pri dekstra mano</em>); adv: dekstramane'
 kananhantaya:
   term: kananhantaya
   class: b
@@ -21976,9 +21967,9 @@ kazakiyen:
   translation: 'prop n: Kazaĥo'
 ke:
   term: ke
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: root
-  translation: kiu, ki- (por demandi pri la sekva vorto)
+  translation: 'det (demanda): kiu (<em>+ substantivo</em>)'
 kebabu:
   term: kebabu
   class: b
@@ -21991,9 +21982,9 @@ kecapu:
   translation: 's: keĉupo, keĉapo'
 keete:
   term: keete
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: kiuj'
+  translation: 'pron (demanda, vivaĵoj): kiuj'
 kef:
   term: kef
   class: b
@@ -22031,9 +22022,9 @@ keke:
   translation: 's: kuko'
 kekwanti:
   term: kekwanti
-  class: 'tabl: d; m'
+  class: 'tabel: d; m'
   category: derived
-  translation: kiom (da)
+  translation: 'det (demanda): kiom (da); adv: kiom'
 kelne:
   term: kelne
   class: b
@@ -22041,9 +22032,9 @@ kelne:
   translation: 's: iksodo'
 keloka:
   term: keloka
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: kie'
+  translation: 'adv (demanda): kie'
 kelti:
   term: Kelti
   class: su t
@@ -22061,9 +22052,9 @@ kelvin:
   translation: 's: kelvino'
 kemaner:
   term: kemaner
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: kiel'
+  translation: 'adv (demanda): kiel (<em>maniero</em>)'
 kemer:
   term: kemer
   class: b
@@ -22076,9 +22067,9 @@ kemeti:
   translation: 'prop n: antikva Egiptio, antikva Egiptujo'
 kemo:
   term: kemo
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: kiom'
+  translation: 'adv (demanda): kiel (<em>+ adj</em>), kiom (<em>+ adj</em>)'
 kendi:
   term: kendi
   class: b
@@ -22106,9 +22097,9 @@ kentawro:
   translation: 's: centaŭro, kentaŭro'
 kenumer:
   term: kenumer
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: derived
-  translation: kiu nombro (da)
+  translation: 'det (nombro): kiom (da)'
 kenya:
   term: Kenya
   class: su n
@@ -22116,14 +22107,14 @@ kenya:
   translation: 'prop n: Kenjo'
 keoto:
   term: keoto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: kioj'
+  translation: 'pron (demanda, nevivaĵoj): kiuj'
 kepul:
   term: kepul
-  class: 'tabl: t'
+  class: 'tabel: t'
   category: derived
-  translation: 'adj: kia, kiel'
+  translation: 'adj (demanda): kia; adv (demanda): kiel'
 kerala:
   term: Kerala
   class: su n
@@ -22181,12 +22172,12 @@ kesadiya:
   translation: 's: kesadiljo'
 keseba:
   term: keseba
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: kial'
+  translation: 'adv (demanda): kial'
 kesu:
   term: kesu
-  class: 'tabl: su s'
+  class: 'tabel: su s'
   category: derived
   translation: 'pos adj: kies'
 ketani:
@@ -22201,9 +22192,9 @@ ketanibija:
   translation: 's: linsemo'
 kete:
   term: kete
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: kiu'
+  translation: 'pron (demanda, vivaĵo): kiu'
 ketif:
   term: ketif
   class: b
@@ -22211,14 +22202,14 @@ ketif:
   translation: 's: ŝultro'
 keto:
   term: keto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: kio'
+  translation: 'pron (demanda, nevivaĵo): kio, kiu'
 kewatu:
   term: kewatu
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: kiam'
+  translation: 'adv (demanda): kiam'
 kexru:
   term: kexru
   class: b
@@ -22833,7 +22824,7 @@ kolordo:
   term: kolordo
   class: t
   category: derived
-  translation: 'adj: kolora; adv: kolore; kvazaŭ-sufikso: -kolora'
+  translation: 'adj: kolora; adv: kolore; kvazaŭ-sfk: -kolora'
 kolorlari:
   term: kolorlari
   class: b
@@ -22878,7 +22869,7 @@ kom:
   term: kom
   class: l
   category: root
-  translation: 'konj: ol, kiel, en komparo kun'
+  translation: 'konj: ol, kiel'
 koma:
   term: koma
   class: b.nenoj
@@ -23148,9 +23139,9 @@ konfortapul:
   term: konfortapul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): komfortanta, komforta; adv (por aĵgenraj
-    substantivoj): komfortante, komforte; adj (por ulgenraj substantivoj): komforta,
-    komfortita; adv (por ulgenraj substantivoj): komforte, komfortite'
+  translation: 'adj (por nevivaĵoj): komfortanta, komforta; adv (por nevivaĵoj): komfortante,
+    komforte; adj (por vivaĵoj): komforta, komfortita; adv (por vivaĵoj): komforte,
+    komfortite'
 konfuci:
   term: Konfuci
   class: su n
@@ -23436,7 +23427,7 @@ koski:
   term: koski
   class: l
   category: derived
-  translation: 'konj: ĉar, pro tio ke'
+  translation: 'konj: ĉar'
 kosmo:
   term: kosmo
   class: b
@@ -23446,7 +23437,7 @@ kosmoli:
   term: kosmoli
   class: t
   category: derived
-  translation: 'adj: kosma; adv: kosme'
+  translation: 'adj: kosma, universa; adv: kosme, universe'
 kosmologi:
   term: kosmologi
   class: b
@@ -23516,7 +23507,7 @@ kosya_ki:
   term: kosya ki
   class: jm
   category: phrase
-  translation: esti ĉar
+  translation: 'fraz: esti ĉar'
 kotivwar:
   term: Kotivwar
   class: su n
@@ -23837,7 +23828,7 @@ ku:
   term: ku
   class: l
   category: root
-  translation: 'konj: ĉu (<em>uzata en nedirektaj demandoj</em>)'
+  translation: 'konj: <em>uzata en nerektaj demandoj</em>'
 kuba:
   term: Kuba
   class: su n
@@ -23867,7 +23858,7 @@ kufi:
   term: kufi
   class: t; il
   category: root
-  translation: sufiĉa; sufiĉe
+  translation: 'adj: sufiĉa; adv: sufiĉe; interj: sufiĉe'
 kufiday:
   term: kufiday
   class: t
@@ -23877,7 +23868,7 @@ kufimo:
   term: kufimo
   class: m
   category: derived
-  translation: 'adv: sufiĉe'
+  translation: 'adv: sufiĉe (<em>+ adj</em>)'
 kuflu:
   term: kuflu
   class: b.oj
@@ -24278,7 +24269,7 @@ kwasisen:
   term: kwasisen
   class: f.lin
   category: derived
-  translation: ŝajni (esti)
+  translation: 'ligv: ŝajni (esti)'
 kwasisodar:
   term: kwasisodar
   class: b
@@ -24752,7 +24743,7 @@ le:
   term: le
   class: par
   category: root
-  translation: 'par: -is (<em>markilo de estinteca tempo</em>)'
+  translation: 'par (markilo de estinteca tempo): -is'
 le-:
   term: le-
   class: lfik
@@ -24762,17 +24753,18 @@ le_abil:
   term: le abil
   class: f.sah
   category: phrase
-  translation: povis
+  translation: 'helpv: povis'
 le_du-:
   term: le du-
   class: par
   category: phrase
-  translation: 'par: (iam) kutimis <strong><em>i, iam </em></strong>adis, antaŭe ___is'
+  translation: 'par: (iam) kutimis (<em>+ infinitivo</em>), iam <strong><em>adis,
+    antaŭe </em></strong>is'
 le_no:
   term: le no
   class: jm
   category: phrase
-  translation: ne ___is
+  translation: 'fraz: ne (<em>+ is-verbo</em>)'
 leaxam:
   term: leaxam
   class: b
@@ -24787,7 +24779,7 @@ lefe:
   term: lefe
   class: p; lfik
   category: derived
-  translation: antaŭ
+  translation: 'prep: antaŭ; pfk: antaŭ-'
 lefe_dento:
   term: lefe dento
   class: p jm
@@ -24953,7 +24945,7 @@ leli_banwatu:
   term: leli banwatu
   class: m
   category: phrase
-  translation: 'adv: iam, iam pasinte'
+  translation: 'adv: iam (<em>pasinte</em>)'
 lemur:
   term: lemur
   class: b
@@ -25093,7 +25085,7 @@ liberi:
   term: Liberi
   class: su n
   category: proper word
-  translation: 'prop n: Liberio, Liberia'
+  translation: 'prop n: Liberio'
 libi:
   term: Libi
   class: su n
@@ -25378,7 +25370,7 @@ lilmo:
   term: lilmo
   class: m
   category: derived
-  translation: 'adv: iomete, ete'
+  translation: 'adv: iomete (<em>+ adj</em>), ete (<em>+ adj</em>)'
 lilmwa:
   term: lilmwa
   class: b.oj
@@ -26433,9 +26425,9 @@ malaysili:
   translation: 'prop adj: malajzia'
 malaysisa:
   term: Malaysisa
-  class: su t
+  class: su n
   category: proper word
-  translation: 'prop adj: la malajzia (lingvo)'
+  translation: 'prop n: la malajzia (lingvo)'
 malaysiyen:
   term: Malaysiyen
   class: su n
@@ -26455,7 +26447,7 @@ malfahuri:
   term: malfahuri
   class: t
   category: derived
-  translation: 'adj: aroga, aroganta; adv: aroge, arogante'
+  translation: 'adj: aroganta; adv: arogante'
 malfahuriya:
   term: malfahuriya
   class: b
@@ -26676,7 +26668,7 @@ manete:
   term: manete
   class: pn
   category: derived
-  translation: 'pron: ili (<em>viraj</em>)'
+  translation: 'pron (viraj): ili, ilin'
 mangami:
   term: mangami
   class: b
@@ -26846,7 +26838,7 @@ mante:
   term: mante
   class: pn
   category: derived
-  translation: 'pron: li'
+  translation: 'pron: li, lin'
 manteo:
   term: manteo
   class: b
@@ -27277,7 +27269,7 @@ max:
   term: max
   class: d; m
   category: root
-  translation: pli
+  translation: 'det: pli da; adv: pli'
 max-:
   term: max-
   class: lfik
@@ -27287,12 +27279,12 @@ max_kom:
   term: max kom
   class: jm
   category: phrase
-  translation: pli ol
+  translation: 'fraz: pli (da) ol'
 max_or_min:
   term: max or min
-  class: t jm
+  class: m jm
   category: phrase
-  translation: plimalpli
+  translation: 'adv fraz: pli-malpli (<em>+ verbo</em>)'
 maxamikucu:
   term: maxamikucu
   class: b.nenoj
@@ -27395,9 +27387,9 @@ maxhanmangi:
   translation: 's: plimalrapidigo; v.tr: plimalrapidigi'
 maxim:
   term: maxim
-  class: t
+  class: m
   category: root
-  translation: 'adj: plej; adv: plej'
+  translation: 'adv: (la) plej'
 maxim_bon:
   term: maxim bon
   class: t
@@ -27407,7 +27399,8 @@ maxim_nerleli:
   term: maxim nerleli
   class: t jm
   category: phrase
-  translation: pli ĵuse, pli lastatempe
+  translation: 'adj fraz: plej freŝdata, plej lastatempa; adv fraz: plej freŝdate,
+    plej lastatempe'
 maximum:
   term: maximum
   class: t
@@ -27417,12 +27410,12 @@ maximum_te:
   term: maximum te
   class: n jm
   category: phrase
-  translation: kiel eble plej multaj (<em>vivuloj</em>)
+  translation: 's fraz: kiel eble plej multaj (<em>vivaĵoj</em>)'
 maximum_to:
   term: maximum to
   class: n jm
   category: phrase
-  translation: kiel eble plej multaj (<em>aĵoj</em>), kiel eble plej multe
+  translation: 's fraz: kiel eble plej multaj (<em>aĵoj</em>), kiel eble plej multe'
 maximummo:
   term: maximummo
   class: m
@@ -27437,7 +27430,7 @@ maxina:
   term: maxina
   class: b
   category: root
-  translation: 's: maŝino; radika sufikso (aldonata al substantivoj): maŝino, aparato,
+  translation: 's: maŝino; kvazaŭ-sfk (afiksata al substantivoj): maŝino, aparato,
     ilo'
 maxkurtocu:
   term: maxkurtocu
@@ -27481,14 +27474,19 @@ maxmeligi:
   translation: 's: plibeligo; v.tr: plibeligi'
 maxmin:
   term: maxmin
-  class: d; m
+  class: m
   category: derived
-  translation: pli aŭ malpli
+  translation: 'adv fraz: pli-malpli (<em>+ verbo</em>)'
+maxminmo:
+  term: maxminmo
+  class: m
+  category: derived
+  translation: 'det: pli-malpli (<em>+ adj</em>)'
 maxmo:
   term: maxmo
   class: m
   category: derived
-  translation: 'adv: pli (<em>al pli alta grado</em>)'
+  translation: 'adv: pli (<em>+ adj</em>)'
 maxmo_bon:
   term: maxmo bon
   class: t
@@ -27498,17 +27496,17 @@ maxmo_jaldi:
   term: maxmo jaldi
   class: t jm
   category: phrase
-  translation: pli frue, anticipe
+  translation: 'adj fraz: pli frua; adv fraz: pli frue, anticipe'
 maxmo_kom:
   term: maxmo kom
   class: jm
   category: phrase
-  translation: pli ol
+  translation: 'fraz: pli ol'
 maxmo_or_minmo:
   term: maxmo or minmo
   class: m jm
   category: phrase
-  translation: 'adv fraz: pli aŭ malpli'
+  translation: 'adv fraz: pli-malpli (<em>+ adj</em>)'
 maxmo_sahi:
   term: maxmo sahi
   class: m jm
@@ -27543,7 +27541,7 @@ maxus:
   term: maxus
   class: p
   category: root
-  translation: 'prep (adicia): plus, kun aldono de'
+  translation: 'prep (adicia): krom, plus, aldone de'
 maxusgi:
   term: maxusgi
   class: b.oj
@@ -28262,7 +28260,7 @@ mi:
   term: mi
   class: pn
   category: root
-  translation: 'pron: mi'
+  translation: 'pron: mi, min'
 mida:
   term: mida
   class: b
@@ -28408,7 +28406,7 @@ mimbay:
   term: mimbay
   class: t; il
   category: root
-  translation: evidenta; evidente, kompreneble
+  translation: 'adj: evidenta; adv: evidente; interj: kompreneble'
 mimu:
   term: mimu
   class: b
@@ -28418,7 +28416,7 @@ min:
   term: min
   class: d; m
   category: root
-  translation: malpli
+  translation: 'det: malpli da; adv: malpli'
 min-:
   term: min-
   class: lfik
@@ -28428,7 +28426,7 @@ min_kom:
   term: min kom
   class: jm
   category: phrase
-  translation: malpli ol
+  translation: 'fraz: malpli (da) ol'
 mina:
   term: mina
   class: b
@@ -28481,9 +28479,9 @@ mingwan:
   translation: 'prop n: Plutono, Pluto'
 minim:
   term: minim
-  class: t
+  class: m
   category: root
-  translation: 'adj: malplej; adv: malplej'
+  translation: 'adv: (la) malplej'
 minimum:
   term: minimum
   class: t
@@ -28493,12 +28491,12 @@ minimum_te:
   term: minimum te
   class: n jm
   category: phrase
-  translation: kiel eble plej malmultaj (<em>vivuloj</em>)
+  translation: 's fraz: kiel eble plej malmultaj (<em>vivaĵoj</em>)'
 minimum_to:
   term: minimum to
   class: n jm
   category: phrase
-  translation: kiel eble plej malmultaj (<em>aĵoj</em>)
+  translation: 's fraz: kiel eble plej malmultaj (<em>aĵoj</em>), kiel eble plej malmulte'
 minimumismo:
   term: minimumismo
   class: b
@@ -28513,12 +28511,12 @@ minmo:
   term: minmo
   class: m
   category: derived
-  translation: 'adv: malpli (<em>al malpli alta grado</em>)'
+  translation: 'adv: malpli (<em>+ adj</em>)'
 minmo_kom:
   term: minmo kom
   class: jm
   category: phrase
-  translation: malpli ol
+  translation: 'fraz: malpli ol'
 minori:
   term: minori
   class: t
@@ -28609,27 +28607,27 @@ misu:
   term: misu
   class: su s
   category: derived
-  translation: mia
+  translation: 'pos adj: mia'
 misu_ete:
   term: misu ete
   class: su pn
   category: phrase
-  translation: 'pos pron: la miaj'
+  translation: 'pos pron (vivaĵoj de mi): la miaj'
 misu_oto:
   term: misu oto
   class: su pn
   category: phrase
-  translation: 'pos pron: la miaj'
+  translation: 'pos pron (nevivaĵoj de mi): la miaj'
 misu_te:
   term: misu te
   class: su pn
   category: phrase
-  translation: 'pos pron: la mia'
+  translation: 'pos pron (vivaĵo de mi): la mia'
 misu_to:
   term: misu to
   class: su pn
   category: phrase
-  translation: 'pos pron: la mia'
+  translation: 'pos pron (nevivaĵo de mi): la mia'
 misyon:
   term: misyon
   class: b
@@ -28865,7 +28863,7 @@ moksayventoli:
   term: moksayventoli
   class: t
   category: derived
-  translation: 'adj: ligna blov-; adv: ligne blov-'
+  translation: 'adj: ligna blov-'
 mol:
   term: mol
   class: b
@@ -29222,9 +29220,9 @@ moxwere:
   translation: 's: konsulto; v.tr: konsulti'
 moy:
   term: moy
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: root
-  translation: ĉiu, ĉi- (korelativa parto)
+  translation: 'det: ĉiu, ĉi- (<em>korelativa parto</em>)'
 moy-:
   term: moy-
   class: lfik
@@ -29249,12 +29247,12 @@ moydua:
   term: moydua
   class: d
   category: derived
-  translation: ambaŭ
+  translation: 'det: ambaŭ'
 moyete:
   term: moyete
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: ĉiuj'
+  translation: 'pron (vivaĵoj): ĉiuj'
 moyjensifil:
   term: moyjensifil
   class: t
@@ -29272,9 +29270,9 @@ moyjixi:
   translation: 's: ĉioscio'
 moykwanti:
   term: moykwanti
-  class: 'tabl: d; m'
+  class: 'tabel: d; m'
   category: derived
-  translation: ĉiom
+  translation: 'det: ĉiom (da); adv: ĉiom'
 moyli:
   term: moyli
   class: t
@@ -29282,29 +29280,29 @@ moyli:
   translation: 'adj: universala; adv: universale'
 moyloka:
   term: moyloka
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: ĉie'
 moyloka_hu:
   term: moyloka hu
-  class: 'tabl: l'
+  class: 'tabel: l'
   category: phrase
-  translation: 'konj: ĉie kie, en ĉiu loko kie'
+  translation: 'konj: ĉie kie'
 moymaner:
   term: moymaner
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: ĉiel'
+  translation: 'adv: ĉiel (<em>maniero</em>)'
 moymo:
   term: moymo
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: ĉiel'
+  translation: 'adv: ĉiel (<em>+ adj</em>), ĉiom (<em>+ adj</em>)'
 moynumer:
   term: moynumer
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: derived
-  translation: ĉiu nombro
+  translation: 'det: ĉiu nombro (da)'
 moynyanli:
   term: moynyanli
   class: t
@@ -29312,42 +29310,42 @@ moynyanli:
   translation: 'adj: ĉiujara; adv: ĉiujare'
 moyoto:
   term: moyoto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: ĉioj'
+  translation: 'pron (nevivaĵoj): ĉiuj'
 moypul:
   term: moypul
-  class: 'tabl: t'
+  class: 'tabel: t'
   category: derived
-  translation: 'adj: ĉia'
+  translation: 'adj: ĉia; adv: ĉiel'
 moyseba:
   term: moyseba
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: ĉial'
 moysu:
   term: moysu
-  class: 'tabl: su s'
+  class: 'tabel: su s'
   category: derived
   translation: 'pos adj: ĉies'
 moyte:
   term: moyte
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: ĉiu'
+  translation: 'pron (vivaĵoj): ĉiu(j)'
 moyto:
   term: moyto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: ĉio'
+  translation: 'pron (nevivaĵo): ĉio, ciu(j)'
 moyun:
   term: moyun
   class: d
   category: derived
-  translation: ĉiu (unu)
+  translation: 'det: ĉiu'
 moywatu:
   term: moywatu
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: ĉiam'
 moywatuli:
@@ -29454,32 +29452,32 @@ multi:
   term: multi
   class: d; m
   category: root
-  translation: multa; multe (da), tre (antaŭ verbo)
+  translation: 'det: multa(j); adv: multe (da), tre (<em>antaŭ verbo</em>)'
 multimaxmo:
   term: multimaxmo
   class: m
   category: derived
-  translation: 'adv: multe pli (<em>al multe pli alta grado</em>)'
+  translation: 'adv: multe pli (<em>+ adj</em>)'
 multiminmo:
   term: multiminmo
   class: m
   category: derived
-  translation: 'adv: multe malpli (<em>al multe malpli alta grado</em>)'
+  translation: 'adv: multe malpli (<em>+ adj</em>)'
 multimo:
   term: multimo
   class: m
   category: derived
-  translation: 'adv: en granda grado, multe'
+  translation: 'adv: tre (<em>+ adj</em>)'
 multimo_maxmo:
   term: multimo maxmo
   class: m
   category: phrase
-  translation: 'adv: multe pli (<em>al multe pli alta grado</em>)'
+  translation: 'adv: multe pli (<em>+ adj</em>)'
 multimo_minmo:
   term: multimo minmo
   class: m
   category: phrase
-  translation: 'adv: multe malpli (<em>al multe malpli alta grado</em>)'
+  translation: 'adv: multe malpli (<em>+ adj</em>)'
 mumu:
   term: mumu
   class: b
@@ -29549,7 +29547,7 @@ musi:
   term: musi
   class: t; f.sah
   category: root
-  translation: deva, deviga; deve; devi
+  translation: 'adj: deva; adv: deve; helpv: devi'
 musigi:
   term: musigi
   class: b.oj
@@ -29699,7 +29697,7 @@ na:
   term: na
   class: par
   category: root
-  translation: 'par: -i (<em>infinitiva markilo</em>)'
+  translation: 'par (infinitiva markilo): -i'
 nabiza:
   term: nabiza
   class: b.nenoj
@@ -30189,7 +30187,7 @@ nenabil:
   term: nenabil
   class: t; f.sah
   category: derived
-  translation: nekapabla; ne kapabli
+  translation: 'adj: nekapabla; adv: nekapable; helpv: ne kapabli'
 nenabilgi:
   term: nenabilgi
   class: b.oj
@@ -30310,7 +30308,7 @@ nenhar_na:
   term: nenhar na
   class: p jm
   category: phrase
-  translation: 'prep fraz: sen (<em>+ -i</em>)'
+  translation: 'prep fraz: sen (<em>+ infinitivo</em>)'
 nenhuru:
   term: nenhuru
   class: t
@@ -30555,7 +30553,7 @@ nenyon_na:
   term: nenyon na
   class: p jm
   category: phrase
-  translation: 'prep fraz: ne per <strong><em>i, sen </em></strong>i'
+  translation: 'prep fraz: ne per (<em>+ infinitivo</em>), sen (<em>+ infinitivo</em>)'
 nenyukwe:
   term: nenyukwe
   class: t
@@ -30625,12 +30623,12 @@ ner_fe:
   term: ner fe
   class: p
   category: phrase
-  translation: 'prep: proksime de, proksime al, ĉirkaŭ'
+  translation: 'prep: proksime de, proksime al; prep: proksimume'
 ner_le:
   term: ner le
   class: par
   category: phrase
-  translation: 'par: antaŭ ne longe ___is'
+  translation: 'par: antaŭ nelonge ___is'
 ner_lefe:
   term: ner lefe
   class: p jm
@@ -30640,13 +30638,12 @@ ner_lefe_ki:
   term: ner lefe ki
   class: l
   category: phrase
-  translation: 'konj: nelonge antaŭ ol (<em>+ frazo</em>), baldaŭ antaŭ ol (<em>+
-    frazo</em>)'
+  translation: 'konj: nelonge antaŭ ol (<em>+ frazo</em>)'
 ner_lefe_na:
   term: ner lefe na
   class: p jm
   category: phrase
-  translation: 'prep fraz: baldaŭ antaŭ ol (<em>+ verbo</em>)'
+  translation: 'prep fraz: baldaŭ antaŭ ol (<em>+ infinitivo</em>)'
 ner_of:
   term: ner of
   class: p
@@ -30661,7 +30658,7 @@ ner_xafe:
   term: ner xafe
   class: p jm
   category: phrase
-  translation: 'prep fraz: baldaŭ post'
+  translation: 'prep fraz: baldaŭ post (<em>+ substantivo</em>)'
 ner_xafe_ki:
   term: ner xafe ki
   class: l
@@ -30671,7 +30668,7 @@ ner_xafe_na:
   term: ner xafe na
   class: p jm
   category: phrase
-  translation: 'prep fraz: baldaŭ post kiam (<em>+ verbo</em>)'
+  translation: 'prep fraz: baldaŭ post (<em>+ infinitivo</em>)'
 nercu:
   term: nercu
   class: b.nenoj
@@ -30691,7 +30688,7 @@ nerlelimo:
   term: nerlelimo
   class: m
   category: derived
-  translation: 'adv: ĵus, lastatempe'
+  translation: 'adv: lastatempe (<em>+ adj</em>)'
 nerxadin:
   term: nerxadin
   class: b
@@ -30829,74 +30826,74 @@ nikotin:
   translation: 's: nikotino'
 nil:
   term: nil
-  class: 'tabl: num; d'
+  class: 'tabel: num; d'
   category: root
-  translation: nul; nenio, neni- (korelativa parto)
+  translation: 'num: nul; det: neniu, neni- (<em>korelativa parto</em>)'
 nil_alote_kom:
   term: nil alote kom
   class: jm
   category: phrase
-  translation: neniu alia ol
+  translation: 'fraz: neniu alia ol'
 nilete:
   term: nilete
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: neniuj'
+  translation: 'pron (vivaĵoj): neniu el ili'
 nilkwanti:
   term: nilkwanti
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: derived
-  translation: neniom
+  translation: 'det (kvanto): neniom (da)'
 nilloka:
   term: nilloka
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: nenie'
 nilmaner:
   term: nilmaner
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: neniel'
+  translation: 'adv: neniel (<em>maniero</em>)'
 nilmo:
   term: nilmo
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: neniel, neniom'
+  translation: 'adv: neniel (<em>+ adj</em>), neniom (<em>+ adj</em>)'
 nilnumer:
   term: nilnumer
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: derived
-  translation: neniu nombro
+  translation: 'det (nombro): neniom (da)'
 niloto:
   term: niloto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: nenioj'
+  translation: 'pron (nevivaĵoj): neniu el ili'
 nilpul:
   term: nilpul
-  class: 'tabl: t'
+  class: 'tabel: t'
   category: derived
-  translation: 'adj: nenia'
+  translation: 'adj: nenia; adv: neniel'
 nilseba:
   term: nilseba
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: nenial'
 nilsu:
   term: nilsu
-  class: 'tabl: su s'
+  class: 'tabel: su s'
   category: derived
   translation: 'pos adj: nenies'
 nilte:
   term: nilte
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: neniu'
+  translation: 'pron (vivaĵo): neniu'
 nilto:
   term: nilto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: nenio'
+  translation: 'pron (nevivaĵo): nenio, neniu'
 niltogi:
   term: niltogi
   class: b.oj
@@ -30904,7 +30901,7 @@ niltogi:
   translation: 's: neniigo, anihilacio; v.tr: neniigi, anihilacii'
 nilwatu:
   term: nilwatu
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: neniam'
 nimatu:
@@ -30991,7 +30988,7 @@ no_abil:
   term: no abil
   class: f.sah
   category: phrase
-  translation: ne povas
+  translation: 'helpv: ne povas'
 no_haji:
   term: no haji
   class: m
@@ -31006,7 +31003,7 @@ no_hay_seba:
   term: no hay seba
   class: il
   category: phrase
-  translation: 'interj: nedankinde'
+  translation: 'interj: ne dankinde'
 no_uje:
   term: no uje
   class: m
@@ -31272,7 +31269,7 @@ nun:
   term: nun
   class: par
   category: root
-  translation: 'par: nun, -as <em>presenca markilo</em>'
+  translation: 'par (presenca markilo): nun, -as'
 nun-:
   term: nun-
   class: lfik
@@ -31488,7 +31485,7 @@ of-:
   term: of-
   class: lfik
   category: affix
-  translation: 'pfk: de-, -on-'
+  translation: 'pfk: de-; pfk: -on-'
 ofaselli:
   term: ofaselli
   class: t
@@ -31539,7 +31536,7 @@ offol:
   term: offol
   class: p
   category: derived
-  translation: 'prep: depende de, depende je'
+  translation: 'prep: depende de'
 offolo:
   term: offolo
   class: b.oj
@@ -31715,7 +31712,7 @@ okey:
   term: okey
   class: t; il
   category: root
-  translation: bone, okej
+  translation: 'adj: bona; adv: bone; interj: okej, bone'
 oko:
   term: oko
   class: b.oj
@@ -32270,32 +32267,32 @@ oto:
   term: oto
   class: pn
   category: root
-  translation: 'pron: ili (<em>senviva</em>)'
+  translation: 'pron (nevivaĵoj): ili, ilin'
 otosu:
   term: otosu
   class: su s
   category: derived
-  translation: ilia (<em>neviva</em>)
+  translation: 'pos adj (de nevivaĵoj): ilia'
 otosu_ete:
   term: otosu ete
   class: su pn
   category: phrase
-  translation: 'pos pron: la iliaj'
+  translation: 'pos pron (vivaĵoj de nevivaĵoj): la iliaj'
 otosu_oto:
   term: otosu oto
   class: su pn
   category: phrase
-  translation: 'pos pron: la iliaj'
+  translation: 'pos pron (nevivaĵoj de nevivaĵoj): la iliaj'
 otosu_te:
   term: otosu te
   class: su pn
   category: phrase
-  translation: 'pos pron: la ilia'
+  translation: 'pos pron (vivaĵo de nevivaĵoj): la ilia'
 otosu_to:
   term: otosu to
   class: su pn
   category: phrase
-  translation: 'pos pron: la ilia'
+  translation: 'pos pron (nevivaĵo de nevivaĵoj): la ilia'
 ovari:
   term: ovari
   class: b
@@ -32841,9 +32838,8 @@ paranoypul:
   term: paranoypul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): paranoidiga; adv (por aĵgenraj substantivoj):
-    paranoidige; adj (por ulgenraj substantivoj): paranoja; adv (por ulgenraj substantivoj):
-    paranoje'
+  translation: 'adj (por nevivaĵoj): paranoidiga; adv (por nevivaĵoj): paranoidige;
+    adj (por vivaĵoj): paranoja; adv (por vivaĵoj): paranoje'
 pare:
   term: pare
   class: b
@@ -33692,7 +33688,7 @@ pilodo:
   term: pilodo
   class: t
   category: derived
-  translation: 'adj: lacigita, laca; adv: lacigite, lace'
+  translation: 'adj: laca; adv: lace'
 pilone:
   term: pilone
   class: t
@@ -33702,9 +33698,8 @@ pilopul:
   term: pilopul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): laciganta; adv (por aĵgenraj substantivoj):
-    lacigante; adj (por ulgenraj substantivoj): laca; adv (por ulgenraj substantivoj):
-    lace'
+  translation: 'adj (por nevivaĵoj): laciganta; adv (por nevivaĵoj): lacigante; adj
+    (por vivaĵoj): laca; adv (por vivaĵoj): lace'
 pilpil:
   term: pilpil
   class: b
@@ -33984,7 +33979,7 @@ plu:
   term: plu
   class: t
   category: root
-  translation: 'adj: plura, kelkaj; adv: plure, kelkfoje'
+  translation: 'adj: pluraj, kelkaj'
 plu-:
   term: plu-
   class: lfik
@@ -34771,7 +34766,7 @@ pre-:
   term: pre-
   class: lfik
   category: affix
-  translation: 'pfk: malfor-, ĉi-'
+  translation: 'pfk: ĉi-'
 preata:
   term: preata
   class: b.nenoj
@@ -35638,7 +35633,7 @@ relativomo:
   term: relativomo
   class: m
   category: derived
-  translation: 'adv: relative, sufiĉe (<em>grado</em>)'
+  translation: 'adv: relative (<em>+ adj</em>), sufiĉe (<em>+ adj</em>)'
 remon:
   term: Remon
   class: su n
@@ -35653,7 +35648,7 @@ ren:
   term: ren
   class: pn
   category: root
-  translation: 'pron: oni'
+  translation: 'pron: oni, onin'
 rengenyum:
   term: rengenyum
   class: b
@@ -35663,7 +35658,7 @@ rensu:
   term: rensu
   class: su s
   category: derived
-  translation: onia
+  translation: 'pos adj: onia'
 renyum:
   term: renyum
   class: b
@@ -36320,7 +36315,7 @@ rupul:
   term: rupul
   class: t
   category: derived
-  translation: 'adj: retroa; adv: retroe, retro, renverse'
+  translation: 'adj: retroa; adv: retroe'
 rusehacu:
   term: rusehacu
   class: b.nenoj
@@ -36758,14 +36753,14 @@ salvadori:
   translation: 'prop n: Salvadoro'
 sama:
   term: sama
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: root
-  translation: sama; same
+  translation: 'det: sama'
 samaete:
   term: samaete
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: la samaj'
+  translation: 'pron (vivaĵoj): la samaj'
 samaijen:
   term: samaijen
   class: b.oj
@@ -36783,17 +36778,17 @@ samajensifilya:
   translation: 's: samseksemo'
 samakwanti:
   term: samakwanti
-  class: 'tabl: d; m'
+  class: 'tabel: d; m'
   category: derived
-  translation: sama kvanto (da)
+  translation: 'det: sama kvanto (da); adv: sama kvanto, samkvante'
 samaloka:
   term: samaloka
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: samloke'
 samamaner:
   term: samamaner
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: sammaniere'
 samamenalexi:
@@ -36808,24 +36803,24 @@ samamenapul:
   translation: 'adj: sinonima, samsignifa; adv: sinonime, samsignife'
 samamo:
   term: samamo
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: same'
+  translation: 'adv: same (<em>+ adj</em>)'
 samanumer:
   term: samanumer
-  class: 'tabl: d'
+  class: 'tabel: d'
   category: derived
-  translation: la sama nombro (de)
+  translation: 'det: la sama nombro (da)'
 samaoto:
   term: samaoto
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: samoj, la samaj (aferoj)'
+  translation: 'pron (nevivaĵoj): la samaj'
 samapul:
   term: samapul
-  class: 'tabl: t'
+  class: 'tabel: t'
   category: derived
-  translation: 'adj: sama tipo (de)'
+  translation: 'adj: sama, sama tipo (de); adv: same'
 samari:
   term: Samari
   class: su n
@@ -36838,27 +36833,27 @@ samaryum:
   translation: 's: samario (<em>elemento</em>)'
 samaseba:
   term: samaseba
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
-  translation: 'adv: pro sama kialo'
+  translation: 'adv: pro sama kialo, samkiale'
 samasu:
   term: samasu
-  class: 'tabl: su s'
+  class: 'tabel: su s'
   category: derived
-  translation: 'pos adj: de sama persono'
+  translation: 'pos adj: de la sama'
 samate:
   term: samate
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: samulo, la sama (persono)'
+  translation: 'pron (vivaĵo): la sama'
 samato:
   term: samato
-  class: 'tabl: pn'
+  class: 'tabel: pn'
   category: derived
-  translation: 'pron: samo, la sama (afero)'
+  translation: 'pron (nevivaĵo): la sama'
 samawatu:
   term: samawatu
-  class: 'tabl: m'
+  class: 'tabel: m'
   category: derived
   translation: 'adv: samtempe'
 samawatuli:
@@ -37191,7 +37186,7 @@ se:
   term: se
   class: pn
   category: root
-  translation: 'pron: si, sin (sed ne nur por la tria persono)'
+  translation: 'pron (refleksiva sed ne nur por la tria persono): si, sin'
 se-:
   term: se-
   class: lfik
@@ -37271,7 +37266,7 @@ sefidemo:
   term: sefidemo
   class: m
   category: derived
-  translation: 'adv: hele'
+  translation: 'adv: hele (<em>+ adj</em>)'
 sefideya:
   term: sefideya
   class: b
@@ -37490,9 +37485,9 @@ semi:
   translation: 'adj: parta; adv: parte, iome, iom; kvazaŭ-pfk: duon-, -eca'
 semi_semi:
   term: semi, semi
-  class: m
+  class: t
   category: phrase
-  translation: 'adj (neformala): mezbona; adv: mezbone'
+  translation: 'adj (neformala): mezbona; adv (neformala): mezbone'
 semiblue:
   term: semiblue
   class: t
@@ -37505,9 +37500,9 @@ semibon:
   translation: 'adj: pli-malpli bona; adv: pli-malpli bone'
 semibon_semibur:
   term: semibon, semibur
-  class: m
+  class: t
   category: phrase
-  translation: 'adj (neformala): mezbona; adv: mezbone'
+  translation: 'adj: mezbona; adv: mezbone'
 semibruno:
   term: semibruno
   class: t
@@ -37677,7 +37672,7 @@ sen_peldo:
   term: sen peldo
   class: f jm
   category: phrase
-  translation: emi (___i)
+  translation: 'v fraz: emi (<em>+ infinitivo</em>)'
 sen_per:
   term: sen per
   class: jm
@@ -37882,7 +37877,7 @@ sesu:
   term: sesu
   class: su s
   category: derived
-  translation: sia
+  translation: 'pos adj: sia'
 sesyon:
   term: sesyon
   class: b
@@ -38672,7 +38667,7 @@ solomo:
   term: solomo
   class: m
   category: derived
-  translation: 'adv: sole'
+  translation: 'adv: sole (<em>+ adj</em>)'
 soloya:
   term: soloya
   class: b
@@ -38914,7 +38909,7 @@ su:
   term: su
   class: par
   category: root
-  translation: 'par: -a (por pronomoj), -ies (por korelativoj) (esprimas posedon)'
+  translation: 'par (esprimas posedon): -a (<em>pronomoj</em>), -ies (<em>korelativoj</em>)'
 submiti:
   term: submiti
   class: b.oj
@@ -39230,12 +39225,13 @@ suohantafil:
   term: suohantafil
   class: t
   category: derived
-  translation: 'adj: maldekstramana; adv: maldekstramane'
+  translation: 'adj: maldekstramana (<em>preferante maldekstran manon</em>); adv:
+    maldekstramane'
 suohantali:
   term: suohantali
   class: t
   category: derived
-  translation: 'adj: maldekstramana; adv: maldekstramane'
+  translation: 'adj: maldekstramana (<em>pri maldekstra mano</em>); adv: maldekstramane'
 suohantaya:
   term: suohantaya
   class: b
@@ -39396,9 +39392,8 @@ surprisapul:
   term: surprisapul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): surpriza, surprizanta; adv (por aĵgenraj
-    substantivoj): surprize, surprizante; adj (por ulgenraj substantivoj): surprizita;
-    adv (por ulgenraj substantivoj): surprizite'
+  translation: 'adj (por nevivaĵoj): surpriza, surprizanta; adv (por nevivaĵoj): surprize,
+    surprizante; adj (por vivaĵoj): surprizita; adv (por vivaĵoj): surprizite'
 susana:
   term: susana
   class: b
@@ -39658,7 +39653,7 @@ syahemo:
   term: syahemo
   class: m
   category: derived
-  translation: 'adv: malhele'
+  translation: 'adv: malhele (<em>+ adj</em>)'
 syaheya:
   term: syaheya
   class: b
@@ -40296,7 +40291,7 @@ taywan:
   term: Taywan
   class: su n
   category: proper word
-  translation: 'prop n: Tajvano, Tajujo'
+  translation: 'prop n: Tajvano'
 tayyen:
   term: Tayyen
   class: su n
@@ -40316,7 +40311,7 @@ te:
   term: te
   class: pn
   category: root
-  translation: 'pron: ri, li, ŝi, ĝi (kiam vivaĵo aŭ personigita aĵo)'
+  translation: 'pron (vivaĵoj): ri, rin, li, lin, ŝi, ŝin, ĝi, ĝin'
 teatro:
   term: teatro
   class: b
@@ -40396,7 +40391,7 @@ teli-:
   term: teli-
   class: lfik
   category: affix
-  translation: 'pfk: malproksima, malproksime'
+  translation: 'pfk: malproksima'
 teli_fe:
   term: teli fe
   class: p
@@ -40416,7 +40411,7 @@ teli_lefe_na:
   term: teli lefe na
   class: p jm
   category: phrase
-  translation: 'prep fraz: longe antaŭ ol (<em>+ verbo</em>)'
+  translation: 'prep fraz: longe antaŭ ol (<em>+ infinitivo</em>)'
 teli_of:
   term: teli of
   class: p
@@ -40426,7 +40421,7 @@ teli_xafe:
   term: teli xafe
   class: p jm
   category: phrase
-  translation: 'prep fraz: longe post'
+  translation: 'prep fraz: longe post (<em>+ substantivo</em>)'
 teli_xafe_ki:
   term: teli xafe ki
   class: l
@@ -40436,7 +40431,7 @@ teli_xafe_na:
   term: teli xafe na
   class: p jm
   category: phrase
-  translation: 'prep fraz: longe post kiam (<em>+ verbo</em>)'
+  translation: 'prep fraz: longe post (<em>+ infinitivo</em>)'
 teliergo:
   term: teliergo
   class: b.oj
@@ -40823,27 +40818,27 @@ tesu:
   term: tesu
   class: su s
   category: derived
-  translation: lia, ŝia, ria
+  translation: 'pos adj (de vivaĵo): lia, ŝia, ria'
 tesu_ete:
   term: tesu ete
   class: su pn
   category: phrase
-  translation: 'pos pron: la liaj, la ŝiaj, la riaj'
+  translation: 'pos pron (vivaĵoj de vivaĵo): la liaj, la ŝiaj, la riaj'
 tesu_oto:
   term: tesu oto
   class: su pn
   category: phrase
-  translation: 'pos pron: la liaj, la ŝiaj, la riaj'
+  translation: 'pos pron (nevivaĵoj de vivaĵo): la liaj, la ŝiaj, la riaj'
 tesu_te:
   term: tesu te
   class: su pn
   category: phrase
-  translation: 'pos pron: la lia, la ŝia, la ria'
+  translation: 'pos pron (vivaĵo de vivaĵo): la lia, la ŝia, la ria'
 tesu_to:
   term: tesu to
   class: su pn
   category: phrase
-  translation: 'pos pron: la lia, la ŝia, la ria'
+  translation: 'pos pron (nevivaĵo de vivaĵo): la lia, la ŝia, la ria'
 teve:
   term: teve
   class: b
@@ -40888,7 +40883,7 @@ tiga:
   term: tiga
   class: num
   category: root
-  translation: 'num: tri, tri-'
+  translation: 'num: tri'
 tigabasali:
   term: tigabasali
   class: t
@@ -41038,7 +41033,7 @@ to:
   term: to
   class: pn
   category: root
-  translation: 'pron: ĝi, ĝin (nek vivaĵo, nek persono)'
+  translation: 'pron (nevivaĵoj): ĝi, ĝin'
 tobago:
   term: Tobago
   class: su n
@@ -41258,7 +41253,7 @@ tongasa:
   term: Tongasa
   class: su n
   category: proper word
-  translation: 'prop n: la tongana (lingvo)'
+  translation: 'prop n: la tonga (lingvo)'
 tongayen:
   term: Tongayen
   class: su n
@@ -41384,7 +41379,7 @@ tora:
   term: tora
   class: b
   category: root
-  translation: 's: maŝino, aparato; radika sufikso (aldonata al verboj): maŝino, aparato'
+  translation: 's: maŝino, aparato; kvazaŭ-sfk (afiksata al verboj): maŝino, aparato'
 tornado:
   term: tornado
   class: b
@@ -41449,27 +41444,27 @@ tosu:
   term: tosu
   class: su s
   category: derived
-  translation: ĝia
+  translation: 'pos adj (de nevivaĵo): ĝia'
 tosu_ete:
   term: tosu ete
   class: su pn
   category: phrase
-  translation: 'pos pron: la ĝiaj (<em>tiuj de ĝi</em>)'
+  translation: 'pos pron (vivaĵoj de nevivaĵo): la ĝiaj'
 tosu_oto:
   term: tosu oto
   class: su pn
   category: phrase
-  translation: 'pos pron: la ĝiaj (<em>tioj de ĝi</em>)'
+  translation: 'pos pron (nevivaĵoj de nevivaĵo): la ĝiaj'
 tosu_te:
   term: tosu te
   class: su pn
   category: phrase
-  translation: 'pos pron: la ĝia (<em>tiu de ĝi</em>)'
+  translation: 'pos pron  (vivaĵo de nevivaĵo): la ĝia'
 tosu_to:
   term: tosu to
   class: su pn
   category: phrase
-  translation: 'pos pron: la ĝia (<em>tio de ĝi</em>)'
+  translation: 'pos pron (nevivaĵo de nevivaĵo): la ĝia'
 total:
   term: total
   class: t
@@ -41479,7 +41474,7 @@ total_dur:
   term: total dur
   class: p
   category: phrase
-  translation: 'prep: tute dum, tra la tuto de'
+  translation: 'prep: tute dum'
 total_wey:
   term: total wey
   class: p
@@ -41494,7 +41489,7 @@ totalmo:
   term: totalmo
   class: m
   category: derived
-  translation: 'adv: tute'
+  translation: 'adv: tute (<em>+ adj</em>)'
 totalya:
   term: totalya
   class: b
@@ -41664,9 +41659,8 @@ trawmapul:
   term: trawmapul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): traŭmata, traŭmatizanta; adv (por
-    aĵgenraj substantivoj): traŭmate, traŭmatizante; adj (por ulgenraj substantivoj):
-    traŭmatizita; adv (por ulgenraj substantivoj): traŭmatizite'
+  translation: 'adj (por nevivaĵoj): traŭmata, traŭmatizanta; adv (por nevivaĵoj):
+    traŭmate, traŭmatizante; adj (por vivaĵoj): traŭmatizita; adv (por vivaĵoj): traŭmatizite'
 treme:
   term: treme
   class: b.oro.harka
@@ -42160,9 +42154,7 @@ u:
   term: u
   class: par
   category: root
-  translation: 'par: (nedeviga verba partikulo kun la signifo de <em>nun</em> aŭ <em>du-</em>
-    por eviti riskon de konfuzi la sinsekvo <em>substantivo</em> <em>verbo</em> kun
-    kumetaĵo <em>substantivo-substantivo</em> dum formala parolado)'
+  translation: 'par: <em>nedeviga verba partikulo kun la signifo de nun aŭ du-</em>'
 uflasi:
   term: uflasi
   class: b.oro
@@ -42333,7 +42325,7 @@ un:
   term: un
   class: num; d
   category: root
-  translation: 'num: unu'
+  translation: 'num: unu; det: unu, iu'
 un-:
   term: un-
   class: lfik
@@ -42343,7 +42335,7 @@ un_solo:
   term: un solo
   class: s jm
   category: phrase
-  translation: unuopaĵo
+  translation: 'adj fraz: unuopa'
 unabi:
   term: unabi
   class: b
@@ -42568,32 +42560,32 @@ uyu:
   term: uyu
   class: pn
   category: root
-  translation: 'pron: vi (plurala)'
+  translation: 'pron (pluralo): vi, vin'
 uyusu:
   term: uyusu
   class: su s
   category: derived
-  translation: via (plurala)
+  translation: 'pos adj (plurala): via'
 uyusu_ete:
   term: uyusu ete
   class: su pn
   category: phrase
-  translation: 'pos pron: la viaj'
+  translation: 'pos pron  (vivaĵoj de vi): la viaj'
 uyusu_oto:
   term: uyusu oto
   class: su pn
   category: phrase
-  translation: 'pos pron: la viaj'
+  translation: 'pos pron (nevivaĵoj de vi): la viaj'
 uyusu_te:
   term: uyusu te
   class: su pn
   category: phrase
-  translation: 'pos pron: la via'
+  translation: 'pos pron (vivaĵo de vi): la via'
 uyusu_to:
   term: uyusu to
   class: su pn
   category: phrase
-  translation: 'pos pron: la via'
+  translation: 'pos pron (nevivaĵo de vi): la via'
 vada:
   term: vada
   class: b.oj
@@ -43174,12 +43166,12 @@ wal_na:
   term: wal na
   class: p jm
   category: phrase
-  translation: 'prep fraz: sen (<em>+ -i</em>)'
+  translation: 'prep fraz: sen (<em>+ infinitivo</em>)'
 wal_seba:
   term: wal seba
   class: il
   category: phrase
-  translation: 'interj: nedankinde'
+  translation: 'interj: ne dankinde'
 wala:
   term: wala
   class: b.oj
@@ -43194,7 +43186,7 @@ walki:
   term: walki
   class: l
   category: derived
-  translation: 'konj: sen ke (<em>+ U-modo</em>)'
+  translation: 'konj: sen ke (<em>+ u-modo</em>)'
 walrus:
   term: walrus
   class: b
@@ -43264,9 +43256,8 @@ waopul:
   term: waopul
   class: t
   category: derived
-  translation: 'adj (por aĵgenraj substantivoj): mira, miriga; adv (por aĵgenraj substantivoj):
-    mire, mirige; adj (por ulgenraj substantivoj): mirigita; adv (por ulgenraj substantivoj):
-    mirigite'
+  translation: 'adj (por nevivaĵoj): mira, miriga; adv (por nevivaĵoj): mire, mirige;
+    adj (por vivaĵoj): mirigita; adv (por vivaĵoj): mirigite'
 waoxey:
   term: waoxey
   class: b
@@ -43462,7 +43453,7 @@ wey_total:
   term: wey total
   class: p jm
   category: phrase
-  translation: 'prep fraz: tute ĉirkaŭ'
+  translation: 'prep fraz: ĉirkaŭ la tuta'
 weycu:
   term: weycu
   class: b.nenoj
@@ -43587,17 +43578,17 @@ xa:
   term: xa
   class: par
   category: root
-  translation: 'par: markilo de estonteca tempo (simile al -os)'
+  translation: 'par (markilo de estonteca tempo): -os'
 xa-:
   term: xa-
   class: lfik
   category: affix
-  translation: 'pfk: estonta, estonte'
+  translation: 'pfk: estonta'
 xa_no:
   term: xa no
   class: jm
   category: phrase
-  translation: ne ___os
+  translation: ne (<em>+ os-verbo</em>)
 xabahu:
   term: xabahu
   class: b.oj
@@ -43637,7 +43628,7 @@ xafe:
   term: xafe
   class: p; lfik
   category: derived
-  translation: post
+  translation: 'prep: post; pfk: post-'
 xafe_dento:
   term: xafe dento
   class: p jm
@@ -43818,7 +43809,7 @@ xali_banwatu:
   term: xali banwatu
   class: m
   category: phrase
-  translation: 'adv: iam, iam estonte'
+  translation: 'adv: iam (<em>estonte</em>)'
 xama:
   term: xama
   class: b
@@ -44470,7 +44461,7 @@ xorfe_nunya:
   term: xorfe nunya
   class: p jm
   category: phrase
-  translation: 'prep fraz: de nun'
+  translation: 'prep fraz: ekde nun'
 xorfirmayen:
   term: xorfirmayen
   class: b
@@ -44667,7 +44658,7 @@ xosu:
   term: xosu
   class: d; m
   category: root
-  translation: malmulta; malmulte (da), iomete (antaŭ verbo)
+  translation: 'det: malmulta(j); adv: malmulte (da), iomete (<em>+ verbo</em>)'
 xosu_xafe_xosu:
   term: xosu xafe xosu
   class: m
@@ -44677,7 +44668,7 @@ xosumo:
   term: xosumo
   class: m
   category: derived
-  translation: 'adv: iomete, ete'
+  translation: 'adv: iomete (<em>+ adj</em>), ete (<em>+ adj</em>)'
 xovin:
   term: Xovin
   class: su n
@@ -45253,7 +45244,7 @@ yon_na:
   term: yon na
   class: p jm
   category: phrase
-  translation: 'prep fraz: per ___i'
+  translation: 'prep fraz: per (<em>+ infinitivo</em>)'
 yona:
   term: Yona
   class: su n
@@ -45373,7 +45364,7 @@ yu:
   term: yu
   class: pn
   category: root
-  translation: 'pron: vi (<em>singulara</em>)'
+  translation: 'pron (singularo): vi, vin'
 yuda:
   term: Yuda
   class: su n
@@ -45498,27 +45489,27 @@ yusu:
   term: yusu
   class: su s
   category: derived
-  translation: via
+  translation: 'pos adj (singulara): via'
 yusu_ete:
   term: yusu ete
   class: su pn
   category: phrase
-  translation: 'pos pron: la viaj'
+  translation: 'pos pron (vivaĵoj de vi): la viaj'
 yusu_oto:
   term: yusu oto
   class: su pn
   category: phrase
-  translation: 'pos pron: la viaj'
+  translation: 'pos pron (nevivaĵoj de vi): la viaj'
 yusu_te:
   term: yusu te
   class: su pn
   category: phrase
-  translation: 'pos pron: la via'
+  translation: 'pos pron (vivaĵo de vi): la via'
 yusu_to:
   term: yusu to
   class: su pn
   category: phrase
-  translation: 'pos pron: la via'
+  translation: 'pos pron (nevivaĵo de vi): la via'
 yuxi:
   term: yuxi
   class: b.oj

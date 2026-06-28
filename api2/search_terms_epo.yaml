@@ -1,17 +1,9 @@
 ---
-"":
-- u
-- alo_bante
-- alo_banto
-- ban_alote
-- ban_aloto
 -a:
 - su
 - -li
 - -su
 - -yum
--a por pronomoj:
-- su
 -ado:
 - du-
 -ano:
@@ -24,13 +16,20 @@
 - -ne
 -anto:
 - -yen
--as presenca markilo:
+-as:
 - nun
 -aĉ-:
 - bur-
 - -bur
 -aĵo:
 - -xey
+-e:
+- -li
+- -yum
+-ebla:
+- ible
+-eble:
+- ible
 -eca:
 - semi
 - -sim
@@ -64,9 +63,9 @@
 - -fon
 -i:
 - na
+-ido:
+- juni
 -ies:
-- su
--ies por korelativoj esprimas posedon:
 - su
 -igi:
 - -gi
@@ -104,8 +103,6 @@
 - el
 -njo:
 - ci
--njo por karese nomi:
-- ci
 -o:
 - -ya
 -obla:
@@ -114,6 +111,8 @@
 - -ple
 -on-:
 - of-
+-os:
+- xa
 -pilko:
 - -bol
 -plena:
@@ -130,6 +129,10 @@
 - ger
 -ĉjo:
 - ci
+_ markilo de propra nomo aŭ kulturspecifa vorto_:
+- di
+_markilo de poseda adjektivo _:
+- -su
 a:
 - aya
 a-vorto:
@@ -843,6 +846,8 @@ aldonaĵo:
 aldone:
 - fe_maxusya
 - maxpul
+aldone de:
+- maxus
 aldoni:
 - maxusgi
 aldono:
@@ -901,10 +906,13 @@ ali-:
 - alo
 alia:
 - alo
-alia kiomo da:
+alia kvanto:
 - alokwanti
 alia kvanto da:
 - alokwanti
+aliaj:
+- aloete
+- alooto
 alian tagon:
 - fe_xadin
 aliancano:
@@ -916,6 +924,7 @@ alianco:
 alibio:
 - awsenjenmin
 alidire:
+- fe_alo_lexi
 - fe_alo_loga
 alidirekti:
 - alolide
@@ -946,25 +955,28 @@ aligatoro:
 - aligator
 aligrade:
 - alomo
+alikaze:
+- fe_alo_kaso
+alikaŭze:
+- aloseba
+alikiale:
+- aloseba
+alikvante:
+- alokwanti
 alilanda:
 - alodexali
 alilande:
 - alodexali
 aliloke:
 - aloloka
-alimaniera:
-- alopul
 alimaniere:
 - alomaner
-- alopul
 alineo:
 - paragraf
 alinombro:
 - alonumer
-alioj:
-- alooto
-aliokaze:
-- fe_alo_kaso
+alinombro da:
+- alonumer
 alirebla:
 - celidiible
 alireble:
@@ -983,8 +995,6 @@ alispece:
 - alopul
 alitempe:
 - alowatu
-aliuloj:
-- aloete
 alivorte:
 - fe_alo_lexi
 - fe_alo_loga
@@ -1644,11 +1654,11 @@ antaŭ kelkaj tagoj:
 - nerledin
 antaŭ longa tempo:
 - telileli
-antaŭ ne longe is:
-- ner_le
 antaŭ nelonge:
 - fe_ner_leya
 - nerleli
+antaŭ nelonge is:
+- ner_le
 antaŭ ol:
 - lefe_ki
 - leki
@@ -1658,6 +1668,7 @@ antaŭ tio:
 - lefe_to
 antaŭ-:
 - fron-
+- lefe
 antaŭa:
 - fronpul
 - frontali
@@ -1917,10 +1928,10 @@ apud:
 apuda:
 - jali
 apude:
+- folli
 - fe_comen
 - fe_folya
 - fe_jaya
-- folli
 - jali
 apudigi:
 - folgi
@@ -2090,7 +2101,6 @@ aro:
 - lari
 aroga:
 - burfahuri
-- malfahuri
 aroganta:
 - malfahuri
 arogante:
@@ -2103,7 +2113,6 @@ aroganto:
 - malfahuriya
 aroge:
 - burfahuri
-- malfahuri
 aromherbo:
 - herba
 aromi:
@@ -2693,7 +2702,6 @@ aŭtomata:
 - awto-
 - awtomati
 aŭtomate:
-- awto-
 - awtomati
 aŭtomobilejo:
 - mobilkamer
@@ -2704,7 +2712,6 @@ aŭtonoma:
 - awtonom
 - sekrasine
 aŭtonome:
-- awto-
 - awtonom
 - sekrasine
 aŭtonomeco:
@@ -2838,15 +2845,14 @@ baldaŭ:
 baldaŭ antaŭ:
 - ner_lefe
 baldaŭ antaŭ ol:
-- ner_lefe_ki
 - ner_lefe_na
 baldaŭ os:
 - ner_xa
 baldaŭ post:
 - ner_xafe
+- ner_xafe_na
 baldaŭ post kiam:
 - ner_xafe_ki
-- ner_xafe_na
 baldaŭa:
 - nerxali
 balearoj:
@@ -3104,8 +3110,6 @@ baze:
 - fe_basi
 - fe_benji
 - basili
-baze de:
-- fe_basi_fe
 bazi:
 - offolo
 - basi
@@ -3148,7 +3152,6 @@ bebolito:
 bedaŭra:
 - asifpul
 bedaŭre:
-- fe_asif
 - asifpul
 bedaŭreco:
 - asifpulya
@@ -3631,6 +3634,7 @@ bona:
 - dodukubon
 - dodukusahi
 - melibon
+- okey
 bona ŝanco:
 - bonxanse
 bonan apetiton:
@@ -4052,10 +4056,8 @@ buteo:
 - busardo
 butera:
 - buterpul
-- butersim
 butere:
 - buterpul
-- butersim
 butereca:
 - butersim
 buterece:
@@ -4389,6 +4391,10 @@ citrono:
 - limon
 citruso:
 - citrus
+ciu:
+- moyto
+ciuj:
+- moyto
 civila:
 - civil
 - minxi
@@ -4599,9 +4605,7 @@ de iu ajn alia:
 - he_alosu
 de iu alia:
 - alosu
-de nun:
-- xorfe_nunya
-de sama persono:
+de la sama:
 - samasu
 de tempo al tempo:
 - fe_duli_mara
@@ -4990,7 +4994,6 @@ depende de:
 - offol
 depende je:
 - fe_offolo_fe
-- offol
 dependeco:
 - burfilya
 - burikaw
@@ -5152,10 +5155,8 @@ detruite:
 detruo:
 - destrui
 deva:
-- gimu
 - musi
 deve:
-- gimu
 - musi
 devena:
 - aselli
@@ -5190,7 +5191,6 @@ devi:
 deviga:
 - bisu
 - gimu
-- musi
 devige:
 - bisu
 - gimu
@@ -5316,8 +5316,6 @@ difektiĝi:
 difekto:
 - fubay
 - kweten
-diferenca:
-- alo
 diferenci:
 - aloya
 diferenco:
@@ -5926,10 +5924,11 @@ dum:
 - durki
 - fe_kompara_ki
 - dur
-dum i:
 - dur_na
-dum kiam:
-- durki
+dum la tuta:
+- dur_total
+dum tuta:
+- dur_total
 dum-:
 - dur-
 duma:
@@ -6236,6 +6235,8 @@ ekde antaŭ kiam:
 ekde kiam:
 - xorfe_ki
 - xorki
+ekde nun:
+- xorfe_nunya
 ekdormi:
 - xorsomno
 ekdormo:
@@ -6314,8 +6315,6 @@ ekmalhavi:
 eko:
 - xorucu
 eko-:
-- eko-
-eko- ekologio:
 - eko-
 ekologio:
 - ekologi
@@ -6409,8 +6408,6 @@ eksiĝi:
 - exergocu
 eksiĝo:
 - exergocu
-ekskluzive de:
-- fe_exkludi_fe
 ekskluzivi:
 - exkludi
 ekskluzivita:
@@ -6475,7 +6472,6 @@ ekstazo:
 - dayhoxya
 ekster:
 - ex
-- fe_exya_de
 ekster-:
 - ex-
 ekstera:
@@ -6566,11 +6562,11 @@ ekvivalenta:
 ekvivalente:
 - egaljacipul
 - jaciegal
-ekzakte sama:
-- he_sama
-ekzakte samo:
+ekzakte la sama:
 - he_samate
 - he_samato
+ekzakte sama:
+- he_sama
 ekzameneti:
 - lileksame
 ekzameneto:
@@ -6904,8 +6900,6 @@ emeritiĝi:
 - tweji
 emfaza:
 - enfasispul
-emfaza partikulo:
-- he
 emfaze:
 - enfasispul
 emfazi:
@@ -6918,8 +6912,6 @@ emfazo:
 - enfasis
 emi:
 - filya
-- sen_peldo
-emi i:
 - sen_peldo
 emisii:
 - disgongin
@@ -6946,14 +6938,8 @@ emuo:
 en:
 - fe
 - in
-en aktiva stato de:
-- -ne
-en aliaj vortoj:
-- fe_alo_lexi
 en aresto:
 - fe_aresto
-en granda grado:
-- multimo
 en interŝanĝo:
 - fe_porya
 en iu ajn alia loko:
@@ -6962,22 +6948,18 @@ en kazo de:
 - fe_kaso_fe
 - fe_okur_fe
 en kiu:
-- hu_denloka
 - hu_in_da
-en komparo kun:
-- kom
 en la centro:
 - fe_centro
+en la centro de:
+- fe_centro_de
 en la kazo de:
-- fe_kaso_de
 - fe_okur_fe
 en la komenco:
 - fe_xoru
 en la mezo:
-- fe_centro
 - fe_midiya
 en la mezo de:
-- fe_centro_de
 - fe_midiya_de
 en la okazo se:
 - fe_kaso_ki
@@ -6986,8 +6968,6 @@ en la okuloj de:
 en la pasinteco:
 - fe_ledin
 - fe_leya
-en la proksima estonteco:
-- fe_ner_xaya
 en n:
 - cel_in
 en pasintaj tagoj:
@@ -7001,8 +6981,6 @@ en ĉi tiu kazo:
 en ĉiu:
 - dur_moyun
 - fe_moyun
-en ĉiu loko kie:
-- moyloka_hu
 en-:
 - in-
 ena:
@@ -7385,6 +7363,7 @@ erudicia:
 erudicie:
 - eskoldo
 escepte de:
+- fe_exkludi_fe
 - minus
 escepto:
 - minusxey
@@ -7680,7 +7659,6 @@ estonta:
 - xa-
 - xali
 estonte:
-- xa-
 - fe_xaya
 - xali
 estontece:
@@ -8957,9 +8935,12 @@ fo:
 - ife
 fobio:
 - fobi
+foja:
+- dumarali
 foje:
 - fe_duli_mara
 - fe_dumara
+- dumarali
 fojno:
 - suhegras
 fojo:
@@ -10626,7 +10607,6 @@ hasto:
 - ajela
 havante:
 - harki
-- har
 havebla:
 - hareible
 haveble:
@@ -10966,8 +10946,6 @@ holmio:
 - holmyum
 holo-:
 - holo-
-holo- holografio, holomorfa:
-- holo-
 holoceno:
 - holocen
 holografiaĵo:
@@ -11153,8 +11131,6 @@ hurlo:
 - haulsa
 i:
 - iya
-i ajn:
-- he_ban
 i-:
 - ban
 i-vorto:
@@ -11163,17 +11139,15 @@ ia:
 - banpul
 ia ajn:
 - he_banpul
-iafoja:
-- dumarali
 iafoje:
 - fe_duli_mara
 - fe_dumara
-- dumarali
 ial:
 - banseba
 iam:
 - leli_banwatu
 - xali_banwatu
+- fe_ban_mara
 - fe_xadin
 - banwatu
 iam adis:
@@ -11181,12 +11155,11 @@ iam adis:
 iam ajn:
 - he_banwatu
 iam estonte:
-- xali_banwatu
 - fe_xadin
-iam kutimis i:
+iam estontence:
+- fe_ban_xali_watu
+iam kutimis:
 - le_du-
-iam pasinte:
-- leli_banwatu
 ideala:
 - ideal
 ideale:
@@ -11201,8 +11174,6 @@ idiotismo:
 - sugu
 ido:
 - ofxey
-ido-:
-- juni
 idoligi:
 - idolgi
 idoligo:
@@ -11221,6 +11192,11 @@ ie ajn:
 - he_banloka
 iel:
 - banmaner
+- banmo
+- banpul
+iel ajn:
+- he_banmo
+- he_banpul
 ies:
 - bansu
 ies ajn:
@@ -11258,8 +11234,17 @@ ili:
 ili mem:
 - he_ete
 ilia:
+- dasu
 - etesu
 - otosu
+ilin:
+- da
+- ete
+- femete
+- manete
+- oto
+ilin mem:
+- he_ete
 ilo:
 - fon
 - maxina
@@ -11381,8 +11366,6 @@ imunigite:
 - menikido
 imunigo:
 - dumeniki
-in neaktiva stato de:
-- -do
 ina:
 - fem
 incenso:
@@ -11488,10 +11471,6 @@ inece:
 - femsim
 ineco:
 - femya
-infamia:
-- burxohrapul
-infamie:
-- burxohrapul
 infamio:
 - burxohra
 infanaĉo:
@@ -11626,6 +11605,7 @@ inklina:
 - -fil
 inklina al:
 - fil
+- -fil
 inkline:
 - fil
 - -fil
@@ -11863,8 +11843,6 @@ interago:
 - intreaksyon
 interdiskuto:
 - intrediskusi
-interdume:
-- fe_durya
 intere:
 - fe_intreya
 - intreli
@@ -11978,6 +11956,7 @@ interrompo:
 - intreloga
 - jundwan
 intertempe:
+- fe_durya
 - fe_intrewatu
 intertraktado:
 - zakere
@@ -12115,16 +12094,20 @@ io ajn:
 io ajn alia:
 - he_aloto
 io alia:
+- alo_banto
 - aloto
-ioj:
-- banoto
+- ban_aloto
 iom:
 - semi
 - bankwanti
-- banmo
+- hinmo
 iom ajn:
 - he_bankwanti
 - he_banmo
+iom ajn da:
+- he_bankwanti
+iom da:
+- bankwanti
 iom da tempo:
 - kurto_watu
 iom post iom:
@@ -12135,8 +12118,6 @@ iomete:
 - xosu
 - lilmo
 - xosumo
-iomete antaŭ verbo:
-- xosu
 ionia maro:
 - yonyo
 ipsilono:
@@ -12211,23 +12192,26 @@ iterbio:
 itrio:
 - itryum
 iu:
+- un
 - ban
 - bante
 iu ajn:
 - he_ban
 - he_bante
+- he_banto
 iu ajn alia:
 - he_alo
 - he_alote
+- he_aloto
 iu alia:
+- alo_bante
 - alote
-iufoja:
-- dumarali
+- ban_alote
 iufoje:
 - fe_ban_mara
-- dumarali
 iuj:
 - banete
+- banoto
 iĉa:
 - man
 iĉe:
@@ -12240,8 +12224,6 @@ iĝo:
 - xorsen
 iĥtiologio:
 - mahilogi
-iŝi:
-- femete
 iŝmael:
 - ismael
 ja:
@@ -12302,12 +12284,6 @@ je dio:
 - fe_teo
 je iu estinta fojo:
 - fe_ban_leli_watu
-je iu estonta fojo:
-- fe_ban_xali_watu
-je iu fojo:
-- fe_ban_mara
-je kiu:
-- hu_denwatu
 jemeno:
 - yemen
 jen:
@@ -12429,8 +12405,6 @@ junece:
 - junisim
 junio:
 - mesi_sisa
-junul-:
-- juni
 junulino:
 - juniyen
 junulo:
@@ -12517,7 +12491,6 @@ kaj:
 - iji
 - ji
 kaj ankaŭ:
-- ji
 - ji_pia
 kaj cetere:
 - ji_max_ete
@@ -12772,6 +12745,8 @@ kaosece:
 kaoso:
 - kaos
 kapabla:
+- abil
+kapable:
 - abil
 kapabli:
 - abil
@@ -13207,16 +13182,15 @@ kegloludo:
 - bowlin
 keglopilko:
 - bowlinbol
-kelkafoje:
-- dumarali
 kelkaj:
 - plu
 - bannumer
+kelkfoja:
+- dumarali
 kelkfoje:
 - fe_duli_mara
 - fe_dumara
 - dumarali
-- plu
 kelo:
 - baxcengu
 kelta:
@@ -13257,10 +13231,6 @@ keĉapo:
 - kecapu
 keĉupo:
 - kecapu
-ki-:
-- ke
-ki- por demandi pri la sekva vorto:
-- ke
 kia:
 - denpul_kom
 - daydenpul
@@ -13293,11 +13263,14 @@ kiel:
 - denmaner_hu
 - denpul_kom
 - kemaner
+- kemo
 - kepul
 kiel eble plej:
 - maximummo
 kiel eble plej malmultaj:
 - minimum_te
+- minimum_to
+kiel eble plej malmulte:
 - minimum_to
 kiel eble plej multaj:
 - maximum_te
@@ -13340,12 +13313,12 @@ kio:
 - keto
 kio ajn:
 - he_keto
-kioj:
-- keoto
 kiom:
+- kenumer
 - kekwanti
 - kemo
 kiom da:
+- kenumer
 - kekwanti
 kiosko:
 - kyosko
@@ -13408,17 +13381,22 @@ kiu:
 - hu_da
 - ke
 - kete
+- keto
 kiu ajn:
 - he_ke
 - he_kete
+- he_keto
 kiu devus:
 - ingay
-kiu nombro:
-- kenumer
-kiu nombro da:
-- kenumer
+kiu devus esti ita:
+- gimu
+kiu devus okazi:
+- gimu
 kiuj:
 - keete
+- keoto
+kiun:
+- hu_da
 kivifrukto:
 - kiwifruta
 kivio:
@@ -13885,8 +13863,6 @@ kompakte:
 - tange
 kompanio:
 - firma
-kompare al:
-- fe_kompara_fe
 kompare kun:
 - fe_kompara_fe
 kompari:
@@ -14543,6 +14519,10 @@ kontraŭago:
 - oposaksyon
 kontraŭanto:
 - antiyen
+kontraŭbakteria:
+- antibakuterili
+kontraŭbakterie:
+- antibakuterili
 kontraŭbatali:
 - antijento
 kontraŭbatalo:
@@ -15105,6 +15085,7 @@ kroatujo:
 krokodilo:
 - krokodil
 krom:
+- maxus
 - minus
 krom se:
 - minus_eger
@@ -15277,8 +15258,6 @@ kun:
 - harki
 - har
 - ton
-kun aldono de:
-- maxus
 kun-:
 - har-
 - ton-
@@ -15540,7 +15519,7 @@ kutime:
 - xugwanpul
 kutimi:
 - xugwan
-kutimis ___i:
+kutimis:
 - le_du-
 kutimo:
 - rutina
@@ -15690,6 +15669,12 @@ la albana:
 - exkiperisa
 la albana lingvo:
 - exkiperisa
+la alia:
+- alote
+- aloto
+la aliaj:
+- aloete
+- alooto
 la amhara:
 - amarasa
 la amhara lingvo:
@@ -15716,10 +15701,6 @@ la asama lingvo:
 - ohomsa
 la atlantiko:
 - bahari_atlantiko
-la azera:
-- azerbayjansa
-la azera lingvo:
-- azerbayjansa
 la azerbajĝana:
 - azerbayjansa
 la azerbajĝana lingvo:
@@ -15826,12 +15807,12 @@ la hungara lingvo:
 - magyarsa
 la ilia:
 - etesu_te
+- etesu_to
 - otosu_te
 - otosu_to
 la iliaj:
 - etesu_ete
 - etesu_oto
-- etesu_to
 - otosu_ete
 - otosu_oto
 la indonezia:
@@ -15960,6 +15941,8 @@ la maldiva:
 - divehisa
 la maldiva lingvo:
 - divehisa
+la malplej:
+- minim
 la malta:
 - maltasa
 la malta lingvo:
@@ -16038,6 +16021,8 @@ la persa:
 - parsisa
 la persa lingvo:
 - parsisa
+la plej:
+- maxim
 la pola:
 - polskasa
 la pola lingvo:
@@ -16063,18 +16048,12 @@ la rusa lingvo:
 la sama:
 - samate
 - samato
-la sama afero:
-- samato
 la sama nombro:
 - samanumer
-la sama nombro de:
+la sama nombro da:
 - samanumer
-la sama persono:
-- samate
 la samaj:
 - samaete
-- samaoto
-la samaj aferoj:
 - samaoto
 la samoa:
 - samoasa
@@ -16134,9 +16113,9 @@ la telugua lingvo:
 - telugusa
 la tero:
 - dunya
-la tongana:
+la tonga:
 - tongasa
-la tongana lingvo:
+la tonga lingvo:
 - tongasa
 la turka:
 - turkisa
@@ -16253,10 +16232,6 @@ lacigante:
 lacigi:
 - pilo
 - xorpilo
-lacigita:
-- pilodo
-lacigite:
-- pilodo
 lacigo:
 - xorpilo
 laciĝi:
@@ -16396,7 +16371,6 @@ lastatempa:
 - dunerleli
 lastatempe:
 - nerlelimo
-- fe_ner_leya
 - fe_nerleli_watu
 - dunerleli
 lateksa:
@@ -16757,6 +16731,7 @@ li:
 li mem:
 - he_te
 lia:
+- dasu
 - tesu
 libanano:
 - lubanonyen
@@ -16770,8 +16745,6 @@ libere:
 - huru
 libereco:
 - huruya
-liberia:
-- liberi
 liberigi:
 - hurugi
 liberigo:
@@ -16847,8 +16820,6 @@ ligna blov-:
 - moksayventoli
 ligne:
 - moksayli
-ligne blov-:
-- moksayventoli
 ligno:
 - moksay
 lignobloko:
@@ -16917,6 +16888,12 @@ limono:
 - limon
 limuzino:
 - limusin
+lin:
+- da
+- mante
+- te
+lin mem:
+- he_te
 lingva:
 - basali
 lingvamanto:
@@ -17157,9 +17134,9 @@ longe antaŭ ol:
 - teli_lefe_na
 longe post:
 - teli_xafe
+- teli_xafe_na
 longe post kiam:
 - teli_xafe_ki
-- teli_xafe_na
 longeco:
 - lungoya
 - lungoje
@@ -17891,8 +17868,6 @@ malfirme:
 - nenandin
 malfono:
 - frontasahni
-malfor-:
-- pre-
 malforta:
 - daifu
 malfortaĵo:
@@ -18291,6 +18266,8 @@ malmorale:
 - dodukumal
 malmulta:
 - xosu
+malmultaj:
+- xosu
 malmulte:
 - xosu
 malmulte da:
@@ -18405,6 +18382,10 @@ malpleniĝo:
 malpli:
 - min
 - minmo
+malpli da:
+- min
+malpli da ol:
+- min_kom
 malpli ol:
 - min_kom
 - minmo_kom
@@ -18444,7 +18425,6 @@ malproksima:
 - teli-
 - teli
 malproksime:
-- teli-
 - teli
 malproksime de:
 - teli_fe
@@ -18507,13 +18487,16 @@ malriĉa je:
 - -lil
 malriĉe:
 - pesakal
+malriĉe je:
+- -lil
 malriĉeco:
 - pesakalya
 malsama:
 - nensim
-- alo
+- alopul
 malsame:
 - nensim
+- alopul
 malsame ol:
 - alopul_kom
 malsameco:
@@ -18649,6 +18632,7 @@ malsupra:
 malsupre:
 - fe_infer
 - fe_infracengu
+- fe_peda
 - infrali
 malsupre de:
 - fe_peda_de
@@ -18697,9 +18681,9 @@ maltroviĝi:
 maltrovo:
 - sonxi
 malutila:
-- beyongukal
+- funsyonkal
 malutile:
-- beyongukal
+- funsyonkal
 malvarma:
 - bardipul
 malvarme:
@@ -19025,20 +19009,12 @@ mariĥuano:
 marki:
 - label
 - marka
-markilo de estonteca tempo:
-- xa
-markilo de estonteca tempo simile al -os:
-- xa
-markilo de imperativa verbo:
-- am
 markilo de netransativa verbo:
 - -cu
 markilo de pasiva voĉo:
 - be-
-markilo de poseda adjektivo:
+markilo de poseda adjektivo nur por pronomoj:
 - -su
-markilo de propra nomo_:
-- di
 markita:
 - markado
 markite:
@@ -19668,7 +19644,6 @@ meze:
 - fe_midiya
 - midi
 meze de:
-- fe_centro_de
 - fe_midiya_de
 mezgranda:
 - mididay
@@ -19808,6 +19783,10 @@ milito:
 - jange
 milono:
 - mili
+min:
+- mi
+min mem:
+- he_mi
 minaci:
 - infobigi
 - tehdidu
@@ -20450,9 +20429,10 @@ mulo:
 - bagala
 multa:
 - multi
+multaj:
+- multi
 multe:
 - multi
-- multimo
 multe da:
 - multi
 multe malpli:
@@ -20469,8 +20449,6 @@ multekosta:
 - kimapul
 multekoste:
 - kimapul
-multfoje:
-- dumarali
 multigi:
 - plugi
 multigo:
@@ -20766,18 +20744,18 @@ naŭziĝi:
 naŭziĝo:
 - ufuecu
 ne:
+- le_no
+- xa_no
 - "no"
+ne dankinde:
+- no_hay_seba
+- wal_seba
 ne gravas:
 - posjui
-ne is:
-- le_no
 ne kapabli:
 - nenabil
-ne os:
-- xa_no
 ne per:
 - nenyon
-ne per i:
 - nenyon_na
 ne plu:
 - no_haji
@@ -20860,9 +20838,6 @@ nedamaĝita:
 nedamaĝite:
 - nensungaydo
 - sungaykal
-nedankinde:
-- no_hay_seba
-- wal_seba
 nedaŭra:
 - durwatuli
 - finipul
@@ -20883,11 +20858,10 @@ nederlandano:
 - nederiyen
 nederlando:
 - nederi
-nedeviga markilo de propra nomo:
+nedeviga markilo de propra nomo aŭ kulturspecifa vorto:
 - di
-? nedeviga verba partikulo kun la signifo de nun aŭ du- por eviti riskon de konfuzi
-  la sinsekvo substantivo verbo kun kumetaĵo substantivo-substantivo dum formala parolado
-: - u
+nedeviga verba partikulo kun la signifo de nun aŭ du-:
+- u
 nedormemeco:
 - somnoosis
 neduala:
@@ -20987,6 +20961,8 @@ nek:
 nek ...nek...:
 - noro
 nekapabla:
+- nenabil
+nekapable:
 - nenabil
 nekapableco:
 - nenabilya
@@ -21096,11 +21072,7 @@ nenecesa:
 nenecese:
 - behajakal
 - nenhajado
-neni ajn:
-- he_nil
 neni-:
-- nil
-neni- korelativa parto:
 - nil
 nenia:
 - nilpul
@@ -21113,6 +21085,7 @@ nenie:
 neniel:
 - nilmaner
 - nilmo
+- nilpul
 nenies:
 - nilsu
 neniigi:
@@ -21120,26 +21093,29 @@ neniigi:
 neniigo:
 - niltogi
 nenio:
-- nil
 - nilto
 nenio ajn:
-- he_nilte
 - he_nilto
-nenioj:
-- niloto
 neniom:
 - nilkwanti
+- nilnumer
 - nilmo
+neniom da:
+- nilkwanti
+- nilnumer
 neniu:
+- nil
 - nilte
+- nilto
 neniu ajn:
 - he_nil
+- he_nilte
+- he_nilto
 neniu alia ol:
 - nil_alote_kom
-neniu nombro:
-- nilnumer
-neniuj:
+neniu el ili:
 - nilete
+- niloto
 nenjo:
 - nene
 nenoca:
@@ -21279,9 +21255,9 @@ netrinkebla:
 netrinkeble:
 - glunenible
 neutila:
-- beyongukal
+- funsyonkal
 neutile:
-- beyongukal
+- funsyonkal
 nevalida:
 - yukyokal
 nevalide:
@@ -21347,11 +21323,10 @@ neŭtre:
 neŭtrono:
 - newtron
 ni:
+- imi_am
 - imi
 ni mem:
 - he_imi
-ni u:
-- imi_am
 nia:
 - imisu
 nigra:
@@ -21385,6 +21360,10 @@ nimfeo:
 - nelufar
 nimfo:
 - ninfa
+nin:
+- imi
+nin mem:
+- he_imi
 niobio:
 - nyobyum
 nipono:
@@ -21567,7 +21546,7 @@ nudisto:
 - nudiista
 nuklea:
 - atomuli
-nukleenergie:
+nuklee:
 - atomuli
 nukleo:
 - nukleus
@@ -21598,7 +21577,6 @@ nuntempa:
 - hinwatuli
 nuntempe:
 - fe_nunli_din
-- dur_nunya
 - fe_nunya
 - hinwatuli
 nur:
@@ -21822,8 +21800,6 @@ okcidenta:
 - garebili
 okcidente:
 - garebili
-okcidenten:
-- garebili
 okcidento:
 - garebi
 okdek:
@@ -21940,6 +21916,8 @@ onidiro:
 - fumbun
 onikso:
 - onikse
+onin:
+- ren
 onjo:
 - titi
 onklino:
@@ -22712,8 +22690,6 @@ partigi:
 - bage
 partikulo:
 - partikul
-partikulo pri tuja proksimeco tempa aŭ loka:
-- ja-
 partio:
 - taraf
 - taraftim
@@ -23024,7 +23000,6 @@ peono:
 per:
 - yon-
 - yon
-per i:
 - yon_na
 percepti:
 - ganci
@@ -23244,8 +23219,6 @@ pesto:
 - tawni
 petalo:
 - petalo
-pete:
-- fe_peti
 petegi:
 - daypeti
 petego:
@@ -23579,6 +23552,14 @@ plej bona:
 - maxim_bon
 plej bone:
 - maxim_bon
+plej freŝdata:
+- maxim_nerleli
+plej freŝdate:
+- maxim_nerleli
+plej lastatempa:
+- maxim_nerleli
+plej lastatempe:
+- maxim_nerleli
 plejaĉa:
 - pesima
 plejaĉe:
@@ -23672,19 +23653,18 @@ plezuro:
 pli:
 - max
 - maxmo
-pli aŭ malpli:
-- maxmin
-- maxmo_or_minmo
-pli aŭ malpli baldaŭ:
-- fe_ner_or_teli_xaya
 pli bona:
 - maxmo_bon
 pli bone:
 - maxmo_bon
+pli da:
+- max
+pli da ol:
+- max_kom
+pli frua:
+- maxmo_jaldi
 pli frue:
 - maxmo_jaldi
-pli lastatempe:
-- maxim_nerleli
 pli ol:
 - max_kom
 - maxmo_kom
@@ -23692,10 +23672,15 @@ pli precize:
 - maxmo_sahi
 pli ĝuste:
 - maxmo_sahi
-pli ĵuse:
-- maxim_nerleli
 pli-:
 - max-
+pli-malpli:
+- maxmin
+- maxminmo
+- max_or_min
+- maxmo_or_minmo
+pli-malpli baldaŭ:
+- fe_ner_or_teli_xaya
 pli-malpli bona:
 - semibon
 pli-malpli bone:
@@ -23722,8 +23707,6 @@ pliboniĝi:
 - maxboncu
 pliboniĝo:
 - maxboncu
-plie:
-- ji_pia
 pligrandigi:
 - maxdaygi
 pligrandigo:
@@ -23756,8 +23739,6 @@ plimalgrandigi:
 - maxlilgi
 plimalgrandigo:
 - maxlilgi
-plimalpli:
-- max_or_min
 plimalrapidigi:
 - maxhanmangi
 plimalrapidigo:
@@ -23826,20 +23807,15 @@ plumo:
 - yumaw
 plur-:
 - plu-
-plura:
-- plu
 pluraj:
 - plu-
+- plu
 plurangulo:
 - plugon
-plure:
-- plu
 plureco:
 - pluya
 pluredro:
 - pluhedro
-plurfoje:
-- dumarali
 plurlatero:
 - plugon
 plurlingvulo:
@@ -24055,17 +24031,14 @@ popularigi:
 popularigo:
 - populergi
 por:
+- cel_na
 - por-
 - cel
 - fe
 - por
 - pro
-por i:
-- cel_na
 por ke:
 - celki
-por la momento:
-- dur_nunya
 por la okazo ke:
 - fe_kaso_ki
 por sia parto:
@@ -24164,6 +24137,8 @@ post nelonge:
 post tio:
 - xafe_dento
 - xafe_to
+post-:
+- xafe
 postalveola:
 - gingivarukeli
 postalveolara:
@@ -24256,6 +24231,7 @@ pova:
 - abil
 pove:
 - kowapul
+- abil
 povi:
 - abil
 povi aĉeti:
@@ -24360,7 +24336,6 @@ preferate:
 prefere:
 - fe_preferi
 prefere ol:
-- fe_tayti_ki
 - fe_preferi_kom
 preferi:
 - preferi
@@ -24626,7 +24601,6 @@ pro tio:
 pro tio ke:
 - fe_folo_ki
 - fe_kosa_ki
-- koski
 probabla:
 - dayible
 probable:
@@ -24651,7 +24625,6 @@ proceduro:
 - aksyonkadam
 procento:
 - ofcen
-- centi
 procesi:
 - dakwa
 - saypan
@@ -24795,6 +24768,7 @@ proksimo:
 proksimuma:
 - daju
 proksimume:
+- ner_fe
 - daju
 prokuroro:
 - dakwayen
@@ -24816,11 +24790,6 @@ promeso:
 - vada
 prometio:
 - prometyum
-'pron:':
-- alo_bante
-- alo_banto
-- ban_alote
-- ban_aloto
 pronoma posesivo:
 - suyali_pornamelexi
 pronomo:
@@ -24945,6 +24914,8 @@ provizite:
 provizo:
 - gongin
 - haregi
+provizore:
+- dur_nunya
 provlegado:
 - monidoxo
 provleganto:
@@ -25695,8 +25666,6 @@ rentgenio:
 - rengenyum
 rentumo:
 - lixiku
-renverse:
-- rupul
 reokazanta:
 - riokurne
 reokazante:
@@ -25905,8 +25874,6 @@ retpoŝtadreso:
 - netopostali_adresu
 retpoŝto:
 - netoposta
-retro:
-- rupul
 retro-:
 - ru-
 retroa:
@@ -26032,6 +25999,7 @@ ri:
 ri mem:
 - he_te
 ria:
+- dasu
 - tesu
 ribelanto:
 - panlanyen
@@ -26161,6 +26129,11 @@ rimi:
 - kafya
 rimo:
 - kafya
+rin:
+- da
+- te
+rin mem:
+- he_te
 ringo:
 - darihalke
 - halke
@@ -26642,6 +26615,7 @@ salvio:
 - maryami
 sama:
 - sama
+- samapul
 sama kvanto:
 - samakwanti
 sama kvanto da:
@@ -26654,20 +26628,20 @@ samario:
 - samaryum
 - samari
 same:
-- sama
 - samamo
+- samapul
+samkiale:
+- samaseba
+samkvante:
+- samakwanti
 samloke:
 - samaloka
 sammaniere:
 - samamaner
-samo:
-- samato
 samoa:
 - samoali
 samoano:
 - samoayen
-samoj:
-- samaoto
 samoo:
 - samoa
 samopinii:
@@ -26697,8 +26671,6 @@ samtempe:
 - samawatu
 samuel:
 - samwel
-samulo:
-- samate
 san-marino:
 - san_marino
 sana:
@@ -27115,9 +27087,8 @@ sen:
 - nenton
 - wal
 - nenhar_na
-- wal_na
-sen i:
 - nenyon_na
+- wal_na
 sen ke:
 - walki
 sen-:
@@ -27461,9 +27432,9 @@ sentrompa:
 sentrompe:
 - cipenkal
 senutila:
-- beyongukal
+- funsyonkal
 senutile:
-- beyongukal
+- funsyonkal
 senvida:
 - okonenabil
 senvide:
@@ -27795,8 +27766,6 @@ sin:
 - se
 sin prostitui:
 - kahabuergo
-sin sed ne nur por la tria persono:
-- se
 sin-:
 - se-
 sinbani:
@@ -28354,15 +28323,21 @@ specifa:
 specife:
 - especifi
 specife tio:
-- he_dente
 - he_dento
+specife tio ĉi:
+- he_hinto
 specife tiu:
 - he_den
-specife ĉi tio:
+- he_dente
+- he_dento
+specife tiu ĉi:
+- he_hin
 - he_hinte
+specife ĉi tio:
 - he_hinto
 specife ĉi tiu:
 - he_hin
+- he_hinte
 specifi:
 - especifigi
 specifo:
@@ -28470,6 +28445,8 @@ spirito:
 - xabahu
 spiro:
 - nafasu
+spite tion:
+- fe_hataya
 spito:
 - hataya
 spongo:
@@ -28814,8 +28791,6 @@ sturno:
 sub:
 - bax
 - infra
-sub la libera ĉielo:
-- bax_asman
 sub-:
 - bax-
 - infra-
@@ -29466,8 +29441,6 @@ tajpite:
 - taypudo
 tajpo:
 - taypu
-tajujo:
-- taywan
 tajvano:
 - taywan
 tako:
@@ -29930,6 +29903,8 @@ teĥnologie:
 - teknoli
 ti-:
 - den
+ti-  ĉi:
+- hin
 tia:
 - denpul
 tia ĉi:
@@ -29965,13 +29940,24 @@ tiea:
 tiee:
 - denlokali
 tiel:
+- daydenmo
 - denmaner
+- denmo
+- denpul
 tiel ke:
 - ki_fe_folo
+tiel multe:
+- daydenmo_multi
+tiel multe da:
+- daydenmo_multi
 tiel ĉi:
 - hinmaner
+- hinpul
 tiel, kiel:
 - denmaner_hu
+- denpul_kom
+tiel... kiel...:
+- denmo_kom
 ties:
 - densu
 ties ĉi:
@@ -30081,8 +30067,6 @@ tio:
 - dento
 tio ĉi:
 - hinto
-tioj:
-- denoto
 tiom:
 - daydennumer
 - daydenkwanti
@@ -30092,17 +30076,20 @@ tiom:
 tiom da:
 - daydennumer
 - daydenkwanti
+- denkwanti
 tiom multe:
-- daydenmo_multi
+- denmo_multi
+tiom multe da:
 - denmo_multi
 tiom ĉi:
+- hinkwanti
+tiom ĉi da:
 - hinkwanti
 tiom... kiom...:
 - denmo_kom
 tipa:
 - tipoli
 tipe:
-- fe_xugwan
 - tipoli
 tipo:
 - tipo
@@ -30133,16 +30120,30 @@ titolo:
 tiu:
 - den
 - dente
+- dento
 tiu nombro:
 - dennumer
+tiu nombro da:
+- dennumer
 tiu ĉi:
+- hin
 - hinte
+tiu ĉi nombro:
+- hinnumer
+tiu ĉi nombro da:
+- hinnumer
 tiuj:
 - denete
+- denoto
 tiuj ĉi:
 - hinete
+- hinoto
 tiukaze:
 - fe_den_kaso
+tiunombre:
+- dennumer
+tiunombre da:
+- dennumer
 tiutempa:
 - samawatuli
 tiutempe:
@@ -30239,13 +30240,8 @@ tosti:
 - bonglu
 tosto:
 - bonglu
-totale dum:
-- dur_total
 tra:
 - pas
-tra la tuto de:
-- total_dur
-- dur_total
 tra-:
 - pas-
 tradicia:
@@ -30515,8 +30511,8 @@ traŭmato:
 tre:
 - multi
 - daymo
-tre antaŭ verbo:
-- multi
+- multimo
+- day
 treege:
 - daydaymo
 trejnado:
@@ -30554,8 +30550,6 @@ treti:
 trezoro:
 - hazina
 tri:
-- tiga
-tri-:
 - tiga
 tria:
 - tigayum
@@ -30647,14 +30641,13 @@ triumfo:
 - triunfa
 tro:
 - godomo
+- godo
 tro da:
 - godo
 troa:
 - godo
 trodozo:
 - ultradose
-troe:
-- godo
 trofeo:
 - trofe
 trofrua:
@@ -30756,7 +30749,10 @@ tubo:
 - tubo
 tubsonoriloj:
 - tuborinjon
+tui ĉi:
+- hinto
 tuj:
+- jaxa
 - fori
 tuj antaŭ:
 - jalefe
@@ -30772,24 +30768,24 @@ tuj kiam:
 tuj post:
 - jaxafe
 - fori_xafe
+- fori_xafe_na
+- jaxafe_na
 tuj post kiam:
 - fori_xafe_ki
 - jaxafe_ki
-- fori_xafe_na
-- jaxafe_na
+tuj proksima:
+- ja-
 tuja:
 - fori
 tujantaŭa:
 - jaleli
 tujantaŭe:
-- jale
 - jaleli
 tuje:
 - fori
 tujposta:
 - jaxali
 tujposte:
-- jaxa
 - jaxali
 tukano:
 - tukan
@@ -30911,7 +30907,6 @@ tute dum:
 - total_dur
 tute ĉirkaŭ:
 - total_wey
-- wey_total
 tuteco:
 - totalya
 tutgrajna:
@@ -30996,10 +30991,14 @@ unio:
 - uncu
 unito:
 - unxey
+universa:
+- kosmoli
 universala:
 - moyli
 universale:
 - moyli
+universe:
+- kosmoli
 universitato:
 - universita
 universo:
@@ -31058,7 +31057,7 @@ ununure:
 unuo:
 - unxey
 - unyen
-unuopaĵo:
+unuopa:
 - un_solo
 unuopulo:
 - person
@@ -31131,9 +31130,9 @@ usono:
 utero:
 - rahim
 utila:
-- beyongupul
+- funsyonpul
 utile:
-- beyongupul
+- funsyonpul
 uvula:
 - uvulali
 uvulara:
@@ -31148,6 +31147,8 @@ uzado:
 - yongu
 uzanto:
 - yonguyen
+uzata en nerektaj demandoj:
+- ku
 uzbeka:
 - ozbekili
 uzbekio:
@@ -31708,13 +31709,9 @@ vi:
 vi mem:
 - he_uyu
 - he_yu
-vi plurala:
-- uyu
 via:
 - uyusu
 - yusu
-via plurala:
-- uyusu
 viandisto:
 - masoyen
 viando:
@@ -31743,8 +31740,6 @@ vicfratino:
 - kwasisodar
 vicfrato:
 - kwasisodar
-vicnombra numeralo:
-- -yum
 vico:
 - satari
 - turno
@@ -31822,6 +31817,12 @@ vilaĝo:
 - deha
 vilhelmo:
 - wilyemu
+vin:
+- uyu
+- yu
+vin mem:
+- he_uyu
+- he_yu
 vinagro:
 - surka
 vinbero:
@@ -32543,26 +32544,29 @@ zumo:
 - hinloka
 ĉi tiel:
 - hinmaner
+- hinmo
+- hinpul
 ĉi ties:
 - hinsu
 ĉi tio:
 - hinto
-ĉi tioj:
-- hinoto
 ĉi tiom:
 - hinkwanti
-- hinmo
+ĉi tiom da:
+- hinkwanti
 ĉi tiu:
 - hin
 - hinte
+- hinto
+ĉi tiu nombro:
+- hinnumer
 ĉi tiu nombro da:
 - hinnumer
 ĉi tiuj:
 - hinete
+- hinoto
 ĉi-:
 - pre-
-- moy
-ĉi- korelativa parto:
 - moy
 ĉi-flanka alveno:
 - ciscu
@@ -32570,14 +32574,12 @@ zumo:
 - cis
 ĉi-flanko:
 - cisya
+ĉi-kaze:
+- fe_hin_kaso
 ĉi-nokte:
 - fe_hin_noce
-ĉi-tiukaze:
-- fe_hin_kaso
 ĉia:
 - moypul
-ĉia alia:
-- he_alo
 ĉial:
 - moyseba
 ĉiam:
@@ -32595,6 +32597,7 @@ zumo:
 ĉiel:
 - moymaner
 - moymo
+- moypul
 ĉiela:
 - janatusim
 ĉiela korpo:
@@ -32642,6 +32645,8 @@ zumo:
 - putunhwa
 ĉinokte:
 - fe_hin_noce
+ĉinombre:
+- hinnumer
 ĉinombre da:
 - hinnumer
 ĉinĉilo:
@@ -32649,11 +32654,11 @@ zumo:
 ĉio:
 - moyto
 ĉio ajn:
-- he_moyte
 - he_moyto
-ĉioj:
-- moyoto
 ĉiom:
+- moykwanti
+- moymo
+ĉiom da:
 - moykwanti
 ĉiopova:
 - moyabil
@@ -32667,8 +32672,9 @@ zumo:
 - cipsu
 ĉirkaŭ:
 - jowey
-- ner_fe
 - wey
+ĉirkaŭ la tuta:
+- wey_total
 ĉirkaŭ-:
 - wey-
 ĉirkaŭa:
@@ -32705,21 +32711,24 @@ zumo:
 - moyun
 - moy
 - moyte
+ĉiu -e:
+- dur_moyun
 ĉiu ajn:
 - he_moy
-ĉiu alia:
-- he_alo
+- he_moyte
+- he_moyto
 ĉiu nombro:
 - moynumer
-ĉiu unu:
-- moyun
+ĉiu nombro da:
+- moynumer
 ĉiu-:
 - moy-
 ĉiu-e:
-- dur_moyun
 - fe_moyun
 ĉiuj:
 - moyete
+- moyoto
+- moyte
 ĉiujara:
 - moynyanli
 ĉiujare:
@@ -32745,7 +32754,6 @@ zumo:
 ĉu:
 - e
 - kam
-- ku
 - kama
 ĉu ...ĉu...:
 - kama
@@ -32812,15 +32820,14 @@ zumo:
 - da
 - te
 - to
-ĝi kiam vivaĵo aŭ personigita aĵo:
-- te
 ĝia:
+- dasu
 - tosu
 ĝibo:
 - kuhan
 ĝin:
-- to
-ĝin nek vivaĵo, nek persono:
+- da
+- te
 - to
 ĝino:
 - jine
@@ -32849,7 +32856,6 @@ zumo:
 ĝis la supro:
 - cel_kapi
 ĝis nun:
-- dur_nunya
 - finfe_nunya
 ĝisdatigi:
 - nunligi
@@ -33005,7 +33011,6 @@ zumo:
 ĵuro:
 - seyeku
 ĵus:
-- nerlelimo
 - jale
 ĵusa:
 - jaleli
@@ -33164,6 +33169,7 @@ zumo:
 ŝi mem:
 - he_te
 ŝia:
+- dasu
 - tesu
 ŝika:
 - zarif
@@ -33182,6 +33188,12 @@ zumo:
 - kuvupul
 ŝimo:
 - kuvu
+ŝin:
+- da
+- femte
+- te
+ŝin mem:
+- he_te
 ŝinko:
 - hambo
 ŝipano:
