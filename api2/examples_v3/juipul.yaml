@@ -28,12 +28,11 @@
   - text: ' '
   - text: oko
     eng: 'oko (b.oj) n: eye; v.tr: eye, see, look, watch, view'
-    spa: oko (b.oj) ojo; ver, mirar
+    spa: 'oko (b.oj) s: ojo; v.tr: mirar, ver, observar'
   - text: ' '
   - text: ku
     eng: 'ku (l) conj: marks interrogative clauses in declarative sentences'
-    spa: ku (l) la respuesta a (+ preguntas con &#039;ke&#039;; cl&aacute;usulas interrogativas
-      en oraciones declarativas), lo
+    spa: 'ku (l) conj: si (marca interrogativas indirectas)'
   - text: ' '
   - text: mi
     eng: 'mi (pn) pron: I, me'
@@ -46,7 +45,8 @@
   - text: aksyon
     eng: 'aksyon (b.nenoj) n: action, activity, performance; v.intr: act, take action,
       perform, behave'
-    spa: aksyon (b.nenoj) acci&oacute;n, actividad; actuar (ponerse en acci&oacute;n)
+    spa: 'aksyon (b.nenoj) s: acci&oacute;n, actividad, actuaci&oacute;n; v.intr:
+      actuar, obrar, comportarse'
   - text: ' '
   - text: kemo
     eng: 'kemo (tabel: m) adv (interrogative): how, to what degree'
@@ -56,32 +56,32 @@
     eng: 'gomyo (t) adj: witty, clever, sharp, astute, ingenious, slick, crafty, sly,
       cunning, wily; adv: wittily, cleverly, sharply, astutely, ingeniously, craftily,
       slyly, cunningly'
-    spa: gomyo (t) ingenioso, astuto, pillo, listo, avispado, taimado, bellaco, sagaz;
-      ingeniosamente, astutamente
+    spa: 'gomyo (t) adj: ingenioso, astuto, sagaz; adv: ingeniosamente, astutamente'
   - text: '; '
   - text: daymo
     eng: 'daymo (m) adv: greatly (+ adj), very, really (+ adj), highly'
-    spa: daymo (m) muy (para describir adjetivos y adverbios), grandemente, altamente
+    spa: 'daymo (m) adv: muy (+ adj)'
   - text: ' '
   - text: juipul
     eng: 'juipul (t) adj: careful, cautious; adv: carefully, cautiously'
-    spa: juipul (t) cuidadoso, cauteloso; cuidadosamente, cautelosamente
+    spa: 'juipul (t) adj: cuidadoso, cauteloso, prudente; adv: cuidadosamente, con
+      cuidado'
   - text: ', '
   - text: daymo
     eng: 'daymo (m) adv: greatly (+ adj), very, really (+ adj), highly'
-    spa: daymo (m) muy (para describir adjetivos y adverbios), grandemente, altamente
+    spa: 'daymo (m) adv: muy (+ adj)'
   - text: ' '
   - text: cinonpul
     eng: 'cinonpul (t) adj: intelligent, smart; adv: intelligently, smartly'
-    spa: cinonpul (t) inteligente, listo; inteligentemente
+    spa: 'cinonpul (t) adj: inteligente, listo; adv: inteligentemente'
   - text: ', '
   - text: daymo
     eng: 'daymo (m) adv: greatly (+ adj), very, really (+ adj), highly'
-    spa: daymo (m) muy (para describir adjetivos y adverbios), grandemente, altamente
+    spa: 'daymo (m) adv: muy (+ adj)'
   - text: ' '
   - text: sirili
     eng: 'sirili (t) adj: secret; adv: secretly'
-    spa: sirili (t) secreto, confidencial; secretamente, confidencialmente
+    spa: 'sirili (t) adj: secreto; adv: en secreto, secretamente'
   - text: ', '
   - text: mi
     eng: 'mi (pn) pron: I, me'
@@ -93,7 +93,7 @@
   - text: ' '
   - text: ergo
     eng: 'ergo (b.oj.ru) n: work, labor, job; v.tr: work'
-    spa: ergo (b.oj.ru) trabajo, labor; trabajar, laborar
+    spa: 'ergo (b.oj.ru) s: trabajo, labor; v.tr: trabajar, laborar'
   - text: '!'
 - text: Ji jaxali, denwatu hu misu kapi le kompleto sen in kamer, mi le buka lenterna
     juipul, daymo juipul (koski bisagra le soti); mi le kufi buka to celki dambo radya
@@ -108,11 +108,11 @@
   translations:
   - text: Ji
     eng: 'ji (l) conj: and'
-    spa: ji (l) y, e, et, &amp;
+    spa: 'ji (l) conj: y (&quot;e&quot; ante i-/hi-)'
   - text: ' '
   - text: jaxali
     eng: 'jaxali (t) adj: next, (the) following; adv: then'
-    spa: jaxali (t) siguente, pr&oacute;ximo; a continuaci&oacute;n
+    spa: 'jaxali (t) adj: siguiente, pr&oacute;ximo; adv: luego, despu&eacute;s'
   - text: ', '
   - text: denwatu
     eng: 'denwatu (tabel: m) adv: then (at that time/moment)'
@@ -120,7 +120,7 @@
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
-    spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
+    spa: 'hu (l) conj (marcador de oraci&oacute;n de relativo): que, quien, el cual'
   - text: ' '
   - text: misu
     eng: 'misu (su s) poss adj: my'
@@ -137,7 +137,8 @@
   - text: kompleto
     eng: 'kompleto (t) adj: complete, absolute, whole; adv: completely, absolutely,
       wholly'
-    spa: kompleto (t) completo, absoluto; completamente, absolutamente
+    spa: 'kompleto (t) adj: completo, absoluto, total; adv: completamente, absolutamente,
+      totalmente'
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
@@ -145,7 +146,7 @@
   - text: ' '
   - text: in
     eng: 'in (p) prep: at (place), in (place), inside (of), within'
-    spa: in (p) en, dentro de
+    spa: 'in (p) prep: en, dentro de'
   - text: ' '
   - text: kamer
     eng: 'kamer (b) n: room, chamber'
@@ -162,7 +163,8 @@
   - text: buka
     eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
       open'
-    spa: buka (b.oro.harka) apertura; abrir; abrirse
+    spa: 'buka (b.oro.harka) s: abertura, apertura; v.tr: abrir; v.intr (uso opcional
+      de -cu): abrirse'
   - text: ' '
   - text: lenterna
     eng: 'lenterna (b) n: lantern'
@@ -170,19 +172,21 @@
   - text: ' '
   - text: juipul
     eng: 'juipul (t) adj: careful, cautious; adv: carefully, cautiously'
-    spa: juipul (t) cuidadoso, cauteloso; cuidadosamente, cautelosamente
+    spa: 'juipul (t) adj: cuidadoso, cauteloso, prudente; adv: cuidadosamente, con
+      cuidado'
   - text: ', '
   - text: daymo
     eng: 'daymo (m) adv: greatly (+ adj), very, really (+ adj), highly'
-    spa: daymo (m) muy (para describir adjetivos y adverbios), grandemente, altamente
+    spa: 'daymo (m) adv: muy (+ adj)'
   - text: ' '
   - text: juipul
     eng: 'juipul (t) adj: careful, cautious; adv: carefully, cautiously'
-    spa: juipul (t) cuidadoso, cauteloso; cuidadosamente, cautelosamente
+    spa: 'juipul (t) adj: cuidadoso, cauteloso, prudente; adv: cuidadosamente, con
+      cuidado'
   - text: ' ('
   - text: koski
     eng: 'koski (l) conj: because, since, for'
-    spa: koski (l) porque, debido a que, a causa de que, car
+    spa: 'koski (l) conj: porque, ya que, puesto que'
   - text: ' '
   - text: bisagra
     eng: 'bisagra (b) n: hinge'
@@ -194,7 +198,7 @@
   - text: ' '
   - text: soti
     eng: 'soti (b.nenoj) n: sound; v.intr: (make a) sound'
-    spa: soti (b.nenoj) sonido; sonar, hacer sonido
+    spa: 'soti (b.nenoj) s: sonido; v.intr: sonar'
   - text: '); '
   - text: mi
     eng: 'mi (pn) pron: I, me'
@@ -212,7 +216,8 @@
   - text: buka
     eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
       open'
-    spa: buka (b.oro.harka) apertura; abrir; abrirse
+    spa: 'buka (b.oro.harka) s: abertura, apertura; v.tr: abrir; v.intr (uso opcional
+      de -cu): abrirse'
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
@@ -221,42 +226,42 @@
   - text: celki
     eng: 'celki (l) conj: so that, in order that, in order for (followed by: noun
       phrase + infinitive)'
-    spa: celki (l) para que, con la intenci&oacute;n de que, a fin de que
+    spa: 'celki (l) conj: para que, a fin de que'
   - text: ' '
   - text: dambo
     eng: 'dambo (t) adj: thin, slim, slender, lean, skinny; adv: thinly, slimly, slenderly,
       leanly'
-    spa: dambo (t) delgado, flaco
+    spa: 'dambo (t) adj: delgado, fino, esbelto; adv: finamente'
   - text: ' '
   - text: radya
     eng: 'radya (b.oro) n: ray, beam; v.tr: radiate; v.intr (optional -cu): radiate'
-    spa: radya (b.oro) rayo (de luz), haz; (ir)radiar; (ir)radiar
+    spa: 'radya (b.oro) s: rayo, haz (f&iacute;sica); v.tr: radiar, irradiar; v.intr
+      (uso opcional de -cu): irradiar, radiar'
   - text: ' '
   - text: fe
     eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
       for (for the first time, etc.), for (in one&#039;s case or experience, in the
       case or experience of), of (relating to, number, quantity, amount), introduces
       common prepositional phrases, used in phrasal prepositions, vague locative preposition'
-    spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
-      vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
-      objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
+    spa: 'fe (p) prep: a (hora), en (mes o a&ntilde;o), el (fecha o d&iacute;a de
+      la semana), por (por primera vez, etc.), para (en el caso o la experiencia de
+      alguien), de (cantidad o n&uacute;mero)'
   - text: ' '
   - text: lumin
     eng: 'lumin (b.oj) n: light; v.tr: light, illuminate, emit light (on)'
-    spa: lumin (b.oj) luz; alumbrar, iluminar
+    spa: 'lumin (b.oj) s: luz; v.tr: iluminar, alumbrar, encender'
   - text: ' '
   - text: celidi
     eng: 'celidi (b.oj) n: access; v.tr: access, reach (arrive at)'
-    spa: celidi (b.oj) (lugar de) destino, meta, punto de llegada; ir (a), dirigirse
-      a
+    spa: 'celidi (b.oj) s: acceso; v.tr: acceder a, llegar a, alcanzar'
   - text: ' '
   - text: oko
     eng: 'oko (b.oj) n: eye; v.tr: eye, see, look, watch, view'
-    spa: oko (b.oj) ojo; ver, mirar
+    spa: 'oko (b.oj) s: ojo; v.tr: mirar, ver, observar'
   - text: ' '
   - text: de
     eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
-    spa: de (p) de (perteneciente a)
+    spa: 'de (p) prep: de (genitivo), perteneciente a'
   - text: ' '
   - text: nasru
     eng: 'nasru (b) n: vulture'
@@ -275,11 +280,11 @@
   translations:
   - text: Ji
     eng: 'ji (l) conj: and'
-    spa: ji (l) y, e, et, &amp;
+    spa: 'ji (l) conj: y (&quot;e&quot; ante i-/hi-)'
   - text: ' '
   - text: jaxali
     eng: 'jaxali (t) adj: next, (the) following; adv: then'
-    spa: jaxali (t) siguente, pr&oacute;ximo; a continuaci&oacute;n
+    spa: 'jaxali (t) adj: siguiente, pr&oacute;ximo; adv: luego, despu&eacute;s'
   - text: ', '
   - text: denwatu
     eng: 'denwatu (tabel: m) adv: then (at that time/moment)'
@@ -287,7 +292,7 @@
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
-    spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
+    spa: 'hu (l) conj (marcador de oraci&oacute;n de relativo): que, quien, el cual'
   - text: ' '
   - text: misu
     eng: 'misu (su s) poss adj: my'
@@ -304,7 +309,8 @@
   - text: kompleto
     eng: 'kompleto (t) adj: complete, absolute, whole; adv: completely, absolutely,
       wholly'
-    spa: kompleto (t) completo, absoluto; completamente, absolutamente
+    spa: 'kompleto (t) adj: completo, absoluto, total; adv: completamente, absolutamente,
+      totalmente'
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
@@ -312,7 +318,7 @@
   - text: ' '
   - text: in
     eng: 'in (p) prep: at (place), in (place), inside (of), within'
-    spa: in (p) en, dentro de
+    spa: 'in (p) prep: en, dentro de'
   - text: ' '
   - text: kamer
     eng: 'kamer (b) n: room, chamber'
@@ -329,7 +335,8 @@
   - text: buka
     eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
       open'
-    spa: buka (b.oro.harka) apertura; abrir; abrirse
+    spa: 'buka (b.oro.harka) s: abertura, apertura; v.tr: abrir; v.intr (uso opcional
+      de -cu): abrirse'
   - text: ' '
   - text: lenterna
     eng: 'lenterna (b) n: lantern'
@@ -337,19 +344,21 @@
   - text: ' '
   - text: juipul
     eng: 'juipul (t) adj: careful, cautious; adv: carefully, cautiously'
-    spa: juipul (t) cuidadoso, cauteloso; cuidadosamente, cautelosamente
+    spa: 'juipul (t) adj: cuidadoso, cauteloso, prudente; adv: cuidadosamente, con
+      cuidado'
   - text: ', '
   - text: daymo
     eng: 'daymo (m) adv: greatly (+ adj), very, really (+ adj), highly'
-    spa: daymo (m) muy (para describir adjetivos y adverbios), grandemente, altamente
+    spa: 'daymo (m) adv: muy (+ adj)'
   - text: ' '
   - text: juipul
     eng: 'juipul (t) adj: careful, cautious; adv: carefully, cautiously'
-    spa: juipul (t) cuidadoso, cauteloso; cuidadosamente, cautelosamente
+    spa: 'juipul (t) adj: cuidadoso, cauteloso, prudente; adv: cuidadosamente, con
+      cuidado'
   - text: ' ('
   - text: koski
     eng: 'koski (l) conj: because, since, for'
-    spa: koski (l) porque, debido a que, a causa de que, car
+    spa: 'koski (l) conj: porque, ya que, puesto que'
   - text: ' '
   - text: bisagra
     eng: 'bisagra (b) n: hinge'
@@ -361,7 +370,7 @@
   - text: ' '
   - text: soti
     eng: 'soti (b.nenoj) n: sound; v.intr: (make a) sound'
-    spa: soti (b.nenoj) sonido; sonar, hacer sonido
+    spa: 'soti (b.nenoj) s: sonido; v.intr: sonar'
   - text: '); '
   - text: mi
     eng: 'mi (pn) pron: I, me'
@@ -379,7 +388,8 @@
   - text: buka
     eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
       open'
-    spa: buka (b.oro.harka) apertura; abrir; abrirse
+    spa: 'buka (b.oro.harka) s: abertura, apertura; v.tr: abrir; v.intr (uso opcional
+      de -cu): abrirse'
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
@@ -388,42 +398,42 @@
   - text: celki
     eng: 'celki (l) conj: so that, in order that, in order for (followed by: noun
       phrase + infinitive)'
-    spa: celki (l) para que, con la intenci&oacute;n de que, a fin de que
+    spa: 'celki (l) conj: para que, a fin de que'
   - text: ' '
   - text: dambo
     eng: 'dambo (t) adj: thin, slim, slender, lean, skinny; adv: thinly, slimly, slenderly,
       leanly'
-    spa: dambo (t) delgado, flaco
+    spa: 'dambo (t) adj: delgado, fino, esbelto; adv: finamente'
   - text: ' '
   - text: radya
     eng: 'radya (b.oro) n: ray, beam; v.tr: radiate; v.intr (optional -cu): radiate'
-    spa: radya (b.oro) rayo (de luz), haz; (ir)radiar; (ir)radiar
+    spa: 'radya (b.oro) s: rayo, haz (f&iacute;sica); v.tr: radiar, irradiar; v.intr
+      (uso opcional de -cu): irradiar, radiar'
   - text: ' '
   - text: fe
     eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
       for (for the first time, etc.), for (in one&#039;s case or experience, in the
       case or experience of), of (relating to, number, quantity, amount), introduces
       common prepositional phrases, used in phrasal prepositions, vague locative preposition'
-    spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
-      vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
-      objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
+    spa: 'fe (p) prep: a (hora), en (mes o a&ntilde;o), el (fecha o d&iacute;a de
+      la semana), por (por primera vez, etc.), para (en el caso o la experiencia de
+      alguien), de (cantidad o n&uacute;mero)'
   - text: ' '
   - text: lumin
     eng: 'lumin (b.oj) n: light; v.tr: light, illuminate, emit light (on)'
-    spa: lumin (b.oj) luz; alumbrar, iluminar
+    spa: 'lumin (b.oj) s: luz; v.tr: iluminar, alumbrar, encender'
   - text: ' '
   - text: celidi
     eng: 'celidi (b.oj) n: access; v.tr: access, reach (arrive at)'
-    spa: celidi (b.oj) (lugar de) destino, meta, punto de llegada; ir (a), dirigirse
-      a
+    spa: 'celidi (b.oj) s: acceso; v.tr: acceder a, llegar a, alcanzar'
   - text: ' '
   - text: oko
     eng: 'oko (b.oj) n: eye; v.tr: eye, see, look, watch, view'
-    spa: oko (b.oj) ojo; ver, mirar
+    spa: 'oko (b.oj) s: ojo; v.tr: mirar, ver, observar'
   - text: ' '
   - text: de
     eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
-    spa: de (p) de (perteneciente a)
+    spa: 'de (p) prep: de (genitivo), perteneciente a'
   - text: ' '
   - text: nasru
     eng: 'nasru (b) n: vulture'
@@ -444,13 +454,13 @@
       for (for the first time, etc.), for (in one&#039;s case or experience, in the
       case or experience of), of (relating to, number, quantity, amount), introduces
       common prepositional phrases, used in phrasal prepositions, vague locative preposition'
-    spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
-      vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
-      objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
+    spa: 'fe (p) prep: a (hora), en (mes o a&ntilde;o), el (fecha o d&iacute;a de
+      la semana), por (por primera vez, etc.), para (en el caso o la experiencia de
+      alguien), de (cantidad o n&uacute;mero)'
   - text: ' '
   - text: ocoyum
     eng: 'ocoyum (t) adj: eighth'
-    spa: ocoyum (t) octavo
+    spa: 'ocoyum (t) adj: octavo'
   - text: ' '
   - text: noce
     eng: 'noce (b) n: night'
@@ -470,19 +480,21 @@
   - text: ' '
   - text: maxmo
     eng: 'maxmo (m) adv: more (+ adj)'
-    spa: maxmo (m) m&aacute;s (para describir adjetivos y adverbios)
+    spa: 'maxmo (m) adv: m&aacute;s (+ adj)'
   - text: ' '
   - text: juipul
     eng: 'juipul (t) adj: careful, cautious; adv: carefully, cautiously'
-    spa: juipul (t) cuidadoso, cauteloso; cuidadosamente, cautelosamente
+    spa: 'juipul (t) adj: cuidadoso, cauteloso, prudente; adv: cuidadosamente, con
+      cuidado'
   - text: ' '
   - text: kom
     eng: 'kom (l) conj: as (comparable to), than (as compared with)'
-    spa: kom (l) que, como, en comparaci&oacute;n con
+    spa: 'kom (l) conj: como (comparaci&oacute;n de igualdad), que (comparaci&oacute;n
+      de desigualdad)'
   - text: ' '
   - text: xugwanpul
     eng: 'xugwanpul (t) adj: habitual, usual, typical; adv: habitually, usually, typically'
-    spa: xugwanpul (t) habitual, acostumbrado; habitualmente
+    spa: 'xugwanpul (t) adj: habitual, usual, acostumbrado; adv: habitualmente, normalmente'
   - text: ' '
   - text: denwatu
     eng: 'denwatu (tabel: m) adv: then (at that time/moment)'
@@ -490,7 +502,7 @@
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
-    spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
+    spa: 'hu (l) conj (marcador de oraci&oacute;n de relativo): que, quien, el cual'
   - text: ' '
   - text: mi
     eng: 'mi (pn) pron: I, me'
@@ -503,7 +515,8 @@
   - text: buka
     eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
       open'
-    spa: buka (b.oro.harka) apertura; abrir; abrirse
+    spa: 'buka (b.oro.harka) s: abertura, apertura; v.tr: abrir; v.intr (uso opcional
+      de -cu): abrirse'
   - text: ' '
   - text: dwer
     eng: 'dwer (b) n: door'
@@ -530,7 +543,8 @@
   - text: buka
     eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
       open'
-    spa: buka (b.oro.harka) apertura; abrir; abrirse
+    spa: 'buka (b.oro.harka) s: abertura, apertura; v.tr: abrir; v.intr (uso opcional
+      de -cu): abrirse'
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
@@ -538,35 +552,37 @@
   - text: ' '
   - text: daymo
     eng: 'daymo (m) adv: greatly (+ adj), very, really (+ adj), highly'
-    spa: daymo (m) muy (para describir adjetivos y adverbios), grandemente, altamente
+    spa: 'daymo (m) adv: muy (+ adj)'
   - text: ', '
   - text: daymo
     eng: 'daymo (m) adv: greatly (+ adj), very, really (+ adj), highly'
-    spa: daymo (m) muy (para describir adjetivos y adverbios), grandemente, altamente
+    spa: 'daymo (m) adv: muy (+ adj)'
   - text: ' '
   - text: juipul
     eng: 'juipul (t) adj: careful, cautious; adv: carefully, cautiously'
-    spa: juipul (t) cuidadoso, cauteloso; cuidadosamente, cautelosamente
+    spa: 'juipul (t) adj: cuidadoso, cauteloso, prudente; adv: cuidadosamente, con
+      cuidado'
   - text: ' '
   - text: finki
     eng: 'finki (l) conj: until (+ sentence)'
-    spa: finki (l) hasta que
+    spa: 'finki (l) conj: hasta que'
   - text: ' '
   - text: un
     eng: 'un (num; d) num: one, uni-, mono-; det: a certain (specific)'
-    spa: un (num; d) uno, 1(0^0)
+    spa: 'un (num; d) num: uno, uni-, mono-; det: cierto, determinado (espec&iacute;fico)'
   - text: ' '
   - text: solo
     eng: 'solo (t) adj: alone, (the) sole, (the) only; adv: alone'
-    spa: solo (t) solo (sin compa&ntilde;&iacute;a)
+    spa: 'solo (t) adj: solo, &uacute;nico; adv: a solas'
   - text: ' '
   - text: luminlil
     eng: 'luminlil (t) adj: dim; adv: dimly'
-    spa: luminlil (t) tenue; tenuemente
+    spa: 'luminlil (t) adj: tenue, poco iluminado; adv: tenuemente'
   - text: ' '
   - text: radya
     eng: 'radya (b.oro) n: ray, beam; v.tr: radiate; v.intr (optional -cu): radiate'
-    spa: radya (b.oro) rayo (de luz), haz; (ir)radiar; (ir)radiar
+    spa: 'radya (b.oro) s: rayo, haz (f&iacute;sica); v.tr: radiar, irradiar; v.intr
+      (uso opcional de -cu): irradiar, radiar'
   - text: ', '
   - text: denpul
     eng: 'denpul (tabel: t) adj: that kind of, such (a); adv: like that, thus, (in)
@@ -575,7 +591,8 @@
   - text: ' '
   - text: kom
     eng: 'kom (l) conj: as (comparable to), than (as compared with)'
-    spa: kom (l) que, como, en comparaci&oacute;n con
+    spa: 'kom (l) conj: como (comparaci&oacute;n de igualdad), que (comparaci&oacute;n
+      de desigualdad)'
   - text: ' '
   - text: xilo
     eng: 'xilo (b) n: yarn, thread, string'
@@ -583,7 +600,7 @@
   - text: ' '
   - text: de
     eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
-    spa: de (p) de (perteneciente a)
+    spa: 'de (p) prep: de (genitivo), perteneciente a'
   - text: ' '
   - text: kumi
     eng: 'kumi (b) n: spider, Araneae'
@@ -595,16 +612,17 @@
   - text: ' '
   - text: exidi
     eng: 'exidi (b.oj) v.tr: exit, leave, go out'
-    spa: exidi (b.oj) salida; salir
+    spa: 'exidi (b.oj) s: salida; v.tr: salir, irse, marcharse'
   - text: ' '
   - text: daraki
     eng: 'daraki (b.oro) n: crack, fissure, crevice, split, slit, rift, cleft; v.tr:
       crack; v.intr (optional -cu): crack'
-    spa: daraki (b.oro) grieta, fisura; agrietar; agrietarse
+    spa: 'daraki (b.oro) s: grieta, fisura, hendidura; v.tr: agrietar, rajar; v.intr
+      (uso opcional de -cu): agrietarse, rajarse'
   - text: ' '
   - text: ji
     eng: 'ji (l) conj: and'
-    spa: ji (l) y, e, et, &amp;
+    spa: 'ji (l) conj: y (&quot;e&quot; ante i-/hi-)'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
@@ -612,14 +630,13 @@
   - text: ' '
   - text: celidi
     eng: 'celidi (b.oj) n: access; v.tr: access, reach (arrive at)'
-    spa: celidi (b.oj) (lugar de) destino, meta, punto de llegada; ir (a), dirigirse
-      a
+    spa: 'celidi (b.oj) s: acceso; v.tr: acceder a, llegar a, alcanzar'
   - text: ' '
   - text: nasruli
   - text: ' '
   - text: oko
     eng: 'oko (b.oj) n: eye; v.tr: eye, see, look, watch, view'
-    spa: oko (b.oj) ojo; ver, mirar
+    spa: 'oko (b.oj) s: ojo; v.tr: mirar, ver, observar'
   - text: .
 - text: Mi le sen godomo juipul tem dento.
   cite:
@@ -644,17 +661,17 @@
   - text: ' '
   - text: godomo
     eng: 'godomo (m) adv: too, excessively, overly'
-    spa: godomo (m) excesivamente (para describir adjetivos y adverbios), en exceso,
-      en demas&iacute;a
+    spa: 'godomo (m) adv: demasiado, en exceso'
   - text: ' '
   - text: juipul
     eng: 'juipul (t) adj: careful, cautious; adv: carefully, cautiously'
-    spa: juipul (t) cuidadoso, cauteloso; cuidadosamente, cautelosamente
+    spa: 'juipul (t) adj: cuidadoso, cauteloso, prudente; adv: cuidadosamente, con
+      cuidado'
   - text: ' '
   - text: tem
     eng: 'tem (p) prep: about, on, concerning, regarding, with regard to, in regard
       to'
-    spa: tem (p) acerca de, con respecto a
+    spa: 'tem (p) prep: sobre, acerca de, con respecto a'
   - text: ' '
   - text: dento
     eng: 'dento (tabel: pn) pron (inanimate): that (one)'
@@ -671,38 +688,40 @@
   - text: ' '
   - text: ore
     eng: 'ore (b.oj) n: ear; v.tr: hear, listen'
-    spa: ore (b.oj) o&iacute;do, oreja; o&iacute;r
+    spa: 'ore (b.oj) s: o&iacute;do, oreja; v.tr: o&iacute;r, escuchar'
   - text: ' '
   - text: juipul
     eng: 'juipul (t) adj: careful, cautious; adv: carefully, cautiously'
-    spa: juipul (t) cuidadoso, cauteloso; cuidadosamente, cautelosamente
+    spa: 'juipul (t) adj: cuidadoso, cauteloso, prudente; adv: cuidadosamente, con
+      cuidado'
   - text: ', '
   - text: carmedo
     eng: 'carmedo (t) adj: charmed, enchanted'
-    spa: carmedo (t) encantado, cautivado, fascinado
+    spa: 'carmedo (t) adj: encantado, cautivado, embelesado'
   - text: ' '
   - text: fal
     eng: 'fal (p) prep: (done) by'
-    spa: fal (p) (hecho) por
+    spa: 'fal (p) prep: por (agente)'
   - text: ' '
   - text: hikaye
     eng: 'hikaye (b.oj) n: story, narrative, tale; v.tr: narrate, relate, recount'
-    spa: hikaye (b.oj) relato, cuento, narraci&oacute;n; contar, narrar
+    spa: 'hikaye (b.oj) s: historia, relato, cuento, narraci&oacute;n; v.tr: narrar,
+      relatar, contar'
   - text: ' '
   - text: fe
     eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
       for (for the first time, etc.), for (in one&#039;s case or experience, in the
       case or experience of), of (relating to, number, quantity, amount), introduces
       common prepositional phrases, used in phrasal prepositions, vague locative preposition'
-    spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
-      vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
-      objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
+    spa: 'fe (p) prep: a (hora), en (mes o a&ntilde;o), el (fecha o d&iacute;a de
+      la semana), por (por primera vez, etc.), para (en el caso o la experiencia de
+      alguien), de (cantidad o n&uacute;mero)'
   - text: ' '
   - text: yunki
     eng: 'yunki (b.oro.jotay) n: courage; v.tr: make (somebody) courageous, encourage;
       v.intr: be courageous, have the courage (to, for), dare (to)'
-    spa: yunki (b.oro.jotay) valor; dar valor, alentar, motivar; atreverse, tener
-      valor
+    spa: 'yunki (b.oro.jotay) s: valor, valent&iacute;a, coraje; v.tr: animar, envalentonar,
+      dar valor a; v.intr: ser valiente, tener el valor (de), atreverse (a)'
   - text: ', '
   - text: dosteya
     eng: 'dosteya (b) n: friendship'
@@ -710,11 +729,11 @@
   - text: ', '
   - text: ji
     eng: 'ji (l) conj: and'
-    spa: ji (l) y, e, et, &amp;
+    spa: 'ji (l) conj: y (&quot;e&quot; ante i-/hi-)'
   - text: ' '
   - text: aventur
     eng: 'aventur (b.nenoj) n: adventure; v.intr: venture'
-    spa: aventur (b.nenoj) aventura
+    spa: 'aventur (b.nenoj) s: aventura; v.intr: aventurarse'
   - text: .
 - text: Xafe juipul analisi, teknikatim le denya ki energimamba fe fronpel de navi
     sen sungaydo.
@@ -731,11 +750,12 @@
   - text: ' '
   - text: juipul
     eng: 'juipul (t) adj: careful, cautious; adv: carefully, cautiously'
-    spa: juipul (t) cuidadoso, cauteloso; cuidadosamente, cautelosamente
+    spa: 'juipul (t) adj: cuidadoso, cauteloso, prudente; adv: cuidadosamente, con
+      cuidado'
   - text: ' '
   - text: analisi
     eng: 'analisi (b.oj) n: analysis; v.tr: analyze, analyse'
-    spa: analisi (b.oj) an&aacute;lisis; analizar
+    spa: 'analisi (b.oj) s: an&aacute;lisis; v.tr: analizar'
   - text: ', '
   - text: teknikatim
   - text: ' '
@@ -745,11 +765,11 @@
   - text: ' '
   - text: denya
     eng: 'denya (b.oj) n: identity; v.tr: identify'
-    spa: denya (b.oj) identidad; identificar
+    spa: 'denya (b.oj) s: identidad; v.tr: identificar'
   - text: ' '
   - text: ki
     eng: 'ki (l) conj: that'
-    spa: ki (l) que
+    spa: 'ki (l) conj: que'
   - text: ' '
   - text: energimamba
   - text: ' '
@@ -758,22 +778,22 @@
       for (for the first time, etc.), for (in one&#039;s case or experience, in the
       case or experience of), of (relating to, number, quantity, amount), introduces
       common prepositional phrases, used in phrasal prepositions, vague locative preposition'
-    spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
-      vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
-      objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
+    spa: 'fe (p) prep: a (hora), en (mes o a&ntilde;o), el (fecha o d&iacute;a de
+      la semana), por (por primera vez, etc.), para (en el caso o la experiencia de
+      alguien), de (cantidad o n&uacute;mero)'
   - text: ' '
   - text: fronpel
     eng: 'fronpel (b.oj) n: propulsion; v.tr: propel, push forward'
-    spa: fronpel (b.oj) propulsi&oacute;n, impulsi&oacute;n, proyecci&oacute;n; propulsar,
-      impulsar, impeler
+    spa: 'fronpel (b.oj) s: propulsi&oacute;n, impulso; v.tr: propulsar, impulsar,
+      empujar hacia adelante'
   - text: ' '
   - text: de
     eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
-    spa: de (p) de (perteneciente a)
+    spa: 'de (p) prep: de (genitivo), perteneciente a'
   - text: ' '
   - text: navi
     eng: 'navi (b.oj) n: ship, boat; v.tr: navigate'
-    spa: navi (b.oj) nave, barco; navegar
+    spa: 'navi (b.oj) s: barco, buque, bote; v.tr: navegar, navegar en barco'
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
@@ -781,6 +801,6 @@
   - text: ' '
   - text: sungaydo
     eng: 'sungaydo (t) adj: damaged, harmed, injured, hurt'
-    spa: 'sungaydo (t) '
+    spa: 'sungaydo (t) adj: da&ntilde;ado, perjudicado, lesionado'
   - text: .
 ...

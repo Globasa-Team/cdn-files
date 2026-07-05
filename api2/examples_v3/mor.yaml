@@ -10,22 +10,22 @@
   translations:
   - text: Mas
     eng: 'mas (l) conj: but'
-    spa: mas (l) pero, mas
+    spa: 'mas (l) conj: pero'
   - text: ' '
   - text: fe
     eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
       for (for the first time, etc.), for (in one&#039;s case or experience, in the
       case or experience of), of (relating to, number, quantity, amount), introduces
       common prepositional phrases, used in phrasal prepositions, vague locative preposition'
-    spa: fe (p) en (tiempo, lugar, estado), a (tiempo, modo), por (&ldquo;por primera
-      vez&rdquo;, juramentos), de (relaci&oacute;n, tipo, n&uacute;mero, cantidad,
-      objeto directo, modo, sustancia), par, bajo, so, sobre (aplicaci&oacute;n)
+    spa: 'fe (p) prep: a (hora), en (mes o a&ntilde;o), el (fecha o d&iacute;a de
+      la semana), por (por primera vez, etc.), para (en el caso o la experiencia de
+      alguien), de (cantidad o n&uacute;mero)'
   - text: ' '
   - text: fini
     eng: 'fini (b.oro) n: end, ending, conclusion; v.tr: end, finish, finalize, finalise,
       be done with; v.intr (optional -cu): end, conclude'
-    spa: fini (b.oro) fin, final, conclusi&oacute;n; terminar, acabar, concluir, finalizar;
-      terminarse, acabarse
+    spa: 'fini (b.oro) s: fin, final, conclusi&oacute;n; v.tr: terminar, finalizar,
+      acabar; v.intr (uso opcional de -cu): terminar, concluir'
   - text: ', '
   - text: baru
     eng: 'baru (b) n: bear, Ursidae'
@@ -33,7 +33,7 @@
   - text: ' '
   - text: restagi
     eng: 'restagi (b.oj) v.tr: leave (behind), keep'
-    spa: restagi (b.oj) dejar
+    spa: 'restagi (b.oj) v.tr: dejar (atr&aacute;s), dejar quedar, conservar'
   - text: ' '
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
@@ -43,7 +43,7 @@
   - text: ', '
   - text: koski
     eng: 'koski (l) conj: because, since, for'
-    spa: koski (l) porque, debido a que, a causa de que, car
+    spa: 'koski (l) conj: porque, ya que, puesto que'
   - text: ' '
   - text: nil
     eng: 'nil (tabel: num; d) num: zero; det: no, no- (nothing, nobody, etc.)'
@@ -55,11 +55,11 @@
   - text: ' '
   - text: yam
     eng: 'yam (b.oj.ru) n: meal, food; v.tr: eat'
-    spa: yam (b.oj.ru) comida, platillo, manduca; comer, manducar
+    spa: 'yam (b.oj.ru) s: comida, alimento; v.tr: comer'
   - text: ' '
   - text: mor
     eng: 'mor (t) adj: dead, deceased'
-    spa: mor (t) muerto
+    spa: 'mor (t) adj: muerto, fallecido, difunto'
   - text: ' '
   - text: maso
     eng: 'maso (b) n: meat, flesh'
@@ -76,11 +76,11 @@
   translations:
   - text: Per
     eng: 'per (p) prep: on, upon, over, aboard'
-    spa: per (p) sobre, encima de
+    spa: 'per (p) prep: sobre, en, encima de, a bordo de'
   - text: ' '
   - text: mor
     eng: 'mor (t) adj: dead, deceased'
-    spa: mor (t) muerto
+    spa: 'mor (t) adj: muerto, fallecido, difunto'
   - text: ' '
   - text: kargux
     eng: 'kargux (b) n: rabbit, hare, Leporidae'
@@ -92,12 +92,12 @@
   - text: ' '
   - text: gulun
     eng: 'gulun (b.nenoj) n: rolling; v.intr: roll'
-    spa: gulun (b.nenoj) ruedo; rodar
+    spa: 'gulun (b.nenoj) s: rodadura; v.intr: rodar'
   - text: ', '
   - text: celki
     eng: 'celki (l) conj: so that, in order that, in order for (followed by: noun
       phrase + infinitive)'
-    spa: celki (l) para que, con la intenci&oacute;n de que, a fin de que
+    spa: 'celki (l) conj: para que, a fin de que'
   - text: ' '
   - text: tesu
     eng: 'tesu (su s) poss adj (belonging to being): her, his, its, their'
@@ -111,15 +111,15 @@
   - text: ' '
   - text: taze
     eng: 'taze (t) adj: fresh; adv: freshly'
-    spa: taze (t) fresco, reciente
+    spa: 'taze (t) adj: fresco; adv: reci&eacute;n, frescamente'
   - text: ', '
   - text: roso
     eng: 'roso (t) adj: red'
-    spa: roso (t) (de color) rojo, colorado
+    spa: 'roso (t) adj: rojo'
   - text: ' '
   - text: damu
     eng: 'damu (b.oj.ru) n: blood; v.tr: bleed'
-    spa: damu (b.oj.ru) sangre; sangrar
+    spa: 'damu (b.oj.ru) s: sangre; v.tr: sangrar'
   - text: .
 - text: Moy solokrabe labas sadafa hu da ofata mor sadafahewan.
   cite:
@@ -140,7 +140,8 @@
   - text: ' '
   - text: labas
     eng: 'labas (b.oj) n: clothing, clothes, garments; v.tr: wear'
-    spa: labas (b.oj) ropa; llevar puesto
+    spa: 'labas (b.oj) s: ropa, vestimenta, prendas; v.tr: llevar puesto, vestir,
+      usar'
   - text: ' '
   - text: sadafa
     eng: 'sadafa (b) n: shell, seashell, carapace, concha'
@@ -148,7 +149,7 @@
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
-    spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
+    spa: 'hu (l) conj (marcador de oraci&oacute;n de relativo): que, quien, el cual'
   - text: ' '
   - text: da
     eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
@@ -156,12 +157,12 @@
   - text: ' '
   - text: ofata
     eng: 'ofata (b.oj) n: provenance; v.tr: come from'
-    spa: ofata (b.oj) punto de partida, (lugar de) origen, procedencia, proveniencia;
-      (pro)venir (de), proceder de (salir de un lugar)
+    spa: 'ofata (b.oj) s: procedencia, origen; v.tr: provenir de, proceder de, venir
+      de'
   - text: ' '
   - text: mor
     eng: 'mor (t) adj: dead, deceased'
-    spa: mor (t) muerto
+    spa: 'mor (t) adj: muerto, fallecido, difunto'
   - text: ' '
   - text: sadafahewan
   - text: .
@@ -176,17 +177,19 @@
   translations:
   - text: Abruto
     eng: 'abruto (t) adj: abrupt, sudden; adv: abruptly, suddenly, all of a sudden'
-    spa: abruto (t) abrupto, repentino; abruptamente, repentinamente, de repente
+    spa: 'abruto (t) adj: abrupto, repentino, s&uacute;bito; adv: abruptamente, de
+      repente, de golpe'
   - text: ', '
   - text: Okreyen
   - text: ' '
   - text: ewreka
     eng: 'ewreka (b.oj) n: discovery, find, finding; v.tr: discover, find, locate'
-    spa: ewreka (b.oj) descubrimiento, hallazgo; descubrir, encontrar, hallar
+    spa: 'ewreka (b.oj) s: descubrimiento, hallazgo; v.tr: descubrir, encontrar, hallar,
+      localizar'
   - text: ' '
   - text: mor
     eng: 'mor (t) adj: dead, deceased'
-    spa: mor (t) muerto
+    spa: 'mor (t) adj: muerto, fallecido, difunto'
   - text: ' '
   - text: xarke
     eng: 'xarke (b) n: shark, Selachimorpha'
@@ -203,7 +206,7 @@
   translations:
   - text: Lao
     eng: 'lao (t) adj: old'
-    spa: lao (t) viejo (ant&oacute;nimo de joven), mayor
+    spa: 'lao (t) adj: viejo, anciano, mayor'
   - text: ' '
   - text: manixu
     eng: 'manixu (b) n: man'
@@ -219,7 +222,7 @@
   - text: ' '
   - text: mor
     eng: 'mor (t) adj: dead, deceased'
-    spa: mor (t) muerto
+    spa: 'mor (t) adj: muerto, fallecido, difunto'
   - text: .
 - text: Si, te le sen kompletomo, kompletomo mor.
   cite:
@@ -232,7 +235,7 @@
   translations:
   - text: Si
     eng: 'si (m) adv: yes, yeah'
-    spa: si (m) s&iacute;
+    spa: 'si (m) adv: s&iacute;'
   - text: ', '
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
@@ -254,7 +257,7 @@
   - text: ' '
   - text: mor
     eng: 'mor (t) adj: dead, deceased'
-    spa: mor (t) muerto
+    spa: 'mor (t) adj: muerto, fallecido, difunto'
   - text: .
 - text: Te le sen kompletomo mor.
   cite:
@@ -283,6 +286,6 @@
   - text: ' '
   - text: mor
     eng: 'mor (t) adj: dead, deceased'
-    spa: mor (t) muerto
+    spa: 'mor (t) adj: muerto, fallecido, difunto'
   - text: .
 ...

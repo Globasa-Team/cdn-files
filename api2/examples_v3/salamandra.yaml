@@ -18,11 +18,11 @@
   - text: ' '
   - text: daymo
     eng: 'daymo (m) adv: greatly (+ adj), very, really (+ adj), highly'
-    spa: daymo (m) muy (para describir adjetivos y adverbios), grandemente, altamente
+    spa: 'daymo (m) adv: muy (+ adj)'
   - text: ' '
   - text: dinifil
     eng: 'dinifil (t) adj: religious, religiously inclined; adv: religiously'
-    spa: dinifil (t) religioso (inclinado a la religi&oacute;n); religiosamente
+    spa: 'dinifil (t) adj: religioso, devoto; adv: religiosamente'
   - text: ' '
   - text: jongu
     eng: 'jongu (b) n: species'
@@ -44,7 +44,7 @@
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
-    spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
+    spa: 'hu (l) conj (marcador de oraci&oacute;n de relativo): que, quien, el cual'
   - text: ' '
   - text: salamandra
     eng: 'salamandra (b) n: salamander'
@@ -53,15 +53,16 @@
   - text: dadal
     eng: 'dadal (b.oj) n: achievement, accomplishment; v.tr: achieve, accomplish,
       reach, attain'
-    spa: dadal (b.oj) logro; lograr
+    spa: 'dadal (b.oj) s: logro; v.tr: lograr, alcanzar, conseguir, realizar'
   - text: ' '
   - text: especifi
     eng: 'especifi (t) adj: specific, particular; adv: specifically, particularly'
-    spa: especifi (t) espec&iacute;fico, particular; espec&iacute;ficamente
+    spa: 'especifi (t) adj: espec&iacute;fico, particular, concreto; adv: espec&iacute;ficamente,
+      en particular'
   - text: ' '
   - text: laoje
     eng: 'laoje (b.oj) n: age; v.tr: have age of'
-    spa: laoje (b.oj) edad; tener (de edad)
+    spa: 'laoje (b.oj) s: edad; v.tr: tener (cierta) edad, tener la edad de'
   - text: ', '
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
@@ -81,16 +82,15 @@
   - text: ' '
   - text: glu
     eng: 'glu (b.oj) n: drink (instance or type of); v.tr: drink'
-    spa: glu (b.oj) bebida, consumo de l&iacute;quidos; beber(se), tomar(se)
+    spa: 'glu (b.oj) s: bebida, trago; v.tr: beber, tomar'
   - text: ' '
   - text: espesyal
     eng: 'espesyal (t) adj: special, particular; adv: especially, particularly'
-    spa: espesyal (t) especial, particular; especialmente, en especial, particularmente,
-      en particular
+    spa: 'espesyal (t) adj: especial, particular; adv: especialmente, en particular'
   - text: ' '
   - text: bruno
     eng: 'bruno (t) adj: brown'
-    spa: bruno (t) (de color) marr&oacute;n, caf&eacute;
+    spa: 'bruno (t) adj: marr&oacute;n, caf&eacute;, casta&ntilde;o'
   - text: ' '
   - text: likwido
     eng: 'likwido (b) n: liquid, fluid'
@@ -115,7 +115,7 @@
   - text: ' '
   - text: xorwala
     eng: 'xorwala (b.oj) n: loss; v.tr: lose'
-    spa: xorwala (b.oj) p&eacute;rdida, extrav&iacute;o; perder, extraviar
+    spa: 'xorwala (b.oj) s: p&eacute;rdida; v.tr: perder'
   - text: ' '
   - text: sesu
     eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
@@ -127,7 +127,7 @@
   - text: ', '
   - text: ji
     eng: 'ji (l) conj: and'
-    spa: ji (l) y, e, et, &amp;
+    spa: 'ji (l) conj: y (&quot;e&quot; ante i-/hi-)'
   - text: ' '
   - text: tesu
     eng: 'tesu (su s) poss adj (belonging to being): her, his, its, their'
@@ -135,16 +135,18 @@
   - text: ' '
   - text: forma
     eng: 'forma (b.oro) n: form (shape); v.tr: form; v.intr (optional -cu): form'
-    spa: forma (b.oro) forma, estado, fase; formar; formarse
+    spa: 'forma (b.oro) s: forma (figura); v.tr: formar; v.intr (uso opcional de -cu):
+      formarse'
   - text: ' '
   - text: total
     eng: 'total (t) adj: entire, whole, all, quite (a), absolute; adv: entirely, wholly,
       absolutely'
-    spa: total (t) entero, total, absoluto; enteramente, totalmente, absolutamente
+    spa: 'total (t) adj: entero, completo, total; adv: enteramente, completamente,
+      totalmente'
   - text: ' '
   - text: alocu
     eng: 'alocu (b.nenoj) n: change; v.intr: change, become different, get changed'
-    spa: alocu (b.nenoj) cambio; cambiar (uno mismo)
+    spa: 'alocu (b.nenoj) s: cambio; v.intr: cambiar'
   - text: .
 - text: Denwatu, salamandra no haji abil na jiwa in sui, mas te abil na jiwa per geo.
   cite:
@@ -165,11 +167,11 @@
   - text: ' '
   - text: "no"
     eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
-    spa: no (m) no
+    spa: 'no (m) adv: no'
   - text: ' '
   - text: haji
     eng: 'haji (m) adv: still (even now/then as formerly)'
-    spa: haji (m) todav&iacute;a, a&uacute;n
+    spa: 'haji (m) adv: todav&iacute;a, a&uacute;n'
   - text: ' '
   - text: abil
     eng: 'abil (t; f.sah) adj: able, capable, which can (be), -able, -ible; adv: capably,
@@ -182,19 +184,19 @@
   - text: ' '
   - text: jiwa
     eng: 'jiwa (b.oj.ru) n: life; v.tr: live'
-    spa: jiwa (b.oj.ru) vida; vivir
+    spa: 'jiwa (b.oj.ru) s: vida; v.tr: vivir'
   - text: ' '
   - text: in
     eng: 'in (p) prep: at (place), in (place), inside (of), within'
-    spa: in (p) en, dentro de
+    spa: 'in (p) prep: en, dentro de'
   - text: ' '
   - text: sui
     eng: 'sui (b.oj) n: water; v.tr: water, irrigate'
-    spa: 'sui (b.oj) s: agua'
+    spa: 'sui (b.oj) s: agua; v.tr: regar, irrigar'
   - text: ', '
   - text: mas
     eng: 'mas (l) conj: but'
-    spa: mas (l) pero, mas
+    spa: 'mas (l) conj: pero'
   - text: ' '
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
@@ -213,11 +215,11 @@
   - text: ' '
   - text: jiwa
     eng: 'jiwa (b.oj.ru) n: life; v.tr: live'
-    spa: jiwa (b.oj.ru) vida; vivir
+    spa: 'jiwa (b.oj.ru) s: vida; v.tr: vivir'
   - text: ' '
   - text: per
     eng: 'per (p) prep: on, upon, over, aboard'
-    spa: per (p) sobre, encima de
+    spa: 'per (p) prep: sobre, en, encima de, a bordo de'
   - text: ' '
   - text: geo
     eng: 'geo (b) n: land, ground'
@@ -234,21 +236,21 @@
   translations:
   - text: Mas
     eng: 'mas (l) conj: but'
-    spa: mas (l) pero, mas
+    spa: 'mas (l) conj: pero'
   - text: ' '
   - text: fol
     eng: 'fol (p) prep: according to, along, alongside (of), by, for (according to
       one&#039;s opinion or belief)'
-    spa: fol (p) seg&uacute;n, siguiendo, de acuerdo a, junto a, a
+    spa: 'fol (p) prep: seg&uacute;n, a lo largo de, conforme a'
   - text: ' '
   - text: pasa
     eng: 'pasa (b.oj) n: passage, passing; v.tr: pass, go by (time or space), spend
       (time)'
-    spa: pasa (b.oj) paso (acci&oacute;n de pasar); pasar (un lugar, tiempo, etc.)
+    spa: 'pasa (b.oj) s: paso, transcurso; v.tr: pasar, transcurrir'
   - text: ' '
   - text: de
     eng: 'de (p) prep: of, belonging to, -&#039;s (genitive case)'
-    spa: de (p) de (perteneciente a)
+    spa: 'de (p) prep: de (genitivo), perteneciente a'
   - text: ' '
   - text: watu
     eng: 'watu (b) n: time'
@@ -260,7 +262,7 @@
   - text: ' '
   - text: ji
     eng: 'ji (l) conj: and'
-    spa: ji (l) y, e, et, &amp;
+    spa: 'ji (l) conj: y (&quot;e&quot; ante i-/hi-)'
   - text: ' '
   - text: max
     eng: 'max (d; m) det: more; adv: more'
@@ -272,11 +274,11 @@
   - text: ' '
   - text: vyata
     eng: 'vyata (b.oj) n: expression; v.tr: express'
-    spa: vyata (b.oj) expresi&oacute;n; expresar
+    spa: 'vyata (b.oj) s: expresi&oacute;n; v.tr: expresar'
   - text: ' '
   - text: anti
     eng: 'anti (p) prep: against, versus'
-    spa: anti (p) contra, versus
+    spa: 'anti (p) prep: contra, frente a'
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
@@ -298,7 +300,7 @@
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
-    spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
+    spa: 'hu (l) conj (marcador de oraci&oacute;n de relativo): que, quien, el cual'
   - text: ' '
   - text: da
     eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
@@ -306,8 +308,7 @@
   - text: ' '
   - text: posswikara
     eng: 'posswikara (b.oj) n: refusal, rejection; v.tr: refuse, reject, decline'
-    spa: posswikara (b.oj) rechazo, oposici&oacute;n, repudio; rechazar, oponerse,
-      repudiar, rehusarse (a)
+    spa: 'posswikara (b.oj) s: rechazo, negativa; v.tr: rechazar, rehusar, declinar'
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
@@ -315,7 +316,7 @@
   - text: ' '
   - text: glu
     eng: 'glu (b.oj) n: drink (instance or type of); v.tr: drink'
-    spa: glu (b.oj) bebida, consumo de l&iacute;quidos; beber(se), tomar(se)
+    spa: 'glu (b.oj) s: bebida, trago; v.tr: beber, tomar'
   - text: ' '
   - text: baligugine
   - text: ' '
@@ -333,13 +334,13 @@
   - text: ' '
   - text: kom
     eng: 'kom (l) conj: as (comparable to), than (as compared with)'
-    spa: kom (l) que, como, en comparaci&oacute;n con
+    spa: 'kom (l) conj: como (comparaci&oacute;n de igualdad), que (comparaci&oacute;n
+      de desigualdad)'
   - text: ' '
   - text: cuyo
     eng: 'cuyo (t) adj: main, primary, chief, principal; adv: mainly, primarily, chiefly,
       largely'
-    spa: cuyo (t) principal, primario, esencial, fundamental, capital; principalmente,
-      fundamentalmente, mayormente, sobre todo
+    spa: 'cuyo (t) adj: principal, primordial; adv: principalmente, sobre todo'
   - text: ' '
   - text: ete
     eng: 'ete (pn) pron (animate): they, them'
@@ -356,7 +357,7 @@
   translations:
   - text: Baligu
     eng: 'baligu (t) adj: adult, grown-up'
-    spa: baligu (t) adulto (cualquier especie)
+    spa: 'baligu (t) adj: adulto, mayor de edad'
   - text: ' '
   - text: salamandra
     eng: 'salamandra (b) n: salamander'
@@ -364,7 +365,7 @@
   - text: ' '
   - text: "no"
     eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
-    spa: no (m) no
+    spa: 'no (m) adv: no'
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
@@ -372,12 +373,12 @@
   - text: ' '
   - text: truti
     eng: 'truti (t) adj: satisfied, content'
-    spa: truti (t) satisfecho
+    spa: 'truti (t) adj: satisfecho, contento'
   - text: ' '
   - text: tem
     eng: 'tem (p) prep: about, on, concerning, regarding, with regard to, in regard
       to'
-    spa: tem (p) acerca de, con respecto a
+    spa: 'tem (p) prep: sobre, acerca de, con respecto a'
   - text: ' '
   - text: juniyen
     eng: 'juniyen (b) n (tween to early 20s): young man, young woman, gal, guy, dude,
@@ -386,7 +387,7 @@
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
-    spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
+    spa: 'hu (l) conj (marcador de oraci&oacute;n de relativo): que, quien, el cual'
   - text: ' '
   - text: da
     eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
@@ -394,11 +395,11 @@
   - text: ' '
   - text: "no"
     eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
-    spa: no (m) no
+    spa: 'no (m) adv: no'
   - text: ' '
   - text: vole
     eng: 'vole (b.oj) n: will; v.tr: want'
-    spa: vole (b.oj) voluntad, deseo; querer, desear
+    spa: 'vole (b.oj) s: voluntad; v.tr: querer, desear'
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
@@ -407,7 +408,8 @@
   - text: alogi
     eng: 'alogi (b.oj) n: change, alteration; v.tr: change, alter, make (something/somebody)
       different'
-    spa: alogi (b.oj) cambio, alteraci&oacute;n; cambiar, alterar
+    spa: 'alogi (b.oj) s: cambio, modificaci&oacute;n, alteraci&oacute;n; v.tr: cambiar,
+      modificar, alterar'
   - text: ' '
   - text: sesu
     eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
@@ -415,7 +417,8 @@
   - text: ' '
   - text: forma
     eng: 'forma (b.oro) n: form (shape); v.tr: form; v.intr (optional -cu): form'
-    spa: forma (b.oro) forma, estado, fase; formar; formarse
+    spa: 'forma (b.oro) s: forma (figura); v.tr: formar; v.intr (uso opcional de -cu):
+      formarse'
   - text: .
 - text: Hosu hu denloka salamandra jiwa sencu maxmo ji maxmo trasoko-nenible.
   cite:
@@ -432,7 +435,7 @@
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
-    spa: 'hu (l) marcador de cl&aacute;usula relativa: que, quien, el cual, qui'
+    spa: 'hu (l) conj (marcador de oraci&oacute;n de relativo): que, quien, el cual'
   - text: ' '
   - text: denloka
     eng: 'denloka (tabel: m) adv: there'
@@ -444,7 +447,7 @@
   - text: ' '
   - text: jiwa
     eng: 'jiwa (b.oj.ru) n: life; v.tr: live'
-    spa: jiwa (b.oj.ru) vida; vivir
+    spa: 'jiwa (b.oj.ru) s: vida; v.tr: vivir'
   - text: ' '
   - text: sencu
     eng: 'sencu (b.lin) n: becoming; v.cop: become, get, turn (into)'
@@ -452,15 +455,15 @@
   - text: ' '
   - text: maxmo
     eng: 'maxmo (m) adv: more (+ adj)'
-    spa: maxmo (m) m&aacute;s (para describir adjetivos y adverbios)
+    spa: 'maxmo (m) adv: m&aacute;s (+ adj)'
   - text: ' '
   - text: ji
     eng: 'ji (l) conj: and'
-    spa: ji (l) y, e, et, &amp;
+    spa: 'ji (l) conj: y (&quot;e&quot; ante i-/hi-)'
   - text: ' '
   - text: maxmo
     eng: 'maxmo (m) adv: more (+ adj)'
-    spa: maxmo (m) m&aacute;s (para describir adjetivos y adverbios)
+    spa: 'maxmo (m) adv: m&aacute;s (+ adj)'
   - text: ' '
   - text: trasoko-nenible
   - text: .
@@ -479,16 +482,15 @@
   - text: ' '
   - text: "no"
     eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
-    spa: no (m) no
+    spa: 'no (m) adv: no'
   - text: ' '
   - text: jixi
     eng: 'jixi (b.oj) n: knowledge; v.tr: know, know how'
-    spa: jixi (b.oj) conocimiento; saber
+    spa: 'jixi (b.oj) s: conocimiento, saber; v.tr: saber'
   - text: ' '
   - text: ku
     eng: 'ku (l) conj: marks interrogative clauses in declarative sentences'
-    spa: ku (l) la respuesta a (+ preguntas con &#039;ke&#039;; cl&aacute;usulas interrogativas
-      en oraciones declarativas), lo
+    spa: 'ku (l) conj: si (marca interrogativas indirectas)'
   - text: ' '
   - text: keseba
     eng: 'keseba (tabel: m) adv (interrogative): why, how come'
@@ -513,15 +515,15 @@
   - text: ' '
   - text: "no"
     eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
-    spa: no (m) no
+    spa: 'no (m) adv: no'
   - text: ' '
   - text: jixi
     eng: 'jixi (b.oj) n: knowledge; v.tr: know, know how'
-    spa: jixi (b.oj) conocimiento; saber
+    spa: 'jixi (b.oj) s: conocimiento, saber; v.tr: saber'
   - text: ' '
   - text: kama
     eng: 'kama (m) adv: whether'
-    spa: kama (m) si, ya sea
+    spa: 'kama (m) adv: si'
   - text: ' '
   - text: axolotle
     eng: 'axolotle (b) n: axolotl, Ambystoma mexicanum'
@@ -529,15 +531,15 @@
   - text: ' '
   - text: haji
     eng: 'haji (m) adv: still (even now/then as formerly)'
-    spa: haji (m) todav&iacute;a, a&uacute;n
+    spa: 'haji (m) adv: todav&iacute;a, a&uacute;n'
   - text: ' '
   - text: jiwa
     eng: 'jiwa (b.oj.ru) n: life; v.tr: live'
-    spa: jiwa (b.oj.ru) vida; vivir
+    spa: 'jiwa (b.oj.ru) s: vida; v.tr: vivir'
   - text: ' '
   - text: in
     eng: 'in (p) prep: at (place), in (place), inside (of), within'
-    spa: in (p) en, dentro de
+    spa: 'in (p) prep: en, dentro de'
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
@@ -573,11 +575,11 @@
   - text: ' '
   - text: swal
     eng: 'swal (b.oj) n: question; v.tr: ask (pose a question)'
-    spa: swal (b.oj) pregunta; preguntar
+    spa: 'swal (b.oj) s: pregunta; v.tr: preguntar, hacer una pregunta'
   - text: ' '
   - text: tas
     eng: 'tas (p) prep: to (indirect object marker), for (receiver/recipient)'
-    spa: tas (p) a (marcador del objeto indirecto), para (receptor)
+    spa: 'tas (p) prep: a (objeto indirecto), para (destinatario)'
   - text: ' '
   - text: se
     eng: 'se (pn) pron (reflexive): myself, yourself, herself, himself, themself,
@@ -587,8 +589,7 @@
   - text: ' '
   - text: ku
     eng: 'ku (l) conj: marks interrogative clauses in declarative sentences'
-    spa: ku (l) la respuesta a (+ preguntas con &#039;ke&#039;; cl&aacute;usulas interrogativas
-      en oraciones declarativas), lo
+    spa: 'ku (l) conj: si (marca interrogativas indirectas)'
   - text: ' '
   - text: keto
     eng: 'keto (tabel: pn) pron (interrogative, inanimate): what, which (one)'
@@ -600,11 +601,12 @@
   - text: ' '
   - text: okur
     eng: 'okur (b.nenoj) n: occurrence, occasion; v.intr: occur, happen, take place'
-    spa: okur (b.nenoj) suceso, acontecimiento; suceder, ocurrir, acontecer, pasar
+    spa: 'okur (b.nenoj) s: suceso, acontecimiento, ocasi&oacute;n; v.intr: ocurrir,
+      suceder, pasar'
   - text: ' '
   - text: tas
     eng: 'tas (p) prep: to (indirect object marker), for (receiver/recipient)'
-    spa: tas (p) a (marcador del objeto indirecto), para (receptor)
+    spa: 'tas (p) prep: a (objeto indirecto), para (destinatario)'
   - text: ' '
   - text: alo
     eng: 'alo (tabel: d) det: other, another, a different'

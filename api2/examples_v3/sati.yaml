@@ -11,7 +11,7 @@
   translations:
   - text: Un
     eng: 'un (num; d) num: one, uni-, mono-; det: a certain (specific)'
-    spa: un (num; d) uno, 1(0^0)
+    spa: 'un (num; d) num: uno, uni-, mono-; det: cierto, determinado (espec&iacute;fico)'
   - text: ' '
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
@@ -21,7 +21,7 @@
   - text: ' '
   - text: of
     eng: 'of (p) prep: off (of), (out) of, from'
-    spa: of (p) de, desde, de cada, en cada
+    spa: 'of (p) prep: de, desde'
   - text: ' '
   - text: kargux
     eng: 'kargux (b) n: rabbit, hare, Leporidae'
@@ -29,12 +29,12 @@
   - text: ' '
   - text: loga
     eng: 'loga (b.oj) n: statement, utterance; v.tr: say, tell, state, utter'
-    spa: loga (b.oj) declaraci&oacute;n, enunciaci&oacute;n; decir, declarar, enunciar
+    spa: 'loga (b.oj) s: declaraci&oacute;n, enunciado; v.tr: decir, afirmar, enunciar,
+      expresar'
   - text: ",\u201C"
   - text: Sati
     eng: 'sati (t) adj: true; adv: indeed, truly'
-    spa: sati (t) verdadero, cierto, real, vero; verdaderamente, ciertamente, de verdad,
-      de veras, realmente
+    spa: 'sati (t) adj: verdadero, cierto; adv: en efecto, verdaderamente, de veras'
   - text: ', '
   - text: imisu
     eng: 'imisu (su s) poss adj: our'
@@ -46,7 +46,7 @@
   - text: ' '
   - text: "no"
     eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
-    spa: no (m) no
+    spa: 'no (m) adv: no'
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
@@ -59,11 +59,12 @@
   - text: ' '
   - text: bur
     eng: 'bur (t) adj: bad, evil, negative; adv: badly, evilly, negatively'
-    spa: bur (t) malo, maligno, negativo; mal
+    spa: 'bur (t) adj: malo, malvado, negativo; adv: mal, negativamente'
   - text: ' '
   - text: kom
     eng: 'kom (l) conj: as (comparable to), than (as compared with)'
-    spa: kom (l) que, como, en comparaci&oacute;n con
+    spa: 'kom (l) conj: como (comparaci&oacute;n de igualdad), que (comparaci&oacute;n
+      de desigualdad)'
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
@@ -79,7 +80,7 @@
   - text: ' '
   - text: hay
     eng: 'hay (b.nenoj) n: existence, presence; v.intr: there is, there are'
-    spa: hay (b.nenoj) presencia, disponibilidad; haber
+    spa: 'hay (b.nenoj) s: existencia, presencia; v.intr: existir, haber'
   - text: ' '
   - text: bante
     eng: 'bante (tabel: pn) pron: somebody, someone'
@@ -87,15 +88,15 @@
   - text: ' '
   - text: in
     eng: 'in (p) prep: at (place), in (place), inside (of), within'
-    spa: in (p) en, dentro de
+    spa: 'in (p) prep: en, dentro de'
   - text: ' '
   - text: maxmo
     eng: 'maxmo (m) adv: more (+ adj)'
-    spa: maxmo (m) m&aacute;s (para describir adjetivos y adverbios)
+    spa: 'maxmo (m) adv: m&aacute;s (+ adj)'
   - text: ' '
   - text: bur
     eng: 'bur (t) adj: bad, evil, negative; adv: badly, evilly, negatively'
-    spa: bur (t) malo, maligno, negativo; mal
+    spa: 'bur (t) adj: malo, malvado, negativo; adv: mal, negativamente'
   - text: ' '
   - text: halulari
     eng: 'halulari (b) n: situation'
@@ -103,7 +104,8 @@
   - text: ' '
   - text: kom
     eng: 'kom (l) conj: as (comparable to), than (as compared with)'
-    spa: kom (l) que, como, en comparaci&oacute;n con
+    spa: 'kom (l) conj: como (comparaci&oacute;n de igualdad), que (comparaci&oacute;n
+      de desigualdad)'
   - text: ' '
   - text: yu
     eng: 'yu (pn) pron: you (singular)'
@@ -122,13 +124,12 @@
   - text: ': "'
   - text: Kam
     eng: 'kam (l) conj: yes/no question particle, or (whether)'
-    spa: kam (l) si (cuando indica duda o elecci&oacute;n), acaso (part&iacute;cula
-      de pregunta de s&iacute; o no), no (interrogativo)
+    spa: 'kam (l) conj: part&iacute;cula interrogativa de s&iacute;/no, si (pregunta
+      indirecta)'
   - text: ' '
   - text: sati
     eng: 'sati (t) adj: true; adv: indeed, truly'
-    spa: sati (t) verdadero, cierto, real, vero; verdaderamente, ciertamente, de verdad,
-      de veras, realmente
+    spa: 'sati (t) adj: verdadero, cierto; adv: en efecto, verdaderamente, de veras'
   - text: ?"
 - text: To sen sati!
   cite:
@@ -149,8 +150,7 @@
   - text: ' '
   - text: sati
     eng: 'sati (t) adj: true; adv: indeed, truly'
-    spa: sati (t) verdadero, cierto, real, vero; verdaderamente, ciertamente, de verdad,
-      de veras, realmente
+    spa: 'sati (t) adj: verdadero, cierto; adv: en efecto, verdaderamente, de veras'
   - text: '!'
 - text: Mi le uje zekaru ki mi asan sencu fobido, to sen sati.
   cite:
@@ -171,15 +171,15 @@
   - text: ' '
   - text: uje
     eng: 'uje (m) adv: already'
-    spa: uje (m) ya
+    spa: 'uje (m) adv: ya'
   - text: ' '
   - text: zekaru
     eng: 'zekaru (b.oj) n: mention; v.tr: mention'
-    spa: zekaru (b.oj) menci&oacute;n; mencionar
+    spa: 'zekaru (b.oj) s: menci&oacute;n; v.tr: mencionar'
   - text: ' '
   - text: ki
     eng: 'ki (l) conj: that'
-    spa: ki (l) que
+    spa: 'ki (l) conj: que'
   - text: ' '
   - text: mi
     eng: 'mi (pn) pron: I, me'
@@ -187,7 +187,7 @@
   - text: ' '
   - text: asan
     eng: 'asan (t) adj: easy; adv: easily'
-    spa: asan (t) f&aacute;cil; f&aacute;cilmente
+    spa: 'asan (t) adj: f&aacute;cil; adv: f&aacute;cilmente'
   - text: ' '
   - text: sencu
     eng: 'sencu (b.lin) n: becoming; v.cop: become, get, turn (into)'
@@ -195,7 +195,7 @@
   - text: ' '
   - text: fobido
     eng: 'fobido (t) adj: frightened, scared'
-    spa: fobido (t) asustado
+    spa: 'fobido (t) adj: asustado, atemorizado'
   - text: ', '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
@@ -207,7 +207,6 @@
   - text: ' '
   - text: sati
     eng: 'sati (t) adj: true; adv: indeed, truly'
-    spa: sati (t) verdadero, cierto, real, vero; verdaderamente, ciertamente, de verdad,
-      de veras, realmente
+    spa: 'sati (t) adj: verdadero, cierto; adv: en efecto, verdaderamente, de veras'
   - text: .
 ...
