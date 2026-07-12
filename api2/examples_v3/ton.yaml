@@ -18,7 +18,7 @@
   - text: ' '
   - text: bante
     eng: 'bante (tabel: pn) pron: somebody, someone'
-    spa: 'bante (tabel: pn) alguien'
+    spa: 'bante (tabel: pn) pron: alguien'
   - text: ' '
   - text: ton
     eng: 'ton (p) prep: (together) with, (along) with'
@@ -27,7 +27,8 @@
   - text: alote
     eng: 'alote (tabel: pn) pron (animate, indefinite): somebody else, someone else;
       pron (animate, definite): the other one'
-    spa: 'alote (tabel: pn) alguien m&aacute;s, otro (ser vivo)'
+    spa: 'alote (tabel: pn) pron (animado): alguien m&aacute;s, otra persona, el otro,
+      la otra'
   - text: ' '
   - text: sahay
     eng: 'sahay (b.oj) n: help, aid, assistance; v.tr: help, aid, assist'
@@ -35,11 +36,11 @@
   - text: ' '
   - text: ete
     eng: 'ete (pn) pron (animate): they, them'
-    spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
+    spa: 'ete (pn) pron (animado): ellos, ellas, los, las, les'
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: "no"
     eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
@@ -74,7 +75,7 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: to (pn) &eacute;l (cosa), ella, elle, ello
+    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
   - text: ' '
   - text: solo
     eng: 'solo (t) adj: alone, (the) sole, (the) only; adv: alone'
@@ -86,7 +87,7 @@
   - text: ' '
   - text: sesu
     eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
-    spa: sesu (su s) su (de uno mismo)
+    spa: 'sesu (su s) adj pos: su, su propio, su propia'
   - text: ' '
   - text: hazina
     eng: 'hazina (b) n: treasure'
@@ -109,11 +110,11 @@
   - text: ' '
   - text: yu
     eng: 'yu (pn) pron: you (singular)'
-    spa: yu (pn) t&uacute;, vos, usted
+    spa: 'yu (pn) pron: t&uacute;, te, ti, vos, usted, lo, la, le'
   - text: ' '
   - text: ger
     eng: 'ger (par) par (conditional mood marker): would'
-    spa: ger (par) -&iacute;a (marcador del modo condicional)
+    spa: 'ger (par) par: marcador del modo condicional'
   - text: ' '
   - text: suki
     eng: 'suki (b.oj) n: like; v.tr: like'
@@ -121,7 +122,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: yam
     eng: 'yam (b.oj.ru) n: meal, food; v.tr: eat'
@@ -133,7 +134,7 @@
   - text: ' '
   - text: mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ?"
 - text: 'Panda jawabu: "To sen maner na onexa ki mi le suki hin momento ton yu."'
   cite:
@@ -155,11 +156,11 @@
   - text: ': "'
   - text: To
     eng: 'to (pn) pron (inanimate): it'
-    spa: to (pn) &eacute;l (cosa), ella, elle, ello
+    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: maner
     eng: 'maner (b) n: manner, way, fashion, means'
@@ -167,7 +168,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: onexa
     eng: 'onexa (b.oj) n: showing, demonstration, display, demo, performance; v.tr:
@@ -181,11 +182,11 @@
   - text: ' '
   - text: mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: suki
     eng: 'suki (b.oj) n: like; v.tr: like'
@@ -193,12 +194,11 @@
   - text: ' '
   - text: hin
     eng: 'hin (tabel: d) det: this, these'
-    spa: 'hin (tabel: d) este, estos'
+    spa: 'hin (tabel: d) det: este, esta'
   - text: ' '
   - text: momento
     eng: 'momento (b; il) n: moment, while; interj: one moment, hold on, wait'
-    spa: momento (b; il) plazo, rato, t&eacute;rmino, momento, periodo, per&iacute;odo,
-      espacio de tiempo; (un) momento
+    spa: 'momento (b; il) s: momento, rato; interj: (un) momento'
   - text: ' '
   - text: ton
     eng: 'ton (p) prep: (together) with, (along) with'
@@ -206,7 +206,7 @@
   - text: ' '
   - text: yu
     eng: 'yu (pn) pron: you (singular)'
-    spa: yu (pn) t&uacute;, vos, usted
+    spa: 'yu (pn) pron: t&uacute;, te, ti, vos, usted, lo, la, le'
   - text: ."
 - text: '"Am glu, ji am ata na jiwa ton imi per geo!"'
   cite:
@@ -220,7 +220,7 @@
   - text: '"'
   - text: Am
     eng: 'am (par) par (imperative verb marker): (do)'
-    spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
+    spa: 'am (par) par: marcador de los modos imperativo y yusivo)'
   - text: ' '
   - text: glu
     eng: 'glu (b.oj) n: drink (instance or type of); v.tr: drink'
@@ -232,7 +232,7 @@
   - text: ' '
   - text: am
     eng: 'am (par) par (imperative verb marker): (do)'
-    spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
+    spa: 'am (par) par: marcador de los modos imperativo y yusivo)'
   - text: ' '
   - text: ata
     eng: 'ata (b.nenoj) n: coming; v.intr: come'
@@ -240,7 +240,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: jiwa
     eng: 'jiwa (b.oj.ru) n: life; v.tr: live'
@@ -252,7 +252,7 @@
   - text: ' '
   - text: imi
     eng: 'imi (pn) pron: we, us'
-    spa: imi (pn) nosotros
+    spa: 'imi (pn) pron: nosotros, nosotras, nos'
   - text: ' '
   - text: per
     eng: 'per (p) prep: on, upon, over, aboard'
@@ -288,7 +288,8 @@
   - text: multi
     eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
       lot, a great deal'
-    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
+    spa: 'multi (d; m) det: mucho, mucha, muchos, muchas, un mont&oacute;n (de); adv:
+      mucho'
   - text: ' '
   - text: turiyen
     eng: 'turiyen (b) n: tourist'
@@ -308,12 +309,13 @@
   - text: ' '
   - text: ete
     eng: 'ete (pn) pron (animate): they, them'
-    spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
+    spa: 'ete (pn) pron (animado): ellos, ellas, los, las, les'
   - text: ', '
   - text: multi
     eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
       lot, a great deal'
-    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
+    spa: 'multi (d; m) det: mucho, mucha, muchos, muchas, un mont&oacute;n (de); adv:
+      mucho'
   - text: ' '
   - text: maydoyen
     eng: 'maydoyen (b) n: seller'
@@ -329,11 +331,12 @@
   - text: ' '
   - text: da
     eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
-    spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
+    spa: 'da (pn) pron (pronombre relativo): &eacute;l, ella, ello, ellos, ellas,
+      lo, la, los, las, le, les'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: ewreka
     eng: 'ewreka (b.oj) n: discovery, find, finding; v.tr: discover, find, locate'
@@ -376,7 +379,7 @@
   - text: ' '
   - text: sesu
     eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
-    spa: sesu (su s) su (de uno mismo)
+    spa: 'sesu (su s) adj pos: su, su propio, su propia'
   - text: ' '
   - text: dao
     eng: 'dao (b.oj.ru) n: path, way, route; v.tr: travel'
@@ -385,8 +388,7 @@
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: sol
     eng: 'sol (m) adv: only, solely, merely, purely, simply, just, but (poetic)'
@@ -411,7 +413,7 @@
   - text: ' '
   - text: alo
     eng: 'alo (tabel: d) det: other, another, a different'
-    spa: 'alo (tabel: d) otro, diferente'
+    spa: 'alo (tabel: d) det: otro, otra'
   - text: ' '
   - text: xogyoyen
   - text: .
@@ -428,7 +430,8 @@
   - text: Xafe
     eng: 'xafe (p; lfik) prep: after (+ noun), in (+ period of time), (period of time
       +) from now; pfx: post-'
-    spa: xafe (p; lfik) despu&eacute;s (de), en (+ periodo de tiempo), dentro de
+    spa: 'xafe (p; lfik) prep: despu&eacute;s de, en (+ periodo de tiempo), dentro
+      de; pfj: pos-, post-'
   - text: ' '
   - text: watumon
     eng: 'watumon (b) n: period (of time), time period, while, term'
@@ -437,8 +440,7 @@
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: fikir
     eng: 'fikir (b.oj) n: thought; v.tr: think'
@@ -446,17 +448,17 @@
   - text: ': "'
   - text: Mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: xogyoyen
   - text: ', '
   - text: mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ' '
   - text: ible
     eng: 'ible (t) adj: possible, potential adv: maybe, perhaps, might, possibly,
@@ -472,7 +474,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: zakere
     eng: 'zakere (b.oj) n: negotiation; v.tr: negotiate'
@@ -494,8 +496,7 @@
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: "no"
     eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
@@ -528,11 +529,11 @@
   - text: ', '
   - text: mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: buka
     eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
@@ -550,7 +551,7 @@
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: tyao
     eng: 'tyao (b.oj.ru) n: jump, leap; v.tr: jump, leap'
@@ -603,7 +604,7 @@
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: sohovada
     eng: 'sohovada (b.oj) n: agreement, commitment, deal; v.tr: agree (to), commit
@@ -613,7 +614,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: dadal
     eng: 'dadal (b.oj) n: achievement, accomplishment; v.tr: achieve, accomplish,
@@ -711,7 +712,7 @@
   translations:
   - text: Moyte
     eng: 'moyte (tabel: pn) pron: everybody, everyone'
-    spa: 'moyte (tabel: pn) todos, todo mundo'
+    spa: 'moyte (tabel: pn) pron: todos, todas, todo el mundo'
   - text: ' '
   - text: haki
     eng: 'haki (b.oj) n: right (civics); v.tr: have the right (to)'
@@ -748,7 +749,7 @@
   - text: '; '
   - text: hin
     eng: 'hin (tabel: d) det: this, these'
-    spa: 'hin (tabel: d) este, estos'
+    spa: 'hin (tabel: d) det: este, esta'
   - text: ' '
   - text: haki
     eng: 'haki (b.oj) n: right (civics); v.tr: have the right (to)'
@@ -764,7 +765,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: alogi
     eng: 'alogi (b.oj) n: change, alteration; v.tr: change, alter, make (something/somebody)
@@ -774,7 +775,7 @@
   - text: ' '
   - text: sesu
     eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
-    spa: sesu (su s) su (de uno mismo)
+    spa: 'sesu (su s) adj pos: su, su propio, su propia'
   - text: ' '
   - text: dini
     eng: 'dini (b) n: religion'
@@ -819,7 +820,8 @@
   - text: alote
     eng: 'alote (tabel: pn) pron (animate, indefinite): somebody else, someone else;
       pron (animate, definite): the other one'
-    spa: 'alote (tabel: pn) alguien m&aacute;s, otro (ser vivo)'
+    spa: 'alote (tabel: pn) pron (animado): alguien m&aacute;s, otra persona, el otro,
+      la otra'
   - text: ', '
   - text: ji
     eng: 'ji (l) conj: and'
@@ -839,7 +841,7 @@
   - text: ', '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: vyata
     eng: 'vyata (b.oj) n: expression; v.tr: express'
@@ -847,7 +849,7 @@
   - text: ' '
   - text: sesu
     eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
-    spa: sesu (su s) su (de uno mismo)
+    spa: 'sesu (su s) adj pos: su, su propio, su propia'
   - text: ' '
   - text: dini
     eng: 'dini (b) n: religion'
@@ -902,7 +904,7 @@
   translations:
   - text: Moyte
     eng: 'moyte (tabel: pn) pron: everybody, everyone'
-    spa: 'moyte (tabel: pn) todos, todo mundo'
+    spa: 'moyte (tabel: pn) pron: todos, todas, todo el mundo'
   - text: ', '
   - text: kom
     eng: 'kom (l) conj: as (comparable to), than (as compared with)'
@@ -1002,7 +1004,7 @@
   - text: ' '
   - text: moy
     eng: 'moy (tabel: d) det: every, each, all'
-    spa: 'moy (tabel: d) cada, todo'
+    spa: 'moy (tabel: d) det: todo, toda, cada'
   - text: ' '
   - text: nasyon
     eng: 'nasyon (b) n: nation'
@@ -1010,7 +1012,7 @@
   - text: ', '
   - text: moyte
     eng: 'moyte (tabel: pn) pron: everybody, everyone'
-    spa: 'moyte (tabel: pn) todos, todo mundo'
+    spa: 'moyte (tabel: pn) pron: todos, todas, todo el mundo'
   - text: ' '
   - text: haki
     eng: 'haki (b.oj) n: right (civics); v.tr: have the right (to)'
@@ -1036,7 +1038,7 @@
   - text: ' '
   - text: den
     eng: 'den (tabel: d) det: that, those'
-    spa: 'den (tabel: d) ese, aquel'
+    spa: 'den (tabel: d) det: ese, esa, aquel, aquella'
   - text: ' '
   - text: ekonomili
     eng: 'ekonomili (t) adj: economic; adv: economically'
@@ -1066,7 +1068,7 @@
   - text: ' '
   - text: tesu
     eng: 'tesu (su s) poss adj (belonging to being): her, his, its, their'
-    spa: tesu (su s) su (de un ser vivo)
+    spa: 'tesu (su s) adj pos (de ser): su'
   - text: ' '
   - text: sungen
     eng: 'sungen (b) n: dignity'
@@ -1099,7 +1101,7 @@
   - text: ' '
   - text: tesu
     eng: 'tesu (su s) poss adj (belonging to being): her, his, its, their'
-    spa: tesu (su s) su (de un ser vivo)
+    spa: 'tesu (su s) adj pos (de ser): su'
   - text: ' '
   - text: personya
     eng: 'personya (b) n: personhood, individuality, personality'
@@ -1120,7 +1122,7 @@
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: ton
     eng: 'ton (p) prep: (together) with, (along) with'
@@ -1128,7 +1130,7 @@
   - text: ' '
   - text: yu
     eng: 'yu (pn) pron: you (singular)'
-    spa: yu (pn) t&uacute;, vos, usted
+    spa: 'yu (pn) pron: t&uacute;, te, ti, vos, usted, lo, la, le'
   - text: .
 - text: Prehay posyesen rubahe, hu da sen especifimo riprodutido dur plu generasi
     cel na ogar ton insan.
@@ -1158,11 +1160,12 @@
   - text: ' '
   - text: da
     eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
-    spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
+    spa: 'da (pn) pron (pronombre relativo): &eacute;l, ella, ello, ellos, ellas,
+      lo, la, los, las, le, les'
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: especifimo
   - text: ' '
@@ -1186,7 +1189,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: ogar
     eng: 'ogar (b.oj; b.nenoj.p) n: home, dwelling; v.tr: live in, inhabit; v.intr:
@@ -1239,7 +1242,7 @@
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: jixifil
     eng: 'jixifil (t) adj: curious; adv: curiously'
@@ -1264,7 +1267,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: intreaksyon
     eng: 'intreaksyon (b.nenoj) n: interaction; v.intr: interact'
@@ -1276,7 +1279,7 @@
   - text: ' '
   - text: alo
     eng: 'alo (tabel: d) det: other, another, a different'
-    spa: 'alo (tabel: d) otro, diferente'
+    spa: 'alo (tabel: d) det: otro, otra'
   - text: ' '
   - text: ogarhewan
     eng: 'ogarhewan (b) n: pet'
@@ -1315,7 +1318,7 @@
   - text: ' '
   - text: moy
     eng: 'moy (tabel: d) det: every, each, all'
-    spa: 'moy (tabel: d) cada, todo'
+    spa: 'moy (tabel: d) det: todo, toda, cada'
   - text: ' '
   - text: katinaxey
     eng: 'katinaxey (b) n: difficulty, difficulties, trouble'
@@ -1323,7 +1326,7 @@
   - text: ', '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: ogar
     eng: 'ogar (b.oj; b.nenoj.p) n: home, dwelling; v.tr: live in, inhabit; v.intr:
@@ -1338,7 +1341,8 @@
   - text: denpul
     eng: 'denpul (tabel: t) adj: that kind of, such (a); adv: like that, thus, (in)
       that way'
-    spa: 'denpul (tabel: t) tal, as&iacute;, (de) ese tipo (de)'
+    spa: 'denpul (tabel: t) adj: ese tipo de, esa clase de, tal; adv: as&iacute;,
+      de ese modo, de esa manera'
   - text: ' '
   - text: nenpimpan
     eng: 'nenpimpan (t) adj: infrequent, uncommon, unusual; adv: infrequently, uncommonly,
@@ -1352,7 +1356,7 @@
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: daymo
     eng: 'daymo (m) adv: greatly (+ adj), very, really (+ adj), highly'
@@ -1369,7 +1373,7 @@
   translations:
   - text: Moy
     eng: 'moy (tabel: d) det: every, each, all'
-    spa: 'moy (tabel: d) cada, todo'
+    spa: 'moy (tabel: d) det: todo, toda, cada'
   - text: ' '
   - text: piu
     eng: 'piu (b) n: bird (Aves)'
@@ -1400,8 +1404,7 @@
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: in
     eng: 'in (p) prep: at (place), in (place), inside (of), within'
@@ -1422,12 +1425,12 @@
   - text: Te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: sencu
     eng: 'sencu (b.lin) n: becoming; v.cop: become, get, turn (into)'
-    spa: sencu (b.lin) hacerse, volverse, transformarse en
+    spa: 'sencu (b.lin) v.cop: hacerse, volverse, ponerse, transformarse en, convertirse
+      en'
   - text: ' '
   - text: maxmo
     eng: 'maxmo (m) adv: more (+ adj)'
@@ -1443,7 +1446,7 @@
   - text: ' '
   - text: moyun
     eng: 'moyun (d) det: each (one)'
-    spa: moyun (d) cada uno
+    spa: 'moyun (d) det: cada uno'
   - text: ' '
   - text: hikaye
     eng: 'hikaye (b.oj) n: story, narrative, tale; v.tr: narrate, relate, recount'
@@ -1457,8 +1460,7 @@
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: xorhare
     eng: 'xorhare (b.oj) n: acquisition; v.tr: acquire, gain, win, obtain'
@@ -1506,7 +1508,7 @@
   - text: ' '
   - text: sesu
     eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
-    spa: sesu (su s) su (de uno mismo)
+    spa: 'sesu (su s) adj pos: su, su propio, su propia'
   - text: ' '
   - text: neo
     eng: 'neo (t) adj: new, neo-; adv: newly (in a new way)'
@@ -1522,7 +1524,7 @@
   - text: ' '
   - text: sesu
     eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
-    spa: sesu (su s) su (de uno mismo)
+    spa: 'sesu (su s) adj pos: su, su propio, su propia'
   - text: ' '
   - text: dostetim
     eng: 'dostetim (b) n: group of friends, gang'
@@ -1547,7 +1549,8 @@
   - text: Denpul
     eng: 'denpul (tabel: t) adj: that kind of, such (a); adv: like that, thus, (in)
       that way'
-    spa: 'denpul (tabel: t) tal, as&iacute;, (de) ese tipo (de)'
+    spa: 'denpul (tabel: t) adj: ese tipo de, esa clase de, tal; adv: as&iacute;,
+      de ese modo, de esa manera'
   - text: ' '
   - text: eskri
     eng: 'eskri (b.oj) n: writing (countable); v.tr: write'
@@ -1555,7 +1558,7 @@
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: maxmo
     eng: 'maxmo (m) adv: more (+ adj)'
@@ -1567,7 +1570,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: doxo
     eng: 'doxo (b.oj.ru) n: reading (countable); v.tr: read'
@@ -1583,11 +1586,11 @@
   - text: ' '
   - text: banto
     eng: 'banto (tabel: pn) pron: something'
-    spa: 'banto (tabel: pn) algo'
+    spa: 'banto (tabel: pn) pron: algo'
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: maxmo
     eng: 'maxmo (m) adv: more (+ adj)'
@@ -1599,7 +1602,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: doxo
     eng: 'doxo (b.oj.ru) n: reading (countable); v.tr: read'
@@ -1627,6 +1630,6 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: to (pn) &eacute;l (cosa), ella, elle, ello
+    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
   - text: .
 ...

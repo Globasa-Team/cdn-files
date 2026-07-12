@@ -10,11 +10,11 @@
   translations:
   - text: Moywatu
     eng: 'moywatu (tabel: m) adv: always'
-    spa: 'moywatu (tabel: m) siempre'
+    spa: 'moywatu (tabel: m) adv: siempre'
   - text: ', '
   - text: ete
     eng: 'ete (pn) pron (animate): they, them'
-    spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
+    spa: 'ete (pn) pron (animado): ellos, ellas, los, las, les'
   - text: ' '
   - text: "no"
     eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
@@ -22,7 +22,7 @@
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: kufimo
     eng: 'kufimo (m) adv: sufficiently (+ adj), (+ adj) enough'
@@ -53,7 +53,7 @@
   - text: ', '
   - text: denwatu
     eng: 'denwatu (tabel: m) adv: then (at that time/moment)'
-    spa: 'denwatu (tabel: m) en ese momento, entonces'
+    spa: 'denwatu (tabel: m) adv: entonces, en ese momento, en aquel momento'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -61,11 +61,11 @@
   - text: ' '
   - text: mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: fale
     eng: 'fale (b.oj) n: deed, act; v.tr: do, make, perform'
@@ -91,7 +91,7 @@
   - text: ' '
   - text: misu
     eng: 'misu (su s) poss adj: my'
-    spa: misu (su s) mi
+    spa: 'misu (su s) adj pos: mi'
   - text: ' '
   - text: kapi
     eng: 'kapi (b) n: head; n: top'
@@ -99,11 +99,11 @@
   - text: ', '
   - text: mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: ingi
     eng: 'ingi (b.oj) n: insertion, entry; v.tr: insert, enter, put in'
@@ -130,7 +130,7 @@
   - text: ' '
   - text: nil
     eng: 'nil (tabel: num; d) num: zero; det: no, no- (nothing, nobody, etc.)'
-    spa: 'nil (tabel: num; d) cero, ning&uacute;n'
+    spa: 'nil (tabel: num; d) num: cero; det: ning&uacute;n, ninguna'
   - text: ' '
   - text: lumin
     eng: 'lumin (b.oj) n: light; v.tr: light, illuminate, emit light (on)'
@@ -150,11 +150,11 @@
   - text: ', '
   - text: mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: pasgi
     eng: 'pasgi (b.oj) v.tr: put through, take through'
@@ -162,7 +162,7 @@
   - text: ' '
   - text: misu
     eng: 'misu (su s) poss adj: my'
-    spa: misu (su s) mi
+    spa: 'misu (su s) adj pos: mi'
   - text: ' '
   - text: kapi
     eng: 'kapi (b) n: head; n: top'
@@ -187,7 +187,7 @@
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: kufimo
     eng: 'kufimo (m) adv: sufficiently (+ adj), (+ adj) enough'
@@ -195,17 +195,16 @@
   - text: ' '
   - text: xosu
     eng: 'xosu (d; m) det: few, a bit of, a little bit of; adv: a bit, a little (bit)'
-    spa: xosu (d; m) poco, pocos
+    spa: 'xosu (d; m) det: poco, poca, pocos, pocas; adv: poco'
   - text: ', '
   - text: max
     eng: 'max (d; m) det: more; adv: more'
-    spa: max (d; m) m&aacute;s
+    spa: 'max (d; m) det: m&aacute;s; adv: m&aacute;s'
   - text: ' '
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: duregi
     eng: 'duregi (b.oj) n: continuation; v.tr: continue (with), go on (with), keep

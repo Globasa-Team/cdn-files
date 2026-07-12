@@ -10,11 +10,11 @@
   translations:
   - text: Moy
     eng: 'moy (tabel: d) det: every, each, all'
-    spa: 'moy (tabel: d) cada, todo'
+    spa: 'moy (tabel: d) det: todo, toda, cada'
   - text: ' '
   - text: alo
     eng: 'alo (tabel: d) det: other, another, a different'
-    spa: 'alo (tabel: d) otro, diferente'
+    spa: 'alo (tabel: d) det: otro, otra'
   - text: ' '
   - text: rubahe
     eng: 'rubahe (b) n: fox'
@@ -27,8 +27,7 @@
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ', '
   - text: mas
     eng: 'mas (l) conj: but'
@@ -52,7 +51,7 @@
   - text: ' '
   - text: tesu
     eng: 'tesu (su s) poss adj (belonging to being): her, his, its, their'
-    spa: tesu (su s) su (de un ser vivo)
+    spa: 'tesu (su s) adj pos (de ser): su'
   - text: ' '
   - text: belo
     eng: 'belo (b) n: hair, fur'
@@ -60,7 +59,7 @@
   - text: ', '
   - text: ete
     eng: 'ete (pn) pron (animate): they, them'
-    spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
+    spa: 'ete (pn) pron (animado): ellos, ellas, los, las, les'
   - text: ' '
   - text: "no"
     eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
@@ -107,7 +106,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: bujo
     eng: 'bujo (b.oj) n: capture, catch; v.tr: capture, catch'
@@ -158,8 +157,7 @@
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: taslum
     eng: 'taslum (b.oj) n: receipt, reception, receiving; v.tr: receive, get'
@@ -181,12 +179,11 @@
   - text: Te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: sukses
     eng: 'sukses (b.nenoj) n: success; v.intr: succeed'
@@ -194,7 +191,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: hifazi
     eng: 'hifazi (b.oj) n: holding, saving, retention; v.tr: hold, save, retain, keep,
@@ -217,7 +214,7 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: to (pn) &eacute;l (cosa), ella, elle, ello
+    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
   - text: .
 - text: Te no sukses na rasamu dur total din.
   cite:
@@ -231,8 +228,7 @@
   - text: Te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: "no"
     eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
@@ -244,7 +240,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: rasamu
     eng: 'rasamu (b.oj) n: drawing, illustration; v.tr: draw, illustrate'
@@ -279,7 +275,7 @@
   - text: ' '
   - text: keloka
     eng: 'keloka (tabel: m) adv (interrogative): where'
-    spa: 'keloka (tabel: m) d&oacute;nde (interrogativo)'
+    spa: 'keloka (tabel: m) adv (interrogativo): d&oacute;nde, ad&oacute;nde'
   - text: ' '
   - text: hay
     eng: 'hay (b.nenoj) n: existence, presence; v.intr: there is, there are'
@@ -304,17 +300,16 @@
   - text: ' '
   - text: kemaner
     eng: 'kemaner (tabel: m) adv (interrogative): how (done by what manner)'
-    spa: 'kemaner (tabel: m) c&oacute;mo (interrogativo), de qu&eacute; manera'
+    spa: 'kemaner (tabel: m) adv (interrogativo): c&oacute;mo'
   - text: ' '
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: yunki
     eng: 'yunki (b.oro.jotay) n: courage; v.tr: make (somebody) courageous, encourage;
@@ -342,12 +337,11 @@
   - text: Te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: xidu
     eng: 'xidu (b.oj) n: attempt, try; v.tr: attempt, try'
@@ -355,7 +349,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: imanugi
     eng: 'imanugi (b.oj) v.tr: convince'
@@ -364,8 +358,7 @@
   - text: se
     eng: 'se (pn) pron (reflexive): myself, yourself, herself, himself, themself,
       itself, themselves, ourselves, yourselves'
-    spa: se (pn) se (pronombre reflexivo), me, te, nos, os, a s&iacute; mismo, &eacute;l
-      mismo
+    spa: 'se (pn) pron (reflexivo): me, te, se, nos, os, m&iacute;, ti, s&iacute;'
   - text: ' '
   - text: ki
     eng: 'ki (l) conj: that'
@@ -373,11 +366,11 @@
   - text: ' '
   - text: oto
     eng: 'oto (pn) pron (inanimate): they, them'
-    spa: oto (pn) ellos (cosas)
+    spa: 'oto (pn) pron (inanimado): ellos, ellas, los, las, les'
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: basikal
     eng: 'basikal (t) adj: baseless; adv: baselessly, without base'
@@ -390,12 +383,11 @@
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: "no"
     eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'
@@ -421,12 +413,11 @@
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: xidu
     eng: 'xidu (b.oj) n: attempt, try; v.tr: attempt, try'
@@ -434,7 +425,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: anwi
     eng: 'anwi (b.oro.hisi) n: consolation, solace; v.tr: console, comfort, cheer
@@ -445,8 +436,7 @@
   - text: se
     eng: 'se (pn) pron (reflexive): myself, yourself, herself, himself, themself,
       itself, themselves, ourselves, yourselves'
-    spa: se (pn) se (pronombre reflexivo), me, te, nos, os, a s&iacute; mismo, &eacute;l
-      mismo
+    spa: 'se (pn) pron (reflexivo): me, te, se, nos, os, m&iacute;, ti, s&iacute;'
   - text: ' '
   - text: yon
     eng: 'yon (p) prep: with (the use of), by using, by means of, through, via'
@@ -454,7 +444,7 @@
   - text: ' '
   - text: hin
     eng: 'hin (tabel: d) det: this, these'
-    spa: 'hin (tabel: d) este, estos'
+    spa: 'hin (tabel: d) det: este, esta'
   - text: ' '
   - text: plu
     eng: 'plu (t) adj: multiple, some (several)'
@@ -472,12 +462,11 @@
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: "no"
     eng: 'no (m) adv: no, not, don&#039;t, do not, doesn&#039;t, does not'

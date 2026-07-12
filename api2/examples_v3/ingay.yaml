@@ -11,7 +11,7 @@
   translations:
   - text: Ete
     eng: 'ete (pn) pron (animate): they, them'
-    spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
+    spa: 'ete (pn) pron (animado): ellos, ellas, los, las, les'
   - text: ' '
   - text: sohovada
     eng: 'sohovada (b.oj) n: agreement, commitment, deal; v.tr: agree (to), commit
@@ -25,7 +25,7 @@
   - text: ' '
   - text: dente
     eng: 'dente (tabel: pn) pron (animate): that (one)'
-    spa: 'dente (tabel: pn) ese (ser vivo), &eacute;se, aquel, aqu&eacute;l'
+    spa: 'dente (tabel: pn) pron (animado): ese, esa, aquel, aquella'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -33,7 +33,8 @@
   - text: ' '
   - text: da
     eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
-    spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
+    spa: 'da (pn) pron (pronombre relativo): &eacute;l, ella, ello, ellos, ellas,
+      lo, la, los, las, le, les'
   - text: ' '
   - text: unyum
     eng: 'unyum (t) adj: first; adv: firstly, first'
@@ -57,7 +58,7 @@
   - text: ' '
   - text: sesu
     eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
-    spa: sesu (su s) su (de uno mismo)
+    spa: 'sesu (su s) adj pos: su, su propio, su propia'
   - text: ' '
   - text: kapa
     eng: 'kapa (b) n: cape, cloak'
@@ -70,17 +71,17 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: beganci
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: maxmo
     eng: 'maxmo (m) adv: more (+ adj)'
@@ -97,13 +98,12 @@
   - text: ' '
   - text: alo
     eng: 'alo (tabel: d) det: other, another, a different'
-    spa: 'alo (tabel: d) otro, diferente'
+    spa: 'alo (tabel: d) det: otro, otra'
   - text: ' '
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: .
 - text: Mas yu le ingay na oko mi.
   cite:
@@ -120,11 +120,11 @@
   - text: ' '
   - text: yu
     eng: 'yu (pn) pron: you (singular)'
-    spa: yu (pn) t&uacute;, vos, usted
+    spa: 'yu (pn) pron: t&uacute;, te, ti, vos, usted, lo, la, le'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: ingay
     eng: 'ingay (t; f.sah) adj: which should, which ought (to); v.aux: should, ought
@@ -133,7 +133,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: oko
     eng: 'oko (b.oj) n: eye; v.tr: eye, see, look, watch, view'
@@ -141,7 +141,7 @@
   - text: ' '
   - text: mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: .
 - text: Yu le ingay na oko ku mi le aksyon kemo gomyo; daymo juipul, daymo cinonpul,
     daymo sirili, mi le ergo!
@@ -155,11 +155,11 @@
   translations:
   - text: Yu
     eng: 'yu (pn) pron: you (singular)'
-    spa: yu (pn) t&uacute;, vos, usted
+    spa: 'yu (pn) pron: t&uacute;, te, ti, vos, usted, lo, la, le'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: ingay
     eng: 'ingay (t; f.sah) adj: which should, which ought (to); v.aux: should, ought
@@ -168,7 +168,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: oko
     eng: 'oko (b.oj) n: eye; v.tr: eye, see, look, watch, view'
@@ -180,11 +180,11 @@
   - text: ' '
   - text: mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: aksyon
     eng: 'aksyon (b.nenoj) n: action, activity, performance; v.intr: act, take action,
@@ -194,7 +194,7 @@
   - text: ' '
   - text: kemo
     eng: 'kemo (tabel: m) adv (interrogative): how, to what degree'
-    spa: 'kemo (tabel: m) cu&aacute;n (interrogativo), qu&eacute; tan'
+    spa: 'kemo (tabel: m) adv (interrogativo): qu&eacute; tan, cu&aacute;n, cu&aacute;nto'
   - text: ' '
   - text: gomyo
     eng: 'gomyo (t) adj: witty, clever, sharp, astute, ingenious, slick, crafty, sly,
@@ -229,11 +229,11 @@
   - text: ', '
   - text: mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: ergo
     eng: 'ergo (b.oj.ru) n: work, labor, job; v.tr: work'
@@ -254,11 +254,11 @@
   - text: ', '
   - text: yu
     eng: 'yu (pn) pron: you (singular)'
-    spa: yu (pn) t&uacute;, vos, usted
+    spa: 'yu (pn) pron: t&uacute;, te, ti, vos, usted, lo, la, le'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: ingay
     eng: 'ingay (t; f.sah) adj: which should, which ought (to); v.aux: should, ought
@@ -267,7 +267,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: oko
     eng: 'oko (b.oj) n: eye; v.tr: eye, see, look, watch, view'
@@ -279,11 +279,11 @@
   - text: ' '
   - text: mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: pasgi
     eng: 'pasgi (b.oj) v.tr: put through, take through'
@@ -291,11 +291,11 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: to (pn) &eacute;l (cosa), ella, elle, ello
+    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
   - text: ' '
   - text: kemo
     eng: 'kemo (tabel: m) adv (interrogative): how, to what degree'
-    spa: 'kemo (tabel: m) cu&aacute;n (interrogativo), qu&eacute; tan'
+    spa: 'kemo (tabel: m) adv (interrogativo): qu&eacute; tan, cu&aacute;n, cu&aacute;nto'
   - text: ' '
   - text: gomyo
     eng: 'gomyo (t) adj: witty, clever, sharp, astute, ingenious, slick, crafty, sly,
@@ -314,7 +314,7 @@
   translations:
   - text: Ete
     eng: 'ete (pn) pron (animate): they, them'
-    spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
+    spa: 'ete (pn) pron (animado): ellos, ellas, los, las, les'
   - text: ' '
   - text: hare
     eng: 'hare (b.oj) v.tr: have'
@@ -338,7 +338,7 @@
   - text: ' '
   - text: ete
     eng: 'ete (pn) pron (animate): they, them'
-    spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
+    spa: 'ete (pn) pron (animado): ellos, ellas, los, las, les'
   - text: ' '
   - text: ingay
     eng: 'ingay (t; f.sah) adj: which should, which ought (to); v.aux: should, ought
@@ -347,7 +347,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: soho
     eng: 'soho (t) adj: reciprocal, mutual; adv: reciprocally, mutually, each other'
@@ -392,7 +392,7 @@
   - text: ' '
   - text: ren
     eng: 'ren (pn) pron (impersonal): one'
-    spa: ren (pn) uno (pronombre)
+    spa: 'ren (pn) pron (impersonal): uno, una, se'
   - text: ' '
   - text: ingay
     eng: 'ingay (t; f.sah) adj: which should, which ought (to); v.aux: should, ought
@@ -401,11 +401,11 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: nilwatu
     eng: 'nilwatu (tabel: m) adv: never'
-    spa: 'nilwatu (tabel: m) nunca'
+    spa: 'nilwatu (tabel: m) adv: nunca, jam&aacute;s'
   - text: ' '
   - text: fale
     eng: 'fale (b.oj) n: deed, act; v.tr: do, make, perform'
@@ -413,7 +413,7 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: to (pn) &eacute;l (cosa), ella, elle, ello
+    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
   - text: ' '
   - text: nyatukal
   - text: .

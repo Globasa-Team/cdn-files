@@ -7045,11 +7045,9 @@ hasratu:
 hasyum:
 - hasyum
 hata:
-- hata_un
+- no_hata_un
 - hata
 - no_hata
-hata un:
-- hata_un
 hatali:
 - hatali
 hatari:
@@ -13114,6 +13112,7 @@ nitrogen:
 "no":
 - no_abil
 - no_hay_seba
+- no_hata_un
 - le_no
 - xa_no
 - eger_no
@@ -13127,6 +13126,8 @@ no haji:
 - no_haji
 no hata:
 - no_hata
+no hata un:
+- no_hata_un
 no hay seba:
 - no_hay_seba
 no uje:
@@ -17880,7 +17881,7 @@ un:
 - mesi_un_dua
 - mesi_un_un
 - token_un
-- hata_un
+- no_hata_un
 - des_un
 - un
 - fe_un_mara

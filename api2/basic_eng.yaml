@@ -132,7 +132,8 @@
   term: -sa
   class: b xfik
   category: affix
-  translation: 'n sfx: language, animal sounds'
+  translation: 'n sfx: language, animal sounds; v.intr sfx: speak language, make animal
+    sound'
 -sim:
   term: -sim
   class: t xfik
@@ -162,7 +163,7 @@
   term: -ya
   class: b xfik
   category: affix
-  translation: 'n sfx: <em>abstract nouns</em>'
+  translation: 'n sfx: <em>abstract nouns</em>, property of, quality of, -ness, -ity'
 -yen:
   term: -yen
   class: b xfik
@@ -7916,7 +7917,7 @@ daydenmo_multi:
   term: daydenmo multi
   class: 'tabel: d; m'
   category: phrase
-  translation: 'det: so many, so much; m: so much'
+  translation: 'det: so many, so much; adv: so much'
 daydennumer:
   term: daydennumer
   class: 'tabel: d'
@@ -9642,8 +9643,8 @@ du-:
   term: du-
   class: lfik
   category: affix
-  translation: 'pfx: <em>continuous aspect</em>, <em>habitual aspect</em>; pfx: <em>gerund
-    (the act of)</em>'
+  translation: 'n pfx: <em>gerund (the act of)</em>; v pfx: <em>continuous aspect</em>,
+    <em>habitual aspect</em>'
 dua:
   term: dua
   class: num
@@ -16769,11 +16770,6 @@ hata:
   class: m
   category: root
   translation: 'adv: even (<em>as in &quot;even more&quot; or &quot;even he&quot;</em>)'
-hata_un:
-  term: hata un
-  class: jm
-  category: phrase
-  translation: 'phrs: even one, a single'
 hatali:
   term: hatali
   class: t
@@ -22162,7 +22158,7 @@ kekwanti:
   class: 'tabel: d; m'
   category: derived
   translation: 'det (interrogative): how much (<em>what quantity of, what amount of</em>);
-    m (interrogative): how much'
+    adv (interrogative): how much'
 kelne:
   term: kelne
   class: b
@@ -31185,6 +31181,11 @@ no_hata:
   class: m
   category: phrase
   translation: 'adv: not even'
+no_hata_un:
+  term: no hata un
+  class: jm
+  category: phrase
+  translation: 'phrs: not even one, not even a single'
 no_hay_seba:
   term: no hay seba
   class: il
@@ -34521,7 +34522,7 @@ pos-:
   term: pos-
   class: lfik
   category: affix
-  translation: 'pfx: opposite (<em>contrary</em>)'
+  translation: 'pfx: opposite'
 posabone:
   term: posabone
   class: b.oj
@@ -37817,82 +37818,83 @@ sen_anti:
   term: sen anti
   class: jm
   category: phrase
-  translation: 'cop plus prep: be against'
+  translation: 'v.cop plus prep: be against'
 sen_bax:
   term: sen bax
   class: jm
   category: phrase
-  translation: 'cop plus prep: be under'
+  translation: 'v.cop plus prep: be under'
 sen_cis:
   term: sen cis
   class: jm
   category: phrase
-  translation: 'cop plus prep: be on this side of'
+  translation: 'v.cop plus prep: be on this side of'
 sen_de:
   term: sen de
   class: jm
   category: phrase
-  translation: 'cop plus prep: belong to, be (<em>somebody</em>)&#039;s'
+  translation: 'v.cop plus prep: belong to, be (<em>somebody</em>)&#039;s'
 sen_dur:
   term: sen dur
   class: jm
   category: phrase
-  translation: 'cop plus prep: be during, occur during'
+  translation: 'v.cop plus prep: be during, occur during'
 sen_ex:
   term: sen ex
   class: jm
   category: phrase
-  translation: 'cop plus prep: be outside of'
+  translation: 'v.cop plus prep: be outside of'
 sen_fal:
   term: sen fal
   class: jm
   category: phrase
-  translation: 'cop plus prep: be (done) by'
+  translation: 'v.cop plus prep: be (done) by'
 sen_fe:
   term: sen fe
   class: jm
   category: phrase
-  translation: 'cop plus prep: be at (<em>in, on, for, of</em>)'
+  translation: 'v.cop plus prep: be at (<em>in, on, for, of</em>)'
 sen_fol:
   term: sen fol
   class: jm
   category: phrase
-  translation: 'cop plus prep: be along, be alongside (of), be by, be according to'
+  translation: 'v.cop plus prep: be along, be alongside (of), be by, be according
+    to'
 sen_hoy:
   term: sen hoy
   class: jm
   category: phrase
-  translation: 'cop plus prep: be toward(s)'
+  translation: 'v.cop plus prep: be toward(s)'
 sen_in:
   term: sen in
   class: jm
   category: phrase
-  translation: 'cop plus prep: be inside of, be in '
+  translation: 'v.cop plus prep: be inside of, be in '
 sen_infra:
   term: sen infra
   class: jm
   category: phrase
-  translation: 'cop plus prep: be below'
+  translation: 'v.cop plus prep: be below'
 sen_intre:
   term: sen intre
   class: jm
   category: phrase
-  translation: 'cop plus prep: be between'
+  translation: 'v.cop plus prep: be between'
 sen_kos:
   term: sen kos
   class: jm
   category: phrase
-  translation: 'cop plus prep: be because, be due to'
+  translation: 'v.cop plus prep: be because, be due to'
 sen_of:
   term: sen of
   class: jm
   category: phrase
-  translation: 'cop plus prep: be from'
+  translation: 'v.cop plus prep: be from'
 sen_pas:
   term: sen pas
   class: jm
   category: phrase
-  translation: 'cop plus prep: be through'
+  translation: 'v.cop plus prep: be through'
 sen_peldo:
   term: sen peldo
   class: f jm
@@ -37902,57 +37904,57 @@ sen_per:
   term: sen per
   class: jm
   category: phrase
-  translation: 'cop plus prep: be on'
+  translation: 'v.cop plus prep: be on'
 sen_por:
   term: sen por
   class: jm
   category: phrase
-  translation: 'cop plus prep: be in exchange for'
+  translation: 'v.cop plus prep: be in exchange for'
 sen_pro:
   term: sen pro
   class: jm
   category: phrase
-  translation: 'cop plus prep: be in favor of, be in favour of, be for'
+  translation: 'v.cop plus prep: be in favor of, be in favour of, be for'
 sen_supra:
   term: sen supra
   class: jm
   category: phrase
-  translation: 'cop plus prep: be above'
+  translation: 'v.cop plus prep: be above'
 sen_tas:
   term: sen tas
   class: jm
   category: phrase
-  translation: 'cop plus prep: be for'
+  translation: 'v.cop plus prep: be for'
 sen_tem:
   term: sen tem
   class: jm
   category: phrase
-  translation: 'cop plus prep: be about, be regarding'
+  translation: 'v.cop plus prep: be about, be regarding'
 sen_ton:
   term: sen ton
   class: jm
   category: phrase
-  translation: 'cop plus prep: be with, be in the company of'
+  translation: 'v.cop plus prep: be with, be in the company of'
 sen_tras:
   term: sen tras
   class: jm
   category: phrase
-  translation: 'cop plus prep: be across'
+  translation: 'v.cop plus prep: be across'
 sen_ultra:
   term: sen ultra
   class: jm
   category: phrase
-  translation: 'cop plus prep: be beyond'
+  translation: 'v.cop plus prep: be beyond'
 sen_wal:
   term: sen wal
   class: jm
   category: phrase
-  translation: 'cop plus prep: be without'
+  translation: 'v.cop plus prep: be without'
 sen_wey:
   term: sen wey
   class: jm
   category: phrase
-  translation: 'cop plus prep: be around'
+  translation: 'v.cop plus prep: be around'
 senaryo:
   term: senaryo
   class: b
@@ -40626,7 +40628,7 @@ teli-:
   term: teli-
   class: lfik
   category: affix
-  translation: 'pfx: far'
+  translation: 'pfx: far, (at a) distance, remote'
 teli_fe:
   term: teli fe
   class: p

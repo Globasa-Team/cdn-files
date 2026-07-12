@@ -38,7 +38,7 @@
   term: -dom
   class: b xfik
   category: affix
-  translation: 's sfk: ejo, ĉambro, konstruaĵo, loko'
+  translation: 's sfk: -ejo, loko, ĉambro, konstruaĵo'
 -fil:
   term: -fil
   class: t xfik
@@ -129,7 +129,7 @@
   term: -sa
   class: b xfik
   category: affix
-  translation: 's sfk: lingvo, sono de besto'
+  translation: 's sfk: lingvo, sono de besto; v.ntr sfk: paroli lingvon, bleki'
 -sim:
   term: -sim
   class: t xfik
@@ -160,12 +160,12 @@
   term: -ya
   class: b xfik
   category: affix
-  translation: 's sfk: -o, -eco, <em>abstraktaj substantivoj</em>'
+  translation: 's sfk: <em>abstraktaj substantivoj</em>, eco de, kvalito de, -o, -eco'
 -yen:
   term: -yen
   class: b xfik
   category: affix
-  translation: 's sfk: -ulo, -ano, -anto, -isto, (personigita) objekto'
+  translation: 's sfk: -ulo, -ano, -anto, -isto, personigita objekto'
 -yum:
   term: -yum
   class: t xfik
@@ -682,7 +682,7 @@ ajela:
   term: ajela
   class: b.nenoj; il
   category: root
-  translation: 's: hasto, urĝeco; v.ntr: hasti, urĝi, rapidi; interj: rapidu!'
+  translation: 's: hasto, urĝeco; v.ntr: hasti, urĝi, rapidi; interj: rapidu'
 ajelado:
   term: ajelado
   class: t
@@ -1164,7 +1164,7 @@ alonumer:
   term: alonumer
   class: 'tabel: d'
   category: derived
-  translation: 'det: alinombro (da)'
+  translation: 'det: alinombre (da), alia nombro (da)'
 aloopsyon:
   term: aloopsyon
   class: b
@@ -1199,7 +1199,7 @@ alosu:
   term: alosu
   class: 'tabel: su s'
   category: derived
-  translation: 'pos adj: de iu alia, alies'
+  translation: 'adj pos: de iu alia, alies'
 alote:
   term: alote
   class: 'tabel: pn'
@@ -3582,7 +3582,7 @@ banoto:
   term: banoto
   class: 'tabel: pn'
   category: derived
-  translation: 'pron (nevivajoj): iuj'
+  translation: 'pron (nevivaĵoj): iuj'
 banpul:
   term: banpul
   class: 'tabel: t'
@@ -3597,7 +3597,7 @@ bansu:
   term: bansu
   class: 'tabel: su s'
   category: derived
-  translation: 'pos adj: ies'
+  translation: 'adj pos: ies'
 bante:
   term: bante
   class: 'tabel: pn'
@@ -6586,7 +6586,7 @@ ciber-:
   term: ciber-
   class: nenhuru genu
   category: bound root
-  translation: 'mallibera radiko: kiber-, ret-, saĝ-'
+  translation: 'ligenda radiko: kiber-, ret-, saĝ-'
 ciberbiskiti:
   term: ciberbiskiti
   class: b
@@ -7602,7 +7602,7 @@ dasu:
   term: dasu
   class: su s
   category: derived
-  translation: 'pos adj (relativa subpropozicio): lia, ŝia, ria, ĝia, ilia'
+  translation: 'adj pos (relativa subpropozicio): lia, ŝia, ria, ĝia, ilia'
 data:
   term: data
   class: b
@@ -7842,7 +7842,7 @@ daydenpul:
   term: daydenpul
   class: 'tabel: t'
   category: derived
-  translation: 'adj: kia (___!)'
+  translation: 'adj: kia (___)'
 daydolo:
   term: daydolo
   class: b
@@ -8490,7 +8490,7 @@ densu:
   term: densu
   class: 'tabel: su s'
   category: derived
-  translation: 'pos adj: ties'
+  translation: 'adj pos: ties'
 denta:
   term: denta
   class: b
@@ -9558,7 +9558,7 @@ du-:
   term: du-
   class: lfik
   category: affix
-  translation: 'pfk: <em>daŭra aŭ kutima aspekto</em>; pfk: -ado'
+  translation: 's pfk: -ado; v pfk: <em>daŭra aŭ kutima aspekto</em>'
 dua:
   term: dua
   class: num
@@ -10364,7 +10364,7 @@ eko-:
   term: eko-
   class: nenhuru genu
   category: bound root
-  translation: 'mallibera radiko: eko- (<em>ekologio</em>)'
+  translation: 'ligenda radiko: eko- (<em>ekologio</em>)'
 ekologi:
   term: ekologi
   class: b
@@ -11698,7 +11698,7 @@ etesu:
   term: etesu
   class: su s
   category: derived
-  translation: 'pos adj (de vivaĵoj): ilia'
+  translation: 'adj pos (de vivaĵoj): ilia'
 etesu_ete:
   term: etesu ete
   class: su pn
@@ -16656,11 +16656,6 @@ hata:
   class: m
   category: root
   translation: 'adv: eĉ'
-hata_un:
-  term: hata un
-  class: jm
-  category: phrase
-  translation: 'fraz: eĉ unu'
 hatali:
   term: hatali
   class: t
@@ -16863,7 +16858,7 @@ he_alosu:
   term: he alosu
   class: 'tabel: su s'
   category: phrase
-  translation: 'pos adj: de iu ajn alia'
+  translation: 'adj pos: de iu ajn alia'
 he_alote:
   term: he alote
   class: 'tabel: pn'
@@ -16903,7 +16898,7 @@ he_bansu:
   term: he bansu
   class: 'tabel: su s'
   category: phrase
-  translation: 'pos adj: ies ajn'
+  translation: 'adj pos: ies ajn'
 he_bante:
   term: he bante
   class: 'tabel: pn'
@@ -17354,7 +17349,7 @@ hinsu:
   term: hinsu
   class: 'tabel: su s'
   category: derived
-  translation: 'pos adj: ĉi ties, ties ĉi'
+  translation: 'adj pos: ĉi ties, ties ĉi'
 hinte:
   term: hinte
   class: 'tabel: pn'
@@ -17364,7 +17359,7 @@ hinto:
   term: hinto
   class: 'tabel: pn'
   category: derived
-  translation: 'pron (nevivaĵo): ĉi tio, tio ĉi, ĉi tiu, tui ĉi'
+  translation: 'pron (nevivaĵo): ĉi tio, tio ĉi, ĉi tiu, tiu ĉi'
 hinwatu:
   term: hinwatu
   class: 'tabel: m'
@@ -17499,7 +17494,7 @@ holo-:
   term: holo-
   class: nenhuru genu
   category: bound root
-  translation: 'mallibera radiko: holo- (<em>holografio, holomorfa</em>)'
+  translation: 'ligenda radiko: holo- (<em>holografio, holomorfa</em>)'
 holoba:
   term: holoba
   class: b
@@ -17689,7 +17684,7 @@ hu_dasu:
   term: hu dasu
   class: su s
   category: phrase
-  translation: 'pos adj (relativa subpropozicio): kies'
+  translation: 'adj pos (relativa subpropozicio): kies'
 hu_denloka:
   term: hu denloka
   class: m
@@ -18225,7 +18220,7 @@ imisu:
   term: imisu
   class: su s
   category: derived
-  translation: 'pos adj: nia'
+  translation: 'adj pos: nia'
 imisu_ete:
   term: imisu ete
   class: su pn
@@ -22179,7 +22174,7 @@ kesu:
   term: kesu
   class: 'tabel: su s'
   category: derived
-  translation: 'pos adj: kies'
+  translation: 'adj pos: kies'
 ketani:
   term: ketani
   class: b
@@ -28203,7 +28198,7 @@ meydey:
   term: meydey
   class: b; il
   category: root
-  translation: 's: ekgravaĵo, (kriz)okazo'
+  translation: 's: ekgravaĵo, (kriz)okazo; interj: helpu, helpon'
 meydeypul:
   term: meydeypul
   class: t
@@ -28607,7 +28602,7 @@ misu:
   term: misu
   class: su s
   category: derived
-  translation: 'pos adj: mia'
+  translation: 'adj pos: mia'
 misu_ete:
   term: misu ete
   class: su pn
@@ -29327,7 +29322,7 @@ moysu:
   term: moysu
   class: 'tabel: su s'
   category: derived
-  translation: 'pos adj: ĉies'
+  translation: 'adj pos: ĉies'
 moyte:
   term: moyte
   class: 'tabel: pn'
@@ -29337,7 +29332,7 @@ moyto:
   term: moyto
   class: 'tabel: pn'
   category: derived
-  translation: 'pron (nevivaĵo): ĉio, ciu(j)'
+  translation: 'pron (nevivaĵo): ĉio, ĉiu(j)'
 moyun:
   term: moyun
   class: d
@@ -30883,7 +30878,7 @@ nilsu:
   term: nilsu
   class: 'tabel: su s'
   category: derived
-  translation: 'pos adj: nenies'
+  translation: 'adj pos: nenies'
 nilte:
   term: nilte
   class: 'tabel: pn'
@@ -30999,6 +30994,11 @@ no_hata:
   class: m
   category: phrase
   translation: 'adv: eĉ ne'
+no_hata_un:
+  term: no hata un
+  class: jm
+  category: phrase
+  translation: 'fraz: eĉ ne unu'
 no_hay_seba:
   term: no hay seba
   class: il
@@ -32272,7 +32272,7 @@ otosu:
   term: otosu
   class: su s
   category: derived
-  translation: 'pos adj (de nevivaĵoj): ilia'
+  translation: 'adj pos (de nevivaĵoj): ilia'
 otosu_ete:
   term: otosu ete
   class: su pn
@@ -35658,7 +35658,7 @@ rensu:
   term: rensu
   class: su s
   category: derived
-  translation: 'pos adj: onia'
+  translation: 'adj pos: onia'
 renyum:
   term: renyum
   class: b
@@ -36840,7 +36840,7 @@ samasu:
   term: samasu
   class: 'tabel: su s'
   category: derived
-  translation: 'pos adj: de la sama'
+  translation: 'adj pos: de la sama'
 samate:
   term: samate
   class: 'tabel: pn'
@@ -37877,7 +37877,7 @@ sesu:
   term: sesu
   class: su s
   category: derived
-  translation: 'pos adj: sia'
+  translation: 'adj pos: sia'
 sesyon:
   term: sesyon
   class: b
@@ -40818,7 +40818,7 @@ tesu:
   term: tesu
   class: su s
   category: derived
-  translation: 'pos adj (de vivaĵo): lia, ŝia, ria'
+  translation: 'adj pos (de vivaĵo): lia, ŝia, ria'
 tesu_ete:
   term: tesu ete
   class: su pn
@@ -41444,7 +41444,7 @@ tosu:
   term: tosu
   class: su s
   category: derived
-  translation: 'pos adj (de nevivaĵo): ĝia'
+  translation: 'adj pos (de nevivaĵo): ĝia'
 tosu_ete:
   term: tosu ete
   class: su pn
@@ -42565,7 +42565,7 @@ uyusu:
   term: uyusu
   class: su s
   category: derived
-  translation: 'pos adj (plurala): via'
+  translation: 'adj pos (plurala): via'
 uyusu_ete:
   term: uyusu ete
   class: su pn
@@ -43588,7 +43588,7 @@ xa_no:
   term: xa no
   class: jm
   category: phrase
-  translation: ne (<em>+ os-verbo</em>)
+  translation: 'fraz: ne (<em>+ os-verbo</em>)'
 xabahu:
   term: xabahu
   class: b.oj
@@ -45489,7 +45489,7 @@ yusu:
   term: yusu
   class: su s
   category: derived
-  translation: 'pos adj (singulara): via'
+  translation: 'adj pos (singulara): via'
 yusu_ete:
   term: yusu ete
   class: su pn

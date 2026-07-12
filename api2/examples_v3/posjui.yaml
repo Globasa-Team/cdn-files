@@ -23,7 +23,7 @@
   - text: ', '
   - text: alo
     eng: 'alo (tabel: d) det: other, another, a different'
-    spa: 'alo (tabel: d) otro, diferente'
+    spa: 'alo (tabel: d) det: otro, otra'
   - text: ' '
   - text: planta
     eng: 'planta (b.oj) n: plant; v.tr: plant'
@@ -35,7 +35,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: posjui
     eng: 'posjui (b.oj; il) n: disregard; v.tr: disregard, ignore; interj: never mind'
@@ -44,7 +44,7 @@
   - text: ' '
   - text: hin
     eng: 'hin (tabel: d) det: this, these'
-    spa: 'hin (tabel: d) este, estos'
+    spa: 'hin (tabel: d) det: este, esta'
   - text: ' '
   - text: sefil
     eng: 'sefil (t) adj: selfish; adv: selfishly'
@@ -70,7 +70,8 @@
   - text: xafe
     eng: 'xafe (p; lfik) prep: after (+ noun), in (+ period of time), (period of time
       +) from now; pfx: post-'
-    spa: xafe (p; lfik) despu&eacute;s (de), en (+ periodo de tiempo), dentro de
+    spa: 'xafe (p; lfik) prep: despu&eacute;s de, en (+ periodo de tiempo), dentro
+      de; pfj: pos-, post-'
   - text: ' '
   - text: watumon
     eng: 'watumon (b) n: period (of time), time period, while, term'
@@ -79,8 +80,7 @@
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: posjui
     eng: 'posjui (b.oj; il) n: disregard; v.tr: disregard, ignore; interj: never mind'
@@ -89,7 +89,7 @@
   - text: ' '
   - text: ete
     eng: 'ete (pn) pron (animate): they, them'
-    spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
+    spa: 'ete (pn) pron (animado): ellos, ellas, los, las, les'
   - text: .
 - text: Alo piu xorjui ki kolor-okobimar piu posjui ete.
   cite:
@@ -102,7 +102,7 @@
   translations:
   - text: Alo
     eng: 'alo (tabel: d) det: other, another, a different'
-    spa: 'alo (tabel: d) otro, diferente'
+    spa: 'alo (tabel: d) det: otro, otra'
   - text: ' '
   - text: piu
     eng: 'piu (b) n: bird (Aves)'
@@ -129,7 +129,7 @@
   - text: ' '
   - text: ete
     eng: 'ete (pn) pron (animate): they, them'
-    spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
+    spa: 'ete (pn) pron (animado): ellos, ellas, los, las, les'
   - text: .
 - text: Tas sesu jarden, te maxusgi multi meli petra ji jozi hu alo piu posjui da.
   cite:
@@ -146,7 +146,7 @@
   - text: ' '
   - text: sesu
     eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
-    spa: sesu (su s) su (de uno mismo)
+    spa: 'sesu (su s) adj pos: su, su propio, su propia'
   - text: ' '
   - text: jarden
     eng: 'jarden (b) n: garden'
@@ -155,8 +155,7 @@
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: maxusgi
     eng: 'maxusgi (b.oj) n: addition; v.tr: add'
@@ -166,7 +165,8 @@
   - text: multi
     eng: 'multi (d; m) det: many, a lot of, lots of, a great deal of; adv: much, a
       lot, a great deal'
-    spa: multi (d; m) mucho, muchos, un mont&oacute;n (de)
+    spa: 'multi (d; m) det: mucho, mucha, muchos, muchas, un mont&oacute;n (de); adv:
+      mucho'
   - text: ' '
   - text: meli
     eng: 'meli (t) adj: beautiful, pretty; adv: beautifully, prettily'
@@ -190,7 +190,7 @@
   - text: ' '
   - text: alo
     eng: 'alo (tabel: d) det: other, another, a different'
-    spa: 'alo (tabel: d) otro, diferente'
+    spa: 'alo (tabel: d) det: otro, otra'
   - text: ' '
   - text: piu
     eng: 'piu (b) n: bird (Aves)'
@@ -203,7 +203,8 @@
   - text: ' '
   - text: da
     eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
-    spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
+    spa: 'da (pn) pron (pronombre relativo): &eacute;l, ella, ello, ellos, ellas,
+      lo, la, los, las, le, les'
   - text: .
 - text: Fe folo ki posjui ji posjacigi fe insanli haki le resulta daybawlupul fale
     hu da bala cufam yoxin de insanlari, ji fe folo ki realcu de globa hu in da insan
@@ -264,7 +265,7 @@
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: resulta
     eng: 'resulta (b.oj) n: result, outcome; v.tr: result (in)'
@@ -284,7 +285,8 @@
   - text: ' '
   - text: da
     eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
-    spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
+    spa: 'da (pn) pron (pronombre relativo): &eacute;l, ella, ello, ellos, ellas,
+      lo, la, los, las, le, les'
   - text: ' '
   - text: bala
     eng: 'bala (t) adj: strong; adv: strongly'
@@ -351,7 +353,8 @@
   - text: ' '
   - text: da
     eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
-    spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
+    spa: 'da (pn) pron (pronombre relativo): &eacute;l, ella, ello, ellos, ellas,
+      lo, la, los, las, le, les'
   - text: ' '
   - text: insan
     eng: 'insan (b) n: human (being), people, Homo'
@@ -359,7 +362,7 @@
   - text: ' '
   - text: xa
     eng: 'xa (par) par (future tense marker): will, shall, going to'
-    spa: xa (par) -&aacute; (marcador del tiempo futuro)
+    spa: 'xa (par) par: marcador del tiempo futuro'
   - text: ' '
   - text: hoxhare
   - text: ' '
@@ -433,14 +436,15 @@
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: begongaw
   - text: ' '
   - text: denpul
     eng: 'denpul (tabel: t) adj: that kind of, such (a); adv: like that, thus, (in)
       that way'
-    spa: 'denpul (tabel: t) tal, as&iacute;, (de) ese tipo (de)'
+    spa: 'denpul (tabel: t) adj: ese tipo de, esa clase de, tal; adv: as&iacute;,
+      de ese modo, de esa manera'
   - text: ' '
   - text: kom
     eng: 'kom (l) conj: as (comparable to), than (as compared with)'

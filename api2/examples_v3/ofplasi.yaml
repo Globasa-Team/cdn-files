@@ -11,7 +11,7 @@
   translations:
   - text: Ete
     eng: 'ete (pn) pron (animate): they, them'
-    spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
+    spa: 'ete (pn) pron (animado): ellos, ellas, los, las, les'
   - text: ' '
   - text: sohovada
     eng: 'sohovada (b.oj) n: agreement, commitment, deal; v.tr: agree (to), commit
@@ -25,7 +25,7 @@
   - text: ' '
   - text: dente
     eng: 'dente (tabel: pn) pron (animate): that (one)'
-    spa: 'dente (tabel: pn) ese (ser vivo), &eacute;se, aquel, aqu&eacute;l'
+    spa: 'dente (tabel: pn) pron (animado): ese, esa, aquel, aquella'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -33,7 +33,8 @@
   - text: ' '
   - text: da
     eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
-    spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
+    spa: 'da (pn) pron (pronombre relativo): &eacute;l, ella, ello, ellos, ellas,
+      lo, la, los, las, le, les'
   - text: ' '
   - text: unyum
     eng: 'unyum (t) adj: first; adv: firstly, first'
@@ -57,7 +58,7 @@
   - text: ' '
   - text: sesu
     eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
-    spa: sesu (su s) su (de uno mismo)
+    spa: 'sesu (su s) adj pos: su, su propio, su propia'
   - text: ' '
   - text: kapa
     eng: 'kapa (b) n: cape, cloak'
@@ -70,17 +71,17 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: beganci
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: maxmo
     eng: 'maxmo (m) adv: more (+ adj)'
@@ -97,13 +98,12 @@
   - text: ' '
   - text: alo
     eng: 'alo (tabel: d) det: other, another, a different'
-    spa: 'alo (tabel: d) otro, diferente'
+    spa: 'alo (tabel: d) det: otro, otra'
   - text: ' '
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: .
 - text: Denwatu, Sola termopul xorbrila, ji fori, daoyen ofplasi sesu kapa; ji fe
     folo, Utaravento bexucyo na etiraf ki Sola sen maxim bala te of dua te.
@@ -117,11 +117,11 @@
   translations:
   - text: Denwatu
     eng: 'denwatu (tabel: m) adv: then (at that time/moment)'
-    spa: 'denwatu (tabel: m) en ese momento, entonces'
+    spa: 'denwatu (tabel: m) adv: entonces, en ese momento, en aquel momento'
   - text: ', '
   - text: Sola
     eng: 'sola (su n) prop n: Sol, Sun (in our planetary system)'
-    spa: sola (su n) Sol (estrella de nuestro sistema planetario)
+    spa: 'sola (su n) n prop: (el) Sol (de nuestro sistema planetario)'
   - text: ' '
   - text: termopul
     eng: 'termopul (t) adj: warm, hot; adv: warmly, hotly'
@@ -148,7 +148,7 @@
   - text: ' '
   - text: sesu
     eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
-    spa: sesu (su s) su (de uno mismo)
+    spa: 'sesu (su s) adj pos: su, su propio, su propia'
   - text: ' '
   - text: kapa
     eng: 'kapa (b) n: cape, cloak'
@@ -177,7 +177,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: etiraf
     eng: 'etiraf (b.oj) n: confession; v.tr: confess, admit'
@@ -189,11 +189,11 @@
   - text: ' '
   - text: Sola
     eng: 'sola (su n) prop n: Sol, Sun (in our planetary system)'
-    spa: sola (su n) Sol (estrella de nuestro sistema planetario)
+    spa: 'sola (su n) n prop: (el) Sol (de nuestro sistema planetario)'
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: maxim
     eng: 'maxim (m) adv: (the) most'
@@ -206,8 +206,7 @@
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: of
     eng: 'of (p) prep: off (of), (out) of, from'
@@ -220,8 +219,7 @@
   - text: te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: .
 - text: 'Remora: "Am nun ofplasi rinjon."'
   cite:
@@ -238,11 +236,11 @@
   - text: ': "'
   - text: Am
     eng: 'am (par) par (imperative verb marker): (do)'
-    spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
+    spa: 'am (par) par: marcador de los modos imperativo y yusivo)'
   - text: ' '
   - text: nun
     eng: 'nun (par) par (simple present tense marker): do, now'
-    spa: nun (par) estar (+ verbo; marcador del tiempo presente activo)
+    spa: 'nun (par) par: marcador del tiempo presente activo, ahora'
   - text: ' '
   - text: ofplasi
     eng: 'ofplasi (b.oj) n: removal; v.tr: remove, take off'
@@ -263,11 +261,11 @@
   translations:
   - text: Mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: ofplasi
     eng: 'ofplasi (b.oj) n: removal; v.tr: remove, take off'
@@ -303,7 +301,7 @@
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: plasi
     eng: 'plasi (b.oj) n: placement, placing, position; v.tr: place, position, put,
@@ -313,7 +311,7 @@
   - text: ' '
   - text: moyto
     eng: 'moyto (tabel: pn) pron: everything, all of it'
-    spa: 'moyto (tabel: pn) todo'
+    spa: 'moyto (tabel: pn) pron: todo'
   - text: ' '
   - text: in
     eng: 'in (p) prep: at (place), in (place), inside (of), within'
@@ -338,7 +336,7 @@
   translations:
   - text: Am
     eng: 'am (par) par (imperative verb marker): (do)'
-    spa: am (par) -a (marcador de los modos imperativo y yusivo), -e, que, sea
+    spa: 'am (par) par: marcador de los modos imperativo y yusivo)'
   - text: ' '
   - text: ofplasi
     eng: 'ofplasi (b.oj) n: removal; v.tr: remove, take off'

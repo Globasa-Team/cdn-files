@@ -12,7 +12,7 @@
   translations:
   - text: Ban
     eng: 'ban (tabel: d) det: some, certain'
-    spa: 'ban (tabel: d) un, cierto'
+    spa: 'ban (tabel: d) det: alg&uacute;n, alguna, cierto, cierta'
   - text: ' '
   - text: din
     eng: 'din (b) n: day'
@@ -20,7 +20,7 @@
   - text: ', '
   - text: ete
     eng: 'ete (pn) pron (animate): they, them'
-    spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
+    spa: 'ete (pn) pron (animado): ellos, ellas, los, las, les'
   - text: ' '
   - text: oko
     eng: 'oko (b.oj) n: eye; v.tr: eye, see, look, watch, view'
@@ -38,7 +38,8 @@
   - text: ' '
   - text: da
     eng: 'da (pn) pron (relative pronoun): he, him, she, her, it, they, them'
-    spa: da (pn) &eacute;l (pronombre relativo), ella, elle, ello
+    spa: 'da (pn) pron (pronombre relativo): &eacute;l, ella, ello, ellos, ellas,
+      lo, la, los, las, le, les'
   - text: ' '
   - text: daypawbu
     eng: 'daypawbu (b.oj.ru) n: sprint; v.tr: sprint'
@@ -83,7 +84,7 @@
   - text: ', '
   - text: moy
     eng: 'moy (tabel: d) det: every, each, all'
-    spa: 'moy (tabel: d) cada, todo'
+    spa: 'moy (tabel: d) det: todo, toda, cada'
   - text: ' '
   - text: kargux
     eng: 'kargux (b) n: rabbit, hare, Leporidae'
@@ -112,7 +113,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: garaku
     eng: 'garaku (b.nenoj) n: drowning, sinking; v.intr: drown, sink'
@@ -142,7 +143,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: jiwa
     eng: 'jiwa (b.oj.ru) n: life; v.tr: live'
@@ -154,8 +155,7 @@
   - text: ' '
   - text: denmo
     eng: 'denmo (tabel: m) adv: as, to that degree, that'
-    spa: 'denmo (tabel: m) tan (para describir adjetivos y adverbios), as&iacute;
-      de'
+    spa: 'denmo (tabel: m) adv: tan, tanto'
   - text: ' '
   - text: fobipul
     eng: 'fobipul (t) adj (for inanimate nouns): frightful, frightening, scary; adv:
@@ -188,8 +188,7 @@
   - text: ' '
   - text: momento
     eng: 'momento (b; il) n: moment, while; interj: one moment, hold on, wait'
-    spa: momento (b; il) plazo, rato, t&eacute;rmino, momento, periodo, per&iacute;odo,
-      espacio de tiempo; (un) momento
+    spa: 'momento (b; il) s: momento, rato; interj: (un) momento'
   - text: ' '
   - text: feki
     eng: 'feki (l) conj: that (noun-modifying conjunction)'
@@ -197,7 +196,7 @@
   - text: ' '
   - text: ete
     eng: 'ete (pn) pron (animate): they, them'
-    spa: ete (pn) ellos (seres vivos y objetos personificados), ellas, elles
+    spa: 'ete (pn) pron (animado): ellos, ellas, los, las, les'
   - text: ' '
   - text: nercu
     eng: 'nercu (b.nenoj) v.intr: approach, get near, get close'
@@ -315,7 +314,7 @@
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: okoible
     eng: 'okoible (t) adj: visible; adv: visibly'
@@ -337,7 +336,7 @@
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: termopul
     eng: 'termopul (t) adj: warm, hot; adv: warmly, hotly'
@@ -371,7 +370,7 @@
   - text: ' '
   - text: denloka
     eng: 'denloka (tabel: m) adv: there'
-    spa: 'denloka (tabel: m) all&aacute;, all&iacute;, ah&iacute;'
+    spa: 'denloka (tabel: m) adv: ah&iacute;, all&iacute;, all&aacute;'
   - text: ' '
   - text: salamandra
     eng: 'salamandra (b) n: salamander'
@@ -383,7 +382,8 @@
   - text: ' '
   - text: sencu
     eng: 'sencu (b.lin) n: becoming; v.cop: become, get, turn (into)'
-    spa: sencu (b.lin) hacerse, volverse, transformarse en
+    spa: 'sencu (b.lin) v.cop: hacerse, volverse, ponerse, transformarse en, convertirse
+      en'
   - text: ' '
   - text: maxmo
     eng: 'maxmo (m) adv: more (+ adj)'
@@ -410,7 +410,7 @@
   translations:
   - text: Na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: xikar
     eng: 'xikar (b.oj) n: hunt; v.tr: hunt, prey on, prey upon'
@@ -426,7 +426,8 @@
   - text: ' '
   - text: sencu
     eng: 'sencu (b.lin) n: becoming; v.cop: become, get, turn (into)'
-    spa: sencu (b.lin) hacerse, volverse, transformarse en
+    spa: 'sencu (b.lin) v.cop: hacerse, volverse, ponerse, transformarse en, convertirse
+      en'
   - text: ' '
   - text: maxmo
     eng: 'maxmo (m) adv: more (+ adj)'
@@ -456,7 +457,8 @@
   - text: Xafe
     eng: 'xafe (p; lfik) prep: after (+ noun), in (+ period of time), (period of time
       +) from now; pfx: post-'
-    spa: xafe (p; lfik) despu&eacute;s (de), en (+ periodo de tiempo), dentro de
+    spa: 'xafe (p; lfik) prep: despu&eacute;s de, en (+ periodo de tiempo), dentro
+      de; pfj: pos-, post-'
   - text: ' '
   - text: watumon
     eng: 'watumon (b) n: period (of time), time period, while, term'
@@ -468,11 +470,12 @@
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: sencu
     eng: 'sencu (b.lin) n: becoming; v.cop: become, get, turn (into)'
-    spa: sencu (b.lin) hacerse, volverse, transformarse en
+    spa: 'sencu (b.lin) v.cop: hacerse, volverse, ponerse, transformarse en, convertirse
+      en'
   - text: ' '
   - text: totalmo
     eng: 'totalmo (m) adv: totally (+ adj), entirely, quite'
@@ -511,7 +514,7 @@
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
-    spa: sen (b.lin) ser; ser, estar
+    spa: 'sen (b.lin) s: ser (existencia); v.cop: ser, estar'
   - text: ' '
   - text: laye
     eng: 'laye (t) adj: worthy; adv: worthily'
@@ -523,7 +526,7 @@
   - text: ' '
   - text: etesu
     eng: 'etesu (su s) poss adj (belonging to beings): their'
-    spa: etesu (su s) su, sus (de ellos)
+    spa: 'etesu (su s) adj pos (de seres): su'
   - text: ' '
   - text: bebe
     eng: 'bebe (b) n: baby; n: child (informal for daughter, son)'
@@ -545,7 +548,8 @@
   - text: banwatu
     eng: 'banwatu (tabel: m) adv: sometime (in the past or future), once upon a time,
       at some point (in time), eventually'
-    spa: 'banwatu (tabel: m) en alg&uacute;n momento, alguna vez'
+    spa: 'banwatu (tabel: m) adv: alguna vez, alg&uacute;n d&iacute;a, en alg&uacute;n
+      momento'
   - text: ', '
   - text: gao
     eng: 'gao (t) adj: tall, high; adv: highly, greatly'
@@ -562,7 +566,7 @@
   - text: ' '
   - text: hin
     eng: 'hin (tabel: d) det: this, these'
-    spa: 'hin (tabel: d) este, estos'
+    spa: 'hin (tabel: d) det: este, esta'
   - text: ' '
   - text: hosu
     eng: 'hosu (b) n: lake'
@@ -597,8 +601,8 @@
   - text: bannumer
     eng: 'bannumer (tabel: d) det: some number (of), a certain number (of), some,
       several, various, (a) few'
-    spa: 'bannumer (tabel: d) alg&uacute;n n&uacute;mero (de), algunos, varios, unos
-      cuantos'
+    spa: 'bannumer (tabel: d) det: algunos, algunas, varios, varias, unos cuantos,
+      unas cuantas'
   - text: ' '
   - text: axolotle
     eng: 'axolotle (b) n: axolotl, Ambystoma mexicanum'
@@ -646,7 +650,7 @@
   - text: ' '
   - text: hin
     eng: 'hin (tabel: d) det: this, these'
-    spa: 'hin (tabel: d) este, estos'
+    spa: 'hin (tabel: d) det: este, esta'
   - text: ' '
   - text: hosu
     eng: 'hosu (b) n: lake'

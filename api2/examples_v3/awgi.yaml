@@ -11,7 +11,7 @@
   translations:
   - text: Denwatu
     eng: 'denwatu (tabel: m) adv: then (at that time/moment)'
-    spa: 'denwatu (tabel: m) en ese momento, entonces'
+    spa: 'denwatu (tabel: m) adv: entonces, en ese momento, en aquel momento'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -19,11 +19,11 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: to (pn) &eacute;l (cosa), ella, elle, ello
+    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: oko
     eng: 'oko (b.oj) n: eye; v.tr: eye, see, look, watch, view'
@@ -31,19 +31,19 @@
   - text: ' '
   - text: mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ', '
   - text: mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: ganjoncu
     eng: 'ganjoncu (b.lin) v.cop: feel (emotionally feel a particular way)'
-    spa: ganjoncu (b.lin) sentirse (emocionalmente, de manera...)
+    spa: 'ganjoncu (b.lin) v.cop: sentirse (emocionalmente, de cierta manera)'
   - text: ' '
   - text: fobido
     eng: 'fobido (t) adj: frightened, scared'
@@ -55,11 +55,11 @@
   - text: ' '
   - text: mi
     eng: 'mi (pn) pron: I, me'
-    spa: mi (pn) yo, me, m&iacute;
+    spa: 'mi (pn) pron: yo, me, m&iacute;'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
-    spa: le (par) marcador del tiempo pasado
+    spa: 'le (par) par: marcador del tiempo pasado'
   - text: ' '
   - text: karar
     eng: 'karar (b.oj) n: decision; v.tr: decide'
@@ -67,20 +67,21 @@
   - text: ' '
   - text: xosu
     eng: 'xosu (d; m) det: few, a bit of, a little bit of; adv: a bit, a little (bit)'
-    spa: xosu (d; m) poco, pocos
+    spa: 'xosu (d; m) det: poco, poca, pocos, pocas; adv: poco'
   - text: ' '
   - text: xafe
     eng: 'xafe (p; lfik) prep: after (+ noun), in (+ period of time), (period of time
       +) from now; pfx: post-'
-    spa: xafe (p; lfik) despu&eacute;s (de), en (+ periodo de tiempo), dentro de
+    spa: 'xafe (p; lfik) prep: despu&eacute;s de, en (+ periodo de tiempo), dentro
+      de; pfj: pos-, post-'
   - text: ' '
   - text: xosu
     eng: 'xosu (d; m) det: few, a bit of, a little bit of; adv: a bit, a little (bit)'
-    spa: xosu (d; m) poco, pocos
+    spa: 'xosu (d; m) det: poco, poca, pocos, pocas; adv: poco'
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: morgi
     eng: 'morgi (b.oj) n: kill, killing (countable), murder; v.tr: kill, murder'
@@ -100,7 +101,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: awgi
     eng: 'awgi (b.oj) v.tr: (cause to) disappear, get rid of'
@@ -109,7 +110,7 @@
   - text: ' '
   - text: tesu
     eng: 'tesu (su s) poss adj (belonging to being): her, his, its, their'
-    spa: tesu (su s) su (de un ser vivo)
+    spa: 'tesu (su s) adj pos (de ser): su'
   - text: ' '
   - text: oko
     eng: 'oko (b.oj) n: eye; v.tr: eye, see, look, watch, view'
@@ -121,7 +122,7 @@
   - text: ' '
   - text: moywatu
     eng: 'moywatu (tabel: m) adv: always'
-    spa: 'moywatu (tabel: m) siempre'
+    spa: 'moywatu (tabel: m) adv: siempre'
   - text: .
 - text: Te exhawa pas sesu munte cel na awgi gubar.
   cite:
@@ -135,8 +136,7 @@
   - text: Te
     eng: 'te (pn) pron (animate): he, him, she, her, they (singular), them (singular),
       it'
-    spa: te (pn) &eacute;l (cualquier forma de vida u objeto personificado), ella,
-      elle
+    spa: 'te (pn) pron (animado): &eacute;l, ella, ello, lo, la, le'
   - text: ' '
   - text: exhawa
     eng: 'exhawa (b.oj) v.tr: blow (air)'
@@ -148,7 +148,7 @@
   - text: ' '
   - text: sesu
     eng: 'sesu (su s) poss adj: her own, his own, their own, one&#039;s own'
-    spa: sesu (su s) su (de uno mismo)
+    spa: 'sesu (su s) adj pos: su, su propio, su propia'
   - text: ' '
   - text: munte
     eng: 'munte (b) n: mouth'
@@ -160,7 +160,7 @@
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
-    spa: na (par) -(a)r (marcador del infinitivo), -er, -ir, para
+    spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: awgi
     eng: 'awgi (b.oj) v.tr: (cause to) disappear, get rid of'
