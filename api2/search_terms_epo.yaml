@@ -2,6 +2,7 @@
 -a:
 - su
 - -li
+- -pul
 - -su
 - -yum
 -ado:
@@ -25,6 +26,7 @@
 - -xey
 -e:
 - -li
+- -pul
 - -yum
 -ebla:
 - ible
@@ -115,6 +117,10 @@
 - of-
 -os:
 - xa
+-oza:
+- -pul
+-oze:
+- -pul
 -pilko:
 - -bol
 -plena:
@@ -133,8 +139,6 @@
 - ci
 _ markilo de propra nomo aŭ kulturspecifa vorto_:
 - di
-_markilo de poseda adjektivo _:
-- -su
 a:
 - aya
 a-vorto:
@@ -441,8 +445,6 @@ adreso:
 - adresu
 adria:
 - adrya
-adriatiko:
-- adrya
 adventurema:
 - aventurfil
 adventureme:
@@ -599,8 +601,6 @@ agro:
 - geomon
 aj:
 - ay
-aji:
-- ayay
 ajla:
 - somupul
 ajla pano:
@@ -1337,11 +1337,9 @@ aminda:
 - lubilaye
 aminde:
 - lubilaye
-amindigi:
+amindigi  al:
 - kawaywao
 amindigo:
-- kawaywao
-amindiĝi:
 - kawaywao
 amindiĝo:
 - kawaywao
@@ -2143,8 +2141,6 @@ artefarita perlo:
 - bidzu
 artefarite:
 - suna
-artefarite dividita parto:
-- bage
 artejo:
 - artedom
 artema:
@@ -6232,6 +6228,7 @@ ekbruligo:
 - xoratex
 ekde:
 - xorfe
+- xorfe_na
 ekde antaŭ:
 - xorlefe
 ekde antaŭ kiam:
@@ -9606,6 +9603,8 @@ fuŝmanipuli:
 - manipula
 fuŝo:
 - burgi
+g:
+- giga
 gabono:
 - gabon
 gabrielo:
@@ -9921,6 +9920,8 @@ gevicpatroj:
 - kwasiatre
 geysero:
 - gayser
+giga-:
+- giga
 giganto:
 - daydayyen
 gimnastika:
@@ -10389,8 +10390,6 @@ gujano:
 - guyana
 gujavo:
 - gwaba
-gulfo de mawson:
-- mawson
 gumo:
 - gomi
 gusti:
@@ -12888,6 +12887,10 @@ kareso:
 - aybu
 karibio:
 - karibe
+karigi  al:
+- kawaywao
+karigo:
+- kawaywao
 kariofilo:
 - karanfu
 karisma:
@@ -12896,6 +12899,8 @@ karisme:
 - karismapul
 karismo:
 - karisma
+kariĝo:
+- kawaywao
 karma:
 - karmali
 karme:
@@ -17369,6 +17374,8 @@ lutro:
 - lutra
 léotard:
 - leotardo
+m:
+- mega
 macedonio:
 - makedoni
 madagaskaro:
@@ -19022,7 +19029,7 @@ markilo de netransativa verbo:
 - -cu
 markilo de pasiva voĉo:
 - be-
-markilo de poseda adjektivo nur por pronomoj:
+markilo de poseda adjektivo por pronomoj:
 - -su
 markita:
 - markado
@@ -19058,6 +19065,8 @@ maro de irminger:
 - irminger
 maro de lazarev:
 - lazarev
+maro de mawson:
+- mawson
 maro de ross:
 - ross
 maro de somov:
@@ -19314,6 +19323,8 @@ meduzo:
 - swimo
 mefito:
 - eskunku
+mega-:
+- mega
 mejla kiomo:
 - milaje
 mejlaro:
@@ -23570,6 +23581,10 @@ plej lastatempa:
 - maxim_nerleli
 plej lastatempe:
 - maxim_nerleli
+plej ŝatata:
+- preferido
+plej ŝatate:
+- preferido
 plejaĉa:
 - pesima
 plejaĉe:
@@ -27409,10 +27424,12 @@ senteme:
 senti:
 - ganjon
 - hisi
-senti de interne:
-- ganjon
 senti jukon:
 - soyo
+senti karon:
+- kawaywao
+senti korinklinon:
+- kawaywao
 senti mankon:
 - walaganjon
 senti mankon de:
@@ -29397,6 +29414,8 @@ sĥizofrenie:
 - eskizofrenipul
 sĥizofrenio:
 - eskizofreni
+t:
+- tera
 tabako:
 - tabako
 tabelo:
@@ -32772,6 +32791,7 @@ zumo:
 - e
 - kam
 - kama
+- ku_kam
 ĉu ...ĉu...:
 - kama
 ĉuri:
@@ -32863,6 +32883,7 @@ zumo:
 - weda
 - finfe
 - lefe_or_fe
+- finfe_na
 ĝis kiam:
 - finfe_ki
 - finki
@@ -33147,10 +33168,6 @@ zumo:
 - paleta
 ŝatanto:
 - fan
-ŝatata:
-- preferido
-ŝatate:
-- preferido
 ŝategi:
 - daysuki
 ŝatego:

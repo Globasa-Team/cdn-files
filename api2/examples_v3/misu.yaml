@@ -40,7 +40,7 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
+    spa: 'to (pn) pron (inanimado): ello, lo, la'
   - text: ' '
   - text: of
     eng: 'of (p) prep: off (of), (out) of, from'
@@ -95,7 +95,7 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
+    spa: 'to (pn) pron (inanimado): ello, lo, la'
   - text: ' '
   - text: of
     eng: 'of (p) prep: off (of), (out) of, from'
@@ -464,9 +464,8 @@
     spa: 'swal (b.oj) s: pregunta; v.tr: preguntar, hacer una pregunta'
   - text: ': "'
   - text: Kam
-    eng: 'kam (l) conj: yes/no question particle, or (whether)'
-    spa: 'kam (l) conj: part&iacute;cula interrogativa de s&iacute;/no, si (pregunta
-      indirecta)'
+    eng: 'kam (l) conj: yes/no question particle; or (whether)'
+    spa: 'kam (l) conj: part&iacute;cula interrogativa de s&iacute;/no; o si'
   - text: ' '
   - text: yu
     eng: 'yu (pn) pron: you (singular)'
@@ -894,7 +893,7 @@
   - text: '"'
   - text: To
     eng: 'to (pn) pron (inanimate): it'
-    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
+    spa: 'to (pn) pron (inanimado): ello, lo, la'
   - text: ' '
   - text: sen
     eng: 'sen (b.lin) n: being (existence); v.cop: be'
@@ -906,7 +905,7 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
+    spa: 'to (pn) pron (inanimado): ello, lo, la'
   - text: ."
 - text: Misu sadafa!
   cite:
@@ -1675,7 +1674,7 @@
   - text: ' '
   - text: un
     eng: 'un (num; d) num: one, uni-, mono-; det: a certain (specific)'
-    spa: 'un (num; d) num: uno, uni-, mono-; det: cierto, determinado (espec&iacute;fico)'
+    spa: 'un (num; d) num: uno, uni-, mono-; det: cierto (determinado)'
   - text: ' '
   - text: satu
     eng: 'satu (b) n: hour, time, h'
@@ -1692,7 +1691,8 @@
   - text: kufi
     eng: 'kufi (t; il) adj: enough, sufficient; adv: enough, sufficiently; interj:
       enough'
-    spa: kufi (t; il) suficiente, bastante; suficientemente, bastantemente
+    spa: 'kufi (t; il) adj: suficiente, bastante; adv: suficientemente, bastantemente;
+      Interj: basta, suficiente'
   - text: ' '
   - text: pasgi
     eng: 'pasgi (b.oj) v.tr: put through, take through'
@@ -1718,7 +1718,7 @@
   - text: abil
     eng: 'abil (t; f.sah) adj: able, capable, which can (be), -able, -ible; adv: capably,
       -ably, -ibly; v.aux: be able, can'
-    spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
+    spa: 'abil (t; f.sah) adj: capaz; adv: capazmente; v.aux: poder, ser capaz de'
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
@@ -1879,7 +1879,8 @@
   - text: kufi
     eng: 'kufi (t; il) adj: enough, sufficient; adv: enough, sufficiently; interj:
       enough'
-    spa: kufi (t; il) suficiente, bastante; suficientemente, bastantemente
+    spa: 'kufi (t; il) adj: suficiente, bastante; adv: suficientemente, bastantemente;
+      Interj: basta, suficiente'
   - text: ' '
   - text: buka
     eng: 'buka (b.oro.harka) n: opening, aperture; v.tr: open; v.intr (optional -cu):
@@ -1889,7 +1890,7 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
+    spa: 'to (pn) pron (inanimado): ello, lo, la'
   - text: ' '
   - text: celki
     eng: 'celki (l) conj: so that, in order that, in order for (followed by: noun
@@ -2092,7 +2093,7 @@
   - text: abil
     eng: 'abil (t; f.sah) adj: able, capable, which can (be), -able, -ible; adv: capably,
       -ably, -ibly; v.aux: be able, can'
-    spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
+    spa: 'abil (t; f.sah) adj: capaz; adv: capazmente; v.aux: poder, ser capaz de'
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
@@ -2108,8 +2109,11 @@
     spa: 'misu (su s) adj pos: mi'
   - text: ' '
   - text: ganjon
-    eng: 'ganjon (b.oj) n: emotion, feeling, sentiment; v.tr: feel (emotionally, psychologically)'
-    spa: 'ganjon (b.oj) s: emoci&oacute;n, sentimiento; v.tr: sentir (emocionalmente)'
+    eng: 'ganjon (b.lin.oj) n: emotion, feeling, sentiment; v.cop (optional -cu):
+      feel (emotionally, psychologically); v.tr: feel (emotionally, psychologically)'
+    spa: 'ganjon (b.lin.oj) s: emoci&oacute;n, sentimiento; v.cop (uso opcional de
+      -cu): sentir (emocionalmente, psicol&oacute;gicamente); v.tr: sentir (emocionalmente,
+      psicol&oacute;gicamente)'
   - text: ' '
   - text: fe
     eng: 'fe (p) prep: at (time), in (month or year), on (date or day of the week),
@@ -2619,7 +2623,7 @@
   - text: ', '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
+    spa: 'to (pn) pron (inanimado): ello, lo, la'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
@@ -2869,7 +2873,7 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
+    spa: 'to (pn) pron (inanimado): ello, lo, la'
   - text: ' '
   - text: denloka
     eng: 'denloka (tabel: m) adv: there'
@@ -2926,7 +2930,7 @@
   - text: ', '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
+    spa: 'to (pn) pron (inanimado): ello, lo, la'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
@@ -3202,8 +3206,10 @@
     spa: 'na (par) par (marcador del infinitivo): -ar, -er, -ir, a (+ infinitivo)'
   - text: ' '
   - text: ganjoncu
-    eng: 'ganjoncu (b.lin) v.cop: feel (emotionally feel a particular way)'
-    spa: 'ganjoncu (b.lin) v.cop: sentirse (emocionalmente, de cierta manera)'
+    eng: 'ganjoncu (b.lin) v.cop (optional -cu): feel (emotionally feel a particular
+      way)'
+    spa: 'ganjoncu (b.lin) v.cop (uso opcional de -cu): sentirse (emocionalmente,
+      de cierta manera)'
   - text: ' '
   - text: triunfapul
   - text: ', '
@@ -3231,7 +3237,7 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
+    spa: 'to (pn) pron (inanimado): ello, lo, la'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -3533,8 +3539,11 @@
       opcional de -cu): detenerse, pararse, cesar'
   - text: ' '
   - text: ganjon
-    eng: 'ganjon (b.oj) n: emotion, feeling, sentiment; v.tr: feel (emotionally, psychologically)'
-    spa: 'ganjon (b.oj) s: emoci&oacute;n, sentimiento; v.tr: sentir (emocionalmente)'
+    eng: 'ganjon (b.lin.oj) n: emotion, feeling, sentiment; v.cop (optional -cu):
+      feel (emotionally, psychologically); v.tr: feel (emotionally, psychologically)'
+    spa: 'ganjon (b.lin.oj) s: emoci&oacute;n, sentimiento; v.cop (uso opcional de
+      -cu): sentir (emocionalmente, psicol&oacute;gicamente); v.tr: sentir (emocionalmente,
+      psicol&oacute;gicamente)'
   - text: ', '
   - text: mas
     eng: 'mas (l) conj: but'
@@ -3542,7 +3551,7 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
+    spa: 'to (pn) pron (inanimado): ello, lo, la'
   - text: ' '
   - text: le
     eng: 'le (par) par (past tense marker): -ed, did'
@@ -3669,9 +3678,8 @@
     spa: 'huhu (b) s: b&uacute;ho, lechuza'
   - text: ', '
   - text: kam
-    eng: 'kam (l) conj: yes/no question particle, or (whether)'
-    spa: 'kam (l) conj: part&iacute;cula interrogativa de s&iacute;/no, si (pregunta
-      indirecta)'
+    eng: 'kam (l) conj: yes/no question particle; or (whether)'
+    spa: 'kam (l) conj: part&iacute;cula interrogativa de s&iacute;/no; o si'
   - text: ' '
   - text: yu
     eng: 'yu (pn) pron: you (singular)'
@@ -3814,7 +3822,7 @@
   - text: abil
     eng: 'abil (t; f.sah) adj: able, capable, which can (be), -able, -ible; adv: capably,
       -ably, -ibly; v.aux: be able, can'
-    spa: abil (t; f.sah) capaz; capazmente; poder, ser capaz de
+    spa: 'abil (t; f.sah) adj: capaz; adv: capazmente; v.aux: poder, ser capaz de'
   - text: ' '
   - text: na
     eng: 'na (par) par (infinitive marker): to'
@@ -3958,7 +3966,7 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
+    spa: 'to (pn) pron (inanimado): ello, lo, la'
   - text: ' '
   - text: hu
     eng: 'hu (l) conj (relative clause marker): who, which, that'
@@ -3978,6 +3986,6 @@
   - text: ' '
   - text: to
     eng: 'to (pn) pron (inanimate): it'
-    spa: 'to (pn) pron (inanimado): ello, lo, la, le'
+    spa: 'to (pn) pron (inanimado): ello, lo, la'
   - text: .
 ...

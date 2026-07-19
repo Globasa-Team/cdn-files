@@ -8,12 +8,12 @@
   term: -bon
   class: t xfik
   category: affix
-  translation: bueno
+  translation: 'sfj adj: buen, bueno'
 -bur:
   term: -bur
   class: t xfik
   category: affix
-  translation: mal-, caco-, i(n)-
+  translation: 'sfj adj: mal-, malo'
 -cu:
   term: -cu
   class: b.nenoj xfik
@@ -24,7 +24,7 @@
   term: -day
   class: t xfik
   category: affix
-  translation: alto en, rico en
+  translation: 'sfj adj: alto en, rico en'
 -din:
   term: -din
   class: b xfik
@@ -34,8 +34,7 @@
   term: -do
   class: t xfik
   category: affix
-  translation: en estado inactivo de, -do (<em>causado por algo externo</em>), -to,
-    -so, -cho
+  translation: 'sfj adj (en estado inactivo de): -ado, -ido'
 -dom:
   term: -dom
   class: b xfik
@@ -46,7 +45,8 @@
   term: -fil
   class: t xfik
   category: affix
-  translation: -ento, -izo, -ivo, -&oacute;n, -oso
+  translation: 'sfj adj (con inclinaci&oacute;n hacia): -ento, -izo, -ivo, -&oacute;n,
+    -oso'
 -fon:
   term: -fon
   class: b xfik
@@ -82,7 +82,7 @@
   term: -kal
   class: t xfik
   category: affix
-  translation: a(n)-, sin (suficiente), carente de, libre de
+  translation: 'sfj adj: a(n)-, sin (suficiente), carente de, libre de'
 -kef:
   term: -kef
   class: b xfik
@@ -92,12 +92,13 @@
   term: -li
   class: t xfik
   category: affix
-  translation: relacionado con, de, -al, -il, -ico
+  translation: 'sfj adj: relacionado con, de, -al, -il, -ico; sfj adv: -almente, -ilmente,
+    -icamente'
 -lil:
   term: -lil
   class: t xfik
   category: affix
-  translation: bajo en, pobre en
+  translation: 'sfj adj: bajo en, pobre en'
 -mo:
   term: -mo
   class: m xfik
@@ -113,7 +114,7 @@
   term: -ne
   class: t xfik
   category: affix
-  translation: -(a)nte, -ente, en estado o proceso activo de
+  translation: 'sfj adj (en estado o proceso activo de): -ante, -ente'
 -pel:
   term: -pel
   class: b.oj xfik
@@ -124,13 +125,12 @@
   term: -ple
   class: t xfik
   category: affix
-  translation: -ble, -(u)ple, -iple
+  translation: 'sfj adj: -ble, -(u)ple, -iple'
 -pul:
   term: -pul
   class: t xfik
   category: affix
-  translation: con suficiente o m&aacute;s que suficiente, -oso, -do (<em>sentido
-    o percibido</em>), -to, -so, -cho, -ento
+  translation: 'sfj adj (con suficiente o m&aacute;s que suficiente): -oso, -do'
 -sa:
   term: -sa
   class: b xfik
@@ -141,13 +141,12 @@
   term: -sim
   class: t xfik
   category: affix
-  translation: parecido a, -esco (<em>agregado a sustantivos</em>), -do (<em>con aspecto
-    de</em>), -to, -so, -cho, -ento
+  translation: 'sfj adj: parecido a, -esco, -do (<em>con aspecto de</em>)'
 -su:
   term: -su
   class: t xfik
   category: affix
-  translation: <em>marcador de adjetivo posesivo para pronombres</em>
+  translation: 'sfj adj: <em>marcador de adjetivo posesivo para pronombres</em>'
 -tim:
   term: -tim
   class: b xfik
@@ -179,7 +178,7 @@
   term: -yum
   class: t xfik
   category: affix
-  translation: n&uacute;mero ordinal, -&eacute;simo
+  translation: 'sfj adj: n&uacute;mero ordinal, -&eacute;simo'
 a:
   term: a
   class: il
@@ -214,7 +213,7 @@ abil:
   term: abil
   class: t; f.sah
   category: root
-  translation: capaz; capazmente; poder, ser capaz de
+  translation: 'adj: capaz; adv: capazmente; v.aux: poder, ser capaz de'
 abil_na_kari:
   term: abil na kari
   class: b.oj
@@ -564,7 +563,7 @@ adrya:
   term: Adrya
   class: su n
   category: proper word
-  translation: 'n prop: mar Adri&aacute;tico, Adri&aacute;tico'
+  translation: 'n prop: Adria'
 afarin:
   term: afarin
   class: b.oj; il
@@ -5752,7 +5751,7 @@ bur-:
   term: bur-
   class: lfik
   category: affix
-  translation: 'pfj: mal- (<em>malo, mala</em>)'
+  translation: 'pfj: mal-, malo'
 burbaytu:
   term: burbaytu
   class: b
@@ -7047,7 +7046,7 @@ cotegi:
   term: cotegi
   class: b.oj
   category: derived
-  translation: 'v.tr: acortar, hacer m&aacute;s corto, bajar, hacer m&aacute;s bajo'
+  translation: 'v.tr: acortar, hacer m&aacute;s corto, hacer m&aacute;s bajo'
 coteya:
   term: coteya
   class: b
@@ -7128,7 +7127,7 @@ cuki:
   term: cuki
   class: b.oro.harka
   category: root
-  translation: 's: ciclo; v.tr: ciclar; v.intr (uso opcional de -cu): ciclarse'
+  translation: 's: ciclo'
 cukili:
   term: cukili
   class: t
@@ -8890,8 +8889,7 @@ deylyu:
   term: deylyu
   class: b.oro
   category: root
-  translation: 's: convecci&oacute;n; v.tr: convectar; v.intr (uso opcional de -cu):
-    convectarse'
+  translation: 's: convecci&oacute;n'
 deysi:
   term: deysi
   class: b
@@ -10101,7 +10099,7 @@ dur_na:
   term: dur na
   class: p jm
   category: phrase
-  translation: 'sintagma prep: al (<em>+ infinitivo</em>)'
+  translation: 'sintagma prep: al (<em>+ infinitivo</em>), mientras'
 dur_nunya:
   term: dur nunya
   class: p jm
@@ -10538,7 +10536,8 @@ el:
   term: el
   class: p
   category: root
-  translation: 'prep: a (<em>marca de objeto directo, uso restringido</em>)'
+  translation: 'prep: <em>marcador de complemento directo</em> (<em>uso restringido</em>),
+    a'
 elasti:
   term: elasti
   class: t
@@ -11648,7 +11647,7 @@ estokadom:
   term: estokadom
   class: b
   category: derived
-  translation: ""
+  translation: 's: almac&eacute;n, dep&oacute;sito, repositorio'
 estomotsufono:
   term: estomotsufono
   class: b
@@ -12963,7 +12962,7 @@ fe_muka_de:
   term: fe muka de
   class: p
   category: phrase
-  translation: 'prep: enfrente de, frente a'
+  translation: 'prep: enfrente de, en frente de, frente a'
 fe_ner_leya:
   term: (fe) ner leya
   class: p jm
@@ -13663,6 +13662,11 @@ finfe_ki:
   class: l
   category: phrase
   translation: 'conj: hasta que'
+finfe_na:
+  term: finfe na
+  class: p jm
+  category: phrase
+  translation: 'sintagma prep: hasta (<em>+ infinitivo</em>)'
 finfe_nunya:
   term: finfe nunya
   class: p jm
@@ -13937,7 +13941,7 @@ flura:
   class: b.nenoj
   category: root
   translation: 's: flor; s (sexual): co&ntilde;o (<em>vagina</em>, <em>vulva</em>),
-    concha; v.intr: florecer'
+    concha, panocha; v.intr: florecer'
 fluragubar:
   term: fluragubar
   class: b
@@ -14802,7 +14806,7 @@ gami:
   term: gami
   class: b.oj
   category: root
-  translation: 's: c&oacute;nyuge, esposo, esposa; casi-pfj: -pol&iacute;tico/-a;
+  translation: 's: c&oacute;nyuge, esposo, esposa; casi-pfj: pol&iacute;tico, pol&iacute;tica;
     v.tr: casarse con, desposar, contraer matrimonio con'
 gamiatre:
   term: gamiatre
@@ -14926,14 +14930,17 @@ ganimado:
   translation: 'adj: saqueado, pillado, depredado'
 ganjon:
   term: ganjon
-  class: b.oj
+  class: b.lin.oj
   category: root
-  translation: 's: emoci&oacute;n, sentimiento; v.tr: sentir (<em>emocionalmente</em>)'
+  translation: 's: emoci&oacute;n, sentimiento; v.cop (uso opcional de -cu): sentir
+    (<em>emocionalmente, psicol&oacute;gicamente</em>); v.tr: sentir (<em>emocionalmente,
+    psicol&oacute;gicamente</em>)'
 ganjoncu:
   term: ganjoncu
   class: b.lin
   category: derived
-  translation: 'v.cop: sentirse (<em>emocionalmente, de cierta manera</em>)'
+  translation: 'v.cop (uso opcional de -cu): sentirse (<em>emocionalmente, de cierta
+    manera</em>)'
 ganjonpul:
   term: ganjonpul
   class: t
@@ -15391,7 +15398,7 @@ giga:
   term: giga
   class: num
   category: root
-  translation: 'num: mil millones, millardo'
+  translation: 'num: mil millones, millardo, giga-, <em>G</em>'
 giganyan:
   term: giganyan
   class: b
@@ -17546,15 +17553,16 @@ hirxamaso:
   translation: 's: carne de venado'
 hisi:
   term: hisi
-  class: b.oj
+  class: b.lin.oj
   category: root
-  translation: 's: sensaci&oacute;n, sentimiento; v.tr: sentir'
+  translation: 's: sensaci&oacute;n, sentimiento; v.cop (uso opcional de -cu): sentir;
+    v.tr: sentir'
 hisicu:
   term: hisicu
   class: b.lin
   category: derived
-  translation: 'v.cop: sentirse (<em>f&iacute;sica, emocional o psicol&oacute;gicamente,
-    de cierta manera</em>)'
+  translation: 'v.cop (uso opcional de -cu): sentirse (<em>f&iacute;sica, emocional
+    o psicol&oacute;gicamente, de cierta manera</em>)'
 hisido:
   term: hisido
   class: t
@@ -18646,7 +18654,7 @@ ingay:
   term: ingay
   class: t; f.sah
   category: root
-  translation: que deber&iacute;a, obligado; obligadamente; deber(&iacute;a)
+  translation: 'adj: que deber&iacute;a, obligado; adv: obligadamente; v.aux: deber&iacute;a'
 ingi:
   term: ingi
   class: b.oj
@@ -21231,13 +21239,12 @@ kam:
   term: kam
   class: l
   category: root
-  translation: 'conj: <em>part&iacute;cula interrogativa de s&iacute;/no</em>, si
-    (<em>pregunta indirecta</em>)'
+  translation: 'conj: <em>part&iacute;cula interrogativa de s&iacute;/no</em>; o si'
 kama:
   term: kama
-  class: m
+  class: l
   category: root
-  translation: 'adv: si'
+  translation: 'conj (introduce posibilidad alterna): ya sea'
 kameleon:
   term: kameleon
   class: b
@@ -22010,8 +22017,8 @@ kawaywao:
   term: kawaywao
   class: b.oro.hisi
   category: derived
-  translation: 's: cari&ntilde;o; v.tr: hacer entra&ntilde;able a alguien, hacer que
-    alguien resulte querido; v.intr: volverse entra&ntilde;able, ganarse el cari&ntilde;o'
+  translation: 's: cari&ntilde;o; v.tr: enternecer; v.intr: sentir cari&ntilde;o (<em>por
+    alguien</em>), sentir afecto (<em>por alguien</em>)'
 kawaywaodo:
   term: kawaywaodo
   class: t
@@ -24010,7 +24017,12 @@ ku:
   term: ku
   class: l
   category: root
-  translation: 'conj: si (<em>marca interrogativas indirectas</em>)'
+  translation: 'conj: <em>marca interrogativas indirectas</em>'
+ku_kam:
+  term: ku kam
+  class: l
+  category: derived
+  translation: 'conj (introduce pregunta indirecta): si'
 kuba:
   term: Kuba
   class: su n
@@ -24040,7 +24052,8 @@ kufi:
   term: kufi
   class: t; il
   category: root
-  translation: suficiente, bastante; suficientemente, bastantemente
+  translation: 'adj: suficiente, bastante; adv: suficientemente, bastantemente; Interj:
+    basta, suficiente'
 kufiday:
   term: kufiday
   class: t
@@ -27477,7 +27490,7 @@ mawson:
   term: Mawson
   class: su n
   category: proper word
-  translation: 'n prop: mar de Mawson'
+  translation: 'n prop: (mar de) Mawson'
 max:
   term: max
   class: d; m
@@ -27616,7 +27629,7 @@ maxim_nerleli:
   term: maxim nerleli
   class: t jm
   category: phrase
-  translation: el m&aacute;s reciente
+  translation: 'sintagma adj: el m&aacute;s reciente'
 maximum:
   term: maximum
   class: t
@@ -27711,8 +27724,8 @@ maxmo_jaldi:
   term: maxmo jaldi
   class: t jm
   category: phrase
-  translation: con antelaci&oacute;n, de antemano, por adelantado, con anticipaci&oacute;n,
-    m&aacute;s temprano
+  translation: 'sintagma adj: con antelaci&oacute;n, de antemano, por adelantado,
+    con anticipaci&oacute;n, m&aacute;s temprano'
 maxmo_kom:
   term: maxmo kom
   class: jm
@@ -27895,7 +27908,7 @@ mega:
   term: mega
   class: num
   category: root
-  translation: 'num: mill&oacute;n'
+  translation: 'num: mill&oacute;n, mega-, <em>M</em>'
 meganyan:
   term: meganyan
   class: b
@@ -28624,7 +28637,7 @@ mimbay:
   term: mimbay
   class: t; il
   category: root
-  translation: obvio; obviamente, por supuesto
+  translation: 'adj: obvio; adv: obviamente; inter: por supuesto, claro, obvio'
 mimu:
   term: mimu
   class: b
@@ -29772,8 +29785,8 @@ musi:
   term: musi
   class: t; f.sah
   category: root
-  translation: que tiene (que hacer algo), que debe, obligado; obligadamente; tener
-    que, deber
+  translation: 'adj: que tiene (que hacer algo), que debe, obligado; adv: obligadamente;
+    v.aux: tener que, deber'
 musigi:
   term: musigi
   class: b.oj
@@ -30417,7 +30430,7 @@ nenabil:
   term: nenabil
   class: t; f.sah
   category: derived
-  translation: incapaz; ser incapaz de
+  translation: 'adj: incapaz; v.aux: ser incapaz de'
 nenabilgi:
   term: nenabilgi
   class: b.oj
@@ -31956,7 +31969,8 @@ okey:
   term: okey
   class: t; il
   category: root
-  translation: ok(ey), (est&aacute;) bien, bueno, vale, va
+  translation: 'adj: bueno, bien; adv: bien; interj: ok(ey), (est&aacute;) bien, bueno,
+    vale, va'
 oko:
   term: oko
   class: b.oj
@@ -38923,7 +38937,7 @@ solainfracu:
   class: b.nenoj
   category: derived
   translation: 's: puesta de sol, ocaso, atardecer, anochecer; v.intr: ponerse el
-    sol, atardecer'
+    sol, atardecer, anochecer'
 solali:
   term: solali
   class: t
@@ -41334,7 +41348,7 @@ to:
   term: to
   class: pn
   category: root
-  translation: 'pron (inanimado): ello, lo, la, le'
+  translation: 'pron (inanimado): ello, lo, la'
 tobago:
   term: Tobago
   class: su n
@@ -41935,7 +41949,8 @@ trasya:
   term: trasya
   class: b.oj
   category: derived
-  translation: 'v.tr: estar al otro lado (de), estar enfrente (de)'
+  translation: 'v.tr: estar al otro lado (de), estar enfrente (de), estar en frente
+    (de)'
 trator:
   term: trator
   class: b
@@ -42638,7 +42653,7 @@ un:
   term: un
   class: num; d
   category: root
-  translation: 'num: uno, uni-, mono-; det: cierto, determinado (<em>espec&iacute;fico</em>)'
+  translation: 'num: uno, uni-, mono-; det: cierto (<em>determinado</em>)'
 un-:
   term: un-
   class: lfik
@@ -42885,8 +42900,8 @@ uyusu_ete:
   term: uyusu ete
   class: su pn
   category: phrase
-  translation: 'pron pos (seres de vosotros): los vuestros, las vuestras, los suyos,
-    las suyas'
+  translation: 'pron pos (seres de ustedes/vosotros): los vuestros, las vuestras,
+    los suyos, las suyas'
 uyusu_oto:
   term: uyusu oto
   class: su pn
@@ -44791,6 +44806,11 @@ xorfe_ki:
   class: l
   category: phrase
   translation: 'conj: desde que'
+xorfe_na:
+  term: xorfe na
+  class: p jm
+  category: phrase
+  translation: 'sintagma prep: desde (<em>+ infinitivo</em>)'
 xorfe_nunya:
   term: xorfe nunya
   class: p jm

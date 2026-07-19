@@ -33,7 +33,7 @@
   term: -do
   class: t xfik
   category: affix
-  translation: 'adj/adv sfx: <em>in an inactive state of</em>'
+  translation: 'adj/adv sfx (in an inactive state of): -ed'
 -dom:
   term: -dom
   class: b xfik
@@ -79,7 +79,7 @@
   term: -kal
   class: t xfik
   category: affix
-  translation: 'adj sfx: without sufficient, -less; adv: -lessly'
+  translation: 'adj sfx: without sufficient, -less; adv sfx: -lessly'
 -kef:
   term: -kef
   class: b xfik
@@ -110,7 +110,7 @@
   term: -ne
   class: t xfik
   category: affix
-  translation: 'adj/adv sfx: <em>in an active state or process of</em>'
+  translation: 'adj sfx (in an active state or process of): -ing; adv sfx: -ingly'
 -pel:
   term: -pel
   class: b.oj xfik
@@ -126,7 +126,7 @@
   term: -pul
   class: t xfik
   category: affix
-  translation: 'adj sfx: with enough or more than enough, -ful, -ous; adv sfx: -fully,
+  translation: 'adj sfx (with enough or more than enough): -ful, -ous; adv sfx: -fully,
     -ously'
 -sa:
   term: -sa
@@ -143,7 +143,7 @@
   term: -su
   class: t xfik
   category: affix
-  translation: 'adj sfx: <em>possessive adjective marker (applied only to pronouns)</em>'
+  translation: 'adj sfx: <em>possessive adjective marker for pronouns</em>'
 -tim:
   term: -tim
   class: b xfik
@@ -13650,6 +13650,11 @@ finfe_ki:
   class: l
   category: phrase
   translation: 'conj: until (<em>+ sentence</em>)'
+finfe_na:
+  term: finfe na
+  class: p jm
+  category: phrase
+  translation: 'prep phrs: until (<em>+ verb phrase</em>)'
 finfe_nunya:
   term: finfe nunya
   class: p jm
@@ -14909,14 +14914,15 @@ ganimado:
   translation: 'adj: pillaged, plundered, ransacked, marauded'
 ganjon:
   term: ganjon
-  class: b.oj
+  class: b.lin.oj
   category: root
-  translation: 'n: emotion, feeling, sentiment; v.tr: feel (<em>emotionally, psychologically</em>)'
+  translation: 'n: emotion, feeling, sentiment; v.cop (optional -cu): feel (<em>emotionally,
+    psychologically</em>); v.tr: feel (<em>emotionally, psychologically</em>)'
 ganjoncu:
   term: ganjoncu
   class: b.lin
   category: derived
-  translation: 'v.cop: feel (<em>emotionally feel a particular way</em>)'
+  translation: 'v.cop (optional -cu): feel (<em>emotionally feel a particular way</em>)'
 ganjonpul:
   term: ganjonpul
   class: t
@@ -15375,7 +15381,7 @@ giga:
   term: giga
   class: num
   category: root
-  translation: 'num: (one) billion'
+  translation: 'num: (one) billion, giga-, <em>G</em>'
 giganyan:
   term: giganyan
   class: b
@@ -16130,9 +16136,8 @@ guton:
   term: guton
   class: b.oro.hisi
   category: root
-  translation: 'n: pain, ache; v.tr: hurt (<em>cause pain</em>); v.intr: <em>feel
-    pain</em>, <em>have pain</em>, <em>suffer from pain</em>, <em>be in pain</em>,
-    ache, hurt'
+  translation: 'n: pain, ache; v.tr: hurt (<em>cause pain</em>); v.intr: feel pain,
+    have pain, suffer from pain, be in pain, ache, hurt'
 gutoncune:
   term: gutoncune
   class: t
@@ -17523,15 +17528,16 @@ hirxamaso:
   translation: 'n: venison'
 hisi:
   term: hisi
-  class: b.oj
+  class: b.lin.oj
   category: root
-  translation: 'n: feeling, sensation; v.tr: feel (<em>physically, emotionally, psychologically</em>)'
+  translation: 'n: feeling, sensation; v.cop (optional -cu): v.tr: feel (<em>physically,
+    emotionally, psychologically</em>); v.tr: feel (<em>physically, emotionally, psychologically</em>)'
 hisicu:
   term: hisicu
   class: b.lin
   category: derived
-  translation: 'v.cop: feel (<em>physically, emotionally or psychologically feel a
-    particular way</em>)'
+  translation: 'v.cop (optional -cu): feel (<em>physically, emotionally or psychologically
+    feel a particular way</em>)'
 hisido:
   term: hisido
   class: t
@@ -21199,12 +21205,12 @@ kam:
   term: kam
   class: l
   category: root
-  translation: 'conj: <em>yes/no question particle</em>, or (whether)'
+  translation: 'conj: <em>yes/no question particle</em>; or (whether)'
 kama:
   term: kama
-  class: m
+  class: l
   category: root
-  translation: 'adv: whether'
+  translation: 'conj (introduces alternate possibility): whether'
 kameleon:
   term: kameleon
   class: b
@@ -21977,7 +21983,9 @@ kawaywao:
   term: kawaywao
   class: b.oro.hisi
   category: derived
-  translation: 'n: endearment; v.tr: endear; v.intr: be (<em>feel</em>) endeared'
+  translation: 'n: endearment; v.tr: endear (<em>somebody, oneself</em>) to (<em>somebody</em>),
+    melt (<em>somebody&#039;s</em>) heart; v.intr: feel tenderness (<em>towards somebody</em>),
+    feel endearment (<em>towards somebody</em>) '
 kawaywaodo:
   term: kawaywaodo
   class: t
@@ -23976,6 +23984,11 @@ ku:
   class: l
   category: root
   translation: 'conj: <em>marks interrogative clauses in declarative sentences</em>'
+ku_kam:
+  term: ku kam
+  class: l
+  category: derived
+  translation: 'conj  (introduces indirect question): whether, if'
 kuba:
   term: Kuba
   class: su n
@@ -27426,7 +27439,7 @@ mawson:
   term: Mawson
   class: su n
   category: proper word
-  translation: 'prop n: Mawson'
+  translation: 'prop n: Mawson (Sea)'
 max:
   term: max
   class: d; m
@@ -27848,7 +27861,7 @@ mega:
   term: mega
   class: num
   category: root
-  translation: 'num: (one) million'
+  translation: 'num: (one) million, mega-, <em>M</em>'
 meganyan:
   term: meganyan
   class: b
@@ -44709,6 +44722,11 @@ xorfe_ki:
   class: l
   category: phrase
   translation: 'conj: (ever) since (<em>+ sentence</em>)'
+xorfe_na:
+  term: xorfe na
+  class: p jm
+  category: phrase
+  translation: 'prep phrs: since (<em>+ -ing</em>)'
 xorfe_nunya:
   term: xorfe nunya
   class: p jm

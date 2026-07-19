@@ -51,7 +51,8 @@
     epo:
     - - 'adj sfk: bon-'
     spa:
-    - - bueno
+    - - 'sfj adj: buen'
+      - bueno
     deu: []
     fra: []
     rus: []
@@ -68,7 +69,8 @@
       adj sfk:
       - bon-
     spa:
-      "":
+      sfj adj:
+      - buen
       - bueno
     deu: []
     fra: []
@@ -92,9 +94,8 @@
       - -aĉ-
       - fi-
     spa:
-    - - mal-
-      - caco-
-      - i(n)-
+    - - 'sfj adj: mal-'
+      - malo
     deu: []
     fra: []
     rus: []
@@ -113,10 +114,9 @@
       - -aĉ-
       - fi-
     spa:
-      "":
+      sfj adj:
       - mal-
-      - caco-
-      - i(n)-
+      - malo
     deu: []
     fra: []
     rus: []
@@ -199,7 +199,7 @@
     epo:
     - - 'adj sfk: riĉa je'
     spa:
-    - - alto en
+    - - 'sfj adj: alto en'
       - rico en
     deu: []
     fra: []
@@ -216,7 +216,7 @@
       adj sfk:
       - riĉa je
     spa:
-      "":
+      sfj adj:
       - alto en
       - rico en
     deu: []
@@ -273,16 +273,13 @@
   category: affix
   trans:
     eng:
-    - - 'adj/adv sfx: <em>in an inactive state of</em>'
+    - - 'adj/adv sfx (in an inactive state of): -ed'
     epo:
     - - 'adj sfk (in neaktiva stato de): -ita'
     - - 'adv sfk: -ite'
     spa:
-    - - en estado inactivo de
-      - -do (<em>causado por algo externo</em>)
-      - -to
-      - -so
-      - -cho
+    - - 'sfj adj (en estado inactivo de): -ado'
+      - -ido
     deu:
     - - <em>in einem inaktiven Zustand befindend</em>
     fra: []
@@ -292,20 +289,17 @@
     ara: []
   trans_v2:
     eng:
-      adj/adv sfx:
-      - <em>in an inactive state of</em>
+      adj/adv sfx (in an inactive state of):
+      - -ed
     epo:
       adj sfk (in neaktiva stato de):
       - -ita
       adv sfk:
       - -ite
     spa:
-      "":
-      - en estado inactivo de
-      - -do (<em>causado por algo externo</em>)
-      - -to
-      - -so
-      - -cho
+      sfj adj (en estado inactivo de):
+      - -ado
+      - -ido
     deu:
       "":
       - <em>in einem inaktiven Zustand befindend</em>
@@ -401,7 +395,7 @@
     - - 'adv sfk: -eme'
       - inkline (al)
     spa:
-    - - -ento
+    - - 'sfj adj (con inclinación hacia): -ento'
       - -izo
       - -ivo
       - -ón
@@ -426,7 +420,7 @@
       - -eme
       - inkline (al)
     spa:
-      "":
+      sfj adj (con inclinación hacia):
       - -ento
       - -izo
       - -ivo
@@ -760,14 +754,14 @@
     eng:
     - - 'adj sfx: without sufficient'
       - -less
-    - - 'adv: -lessly'
+    - - 'adv sfx: -lessly'
     epo:
     - - 'adj sfk: sen-'
       - malplena
     - - 'adv sfk: sen-'
       - malplene
     spa:
-    - - a(n)-
+    - - 'sfj adj: a(n)-'
       - sin (suficiente)
       - carente de
       - libre de
@@ -784,7 +778,7 @@
       adj sfx:
       - without sufficient
       - -less
-      adv:
+      adv sfx:
       - -lessly
     epo:
       adj sfk:
@@ -794,7 +788,7 @@
       - sen-
       - malplene
     spa:
-      "":
+      sfj adj:
       - a(n)-
       - sin (suficiente)
       - carente de
@@ -875,11 +869,14 @@
       - de
       - rilate al
     spa:
-    - - relacionado con
+    - - 'sfj adj: relacionado con'
       - de
       - -al
       - -il
       - -ico
+    - - 'sfj adv: -almente'
+      - -ilmente
+      - -icamente
     deu: []
     fra: []
     rus: []
@@ -904,12 +901,16 @@
       - de
       - rilate al
     spa:
-      "":
+      sfj adj:
       - relacionado con
       - de
       - -al
       - -il
       - -ico
+      sfj adv:
+      - -almente
+      - -ilmente
+      - -icamente
     deu: []
     fra: []
     rus: []
@@ -935,7 +936,7 @@
     - - 'adj sfk: malriĉa je'
     - - 'adv sfk: malriĉe je'
     spa:
-    - - bajo en
+    - - 'sfj adj: bajo en'
       - pobre en
     deu: []
     fra: []
@@ -953,7 +954,7 @@
       adv sfk:
       - malriĉe je
     spa:
-      "":
+      sfj adj:
       - bajo en
       - pobre en
     deu: []
@@ -1061,14 +1062,14 @@
   category: affix
   trans:
     eng:
-    - - 'adj/adv sfx: <em>in an active state or process of</em>'
+    - - 'adj sfx (in an active state or process of): -ing'
+    - - 'adv sfx: -ingly'
     epo:
     - - 'adj sfk (en aktiva stato de): -anta'
     - - 'adv sfk: -ante'
     spa:
-    - - -(a)nte
+    - - 'sfj adj (en estado o proceso activo de): -ante'
       - -ente
-      - en estado o proceso activo de
     deu: []
     fra: []
     rus: []
@@ -1077,18 +1078,19 @@
     ara: []
   trans_v2:
     eng:
-      adj/adv sfx:
-      - <em>in an active state or process of</em>
+      adj sfx (in an active state or process of):
+      - -ing
+      adv sfx:
+      - -ingly
     epo:
       adj sfk (en aktiva stato de):
       - -anta
       adv sfk:
       - -ante
     spa:
-      "":
-      - -(a)nte
+      sfj adj (en estado o proceso activo de):
+      - -ante
       - -ente
-      - en estado o proceso activo de
     deu: []
     fra: []
     rus: []
@@ -1179,7 +1181,7 @@
     - - 'adj sfk: -obla'
     - - 'adv sfk: -oble'
     spa:
-    - - -ble
+    - - 'sfj adj: -ble'
       - -(u)ple
       - -iple
     deu: []
@@ -1200,7 +1202,7 @@
       adv sfk:
       - -oble
     spa:
-      "":
+      sfj adj:
       - -ble
       - -(u)ple
       - -iple
@@ -1225,22 +1227,20 @@
   category: affix
   trans:
     eng:
-    - - 'adj sfx: with enough or more than enough'
-      - -ful
+    - - 'adj sfx (with enough or more than enough): -ful'
       - -ous
     - - 'adv sfx: -fully'
       - -ously
     epo:
-    - - 'adj sfk: -plena'
-    - - 'adv sfk: -plene'
+    - - 'adj sfk (kun sufiĉa aŭ pli ol sufiĉa): -a'
+      - -plena
+      - -oza
+    - - 'adv sfk: -e'
+      - -plene
+      - -oze
     spa:
-    - - con suficiente o más que suficiente
-      - -oso
-      - -do (<em>sentido o percibido</em>)
-      - -to
-      - -so
-      - -cho
-      - -ento
+    - - 'sfj adj (con suficiente o más que suficiente): -oso'
+      - -do
     deu: []
     fra: []
     rus: []
@@ -1249,27 +1249,25 @@
     ara: []
   trans_v2:
     eng:
-      adj sfx:
-      - with enough or more than enough
+      adj sfx (with enough or more than enough):
       - -ful
       - -ous
       adv sfx:
       - -fully
       - -ously
     epo:
-      adj sfk:
+      adj sfk (kun sufiĉa aŭ pli ol sufiĉa):
+      - -a
       - -plena
+      - -oza
       adv sfk:
+      - -e
       - -plene
+      - -oze
     spa:
-      "":
-      - con suficiente o más que suficiente
+      sfj adj (con suficiente o más que suficiente):
       - -oso
-      - -do (<em>sentido o percibido</em>)
-      - -to
-      - -so
-      - -cho
-      - -ento
+      - -do
     deu: []
     fra: []
     rus: []
@@ -1358,13 +1356,9 @@
     - - 'adj sfk: -eca'
     - - 'adv sfk: -ece'
     spa:
-    - - parecido a
-      - -esco (<em>agregado a sustantivos</em>)
+    - - 'sfj adj: parecido a'
+      - -esco
       - -do (<em>con aspecto de</em>)
-      - -to
-      - -so
-      - -cho
-      - -ento
     deu: []
     fra: []
     rus: []
@@ -1384,14 +1378,10 @@
       adv sfk:
       - -ece
     spa:
-      "":
+      sfj adj:
       - parecido a
-      - -esco (<em>agregado a sustantivos</em>)
+      - -esco
       - -do (<em>con aspecto de</em>)
-      - -to
-      - -so
-      - -cho
-      - -ento
     deu: []
     fra: []
     rus: []
@@ -1409,12 +1399,12 @@
   category: affix
   trans:
     eng:
-    - - 'adj sfx: <em>possessive adjective marker (applied only to pronouns)</em>'
+    - - 'adj sfx: <em>possessive adjective marker for pronouns</em>'
     epo:
-    - - 'adj sfk: <em>markilo de poseda adjektivo (nur por pronomoj)</em>'
+    - - 'adj sfk: <em>markilo de poseda adjektivo por pronomoj</em>'
       - -a
     spa:
-    - - <em>marcador de adjetivo posesivo para pronombres</em>
+    - - 'sfj adj: <em>marcador de adjetivo posesivo para pronombres</em>'
     deu: []
     fra: []
     rus: []
@@ -1424,13 +1414,13 @@
   trans_v2:
     eng:
       adj sfx:
-      - <em>possessive adjective marker (applied only to pronouns)</em>
+      - <em>possessive adjective marker for pronouns</em>
     epo:
       adj sfk:
-      - <em>markilo de poseda adjektivo (nur por pronomoj)</em>
+      - <em>markilo de poseda adjektivo por pronomoj</em>
       - -a
     spa:
-      "":
+      sfj adj:
       - <em>marcador de adjetivo posesivo para pronombres</em>
     deu: []
     fra: []
@@ -1741,7 +1731,7 @@
     - - 'adj sfk (vicnombra numeralo): -a'
     - - 'adv sfk: -e'
     spa:
-    - - número ordinal
+    - - 'sfj adj: número ordinal'
       - -ésimo
     deu: []
     fra:
@@ -1761,7 +1751,7 @@
       adv sfk:
       - -e
     spa:
-      "":
+      sfj adj:
       - número ordinal
       - -ésimo
     deu: []
@@ -2210,9 +2200,9 @@ abil:
     - - 'helpv: povi'
       - kapabli
     spa:
-    - - capaz
-    - - capazmente
-    - - poder
+    - - 'adj: capaz'
+    - - 'adv: capazmente'
+    - - 'v.aux: poder'
       - ser capaz de
     deu:
     - - können
@@ -2252,9 +2242,11 @@ abil:
       - povi
       - kapabli
     spa:
-      noun:
+      adj:
       - capaz
-      verb:
+      adv:
+      - capazmente
+      v.aux:
       - poder
       - ser capaz de
     deu:
@@ -6501,10 +6493,8 @@ adrya:
     - - 'prop n: Adria'
     epo:
     - - 'prop n: Adria'
-      - Adriatiko
     spa:
-    - - 'n prop: mar Adriático'
-      - Adriático
+    - - 'n prop: Adria'
     deu:
     - - Adria
     fra:
@@ -6522,11 +6512,9 @@ adrya:
     epo:
       prop n:
       - Adria
-      - Adriatiko
     spa:
       n prop:
-      - mar Adriático
-      - Adriático
+      - Adria
     deu:
       "":
       - Adria
@@ -14281,7 +14269,7 @@ alosu:
     - - 'poss adj: somebody else''s'
       - someone else's
     epo:
-    - - 'adj pos: de iu alia'
+    - - 'pos adj: de iu alia'
       - alies
     spa:
     - - 'adj pos: de alguien más'
@@ -14298,7 +14286,7 @@ alosu:
       - somebody else's
       - someone else's
     epo:
-      adj pos:
+      pos adj:
       - de iu alia
       - alies
     spa:
@@ -35460,8 +35448,7 @@ ayay:
       - yell
     epo:
     - - 's: krio (<em>pro doloro aŭ timo</em>)'
-    - - 'v.tr: aji'
-      - krii
+    - - 'v.tr: krii'
     spa:
     - - 's: grito'
     - - 'v.tr: gritar'
@@ -35483,7 +35470,6 @@ ayay:
       s:
       - krio (<em>pro doloro aŭ timo</em>)
       v.tr:
-      - aji
       - krii
     spa:
       s:
@@ -37550,9 +37536,9 @@ bage:
       - portion
       - allocate
     epo:
-    - - 's: fragmento'
+    - - 's (artefarite dividita): fragmento'
       - ero
-      - (artefarite dividita) parto
+      - parto
       - porcio
       - dividaĵo
     - - 'v.tr: partigi'
@@ -37587,10 +37573,10 @@ bage:
       - portion
       - allocate
     epo:
-      s:
+      s (artefarite dividita):
       - fragmento
       - ero
-      - (artefarite dividita) parto
+      - parto
       - porcio
       - dividaĵo
       v.tr:
@@ -42344,7 +42330,7 @@ bansu:
     - - 'poss adj: somebody''s'
       - someone's
     epo:
-    - - 'adj pos: ies'
+    - - 'pos adj: ies'
     spa:
     - - 'adj pos: de alguien'
     deu: []
@@ -42359,7 +42345,7 @@ bansu:
       - somebody's
       - someone's
     epo:
-      adj pos:
+      pos adj:
       - ies
     spa:
       adj pos:
@@ -47457,7 +47443,7 @@ bax_asman:
       - in the open air
       - open-air
     epo:
-    - - 'prep fraz: subĉiele'
+    - - 'prep frazparto: subĉiele'
     spa:
     - - 'sintagma prep: al aire libre'
       - a la intemperie
@@ -47474,7 +47460,7 @@ bax_asman:
       - in the open air
       - open-air
     epo:
-      prep fraz:
+      prep frazparto:
       - subĉiele
     spa:
       sintagma prep:
@@ -67379,7 +67365,8 @@ bur-:
       - -aĉ-
       - fi-
     spa:
-    - - 'pfj: mal- (<em>malo, mala</em>)'
+    - - 'pfj: mal-'
+      - malo
     deu: []
     fra: []
     rus: []
@@ -67398,7 +67385,8 @@ bur-:
       - fi-
     spa:
       pfj:
-      - mal- (<em>malo, mala</em>)
+      - mal-
+      - malo
     deu: []
     fra: []
     rus: []
@@ -73885,7 +73873,7 @@ cel:
     - - -wards
     epo:
     - - 'prep: al'
-      - por (<em>montri celon, intencon atingi</em>)
+      - por (<em>montras celon, intencon atingi</em>)
     - - -en
     spa:
     - - 'prep: a'
@@ -73907,7 +73895,7 @@ cel:
     epo:
       prep:
       - al
-      - por (<em>montri celon, intencon atingi</em>)
+      - por (<em>montras celon, intencon atingi</em>)
       verb:
       - -en
     spa:
@@ -74013,7 +74001,7 @@ cel_comen:
     - - 'prep phrs: aside'
       - to the side
     epo:
-    - - 'prep fraz: flanken'
+    - - 'prep frazparto: flanken'
     spa:
     - - 'sintagma prep: a un lado'
       - hacia un lado
@@ -74029,7 +74017,7 @@ cel_comen:
       - aside
       - to the side
     epo:
-      prep fraz:
+      prep frazparto:
       - flanken
     spa:
       sintagma prep:
@@ -74220,7 +74208,7 @@ cel_infracengu:
     eng:
     - - 'prep phrs: downstairs'
     epo:
-    - - 'prep fraz: subŝtuparen'
+    - - 'prep frazparto: subŝtuparen'
       - malsupren
     spa:
     - - 'sintagma prep: abajo'
@@ -74236,7 +74224,7 @@ cel_infracengu:
       prep phrs:
       - downstairs
     epo:
-      prep fraz:
+      prep frazparto:
       - subŝtuparen
       - malsupren
     spa:
@@ -74264,7 +74252,7 @@ cel_kapi:
     eng:
     - - 'prep phrs: to the top'
     epo:
-    - - 'prep fraz: al la supro'
+    - - 'prep frazparto: al la supro'
       - ĝis la supro
     spa:
     - - 'sintagma prep: hasta arriba'
@@ -74280,7 +74268,7 @@ cel_kapi:
       prep phrs:
       - to the top
     epo:
-      prep fraz:
+      prep frazparto:
       - al la supro
       - ĝis la supro
     spa:
@@ -74306,7 +74294,7 @@ cel_moywatu:
     eng:
     - - 'prep phrs: forever'
     epo:
-    - - 'prep fraz: por ĉiam'
+    - - 'prep frazparto: por ĉiam'
       - eterne
     spa:
     - - 'sintagma prep: para siempre'
@@ -74322,7 +74310,7 @@ cel_moywatu:
       prep phrs:
       - forever
     epo:
-      prep fraz:
+      prep frazparto:
       - por ĉiam
       - eterne
     spa:
@@ -74349,7 +74337,7 @@ cel_na:
     - - 'phrs: in order to'
       - so as to
     epo:
-    - - 'fraz: por (<em>+ infinitivo</em>)'
+    - - 'frazparto: por (<em>+ infinitivo</em>)'
     spa:
     - - 'sintagma: para (<em>+ infinitivo</em>)'
       - con el fin de (<em>+ infinitivo</em>)
@@ -74365,7 +74353,7 @@ cel_na:
       - in order to
       - so as to
     epo:
-      fraz:
+      frazparto:
       - por (<em>+ infinitivo</em>)
     spa:
       sintagma:
@@ -74390,7 +74378,7 @@ cel_peda:
     eng:
     - - 'prep phrs: to the bottom'
     epo:
-    - - 'prep fraz: al la malsupro'
+    - - 'prep frazparto: al la malsupro'
       - ĝis la malsupro
       - al la fundo
       - ĝis la fundo
@@ -74408,7 +74396,7 @@ cel_peda:
       prep phrs:
       - to the bottom
     epo:
-      prep fraz:
+      prep frazparto:
       - al la malsupro
       - ĝis la malsupro
       - al la fundo
@@ -74558,7 +74546,7 @@ cel_supracengu:
     eng:
     - - 'prep phrs: upstairs'
     epo:
-    - - 'prep fraz: superŝtuparen'
+    - - 'prep frazparto: superŝtuparen'
       - supren
     spa:
     - - 'sintagma prep: arriba'
@@ -74574,7 +74562,7 @@ cel_supracengu:
       prep phrs:
       - upstairs
     epo:
-      prep fraz:
+      prep frazparto:
       - superŝtuparen
       - supren
     spa:
@@ -82210,7 +82198,6 @@ cotegi:
     spa:
     - - 'v.tr: acortar'
       - hacer más corto
-      - bajar
       - hacer más bajo
     deu: []
     fra: []
@@ -82233,7 +82220,6 @@ cotegi:
       v.tr:
       - acortar
       - hacer más corto
-      - bajar
       - hacer más bajo
     deu: []
     fra: []
@@ -83165,8 +83151,6 @@ cuki:
     - - 'v.ntr (opcia uzo de -cu): cikliĝi'
     spa:
     - - 's: ciclo'
-    - - 'v.tr: ciclar'
-    - - 'v.intr (uso opcional de -cu): ciclarse'
     deu:
     - - Zyklus
     fra:
@@ -83195,10 +83179,6 @@ cuki:
     spa:
       s:
       - ciclo
-      v.tr:
-      - ciclar
-      v.intr (uso opcional de -cu):
-      - ciclarse
     deu:
       "":
       - Zyklus
@@ -84128,7 +84108,7 @@ cuyoato_fal:
     eng:
     - - 'phrs: starring'
     epo:
-    - - 'fraz: ĉefrolita de'
+    - - 'frazparto: ĉefrolita de'
       - ĉefrolante
     spa:
     - - 'sintagma: protagonizado por'
@@ -84143,7 +84123,7 @@ cuyoato_fal:
       phrs:
       - starring
     epo:
-      fraz:
+      frazparto:
       - ĉefrolita de
       - ĉefrolante
     spa:
@@ -89737,7 +89717,7 @@ dasu:
       - its
       - their (<em>singular, plural, animate, inanimate</em>)
     epo:
-    - - 'adj pos (relativa subpropozicio): lia'
+    - - 'pos adj (relativa subpropozicio): lia'
       - ŝia
       - ria
       - ĝia
@@ -89758,7 +89738,7 @@ dasu:
       - its
       - their (<em>singular, plural, animate, inanimate</em>)
     epo:
-      adj pos (relativa subpropozicio):
+      pos adj (relativa subpropozicio):
       - lia
       - ŝia
       - ria
@@ -99908,7 +99888,7 @@ densu:
     - - 'poss adj: that one''s'
       - those ones'
     epo:
-    - - 'adj pos: ties'
+    - - 'pos adj: ties'
     spa:
     - - 'adj pos: de ese'
       - de esa
@@ -99926,7 +99906,7 @@ densu:
       - that one's
       - those ones'
     epo:
-      adj pos:
+      pos adj:
       - ties
     spa:
       adj pos:
@@ -103046,8 +103026,6 @@ deylyu:
     - - 'v.ntr (opcia uzo de -cu): konvektiĝi'
     spa:
     - - 's: convección'
-    - - 'v.tr: convectar'
-    - - 'v.intr (uso opcional de -cu): convectarse'
     deu: []
     fra: []
     rus: []
@@ -103073,10 +103051,6 @@ deylyu:
     spa:
       s:
       - convección
-      v.tr:
-      - convectar
-      v.intr (uso opcional de -cu):
-      - convectarse
     deu: []
     fra: []
     rus: []
@@ -117091,7 +117065,7 @@ dur_moyun:
     - - 'prep phrs: per'
       - a (<em>+ day, week, etc</em>)
     epo:
-    - - 'prep fraz: en ĉiu'
+    - - 'prep frazparto: en ĉiu'
       - ĉiu ___-e
     spa:
     - - 'sintagma prep: por'
@@ -117108,7 +117082,7 @@ dur_moyun:
       - per
       - a (<em>+ day, week, etc</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - en ĉiu
       - ĉiu ___-e
     spa:
@@ -117134,9 +117108,10 @@ dur_na:
     eng:
     - - 'prep phrs: while (<em>+ -ing</em>)'
     epo:
-    - - 'prep fraz: dum'
+    - - 'prep frazparto: dum'
     spa:
     - - 'sintagma prep: al (<em>+ infinitivo</em>)'
+      - mientras
     deu: []
     fra: []
     rus: []
@@ -117148,11 +117123,12 @@ dur_na:
       prep phrs:
       - while (<em>+ -ing</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - dum
     spa:
       sintagma prep:
       - al (<em>+ infinitivo</em>)
+      - mientras
     deu: []
     fra: []
     rus: []
@@ -117175,7 +117151,7 @@ dur_nunya:
       - for the present
       - for the time being
     epo:
-    - - 'prep fraz: provizore'
+    - - 'prep frazparto: provizore'
     spa:
     - - 'sintagma prep: por ahora'
       - por el momento
@@ -117194,7 +117170,7 @@ dur_nunya:
       - for the present
       - for the time being
     epo:
-      prep fraz:
+      prep frazparto:
       - provizore
     spa:
       sintagma prep:
@@ -117220,7 +117196,7 @@ dur_total:
     eng:
     - - 'prep phrs: throughout'
     epo:
-    - - 'prep fraz: dum tuta'
+    - - 'prep frazparto: dum tuta'
       - dum la tuta
     spa:
     - - 'sintagma prep: durante todo'
@@ -117236,7 +117212,7 @@ dur_total:
       prep phrs:
       - throughout
     epo:
-      prep fraz:
+      prep frazparto:
       - dum tuta
       - dum la tuta
     spa:
@@ -122143,9 +122119,11 @@ el:
     eng:
     - - 'prep: <em>direct object marker</em> (<em>restricted use</em>)'
     epo:
-    - - 'prep: -n (<em>markilo de rekta objekto, limigita uzo</em>)'
+    - - 'prep: <em>markilo de rekta objekto</em> (<em>limigita uzo</em>)'
+      - -n
     spa:
-    - - 'prep: a (<em>marca de objeto directo, uso restringido</em>)'
+    - - 'prep: <em>marcador de complemento directo</em> (<em>uso restringido</em>)'
+      - a
     deu: []
     fra: []
     rus: []
@@ -122158,10 +122136,12 @@ el:
       - <em>direct object marker</em> (<em>restricted use</em>)
     epo:
       prep:
-      - -n (<em>markilo de rekta objekto, limigita uzo</em>)
+      - <em>markilo de rekta objekto</em> (<em>limigita uzo</em>)
+      - -n
     spa:
       prep:
-      - a (<em>marca de objeto directo, uso restringido</em>)
+      - <em>marcador de complemento directo</em> (<em>uso restringido</em>)
+      - a
     deu: []
     fra: []
     rus: []
@@ -135423,7 +135403,10 @@ estokadom:
       - deponejo
       - tenejo
       - magazeno
-    spa: []
+    spa:
+    - - 's: almacén'
+      - depósito
+      - repositorio
     deu: []
     fra: []
     rus: []
@@ -135443,7 +135426,11 @@ estokadom:
       - deponejo
       - tenejo
       - magazeno
-    spa: []
+    spa:
+      s:
+      - almacén
+      - depósito
+      - repositorio
     deu: []
     fra: []
     rus: []
@@ -137206,7 +137193,7 @@ etesu:
     eng:
     - - 'poss adj (belonging to beings): their'
     epo:
-    - - 'adj pos (de vivaĵoj): ilia'
+    - - 'pos adj (de vivaĵoj): ilia'
     spa:
     - - 'adj pos (de seres): su'
     deu: []
@@ -137220,7 +137207,7 @@ etesu:
       poss adj (belonging to beings):
       - their
     epo:
-      adj pos (de vivaĵoj):
+      pos adj (de vivaĵoj):
       - ilia
     spa:
       adj pos (de seres):
@@ -137244,7 +137231,7 @@ etesu_ete:
     eng:
     - - 'poss pron (beings belonging to beings): theirs'
     epo:
-    - - 'pos pron  (vivaĵoj de vivaĵoj): la iliaj'
+    - - 'pos pron (vivaĵoj de vivaĵoj): la iliaj'
     spa:
     - - 'pron pos (seres de seres): los suyos'
       - las suyas
@@ -137259,7 +137246,7 @@ etesu_ete:
       poss pron (beings belonging to beings):
       - theirs
     epo:
-      pos pron  (vivaĵoj de vivaĵoj):
+      pos pron (vivaĵoj de vivaĵoj):
       - la iliaj
     spa:
       pron pos (seres de seres):
@@ -145949,7 +145936,7 @@ fe_alo_kaso:
     - - 'prep phrs: otherwise'
       - or else
     epo:
-    - - 'prep fraz: alikaze'
+    - - 'prep frazparto: alikaze'
       - alie
     spa:
     - - 'sintagma prep: de lo contrario'
@@ -145966,7 +145953,7 @@ fe_alo_kaso:
       - otherwise
       - or else
     epo:
-      prep fraz:
+      prep frazparto:
       - alikaze
       - alie
     spa:
@@ -145994,7 +145981,7 @@ fe_alo_lexi:
     eng:
     - - 'prep phrs: in other words'
     epo:
-    - - 'prep fraz: alivorte'
+    - - 'prep frazparto: alivorte'
       - alidire
     spa:
     - - 'sintagma prep: en otras palabras'
@@ -146011,7 +145998,7 @@ fe_alo_lexi:
       prep phrs:
       - in other words
     epo:
-      prep fraz:
+      prep frazparto:
       - alivorte
       - alidire
     spa:
@@ -146040,7 +146027,7 @@ fe_alo_loga:
     eng:
     - - 'prep phrs: in other words'
     epo:
-    - - 'prep fraz: alivorte'
+    - - 'prep frazparto: alivorte'
       - alidire
     spa:
     - - 'sintagma prep: en otras palabras'
@@ -146057,7 +146044,7 @@ fe_alo_loga:
       prep phrs:
       - in other words
     epo:
-      prep fraz:
+      prep frazparto:
       - alivorte
       - alidire
     spa:
@@ -146087,7 +146074,7 @@ fe_aresto:
     - - 'prep phrs: under arrest'
       - in custody
     epo:
-    - - 'prep fraz: arestite'
+    - - 'prep frazparto: arestite'
       - en aresto
     spa:
     - - 'sintagma prep: bajo arresto'
@@ -146105,7 +146092,7 @@ fe_aresto:
       - under arrest
       - in custody
     epo:
-      prep fraz:
+      prep frazparto:
       - arestite
       - en aresto
     spa:
@@ -146132,7 +146119,7 @@ fe_asel:
     eng:
     - - 'prep phrs: originally'
     epo:
-    - - 'prep fraz: originale'
+    - - 'prep frazparto: originale'
       - devene
     spa:
     - - 'sintagma prep: originalmente'
@@ -146148,7 +146135,7 @@ fe_asel:
       prep phrs:
       - originally
     epo:
-      prep fraz:
+      prep frazparto:
       - originale
       - devene
     spa:
@@ -146176,7 +146163,7 @@ fe_asif:
       - regretfully
       - unfortunately
     epo:
-    - - 'prep fraz: bedaŭrinde'
+    - - 'prep frazparto: bedaŭrinde'
     spa:
     - - 'sintagma prep: lamentablemente'
       - desafortunadamente
@@ -146194,7 +146181,7 @@ fe_asif:
       - regretfully
       - unfortunately
     epo:
-      prep fraz:
+      prep frazparto:
       - bedaŭrinde
     spa:
       sintagma prep:
@@ -146220,7 +146207,7 @@ fe_bage:
     eng:
     - - 'prep phrs: in part'
     epo:
-    - - 'prep fraz: parte'
+    - - 'prep frazparto: parte'
     spa:
     - - 'sintagma prep: en parte'
       - parcialmente
@@ -146235,7 +146222,7 @@ fe_bage:
       prep phrs:
       - in part
     epo:
-      prep fraz:
+      prep frazparto:
       - parte
     spa:
       sintagma prep:
@@ -146261,7 +146248,7 @@ fe_ban_leli_watu:
     - - 'prep phrs: at some point in the past'
       - once upon a time
     epo:
-    - - 'prep fraz: je iu estinta fojo'
+    - - 'prep frazparto: je iu estinta fojo'
     spa:
     - - 'sintagma prep: en algún momento del pasado'
       - tiempo atrás
@@ -146277,7 +146264,7 @@ fe_ban_leli_watu:
       - at some point in the past
       - once upon a time
     epo:
-      prep fraz:
+      prep frazparto:
       - je iu estinta fojo
     spa:
       sintagma prep:
@@ -146308,7 +146295,7 @@ fe_ban_mara:
       - once
       - once upon a time
     epo:
-    - - 'prep fraz: iufoje'
+    - - 'prep frazparto: iufoje'
       - iam
     spa:
     - - 'sintagma prep: en cierta ocasión'
@@ -146327,7 +146314,7 @@ fe_ban_mara:
       - once
       - once upon a time
     epo:
-      prep fraz:
+      prep frazparto:
       - iufoje
       - iam
     spa:
@@ -146357,7 +146344,7 @@ fe_ban_xali_watu:
     - - 'prep phrs: at some point in the future'
       - eventually
     epo:
-    - - 'prep fraz: iam estontence'
+    - - 'prep frazparto: iam estontence'
     spa:
     - - 'sintagma prep: en algún momento del futuro'
       - con el tiempo
@@ -146373,7 +146360,7 @@ fe_ban_xali_watu:
       - at some point in the future
       - eventually
     epo:
-      prep fraz:
+      prep frazparto:
       - iam estontence
     spa:
       sintagma prep:
@@ -146403,7 +146390,7 @@ fe_basi:
     - - 'prep phrs: basically'
       - fundamentally
     epo:
-    - - 'prep fraz: baze'
+    - - 'prep frazparto: baze'
       - fundamente
     spa:
     - - 'sintagma prep: básicamente'
@@ -146420,7 +146407,7 @@ fe_basi:
       - basically
       - fundamentally
     epo:
-      prep fraz:
+      prep frazparto:
       - baze
       - fundamente
     spa:
@@ -146490,7 +146477,7 @@ fe_baxya:
     eng:
     - - 'prep phrs: underneath'
     epo:
-    - - 'prep fraz: sube'
+    - - 'prep frazparto: sube'
     spa:
     - - 'sintagma prep: debajo'
       - abajo
@@ -146505,7 +146492,7 @@ fe_baxya:
       prep phrs:
       - underneath
     epo:
-      prep fraz:
+      prep frazparto:
       - sube
     spa:
       sintagma prep:
@@ -146531,7 +146518,7 @@ fe_benji:
     - - 'prep phrs: in essence'
       - basically
     epo:
-    - - 'prep fraz: esence'
+    - - 'prep frazparto: esence'
       - baze
     spa:
     - - 'sintagma prep: en esencia'
@@ -146549,7 +146536,7 @@ fe_benji:
       - in essence
       - basically
     epo:
-      prep fraz:
+      prep frazparto:
       - esence
       - baze
     spa:
@@ -146577,7 +146564,7 @@ fe_bonxanse:
     - - 'prep phrs: luckily'
       - fortunately
     epo:
-    - - 'prep fraz: bonŝance'
+    - - 'prep frazparto: bonŝance'
       - feliĉe
     spa:
     - - 'sintagma prep: por suerte'
@@ -146594,7 +146581,7 @@ fe_bonxanse:
       - luckily
       - fortunately
     epo:
-      prep fraz:
+      prep frazparto:
       - bonŝance
       - feliĉe
     spa:
@@ -146660,7 +146647,7 @@ fe_centro:
     eng:
     - - 'prep phrs: in the center'
     epo:
-    - - 'prep fraz: en la centro'
+    - - 'prep frazparto: en la centro'
     spa:
     - - 'sintagma prep: en el centro'
     deu: []
@@ -146674,7 +146661,7 @@ fe_centro:
       prep phrs:
       - in the center
     epo:
-      prep fraz:
+      prep frazparto:
       - en la centro
     spa:
       sintagma prep:
@@ -146738,7 +146725,7 @@ fe_comen:
     eng:
     - - 'prep phrs: on the side'
     epo:
-    - - 'prep fraz: ĉe la flanko'
+    - - 'prep frazparto: ĉe la flanko'
       - apude
     spa:
     - - 'sintagma prep: al lado'
@@ -146754,7 +146741,7 @@ fe_comen:
       prep phrs:
       - on the side
     epo:
-      prep fraz:
+      prep frazparto:
       - ĉe la flanko
       - apude
     spa:
@@ -146827,7 +146814,7 @@ fe_den_kaso:
     - - 'prep phrs: in that case'
       - then
     epo:
-    - - 'prep fraz: en tiu kazo'
+    - - 'prep frazparto: en tiu kazo'
       - tiukaze
     spa:
     - - 'sintagma prep: en ese caso'
@@ -146844,7 +146831,7 @@ fe_den_kaso:
       - in that case
       - then
     epo:
-      prep fraz:
+      prep frazparto:
       - en tiu kazo
       - tiukaze
     spa:
@@ -146873,7 +146860,7 @@ fe_dua_mara:
     - - 'prep phrs: twice'
       - two times
     epo:
-    - - 'prep fraz: dufoje'
+    - - 'prep frazparto: dufoje'
     spa:
     - - 'sintagma prep: dos veces'
     deu: []
@@ -146888,7 +146875,7 @@ fe_dua_mara:
       - twice
       - two times
     epo:
-      prep fraz:
+      prep frazparto:
       - dufoje
     spa:
       sintagma prep:
@@ -146919,7 +146906,7 @@ fe_duli_mara:
       - from time to time
       - once in a while
     epo:
-    - - 'prep fraz: iafoje'
+    - - 'prep frazparto: iafoje'
       - foje
       - kelkfoje
       - de tempo al tempo
@@ -146944,7 +146931,7 @@ fe_duli_mara:
       - from time to time
       - once in a while
     epo:
-      prep fraz:
+      prep frazparto:
       - iafoje
       - foje
       - kelkfoje
@@ -146983,7 +146970,7 @@ fe_dumara:
       - from time to time
       - once in a while
     epo:
-    - - 'prep fraz: iafoje'
+    - - 'prep frazparto: iafoje'
       - foje
       - kelkfoje
       - de tempo al tempo
@@ -147008,7 +146995,7 @@ fe_dumara:
       - from time to time
       - once in a while
     epo:
-      prep fraz:
+      prep frazparto:
       - iafoje
       - foje
       - kelkfoje
@@ -147041,7 +147028,7 @@ fe_durya:
     - - 'prep phrs: in the meantime'
       - meanwhile
     epo:
-    - - 'prep fraz: dume'
+    - - 'prep frazparto: dume'
       - intertempe
     spa:
     - - 'sintagma prep: mientras tanto'
@@ -147058,7 +147045,7 @@ fe_durya:
       - in the meantime
       - meanwhile
     epo:
-      prep fraz:
+      prep frazparto:
       - dume
       - intertempe
     spa:
@@ -147088,7 +147075,7 @@ fe_espesyalya:
       - particularly
       - especially
     epo:
-    - - 'prep fraz: speciale'
+    - - 'prep frazparto: speciale'
       - precipe
     spa:
     - - 'sintagma prep: en particular'
@@ -147107,7 +147094,7 @@ fe_espesyalya:
       - particularly
       - especially
     epo:
-      prep fraz:
+      prep frazparto:
       - speciale
       - precipe
     spa:
@@ -147179,7 +147166,7 @@ fe_exya:
     - - 'prep phrs: outside'
       - without (<em>opposite of within</em>)
     epo:
-    - - 'prep fraz: ekstere'
+    - - 'prep frazparto: ekstere'
     spa:
     - - 'sintagma prep: afuera'
       - fuera (<em>lo contrario de dentro</em>)
@@ -147195,7 +147182,7 @@ fe_exya:
       - outside
       - without (<em>opposite of within</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - ekstere
     spa:
       sintagma prep:
@@ -147262,7 +147249,7 @@ fe_fato:
       - actually
       - de facto
     epo:
-    - - 'prep fraz: fakte'
+    - - 'prep frazparto: fakte'
       - efektive
     spa:
     - - 'sintagma prep: de hecho'
@@ -147281,7 +147268,7 @@ fe_fato:
       - actually
       - de facto
     epo:
-      prep fraz:
+      prep frazparto:
       - fakte
       - efektive
     spa:
@@ -147309,7 +147296,7 @@ fe_fini:
     - - 'prep phrs: finally'
       - eventually
     epo:
-    - - 'prep fraz: finfine'
+    - - 'prep frazparto: finfine'
       - fine
     spa:
     - - 'sintagma prep: finalmente'
@@ -147327,7 +147314,7 @@ fe_fini:
       - finally
       - eventually
     epo:
-      prep fraz:
+      prep frazparto:
       - finfine
       - fine
     spa:
@@ -147357,7 +147344,7 @@ fe_folo:
       - thus
       - hence
     epo:
-    - - 'prep fraz: do'
+    - - 'prep frazparto: do'
       - pro tio
       - sekve
     spa:
@@ -147378,7 +147365,7 @@ fe_folo:
       - thus
       - hence
     epo:
-      prep fraz:
+      prep frazparto:
       - do
       - pro tio
       - sekve
@@ -147501,8 +147488,8 @@ fe_folya:
     - - 'prep phrs: alongside'
     - - 'prep phrs: accordingly'
     epo:
-    - - 'prep fraz: apude'
-    - - 'prep fraz: konforme'
+    - - 'prep frazparto: apude'
+    - - 'prep frazparto: konforme'
       - laŭe
     spa:
     - - 'sintagma prep: al lado'
@@ -147520,7 +147507,7 @@ fe_folya:
       prep phrs:
       - accordingly
     epo:
-      prep fraz:
+      prep frazparto:
       - konforme
       - laŭe
     spa:
@@ -147547,7 +147534,7 @@ fe_fronta:
     - - 'prep phrs: in front'
       - ahead
     epo:
-    - - 'prep fraz: antaŭe'
+    - - 'prep frazparto: antaŭe'
     spa:
     - - 'sintagma prep: delante'
       - al frente
@@ -147564,7 +147551,7 @@ fe_fronta:
       - in front
       - ahead
     epo:
-      prep fraz:
+      prep frazparto:
       - antaŭe
     spa:
       sintagma prep:
@@ -147633,7 +147620,7 @@ fe_geo:
     - - 'prep phrs: (my) gosh'
       - land sakes
     epo:
-    - - 'prep fraz: Dio mia'
+    - - 'prep frazparto: Dio mia'
       - ho ve
     spa:
     - - 'sintagma prep: madre mía'
@@ -147651,7 +147638,7 @@ fe_geo:
       - (my) gosh
       - land sakes
     epo:
-      prep fraz:
+      prep frazparto:
       - Dio mia
       - ho ve
     spa:
@@ -147678,7 +147665,7 @@ fe_gwaho:
     eng:
     - - 'prep phrs: by the way'
     epo:
-    - - 'prep fraz: parenteze'
+    - - 'prep frazparto: parenteze'
       - cetere
     spa:
     - - 'sintagma prep: por cierto'
@@ -147694,7 +147681,7 @@ fe_gwaho:
       prep phrs:
       - by the way
     epo:
-      prep fraz:
+      prep frazparto:
       - parenteze
       - cetere
     spa:
@@ -147727,7 +147714,7 @@ fe_hataya:
       - in spite of that
       - yet
     epo:
-    - - 'prep fraz: tamen'
+    - - 'prep frazparto: tamen'
       - malgraŭ tio
       - spite tion
     spa:
@@ -147751,7 +147738,7 @@ fe_hataya:
       - in spite of that
       - yet
     epo:
-      prep fraz:
+      prep frazparto:
       - tamen
       - malgraŭ tio
       - spite tion
@@ -147880,7 +147867,7 @@ fe_hin_kaso:
     eng:
     - - 'prep phrs: in this case'
     epo:
-    - - 'prep fraz: en tiu ĉi kazo'
+    - - 'prep frazparto: en tiu ĉi kazo'
       - en ĉi tiu kazo
       - ĉi-kaze
     spa:
@@ -147896,7 +147883,7 @@ fe_hin_kaso:
       prep phrs:
       - in this case
     epo:
-      prep fraz:
+      prep frazparto:
       - en tiu ĉi kazo
       - en ĉi tiu kazo
       - ĉi-kaze
@@ -147924,7 +147911,7 @@ fe_hin_noce:
     eng:
     - - 'prep phrs: tonight'
     epo:
-    - - 'prep fraz: ĉinokte'
+    - - 'prep frazparto: ĉinokte'
       - ĉi-nokte
     spa:
     - - 'sintagma prep: esta noche'
@@ -147939,7 +147926,7 @@ fe_hin_noce:
       prep phrs:
       - tonight
     epo:
-      prep fraz:
+      prep frazparto:
       - ĉinokte
       - ĉi-nokte
     spa:
@@ -147967,7 +147954,7 @@ fe_infer:
     - - 'prep phrs: (down) below'
       - (down) under
     epo:
-    - - 'prep fraz: malsupre'
+    - - 'prep frazparto: malsupre'
     spa:
     - - 'sintagma prep: (más) abajo'
       - debajo
@@ -147983,7 +147970,7 @@ fe_infer:
       - (down) below
       - (down) under
     epo:
-      prep fraz:
+      prep frazparto:
       - malsupre
     spa:
       sintagma prep:
@@ -148008,7 +147995,7 @@ fe_infracengu:
     eng:
     - - 'prep phrs: downstairs'
     epo:
-    - - 'prep fraz: subŝtupare'
+    - - 'prep frazparto: subŝtupare'
       - malsupre
     spa:
     - - 'sintagma prep: abajo'
@@ -148024,7 +148011,7 @@ fe_infracengu:
       prep phrs:
       - downstairs
     epo:
-      prep fraz:
+      prep frazparto:
       - subŝtupare
       - malsupre
     spa:
@@ -148095,7 +148082,7 @@ fe_intrewatu:
     - - 'prep phrs: in the meantime'
       - meanwhile
     epo:
-    - - 'prep fraz: intertempe'
+    - - 'prep frazparto: intertempe'
       - dume
     spa:
     - - 'sintagma prep: mientras tanto'
@@ -148112,7 +148099,7 @@ fe_intrewatu:
       - in the meantime
       - meanwhile
     epo:
-      prep fraz:
+      prep frazparto:
       - intertempe
       - dume
     spa:
@@ -148140,7 +148127,7 @@ fe_intreya:
     eng:
     - - 'prep phrs: in between'
     epo:
-    - - 'prep fraz: intere'
+    - - 'prep frazparto: intere'
     spa:
     - - 'sintagma prep: en medio'
       - entremedias
@@ -148155,7 +148142,7 @@ fe_intreya:
       prep phrs:
       - in between
     epo:
-      prep fraz:
+      prep frazparto:
       - intere
     spa:
       sintagma prep:
@@ -148181,7 +148168,7 @@ fe_inya:
     - - 'prep phrs: inside'
       - within
     epo:
-    - - 'prep fraz: interne'
+    - - 'prep frazparto: interne'
       - ene
     spa:
     - - 'sintagma prep: dentro'
@@ -148199,7 +148186,7 @@ fe_inya:
       - inside
       - within
     epo:
-      prep fraz:
+      prep frazparto:
       - interne
       - ene
     spa:
@@ -148272,7 +148259,7 @@ fe_jadin:
     eng:
     - - 'prep phrs: supposedly'
     epo:
-    - - 'prep fraz: supozeble'
+    - - 'prep frazparto: supozeble'
       - onidire
     spa:
     - - 'sintagma prep: supuestamente'
@@ -148288,7 +148275,7 @@ fe_jadin:
       prep phrs:
       - supposedly
     epo:
-      prep fraz:
+      prep frazparto:
       - supozeble
       - onidire
     spa:
@@ -148314,7 +148301,7 @@ fe_jaledin:
     eng:
     - - 'prep phrs: yesterday'
     epo:
-    - - 'prep fraz: hieraŭ'
+    - - 'prep frazparto: hieraŭ'
     spa:
     - - 'sintagma prep: ayer'
     deu: []
@@ -148328,7 +148315,7 @@ fe_jaledin:
       prep phrs:
       - yesterday
     epo:
-      prep fraz:
+      prep frazparto:
       - hieraŭ
     spa:
       sintagma prep:
@@ -148352,7 +148339,7 @@ fe_jaxadin:
     eng:
     - - 'prep phrs: tomorrow'
     epo:
-    - - 'prep fraz: morgaŭ'
+    - - 'prep frazparto: morgaŭ'
     spa:
     - - 'sintagma prep: mañana'
     deu: []
@@ -148366,7 +148353,7 @@ fe_jaxadin:
       prep phrs:
       - tomorrow
     epo:
-      prep fraz:
+      prep frazparto:
       - morgaŭ
     spa:
       sintagma prep:
@@ -148390,7 +148377,7 @@ fe_jaya:
     eng:
     - - 'prep phrs: adjacently'
     epo:
-    - - 'prep fraz: apude'
+    - - 'prep frazparto: apude'
     spa:
     - - 'sintagma prep: al lado'
       - de forma contigua
@@ -148405,7 +148392,7 @@ fe_jaya:
       prep phrs:
       - adjacently
     epo:
-      prep fraz:
+      prep frazparto:
       - apude
     spa:
       sintagma prep:
@@ -148432,7 +148419,7 @@ fe_kapi:
     eng:
     - - 'prep phrs: on top'
     epo:
-    - - 'prep fraz: supre'
+    - - 'prep frazparto: supre'
     spa:
     - - 'sintagma prep: encima'
       - arriba
@@ -148447,7 +148434,7 @@ fe_kapi:
       prep phrs:
       - on top
     epo:
-      prep fraz:
+      prep frazparto:
       - supre
     spa:
       sintagma prep:
@@ -148886,7 +148873,7 @@ fe_ledin:
       - in the past
       - days gone by
     epo:
-    - - 'prep fraz: hieraŭ'
+    - - 'prep frazparto: hieraŭ'
       - en la pasinteco
       - en pasintaj tagoj
     spa:
@@ -148906,7 +148893,7 @@ fe_ledin:
       - in the past
       - days gone by
     epo:
-      prep fraz:
+      prep frazparto:
       - hieraŭ
       - en la pasinteco
       - en pasintaj tagoj
@@ -148935,7 +148922,7 @@ fe_leya:
     - - 'prep phrs: in the past'
       - previously
     epo:
-    - - 'prep fraz: en la pasinteco'
+    - - 'prep frazparto: en la pasinteco'
       - antaŭe
     spa:
     - - 'sintagma prep: en el pasado'
@@ -148952,7 +148939,7 @@ fe_leya:
       - in the past
       - previously
     epo:
-      prep fraz:
+      prep frazparto:
       - en la pasinteco
       - antaŭe
     spa:
@@ -148978,7 +148965,7 @@ fe_lutuf:
     eng:
     - - 'prep phrs: please (<em>“kindly”</em>)'
     epo:
-    - - 'prep fraz: bonvolu'
+    - - 'prep frazparto: bonvolu'
       - mi petas
     spa:
     - - 'sintagma prep: por favor (<em>amablemente</em>)'
@@ -148993,7 +148980,7 @@ fe_lutuf:
       prep phrs:
       - please (<em>“kindly”</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - bonvolu
       - mi petas
     spa:
@@ -149021,7 +149008,7 @@ fe_maxusya:
       - moreover
       - additionally
     epo:
-    - - 'prep fraz: plue'
+    - - 'prep frazparto: plue'
       - krome
       - aldone
     spa:
@@ -149042,7 +149029,7 @@ fe_maxusya:
       - moreover
       - additionally
     epo:
-      prep fraz:
+      prep frazparto:
       - plue
       - krome
       - aldone
@@ -149072,7 +149059,7 @@ fe_midiya:
     eng:
     - - 'prep phrs: in the middle'
     epo:
-    - - 'prep fraz: en la mezo'
+    - - 'prep frazparto: en la mezo'
       - meze
     spa:
     - - 'sintagma prep: en el medio'
@@ -149088,7 +149075,7 @@ fe_midiya:
       prep phrs:
       - in the middle
     epo:
-      prep fraz:
+      prep frazparto:
       - en la mezo
       - meze
     spa:
@@ -149161,7 +149148,7 @@ fe_misal:
     - - 'prep phrs: for example'
       - for instance
     epo:
-    - - 'prep fraz: ekzemple'
+    - - 'prep frazparto: ekzemple'
     spa:
     - - 'sintagma prep: por ejemplo'
     deu: []
@@ -149176,7 +149163,7 @@ fe_misal:
       - for example
       - for instance
     epo:
-      prep fraz:
+      prep frazparto:
       - ekzemple
     spa:
       sintagma prep:
@@ -149200,7 +149187,7 @@ fe_misu_bage:
     eng:
     - - 'prep phrs: for my part'
     epo:
-    - - 'prep fraz: miaparte'
+    - - 'prep frazparto: miaparte'
     spa:
     - - 'sintagma prep: por mi parte'
     deu: []
@@ -149214,7 +149201,7 @@ fe_misu_bage:
       prep phrs:
       - for my part
     epo:
-      prep fraz:
+      prep frazparto:
       - miaparte
     spa:
       sintagma prep:
@@ -149240,7 +149227,7 @@ fe_misu_ijen:
     eng:
     - - 'prep phrs: in my opinion'
     epo:
-    - - 'prep fraz: laŭ mia opinio'
+    - - 'prep frazparto: laŭ mia opinio'
       - miaopinie
       - laŭ mi
     spa:
@@ -149258,7 +149245,7 @@ fe_misu_ijen:
       prep phrs:
       - in my opinion
     epo:
-      prep fraz:
+      prep frazparto:
       - laŭ mia opinio
       - miaopinie
       - laŭ mi
@@ -149290,7 +149277,7 @@ fe_moy_kaso:
       - at any rate
       - anyway
     epo:
-    - - 'prep fraz: ĉiaokaze'
+    - - 'prep frazparto: ĉiaokaze'
       - ĉiukaze
     spa:
     - - 'sintagma prep: en cualquier caso'
@@ -149309,7 +149296,7 @@ fe_moy_kaso:
       - at any rate
       - anyway
     epo:
-      prep fraz:
+      prep frazparto:
       - ĉiaokaze
       - ĉiukaze
     spa:
@@ -149339,7 +149326,7 @@ fe_moyun:
     - - 'prep phrs: per'
       - a (<em>+ day, week, etc</em>)
     epo:
-    - - 'prep fraz: en ĉiu'
+    - - 'prep frazparto: en ĉiu'
       - ĉiu___-e
     spa:
     - - 'sintagma prep: por'
@@ -149356,7 +149343,7 @@ fe_moyun:
       - per
       - a (<em>+ day, week, etc</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - en ĉiu
       - ĉiu___-e
     spa:
@@ -149383,7 +149370,7 @@ fe_muka:
     - - 'prep phrs: across'
       - face to face
     epo:
-    - - 'prep fraz: fronte'
+    - - 'prep frazparto: fronte'
       - vid-al-vide
     spa:
     - - 'sintagma prep: enfrente'
@@ -149400,7 +149387,7 @@ fe_muka:
       - across
       - face to face
     epo:
-      prep fraz:
+      prep frazparto:
       - fronte
       - vid-al-vide
     spa:
@@ -149429,6 +149416,7 @@ fe_muka_de:
     - - 'prep: fronte al'
     spa:
     - - 'prep: enfrente de'
+      - en frente de
       - frente a
     deu: []
     fra: []
@@ -149446,6 +149434,7 @@ fe_muka_de:
     spa:
       prep:
       - enfrente de
+      - en frente de
       - frente a
     deu: []
     fra: []
@@ -149469,7 +149458,7 @@ fe_ner_leya:
     - - 'prep phrs: in the near past'
       - recently
     epo:
-    - - 'prep fraz: antaŭ nelonge'
+    - - 'prep frazparto: antaŭ nelonge'
       - freŝdate
     spa:
     - - 'sintagma prep: hace poco'
@@ -149486,7 +149475,7 @@ fe_ner_leya:
       - in the near past
       - recently
     epo:
-      prep fraz:
+      prep frazparto:
       - antaŭ nelonge
       - freŝdate
     spa:
@@ -149515,7 +149504,7 @@ fe_ner_or_teli_xaya:
     - - 'prep phrs: sooner or later'
       - eventually
     epo:
-    - - 'prep fraz: pli-malpli baldaŭ'
+    - - 'prep frazparto: pli-malpli baldaŭ'
     spa:
     - - 'sintagma prep: tarde o temprano'
       - con el tiempo
@@ -149531,7 +149520,7 @@ fe_ner_or_teli_xaya:
       - sooner or later
       - eventually
     epo:
-      prep fraz:
+      prep frazparto:
       - pli-malpli baldaŭ
     spa:
       sintagma prep:
@@ -149563,7 +149552,7 @@ fe_ner_xaya:
     - - 'prep phrs: in the near future'
       - soon
     epo:
-    - - 'prep fraz: post nelonge'
+    - - 'prep frazparto: post nelonge'
       - baldaŭ
     spa:
     - - 'sintagma prep: dentro de poco'
@@ -149580,7 +149569,7 @@ fe_ner_xaya:
       - in the near future
       - soon
     epo:
-      prep fraz:
+      prep frazparto:
       - post nelonge
       - baldaŭ
     spa:
@@ -149608,7 +149597,7 @@ fe_nerleli_watu:
     eng:
     - - 'prep phrs: lately'
     epo:
-    - - 'prep fraz: lastatempe'
+    - - 'prep frazparto: lastatempe'
     spa:
     - - 'sintagma prep: últimamente'
     deu: []
@@ -149622,7 +149611,7 @@ fe_nerleli_watu:
       prep phrs:
       - lately
     epo:
-      prep fraz:
+      prep frazparto:
       - lastatempe
     spa:
       sintagma prep:
@@ -149648,7 +149637,7 @@ fe_nundin:
     eng:
     - - 'prep phrs: today'
     epo:
-    - - 'prep fraz: hodiaŭ'
+    - - 'prep frazparto: hodiaŭ'
     spa:
     - - 'sintagma prep: hoy'
     deu: []
@@ -149662,7 +149651,7 @@ fe_nundin:
       prep phrs:
       - today
     epo:
-      prep fraz:
+      prep frazparto:
       - hodiaŭ
     spa:
       sintagma prep:
@@ -149686,7 +149675,7 @@ fe_nunli_din:
     eng:
     - - 'prep phrs: nowadays'
     epo:
-    - - 'prep fraz: nuntempe'
+    - - 'prep frazparto: nuntempe'
       - nuntage
     spa:
     - - 'sintagma prep: hoy en día'
@@ -149702,7 +149691,7 @@ fe_nunli_din:
       prep phrs:
       - nowadays
     epo:
-      prep fraz:
+      prep frazparto:
       - nuntempe
       - nuntage
     spa:
@@ -149733,7 +149722,7 @@ fe_nunya:
       - currently
       - now
     epo:
-    - - 'prep fraz: nuntempe'
+    - - 'prep frazparto: nuntempe'
       - aktuale
       - nune
     spa:
@@ -149754,7 +149743,7 @@ fe_nunya:
       - currently
       - now
     epo:
-      prep fraz:
+      prep frazparto:
       - nuntempe
       - aktuale
       - nune
@@ -149920,7 +149909,7 @@ fe_onxala:
     eng:
     - - 'prep phrs: hopefully'
     epo:
-    - - 'prep fraz: espereble'
+    - - 'prep frazparto: espereble'
     spa:
     - - 'sintagma prep: con suerte'
       - ojalá
@@ -149935,7 +149924,7 @@ fe_onxala:
       prep phrs:
       - hopefully
     epo:
-      prep fraz:
+      prep frazparto:
       - espereble
     spa:
       sintagma prep:
@@ -149960,7 +149949,7 @@ fe_oposya:
     eng:
     - - 'prep phrs: on the contrary'
     epo:
-    - - 'prep fraz: male'
+    - - 'prep frazparto: male'
       - kontraŭe
     spa:
     - - 'sintagma prep: al contrario'
@@ -149976,7 +149965,7 @@ fe_oposya:
       prep phrs:
       - on the contrary
     epo:
-      prep fraz:
+      prep frazparto:
       - male
       - kontraŭe
     spa:
@@ -150052,7 +150041,7 @@ fe_peda:
     eng:
     - - 'prep phrs: at the bottom'
     epo:
-    - - 'prep fraz: funde'
+    - - 'prep frazparto: funde'
       - ĉe la fundo
       - malsupre
     spa:
@@ -150070,7 +150059,7 @@ fe_peda:
       prep phrs:
       - at the bottom
     epo:
-      prep fraz:
+      prep frazparto:
       - funde
       - ĉe la fundo
       - malsupre
@@ -150142,7 +150131,7 @@ fe_perya:
     eng:
     - - 'prep phrs: on top'
     epo:
-    - - 'prep fraz: supre'
+    - - 'prep frazparto: supre'
     spa:
     - - 'sintagma prep: encima'
       - arriba
@@ -150157,7 +150146,7 @@ fe_perya:
       prep phrs:
       - on top
     epo:
-      prep fraz:
+      prep frazparto:
       - supre
     spa:
       sintagma prep:
@@ -150182,7 +150171,7 @@ fe_peti:
     eng:
     - - 'prep phrs: please (<em>“by request”</em>)'
     epo:
-    - - 'prep fraz: mi petas'
+    - - 'prep frazparto: mi petas'
     spa:
     - - 'sintagma prep: por favor (<em>a modo de petición</em>)'
     deu: []
@@ -150196,7 +150185,7 @@ fe_peti:
       prep phrs:
       - please (<em>“by request”</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - mi petas
     spa:
       sintagma prep:
@@ -150220,7 +150209,7 @@ fe_porya:
     eng:
     - - 'prep phrs: in exchange'
     epo:
-    - - 'prep fraz: interŝanĝe'
+    - - 'prep frazparto: interŝanĝe'
       - en interŝanĝo
     spa:
     - - 'sintagma prep: a cambio'
@@ -150235,7 +150224,7 @@ fe_porya:
       prep phrs:
       - in exchange
     epo:
-      prep fraz:
+      prep frazparto:
       - interŝanĝe
       - en interŝanĝo
     spa:
@@ -150260,7 +150249,7 @@ fe_preferi:
     eng:
     - - 'prep phrs: preferably'
     epo:
-    - - 'prep fraz: prefere'
+    - - 'prep frazparto: prefere'
     spa:
     - - 'sintagma prep: preferiblemente'
       - preferentemente
@@ -150275,7 +150264,7 @@ fe_preferi:
       prep phrs:
       - preferably
     epo:
-      prep fraz:
+      prep frazparto:
       - prefere
     spa:
       sintagma prep:
@@ -150300,7 +150289,7 @@ fe_preferi_kom:
     eng:
     - - 'prep phrs: rather than'
     epo:
-    - - 'prep fraz: prefere ol'
+    - - 'prep frazparto: prefere ol'
       - anstataŭ
     spa:
     - - 'sintagma prep: en lugar de'
@@ -150317,7 +150306,7 @@ fe_preferi_kom:
       prep phrs:
       - rather than
     epo:
-      prep fraz:
+      prep frazparto:
       - prefere ol
       - anstataŭ
     spa:
@@ -150349,7 +150338,7 @@ fe_rimara:
       - one more time
       - anew
     epo:
-    - - 'prep fraz: denove'
+    - - 'prep frazparto: denove'
       - ree
     spa:
     - - 'sintagma prep: de nuevo'
@@ -150369,7 +150358,7 @@ fe_rimara:
       - one more time
       - anew
     epo:
-      prep fraz:
+      prep frazparto:
       - denove
       - ree
     spa:
@@ -150398,7 +150387,7 @@ fe_ruke:
     eng:
     - - 'prep phrs: in the back'
     epo:
-    - - 'prep fraz: malantaŭe'
+    - - 'prep frazparto: malantaŭe'
     spa:
     - - 'sintagma prep: atrás'
       - detrás
@@ -150414,7 +150403,7 @@ fe_ruke:
       prep phrs:
       - in the back
     epo:
-      prep fraz:
+      prep frazparto:
       - malantaŭe
     spa:
       sintagma prep:
@@ -150484,7 +150473,7 @@ fe_sesu_bage:
     eng:
     - - 'prep phrs: for one''s part'
     epo:
-    - - 'prep fraz: siaparte'
+    - - 'prep frazparto: siaparte'
       - por sia parto
     spa:
     - - 'sintagma prep: por su parte'
@@ -150499,7 +150488,7 @@ fe_sesu_bage:
       prep phrs:
       - for one's part
     epo:
-      prep fraz:
+      prep frazparto:
       - siaparte
       - por sia parto
     spa:
@@ -150526,7 +150515,7 @@ fe_super:
     eng:
     - - 'prep phrs: (up) above'
     epo:
-    - - 'prep fraz: supre'
+    - - 'prep frazparto: supre'
     spa:
     - - 'sintagma prep: (más) arriba'
       - encima
@@ -150541,7 +150530,7 @@ fe_super:
       prep phrs:
       - (up) above
     epo:
-      prep fraz:
+      prep frazparto:
       - supre
     spa:
       sintagma prep:
@@ -150566,7 +150555,7 @@ fe_supracengu:
     eng:
     - - 'prep phrs: upstairs'
     epo:
-    - - 'prep fraz: superŝtupare'
+    - - 'prep frazparto: superŝtupare'
       - supre
     spa:
     - - 'sintagma prep: arriba'
@@ -150582,7 +150571,7 @@ fe_supracengu:
       prep phrs:
       - upstairs
     epo:
-      prep fraz:
+      prep frazparto:
       - superŝtupare
       - supre
     spa:
@@ -150610,7 +150599,7 @@ fe_tayti:
     eng:
     - - 'prep phrs: instead'
     epo:
-    - - 'prep fraz: anstataŭe'
+    - - 'prep frazparto: anstataŭe'
     spa:
     - - 'sintagma prep: en su lugar'
       - en cambio
@@ -150625,7 +150614,7 @@ fe_tayti:
       prep phrs:
       - instead
     epo:
-      prep fraz:
+      prep frazparto:
       - anstataŭe
     spa:
       sintagma prep:
@@ -150786,7 +150775,7 @@ fe_teo:
       - my God
       - for God's sake
     epo:
-    - - 'prep fraz: je Dio'
+    - - 'prep frazparto: je Dio'
       - Dio mia
     spa:
     - - 'sintagma prep: por Dios'
@@ -150805,7 +150794,7 @@ fe_teo:
       - my God
       - for God's sake
     epo:
-      prep fraz:
+      prep frazparto:
       - je Dio
       - Dio mia
     spa:
@@ -150833,7 +150822,7 @@ fe_tiga_mara:
     - - 'prep phrs: thrice'
       - three times
     epo:
-    - - 'prep fraz: trifoje'
+    - - 'prep frazparto: trifoje'
     spa:
     - - 'sintagma prep: tres veces'
     deu: []
@@ -150848,7 +150837,7 @@ fe_tiga_mara:
       - thrice
       - three times
     epo:
-      prep fraz:
+      prep frazparto:
       - trifoje
     spa:
       sintagma prep:
@@ -150876,7 +150865,7 @@ fe_totalya:
       - in all
       - overall
     epo:
-    - - 'prep fraz: entute'
+    - - 'prep frazparto: entute'
       - sume
     spa:
     - - 'sintagma prep: en total'
@@ -150894,7 +150883,7 @@ fe_totalya:
       - in all
       - overall
     epo:
-      prep fraz:
+      prep frazparto:
       - entute
       - sume
     spa:
@@ -150920,7 +150909,7 @@ fe_ultraya:
     eng:
     - - 'prep phrs: beyond'
     epo:
-    - - 'prep fraz: pretere'
+    - - 'prep frazparto: pretere'
     spa:
     - - 'sintagma prep: más allá'
     deu: []
@@ -150934,7 +150923,7 @@ fe_ultraya:
       prep phrs:
       - beyond
     epo:
-      prep fraz:
+      prep frazparto:
       - pretere
     spa:
       sintagma prep:
@@ -150959,7 +150948,7 @@ fe_un_mara:
     - - 'prep phrs: once'
       - one time
     epo:
-    - - 'prep fraz: unufoje'
+    - - 'prep frazparto: unufoje'
     spa:
     - - 'sintagma prep: una vez'
     deu: []
@@ -150974,7 +150963,7 @@ fe_un_mara:
       - once
       - one time
     epo:
-      prep fraz:
+      prep frazparto:
       - unufoje
     spa:
       sintagma prep:
@@ -151004,7 +150993,7 @@ fe_xadin:
       - later (on)
       - sometime in the future
     epo:
-    - - 'prep fraz: iam'
+    - - 'prep frazparto: iam'
       - alian tagon
       - poste
       - iam estonte
@@ -151027,7 +151016,7 @@ fe_xadin:
       - later (on)
       - sometime in the future
     epo:
-      prep fraz:
+      prep frazparto:
       - iam
       - alian tagon
       - poste
@@ -151113,7 +151102,7 @@ fe_xaya:
       - later (on)
       - subsequently
     epo:
-    - - 'prep fraz: estonte'
+    - - 'prep frazparto: estonte'
       - estontece
       - poste
     spa:
@@ -151134,7 +151123,7 @@ fe_xaya:
       - later (on)
       - subsequently
     epo:
-      prep fraz:
+      prep frazparto:
       - estonte
       - estontece
       - poste
@@ -151164,7 +151153,7 @@ fe_xoru:
       - in the beginning
       - initially
     epo:
-    - - 'prep fraz: komence'
+    - - 'prep frazparto: komence'
       - dekomence
       - en la komenco
     spa:
@@ -151184,7 +151173,7 @@ fe_xoru:
       - in the beginning
       - initially
     epo:
-      prep fraz:
+      prep frazparto:
       - komence
       - dekomence
       - en la komenco
@@ -151213,7 +151202,7 @@ fe_xugwan:
     - - 'prep phrs: usually'
       - typically
     epo:
-    - - 'prep fraz: kutime'
+    - - 'prep frazparto: kutime'
     spa:
     - - 'sintagma prep: normalmente'
       - por lo general
@@ -151230,7 +151219,7 @@ fe_xugwan:
       - usually
       - typically
     epo:
-      prep fraz:
+      prep frazparto:
       - kutime
     spa:
       sintagma prep:
@@ -151256,7 +151245,7 @@ fe_xukra:
     eng:
     - - 'prep phrs: thankfully'
     epo:
-    - - 'prep fraz: danke'
+    - - 'prep frazparto: danke'
       - dankinde
     spa:
     - - 'sintagma prep: afortunadamente'
@@ -151272,7 +151261,7 @@ fe_xukra:
       prep phrs:
       - thankfully
     epo:
-      prep fraz:
+      prep frazparto:
       - danke
       - dankinde
     spa:
@@ -157057,6 +157046,44 @@ finfe_ki:
     - finfe
     - ','
     - ki
+finfe_na:
+  term: finfe na
+  word class: p jm
+  category: phrase
+  trans:
+    eng:
+    - - 'prep phrs: until (<em>+ verb phrase</em>)'
+    epo:
+    - - 'prep frazparto: ĝis (<em>+ verba frazparto</em>)'
+    spa:
+    - - 'sintagma prep: hasta (<em>+ infinitivo</em>)'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      prep phrs:
+      - until (<em>+ verb phrase</em>)
+    epo:
+      prep frazparto:
+      - ĝis (<em>+ verba frazparto</em>)
+    spa:
+      sintagma prep:
+      - hasta (<em>+ infinitivo</em>)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - finfe
+    - ','
+    - na
 finfe_nunya:
   term: finfe nunya
   word class: p jm
@@ -157067,7 +157094,7 @@ finfe_nunya:
       - thus far
       - until now
     epo:
-    - - 'prep fraz: ĝis nun'
+    - - 'prep frazparto: ĝis nun'
     spa:
     - - 'sintagma prep: hasta ahora'
       - hasta el momento
@@ -157084,7 +157111,7 @@ finfe_nunya:
       - thus far
       - until now
     epo:
-      prep fraz:
+      prep frazparto:
       - ĝis nun
     spa:
       sintagma prep:
@@ -160252,6 +160279,7 @@ flura:
     - - 's: flor'
     - - 's (sexual): coño (<em>vagina</em>, <em>vulva</em>)'
       - concha
+      - panocha
     - - 'v.intr: florecer'
     deu: []
     fra: []
@@ -160282,6 +160310,7 @@ flura:
       s (sexual):
       - coño (<em>vagina</em>, <em>vulva</em>)
       - concha
+      - panocha
       v.intr:
       - florecer
     deu: []
@@ -161304,7 +161333,7 @@ fol_gramati:
     eng:
     - - 'prep phrs: grammatically'
     epo:
-    - - 'prep fraz: gramatike'
+    - - 'prep frazparto: gramatike'
       - laŭ gramatiko
     spa:
     - - 'sintagma prep: gramaticalmente'
@@ -161320,7 +161349,7 @@ fol_gramati:
       prep phrs:
       - grammatically
     epo:
-      prep fraz:
+      prep frazparto:
       - gramatike
       - laŭ gramatiko
     spa:
@@ -161346,7 +161375,7 @@ fol_lega:
     eng:
     - - 'prep phrs: legally'
     epo:
-    - - 'prep fraz: laŭleĝe'
+    - - 'prep frazparto: laŭleĝe'
       - laŭ leĝo
     spa:
     - - 'sintagma prep: legalmente'
@@ -161362,7 +161391,7 @@ fol_lega:
       prep phrs:
       - legally
     epo:
-      prep fraz:
+      prep frazparto:
       - laŭleĝe
       - laŭ leĝo
     spa:
@@ -161388,7 +161417,7 @@ fol_moda:
     eng:
     - - 'prep phrs: in fashion'
     epo:
-    - - 'prep fraz: laŭmode'
+    - - 'prep frazparto: laŭmode'
       - laŭ modo
     spa:
     - - 'sintagma prep: a la moda'
@@ -161404,7 +161433,7 @@ fol_moda:
       prep phrs:
       - in fashion
     epo:
-      prep fraz:
+      prep frazparto:
       - laŭmode
       - laŭ modo
     spa:
@@ -161430,7 +161459,7 @@ fol_norma:
     eng:
     - - 'prep phrs: normally'
     epo:
-    - - 'prep fraz: norme'
+    - - 'prep frazparto: norme'
       - laŭnorme
       - laŭ normo
     spa:
@@ -161447,7 +161476,7 @@ fol_norma:
       prep phrs:
       - normally
     epo:
-      prep fraz:
+      prep frazparto:
       - norme
       - laŭnorme
       - laŭ normo
@@ -161474,7 +161503,7 @@ fol_satumeter:
     eng:
     - - 'prep phrs: clockwise'
     epo:
-    - - 'prep fraz: laŭhorloĝe'
+    - - 'prep frazparto: laŭhorloĝe'
       - horloĝdirekte
       - dekstrume
     spa:
@@ -161491,7 +161520,7 @@ fol_satumeter:
       prep phrs:
       - clockwise
     epo:
-      prep fraz:
+      prep frazparto:
       - laŭhorloĝe
       - horloĝdirekte
       - dekstrume
@@ -161518,7 +161547,7 @@ fol_vada:
     eng:
     - - 'prep phrs: as promised'
     epo:
-    - - 'prep fraz: laŭpromese'
+    - - 'prep frazparto: laŭpromese'
     spa:
     - - 'sintagma prep: como se prometió'
       - según lo prometido
@@ -161533,7 +161562,7 @@ fol_vada:
       prep phrs:
       - as promised
     epo:
-      prep fraz:
+      prep frazparto:
       - laŭpromese
     spa:
       sintagma prep:
@@ -161558,7 +161587,7 @@ fol_xanse:
     eng:
     - - 'prep phrs: randomly'
     epo:
-    - - 'prep fraz: hazarde'
+    - - 'prep frazparto: hazarde'
     spa:
     - - 'sintagma prep: al azar'
       - aleatoriamente
@@ -161573,7 +161602,7 @@ fol_xanse:
       prep phrs:
       - randomly
     epo:
-      prep fraz:
+      prep frazparto:
       - hazarde
     spa:
       sintagma prep:
@@ -162832,7 +162861,7 @@ fori_lefe:
     eng:
     - - 'prep phrs: immediately before (<em>+ noun</em>)'
     epo:
-    - - 'prep fraz: tuj antaŭ'
+    - - 'prep frazparto: tuj antaŭ'
     spa:
     - - 'sintagma prep: inmediatamente antes de'
       - justo antes de (<em>+ sustantivo</em>)
@@ -162847,7 +162876,7 @@ fori_lefe:
       prep phrs:
       - immediately before (<em>+ noun</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - tuj antaŭ
     spa:
       sintagma prep:
@@ -162914,7 +162943,7 @@ fori_lefe_na:
     eng:
     - - 'prep phrs: immediately before (<em>+ -ing</em>)'
     epo:
-    - - 'prep fraz: tuj antaŭ ol (<em>+ infinitivo</em>)'
+    - - 'prep frazparto: tuj antaŭ ol (<em>+ infinitivo</em>)'
     spa:
     - - 'sintagma prep: inmediatamente antes de'
       - justo antes de (<em>+ infinitivo</em>)
@@ -162929,7 +162958,7 @@ fori_lefe_na:
       prep phrs:
       - immediately before (<em>+ -ing</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - tuj antaŭ ol (<em>+ infinitivo</em>)
     spa:
       sintagma prep:
@@ -162956,7 +162985,7 @@ fori_xafe:
     eng:
     - - 'prep phrs: immediately after (<em>+ noun</em>)'
     epo:
-    - - 'prep fraz: tuj post (<em> + susbstantivo</em>)'
+    - - 'prep frazparto: tuj post (<em> + susbstantivo</em>)'
     spa:
     - - 'sintagma prep: inmediatamente después de'
       - justo después de (<em>+ sustantivo</em>)
@@ -162971,7 +163000,7 @@ fori_xafe:
       prep phrs:
       - immediately after (<em>+ noun</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - tuj post (<em> + susbstantivo</em>)
     spa:
       sintagma prep:
@@ -163044,7 +163073,7 @@ fori_xafe_na:
     eng:
     - - 'prep phrs: immediately after (<em>+ -ing</em>)'
     epo:
-    - - 'prep fraz: tuj post (<em> + infinitivo</em>)'
+    - - 'prep frazparto: tuj post (<em> + infinitivo</em>)'
     spa:
     - - 'sintagma prep: inmediatamente después de'
       - justo después de (<em>+ infinitivo</em>)
@@ -163059,7 +163088,7 @@ fori_xafe_na:
       prep phrs:
       - immediately after (<em>+ -ing</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - tuj post (<em> + infinitivo</em>)
     spa:
       sintagma prep:
@@ -169934,7 +169963,8 @@ gami:
     - - 's: cónyuge'
       - esposo
       - esposa
-    - - 'casi-pfj: -político/-a'
+    - - 'casi-pfj: político'
+      - política
     - - 'v.tr: casarse con'
       - desposar
       - contraer matrimonio con
@@ -169974,7 +170004,8 @@ gami:
       - esposo
       - esposa
       casi-pfj:
-      - -político/-a
+      - político
+      - política
       v.tr:
       - casarse con
       - desposar
@@ -171519,22 +171550,25 @@ ganimado:
     - -do
 ganjon:
   term: ganjon
-  word class: b.oj
+  word class: b.lin.oj
   category: root
   trans:
     eng:
     - - 'n: emotion'
       - feeling
       - sentiment
+    - - 'v.cop (optional -cu): feel (<em>emotionally, psychologically</em>)'
     - - 'v.tr: feel (<em>emotionally, psychologically</em>)'
     epo:
     - - 's: emocio'
       - sento
-    - - 'v.tr: senti (de interne)'
+    - - 'ligv (opcia uzo de -cu): senti (<em>emocie, psikologie</em>)'
+    - - 'v.tr: senti (<em>emocie, psikologie</em>)'
     spa:
     - - 's: emoción'
       - sentimiento
-    - - 'v.tr: sentir (<em>emocionalmente</em>)'
+    - - 'v.cop (uso opcional de -cu): sentir (<em>emocionalmente, psicológicamente</em>)'
+    - - 'v.tr: sentir (<em>emocionalmente, psicológicamente</em>)'
     deu: []
     fra: []
     rus: []
@@ -171547,20 +171581,26 @@ ganjon:
       - emotion
       - feeling
       - sentiment
+      v.cop (optional -cu):
+      - feel (<em>emotionally, psychologically</em>)
       v.tr:
       - feel (<em>emotionally, psychologically</em>)
     epo:
       s:
       - emocio
       - sento
+      ligv (opcia uzo de -cu):
+      - senti (<em>emocie, psikologie</em>)
       v.tr:
-      - senti (de interne)
+      - senti (<em>emocie, psikologie</em>)
     spa:
       s:
       - emoción
       - sentimiento
+      v.cop (uso opcional de -cu):
+      - sentir (<em>emocionalmente, psicológicamente</em>)
       v.tr:
-      - sentir (<em>emocionalmente</em>)
+      - sentir (<em>emocionalmente, psicológicamente</em>)
     deu: []
     fra: []
     rus: []
@@ -171578,14 +171618,14 @@ ganjoncu:
   category: derived
   trans:
     eng:
-    - - 'v.cop: feel (<em>emotionally feel a particular way</em>)'
+    - - 'v.cop (optional -cu): feel (<em>emotionally feel a particular way</em>)'
     epo:
     - - 's: emociiĝo'
       - sentiĝo
-    - - 'ligv: emociiĝi'
+    - - 'ligv (opcia uzo de -cu): emociiĝi'
       - sentiĝi
     spa:
-    - - 'v.cop: sentirse (<em>emocionalmente, de cierta manera</em>)'
+    - - 'v.cop (uso opcional de -cu): sentirse (<em>emocionalmente, de cierta manera</em>)'
     deu: []
     fra: []
     rus: []
@@ -171594,17 +171634,17 @@ ganjoncu:
     ara: []
   trans_v2:
     eng:
-      v.cop:
+      v.cop (optional -cu):
       - feel (<em>emotionally feel a particular way</em>)
     epo:
       s:
       - emociiĝo
       - sentiĝo
-      ligv:
+      ligv (opcia uzo de -cu):
       - emociiĝi
       - sentiĝi
     spa:
-      v.cop:
+      v.cop (uso opcional de -cu):
       - sentirse (<em>emocionalmente, de cierta manera</em>)
     deu: []
     fra: []
@@ -176153,7 +176193,7 @@ ger_preferi:
     eng:
     - - 'v phrs: (would) rather'
     epo:
-    - - 'v fraz: preferus'
+    - - 'v frazparto: preferus'
     spa:
     - - 'sintagma v: preferiría'
     deu: []
@@ -176167,7 +176207,7 @@ ger_preferi:
       v phrs:
       - (would) rather
     epo:
-      v fraz:
+      v frazparto:
       - preferus
     spa:
       sintagma v:
@@ -177036,11 +177076,17 @@ giga:
   trans:
     eng:
     - - 'num: (one) billion'
+      - giga-
+      - <em>G</em>
     epo:
     - - 'num: miliardo'
+      - giga-
+      - <em>G</em>
     spa:
     - - 'num: mil millones'
       - millardo
+      - giga-
+      - <em>G</em>
     deu:
     - - Milliarde
       - giga-
@@ -177064,13 +177110,19 @@ giga:
     eng:
       num:
       - (one) billion
+      - giga-
+      - <em>G</em>
     epo:
       num:
       - miliardo
+      - giga-
+      - <em>G</em>
     spa:
       num:
       - mil millones
       - millardo
+      - giga-
+      - <em>G</em>
     deu:
       "":
       - Milliarde
@@ -186088,10 +186140,10 @@ guton:
     - - 'n: pain'
       - ache
     - - 'v.tr: hurt (<em>cause pain</em>)'
-    - - 'v.intr: <em>feel pain</em>'
-      - <em>have pain</em>
-      - <em>suffer from pain</em>
-      - <em>be in pain</em>
+    - - 'v.intr: feel pain'
+      - have pain
+      - suffer from pain
+      - be in pain
       - ache
       - hurt
     epo:
@@ -186120,10 +186172,10 @@ guton:
       v.tr:
       - hurt (<em>cause pain</em>)
       v.intr:
-      - <em>feel pain</em>
-      - <em>have pain</em>
-      - <em>suffer from pain</em>
-      - <em>be in pain</em>
+      - feel pain
+      - have pain
+      - suffer from pain
+      - be in pain
       - ache
       - hurt
     epo:
@@ -191456,7 +191508,7 @@ har_na:
     eng:
     - - 'prep phrs: having (<em> + past participle</em>)'
     epo:
-    - - 'prep fraz: -inte'
+    - - 'prep frazparto: -inte'
     spa:
     - - 'sintagma prep: habiendo (<em>+ participio</em>)'
     deu: []
@@ -191470,7 +191522,7 @@ har_na:
       prep phrs:
       - having (<em> + past participle</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - -inte
     spa:
       sintagma prep:
@@ -191496,7 +191548,7 @@ har_posjui_tem:
       - irrespective (of)
       - no matter
     epo:
-    - - 'prep fraz: senrespekte al'
+    - - 'prep frazparto: senrespekte al'
       - senkonsidere de
       - sendepende de
     spa:
@@ -191516,7 +191568,7 @@ har_posjui_tem:
       - irrespective (of)
       - no matter
     epo:
-      prep fraz:
+      prep frazparto:
       - senrespekte al
       - senkonsidere de
       - sendepende de
@@ -195856,7 +195908,7 @@ he_alosu:
     - - 'poss adj: anybody else''s'
       - anyone else's
     epo:
-    - - 'adj pos: de iu ajn alia'
+    - - 'pos adj: de iu ajn alia'
     spa:
     - - 'adj pos: de cualquier otro'
       - de cualquier otra
@@ -195872,7 +195924,7 @@ he_alosu:
       - anybody else's
       - anyone else's
     epo:
-      adj pos:
+      pos adj:
       - de iu ajn alia
     spa:
       adj pos:
@@ -196220,7 +196272,7 @@ he_bansu:
     - - 'poss adj: anybody''s'
       - anyone's
     epo:
-    - - 'adj pos: ies ajn'
+    - - 'pos adj: ies ajn'
     spa:
     - - 'adj pos: de cualquiera'
       - de cualquier persona
@@ -196236,7 +196288,7 @@ he_bansu:
       - anybody's
       - anyone's
     epo:
-      adj pos:
+      pos adj:
       - ies ajn
     spa:
       adj pos:
@@ -201183,7 +201235,7 @@ hinsu:
     - - 'poss adj: this one''s'
       - these ones'
     epo:
-    - - 'adj pos: ĉi ties'
+    - - 'pos adj: ĉi ties'
       - ties ĉi
     spa:
     - - 'adj pos: de este'
@@ -201200,7 +201252,7 @@ hinsu:
       - this one's
       - these ones'
     epo:
-      adj pos:
+      pos adj:
       - ĉi ties
       - ties ĉi
     spa:
@@ -201871,19 +201923,22 @@ hirxamaso:
     - maso
 hisi:
   term: hisi
-  word class: b.oj
+  word class: b.lin.oj
   category: root
   trans:
     eng:
     - - 'n: feeling'
       - sensation
+    - - 'v.cop (optional -cu): v.tr: feel (<em>physically, emotionally, psychologically</em>)'
     - - 'v.tr: feel (<em>physically, emotionally, psychologically</em>)'
     epo:
     - - 's: sento'
+    - - 'ligv (opcia uzo de -cu): senti'
     - - 'v.tr: senti'
     spa:
     - - 's: sensación'
       - sentimiento
+    - - 'v.cop (uso opcional de -cu): sentir'
     - - 'v.tr: sentir'
     deu: []
     fra: []
@@ -201896,17 +201951,23 @@ hisi:
       "n":
       - feeling
       - sensation
+      'v.cop (optional -cu): v.tr':
+      - feel (<em>physically, emotionally, psychologically</em>)
       v.tr:
       - feel (<em>physically, emotionally, psychologically</em>)
     epo:
       s:
       - sento
+      ligv (opcia uzo de -cu):
+      - senti
       v.tr:
       - senti
     spa:
       s:
       - sensación
       - sentimiento
+      v.cop (uso opcional de -cu):
+      - sentir
       v.tr:
       - sentir
     deu: []
@@ -201927,13 +201988,14 @@ hisicu:
   category: derived
   trans:
     eng:
-    - - 'v.cop: feel (<em>physically, emotionally or psychologically feel a particular
-        way</em>)'
+    - - 'v.cop (optional -cu): feel (<em>physically, emotionally or psychologically
+        feel a particular way</em>)'
     epo:
     - - 's: sentiĝo'
-    - - 'ligv: sentiĝi'
+    - - 'ligv (opcia uzo de -cu): sentiĝi'
     spa:
-    - - 'v.cop: sentirse (<em>física, emocional o psicológicamente, de cierta manera</em>)'
+    - - 'v.cop (uso opcional de -cu): sentirse (<em>física, emocional o psicológicamente,
+        de cierta manera</em>)'
     deu: []
     fra: []
     rus: []
@@ -201942,15 +202004,15 @@ hisicu:
     ara: []
   trans_v2:
     eng:
-      v.cop:
+      v.cop (optional -cu):
       - feel (<em>physically, emotionally or psychologically feel a particular way</em>)
     epo:
       s:
       - sentiĝo
-      ligv:
+      ligv (opcia uzo de -cu):
       - sentiĝi
     spa:
-      v.cop:
+      v.cop (uso opcional de -cu):
       - sentirse (<em>física, emocional o psicológicamente, de cierta manera</em>)
     deu: []
     fra: []
@@ -205203,7 +205265,7 @@ hu_dasu:
       - of whom
       - of which
     epo:
-    - - 'adj pos (relativa subpropozicio): kies'
+    - - 'pos adj (relativa subpropozicio): kies'
     spa:
     - - 'adj pos (oración de relativo): cuyo'
       - cuya
@@ -205220,7 +205282,7 @@ hu_dasu:
       - of whom
       - of which
     epo:
-      adj pos (relativa subpropozicio):
+      pos adj (relativa subpropozicio):
       - kies
     spa:
       adj pos (oración de relativo):
@@ -211552,7 +211614,7 @@ imi_am:
     eng:
     - - 'phrs: let''s'
     epo:
-    - - 'fraz: ni (<em>+ u-verbo</em>)'
+    - - 'frazparto: ni (<em>+ u-verbo</em>)'
     spa:
     - - 'sintagma: <em>mandato en primera person plural</em>'
       - -emos
@@ -211568,7 +211630,7 @@ imi_am:
       phrs:
       - let's
     epo:
-      fraz:
+      frazparto:
       - ni (<em>+ u-verbo</em>)
     spa:
       sintagma:
@@ -211594,7 +211656,7 @@ imisu:
     eng:
     - - 'poss adj: our'
     epo:
-    - - 'adj pos: nia'
+    - - 'pos adj: nia'
     spa:
     - - 'adj pos: nuestro'
       - nuestra
@@ -211609,7 +211671,7 @@ imisu:
       poss adj:
       - our
     epo:
-      adj pos:
+      pos adj:
       - nia
     spa:
       adj pos:
@@ -214601,10 +214663,10 @@ ingay:
     - - 'adj: kiu devus'
     - - 'helpv: devus'
     spa:
-    - - que debería
+    - - 'adj: que debería'
       - obligado
-    - - obligadamente
-    - - deber(ía)
+    - - 'adv: obligadamente'
+    - - 'v.aux: debería'
     deu: []
     fra: []
     rus: []
@@ -214625,11 +214687,13 @@ ingay:
       helpv:
       - devus
     spa:
-      noun:
+      adj:
       - que debería
       - obligado
-      verb:
-      - deber(ía)
+      adv:
+      - obligadamente
+      v.aux:
+      - debería
     deu: []
     fra: []
     rus: []
@@ -217827,7 +217891,7 @@ intre_aloto:
     eng:
     - - 'prep phrs: among other things'
     epo:
-    - - 'prep fraz: inter aliaj (aferoj)'
+    - - 'prep frazparto: inter aliaj (aferoj)'
     spa:
     - - 'sintagma prep: entre otras cosas'
     deu: []
@@ -217841,7 +217905,7 @@ intre_aloto:
       prep phrs:
       - among other things
     epo:
-      prep fraz:
+      prep frazparto:
       - inter aliaj (aferoj)
     spa:
       sintagma prep:
@@ -225545,7 +225609,7 @@ jalefe_na:
     eng:
     - - 'prep phrs: right before (<em>+ -ing</em>)'
     epo:
-    - - 'prep fraz: tuj antaŭ ol (<em>+ infinitivo</em>)'
+    - - 'prep frazparto: tuj antaŭ ol (<em>+ infinitivo</em>)'
     spa:
     - - 'sintagma prep: inmediatamente antes de'
       - justo antes de (<em>+ infinitivo</em>)
@@ -225560,7 +225624,7 @@ jalefe_na:
       prep phrs:
       - right before (<em>+ -ing</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - tuj antaŭ ol (<em>+ infinitivo</em>)
     spa:
       sintagma prep:
@@ -228778,7 +228842,7 @@ jaxafe_na:
     eng:
     - - 'prep phrs: right after (<em>+ -ing</em>)'
     epo:
-    - - 'prep fraz: tuj post (<em> + infinitivo</em>)'
+    - - 'prep frazparto: tuj post (<em> + infinitivo</em>)'
     spa:
     - - 'sintagma prep: inmediatamente después de'
       - justo después de (<em>+ infinitivo</em>)
@@ -228793,7 +228857,7 @@ jaxafe_na:
       prep phrs:
       - right after (<em>+ -ing</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - tuj post (<em> + infinitivo</em>)
     spa:
       sintagma prep:
@@ -231300,7 +231364,7 @@ ji_max_ete:
       - and so on
       - and so forth
     epo:
-    - - 'konj fraz: kaj tiel plu'
+    - - 'konj frazparto: kaj tiel plu'
       - kaj cetere
     spa:
     - - 'sintagma conj: etcétera'
@@ -231321,7 +231385,7 @@ ji_max_ete:
       - and so on
       - and so forth
     epo:
-      konj fraz:
+      konj frazparto:
       - kaj tiel plu
       - kaj cetere
     spa:
@@ -231354,7 +231418,7 @@ ji_max_oto:
       - and so on
       - and so forth
     epo:
-    - - 'konj fraz: kaj tiel plu'
+    - - 'konj frazparto: kaj tiel plu'
       - kaj cetere
     spa:
     - - 'sintagma conj: etcétera'
@@ -231375,7 +231439,7 @@ ji_max_oto:
       - and so on
       - and so forth
     epo:
-      konj fraz:
+      konj frazparto:
       - kaj tiel plu
       - kaj cetere
     spa:
@@ -231408,7 +231472,7 @@ ji_max_te:
       - and so on
       - and so forth
     epo:
-    - - 'konj fraz: kaj tiel plu'
+    - - 'konj frazparto: kaj tiel plu'
       - kaj cetere
     spa:
     - - 'sintagma conj: etcétera'
@@ -231429,7 +231493,7 @@ ji_max_te:
       - and so on
       - and so forth
     epo:
-      konj fraz:
+      konj frazparto:
       - kaj tiel plu
       - kaj cetere
     spa:
@@ -231462,7 +231526,7 @@ ji_max_to:
       - and so on
       - and so forth
     epo:
-    - - 'konj fraz: kaj tiel plu'
+    - - 'konj frazparto: kaj tiel plu'
       - kaj cetere
     spa:
     - - 'sintagma conj: etcétera'
@@ -231483,7 +231547,7 @@ ji_max_to:
       - and so on
       - and so forth
     epo:
-      konj fraz:
+      konj frazparto:
       - kaj tiel plu
       - kaj cetere
     spa:
@@ -231514,7 +231578,7 @@ ji_pia:
     - - 'conj phrs: and also'
       - as well as
     epo:
-    - - 'konj fraz: kaj ankaŭ'
+    - - 'konj frazparto: kaj ankaŭ'
     spa:
     - - 'sintagma conj: y también'
       - así como
@@ -231531,7 +231595,7 @@ ji_pia:
       - and also
       - as well as
     epo:
-      konj fraz:
+      konj frazparto:
       - kaj ankaŭ
     spa:
       sintagma conj:
@@ -235734,7 +235798,7 @@ juikal_tem:
       - irrespective (of)
       - no matter
     epo:
-    - - 'prep fraz: senrespekte al'
+    - - 'prep frazparto: senrespekte al'
       - senkonsidere de
       - sendepende de
     spa:
@@ -235754,7 +235818,7 @@ juikal_tem:
       - irrespective (of)
       - no matter
     epo:
-      prep fraz:
+      prep frazparto:
       - senrespekte al
       - senkonsidere de
       - sendepende de
@@ -244341,12 +244405,12 @@ kam:
   trans:
     eng:
     - - 'conj: <em>yes/no question particle</em>'
-      - or (whether)
+    - - or (whether)
     epo:
     - - 'konj: ĉu'
     spa:
     - - 'conj: <em>partícula interrogativa de sí/no</em>'
-      - si (<em>pregunta indirecta</em>)
+    - - o si
     deu: []
     fra: []
     rus: []
@@ -244357,6 +244421,7 @@ kam:
     eng:
       conj:
       - <em>yes/no question particle</em>
+      verb:
       - or (whether)
     epo:
       konj:
@@ -244364,7 +244429,8 @@ kam:
     spa:
       conj:
       - <em>partícula interrogativa de sí/no</em>
-      - si (<em>pregunta indirecta</em>)
+      verb:
+      - o si
     deu: []
     fra: []
     rus: []
@@ -244378,15 +244444,15 @@ kam:
       Swahilisa: kama
 kama:
   term: kama
-  word class: m
+  word class: l
   category: root
   trans:
     eng:
-    - - 'adv: whether'
+    - - 'conj (introduces alternate possibility): whether'
     epo:
-    - - 'adv: ĉu (...ĉu...)'
+    - - 'konj (enkondukas alian eblecon): ĉu (...ĉu...)'
     spa:
-    - - 'adv: si'
+    - - 'conj (introduce posibilidad alterna): ya sea'
     deu: []
     fra: []
     rus: []
@@ -244395,14 +244461,14 @@ kama:
     ara: []
   trans_v2:
     eng:
-      adv:
+      conj (introduces alternate possibility):
       - whether
     epo:
-      adv:
+      konj (enkondukas alian eblecon):
       - ĉu (...ĉu...)
     spa:
-      adv:
-      - si
+      conj (introduce posibilidad alterna):
+      - ya sea
     deu: []
     fra: []
     rus: []
@@ -253753,19 +253819,24 @@ kawaywao:
   trans:
     eng:
     - - 'n: endearment'
-    - - 'v.tr: endear'
-    - - 'v.intr: be (<em>feel</em>) endeared'
+    - - 'v.tr: endear (<em>somebody, oneself</em>) to (<em>somebody</em>)'
+      - melt (<em>somebody's</em>) heart
+    - - 'v.intr: feel tenderness (<em>towards somebody</em>)'
+      - feel endearment (<em>towards somebody</em>)
     epo:
     - - 's: amindigo'
       - amindiĝo
-    - - 'v.tr: amindigi'
-    - - 'v.ntr: amindiĝi'
+      - karigo
+      - kariĝo
+    - - 'v.tr: karigi (<em>iun</em>) al'
+      - amindigi (<em>iun</em>) al
+    - - 'v.ntr: senti karon (<em>por iu</em>)'
+    - - senti korinklinon (<em>por iu</em>)
     spa:
     - - 's: cariño'
-    - - 'v.tr: hacer entrañable a alguien'
-      - hacer que alguien resulte querido
-    - - 'v.intr: volverse entrañable'
-      - ganarse el cariño
+    - - 'v.tr: enternecer'
+    - - 'v.intr: sentir cariño (<em>por alguien</em>)'
+      - sentir afecto (<em>por alguien</em>)
     deu: []
     fra: []
     rus: []
@@ -253777,26 +253848,32 @@ kawaywao:
       "n":
       - endearment
       v.tr:
-      - endear
+      - endear (<em>somebody, oneself</em>) to (<em>somebody</em>)
+      - melt (<em>somebody's</em>) heart
       v.intr:
-      - be (<em>feel</em>) endeared
+      - feel tenderness (<em>towards somebody</em>)
+      - feel endearment (<em>towards somebody</em>)
     epo:
       s:
       - amindigo
       - amindiĝo
+      - karigo
+      - kariĝo
       v.tr:
-      - amindigi
+      - karigi (<em>iun</em>) al
+      - amindigi (<em>iun</em>) al
       v.ntr:
-      - amindiĝi
+      - senti karon (<em>por iu</em>)
+      verb:
+      - senti korinklinon (<em>por iu</em>)
     spa:
       s:
       - cariño
       v.tr:
-      - hacer entrañable a alguien
-      - hacer que alguien resulte querido
+      - enternecer
       v.intr:
-      - volverse entrañable
-      - ganarse el cariño
+      - sentir cariño (<em>por alguien</em>)
+      - sentir afecto (<em>por alguien</em>)
     deu: []
     fra: []
     rus: []
@@ -257617,7 +257694,7 @@ kesu:
     eng:
     - - 'poss adj: whose (<em>belonging to whom/what</em>)'
     epo:
-    - - 'adj pos: kies'
+    - - 'pos adj: kies'
     spa:
     - - 'adj pos: cuyo'
       - cuya
@@ -257633,7 +257710,7 @@ kesu:
       poss adj:
       - whose (<em>belonging to whom/what</em>)
     epo:
-      adj pos:
+      pos adj:
       - kies
     spa:
       adj pos:
@@ -272305,7 +272382,7 @@ kos_dento:
     - - 'prep phrs: because of that'
       - due to that
     epo:
-    - - 'prep fraz: pro tio'
+    - - 'prep frazparto: pro tio'
     spa:
     - - 'sintagma prep: por eso'
       - debido a eso
@@ -272322,7 +272399,7 @@ kos_dento:
       - because of that
       - due to that
     epo:
-      prep fraz:
+      prep frazparto:
       - pro tio
     spa:
       sintagma prep:
@@ -272349,7 +272426,7 @@ kos_to:
     - - 'prep phrs: so'
       - therefore
     epo:
-    - - 'prep fraz: do'
+    - - 'prep frazparto: do'
       - tial
     spa:
     - - 'sintagma prep: así que'
@@ -272366,7 +272443,7 @@ kos_to:
       - so
       - therefore
     epo:
-      prep fraz:
+      prep frazparto:
       - do
       - tial
     spa:
@@ -273504,7 +273581,7 @@ kosya_ki:
     eng:
     - - 'phrs: is because'
     epo:
-    - - 'fraz: esti ĉar'
+    - - 'frazparto: esti ĉar'
     spa:
     - - 'sintagma: ser porque'
       - deberse a que
@@ -273520,7 +273597,7 @@ kosya_ki:
       phrs:
       - is because
     epo:
-      fraz:
+      frazparto:
       - esti ĉar
     spa:
       sintagma:
@@ -277535,7 +277612,7 @@ ku:
     epo:
     - - 'konj: <em>uzata en nerektaj demandoj</em>'
     spa:
-    - - 'conj: si (<em>marca interrogativas indirectas</em>)'
+    - - 'conj: <em>marca interrogativas indirectas</em>'
     deu: []
     fra: []
     rus: []
@@ -277551,7 +277628,7 @@ ku:
       - <em>uzata en nerektaj demandoj</em>
     spa:
       conj:
-      - si (<em>marca interrogativas indirectas</em>)
+      - <em>marca interrogativas indirectas</em>
     deu: []
     fra: []
     rus: []
@@ -277564,6 +277641,46 @@ ku:
       Niponsa: か &ldquo;ka&rdquo;
       Parsisa: که &ldquo;ke&rdquo;
       Pilipinasa: kung
+ku_kam:
+  term: ku kam
+  word class: l
+  category: derived
+  trans:
+    eng:
+    - - 'conj  (introduces indirect question): whether'
+      - if
+    epo:
+    - - 'konj (enkondukas nerektan demandon): ĉu'
+    spa:
+    - - 'conj (introduce pregunta indirecta): si'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      conj  (introduces indirect question):
+      - whether
+      - if
+    epo:
+      konj (enkondukas nerektan demandon):
+      - ĉu
+    spa:
+      conj (introduce pregunta indirecta):
+      - si
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ku
+    - ','
+    - kam
 kuba:
   term: Kuba
   word class: su n
@@ -277904,10 +278021,12 @@ kufi:
     - - 'adv: sufiĉe'
     - - 'interj: sufiĉe'
     spa:
-    - - suficiente
+    - - 'adj: suficiente'
       - bastante
-    - - suficientemente
+    - - 'adv: suficientemente'
       - bastantemente
+    - - 'Interj: basta'
+      - suficiente
     deu: []
     fra: []
     rus: []
@@ -277932,12 +278051,15 @@ kufi:
       interj:
       - sufiĉe
     spa:
-      noun:
+      adj:
       - suficiente
       - bastante
-      verb:
+      adv:
       - suficientemente
       - bastantemente
+      Interj:
+      - basta
+      - suficiente
     deu: []
     fra: []
     rus: []
@@ -289180,7 +289302,7 @@ le_no:
     - - 'phrs: did not'
       - didn't
     epo:
-    - - 'fraz: ne (<em>+ is-verbo</em>)'
+    - - 'frazparto: ne (<em>+ is-verbo</em>)'
     spa:
     - - 'sintagma: no + -ó (<em>marcador del tiempo pasado</em>)'
     deu: []
@@ -289195,7 +289317,7 @@ le_no:
       - did not
       - didn't
     epo:
-      fraz:
+      frazparto:
       - ne (<em>+ is-verbo</em>)
     spa:
       sintagma:
@@ -289417,7 +289539,7 @@ lefe_dento:
       - before then
       - before that
     epo:
-    - - 'prep fraz: antaŭ tio'
+    - - 'prep frazparto: antaŭ tio'
       - antaŭe
     spa:
     - - 'sintagma prep: anteriormente'
@@ -289440,7 +289562,7 @@ lefe_dento:
       - before then
       - before that
     epo:
-      prep fraz:
+      prep frazparto:
       - antaŭ tio
       - antaŭe
     spa:
@@ -289599,7 +289721,7 @@ lefe_to:
       - before then
       - before that
     epo:
-    - - 'prep fraz: antaŭ tio'
+    - - 'prep frazparto: antaŭ tio'
       - antaŭe
     spa:
     - - 'sintagma prep: anteriormente'
@@ -289622,7 +289744,7 @@ lefe_to:
       - before then
       - before that
     epo:
-      prep fraz:
+      prep frazparto:
       - antaŭ tio
       - antaŭe
     spa:
@@ -316388,7 +316510,7 @@ mas_fe_hataya:
       - but nevertheless
       - but still
     epo:
-    - - 'konj fraz: sed tamen'
+    - - 'konj frazparto: sed tamen'
       - kaj tamen
     spa:
     - - 'sintagma conj: y sin embargo'
@@ -316407,7 +316529,7 @@ mas_fe_hataya:
       - but nevertheless
       - but still
     epo:
-      konj fraz:
+      konj frazparto:
       - sed tamen
       - kaj tamen
     spa:
@@ -316437,7 +316559,7 @@ mas_fe_tayti:
     - - 'conj phrs: but (rather)'
       - but (instead)
     epo:
-    - - 'konj fraz: sed prefere'
+    - - 'konj frazparto: sed prefere'
       - sed anstataŭe
     spa:
     - - 'sintagma conj: sino (que)'
@@ -316454,7 +316576,7 @@ mas_fe_tayti:
       - but (rather)
       - but (instead)
     epo:
-      konj fraz:
+      konj frazparto:
       - sed prefere
       - sed anstataŭe
     spa:
@@ -316485,7 +316607,7 @@ mas_sol_eger:
       - provided (that)
       - granted (that)
     epo:
-    - - 'konj fraz: kondiĉe ke'
+    - - 'konj frazparto: kondiĉe ke'
       - se nur
     spa:
     - - 'sintagma conj: siempre que'
@@ -316506,7 +316628,7 @@ mas_sol_eger:
       - provided (that)
       - granted (that)
     epo:
-      konj fraz:
+      konj frazparto:
       - kondiĉe ke
       - se nur
     spa:
@@ -319019,11 +319141,11 @@ mawson:
   category: proper word
   trans:
     eng:
-    - - 'prop n: Mawson'
+    - - 'prop n: Mawson (Sea)'
     epo:
-    - - 'prop n: (gulfo de) Mawson'
+    - - 'prop n: (maro de) Mawson'
     spa:
-    - - 'n prop: mar de Mawson'
+    - - 'n prop: (mar de) Mawson'
     deu:
     - - Mawson
     fra:
@@ -319037,13 +319159,13 @@ mawson:
   trans_v2:
     eng:
       prop n:
-      - Mawson
+      - Mawson (Sea)
     epo:
       prop n:
-      - (gulfo de) Mawson
+      - (maro de) Mawson
     spa:
       n prop:
-      - mar de Mawson
+      - (mar de) Mawson
     deu:
       "":
       - Mawson
@@ -319164,7 +319286,7 @@ max_kom:
     - - 'phrs: more than'
       - greater than
     epo:
-    - - 'fraz: pli (da) ol'
+    - - 'frazparto: pli (da) ol'
     spa:
     - - 'sintagma: más que'
       - más de
@@ -319180,7 +319302,7 @@ max_kom:
       - more than
       - greater than
     epo:
-      fraz:
+      frazparto:
       - pli (da) ol
     spa:
       sintagma:
@@ -319205,7 +319327,7 @@ max_or_min:
     eng:
     - - 'adv phrs: more or less (<em>+ verb</em>)'
     epo:
-    - - 'adv fraz: pli-malpli (<em>+ verbo</em>)'
+    - - 'adv frazparto: pli-malpli (<em>+ verbo</em>)'
     spa:
     - - 'sintagma adv: más o menos (<em>+ verbo</em>)'
     deu: []
@@ -319219,7 +319341,7 @@ max_or_min:
       adv phrs:
       - more or less (<em>+ verb</em>)
     epo:
-      adv fraz:
+      adv frazparto:
       - pli-malpli (<em>+ verbo</em>)
     spa:
       sintagma adv:
@@ -320431,12 +320553,12 @@ maxim_nerleli:
       - most recent
     - - 'adv phrs: most recently'
     epo:
-    - - 'adj fraz: plej freŝdata'
+    - - 'adj frazparto: plej freŝdata'
       - plej lastatempa
-    - - 'adv fraz: plej freŝdate'
+    - - 'adv frazparto: plej freŝdate'
       - plej lastatempe
     spa:
-    - - el más reciente
+    - - 'sintagma adj: el más reciente'
     deu: []
     fra: []
     rus: []
@@ -320451,14 +320573,14 @@ maxim_nerleli:
       adv phrs:
       - most recently
     epo:
-      adj fraz:
+      adj frazparto:
       - plej freŝdata
       - plej lastatempa
-      adv fraz:
+      adv frazparto:
       - plej freŝdate
       - plej lastatempe
     spa:
-      "":
+      sintagma adj:
       - el más reciente
     deu: []
     fra: []
@@ -320541,7 +320663,7 @@ maximum_te:
     eng:
     - - 'n phrs: as many as possible'
     epo:
-    - - 's fraz: kiel eble plej multaj (<em>vivaĵoj</em>)'
+    - - 's frazparto: kiel eble plej multaj (<em>vivaĵoj</em>)'
     spa:
     - - 'sintagma n: tantos como sea posible (<em>seres vivos</em>)'
     deu: []
@@ -320555,7 +320677,7 @@ maximum_te:
       n phrs:
       - as many as possible
     epo:
-      s fraz:
+      s frazparto:
       - kiel eble plej multaj (<em>vivaĵoj</em>)
     spa:
       sintagma n:
@@ -320580,7 +320702,7 @@ maximum_to:
     - - 'n phrs: as many as possible'
       - as much as possible
     epo:
-    - - 's fraz: kiel eble plej multaj (<em>aĵoj</em>)'
+    - - 's frazparto: kiel eble plej multaj (<em>aĵoj</em>)'
       - kiel eble plej multe
     spa:
     - - 'sintagma n: tanto(s) como sea posible (<em>cosas</em>)'
@@ -320596,7 +320718,7 @@ maximum_to:
       - as many as possible
       - as much as possible
     epo:
-      s fraz:
+      s frazparto:
       - kiel eble plej multaj (<em>aĵoj</em>)
       - kiel eble plej multe
     spa:
@@ -321276,7 +321398,7 @@ maxmin:
     eng:
     - - 'adv phrs: more or less (<em>+ verb</em>)'
     epo:
-    - - 'adv fraz: pli-malpli (<em>+ verbo</em>)'
+    - - 'adv frazparto: pli-malpli (<em>+ verbo</em>)'
     spa:
     - - 'sintagma adv: más o menos (<em>+ verbo</em>)'
     deu: []
@@ -321290,7 +321412,7 @@ maxmin:
       adv phrs:
       - more or less (<em>+ verb</em>)
     epo:
-      adv fraz:
+      adv frazparto:
       - pli-malpli (<em>+ verbo</em>)
     spa:
       sintagma adv:
@@ -321440,11 +321562,11 @@ maxmo_jaldi:
     - - 'adj phrs: earlier'
     - - 'adv phrs: in advance'
     epo:
-    - - 'adj fraz: pli frua'
-    - - 'adv fraz: pli frue'
+    - - 'adj frazparto: pli frua'
+    - - 'adv frazparto: pli frue'
       - anticipe
     spa:
-    - - con antelación
+    - - 'sintagma adj: con antelación'
       - de antemano
       - por adelantado
       - con anticipación
@@ -321462,13 +321584,13 @@ maxmo_jaldi:
       adv phrs:
       - in advance
     epo:
-      adj fraz:
+      adj frazparto:
       - pli frua
-      adv fraz:
+      adv frazparto:
       - pli frue
       - anticipe
     spa:
-      "":
+      sintagma adj:
       - con antelación
       - de antemano
       - por adelantado
@@ -321493,7 +321615,7 @@ maxmo_kom:
     eng:
     - - 'phrs: more than'
     epo:
-    - - 'fraz: pli ol'
+    - - 'frazparto: pli ol'
     spa:
     - - 'sintagma: más (<em>+ adj</em>) que'
     deu: []
@@ -321507,7 +321629,7 @@ maxmo_kom:
       phrs:
       - more than
     epo:
-      fraz:
+      frazparto:
       - pli ol
     spa:
       sintagma:
@@ -321531,7 +321653,7 @@ maxmo_or_minmo:
     eng:
     - - 'adv phrs: more or less (<em>+ adj</em>)'
     epo:
-    - - 'adv fraz: pli-malpli (<em>+ adj</em>)'
+    - - 'adv frazparto: pli-malpli (<em>+ adj</em>)'
     spa:
     - - 'sintagma adv: más o menos (<em>+ adj</em>)'
     deu: []
@@ -321545,7 +321667,7 @@ maxmo_or_minmo:
       adv phrs:
       - more or less (<em>+ adj</em>)
     epo:
-      adv fraz:
+      adv frazparto:
       - pli-malpli (<em>+ adj</em>)
     spa:
       sintagma adv:
@@ -321571,7 +321693,7 @@ maxmo_sahi:
     eng:
     - - 'adv phrs: rather (<em>more accurately</em>)'
     epo:
-    - - 'adv fraz: pli ĝuste'
+    - - 'adv frazparto: pli ĝuste'
       - pli precize
     spa:
     - - 'sintagma adv: mejor dicho'
@@ -321587,7 +321709,7 @@ maxmo_sahi:
       adv phrs:
       - rather (<em>more accurately</em>)
     epo:
-      adv fraz:
+      adv frazparto:
       - pli ĝuste
       - pli precize
     spa:
@@ -323541,10 +323663,16 @@ mega:
   trans:
     eng:
     - - 'num: (one) million'
+      - mega-
+      - <em>M</em>
     epo:
     - - 'num: miliono'
+      - mega-
+      - <em>M</em>
     spa:
     - - 'num: millón'
+      - mega-
+      - <em>M</em>
     deu:
     - - Million
       - mega-
@@ -323559,12 +323687,18 @@ mega:
     eng:
       num:
       - (one) million
+      - mega-
+      - <em>M</em>
     epo:
       num:
       - miliono
+      - mega-
+      - <em>M</em>
     spa:
       num:
       - millón
+      - mega-
+      - <em>M</em>
     deu:
       "":
       - Million
@@ -332187,9 +332321,11 @@ mimbay:
     - - 'adv: evidente'
     - - 'interj: kompreneble'
     spa:
-    - - obvio
-    - - obviamente
-      - por supuesto
+    - - 'adj: obvio'
+    - - 'adv: obviamente'
+    - - 'inter: por supuesto'
+      - claro
+      - obvio
     deu: []
     fra: []
     rus: []
@@ -332214,11 +332350,14 @@ mimbay:
       interj:
       - kompreneble
     spa:
-      noun:
+      adj:
       - obvio
-      verb:
+      adv:
       - obviamente
+      inter:
       - por supuesto
+      - claro
+      - obvio
     deu: []
     fra: []
     rus: []
@@ -332387,7 +332526,7 @@ min_kom:
     - - 'phrs: fewer than'
       - less than
     epo:
-    - - 'fraz: malpli (da) ol'
+    - - 'frazparto: malpli (da) ol'
     spa:
     - - 'sintagma: menos que'
       - menos de
@@ -332403,7 +332542,7 @@ min_kom:
       - fewer than
       - less than
     epo:
-      fraz:
+      frazparto:
       - malpli (da) ol
     spa:
       sintagma:
@@ -333139,7 +333278,7 @@ minimum_te:
     eng:
     - - 'n phrs: as few as possible'
     epo:
-    - - 's fraz: kiel eble plej malmultaj (<em>vivaĵoj</em>)'
+    - - 's frazparto: kiel eble plej malmultaj (<em>vivaĵoj</em>)'
     spa:
     - - 'sintagma n: tan pocos como sea posible (<em>seres vivos</em>)'
     deu: []
@@ -333153,7 +333292,7 @@ minimum_te:
       n phrs:
       - as few as possible
     epo:
-      s fraz:
+      s frazparto:
       - kiel eble plej malmultaj (<em>vivaĵoj</em>)
     spa:
       sintagma n:
@@ -333178,7 +333317,7 @@ minimum_to:
     - - 'n phrs: as few as possible'
       - as little as possible
     epo:
-    - - 's fraz: kiel eble plej malmultaj (<em>aĵoj</em>)'
+    - - 's frazparto: kiel eble plej malmultaj (<em>aĵoj</em>)'
       - kiel eble plej malmulte
     spa:
     - - 'sintagma n: tan poco(s) como sea posible (<em>cosas</em>)'
@@ -333194,7 +333333,7 @@ minimum_to:
       - as few as possible
       - as little as possible
     epo:
-      s fraz:
+      s frazparto:
       - kiel eble plej malmultaj (<em>aĵoj</em>)
       - kiel eble plej malmulte
     spa:
@@ -333375,7 +333514,7 @@ minmo_kom:
     eng:
     - - 'phrs: less than'
     epo:
-    - - 'fraz: malpli ol'
+    - - 'frazparto: malpli ol'
     spa:
     - - 'sintagma: menos (<em>+ adj</em>) que'
     deu: []
@@ -333389,7 +333528,7 @@ minmo_kom:
       phrs:
       - less than
     epo:
-      fraz:
+      frazparto:
       - malpli ol
     spa:
       sintagma:
@@ -334402,7 +334541,7 @@ misu:
     eng:
     - - 'poss adj: my'
     epo:
-    - - 'adj pos: mia'
+    - - 'pos adj: mia'
     spa:
     - - 'adj pos: mi'
     deu: []
@@ -334416,7 +334555,7 @@ misu:
       poss adj:
       - my
     epo:
-      adj pos:
+      pos adj:
       - mia
     spa:
       adj pos:
@@ -342914,7 +343053,7 @@ moysu:
     - - 'poss adj: everybody''s'
       - everyone's
     epo:
-    - - 'adj pos: ĉies'
+    - - 'pos adj: ĉies'
     spa:
     - - 'adj pos: de todos'
       - de todas
@@ -342931,7 +343070,7 @@ moysu:
       - everybody's
       - everyone's
     epo:
-      adj pos:
+      pos adj:
       - ĉies
     spa:
       adj pos:
@@ -345409,11 +345548,11 @@ musi:
     - - 'adv: deve'
     - - 'helpv: devi'
     spa:
-    - - que tiene (que hacer algo)
+    - - 'adj: que tiene (que hacer algo)'
       - que debe
       - obligado
-    - - obligadamente
-    - - tener que
+    - - 'adv: obligadamente'
+    - - 'v.aux: tener que'
       - deber
     deu: []
     fra: []
@@ -345438,11 +345577,13 @@ musi:
       helpv:
       - devi
     spa:
-      noun:
+      adj:
       - que tiene (que hacer algo)
       - que debe
       - obligado
-      verb:
+      adv:
+      - obligadamente
+      v.aux:
       - tener que
       - deber
     deu: []
@@ -353028,8 +353169,8 @@ nenabil:
     - - 'adv: nekapable'
     - - 'helpv: ne kapabli'
     spa:
-    - - incapaz
-    - - ser incapaz de
+    - - 'adj: incapaz'
+    - - 'v.aux: ser incapaz de'
     deu:
     - - unfähig
       - untauglich
@@ -353055,9 +353196,9 @@ nenabil:
       helpv:
       - ne kapabli
     spa:
-      noun:
+      adj:
       - incapaz
-      verb:
+      v.aux:
       - ser incapaz de
     deu:
       "":
@@ -354428,7 +354569,7 @@ nenhar_na:
     - - 'prep phrs: without (<em> + -ing</em>)'
       - not having (<em> + past participle</em>)
     epo:
-    - - 'prep fraz: sen (<em>+ infinitivo</em>)'
+    - - 'prep frazparto: sen (<em>+ infinitivo</em>)'
     spa:
     - - 'sintagma prep: sin (<em>+ infinitivo</em>)'
       - sin haber (<em>+ participio</em>)
@@ -354444,7 +354585,7 @@ nenhar_na:
       - without (<em> + -ing</em>)
       - not having (<em> + past participle</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - sen (<em>+ infinitivo</em>)
     spa:
       sintagma prep:
@@ -356970,7 +357111,7 @@ nenyon_na:
     - - 'prep phrs: without (<em>+ -ing</em>)'
       - not by (<em> + -ing</em>)
     epo:
-    - - 'prep fraz: ne per (<em>+ infinitivo</em>)'
+    - - 'prep frazparto: ne per (<em>+ infinitivo</em>)'
       - sen (<em>+ infinitivo</em>)
     spa:
     - - 'sintagma prep: sin (<em>+ infinitivo</em>)'
@@ -356986,7 +357127,7 @@ nenyon_na:
       - without (<em>+ -ing</em>)
       - not by (<em> + -ing</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - ne per (<em>+ infinitivo</em>)
       - sen (<em>+ infinitivo</em>)
     spa:
@@ -357868,7 +358009,7 @@ ner_lefe:
     eng:
     - - 'prep phrs: shortly before (<em>+ noun</em>)'
     epo:
-    - - 'prep fraz: baldaŭ antaŭ'
+    - - 'prep frazparto: baldaŭ antaŭ'
     spa:
     - - 'sintagma prep: poco antes de (<em>+ sustantivo</em>)'
     deu: []
@@ -357882,7 +358023,7 @@ ner_lefe:
       prep phrs:
       - shortly before (<em>+ noun</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - baldaŭ antaŭ
     spa:
       sintagma prep:
@@ -357946,7 +358087,7 @@ ner_lefe_na:
     eng:
     - - 'prep phrs: shortly before (<em>+ -ing</em>)'
     epo:
-    - - 'prep fraz: baldaŭ antaŭ ol (<em>+ infinitivo</em>)'
+    - - 'prep frazparto: baldaŭ antaŭ ol (<em>+ infinitivo</em>)'
     spa:
     - - 'sintagma prep: poco antes de (<em>+ infinitivo</em>)'
     deu: []
@@ -357960,7 +358101,7 @@ ner_lefe_na:
       prep phrs:
       - shortly before (<em>+ -ing</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - baldaŭ antaŭ ol (<em>+ infinitivo</em>)
     spa:
       sintagma prep:
@@ -358068,7 +358209,7 @@ ner_xafe:
     eng:
     - - 'prep phrs: soon after (<em>+ noun</em>)'
     epo:
-    - - 'prep fraz: baldaŭ post (<em>+ substantivo</em>)'
+    - - 'prep frazparto: baldaŭ post (<em>+ substantivo</em>)'
     spa:
     - - 'sintagma prep: poco después de (<em>+ sustantivo</em>)'
     deu: []
@@ -358082,7 +358223,7 @@ ner_xafe:
       prep phrs:
       - soon after (<em>+ noun</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - baldaŭ post (<em>+ substantivo</em>)
     spa:
       sintagma prep:
@@ -358148,7 +358289,7 @@ ner_xafe_na:
     eng:
     - - 'prep phrs: soon after (<em>+ -ing</em>)'
     epo:
-    - - 'prep fraz: baldaŭ post (<em>+ infinitivo</em>)'
+    - - 'prep frazparto: baldaŭ post (<em>+ infinitivo</em>)'
     spa:
     - - 'sintagma prep: poco después de (<em>+ infinitivo</em>)'
     deu: []
@@ -358162,7 +358303,7 @@ ner_xafe_na:
       prep phrs:
       - soon after (<em>+ -ing</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - baldaŭ post (<em>+ infinitivo</em>)
     spa:
       sintagma prep:
@@ -360106,7 +360247,7 @@ nil_alote_kom:
     eng:
     - - 'phrs: none other than'
     epo:
-    - - 'fraz: neniu alia ol'
+    - - 'frazparto: neniu alia ol'
     spa:
     - - 'sintagma: nada menos que'
     deu: []
@@ -360120,7 +360261,7 @@ nil_alote_kom:
       phrs:
       - none other than
     epo:
-      fraz:
+      frazparto:
       - neniu alia ol
     spa:
       sintagma:
@@ -360544,7 +360685,7 @@ nilsu:
     - - 'poss adj: nobody''s'
       - no one's
     epo:
-    - - 'adj pos: nenies'
+    - - 'pos adj: nenies'
     spa:
     - - 'adj pos: de nadie'
     deu: []
@@ -360559,7 +360700,7 @@ nilsu:
       - nobody's
       - no one's
     epo:
-      adj pos:
+      pos adj:
       - nenies
     spa:
       adj pos:
@@ -361873,7 +362014,7 @@ no_hata_un:
     - - 'phrs: not even one'
       - not even a single
     epo:
-    - - 'fraz: eĉ ne unu'
+    - - 'frazparto: eĉ ne unu'
     spa:
     - - 'sintagma: nisiquiera un (solo)'
     deu: []
@@ -361888,7 +362029,7 @@ no_hata_un:
       - not even one
       - not even a single
     epo:
-      fraz:
+      frazparto:
       - eĉ ne unu
     spa:
       sintagma:
@@ -369960,7 +370101,10 @@ okey:
     - - 'interj: okej'
       - bone
     spa:
-    - - ok(ey)
+    - - 'adj: bueno'
+      - bien
+    - - 'adv: bien'
+    - - 'interj: ok(ey)'
       - (está) bien
       - bueno
       - vale
@@ -369995,7 +370139,12 @@ okey:
       - okej
       - bone
     spa:
-      "":
+      adj:
+      - bueno
+      - bien
+      adv:
+      - bien
+      interj:
       - ok(ey)
       - (está) bien
       - bueno
@@ -376550,7 +376699,7 @@ otosu:
     eng:
     - - 'poss adj (belonging to things): their'
     epo:
-    - - 'adj pos (de nevivaĵoj): ilia'
+    - - 'pos adj (de nevivaĵoj): ilia'
     spa:
     - - 'adj pos (de cosas): su'
     deu: []
@@ -376564,7 +376713,7 @@ otosu:
       poss adj (belonging to things):
       - their
     epo:
-      adj pos (de nevivaĵoj):
+      pos adj (de nevivaĵoj):
       - ilia
     spa:
       adj pos (de cosas):
@@ -399893,7 +400042,7 @@ por_moyun:
     eng:
     - - 'prep phrs: per (<em>in exchange for each</em>)'
     epo:
-    - - 'prep fraz: por ĉiu'
+    - - 'prep frazparto: por ĉiu'
       - kontraŭ ĉiu
     spa:
     - - 'sintagma prep: por'
@@ -399909,7 +400058,7 @@ por_moyun:
       prep phrs:
       - per (<em>in exchange for each</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - por ĉiu
       - kontraŭ ĉiu
     spa:
@@ -402762,7 +402911,7 @@ posfol_satumeter:
     - - 'prep phrs: counterclockwise'
       - anticlockwise
     epo:
-    - - 'prep fraz: kontraŭhorloĝdirekte'
+    - - 'prep frazparto: kontraŭhorloĝdirekte'
       - maldekstrume
     spa:
     - - 'sintagma prep: en sentido antihorario'
@@ -402779,7 +402928,7 @@ posfol_satumeter:
       - counterclockwise
       - anticlockwise
     epo:
-      prep fraz:
+      prep frazparto:
       - kontraŭhorloĝdirekte
       - maldekstrume
     spa:
@@ -406137,9 +406286,9 @@ preferido:
       - favourite
       - preferred
     epo:
-    - - 'adj: ŝatata'
+    - - 'adj: plej ŝatata'
       - preferata
-    - - 'adv: ŝatate'
+    - - 'adv: plej ŝatate'
       - preferate
     spa:
     - - 'adj: favorito'
@@ -406158,10 +406307,10 @@ preferido:
       - preferred
     epo:
       adj:
-      - ŝatata
+      - plej ŝatata
       - preferata
       adv:
-      - ŝatate
+      - plej ŝatate
       - preferate
     spa:
       adj:
@@ -416765,7 +416914,7 @@ rensu:
     eng:
     - - 'poss adj: one''s'
     epo:
-    - - 'adj pos: onia'
+    - - 'pos adj: onia'
     spa:
     - - 'adj pos: su'
       - de uno
@@ -416780,7 +416929,7 @@ rensu:
       poss adj:
       - one's
     epo:
-      adj pos:
+      pos adj:
       - onia
     spa:
       adj pos:
@@ -430503,7 +430652,7 @@ samasu:
     - - 'poss adj: the same one''s'
       - the same ones'
     epo:
-    - - 'adj pos: de la sama'
+    - - 'pos adj: de la sama'
     spa:
     - - 'adj pos: del mismo'
       - de la misma
@@ -430519,7 +430668,7 @@ samasu:
       - the same one's
       - the same ones'
     epo:
-      adj pos:
+      pos adj:
       - de la sama
     spa:
       adj pos:
@@ -439907,7 +440056,7 @@ sen_peldo:
     eng:
     - - 'v phrs: feel like'
     epo:
-    - - 'v fraz: emi (<em>+ infinitivo</em>)'
+    - - 'v frazparto: emi (<em>+ infinitivo</em>)'
     spa:
     - - 'sintagma v: tener ganas'
       - querer
@@ -439922,7 +440071,7 @@ sen_peldo:
       v phrs:
       - feel like
     epo:
-      v fraz:
+      v frazparto:
       - emi (<em>+ infinitivo</em>)
     spa:
       sintagma v:
@@ -442134,7 +442283,7 @@ sesu:
       - their own
       - one's own
     epo:
-    - - 'adj pos: sia'
+    - - 'pos adj: sia'
     spa:
     - - 'adj pos: su'
       - su propio
@@ -442153,7 +442302,7 @@ sesu:
       - their own
       - one's own
     epo:
-      adj pos:
+      pos adj:
       - sia
     spa:
       adj pos:
@@ -450989,6 +451138,7 @@ solainfracu:
       - anochecer
     - - 'v.intr: ponerse el sol'
       - atardecer
+      - anochecer
     deu: []
     fra: []
     rus: []
@@ -451014,6 +451164,7 @@ solainfracu:
       v.intr:
       - ponerse el sol
       - atardecer
+      - anochecer
     deu: []
     fra: []
     rus: []
@@ -468249,7 +468400,7 @@ tas_moyun:
     - - 'prep phrs: for each'
       - per (<em>+ person, etc</em>)
     epo:
-    - - 'prep fraz: por ĉiu'
+    - - 'prep frazparto: por ĉiu'
     spa:
     - - 'sintagma prep: por cada'
       - por (<em>+ persona, etc.</em>)
@@ -468265,7 +468416,7 @@ tas_moyun:
       - for each
       - per (<em>+ person, etc</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - por ĉiu
     spa:
       sintagma prep:
@@ -471669,7 +471820,7 @@ teli_lefe:
     eng:
     - - 'prep phrs: long before (<em>+ noun</em>)'
     epo:
-    - - 'prep fraz: longe antaŭ'
+    - - 'prep frazparto: longe antaŭ'
     spa:
     - - 'sintagma prep: mucho antes de (<em>+ sustantivo</em>)'
     deu: []
@@ -471683,7 +471834,7 @@ teli_lefe:
       prep phrs:
       - long before (<em>+ noun</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - longe antaŭ
     spa:
       sintagma prep:
@@ -471747,7 +471898,7 @@ teli_lefe_na:
     eng:
     - - 'prep phrs: long before (<em>+ -ing</em>)'
     epo:
-    - - 'prep fraz: longe antaŭ ol (<em>+ infinitivo</em>)'
+    - - 'prep frazparto: longe antaŭ ol (<em>+ infinitivo</em>)'
     spa:
     - - 'sintagma prep: mucho antes de (<em>+ infinitivo</em>)'
     deu: []
@@ -471761,7 +471912,7 @@ teli_lefe_na:
       prep phrs:
       - long before (<em>+ -ing</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - longe antaŭ ol (<em>+ infinitivo</em>)
     spa:
       sintagma prep:
@@ -471825,7 +471976,7 @@ teli_xafe:
     eng:
     - - 'prep phrs: long after (<em>+ noun</em>)'
     epo:
-    - - 'prep fraz: longe post (<em>+ substantivo</em>)'
+    - - 'prep frazparto: longe post (<em>+ substantivo</em>)'
     spa:
     - - 'sintagma prep: mucho después de (<em>+ sustantivo</em>)'
     deu: []
@@ -471839,7 +471990,7 @@ teli_xafe:
       prep phrs:
       - long after (<em>+ noun</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - longe post (<em>+ substantivo</em>)
     spa:
       sintagma prep:
@@ -471903,7 +472054,7 @@ teli_xafe_na:
     eng:
     - - 'prep phrs: long after (<em>+ -ing</em>)'
     epo:
-    - - 'prep fraz: longe post (<em>+ infinitivo</em>)'
+    - - 'prep frazparto: longe post (<em>+ infinitivo</em>)'
     spa:
     - - 'sintagma prep: mucho después de (<em>+ infinitivo</em>)'
     deu: []
@@ -471917,7 +472068,7 @@ teli_xafe_na:
       prep phrs:
       - long after (<em>+ -ing</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - longe post (<em>+ infinitivo</em>)
     spa:
       sintagma prep:
@@ -474836,6 +474987,7 @@ tera:
     epo:
     - - 'num: biliono'
       - tera-
+      - <em>T</em>
     spa:
     - - 'num: billón'
       - tera-
@@ -474860,6 +475012,7 @@ tera:
       num:
       - biliono
       - tera-
+      - <em>T</em>
     spa:
       num:
       - billón
@@ -476589,7 +476742,7 @@ tesu:
       - its
       - their
     epo:
-    - - 'adj pos (de vivaĵo): lia'
+    - - 'pos adj (de vivaĵo): lia'
       - ŝia
       - ria
     spa:
@@ -476608,7 +476761,7 @@ tesu:
       - its
       - their
     epo:
-      adj pos (de vivaĵo):
+      pos adj (de vivaĵo):
       - lia
       - ŝia
       - ria
@@ -479169,7 +479322,6 @@ to:
     - - 'pron (inanimado): ello'
       - lo
       - la
-      - le
     deu: []
     fra: []
     rus: []
@@ -479189,7 +479341,6 @@ to:
       - ello
       - lo
       - la
-      - le
     deu: []
     fra: []
     rus: []
@@ -484055,7 +484206,7 @@ tosu:
     eng:
     - - 'poss adj (belonging to thing): its'
     epo:
-    - - 'adj pos (de nevivaĵo): ĝia'
+    - - 'pos adj (de nevivaĵo): ĝia'
     spa:
     - - 'adj pos (de cosa): su'
     deu: []
@@ -484069,7 +484220,7 @@ tosu:
       poss adj (belonging to thing):
       - its
     epo:
-      adj pos (de nevivaĵo):
+      pos adj (de nevivaĵo):
       - ĝia
     spa:
       adj pos (de cosa):
@@ -486138,6 +486289,7 @@ trasya:
     spa:
     - - 'v.tr: estar al otro lado (de)'
       - estar enfrente (de)
+      - estar en frente (de)
     deu: []
     fra: []
     rus: []
@@ -486157,6 +486309,7 @@ trasya:
       v.tr:
       - estar al otro lado (de)
       - estar enfrente (de)
+      - estar en frente (de)
     deu: []
     fra: []
     rus: []
@@ -494356,13 +494509,12 @@ un:
     epo:
     - - 'num: unu'
     - - 'det: unu'
-      - iu
+      - iu (<em>specifa</em>)
     spa:
     - - 'num: uno'
       - uni-
       - mono-
-    - - 'det: cierto'
-      - determinado (<em>específico</em>)
+    - - 'det: cierto (<em>determinado</em>)'
     deu:
     - - eins
       - ein
@@ -494384,15 +494536,14 @@ un:
       - unu
       det:
       - unu
-      - iu
+      - iu (<em>specifa</em>)
     spa:
       num:
       - uno
       - uni-
       - mono-
       det:
-      - cierto
-      - determinado (<em>específico</em>)
+      - cierto (<em>determinado</em>)
     deu:
       "":
       - eins
@@ -494462,7 +494613,7 @@ un_solo:
     eng:
     - - 'adj phrs: a single'
     epo:
-    - - 'adj fraz: unuopa'
+    - - 'adj frazparto: unuopa'
     spa:
     - - 'sintagma adj: un solo'
     deu: []
@@ -494476,7 +494627,7 @@ un_solo:
       adj phrs:
       - a single
     epo:
-      adj fraz:
+      adj frazparto:
       - unuopa
     spa:
       sintagma adj:
@@ -497086,7 +497237,7 @@ uyusu:
     eng:
     - - 'poss adj (plural): your'
     epo:
-    - - 'adj pos (plurala): via'
+    - - 'pos adj (plurala): via'
     spa:
     - - 'adj pos (plural): vuestro'
       - vuestra
@@ -497102,7 +497253,7 @@ uyusu:
       poss adj (plural):
       - your
     epo:
-      adj pos (plurala):
+      pos adj (plurala):
       - via
     spa:
       adj pos (plural):
@@ -497130,7 +497281,7 @@ uyusu_ete:
     epo:
     - - 'pos pron  (vivaĵoj de vi): la viaj'
     spa:
-    - - 'pron pos (seres de vosotros): los vuestros'
+    - - 'pron pos (seres de ustedes/vosotros): los vuestros'
       - las vuestras
       - los suyos
       - las suyas
@@ -497148,7 +497299,7 @@ uyusu_ete:
       pos pron  (vivaĵoj de vi):
       - la viaj
     spa:
-      pron pos (seres de vosotros):
+      pron pos (seres de ustedes/vosotros):
       - los vuestros
       - las vuestras
       - los suyos
@@ -504193,7 +504344,7 @@ wal_jui_tem:
       - irrespective (of)
       - no matter
     epo:
-    - - 'prep fraz: senrespekte al'
+    - - 'prep frazparto: senrespekte al'
       - senkonsidere de
       - sendepende de
     spa:
@@ -504213,7 +504364,7 @@ wal_jui_tem:
       - irrespective (of)
       - no matter
     epo:
-      prep fraz:
+      prep frazparto:
       - senrespekte al
       - senkonsidere de
       - sendepende de
@@ -504243,7 +504394,7 @@ wal_na:
     eng:
     - - 'prep phrs: without (<em>+ -ing</em>)'
     epo:
-    - - 'prep fraz: sen (<em>+ infinitivo</em>)'
+    - - 'prep frazparto: sen (<em>+ infinitivo</em>)'
     spa:
     - - 'sintagma prep: sin (<em>+ infinitivo</em>)'
     deu: []
@@ -504257,7 +504408,7 @@ wal_na:
       prep phrs:
       - without (<em>+ -ing</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - sen (<em>+ infinitivo</em>)
     spa:
       sintagma prep:
@@ -507499,7 +507650,7 @@ wey_total:
       - all over
       - throughout
     epo:
-    - - 'prep fraz: ĉirkaŭ la tuta'
+    - - 'prep frazparto: ĉirkaŭ la tuta'
     spa:
     - - 'sintagma prep: por todo'
       - alrededor de todo
@@ -507517,7 +507668,7 @@ wey_total:
       - all over
       - throughout
     epo:
-      prep fraz:
+      prep frazparto:
       - ĉirkaŭ la tuta
     spa:
       sintagma prep:
@@ -509048,7 +509199,7 @@ xa_no:
       - shall not
       - shan't
     epo:
-    - - 'fraz: ne (<em>+ os-verbo</em>)'
+    - - 'frazparto: ne (<em>+ os-verbo</em>)'
     spa:
     - - 'sintagma: no + -á (<em>marcador del tiempo futuro</em>)'
     deu: []
@@ -509065,7 +509216,7 @@ xa_no:
       - shall not
       - shan't
     epo:
-      fraz:
+      frazparto:
       - ne (<em>+ os-verbo</em>)
     spa:
       sintagma:
@@ -509573,7 +509724,7 @@ xafe_dento:
       - (and) then
       - subsequently
     epo:
-    - - 'prep fraz: post tio'
+    - - 'prep frazparto: post tio'
       - poste
     spa:
     - - 'sintagma prep: luego'
@@ -509594,7 +509745,7 @@ xafe_dento:
       - (and) then
       - subsequently
     epo:
-      prep fraz:
+      prep frazparto:
       - post tio
       - poste
     spa:
@@ -509665,7 +509816,7 @@ xafe_morcu:
     - - 'prep phrs: postmortem'
       - posthumous
     epo:
-    - - 'prep fraz: postmorte'
+    - - 'prep frazparto: postmorte'
       - post morto
     spa:
     - - 'sintagma prep: póstumamente'
@@ -509682,7 +509833,7 @@ xafe_morcu:
       - postmortem
       - posthumous
     epo:
-      prep fraz:
+      prep frazparto:
       - postmorte
       - post morto
     spa:
@@ -509749,7 +509900,7 @@ xafe_to:
       - (and) then
       - subsequently
     epo:
-    - - 'prep fraz: post tio'
+    - - 'prep frazparto: post tio'
       - poste
       - (kaj) tiam
     spa:
@@ -509771,7 +509922,7 @@ xafe_to:
       - (and) then
       - subsequently
     epo:
-      prep fraz:
+      prep frazparto:
       - post tio
       - poste
       - (kaj) tiam
@@ -509800,7 +509951,7 @@ xafe_xengi:
     eng:
     - - 'prep phrs: postpartum'
     epo:
-    - - 'prep fraz: postnaske'
+    - - 'prep frazparto: postnaske'
       - post nasko
     spa:
     - - 'sintagma prep: tras el parto'
@@ -509816,7 +509967,7 @@ xafe_xengi:
       prep phrs:
       - postpartum
     epo:
-      prep fraz:
+      prep frazparto:
       - postnaske
       - post nasko
     spa:
@@ -519131,6 +519282,44 @@ xorfe_ki:
     - xorfe
     - ','
     - ki
+xorfe_na:
+  term: xorfe na
+  word class: p jm
+  category: phrase
+  trans:
+    eng:
+    - - 'prep phrs: since (<em>+ -ing</em>)'
+    epo:
+    - - 'prep frazparto: ekde (<em>+ verba frazparto</em>)'
+    spa:
+    - - 'sintagma prep: desde (<em>+ infinitivo</em>)'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      prep phrs:
+      - since (<em>+ -ing</em>)
+    epo:
+      prep frazparto:
+      - ekde (<em>+ verba frazparto</em>)
+    spa:
+      sintagma prep:
+      - desde (<em>+ infinitivo</em>)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - xorfe
+    - ','
+    - na
 xorfe_nunya:
   term: xorfe nunya
   word class: p jm
@@ -519139,7 +519328,7 @@ xorfe_nunya:
     eng:
     - - 'prep phrs: from now on'
     epo:
-    - - 'prep fraz: ekde nun'
+    - - 'prep frazparto: ekde nun'
     spa:
     - - 'sintagma prep: de ahora en adelante'
       - a partir de ahora
@@ -519154,7 +519343,7 @@ xorfe_nunya:
       prep phrs:
       - from now on
     epo:
-      prep fraz:
+      prep frazparto:
       - ekde nun
     spa:
       sintagma prep:
@@ -528260,7 +528449,7 @@ yon_na:
     eng:
     - - 'prep phrs: by (<em>+ -ing</em>)'
     epo:
-    - - 'prep fraz: per (<em>+ infinitivo</em>)'
+    - - 'prep frazparto: per (<em>+ infinitivo</em>)'
     spa:
     - - 'sintagma prep: -ando'
       - -iendo
@@ -528276,7 +528465,7 @@ yon_na:
       prep phrs:
       - by (<em>+ -ing</em>)
     epo:
-      prep fraz:
+      prep frazparto:
       - per (<em>+ infinitivo</em>)
     spa:
       sintagma prep:
@@ -531257,7 +531446,7 @@ yusu:
     eng:
     - - 'poss adj (singular): your'
     epo:
-    - - 'adj pos (singulara): via'
+    - - 'pos adj (singulara): via'
     spa:
     - - 'adj pos (singular): tu'
       - su
@@ -531274,7 +531463,7 @@ yusu:
       poss adj (singular):
       - your
     epo:
-      adj pos (singulara):
+      pos adj (singulara):
       - via
     spa:
       adj pos (singular):
