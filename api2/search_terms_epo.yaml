@@ -3133,7 +3133,6 @@ bazlernejo:
 bazo:
 - basidom
 - offolo
-- peda
 - basi
 bazopilko:
 - basibol
@@ -7459,7 +7458,10 @@ esti al:
 esti anksia:
 - ansya
 esti antaŭ:
+- fronta
 - leya
+esti antaŭe:
+- fronta
 esti aplikebla:
 - aplikacu
 esti apud:
@@ -7556,6 +7558,10 @@ esti kuna:
 esti laŭ:
 - folya
 - sen_fol
+esti malantaŭ:
+- ruke
+esti malantaŭe:
+- ruke
 esti malsupra:
 - infraya
 esti malsupre de:
@@ -7604,6 +7610,10 @@ esti super:
 - sen_supra
 esti supra:
 - supraya
+esti supre:
+- kapi
+esti supre de:
+- kapi
 esti sur:
 - perya
 - sen_per
@@ -7619,8 +7629,16 @@ esti tra:
 esti trans:
 - trasya
 - sen_tras
+esti vidalvide:
+- muka
+esti vidalvide de:
+- muka
 esti violenta:
 - bawlu
+esti vizaĝ-al-vizaĝe:
+- muka
+esti vizaĝ-al-vizaĝe de:
+- muka
 esti ĉagrenita:
 - lawfen
 esti ĉar:
@@ -7629,6 +7647,14 @@ esti ĉarmita:
 - carme
 esti ĉe:
 - feya
+esti ĉe la malsupro:
+- peda
+esti ĉe la malsupro de:
+- peda
+esti ĉe la supro:
+- kapi
+esti ĉe la supro de:
+- kapi
 esti ĉi-flanke de:
 - sen_cis
 esti ĉirkaŭ:
@@ -12779,15 +12805,15 @@ kapitulacii:
 kapitulacio:
 - teslimu
 kapjesi:
-- sikapi
+- kapisiya
 kapjeso:
-- sikapi
+- kapisiya
 kapkuseno:
 - kapikusen
 kapnei:
-- nokapi
+- kapinoya
 kapneo:
-- nokapi
+- kapinoya
 kapo:
 - kapi
 kapreolo:
@@ -20447,13 +20473,11 @@ muldite:
 - kalebudo
 mulo:
 - bagala
-multa:
+multa multe da:
 - multi
-multaj:
+multaj multe da:
 - multi
 multe:
-- multi
-multe da:
 - multi
 multe malpli:
 - dayminmo
@@ -22863,10 +22887,7 @@ paĝo:
 paŝetulo:
 - juninini
 paŝi:
-- peda
 - kadam
-paŝi sur:
-- peda
 paŝo:
 - kadam
 paŝtelo:
@@ -23310,7 +23331,7 @@ piedo:
 piedpilko:
 - pedabol
 piedpremi:
-- peda
+- kadam
 piedsigno:
 - pedamarka
 - pedazungu
@@ -23577,10 +23598,18 @@ plej freŝdata:
 - maxim_nerleli
 plej freŝdate:
 - maxim_nerleli
+plej frua:
+- maxim_jaldi
+plej frue:
+- maxim_jaldi
 plej lastatempa:
 - maxim_nerleli
 plej lastatempe:
 - maxim_nerleli
+plej malfrua:
+- maxim_dyer
+plej malfrue:
+- maxim_dyer
 plej ŝatata:
 - preferido
 plej ŝatate:
@@ -23709,11 +23738,14 @@ pli-malpli baldaŭ:
 pli-malpli bona:
 - semibon
 pli-malpli bone:
+- semi_semi
 - semibon
 pli-malpli malbona:
 - semibur
 pli-malpli malbone:
 - semibur
+pli-mapli bona:
+- semi_semi
 plibeligi:
 - maxmeligi
 plibeligo:
@@ -30582,7 +30614,7 @@ tremigi:
 tremo:
 - treme
 treti:
-- peda
+- kadam
 trezoro:
 - hazina
 tri:
@@ -32020,8 +32052,6 @@ vizaĝa:
 - mukali
 vizaĝe:
 - mukali
-vizaĝo:
-- muka
 vizelo:
 - yuxu
 vizitanto:

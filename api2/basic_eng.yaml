@@ -509,7 +509,7 @@ adolapulya:
   term: adolapulya
   class: b
   category: derived
-  translation: 'n: brawn'
+  translation: 'n: brawn, muscled'
 adopsi:
   term: adopsi
   class: b.oj
@@ -1101,7 +1101,7 @@ aloete:
   class: 'tabel: pn'
   category: derived
   translation: 'pron (animate, indefinite): some other ones, others; pron (animate,
-    definite): the other ones'
+    definite): the other ones, the others'
 aloforma:
   term: aloforma
   class: b.oro
@@ -1203,7 +1203,7 @@ alooto:
   class: 'tabel: pn'
   category: derived
   translation: 'pron (inanimate, indefinite): some other ones, others; pron (inanimate,
-    definite): the other ones'
+    definite): the other ones, the others'
 alopul:
   term: alopul
   class: 'tabel: t'
@@ -5590,12 +5590,12 @@ bujo:
   term: bujo
   class: b.oj
   category: root
-  translation: 'n: capture, catch; v.tr: capture, catch'
+  translation: 'n: capture, catch; v.tr: capture, catch, trap'
 bujodo:
   term: bujodo
   class: t
   category: derived
-  translation: 'adj: captured, caught'
+  translation: 'adj: captured, caught, trapped'
 bujotul:
   term: bujotul
   class: b
@@ -14373,9 +14373,9 @@ fronpul:
   translation: 'adj: forward; adv: forwards'
 fronta:
   term: fronta
-  class: b
+  class: b.oj
   category: root
-  translation: 'n: forehead; n: front'
+  translation: 'n: forehead; n: front; v.tr: be in front (of)'
 frontali:
   term: frontali
   class: t
@@ -19633,7 +19633,7 @@ jali_fe:
   term: jali fe
   class: p
   category: phrase
-  translation: 'prep: next to'
+  translation: 'prep: next to, by'
 jalo:
   term: jalo
   class: t
@@ -20910,9 +20910,9 @@ kacupa:
   translation: 'n: turtle, <em>Testudines</em>'
 kadam:
   term: kadam
-  class: b.oj.ru
+  class: b.oj.ru; b.nenoj.p
   category: root
-  translation: 'n: step; v.tr: (take a) step, take steps'
+  translation: 'n: step; v.tr: (take a) step, take steps; v.intr: tread'
 kadiba:
   term: kadiba
   class: b.oj.ru
@@ -21489,9 +21489,9 @@ kapala:
   translation: 'n: skull, cranium'
 kapi:
   term: kapi
-  class: b
+  class: b.oj
   category: root
-  translation: 'n: head; n: top'
+  translation: 'n: head; n: top; v.tr: be on top (of)'
 kapibara:
   term: kapibara
   class: b
@@ -21507,6 +21507,16 @@ kapikusen:
   class: b
   category: derived
   translation: 'n: pillow'
+kapinoya:
+  term: kapinoya
+  class: b.nenoj
+  category: derived
+  translation: 'v.intr: shake (one&#039;s) head (<em>no</em>)'
+kapisiya:
+  term: kapisiya
+  class: b.nenoj
+  category: derived
+  translation: 'n: nod; v.intr: nod'
 kapital:
   term: kapital
   class: b
@@ -21978,7 +21988,7 @@ kaway:
   term: kaway
   class: t
   category: root
-  translation: 'adj: cute; adv: cutely'
+  translation: 'adj: cute, lovely; adv: cutely'
 kawaywao:
   term: kawaywao
   class: b.oro.hisi
@@ -24396,7 +24406,7 @@ kwas:
   term: kwas
   class: l
   category: root
-  translation: 'conj: as if, as though'
+  translation: 'conj: as if, as though, like'
 kwasi:
   term: kwasi
   class: t
@@ -27576,6 +27586,16 @@ maxim_bon:
   class: t
   category: phrase
   translation: 'adj: (the) best; adv: best'
+maxim_dyer:
+  term: maxim dyer
+  class: t jm
+  category: phrase
+  translation: 'adj phrs: at the latest; adv: at the latest, no later than'
+maxim_jaldi:
+  term: maxim jaldi
+  class: t jm
+  category: phrase
+  translation: 'adj phrs: at the earliest; adv phrs: at the earliest, no earlier than'
 maxim_nerleli:
   term: maxim nerleli
   class: t jm
@@ -29608,9 +29628,9 @@ mujezasim:
   translation: 'adj: miraculous; adv: miraculously'
 muka:
   term: muka
-  class: b
+  class: b.oj
   category: root
-  translation: 'n: face'
+  translation: 'n: face; v.tr: be facing, be face to face (with), be across (from)'
 mukakumax:
   term: mukakumax
   class: b
@@ -30818,7 +30838,7 @@ ner_fe:
   term: ner fe
   class: p
   category: phrase
-  translation: 'prep: near, close to; prep: approximately'
+  translation: 'prep: near, close to, by; prep: approximately'
 ner_le:
   term: ner le
   class: par
@@ -31234,11 +31254,6 @@ nohudu:
   class: b
   category: root
   translation: 'n: chickpea, garbanzo'
-nokapi:
-  term: nokapi
-  class: b.nenoj
-  category: derived
-  translation: 'v.intr: shake (one&#039;s) head (<em>no</em>)'
 noli:
   term: noli
   class: t
@@ -33310,9 +33325,9 @@ peari:
   translation: 'n: fairy'
 peda:
   term: peda
-  class: b.oj; b.nenoj.p
+  class: b.oj
   category: root
-  translation: 'n: foot, feet; n: bottom; v.tr: step on, tread; v.intr: step'
+  translation: 'n: foot, feet; n: bottom; v.tr: be at the bottom (of)'
 pedaaskeri:
   term: pedaaskeri
   class: b
@@ -36435,9 +36450,10 @@ rujiwagi:
     revive, bring back to life'
 ruke:
   term: ruke
-  class: b
+  class: b.oj
   category: root
-  translation: 'n: back (<em>anatomy</em>); n: back (<em>side or part</em>), rear'
+  translation: 'n: back (<em>anatomy</em>); n: back (<em>side or part</em>), rear;
+    v.tr: be behind, be in the back, be in back of'
 rukebao:
   term: rukebao
   class: b
@@ -38279,11 +38295,6 @@ sigaro:
   class: b
   category: root
   translation: 'n: cigar'
-sikapi:
-  term: sikapi
-  class: b.nenoj
-  category: derived
-  translation: 'n: nod; v.intr: nod'
 siki:
   term: Siki
   class: su t

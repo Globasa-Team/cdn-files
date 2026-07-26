@@ -14215,7 +14215,7 @@ fronpul:
   translation: franz&ouml;sisch
 fronta:
   term: fronta
-  class: b
+  class: b.oj
   category: root
   translation: 'S: Stirn; S: Vorderseite, Front'
 frontali:
@@ -20687,7 +20687,7 @@ kacupa:
   translation: 'S: Schildkr&ouml;te'
 kadam:
   term: kadam
-  class: b.oj.ru
+  class: b.oj.ru; b.nenoj.p
   category: root
   translation: ""
 kadiba:
@@ -21262,7 +21262,7 @@ kapala:
   translation: 'S: Sch&auml;del, Kranium'
 kapi:
   term: kapi
-  class: b
+  class: b.oj
   category: root
   translation: 'S: Kopf, Haupt; S: Spitze, Oberseite'
 kapibara:
@@ -21280,6 +21280,16 @@ kapikusen:
   class: b
   category: derived
   translation: 'S: Kopfkissen, Kissen, Schlafkissen'
+kapinoya:
+  term: kapinoya
+  class: b.nenoj
+  category: derived
+  translation: ""
+kapisiya:
+  term: kapisiya
+  class: b.nenoj
+  category: derived
+  translation: ""
 kapital:
   term: kapital
   class: b
@@ -27296,6 +27306,16 @@ maxim_bon:
   class: t
   category: phrase
   translation: ""
+maxim_dyer:
+  term: maxim dyer
+  class: t jm
+  category: phrase
+  translation: ""
+maxim_jaldi:
+  term: maxim jaldi
+  class: t jm
+  category: phrase
+  translation: ""
 maxim_nerleli:
   term: maxim nerleli
   class: t jm
@@ -29311,7 +29331,7 @@ mujezasim:
   translation: ""
 muka:
   term: muka
-  class: b
+  class: b.oj
   category: root
   translation: 'S: Gesicht, Antlitz'
 mukakumax:
@@ -30929,11 +30949,6 @@ nohudu:
   class: b
   category: root
   translation: 'S: Kichererbse'
-nokapi:
-  term: nokapi
-  class: b.nenoj
-  category: derived
-  translation: ""
 noli:
   term: noli
   class: t
@@ -32991,7 +33006,7 @@ peari:
   translation: 'S: Fee, Elfe'
 peda:
   term: peda
-  class: b.oj; b.nenoj.p
+  class: b.oj
   category: root
   translation: ""
 pedaaskeri:
@@ -36081,7 +36096,7 @@ rujiwagi:
   translation: ""
 ruke:
   term: ruke
-  class: b
+  class: b.oj
   category: root
   translation: 'S: R&uuml;cken (<em>Anatomie</em>); S: R&uuml;ckseite, Hinterseite,
     Heck'
@@ -37910,11 +37925,6 @@ sigaro:
   class: b
   category: root
   translation: 'S: Zigarre'
-sikapi:
-  term: sikapi
-  class: b.nenoj
-  category: derived
-  translation: ""
 siki:
   term: Siki
   class: su t

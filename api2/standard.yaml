@@ -1840,6 +1840,7 @@ ababil:
     - - 's: hirundo'
     spa:
     - - 's: golondrina'
+      - avión
     deu:
     - - 'S: Schwalbe'
     fra:
@@ -1864,6 +1865,7 @@ ababil:
     spa:
       s:
       - golondrina
+      - avión
     deu:
       S:
       - Schwalbe
@@ -5910,6 +5912,7 @@ adolapulya:
   trans:
     eng:
     - - 'n: brawn'
+      - muscled
     epo:
     - - 's: muskoleco'
       - fortikeco
@@ -5937,6 +5940,7 @@ adolapulya:
     eng:
       "n":
       - brawn
+      - muscled
     epo:
       s:
       - muskoleco
@@ -13047,6 +13051,7 @@ aloete:
     - - 'pron (animate, indefinite): some other ones'
       - others
     - - 'pron (animate, definite): the other ones'
+      - the others
     epo:
     - - 'pron (vivaĵoj): (la) aliaj'
     spa:
@@ -13065,6 +13070,7 @@ aloete:
       - others
       pron (animate, definite):
       - the other ones
+      - the others
     epo:
       pron (vivaĵoj):
       - (la) aliaj
@@ -14064,6 +14070,7 @@ alooto:
     - - 'pron (inanimate, indefinite): some other ones'
       - others
     - - 'pron (inanimate, definite): the other ones'
+      - the others
     epo:
     - - 'pron (nevivaĵoj): (la) aliaj'
     spa:
@@ -14082,6 +14089,7 @@ alooto:
       - others
       pron (inanimate, definite):
       - the other ones
+      - the others
     epo:
       pron (nevivaĵoj):
       - (la) aliaj
@@ -65526,6 +65534,7 @@ bujo:
       - catch
     - - 'v.tr: capture'
       - catch
+      - trap
     epo:
     - - 's: kapto'
     - - 'v.tr: kapti'
@@ -65547,6 +65556,7 @@ bujo:
       v.tr:
       - capture
       - catch
+      - trap
     epo:
       s:
       - kapto
@@ -65575,6 +65585,7 @@ bujodo:
     eng:
     - - 'adj: captured'
       - caught
+      - trapped
     epo:
     - - 'adj: kaptita'
     - - 'adv: kaptite'
@@ -65592,6 +65603,7 @@ bujodo:
       adj:
       - captured
       - caught
+      - trapped
     epo:
       adj:
       - kaptita
@@ -165051,19 +165063,24 @@ fronpul:
     - -pul
 fronta:
   term: fronta
-  word class: b
+  word class: b.oj
   category: root
   trans:
     eng:
     - - 'n: forehead'
     - - 'n: front'
+    - - 'v.tr: be in front (of)'
     epo:
     - - 's: frunto'
     - - 's: antaŭaĵo'
       - fronto
+    - - 'v.tr: esti antaŭ'
+      - esti antaŭe
     spa:
     - - 's: frente (<em>anatomía</em>)'
     - - 's: frente (<em>parte delantera</em>)'
+    - - 'v.tr: estar enfrente (de)'
+      - estar en frente (de)
     deu:
     - - 'S: Stirn'
     - - 'S: Vorderseite'
@@ -165091,13 +165108,21 @@ fronta:
     eng:
       "n":
       - front
+      v.tr:
+      - be in front (of)
     epo:
       s:
       - antaŭaĵo
       - fronto
+      v.tr:
+      - esti antaŭ
+      - esti antaŭe
     spa:
       s:
       - frente (<em>parte delantera</em>)
+      v.tr:
+      - estar enfrente (de)
+      - estar en frente (de)
     deu:
       S:
       - Vorderseite
@@ -225831,6 +225856,7 @@ jali_fe:
   trans:
     eng:
     - - 'prep: next to'
+      - by
     epo:
     - - 'prep: apud'
     spa:
@@ -225846,6 +225872,7 @@ jali_fe:
     eng:
       prep:
       - next to
+      - by
     epo:
       prep:
       - apud
@@ -240866,20 +240893,25 @@ kacupa:
       Telugusa: కచ్ఛపము &ldquo;kacapamu&rdquo;
 kadam:
   term: kadam
-  word class: b.oj.ru
+  word class: b.oj.ru; b.nenoj.p
   category: root
   trans:
     eng:
     - - 'n: step'
     - - 'v.tr: (take a) step'
       - take steps
+    - - 'v.intr: tread'
     epo:
     - - 's: paŝo'
     - - 'v.tr: paŝi'
+    - - 'v.ntr: piedpremi'
+      - treti
     spa:
     - - 's: paso'
     - - 'v.tr: dar un paso'
       - dar pasos
+    - - 'v.intr: pisar'
+      - pisotear
     deu: []
     fra: []
     rus: []
@@ -240893,17 +240925,25 @@ kadam:
       v.tr:
       - (take a) step
       - take steps
+      v.intr:
+      - tread
     epo:
       s:
       - paŝo
       v.tr:
       - paŝi
+      v.ntr:
+      - piedpremi
+      - treti
     spa:
       s:
       - paso
       v.tr:
       - dar un paso
       - dar pasos
+      v.intr:
+      - pisar
+      - pisotear
     deu: []
     fra: []
     rus: []
@@ -247786,19 +247826,23 @@ kapala:
       Turkisa: kafatası
 kapi:
   term: kapi
-  word class: b
+  word class: b.oj
   category: root
   trans:
     eng:
     - - 'n: head'
     - - 'n: top'
+    - - 'v.tr: be on top (of)'
     epo:
     - - 's: kapo'
     - - 's: supro'
+    - - 'v.tr: esti supre (de)'
+      - esti ĉe la supro (de)
     spa:
     - - 's: cabeza'
     - - 's: cima'
       - parte superior
+    - - 'v.tr: estar encima (de)'
     deu:
     - - 'S: Kopf'
       - Haupt
@@ -247828,13 +247872,20 @@ kapi:
     eng:
       "n":
       - top
+      v.tr:
+      - be on top (of)
     epo:
       s:
       - supro
+      v.tr:
+      - esti supre (de)
+      - esti ĉe la supro (de)
     spa:
       s:
       - cima
       - parte superior
+      v.tr:
+      - estar encima (de)
     deu:
       S:
       - Spitze
@@ -248066,6 +248117,108 @@ kapikusen:
     - kapi
     - +
     - kusen
+kapinoya:
+  term: kapinoya
+  word class: b.nenoj
+  category: derived
+  trans:
+    eng:
+    - - 'v.intr: shake (one''s) head (<em>no</em>)'
+    epo:
+    - - 's: kapneo'
+    - - 'v.ntr: kapnei'
+    spa:
+    - - 'v.intr: negar con la cabeza'
+      - sacudir la cabeza
+    deu: []
+    fra: []
+    rus: []
+    zho:
+    - - 摇头
+    hin: []
+    ara:
+    - - هَزَّ رَأْسَهُ
+  trans_v2:
+    eng:
+      v.intr:
+      - shake (one's) head (<em>no</em>)
+    epo:
+      s:
+      - kapneo
+      v.ntr:
+      - kapnei
+    spa:
+      v.intr:
+      - negar con la cabeza
+      - sacudir la cabeza
+    deu: []
+    fra: []
+    rus: []
+    zho:
+      "":
+      - 摇头
+    hin: []
+    ara:
+      "":
+      - هَزَّ رَأْسَهُ
+  etymology:
+    derived:
+    - kapi
+    - +
+    - "no"
+    - +
+    - -ya
+kapisiya:
+  term: kapisiya
+  word class: b.nenoj
+  category: derived
+  trans:
+    eng:
+    - - 'n: nod'
+    - - 'v.intr: nod'
+    epo:
+    - - 's: kapjeso'
+    - - 'v.ntr: kapjesi'
+    spa:
+    - - 's: asentimiento'
+    - - 'v.intr: asentir'
+      - asentir con la cabeza
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - nod
+      v.intr:
+      - nod
+    epo:
+      s:
+      - kapjeso
+      v.ntr:
+      - kapjesi
+    spa:
+      s:
+      - asentimiento
+      v.intr:
+      - asentir
+      - asentir con la cabeza
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - kapi
+    - +
+    - si
+    - +
+    - -ya
 kapital:
   term: kapital
   word class: b
@@ -253762,6 +253915,7 @@ kaway:
   trans:
     eng:
     - - 'adj: cute'
+      - lovely
     - - 'adv: cutely'
     epo:
     - - 'adj: ĉarma'
@@ -253771,7 +253925,8 @@ kaway:
     spa:
     - - 'adj: lindo'
       - mono
-      - bonito
+      - curioso
+      - encantador
     deu: []
     fra:
     - - mignon
@@ -253784,6 +253939,7 @@ kaway:
     eng:
       adj:
       - cute
+      - lovely
       adv:
       - cutely
     epo:
@@ -253797,7 +253953,8 @@ kaway:
       adj:
       - lindo
       - mono
-      - bonito
+      - curioso
+      - encantador
     deu: []
     fra:
       "":
@@ -282894,6 +283051,7 @@ kwas:
     eng:
     - - 'conj: as if'
       - as though
+      - like
     epo:
     - - 'konj: kvazaŭ'
     spa:
@@ -282909,6 +283067,7 @@ kwas:
       conj:
       - as if
       - as though
+      - like
     epo:
       konj:
       - kvazaŭ
@@ -320543,6 +320702,98 @@ maxim_bon:
     - maxim
     - ','
     - bon
+maxim_dyer:
+  term: maxim dyer
+  word class: t jm
+  category: phrase
+  trans:
+    eng:
+    - - 'adj phrs: at the latest'
+    - - 'adv: at the latest'
+      - no later than
+    epo:
+    - - 'adj frazparto: plej malfrua'
+    - - 'adv frazparto: plej malfrue'
+    spa:
+    - - 'sintagma adv: a más tardar'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj phrs:
+      - at the latest
+      adv:
+      - at the latest
+      - no later than
+    epo:
+      adj frazparto:
+      - plej malfrua
+      adv frazparto:
+      - plej malfrue
+    spa:
+      sintagma adv:
+      - a más tardar
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - maxim
+    - ','
+    - dyer
+maxim_jaldi:
+  term: maxim jaldi
+  word class: t jm
+  category: phrase
+  trans:
+    eng:
+    - - 'adj phrs: at the earliest'
+    - - 'adv phrs: at the earliest'
+      - no earlier than
+    epo:
+    - - 'adj frazparto: plej frua'
+    - - 'adv frazparto: plej frue'
+    spa:
+    - - 'sintagma adv: como muy pronto'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj phrs:
+      - at the earliest
+      adv phrs:
+      - at the earliest
+      - no earlier than
+    epo:
+      adj frazparto:
+      - plej frua
+      adv frazparto:
+      - plej frue
+    spa:
+      sintagma adv:
+      - como muy pronto
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - maxim
+    - ','
+    - jaldi
 maxim_nerleli:
   term: maxim nerleli
   word class: t jm
@@ -344083,16 +344334,22 @@ mujezasim:
     - -sim
 muka:
   term: muka
-  word class: b
+  word class: b.oj
   category: root
   trans:
     eng:
     - - 'n: face'
+    - - 'v.tr: be facing'
+      - be face to face (with)
+      - be across (from)
     epo:
-    - - 's: vizaĝo'
+    - - 's: vizaĝo: v.tr: esti vidalvide (de)'
+      - esti vizaĝ-al-vizaĝe (de)
     spa:
     - - 's: cara'
       - rostro
+    - - 'v.tr: estar cara a cara (con)'
+      - estar frente a frente (con)
     deu:
     - - 'S: Gesicht'
       - Antlitz
@@ -344113,13 +344370,21 @@ muka:
     eng:
       "n":
       - face
+      v.tr:
+      - be facing
+      - be face to face (with)
+      - be across (from)
     epo:
-      s:
-      - vizaĝo
+      's: vizaĝo: v.tr':
+      - esti vidalvide (de)
+      - esti vizaĝ-al-vizaĝe (de)
     spa:
       s:
       - cara
       - rostro
+      v.tr:
+      - estar cara a cara (con)
+      - estar frente a frente (con)
     deu:
       S:
       - Gesicht
@@ -344457,8 +344722,8 @@ multi:
       - a lot
       - a great deal
     epo:
-    - - 'det: multa(j)'
-    - - 'adv: multe (da)'
+    - - 'det: multa(j) multe da'
+    - - 'adv: multe'
       - tre (<em>antaŭ verbo</em>)
     spa:
     - - 'det: mucho'
@@ -344486,9 +344751,9 @@ multi:
       - a great deal
     epo:
       det:
-      - multa(j)
+      - multa(j) multe da
       adv:
-      - multe (da)
+      - multe
       - tre (<em>antaŭ verbo</em>)
     spa:
       det:
@@ -357925,6 +358190,7 @@ ner_fe:
     eng:
     - - 'prep: near'
       - close to
+      - by
     - - 'prep: approximately'
     epo:
     - - 'prep: proksime de'
@@ -362466,55 +362732,6 @@ nohudu:
       Parsisa: نخود &ldquo;nohod&rdquo;
       Rusisa: нут &ldquo;nut&rdquo;
       Turkisa: nohut, nohudu
-nokapi:
-  term: nokapi
-  word class: b.nenoj
-  category: derived
-  trans:
-    eng:
-    - - 'v.intr: shake (one''s) head (<em>no</em>)'
-    epo:
-    - - 's: kapneo'
-    - - 'v.ntr: kapnei'
-    spa:
-    - - 'v.intr: negar con la cabeza'
-      - sacudir la cabeza
-    deu: []
-    fra: []
-    rus: []
-    zho:
-    - - 摇头
-    hin: []
-    ara:
-    - - هَزَّ رَأْسَهُ
-  trans_v2:
-    eng:
-      v.intr:
-      - shake (one's) head (<em>no</em>)
-    epo:
-      s:
-      - kapneo
-      v.ntr:
-      - kapnei
-    spa:
-      v.intr:
-      - negar con la cabeza
-      - sacudir la cabeza
-    deu: []
-    fra: []
-    rus: []
-    zho:
-      "":
-      - 摇头
-    hin: []
-    ara:
-      "":
-      - هَزَّ رَأْسَهُ
-  etymology:
-    derived:
-    - "no"
-    - +
-    - kapi
 noli:
   term: noli
   word class: t
@@ -386421,33 +386638,24 @@ peari:
       Turkisa: peri
 peda:
   term: peda
-  word class: b.oj; b.nenoj.p
+  word class: b.oj
   category: root
   trans:
     eng:
     - - 'n: foot'
       - feet
     - - 'n: bottom'
-    - - 'v.tr: step on'
-      - tread
-    - - 'v.intr: step'
+    - - 'v.tr: be at the bottom (of)'
     epo:
     - - 's: piedo'
-    - - 's: bazo'
-      - malsupro
-    - - 'v.tr: paŝi sur'
-      - piedpremi
-      - treti
-    - - 'v.ntr: paŝi'
+    - - 's: malsupro'
+    - - 'v.tr: esti ĉe la malsupro (de)'
     spa:
     - - 's: pie'
-    - - 's: base'
-      - parte inferior
-    - - 'v.tr: pisar'
-      - pisotear
-      - hollar
-    - - 'v.intr: dar un paso'
-      - pisar
+    - - 's: parte inferior'
+    - - 'v.tr: estar al pie (de)'
+      - estar en el fondo (de)
+      - estar en la parte inferior (de)
     deu: []
     fra: []
     rus: []
@@ -386459,31 +386667,19 @@ peda:
       "n":
       - bottom
       v.tr:
-      - step on
-      - tread
-      v.intr:
-      - step
+      - be at the bottom (of)
     epo:
       s:
-      - bazo
       - malsupro
       v.tr:
-      - paŝi sur
-      - piedpremi
-      - treti
-      v.ntr:
-      - paŝi
+      - esti ĉe la malsupro (de)
     spa:
       s:
-      - base
       - parte inferior
       v.tr:
-      - pisar
-      - pisotear
-      - hollar
-      v.intr:
-      - dar un paso
-      - pisar
+      - estar al pie (de)
+      - estar en el fondo (de)
+      - estar en la parte inferior (de)
     deu: []
     fra: []
     rus: []
@@ -423325,19 +423521,27 @@ rujiwagi:
     - -gi
 ruke:
   term: ruke
-  word class: b
+  word class: b.oj
   category: root
   trans:
     eng:
     - - 'n: back (<em>anatomy</em>)'
     - - 'n: back (<em>side or part</em>)'
       - rear
+    - - 'v.tr: be behind'
+      - be in the back
+      - be in back of
     epo:
     - - 's: dorso'
     - - 's: malantaŭo'
+    - - 'v.tr: esti malantaŭ'
+      - esti malantaŭe
     spa:
     - - 's: espalda'
     - - 's: parte trasera'
+    - - 'v.tr: estar en la parte trasera (de)'
+      - estar atrás
+      - estar detrás de
     deu:
     - - 'S: Rücken (<em>Anatomie</em>)'
     - - 'S: Rückseite'
@@ -423368,12 +423572,23 @@ ruke:
       "n":
       - back (<em>side or part</em>)
       - rear
+      v.tr:
+      - be behind
+      - be in the back
+      - be in back of
     epo:
       s:
       - malantaŭo
+      v.tr:
+      - esti malantaŭ
+      - esti malantaŭe
     spa:
       s:
       - parte trasera
+      v.tr:
+      - estar en la parte trasera (de)
+      - estar atrás
+      - estar detrás de
     deu:
       S:
       - Rückseite
@@ -438327,7 +438542,9 @@ semi_semi:
     - - 'adv (informal): so-so'
     epo:
     - - 'adj (neformala): mezbona'
+      - pli-mapli bona
     - - 'adv (neformala): mezbone'
+      - pli-malpli bone
     spa:
     - - 'adj (informal): regular'
       - así así
@@ -438348,8 +438565,10 @@ semi_semi:
     epo:
       adj (neformala):
       - mezbona
+      - pli-mapli bona
       adv (neformala):
       - mezbone
+      - pli-malpli bone
     spa:
       adj (informal):
       - regular
@@ -444174,55 +444393,6 @@ sigaro:
       Telugusa: సిగార్ &ldquo;sigar&rdquo;
       Turkisa: sigara
       Vyetnamsa: x&igrave;-g&agrave;
-sikapi:
-  term: sikapi
-  word class: b.nenoj
-  category: derived
-  trans:
-    eng:
-    - - 'n: nod'
-    - - 'v.intr: nod'
-    epo:
-    - - 's: kapjeso'
-    - - 'v.ntr: kapjesi'
-    spa:
-    - - 's: asentimiento'
-    - - 'v.intr: asentir'
-      - asentir con la cabeza
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
-  trans_v2:
-    eng:
-      "n":
-      - nod
-      v.intr:
-      - nod
-    epo:
-      s:
-      - kapjeso
-      v.ntr:
-      - kapjesi
-    spa:
-      s:
-      - asentimiento
-      v.intr:
-      - asentir
-      - asentir con la cabeza
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
-  etymology:
-    derived:
-    - si
-    - +
-    - kapi
 siki:
   term: Siki
   word class: su t
@@ -521418,7 +521588,8 @@ xosu:
       - a little (bit)
     epo:
     - - 'det: malmulta(j)'
-    - - 'adv: malmulte (da)'
+      - malmulte da
+    - - 'adv: malmulte'
       - iomete (<em>+ verbo</em>)
     spa:
     - - 'det: poco'
@@ -521444,8 +521615,9 @@ xosu:
     epo:
       det:
       - malmulta(j)
+      - malmulte da
       adv:
-      - malmulte (da)
+      - malmulte
       - iomete (<em>+ verbo</em>)
     spa:
       det:

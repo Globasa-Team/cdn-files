@@ -14265,9 +14265,9 @@ fronpul:
   translation: 'adj: antaŭa; adv: antaŭen, fronten'
 fronta:
   term: fronta
-  class: b
+  class: b.oj
   category: root
-  translation: 's: frunto; s: antaŭaĵo, fronto'
+  translation: 's: frunto; s: antaŭaĵo, fronto; v.tr: esti antaŭ, esti antaŭe'
 frontali:
   term: frontali
   class: t
@@ -20773,9 +20773,9 @@ kacupa:
   translation: 's: testudo'
 kadam:
   term: kadam
-  class: b.oj.ru
+  class: b.oj.ru; b.nenoj.p
   category: root
-  translation: 's: paŝo; v.tr: paŝi'
+  translation: 's: paŝo; v.tr: paŝi; v.ntr: piedpremi, treti'
 kadiba:
   term: kadiba
   class: b.oj.ru
@@ -21352,9 +21352,9 @@ kapala:
   translation: 's: kranio'
 kapi:
   term: kapi
-  class: b
+  class: b.oj
   category: root
-  translation: 's: kapo; s: supro'
+  translation: 's: kapo; s: supro; v.tr: esti supre (de), esti ĉe la supro (de)'
 kapibara:
   term: kapibara
   class: b
@@ -21370,6 +21370,16 @@ kapikusen:
   class: b
   category: derived
   translation: 's: kuseno, kapkuseno, litkuseno'
+kapinoya:
+  term: kapinoya
+  class: b.nenoj
+  category: derived
+  translation: 's: kapneo; v.ntr: kapnei'
+kapisiya:
+  term: kapisiya
+  class: b.nenoj
+  category: derived
+  translation: 's: kapjeso; v.ntr: kapjesi'
 kapital:
   term: kapital
   class: b
@@ -27404,6 +27414,16 @@ maxim_bon:
   class: t
   category: phrase
   translation: 'adj: plej bona; adv: plej bone'
+maxim_dyer:
+  term: maxim dyer
+  class: t jm
+  category: phrase
+  translation: 'adj frazparto: plej malfrua; adv frazparto: plej malfrue'
+maxim_jaldi:
+  term: maxim jaldi
+  class: t jm
+  category: phrase
+  translation: 'adj frazparto: plej frua; adv frazparto: plej frue'
 maxim_nerleli:
   term: maxim nerleli
   class: t jm
@@ -29431,9 +29451,9 @@ mujezasim:
   translation: 'adj: mirakleca; adv: miraklece'
 muka:
   term: muka
-  class: b
+  class: b.oj
   category: root
-  translation: 's: vizaĝo'
+  translation: 's: vizaĝo: v.tr: esti vidalvide (de), esti vizaĝ-al-vizaĝe (de)'
 mukakumax:
   term: mukakumax
   class: b
@@ -29463,7 +29483,7 @@ multi:
   term: multi
   class: d; m
   category: root
-  translation: 'det: multa(j); adv: multe (da), tre (<em>antaŭ verbo</em>)'
+  translation: 'det: multa(j) multe da; adv: multe, tre (<em>antaŭ verbo</em>)'
 multimaxmo:
   term: multimaxmo
   class: m
@@ -31050,11 +31070,6 @@ nohudu:
   class: b
   category: root
   translation: 's: kikero'
-nokapi:
-  term: nokapi
-  class: b.nenoj
-  category: derived
-  translation: 's: kapneo; v.ntr: kapnei'
 noli:
   term: noli
   class: t
@@ -33124,10 +33139,9 @@ peari:
   translation: 's: feo, feino'
 peda:
   term: peda
-  class: b.oj; b.nenoj.p
+  class: b.oj
   category: root
-  translation: 's: piedo; s: bazo, malsupro; v.tr: paŝi sur, piedpremi, treti; v.ntr:
-    paŝi'
+  translation: 's: piedo; s: malsupro; v.tr: esti ĉe la malsupro (de)'
 pedaaskeri:
   term: pedaaskeri
   class: b
@@ -36224,9 +36238,9 @@ rujiwagi:
   translation: 's: revivigo, resurektigo; v.tr: revivigi, resurektigi'
 ruke:
   term: ruke
-  class: b
+  class: b.oj
   category: root
-  translation: 's: dorso; s: malantaŭo'
+  translation: 's: dorso; s: malantaŭo; v.tr: esti malantaŭ, esti malantaŭe '
 rukebao:
   term: rukebao
   class: b
@@ -37503,7 +37517,8 @@ semi_semi:
   term: semi, semi
   class: t
   category: phrase
-  translation: 'adj (neformala): mezbona; adv (neformala): mezbone'
+  translation: 'adj (neformala): mezbona, pli-mapli bona; adv (neformala): mezbone,
+    pli-malpli bone'
 semiblue:
   term: semiblue
   class: t
@@ -38054,11 +38069,6 @@ sigaro:
   class: b
   category: root
   translation: 's: cigaro'
-sikapi:
-  term: sikapi
-  class: b.nenoj
-  category: derived
-  translation: 's: kapjeso; v.ntr: kapjesi'
 siki:
   term: Siki
   class: su t
@@ -44679,7 +44689,7 @@ xosu:
   term: xosu
   class: d; m
   category: root
-  translation: 'det: malmulta(j); adv: malmulte (da), iomete (<em>+ verbo</em>)'
+  translation: 'det: malmulta(j), malmulte da; adv: malmulte, iomete (<em>+ verbo</em>)'
 xosu_xafe_xosu:
   term: xosu xafe xosu
   class: m

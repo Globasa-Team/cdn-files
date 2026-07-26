@@ -14211,7 +14211,7 @@ fronpul:
   translation: ""
 fronta:
   term: fronta
-  class: b
+  class: b.oj
   category: root
   translation: 'सं: माथा; सं: अगला हिस्सा, मोर्चा'
 frontali:
@@ -20681,7 +20681,7 @@ kacupa:
   translation: 'सं: कछुआ'
 kadam:
   term: kadam
-  class: b.oj.ru
+  class: b.oj.ru; b.nenoj.p
   category: root
   translation: ""
 kadiba:
@@ -21256,7 +21256,7 @@ kapala:
   translation: 'सं: खोपड़ी, कपाल'
 kapi:
   term: kapi
-  class: b
+  class: b.oj
   category: root
   translation: 'सं: सिर, सर; सं: चोटी, ऊपरी भाग'
 kapibara:
@@ -21274,6 +21274,16 @@ kapikusen:
   class: b
   category: derived
   translation: 'सं: तकिया'
+kapinoya:
+  term: kapinoya
+  class: b.nenoj
+  category: derived
+  translation: ""
+kapisiya:
+  term: kapisiya
+  class: b.nenoj
+  category: derived
+  translation: ""
 kapital:
   term: kapital
   class: b
@@ -27289,6 +27299,16 @@ maxim_bon:
   class: t
   category: phrase
   translation: ""
+maxim_dyer:
+  term: maxim dyer
+  class: t jm
+  category: phrase
+  translation: ""
+maxim_jaldi:
+  term: maxim jaldi
+  class: t jm
+  category: phrase
+  translation: ""
 maxim_nerleli:
   term: maxim nerleli
   class: t jm
@@ -29301,7 +29321,7 @@ mujezasim:
   translation: ""
 muka:
   term: muka
-  class: b
+  class: b.oj
   category: root
   translation: 'सं: चेहरा, मुख'
 mukakumax:
@@ -30919,11 +30939,6 @@ nohudu:
   class: b
   category: root
   translation: 'सं: चना, छोला'
-nokapi:
-  term: nokapi
-  class: b.nenoj
-  category: derived
-  translation: ""
 noli:
   term: noli
   class: t
@@ -32981,7 +32996,7 @@ peari:
   translation: 'सं: परी'
 peda:
   term: peda
-  class: b.oj; b.nenoj.p
+  class: b.oj
   category: root
   translation: ""
 pedaaskeri:
@@ -36071,7 +36086,7 @@ rujiwagi:
   translation: ""
 ruke:
   term: ruke
-  class: b
+  class: b.oj
   category: root
   translation: 'सं: पीठ; सं: पिछला भाग, पिछवाड़ा'
 rukebao:
@@ -37900,11 +37915,6 @@ sigaro:
   class: b
   category: root
   translation: 'सं: सिगार'
-sikapi:
-  term: sikapi
-  class: b.nenoj
-  category: derived
-  translation: ""
 siki:
   term: Siki
   class: su t

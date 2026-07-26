@@ -14214,7 +14214,7 @@ fronpul:
   translation: французский
 fronta:
   term: fronta
-  class: b
+  class: b.oj
   category: root
   translation: 'сущ: лоб; сущ: передняя часть, фронт'
 frontali:
@@ -20685,7 +20685,7 @@ kacupa:
   translation: 'сущ: черепаха'
 kadam:
   term: kadam
-  class: b.oj.ru
+  class: b.oj.ru; b.nenoj.p
   category: root
   translation: ""
 kadiba:
@@ -21260,7 +21260,7 @@ kapala:
   translation: 'сущ: череп'
 kapi:
   term: kapi
-  class: b
+  class: b.oj
   category: root
   translation: 'сущ: голова; сущ: верх, вершина'
 kapibara:
@@ -21278,6 +21278,16 @@ kapikusen:
   class: b
   category: derived
   translation: 'сущ: подушка'
+kapinoya:
+  term: kapinoya
+  class: b.nenoj
+  category: derived
+  translation: ""
+kapisiya:
+  term: kapisiya
+  class: b.nenoj
+  category: derived
+  translation: ""
 kapital:
   term: kapital
   class: b
@@ -27294,6 +27304,16 @@ maxim_bon:
   class: t
   category: phrase
   translation: ""
+maxim_dyer:
+  term: maxim dyer
+  class: t jm
+  category: phrase
+  translation: ""
+maxim_jaldi:
+  term: maxim jaldi
+  class: t jm
+  category: phrase
+  translation: ""
 maxim_nerleli:
   term: maxim nerleli
   class: t jm
@@ -29307,7 +29327,7 @@ mujezasim:
   translation: ""
 muka:
   term: muka
-  class: b
+  class: b.oj
   category: root
   translation: 'сущ: лицо'
 mukakumax:
@@ -30925,11 +30945,6 @@ nohudu:
   class: b
   category: root
   translation: 'сущ: нут'
-nokapi:
-  term: nokapi
-  class: b.nenoj
-  category: derived
-  translation: ""
 noli:
   term: noli
   class: t
@@ -32987,7 +33002,7 @@ peari:
   translation: 'сущ: фея'
 peda:
   term: peda
-  class: b.oj; b.nenoj.p
+  class: b.oj
   category: root
   translation: ""
 pedaaskeri:
@@ -36077,7 +36092,7 @@ rujiwagi:
   translation: ""
 ruke:
   term: ruke
-  class: b
+  class: b.oj
   category: root
   translation: 'сущ: спина (<em>анат.</em>); сущ: задняя часть, тыл'
 rukebao:
@@ -37905,11 +37920,6 @@ sigaro:
   class: b
   category: root
   translation: 'сущ: сигара'
-sikapi:
-  term: sikapi
-  class: b.nenoj
-  category: derived
-  translation: ""
 siki:
   term: Siki
   class: su t

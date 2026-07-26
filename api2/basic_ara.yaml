@@ -14211,7 +14211,7 @@ fronpul:
   translation: ""
 fronta:
   term: fronta
-  class: b
+  class: b.oj
   category: root
   translation: 'اسم: جَبْهَة؛ اسم: وَاجِهَة، مُقَدِّمَة'
 frontali:
@@ -20682,7 +20682,7 @@ kacupa:
   translation: 'اسم: سُلْحَفَاة'
 kadam:
   term: kadam
-  class: b.oj.ru
+  class: b.oj.ru; b.nenoj.p
   category: root
   translation: ""
 kadiba:
@@ -21257,7 +21257,7 @@ kapala:
   translation: 'اسم: جُمْجُمَة'
 kapi:
   term: kapi
-  class: b
+  class: b.oj
   category: root
   translation: 'اسم: رَأْس؛ اسم: قِمَّة، أَعْلَى'
 kapibara:
@@ -21275,6 +21275,16 @@ kapikusen:
   class: b
   category: derived
   translation: 'اسم: وِسَادَة، مِخَدَّة'
+kapinoya:
+  term: kapinoya
+  class: b.nenoj
+  category: derived
+  translation: هَزَّ رَأْسَهُ
+kapisiya:
+  term: kapisiya
+  class: b.nenoj
+  category: derived
+  translation: ""
 kapital:
   term: kapital
   class: b
@@ -27290,6 +27300,16 @@ maxim_bon:
   class: t
   category: phrase
   translation: ""
+maxim_dyer:
+  term: maxim dyer
+  class: t jm
+  category: phrase
+  translation: ""
+maxim_jaldi:
+  term: maxim jaldi
+  class: t jm
+  category: phrase
+  translation: ""
 maxim_nerleli:
   term: maxim nerleli
   class: t jm
@@ -29302,7 +29322,7 @@ mujezasim:
   translation: ""
 muka:
   term: muka
-  class: b
+  class: b.oj
   category: root
   translation: 'اسم: وَجْه'
 mukakumax:
@@ -30920,11 +30940,6 @@ nohudu:
   class: b
   category: root
   translation: 'اسم: حِمَّص'
-nokapi:
-  term: nokapi
-  class: b.nenoj
-  category: derived
-  translation: هَزَّ رَأْسَهُ
 noli:
   term: noli
   class: t
@@ -32982,7 +32997,7 @@ peari:
   translation: 'اسم: جِنِّيَّة، حُورِيَّة، فَيْرِي'
 peda:
   term: peda
-  class: b.oj; b.nenoj.p
+  class: b.oj
   category: root
   translation: ""
 pedaaskeri:
@@ -36072,7 +36087,7 @@ rujiwagi:
   translation: ""
 ruke:
   term: ruke
-  class: b
+  class: b.oj
   category: root
   translation: 'اسم: ظَهْر (<em>تَشْرِيح</em>)؛ اسم: خَلْف (<em>جَانِب أَوْ جُزْء</em>)،
     مُؤَخِّرَة'
@@ -37901,11 +37916,6 @@ sigaro:
   class: b
   category: root
   translation: 'اسم: سِيجَار، سِيغَار'
-sikapi:
-  term: sikapi
-  class: b.nenoj
-  category: derived
-  translation: ""
 siki:
   term: Siki
   class: su t

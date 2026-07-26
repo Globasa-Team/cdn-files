@@ -14211,7 +14211,7 @@ fronpul:
   translation: 法国的
 fronta:
   term: fronta
-  class: b
+  class: b.oj
   category: root
   translation: '名: 额头, 前额; 名: 前面, 前部'
 frontali:
@@ -20681,7 +20681,7 @@ kacupa:
   translation: '名: 龟, 乌龟'
 kadam:
   term: kadam
-  class: b.oj.ru
+  class: b.oj.ru; b.nenoj.p
   category: root
   translation: ""
 kadiba:
@@ -21256,7 +21256,7 @@ kapala:
   translation: '名: 头骨, 颅骨'
 kapi:
   term: kapi
-  class: b
+  class: b.oj
   category: root
   translation: '名: 头, 脑袋; 名: 顶部, 顶端'
 kapibara:
@@ -21274,6 +21274,16 @@ kapikusen:
   class: b
   category: derived
   translation: '名: 枕头'
+kapinoya:
+  term: kapinoya
+  class: b.nenoj
+  category: derived
+  translation: 摇头
+kapisiya:
+  term: kapisiya
+  class: b.nenoj
+  category: derived
+  translation: ""
 kapital:
   term: kapital
   class: b
@@ -27289,6 +27299,16 @@ maxim_bon:
   class: t
   category: phrase
   translation: ""
+maxim_dyer:
+  term: maxim dyer
+  class: t jm
+  category: phrase
+  translation: ""
+maxim_jaldi:
+  term: maxim jaldi
+  class: t jm
+  category: phrase
+  translation: ""
 maxim_nerleli:
   term: maxim nerleli
   class: t jm
@@ -29301,7 +29321,7 @@ mujezasim:
   translation: ""
 muka:
   term: muka
-  class: b
+  class: b.oj
   category: root
   translation: '名: 脸, 面孔'
 mukakumax:
@@ -30919,11 +30939,6 @@ nohudu:
   class: b
   category: root
   translation: '名: 鹰嘴豆'
-nokapi:
-  term: nokapi
-  class: b.nenoj
-  category: derived
-  translation: 摇头
 noli:
   term: noli
   class: t
@@ -32981,7 +32996,7 @@ peari:
   translation: '名: 仙女, 精灵'
 peda:
   term: peda
-  class: b.oj; b.nenoj.p
+  class: b.oj
   category: root
   translation: ""
 pedaaskeri:
@@ -36071,7 +36086,7 @@ rujiwagi:
   translation: ""
 ruke:
   term: ruke
-  class: b
+  class: b.oj
   category: root
   translation: '名: 背, 背部; 名: 后面, 背面'
 rukebao:
@@ -37899,11 +37914,6 @@ sigaro:
   class: b
   category: root
   translation: '名: 雪茄'
-sikapi:
-  term: sikapi
-  class: b.nenoj
-  category: derived
-  translation: ""
 siki:
   term: Siki
   class: su t

@@ -188,7 +188,7 @@ ababil:
   term: ababil
   class: b
   category: root
-  translation: 's: golondrina'
+  translation: 's: golondrina, avi&oacute;n'
 abakus:
   term: abakus
   class: b
@@ -14390,9 +14390,10 @@ fronpul:
   translation: 'adj: delantero, frontal; adv: hacia adelante, adelante'
 fronta:
   term: fronta
-  class: b
+  class: b.oj
   category: root
-  translation: 's: frente (<em>anatom&iacute;a</em>); s: frente (<em>parte delantera</em>)'
+  translation: 's: frente (<em>anatom&iacute;a</em>); s: frente (<em>parte delantera</em>);
+    v.tr: estar enfrente (de), estar en frente (de)'
 frontali:
   term: frontali
   class: t
@@ -20947,9 +20948,9 @@ kacupa:
   translation: 's: tortuga'
 kadam:
   term: kadam
-  class: b.oj.ru
+  class: b.oj.ru; b.nenoj.p
   category: root
-  translation: 's: paso; v.tr: dar un paso, dar pasos'
+  translation: 's: paso; v.tr: dar un paso, dar pasos; v.intr: pisar, pisotear'
 kadiba:
   term: kadiba
   class: b.oj.ru
@@ -21523,9 +21524,9 @@ kapala:
   translation: 's: cr&aacute;neo'
 kapi:
   term: kapi
-  class: b
+  class: b.oj
   category: root
-  translation: 's: cabeza; s: cima, parte superior'
+  translation: 's: cabeza; s: cima, parte superior; v.tr: estar encima (de)'
 kapibara:
   term: kapibara
   class: b
@@ -21541,6 +21542,16 @@ kapikusen:
   class: b
   category: derived
   translation: 's: almohada'
+kapinoya:
+  term: kapinoya
+  class: b.nenoj
+  category: derived
+  translation: 'v.intr: negar con la cabeza, sacudir la cabeza'
+kapisiya:
+  term: kapisiya
+  class: b.nenoj
+  category: derived
+  translation: 's: asentimiento; v.intr: asentir, asentir con la cabeza'
 kapital:
   term: kapital
   class: b
@@ -22012,7 +22023,7 @@ kaway:
   term: kaway
   class: t
   category: root
-  translation: 'adj: lindo, mono, bonito'
+  translation: 'adj: lindo, mono, curioso, encantador'
 kawaywao:
   term: kawaywao
   class: b.oro.hisi
@@ -27625,6 +27636,16 @@ maxim_bon:
   class: t
   category: phrase
   translation: 'adj: el mejor, &oacute;ptimo; adv: lo mejor, de la mejor manera'
+maxim_dyer:
+  term: maxim dyer
+  class: t jm
+  category: phrase
+  translation: 'sintagma adv: a m&aacute;s tardar'
+maxim_jaldi:
+  term: maxim jaldi
+  class: t jm
+  category: phrase
+  translation: 'sintagma adv: como muy pronto'
 maxim_nerleli:
   term: maxim nerleli
   class: t jm
@@ -29658,9 +29679,10 @@ mujezasim:
   translation: 'adj: milagroso, prodigioso; adv: milagrosamente'
 muka:
   term: muka
-  class: b
+  class: b.oj
   category: root
-  translation: 's: cara, rostro'
+  translation: 's: cara, rostro; v.tr: estar cara a cara (con), estar frente a frente
+    (con)'
 mukakumax:
   term: mukakumax
   class: b
@@ -31288,11 +31310,6 @@ nohudu:
   class: b
   category: root
   translation: 's: garbanzo'
-nokapi:
-  term: nokapi
-  class: b.nenoj
-  category: derived
-  translation: 'v.intr: negar con la cabeza, sacudir la cabeza'
 noli:
   term: noli
   class: t
@@ -33371,10 +33388,10 @@ peari:
   translation: 's: hada'
 peda:
   term: peda
-  class: b.oj; b.nenoj.p
+  class: b.oj
   category: root
-  translation: 's: pie; s: base, parte inferior; v.tr: pisar, pisotear, hollar; v.intr:
-    dar un paso, pisar'
+  translation: 's: pie; s: parte inferior; v.tr: estar al pie (de), estar en el fondo
+    (de), estar en la parte inferior (de)'
 pedaaskeri:
   term: pedaaskeri
   class: b
@@ -36497,9 +36514,10 @@ rujiwagi:
     resucitar, reanimar, revivir'
 ruke:
   term: ruke
-  class: b
+  class: b.oj
   category: root
-  translation: 's: espalda; s: parte trasera'
+  translation: 's: espalda; s: parte trasera; v.tr: estar en la parte trasera (de),
+    estar atr&aacute;s, estar detr&aacute;s de'
 rukebao:
   term: rukebao
   class: b
@@ -38340,11 +38358,6 @@ sigaro:
   class: b
   category: root
   translation: 's: puro'
-sikapi:
-  term: sikapi
-  class: b.nenoj
-  category: derived
-  translation: 's: asentimiento; v.intr: asentir, asentir con la cabeza'
 siki:
   term: Siki
   class: su t
