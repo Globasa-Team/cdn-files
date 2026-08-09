@@ -3538,11 +3538,6 @@ banko:
   class: b
   category: root
   translation: 's: banko'
-bankofil:
-  term: bankofil
-  class: t
-  category: derived
-  translation: 'adj: ŝparema; adv: ŝpareme'
 bankomaxina:
   term: bankomaxina
   class: b
@@ -12065,6 +12060,11 @@ expesa:
   class: b.oj
   category: derived
   translation: 's: elspezo; v.tr: elspezi'
+expesanenfil:
+  term: expesanenfil
+  class: t
+  category: derived
+  translation: 'adj: ŝparema; adv: ŝpareme'
 explasi:
   term: explasi
   class: b.oj
@@ -18672,7 +18672,7 @@ inpresen:
   term: inpresen
   class: b.oj
   category: derived
-  translation: 's: ĉeesto; v.tr: ĉeesti (ion)'
+  translation: 's: ĉeesto; v.tr: ĉeesti'
 insakfu:
   term: insakfu
   class: b
@@ -20335,7 +20335,7 @@ jui:
   term: jui
   class: b.oj
   category: root
-  translation: 's: atento; v.tr: atenti'
+  translation: 's: atento; v.tr: atenti; interj: atentu'
 juigi:
   term: juigi
   class: b.oj
@@ -24288,7 +24288,7 @@ kwasisen:
   term: kwasisen
   class: f.lin
   category: derived
-  translation: 'ligv: ŝajni'
+  translation: 'ligv: ŝajni, ŝajni esti'
 kwasisodar:
   term: kwasisodar
   class: b
@@ -30432,9 +30432,9 @@ nenmingu:
   translation: 'adj: neklara; adv: neklare'
 nenmuhim:
   term: nenmuhim
-  class: t
+  class: t; il
   category: derived
-  translation: 'adj: negrava, malgrava; adv: negrave, malgrave'
+  translation: 'adj: negrava, malgrava; adv: negrave, malgrave; interj: ne gravas'
 nennasibune:
   term: nennasibune
   class: t
@@ -34679,9 +34679,9 @@ possim:
   translation: 'adj: malsimila; adv: malsimile'
 possukses:
   term: possukses
-  class: b.nenoj
+  class: b.oj
   category: derived
-  translation: 's: malsukceso; v.ntr: malsukcesi'
+  translation: 's: malsukceso; v.tr: malsukcesi'
 posswikara:
   term: posswikara
   class: b.oj
@@ -39114,9 +39114,9 @@ sukigi:
   translation: 's: plaĉo, ŝatigo; v.tr: plaĉi, ŝatigi'
 sukses:
   term: sukses
-  class: b.nenoj
+  class: b.oj
   category: root
-  translation: 's: sukceso; v.ntr: sukcesi'
+  translation: 's: sukceso; v.tr: sukcesi'
 suksespul:
   term: suksespul
   class: t

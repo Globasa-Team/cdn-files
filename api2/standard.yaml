@@ -32534,10 +32534,10 @@ awidi:
     - - 'v.ntr: foriri'
     spa:
     - - 's: partida'
-      - salida
     - - 'v.intr: irse'
       - marcharse
       - partir
+      - retirarse
     deu: []
     fra: []
     rus: []
@@ -32558,11 +32558,11 @@ awidi:
     spa:
       s:
       - partida
-      - salida
       v.intr:
       - irse
       - marcharse
       - partir
+      - retirarse
     deu: []
     fra: []
     rus: []
@@ -41750,61 +41750,6 @@ banko:
       Swahilisa: benki
       Telugusa: బ్యాంకు &ldquo;byāṅku&rdquo;
       Turkisa: banka
-bankofil:
-  term: bankofil
-  word class: t
-  category: derived
-  trans:
-    eng:
-    - - 'adj: frugal'
-      - thrifty
-    - - 'adv: frugally'
-      - thriftily
-    epo:
-    - - 'adj: ŝparema'
-    - - 'adv: ŝpareme'
-    spa:
-    - - 'adj: frugal'
-      - ahorrativo
-      - austero
-    - - 'adv: frugalmente'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
-  trans_v2:
-    eng:
-      adj:
-      - frugal
-      - thrifty
-      adv:
-      - frugally
-      - thriftily
-    epo:
-      adj:
-      - ŝparema
-      adv:
-      - ŝpareme
-    spa:
-      adj:
-      - frugal
-      - ahorrativo
-      - austero
-      adv:
-      - frugalmente
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
-  etymology:
-    derived:
-    - banko
-    - +
-    - -fil
 bankomaxina:
   term: bankomaxina
   word class: b
@@ -111135,7 +111080,7 @@ drevogeo:
     epo:
     - - 's: arbaro'
     spa:
-    - - 's: arboleda'
+    - - 's: bosque'
     deu:
     - - 'S: Hain'
     fra:
@@ -111158,7 +111103,7 @@ drevogeo:
       - arbaro
     spa:
       s:
-      - arboleda
+      - bosque
     deu:
       S:
       - Hain
@@ -111192,7 +111137,7 @@ drevolari:
     epo:
     - - 's: arbareto'
     spa:
-    - - 's: bosque'
+    - - 's: arboleda'
     deu:
     - - 'S: Wald'
     fra:
@@ -111217,7 +111162,7 @@ drevolari:
       - arbareto
     spa:
       s:
-      - bosque
+      - arboleda
     deu:
       S:
       - Wald
@@ -113033,9 +112978,9 @@ duaple_basun:
       - كُونْتْرَبَاسُون
   etymology:
     derived:
-    - dua
-    - +
-    - -ple
+    - duaple
+    - ','
+    - basun
 duato:
   term: duato
   word class: b
@@ -117256,6 +117201,7 @@ dure:
       - last
       - go on
       - keep going
+      - take (<em>time</em>)
     epo:
     - - 's: daŭro'
     - - 'v.ntr: daŭri'
@@ -117264,6 +117210,8 @@ dure:
     - - 'v.intr: durar'
       - continuar
       - perdurar
+      - tardar
+      - llevar (<em>tiempo</em>)
     deu: []
     fra: []
     rus: []
@@ -117282,6 +117230,7 @@ dure:
       - last
       - go on
       - keep going
+      - take (<em>time</em>)
     epo:
       s:
       - daŭro
@@ -117294,6 +117243,8 @@ dure:
       - durar
       - continuar
       - perdurar
+      - tardar
+      - llevar (<em>tiempo</em>)
     deu: []
     fra: []
     rus: []
@@ -141266,6 +141217,65 @@ expesa:
     - ex-
     - +
     - pesa
+expesanenfil:
+  term: expesanenfil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: frugal'
+      - thrifty
+    - - 'adv: frugally'
+      - thriftily
+    epo:
+    - - 'adj: ŝparema'
+    - - 'adv: ŝpareme'
+    spa:
+    - - 'adj: frugal'
+      - ahorrativo
+      - austero
+    - - 'adv: frugalmente'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - frugal
+      - thrifty
+      adv:
+      - frugally
+      - thriftily
+    epo:
+      adj:
+      - ŝparema
+      adv:
+      - ŝpareme
+    spa:
+      adj:
+      - frugal
+      - ahorrativo
+      - austero
+      adv:
+      - frugalmente
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ex-
+    - +
+    - pesa
+    - +
+    - nen-
+    - +
+    - -fil
 explasi:
   term: explasi
   word class: b.oj
@@ -148741,6 +148751,8 @@ fe_kompara_fe:
     - fe
     - ','
     - kompara
+    - ','
+    - fe
 fe_kompara_ki:
   term: fe kompara ki
   word class: l
@@ -157109,6 +157121,7 @@ finfe_nunya:
     - - 'prep phrs: so far'
       - thus far
       - until now
+      - yet
     epo:
     - - 'prep frazparto: ĝis nun'
     spa:
@@ -157126,6 +157139,7 @@ finfe_nunya:
       - so far
       - thus far
       - until now
+      - yet
     epo:
       prep frazparto:
       - ĝis nun
@@ -157880,12 +157894,14 @@ finto:
         well (then)'
       - then
       - so
+      - anyway
     epo:
     - - 'interj (plenigvorto antaŭ tema ŝanĝo aŭ konkludo): nu (do)'
       - do
     spa:
     - - 'interj (muletilla que precede un cambio de tema o introduce una conclusión):
-        bueno (pues)'
+        en fin'
+      - bueno (pues)
       - entonces
       - así que
     deu: []
@@ -157900,12 +157916,14 @@ finto:
       - well (then)
       - then
       - so
+      - anyway
     epo:
       interj (plenigvorto antaŭ tema ŝanĝo aŭ konkludo):
       - nu (do)
       - do
     spa:
       interj (muletilla que precede un cambio de tema o introduce una conclusión):
+      - en fin
       - bueno (pues)
       - entonces
       - así que
@@ -216605,7 +216623,7 @@ inpresen:
     - - 'v.tr: attend'
     epo:
     - - 's: ĉeesto'
-    - - 'v.tr: ĉeesti (ion)'
+    - - 'v.tr: ĉeesti'
     spa:
     - - 's: asistencia'
     - - 'v.tr: asistir a'
@@ -216626,7 +216644,7 @@ inpresen:
       s:
       - ĉeesto
       v.tr:
-      - ĉeesti (ion)
+      - ĉeesti
     spa:
       s:
       - asistencia
@@ -235731,13 +235749,17 @@ jui:
     - - 'n: attention'
     - - 'v.tr: pay attention (to)'
       - acknowledge
+    - - 'interj: (be) careful'
+      - watch out
     epo:
     - - 's: atento'
     - - 'v.tr: atenti'
+    - - 'interj: atentu'
     spa:
     - - 's: atención'
     - - 'v.tr: prestar atención (a)'
       - atender
+    - - 'interj: cuidado'
     deu: []
     fra: []
     rus: []
@@ -235751,17 +235773,24 @@ jui:
       v.tr:
       - pay attention (to)
       - acknowledge
+      interj:
+      - (be) careful
+      - watch out
     epo:
       s:
       - atento
       v.tr:
       - atenti
+      interj:
+      - atentu
     spa:
       s:
       - atención
       v.tr:
       - prestar atención (a)
       - atender
+      interj:
+      - cuidado
     deu: []
     fra: []
     rus: []
@@ -283483,11 +283512,13 @@ kwasisen:
   category: derived
   trans:
     eng:
-    - - 'v.cop: seem'
+    - - 'v.cop: seem. seem to be'
     epo:
     - - 'ligv: ŝajni'
+      - ŝajni esti
     spa:
     - - 'v.cop: parecer'
+      - parecer ser
     deu: []
     fra: []
     rus: []
@@ -283497,13 +283528,15 @@ kwasisen:
   trans_v2:
     eng:
       v.cop:
-      - seem
+      - seem. seem to be
     epo:
       ligv:
       - ŝajni
+      - ŝajni esti
     spa:
       v.cop:
       - parecer
+      - parecer ser
     deu: []
     fra: []
     rus: []
@@ -302023,7 +302056,7 @@ lubrikaabil:
     derived:
     - lubrika
     - +
-    - -ne
+    - -abil
 lubrikado:
   term: lubrikado
   word class: t
@@ -320713,7 +320746,7 @@ maxim_dyer:
   trans:
     eng:
     - - 'adj phrs: at the latest'
-    - - 'adv: at the latest'
+    - - 'adv phrs: at the latest'
       - no later than
     epo:
     - - 'adj frazparto: plej malfrua'
@@ -320730,7 +320763,7 @@ maxim_dyer:
     eng:
       adj phrs:
       - at the latest
-      adv:
+      adv phrs:
       - at the latest
       - no later than
     epo:
@@ -355795,21 +355828,26 @@ nenmingu:
     - mingu
 nenmuhim:
   term: nenmuhim
-  word class: t
+  word class: t; il
   category: derived
   trans:
     eng:
     - - 'adj: unimportant'
     - - 'adv: unimportantly'
+    - - 'interj: never mind'
     epo:
     - - 'adj: negrava'
       - malgrava
     - - 'adv: negrave'
       - malgrave
+    - - 'interj: ne gravas'
     spa:
     - - 'adj: sin importancia'
       - insignificante
     - - 'adv: sin importancia'
+    - - 'interj: no importa'
+      - da igual
+      - olvídalo
     deu: []
     fra: []
     rus: []
@@ -355822,6 +355860,8 @@ nenmuhim:
       - unimportant
       adv:
       - unimportantly
+      interj:
+      - never mind
     epo:
       adj:
       - negrava
@@ -355829,12 +355869,18 @@ nenmuhim:
       adv:
       - negrave
       - malgrave
+      interj:
+      - ne gravas
     spa:
       adj:
       - sin importancia
       - insignificante
       adv:
       - sin importancia
+      interj:
+      - no importa
+      - da igual
+      - olvídalo
     deu: []
     fra: []
     rus: []
@@ -362272,9 +362318,9 @@ no_hata:
     ara: []
   etymology:
     derived:
-    - hata
-    - ','
     - "no"
+    - ','
+    - hata
 no_hata_un:
   term: no hata un
   word class: jm
@@ -365676,8 +365722,9 @@ nunto:
   category: derived
   trans:
     eng:
-    - - 'interj (filler used to draw attention to a statement or point in a narrative:
-        now; interj (filler used to preface a remark): well'
+    - - 'interj (filler used to draw attention to a statement or point in a narrative):
+        now'
+    - - 'interj (filler used to preface a remark): well'
     epo:
     - - 'interj (plenigvorto por atentigi en rakonto): nu'
     - - 'interj (plenigvorto antaŭ rimarko): nu'
@@ -365695,7 +365742,9 @@ nunto:
     ara: []
   trans_v2:
     eng:
-      'interj (filler used to draw attention to a statement or point in a narrative: now; interj (filler used to preface a remark)':
+      interj (filler used to draw attention to a statement or point in a narrative):
+      - now
+      interj (filler used to preface a remark):
       - well
     epo:
       interj (plenigvorto por atentigi en rakonto):
@@ -404782,18 +404831,18 @@ possim:
     - sim
 possukses:
   term: possukses
-  word class: b.nenoj
+  word class: b.oj
   category: derived
   trans:
     eng:
     - - 'n: failure'
-    - - 'v.intr: fail'
+    - - 'v.tr: fail'
     epo:
     - - 's: malsukceso'
-    - - 'v.ntr: malsukcesi'
+    - - 'v.tr: malsukcesi'
     spa:
     - - 's: fracaso'
-    - - 'v.intr: fracasar'
+    - - 'v.tr: fracasar'
       - fallar
     deu: []
     fra: []
@@ -404805,17 +404854,17 @@ possukses:
     eng:
       "n":
       - failure
-      v.intr:
+      v.tr:
       - fail
     epo:
       s:
       - malsukceso
-      v.ntr:
+      v.tr:
       - malsukcesi
     spa:
       s:
       - fracaso
-      v.intr:
+      v.tr:
       - fracasar
       - fallar
     deu: []
@@ -441990,6 +442039,8 @@ servimusiya:
     derived:
     - servi
     - +
+    - musi
+    - +
     - -ya
 servimusiyen:
   term: servimusiyen
@@ -456545,19 +456596,18 @@ sukigi:
     - -gi
 sukses:
   term: sukses
-  word class: b.nenoj
+  word class: b.oj
   category: root
   trans:
     eng:
     - - 'n: success'
-    - - 'v.intr: succeed'
+    - - 'v.intr: succeed (in)'
     epo:
     - - 's: sukceso'
-    - - 'v.ntr: sukcesi'
+    - - 'v.tr: sukcesi'
     spa:
     - - 's: éxito'
-    - - 'v.intr: tener éxito'
-      - triunfar
+    - - 'v.tr: tener éxito (en)'
     deu: []
     fra: []
     rus: []
@@ -456569,18 +456619,17 @@ sukses:
       "n":
       - success
       v.intr:
-      - succeed
+      - succeed (in)
     epo:
       s:
       - sukceso
-      v.ntr:
+      v.tr:
       - sukcesi
     spa:
       s:
       - éxito
-      v.intr:
-      - tener éxito
-      - triunfar
+      v.tr:
+      - tener éxito (en)
     deu: []
     fra: []
     rus: []
@@ -468705,7 +468754,7 @@ tasadufli:
     derived:
     - tasaduf
     - +
-    - -fil
+    - -li
 taseri:
   term: taseri
   word class: b.oj
@@ -497576,7 +497625,7 @@ uyusu_te:
     derived:
     - uyusu
     - ','
-    - to
+    - te
 uyusu_to:
   term: uyusu to
   word class: su pn
@@ -497620,7 +497669,7 @@ uyusu_to:
     derived:
     - uyusu
     - ','
-    - te
+    - to
 vada:
   term: vada
   word class: b.oj
@@ -512854,7 +512903,8 @@ xanse:
   category: root
   trans:
     eng:
-    - - 'n: luck'
+    - - 'n: chance'
+      - luck
       - fortune
       - odds
     epo:
@@ -512882,6 +512932,7 @@ xanse:
   trans_v2:
     eng:
       "n":
+      - chance
       - luck
       - fortune
       - odds

@@ -3524,11 +3524,6 @@ banko:
   class: b
   category: root
   translation: 'اسم: مَصْرِف، بَنْك'
-bankofil:
-  term: bankofil
-  class: t
-  category: derived
-  translation: ""
 bankomaxina:
   term: bankomaxina
   class: b
@@ -12017,6 +12012,11 @@ expel:
 expesa:
   term: expesa
   class: b.oj
+  category: derived
+  translation: ""
+expesanenfil:
+  term: expesanenfil
+  class: t
   category: derived
   translation: ""
 explasi:
@@ -30302,7 +30302,7 @@ nenmingu:
   translation: ""
 nenmuhim:
   term: nenmuhim
-  class: t
+  class: t; il
   category: derived
   translation: ""
 nennasibune:
@@ -34532,7 +34532,7 @@ possim:
   translation: ""
 possukses:
   term: possukses
-  class: b.nenoj
+  class: b.oj
   category: derived
   translation: ""
 posswikara:
@@ -38958,7 +38958,7 @@ sukigi:
   translation: ""
 sukses:
   term: sukses
-  class: b.nenoj
+  class: b.oj
   category: root
   translation: ""
 suksespul:

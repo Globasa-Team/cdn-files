@@ -2797,7 +2797,7 @@ awidi:
   term: awidi
   class: b.nenoj
   category: derived
-  translation: 's: partida, salida; v.intr: irse, marcharse, partir'
+  translation: 's: partida; v.intr: irse, marcharse, partir, retirarse'
 awizin:
   term: awizin
   class: b.oj
@@ -3583,11 +3583,6 @@ banko:
   class: b
   category: root
   translation: 's: banco (<em>financiero</em>)'
-bankofil:
-  term: bankofil
-  class: t
-  category: derived
-  translation: 'adj: frugal, ahorrativo, austero; adv: frugalmente'
 bankomaxina:
   term: bankomaxina
   class: b
@@ -9593,12 +9588,12 @@ drevogeo:
   term: drevogeo
   class: b
   category: derived
-  translation: 's: arboleda'
+  translation: 's: bosque'
 drevolari:
   term: drevolari
   class: b
   category: derived
-  translation: 's: bosque'
+  translation: 's: arboleda'
 drilu:
   term: drilu
   class: b.oj
@@ -10114,7 +10109,8 @@ dure:
   term: dure
   class: b.nenoj
   category: root
-  translation: 's: duraci&oacute;n; v.intr: durar, continuar, perdurar'
+  translation: 's: duraci&oacute;n; v.intr: durar, continuar, perdurar, tardar, llevar
+    (<em>tiempo</em>)'
 dureabil:
   term: dureabil
   class: t
@@ -12171,6 +12167,11 @@ expesa:
   class: b.oj
   category: derived
   translation: 's: gasto, desembolso; v.tr: gastar, desembolsar'
+expesanenfil:
+  term: expesanenfil
+  class: t
+  category: derived
+  translation: 'adj: frugal, ahorrativo, austero; adv: frugalmente'
 explasi:
   term: explasi
   class: b.oj
@@ -13744,7 +13745,7 @@ finto:
   class: il
   category: derived
   translation: 'interj (muletilla que precede un cambio de tema o introduce una conclusi&oacute;n):
-    bueno (pues), entonces, as&iacute; que'
+    en fin, bueno (pues), entonces, as&iacute; que'
 firaru:
   term: firaru
   class: b.nenoj
@@ -20505,7 +20506,8 @@ jui:
   term: jui
   class: b.oj
   category: root
-  translation: 's: atenci&oacute;n; v.tr: prestar atenci&oacute;n (a), atender'
+  translation: 's: atenci&oacute;n; v.tr: prestar atenci&oacute;n (a), atender; interj:
+    cuidado'
 juigi:
   term: juigi
   class: b.oj
@@ -24476,7 +24478,7 @@ kwasisen:
   term: kwasisen
   class: f.lin
   category: derived
-  translation: 'v.cop: parecer'
+  translation: 'v.cop: parecer, parecer ser'
 kwasisodar:
   term: kwasisodar
   class: b
@@ -30666,9 +30668,10 @@ nenmingu:
   translation: 'adj: poco claro, confuso, vago; adv: de forma poco clara, vagamente'
 nenmuhim:
   term: nenmuhim
-  class: t
+  class: t; il
   category: derived
-  translation: 'adj: sin importancia, insignificante; adv: sin importancia'
+  translation: 'adj: sin importancia, insignificante; adv: sin importancia; interj:
+    no importa, da igual, olv&iacute;dalo'
 nennasibune:
   term: nennasibune
   class: t
@@ -34943,9 +34946,9 @@ possim:
   translation: 'adj: distinto, diferente; adv: de forma distinta'
 possukses:
   term: possukses
-  class: b.nenoj
+  class: b.oj
   category: derived
-  translation: 's: fracaso; v.intr: fracasar, fallar'
+  translation: 's: fracaso; v.tr: fracasar, fallar'
 posswikara:
   term: posswikara
   class: b.oj
@@ -39408,9 +39411,9 @@ sukigi:
   translation: 's: agrado; v.tr: agradar, gustar (a), resultar atractivo (a)'
 sukses:
   term: sukses
-  class: b.nenoj
+  class: b.oj
   category: root
-  translation: 's: &eacute;xito; v.intr: tener &eacute;xito, triunfar'
+  translation: 's: &eacute;xito; v.tr: tener &eacute;xito (en)'
 suksespul:
   term: suksespul
   class: t
