@@ -23928,7 +23928,7 @@ arena:
       Pilipinasa: arena
       Putunhwa: 阿雷纳 &ldquo;aleyna&rdquo;
       Rusisa: арена &ldquo;arena&rdquo;
-      urkisa: arena
+      Turkisa: arena
 aresto:
   term: aresto
   word class: b.oj
@@ -32353,16 +32353,22 @@ awgi:
     eng:
     - - 'v.tr: (cause to) disappear'
       - get rid of
+      - extinguish
+      - turn off (<em>light or fire</em>)
     epo:
     - - 's: malaperigo'
       - forigo
+      - estingo
     - - 'v.tr: malaperigi'
       - forigi
+      - estingi
     spa:
     - - 's: eliminación'
     - - 'v.tr: hacer desaparecer'
       - eliminar
       - deshacerse de
+      - extinguir
+      - apagar (<em>luz o fuego</em>)
     deu: []
     fra: []
     rus: []
@@ -32374,13 +32380,17 @@ awgi:
       v.tr:
       - (cause to) disappear
       - get rid of
+      - extinguish
+      - turn off (<em>light or fire</em>)
     epo:
       s:
       - malaperigo
       - forigo
+      - estingo
       v.tr:
       - malaperigi
       - forigi
+      - estingi
     spa:
       s:
       - eliminación
@@ -32388,6 +32398,8 @@ awgi:
       - hacer desaparecer
       - eliminar
       - deshacerse de
+      - extinguir
+      - apagar (<em>luz o fuego</em>)
     deu: []
     fra: []
     rus: []
@@ -171609,12 +171621,12 @@ ganjon:
     epo:
     - - 's: emocio'
       - sento
-    - - 'ligv (opcia uzo de -cu): senti (<em>emocie, psikologie</em>)'
+    - - 'ligv (opcia uzo de -cu): sentiĝi (<em>emocie, psikologie</em>)'
     - - 'v.tr: senti (<em>emocie, psikologie</em>)'
     spa:
     - - 's: emoción'
       - sentimiento
-    - - 'v.cop (uso opcional de -cu): sentir (<em>emocionalmente, psicológicamente</em>)'
+    - - 'v.cop (uso opcional de -cu): sentirse (<em>emocionalmente, psicológicamente</em>)'
     - - 'v.tr: sentir (<em>emocionalmente, psicológicamente</em>)'
     deu: []
     fra: []
@@ -171637,7 +171649,7 @@ ganjon:
       - emocio
       - sento
       ligv (opcia uzo de -cu):
-      - senti (<em>emocie, psikologie</em>)
+      - sentiĝi (<em>emocie, psikologie</em>)
       v.tr:
       - senti (<em>emocie, psikologie</em>)
     spa:
@@ -171645,7 +171657,7 @@ ganjon:
       - emoción
       - sentimiento
       v.cop (uso opcional de -cu):
-      - sentir (<em>emocionalmente, psicológicamente</em>)
+      - sentirse (<em>emocionalmente, psicológicamente</em>)
       v.tr:
       - sentir (<em>emocionalmente, psicológicamente</em>)
     deu: []
@@ -173047,6 +173059,76 @@ gardanbendu:
     - bendu
     natlang:
       Parsisa: گردن بند &ldquo;gardan band&rdquo;
+gardankumax:
+  term: gardankumax
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: scarf'
+    epo:
+    - - 's: koltuko'
+    spa:
+    - - 's: bufanda'
+    deu:
+    - - 'S: Schal'
+      - Halstuch
+      - Tuch
+    fra:
+    - - 'n: écharpe'
+      - foulard
+      - châle
+    rus:
+    - - 'сущ: шарф'
+      - шаль
+    zho:
+    - - '名: 围巾'
+      - 披肩
+    hin:
+    - - 'सं: दुपट्टा'
+      - शॉल
+    ara:
+    - - 'اسم: وِشَاح، شَال، لَفَّة عُنُق'
+  trans_v2:
+    eng:
+      "n":
+      - scarf
+    epo:
+      s:
+      - koltuko
+    spa:
+      s:
+      - bufanda
+    deu:
+      S:
+      - Schal
+      - Halstuch
+      - Tuch
+    fra:
+      "n":
+      - écharpe
+      - foulard
+      - châle
+    rus:
+      сущ:
+      - шарф
+      - шаль
+    zho:
+      名:
+      - 围巾
+      - 披肩
+    hin:
+      सं:
+      - दुपट्टा
+      - शॉल
+    ara:
+      اسم:
+      - وِشَاح، شَال، لَفَّة عُنُق
+  etymology:
+    derived:
+    - gardan
+    - +
+    - kumax
 gardanvaso:
   term: gardanvaso
   word class: b
@@ -194874,19 +194956,14 @@ hay:
   category: root
   trans:
     eng:
-    - - 'n: existence'
-      - presence
     - - 'v.intr: there is'
       - there are
     epo:
-    - - 's: ekzisto'
     - - 'v.ntr: esti'
       - ekzisti
     spa:
-    - - 's: existencia'
-      - presencia
-    - - 'v.intr: existir'
-      - haber
+    - - 'v.intr: haber'
+      - existir
     deu: []
     fra: []
     rus: []
@@ -194895,25 +194972,17 @@ hay:
     ara: []
   trans_v2:
     eng:
-      "n":
-      - existence
-      - presence
       v.intr:
       - there is
       - there are
     epo:
-      s:
-      - ekzisto
       v.ntr:
       - esti
       - ekzisti
     spa:
-      s:
-      - existencia
-      - presencia
       v.intr:
-      - existir
       - haber
+      - existir
     deu: []
     fra: []
     rus: []
@@ -201976,16 +202045,16 @@ hisi:
     eng:
     - - 'n: feeling'
       - sensation
-    - - 'v.cop (optional -cu): v.tr: feel (<em>physically, emotionally, psychologically</em>)'
+    - - 'v.cop (optional -cu): feel (<em>physically, emotionally, psychologically</em>)'
     - - 'v.tr: feel (<em>physically, emotionally, psychologically</em>)'
     epo:
     - - 's: sento'
-    - - 'ligv (opcia uzo de -cu): senti'
+    - - 'ligv (opcia uzo de -cu): sentiĝi'
     - - 'v.tr: senti'
     spa:
     - - 's: sensación'
       - sentimiento
-    - - 'v.cop (uso opcional de -cu): sentir'
+    - - 'v.cop (uso opcional de -cu): sentirse'
     - - 'v.tr: sentir'
     deu: []
     fra: []
@@ -201998,7 +202067,7 @@ hisi:
       "n":
       - feeling
       - sensation
-      'v.cop (optional -cu): v.tr':
+      v.cop (optional -cu):
       - feel (<em>physically, emotionally, psychologically</em>)
       v.tr:
       - feel (<em>physically, emotionally, psychologically</em>)
@@ -202006,7 +202075,7 @@ hisi:
       s:
       - sento
       ligv (opcia uzo de -cu):
-      - senti
+      - sentiĝi
       v.tr:
       - senti
     spa:
@@ -202014,7 +202083,7 @@ hisi:
       - sensación
       - sentimiento
       v.cop (uso opcional de -cu):
-      - sentir
+      - sentirse
       v.tr:
       - sentir
     deu: []
@@ -248084,6 +248153,66 @@ kapiexfon:
     - ex-
     - +
     - -fon
+kapikumax:
+  term: kapikumax
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: veil'
+    epo:
+    - - 's: vualo'
+    spa:
+    - - 's: velo'
+    deu:
+    - - 'S: Schleier'
+    fra:
+    - - 'n: voile (<em>tissu</em>)'
+    rus:
+    - - 'сущ: вуаль'
+      - чадра
+    zho:
+    - - '名: 面纱'
+    hin:
+    - - 'सं: घूँघट'
+      - परदा
+    ara:
+    - - 'اسم: حِجَاب، خِمَار، نِقَاب'
+  trans_v2:
+    eng:
+      "n":
+      - veil
+    epo:
+      s:
+      - vualo
+    spa:
+      s:
+      - velo
+    deu:
+      S:
+      - Schleier
+    fra:
+      "n":
+      - voile (<em>tissu</em>)
+    rus:
+      сущ:
+      - вуаль
+      - чадра
+    zho:
+      名:
+      - 面纱
+    hin:
+      सं:
+      - घूँघट
+      - परदा
+    ara:
+      اسم:
+      - حِجَاب، خِمَار، نِقَاب
+  etymology:
+    derived:
+    - kapi
+    - +
+    - kumax
 kapikusen:
   term: kapikusen
   word class: b
@@ -258137,6 +258266,76 @@ ketif:
       Arabisa: كتف &ldquo;katef&rdquo;
       Ivrisa: כָּתֵף &ldquo;katef&rdquo;
       Parsisa: کتف &ldquo;ketf&rdquo;
+ketifkumax:
+  term: ketifkumax
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: shawl'
+    epo:
+    - - 's: ŝalo'
+    spa:
+    - - 's: chal'
+    deu:
+    - - 'S: Schal'
+      - Halstuch
+      - Tuch
+    fra:
+    - - 'n: écharpe'
+      - foulard
+      - châle
+    rus:
+    - - 'сущ: шарф'
+      - шаль
+    zho:
+    - - '名: 围巾'
+      - 披肩
+    hin:
+    - - 'सं: दुपट्टा'
+      - शॉल
+    ara:
+    - - 'اسم: وِشَاح، شَال، لَفَّة عُنُق'
+  trans_v2:
+    eng:
+      "n":
+      - shawl
+    epo:
+      s:
+      - ŝalo
+    spa:
+      s:
+      - chal
+    deu:
+      S:
+      - Schal
+      - Halstuch
+      - Tuch
+    fra:
+      "n":
+      - écharpe
+      - foulard
+      - châle
+    rus:
+      сущ:
+      - шарф
+      - шаль
+    zho:
+      名:
+      - 围巾
+      - 披肩
+    hin:
+      सं:
+      - दुपट्टा
+      - शॉल
+    ara:
+      اسم:
+      - وِشَاح، شَال، لَفَّة عُنُق
+  etymology:
+    derived:
+    - ketif
+    - +
+    - kumax
 keto:
   term: keto
   word class: 'tabel: pn'
@@ -344452,66 +344651,6 @@ muka:
       Karnatakasa: ಮುಖ &ldquo;mukha&rdquo;
       Pilipinasa: mukha
       Telugusa: ముఖము &ldquo;mukhamu&rdquo;
-mukakumax:
-  term: mukakumax
-  word class: b
-  category: derived
-  trans:
-    eng:
-    - - 'n: veil'
-    epo:
-    - - 's: vualo'
-    spa:
-    - - 's: velo'
-    deu:
-    - - 'S: Schleier'
-    fra:
-    - - 'n: voile (<em>tissu</em>)'
-    rus:
-    - - 'сущ: вуаль'
-      - чадра
-    zho:
-    - - '名: 面纱'
-    hin:
-    - - 'सं: घूँघट'
-      - परदा
-    ara:
-    - - 'اسم: حِجَاب، خِمَار، نِقَاب'
-  trans_v2:
-    eng:
-      "n":
-      - veil
-    epo:
-      s:
-      - vualo
-    spa:
-      s:
-      - velo
-    deu:
-      S:
-      - Schleier
-    fra:
-      "n":
-      - voile (<em>tissu</em>)
-    rus:
-      сущ:
-      - вуаль
-      - чадра
-    zho:
-      名:
-      - 面纱
-    hin:
-      सं:
-      - घूँघट
-      - परदा
-    ara:
-      اسم:
-      - حِجَاب، خِمَار، نِقَاب
-  etymology:
-    derived:
-    - muka
-    - +
-    - kumax
 mukali:
   term: mukali
   word class: t
@@ -367951,7 +368090,7 @@ ofata:
 ofcare:
   term: ofcare
   word class: b
-  category: phrase
+  category: derived
   trans:
     eng:
     - - 'n: (a) fourth'
@@ -368001,63 +368140,93 @@ ofcare:
       - رُبْع
   etymology:
     derived:
-    - ofcare
+    - of-
+    - +
+    - care
 ofcen:
   term: ofcen
   word class: b
-  category: phrase
+  category: derived
   trans:
     eng:
-    - - 'n: (one) hundredth'
+    - - 'n: one-hundredth'
+      - percent
+      - percentage
     epo:
     - - 's: centono'
+      - elcento
+      - procento
     spa:
     - - 's: centésimo'
+      - por ciento
+      - porcentaje
     deu:
     - - 'S: Hundertstel'
+      - Prozent
+      - Prozentsatz
     fra:
     - - 'n: centième'
+      - pour cent
+      - pourcentage
     rus:
     - - 'сущ: сотая'
-      - одна сотая
+      - процент
     zho:
     - - '名: 百分之一'
+      - 百分比
+      - 百分率
     hin:
-    - - 'सं: सौवाँ भाग'
+    - - 'सं: प्रतिशत'
+      - फ़ीसदी
     ara:
-    - - 'اسم: جُزْء مِن مِئَة، وَاحِد فِي المِئَة'
+    - - 'اسم: وَاحِد مِن مِئَة، بِالمِئَة، نِسْبَة مِئَوِيَّة'
   trans_v2:
     eng:
       "n":
-      - (one) hundredth
+      - one-hundredth
+      - percent
+      - percentage
     epo:
       s:
       - centono
+      - elcento
+      - procento
     spa:
       s:
       - centésimo
+      - por ciento
+      - porcentaje
     deu:
       S:
       - Hundertstel
+      - Prozent
+      - Prozentsatz
     fra:
       "n":
       - centième
+      - pour cent
+      - pourcentage
     rus:
       сущ:
       - сотая
-      - одна сотая
+      - процент
     zho:
       名:
       - 百分之一
+      - 百分比
+      - 百分率
     hin:
       सं:
-      - सौवाँ भाग
+      - प्रतिशत
+      - फ़ीसदी
     ara:
       اسم:
-      - جُزْء مِن مِئَة، وَاحِد فِي المِئَة
+      - وَاحِد مِن مِئَة، بِالمِئَة، نِسْبَة مِئَوِيَّة
   etymology:
     derived:
-    - ofcen
+    - of-
+    - +
+    - cen
 ofcori:
   term: ofcori
   word class: b.oj
@@ -368218,7 +368387,7 @@ ofcudu:
 ofdes:
   term: ofdes
   word class: b
-  category: phrase
+  category: derived
   trans:
     eng:
     - - 'n: (a) tenth'
@@ -368270,11 +368439,13 @@ ofdes:
       - عُشْر
   etymology:
     derived:
-    - ofdes
+    - of-
+    - +
+    - des
 ofdua:
   term: ofdua
   word class: b
-  category: phrase
+  category: derived
   trans:
     eng:
     - - 'n: (a) half'
@@ -368330,7 +368501,9 @@ ofdua:
       - نِصْف
   etymology:
     derived:
-    - ofdua
+    - of-
+    - +
+    - dua
 offol:
   term: offol
   word class: p
@@ -368736,7 +368909,7 @@ ofisikamer:
 oflima:
   term: oflima
   word class: b
-  category: phrase
+  category: derived
   trans:
     eng:
     - - 'n: (a) fifth'
@@ -368788,11 +368961,13 @@ oflima:
       - خُمْس
   etymology:
     derived:
-    - oflima
+    - of-
+    - +
+    - lima
 ofnue:
   term: ofnue
   word class: b
-  category: phrase
+  category: derived
   trans:
     eng:
     - - 'n: (a) ninth'
@@ -368844,11 +369019,13 @@ ofnue:
       - تُسْع
   etymology:
     derived:
-    - ofnue
+    - of-
+    - +
+    - nue
 ofoco:
   term: ofoco
   word class: b
-  category: phrase
+  category: derived
   trans:
     eng:
     - - 'n: (an) eighth'
@@ -368900,7 +369077,9 @@ ofoco:
       - ثُمْن
   etymology:
     derived:
-    - ofoco
+    - of-
+    - +
+    - oco
 ofplasi:
   term: ofplasi
   word class: b.oj
@@ -369025,7 +369204,7 @@ ofresulta:
 ofsabe:
   term: ofsabe
   word class: b
-  category: phrase
+  category: derived
   trans:
     eng:
     - - 'n: (a) seventh'
@@ -369079,11 +369258,13 @@ ofsabe:
       - سُبْع
   etymology:
     derived:
-    - ofsabe
+    - of-
+    - +
+    - sabe
 ofsisa:
   term: ofsisa
   word class: b
-  category: phrase
+  category: derived
   trans:
     eng:
     - - 'n: (a) sixth'
@@ -369135,11 +369316,13 @@ ofsisa:
       - سُدْس
   etymology:
     derived:
-    - ofsisa
+    - of-
+    - +
+    - sisa
 oftiga:
   term: oftiga
   word class: b
-  category: phrase
+  category: derived
   trans:
     eng:
     - - 'n: (a) third'
@@ -369191,7 +369374,9 @@ oftiga:
       - ثُلْث
   etymology:
     derived:
-    - oftiga
+    - of-
+    - +
+    - tiga
 ofxerca:
   term: ofxerca
   word class: b.oj
@@ -384790,7 +384975,6 @@ pasivogi:
     eng:
     - - 'n: inactivation'
     - - 'v.tr: inactivate'
-      - make (<em>something/somebody</em>) inactive
       - power off
       - switch off
       - turn off
@@ -384820,7 +385004,6 @@ pasivogi:
       - inactivation
       v.tr:
       - inactivate
-      - make (<em>something/somebody</em>) inactive
       - power off
       - switch off
       - turn off
@@ -406585,17 +406768,20 @@ pregi:
     - - 'n: summoning'
     - - 'v.tr: summon'
       - bring (forth)
+      - turn on (<em>light or fire</em>)
     epo:
     - - 's: venigo'
       - alvoko
     - - 'v.tr: venigi'
       - alvoki
+      - estigi (<em>lumon aŭ fajron</em>)
     spa:
     - - 's: convocatoria'
       - llamamiento
     - - 'v.tr: convocar'
       - hacer venir
       - llamar
+      - prender (<em>luz o fuego</em>)
     deu: []
     fra: []
     rus: []
@@ -406609,6 +406795,7 @@ pregi:
       v.tr:
       - summon
       - bring (forth)
+      - turn on (<em>light or fire</em>)
     epo:
       s:
       - venigo
@@ -406616,6 +406803,7 @@ pregi:
       v.tr:
       - venigi
       - alvoki
+      - estigi (<em>lumon aŭ fajron</em>)
     spa:
       s:
       - convocatoria
@@ -406624,6 +406812,7 @@ pregi:
       - convocar
       - hacer venir
       - llamar
+      - prender (<em>luz o fuego</em>)
     deu: []
     fra: []
     rus: []
@@ -473116,10 +473305,11 @@ tem:
     eng:
     - - 'prep: about'
       - "on"
-      - concerning
+      - of
       - regarding
       - with regard to
       - in regard to
+      - concerning
     epo:
     - - 'prep: pri'
     spa:
@@ -473137,10 +473327,11 @@ tem:
       prep:
       - about
       - "on"
-      - concerning
+      - of
       - regarding
       - with regard to
       - in regard to
+      - concerning
     epo:
       prep:
       - pri
@@ -508142,84 +508333,6 @@ weyhanta:
     - hanta
     am kompara:
       weygebo: weygebo
-weykumax:
-  term: weykumax
-  word class: b
-  category: derived
-  trans:
-    eng:
-    - - 'n: scarf'
-      - shawl
-    epo:
-    - - 's: koltuko'
-      - ŝalo
-    spa:
-    - - 's: bufanda'
-      - chal
-    deu:
-    - - 'S: Schal'
-      - Halstuch
-      - Tuch
-    fra:
-    - - 'n: écharpe'
-      - foulard
-      - châle
-    rus:
-    - - 'сущ: шарф'
-      - шаль
-    zho:
-    - - '名: 围巾'
-      - 披肩
-    hin:
-    - - 'सं: दुपट्टा'
-      - शॉल
-    ara:
-    - - 'اسم: وِشَاح، شَال، لَفَّة عُنُق'
-  trans_v2:
-    eng:
-      "n":
-      - scarf
-      - shawl
-    epo:
-      s:
-      - koltuko
-      - ŝalo
-    spa:
-      s:
-      - bufanda
-      - chal
-    deu:
-      S:
-      - Schal
-      - Halstuch
-      - Tuch
-    fra:
-      "n":
-      - écharpe
-      - foulard
-      - châle
-    rus:
-      сущ:
-      - шарф
-      - шаль
-    zho:
-      名:
-      - 围巾
-      - 披肩
-    hin:
-      सं:
-      - दुपट्टा
-      - शॉल
-    ara:
-      اسم:
-      - وِشَاح، شَال، لَفَّة عُنُق
-  etymology:
-    derived:
-    - wey-
-    - +
-    - kumax
-    natlang similar:
-      Putunhwa: 圍巾 &ldquo;weyjin&rdquo;
 weyli:
   term: weyli
   word class: t

@@ -2738,7 +2738,7 @@ awgi:
   term: awgi
   class: b.oj
   category: derived
-  translation: 's: malaperigo, forigo; v.tr: malaperigi, forigi'
+  translation: 's: malaperigo, forigo, estingo; v.tr: malaperigi, forigi, estingi'
 awglu:
   term: awglu
   class: b.oj
@@ -14810,7 +14810,7 @@ ganjon:
   term: ganjon
   class: b.lin.oj
   category: root
-  translation: 's: emocio, sento; ligv (opcia uzo de -cu): senti (<em>emocie, psikologie</em>);
+  translation: 's: emocio, sento; ligv (opcia uzo de -cu): sentiĝi (<em>emocie, psikologie</em>);
     v.tr: senti (<em>emocie, psikologie</em>)'
 ganjoncu:
   term: ganjoncu
@@ -14934,6 +14934,11 @@ gardanbendu:
   class: b
   category: derived
   translation: 's: kolĉeno, kolringo, koliero'
+gardankumax:
+  term: gardankumax
+  class: b
+  category: derived
+  translation: 's: koltuko'
 gardanvaso:
   term: gardanvaso
   class: b
@@ -16763,7 +16768,7 @@ hay:
   term: hay
   class: b.nenoj
   category: root
-  translation: 's: ekzisto; v.ntr: esti, ekzisti'
+  translation: 'v.ntr: esti, ekzisti'
 haya:
   term: Haya
   class: su n
@@ -17416,7 +17421,7 @@ hisi:
   term: hisi
   class: b.lin.oj
   category: root
-  translation: 's: sento; ligv (opcia uzo de -cu): senti; v.tr: senti'
+  translation: 's: sento; ligv (opcia uzo de -cu): sentiĝi; v.tr: senti'
 hisicu:
   term: hisicu
   class: b.lin
@@ -21365,6 +21370,11 @@ kapiexfon:
   class: b
   category: derived
   translation: 's: kapaŭskultiloj'
+kapikumax:
+  term: kapikumax
+  class: b
+  category: derived
+  translation: 's: vualo'
 kapikusen:
   term: kapikusen
   class: b
@@ -22214,6 +22224,11 @@ ketif:
   class: b
   category: root
   translation: 's: ŝultro'
+ketifkumax:
+  term: ketifkumax
+  class: b
+  category: derived
+  translation: 's: ŝalo'
 keto:
   term: keto
   class: 'tabel: pn'
@@ -29454,11 +29469,6 @@ muka:
   class: b.oj
   category: root
   translation: 's: vizaĝo: v.tr: esti vidalvide (de), esti vizaĝ-al-vizaĝe (de)'
-mukakumax:
-  term: mukakumax
-  class: b
-  category: derived
-  translation: 's: vualo'
 mukali:
   term: mukali
   class: t
@@ -31531,13 +31541,13 @@ ofata:
 ofcare:
   term: ofcare
   class: b
-  category: phrase
+  category: derived
   translation: 's: kvarono'
 ofcen:
   term: ofcen
   class: b
-  category: phrase
-  translation: 's: centono'
+  category: derived
+  translation: 's: centono, elcento, procento'
 ofcori:
   term: ofcori
   class: b.oj
@@ -31556,12 +31566,12 @@ ofcudu:
 ofdes:
   term: ofdes
   class: b
-  category: phrase
+  category: derived
   translation: 's: dekono'
 ofdua:
   term: ofdua
   class: b
-  category: phrase
+  category: derived
   translation: 's: duono'
 offol:
   term: offol
@@ -31602,17 +31612,17 @@ ofisikamer:
 oflima:
   term: oflima
   class: b
-  category: phrase
+  category: derived
   translation: 's: kvinono'
 ofnue:
   term: ofnue
   class: b
-  category: phrase
+  category: derived
   translation: 's: naŭono'
 ofoco:
   term: ofoco
   class: b
-  category: phrase
+  category: derived
   translation: 's: okono'
 ofplasi:
   term: ofplasi
@@ -31627,17 +31637,17 @@ ofresulta:
 ofsabe:
   term: ofsabe
   class: b
-  category: phrase
+  category: derived
   translation: 's: sepono'
 ofsisa:
   term: ofsisa
   class: b
-  category: phrase
+  category: derived
   translation: 's: sesono'
 oftiga:
   term: oftiga
   class: b
-  category: phrase
+  category: derived
   translation: 's: triono'
 ofxerca:
   term: ofxerca
@@ -34831,7 +34841,7 @@ pregi:
   term: pregi
   class: b.oj
   category: derived
-  translation: 's: venigo, alvoko; v.tr: venigi, alvoki'
+  translation: 's: venigo, alvoko; v.tr: venigi, alvoki, estigi (<em>lumon aŭ fajron</em>)'
 prehay:
   term: prehay
   class: b.nenoj
@@ -43500,11 +43510,6 @@ weyhanta:
   class: b.oj
   category: derived
   translation: 's: manpremo; v.tr: manpremi'
-weykumax:
-  term: weykumax
-  class: b
-  category: derived
-  translation: 's: koltuko, ŝalo'
 weyli:
   term: weyli
   class: t

@@ -2782,7 +2782,7 @@ awgi:
   class: b.oj
   category: derived
   translation: 's: eliminaci&oacute;n; v.tr: hacer desaparecer, eliminar, deshacerse
-    de'
+    de, extinguir, apagar (<em>luz o fuego</em>)'
 awglu:
   term: awglu
   class: b.oj
@@ -14934,7 +14934,7 @@ ganjon:
   term: ganjon
   class: b.lin.oj
   category: root
-  translation: 's: emoci&oacute;n, sentimiento; v.cop (uso opcional de -cu): sentir
+  translation: 's: emoci&oacute;n, sentimiento; v.cop (uso opcional de -cu): sentirse
     (<em>emocionalmente, psicol&oacute;gicamente</em>); v.tr: sentir (<em>emocionalmente,
     psicol&oacute;gicamente</em>)'
 ganjoncu:
@@ -15060,6 +15060,11 @@ gardanbendu:
   class: b
   category: derived
   translation: 's: collar'
+gardankumax:
+  term: gardankumax
+  class: b
+  category: derived
+  translation: 's: bufanda'
 gardanvaso:
   term: gardanvaso
   class: b
@@ -16894,7 +16899,7 @@ hay:
   term: hay
   class: b.nenoj
   category: root
-  translation: 's: existencia, presencia; v.intr: existir, haber'
+  translation: 'v.intr: haber, existir'
 haya:
   term: Haya
   class: su n
@@ -17557,7 +17562,7 @@ hisi:
   term: hisi
   class: b.lin.oj
   category: root
-  translation: 's: sensaci&oacute;n, sentimiento; v.cop (uso opcional de -cu): sentir;
+  translation: 's: sensaci&oacute;n, sentimiento; v.cop (uso opcional de -cu): sentirse;
     v.tr: sentir'
 hisicu:
   term: hisicu
@@ -21539,6 +21544,11 @@ kapiexfon:
   class: b
   category: derived
   translation: 's: aud&iacute;fonos, auriculares'
+kapikumax:
+  term: kapikumax
+  class: b
+  category: derived
+  translation: 's: velo'
 kapikusen:
   term: kapikusen
   class: b
@@ -22389,6 +22399,11 @@ ketif:
   class: b
   category: root
   translation: 's: hombro'
+ketifkumax:
+  term: ketifkumax
+  class: b
+  category: derived
+  translation: 's: chal'
 keto:
   term: keto
   class: 'tabel: pn'
@@ -29685,11 +29700,6 @@ muka:
   category: root
   translation: 's: cara, rostro; v.tr: estar cara a cara (con), estar frente a frente
     (con)'
-mukakumax:
-  term: mukakumax
-  class: b
-  category: derived
-  translation: 's: velo'
 mukali:
   term: mukali
   class: t
@@ -31776,13 +31786,13 @@ ofata:
 ofcare:
   term: ofcare
   class: b
-  category: phrase
+  category: derived
   translation: 's: cuarto'
 ofcen:
   term: ofcen
   class: b
-  category: phrase
-  translation: 's: cent&eacute;simo'
+  category: derived
+  translation: 's: cent&eacute;simo, por ciento, porcentaje'
 ofcori:
   term: ofcori
   class: b.oj
@@ -31801,12 +31811,12 @@ ofcudu:
 ofdes:
   term: ofdes
   class: b
-  category: phrase
+  category: derived
   translation: 's: d&eacute;cimo'
 ofdua:
   term: ofdua
   class: b
-  category: phrase
+  category: derived
   translation: 's: mitad'
 offol:
   term: offol
@@ -31847,17 +31857,17 @@ ofisikamer:
 oflima:
   term: oflima
   class: b
-  category: phrase
+  category: derived
   translation: 's: quinto'
 ofnue:
   term: ofnue
   class: b
-  category: phrase
+  category: derived
   translation: 's: noveno'
 ofoco:
   term: ofoco
   class: b
-  category: phrase
+  category: derived
   translation: 's: octavo'
 ofplasi:
   term: ofplasi
@@ -31872,17 +31882,17 @@ ofresulta:
 ofsabe:
   term: ofsabe
   class: b
-  category: phrase
+  category: derived
   translation: 's: s&eacute;ptimo'
 ofsisa:
   term: ofsisa
   class: b
-  category: phrase
+  category: derived
   translation: 's: sexto'
 oftiga:
   term: oftiga
   class: b
-  category: phrase
+  category: derived
   translation: 's: tercio'
 ofxerca:
   term: ofxerca
@@ -35099,7 +35109,8 @@ pregi:
   term: pregi
   class: b.oj
   category: derived
-  translation: 's: convocatoria, llamamiento; v.tr: convocar, hacer venir, llamar'
+  translation: 's: convocatoria, llamamiento; v.tr: convocar, hacer venir, llamar,
+    prender (<em>luz o fuego</em>)'
 prehay:
   term: prehay
   class: b.nenoj
@@ -43828,11 +43839,6 @@ weyhanta:
   category: derived
   translation: 's: apret&oacute;n de manos; v.tr: dar la mano (a), estrechar la mano
     (a)'
-weykumax:
-  term: weykumax
-  class: b
-  category: derived
-  translation: 's: bufanda, chal'
 weyli:
   term: weyli
   class: t
