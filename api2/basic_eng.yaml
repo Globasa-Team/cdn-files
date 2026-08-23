@@ -1784,7 +1784,7 @@ ansyado:
   term: ansyado
   class: t
   category: derived
-  translation: 'adj: anxious; adv: anxiously'
+  translation: 'adj: anxious, nervous; adv: anxiously, nervously'
 ansyafil:
   term: ansyafil
   class: t
@@ -1800,7 +1800,7 @@ ansyapul:
   class: t
   category: derived
   translation: 'adj (for inanimate nouns): anxiety-inducing; adj (for animate nouns):
-    anxious; adv (for animate nouns): anxiously'
+    anxious, nervous; adv (for animate nouns): anxiously, nervously'
 antartiko:
   term: Antartiko
   class: su n
@@ -2557,6 +2557,16 @@ atexcunenabil:
   class: t
   category: derived
   translation: 'adj: fireproof'
+atexlori:
+  term: atexlori
+  class: b
+  category: derived
+  translation: 'n: fire truck, fire engine'
+atexloriyen:
+  term: atexloriyen
+  class: b
+  category: derived
+  translation: 'n: fire fighter'
 atexmon:
   term: atexmon
   class: b
@@ -3354,6 +3364,11 @@ bakgamon:
   class: b
   category: root
   translation: 'n: backgammon'
+baklava:
+  term: baklava
+  class: b
+  category: root
+  translation: 'n: baklava'
 bakuteri:
   term: bakuteri
   class: b
@@ -3666,6 +3681,11 @@ banyo:
   class: b.oj
   category: root
   translation: 'n: bath; v.tr: bathe'
+banyohoza:
+  term: banyohoza
+  class: b
+  category: derived
+  translation: 'n: bathtub, bath, tub'
 banyokamer:
   term: banyokamer
   class: b
@@ -4129,6 +4149,11 @@ baxjungwi:
   class: b
   category: derived
   translation: 'n: ensign, second lieutenant, cornet'
+baxlabas:
+  term: baxlabas
+  class: b
+  category: derived
+  translation: 'n: underwear, undergarments'
 baxli:
   term: baxli
   class: t
@@ -6421,6 +6446,11 @@ celki:
   category: derived
   translation: 'conj: so that, in order that, in order for (<em>followed by: noun
     phrase + infinitive</em>)'
+celsyus:
+  term: celsyus
+  class: b
+  category: root
+  translation: 'n: celsius, centigrade, <em>&deg;C</em>'
 celul:
   term: celul
   class: b
@@ -9837,16 +9867,16 @@ dudando:
   class: t
   category: derived
   translation: 'adj: smoked'
+dudanpaypu:
+  term: dudanpaypu
+  class: b
+  category: derived
+  translation: 'n: chimney, smokestack, stovepipe'
 dudanse:
   term: dudanse
   class: b
   category: derived
   translation: 'n: dancing (<em>the act or practice of</em>)'
-dudantubo:
-  term: dudantubo
-  class: b
-  category: derived
-  translation: 'n: chimney, smokestack, stovepipe'
 dudanyen:
   term: dudanyen
   class: b
@@ -11351,6 +11381,11 @@ esportu:
   class: b
   category: root
   translation: 'n: sport'
+esportudom:
+  term: esportudom
+  class: b
+  category: derived
+  translation: 'n: stadium'
 esportuyen:
   term: esportuyen
   class: b
@@ -12430,7 +12465,7 @@ farxu:
   term: farxu
   class: b
   category: root
-  translation: 'n: carpet'
+  translation: 'n: carpet, rug'
 farxudo:
   term: farxudo
   class: t
@@ -12717,6 +12752,11 @@ fe_fini:
   class: p jm
   category: phrase
   translation: 'prep phrs: finally, at last, at the end'
+fe_fol_fe:
+  term: fe fol fe
+  class: p
+  category: derived
+  translation: 'prep: (acting) as, in the capacity of'
 fe_folo:
   term: fe folo
   class: p jm
@@ -15121,6 +15161,11 @@ gasolin:
   class: b
   category: root
   translation: 'n: gasoline, gas, petrol'
+gasolindom:
+  term: gasolindom
+  class: b
+  category: derived
+  translation: 'n: filling station, gas station, petrol station'
 gaspul:
   term: gaspul
   class: t
@@ -15724,6 +15769,11 @@ gonali:
   class: t
   category: derived
   translation: 'adj: angular (<em>of or relating to</em>); adv: angularly'
+gonameter:
+  term: gonameter
+  class: b
+  category: derived
+  translation: 'n: protractor'
 gonapul:
   term: gonapul
   class: t
@@ -16432,6 +16482,11 @@ halke:
   class: b
   category: root
   translation: 'n: ring (<em>circular object</em>), hoop'
+halkefolder:
+  term: halkefolder
+  class: b
+  category: derived
+  translation: 'n: (ring) binder'
 halow:
   term: halow
   class: b.oj; il
@@ -17346,6 +17401,11 @@ hifazido:
   class: t
   category: derived
   translation: 'adj: held, kept, saved, stored, retained'
+hijabu:
+  term: hijabu
+  class: b
+  category: root
+  translation: 'n: hijab'
 hijera:
   term: hijera
   class: b.nenoj
@@ -19801,6 +19861,11 @@ jaror:
   class: b
   category: root
   translation: 'n: drawer'
+jarormesa:
+  term: jarormesa
+  class: b
+  category: derived
+  translation: 'n: counter (<em>kitchen, bathroom</em>)'
 jaru:
   term: jaru
   class: b.oj
@@ -20258,6 +20323,11 @@ jiu:
   class: b.nenoj
   category: root
   translation: 'n: alcoholic drink, booze; v.intr: drink (alcohol)'
+jiudom:
+  term: jiudom
+  class: b
+  category: derived
+  translation: 'n: bar, pub, tavern'
 jiudomyen:
   term: jiudomyen
   class: b
@@ -20518,16 +20588,6 @@ juipul:
   class: t
   category: derived
   translation: 'adj: careful, cautious; adv: carefully, cautiously'
-juitim:
-  term: juitim
-  class: b
-  category: derived
-  translation: 'n: audience, spectators'
-juitimdom:
-  term: juitimdom
-  class: b
-  category: derived
-  translation: 'n: auditorium'
 jujwe:
   term: jujwe
   class: b.oj
@@ -20940,6 +21000,11 @@ kadro:
   class: b
   category: root
   translation: 'n: frame (<em>picture, bike, building</em>), framework, cadre'
+kadroimaje:
+  term: kadroimaje
+  class: b
+  category: derived
+  translation: 'n: framed picture'
 kafare:
   term: kafare
   class: b.oj
@@ -20990,6 +21055,11 @@ kafemaxina:
   class: b
   category: derived
   translation: 'n: coffee machine, coffee maker'
+kafemesa:
+  term: kafemesa
+  class: b
+  category: derived
+  translation: 'n: coffee table'
 kafur:
   term: kafur
   class: b
@@ -23790,7 +23860,7 @@ krasiyen:
   term: krasiyen
   class: b
   category: derived
-  translation: 'n: ruler'
+  translation: 'n: ruler (<em>person</em>)'
 krater:
   term: krater
   class: b
@@ -24279,6 +24349,11 @@ kusen:
   class: b
   category: root
   translation: 'n: cushion'
+kuskus:
+  term: kuskus
+  class: b
+  category: root
+  translation: 'n: couscous'
 kustardi:
   term: kustardi
   class: b
@@ -27164,6 +27239,11 @@ markado:
   class: t
   category: derived
   translation: 'adj: marked'
+markatul:
+  term: markatul
+  class: b
+  category: derived
+  translation: 'n: marker (pen)'
 marko:
   term: Marko
   class: su n
@@ -27837,7 +27917,7 @@ medan:
   term: medan
   class: b
   category: root
-  translation: 'n: field, range, court, courtyard, yard, patio'
+  translation: 'n: field, range, court'
 medis:
   term: medis
   class: b.oj
@@ -28360,6 +28440,11 @@ meter:
   class: b.oj
   category: root
   translation: 'n: measuring device; v.tr: measure'
+metergumbo:
+  term: metergumbo
+  class: b
+  category: derived
+  translation: 'n: ruler (<em>measuring device</em>)'
 meterya:
   term: meterya
   class: b
@@ -29759,6 +29844,11 @@ murto:
   class: b
   category: root
   translation: 'n: myrtle, <em>Myrtus</em>'
+musafer:
+  term: musafer
+  class: b
+  category: root
+  translation: 'n: passenger'
 museum:
   term: museum
   class: b
@@ -30552,7 +30642,7 @@ nenixu:
   term: nenixu
   class: b
   category: derived
-  translation: 'n: minor'
+  translation: 'n: minor (<em>underage person</em>)'
 nenjenmindo:
   term: nenjenmindo
   class: t
@@ -31261,6 +31351,11 @@ noceli:
   class: t
   category: derived
   translation: 'adj: nocturnal, nighttime; adv: nocturnally'
+nocemesa:
+  term: nocemesa
+  class: b
+  category: derived
+  translation: 'n: nightstand, night table, bedside table'
 nohudu:
   term: nohudu
   class: b
@@ -32015,6 +32110,26 @@ okonenible:
   class: t
   category: derived
   translation: 'adj: invisible; adv: invisibly'
+okoore:
+  term: okoore
+  class: b.oj
+  category: derived
+  translation: 'v.tr: spectate'
+okooredom:
+  term: okooredom
+  class: b
+  category: derived
+  translation: 'n: auditorium'
+okooretim:
+  term: okooretim
+  class: b
+  category: derived
+  translation: 'n: audience, spectators'
+okooreyen:
+  term: okooreyen
+  class: b
+  category: derived
+  translation: 'n: spectator'
 okoxey:
   term: okoxey
   class: b
@@ -32029,7 +32144,7 @@ okoyen:
   term: okoyen
   class: b
   category: derived
-  translation: 'n: viewer, spectator, onlooker'
+  translation: 'n: viewer, onlooker'
 okre:
   term: okre
   class: b
@@ -33254,6 +33369,11 @@ patu:
   class: b.oj
   category: root
   translation: 'n: stalemate, tie, draw; v.tr: stalemate, tie, draw'
+patyo:
+  term: patyo
+  class: b
+  category: root
+  translation: 'n: patio, yard, courtyard'
 pavilyon:
   term: pavilyon
   class: b
@@ -33495,6 +33615,11 @@ pensil:
   class: b
   category: root
   translation: 'n: pencil'
+pensiltejamgitul:
+  term: pensiltejamgitul
+  class: b
+  category: derived
+  translation: 'n: penci sharpener'
 pentu:
   term: pentu
   class: b.oj
@@ -33590,6 +33715,11 @@ perforado:
   class: t
   category: derived
   translation: 'adj: perforated, punctured'
+perforatul:
+  term: perforatul
+  class: b
+  category: derived
+  translation: 'n: hole puncher'
 pergeocu:
   term: pergeocu
   class: b.nenoj
@@ -35328,6 +35458,11 @@ proyeksido:
   class: t
   category: derived
   translation: 'adj: projected'
+proyeksitora:
+  term: proyeksitora
+  class: b
+  category: derived
+  translation: 'n: projector'
 prumu:
   term: prumu
   class: b
@@ -36938,8 +37073,8 @@ sakfuarko:
   class: b
   category: derived
   translation: 'n: vault'
-sakfudom:
-  term: sakfudom
+sakfukamer:
+  term: sakfukamer
   class: b
   category: derived
   translation: 'n: attic, loft'
@@ -37328,6 +37463,11 @@ sari:
   class: b
   category: root
   translation: 'n: starling, <em>Sturnidae</em>'
+sari_labas:
+  term: sari
+  class: b
+  category: root
+  translation: 'n: sari'
 sarjenti:
   term: sarjenti
   class: b
@@ -37338,6 +37478,11 @@ sarkasmo:
   class: b
   category: root
   translation: 'n: sarcasm'
+sarongi:
+  term: sarongi
+  class: b
+  category: root
+  translation: 'n: sarong'
 sarpen:
   term: sarpen
   class: b
@@ -37732,11 +37877,6 @@ seli:
   class: t
   category: derived
   translation: 'adj: self (<em>of or relating to</em>)'
-selsyus:
-  term: selsyus
-  class: b
-  category: root
-  translation: 'n: celsius, centigrade, <em>&deg;C</em>'
 semasturba:
   term: semasturba
   class: b.nenoj
@@ -38096,6 +38236,11 @@ servido:
   class: t
   category: derived
   translation: 'adj: served'
+servimesa:
+  term: servimesa
+  class: b
+  category: derived
+  translation: 'n: counter (<em>shop, service</em>)'
 servimusiya:
   term: servimusiya
   class: b
@@ -38782,6 +38927,11 @@ sofa:
   class: b
   category: root
   translation: 'n: sofa, couch'
+sofakamer:
+  term: sofakamer
+  class: b
+  category: derived
+  translation: 'n: living room, lounge (room), sitting room'
 sofi:
   term: sofi
   class: b
@@ -39044,8 +39194,8 @@ sonxi:
   term: sonxi
   class: b.oro
   category: root
-  translation: 'n: loss; v.tr: lose (<em>opposite of ewreka</em>); v.intr (optional
-    -cu): get lost'
+  translation: 'n: loss; v.tr: lose (<em>opposite of find</em>), misplace; v.intr
+    (optional -cu): get lost'
 sonxicu:
   term: sonxicu
   class: b.nenoj
@@ -39272,6 +39422,11 @@ suhegi:
   class: b.oj
   category: derived
   translation: 'n: drying; v.tr: dry, make (<em>something/somebody</em>) dry'
+suhegitora:
+  term: suhegitora
+  class: b
+  category: derived
+  translation: 'n: dryer'
 suhegras:
   term: suhegras
   class: b
@@ -41056,6 +41211,11 @@ termopul:
   class: t
   category: derived
   translation: 'adj: warm, hot; adv: warmly, hotly'
+termopul_kakao:
+  term: termopul kakao
+  class: b
+  category: derived
+  translation: 'n: hot chocolate, hot cocoa'
 teror:
   term: teror
   class: b.oj
@@ -41337,6 +41497,11 @@ tofabroxa:
   class: b
   category: derived
   translation: 'n: hairbrush'
+tofadom:
+  term: tofadom
+  class: b
+  category: derived
+  translation: 'n: barber shop, hair salon'
 tofakal:
   term: tofakal
   class: t
@@ -43061,6 +43226,11 @@ ventotul:
   class: b
   category: derived
   translation: 'n: fan (<em>ventilation</em>)'
+veranda:
+  term: veranda
+  class: b
+  category: root
+  translation: 'n: porch, veranda'
 versyon:
   term: versyon
   class: b
@@ -43850,6 +44020,16 @@ woxado:
   class: t
   category: derived
   translation: 'adj: washed'
+woxahoza:
+  term: woxahoza
+  class: b
+  category: derived
+  translation: 'n: sink, (wash)basin, washbin'
+woxakamer:
+  term: woxakamer
+  class: b
+  category: derived
+  translation: 'n: laundry room'
 woxatora:
   term: woxatora
   class: b
@@ -44928,7 +45108,7 @@ xorwala:
   term: xorwala
   class: b.oj
   category: derived
-  translation: 'n: loss; v.tr: lose'
+  translation: 'n: loss; v.tr: lose (<em>opposite of gain</em>)'
 xorwalado:
   term: xorwalado
   class: t
@@ -45242,6 +45422,11 @@ yamkamer:
   class: b
   category: derived
   translation: 'n: dining room'
+yammesa:
+  term: yammesa
+  class: b
+  category: derived
+  translation: 'n: dining table'
 yamnenible:
   term: yamnenible
   class: t
@@ -45865,6 +46050,11 @@ zabatudo:
   class: t
   category: derived
   translation: 'adj: confiscated, expropriated, seized, forfeited, sequestrated, commandeered'
+zafiro:
+  term: zafiro
+  class: b
+  category: root
+  translation: 'n: sapphire'
 zakaria:
   term: Zakaria
   class: su n
