@@ -783,6 +783,11 @@ akonto:
   class: b
   category: root
   translation: 's: cuenta'
+akontoyen:
+  term: akontoyen
+  class: b
+  category: derived
+  translation: 's: contador p&uacute;blico, contable'
 akorde:
   term: akorde
   class: b
@@ -4126,6 +4131,11 @@ baxgeoli:
   class: t
   category: derived
   translation: 'adj: subterr&aacute;neo; adv: bajo tierra'
+baxgeotren:
+  term: baxgeotren
+  class: b
+  category: derived
+  translation: 's: metro'
 baxgi:
   term: baxgi
   class: b.oj
@@ -5015,6 +5025,11 @@ bofunpul:
   class: t
   category: derived
   translation: 'adj: tormentoso, borrascoso'
+bogal:
+  term: bogal
+  class: b
+  category: derived
+  translation: 's: axila'
 bohay:
   term: bohay
   class: b.oj
@@ -5176,6 +5191,11 @@ bonlexi:
   class: b
   category: derived
   translation: 's: eufemismo'
+bonnasacu:
+  term: bonnasacu
+  class: b.nenoj
+  category: derived
+  translation: 'n: aroma, fragancia'
 bonnuru:
   term: bonnuru
   class: il
@@ -5730,7 +5750,7 @@ bumgi:
   term: bumgi
   class: b.oj
   category: derived
-  translation: 's: detonaci&oacute;n; v.tr: detonar, hacer detonar'
+  translation: 's: detonaci&oacute;n; v.tr: detonar, hacer detonar, volar'
 bumgitul:
   term: bumgitul
   class: b
@@ -7067,6 +7087,11 @@ cotecu:
   class: b.nenoj
   category: derived
   translation: 's: disminuci&oacute;n; v.intr: hacerse m&aacute;s bajo, bajar'
+cotedwan:
+  term: cotedwan
+  class: b
+  category: derived
+  translation: 's: valle, depresi&oacute;n, fondo, punto (m&aacute;s) bajo'
 cotegi:
   term: cotegi
   class: b.oj
@@ -7763,6 +7788,11 @@ davaikawyen:
   class: b
   category: derived
   translation: 's: drogadicto'
+davayen:
+  term: davayen
+  class: b
+  category: derived
+  translation: 's: farmac&eacute;utico, boticario'
 david:
   term: David
   class: su n
@@ -10286,6 +10316,11 @@ dyer:
   class: t
   category: root
   translation: 'adj: tard&iacute;o; adv: tarde'
+dyernuru:
+  term: dyernuru
+  class: b
+  category: derived
+  translation: 's: tarde (<em>tiempo del d&iacute;a</em>)'
 dyerya:
   term: dyerya
   class: b
@@ -14347,6 +14382,11 @@ fototul:
   class: b
   category: derived
   translation: 's: c&aacute;mara (fotogr&aacute;fica)'
+fotoyen:
+  term: fotoyen
+  class: b
+  category: derived
+  translation: 's: fot&oacute;grafo'
 francisko:
   term: Francisko
   class: su n
@@ -15035,6 +15075,12 @@ gaodarajeli:
   class: t
   category: derived
   translation: 'adj: avanzado'
+gaodwan:
+  term: gaodwan
+  class: b
+  category: derived
+  translation: 's: cima, cumbre, pico, apogeo, punto (m&aacute;s) alto, punto &aacute;lgido,
+    cl&iacute;max'
 gaoeskol:
   term: gaoeskol
   class: b
@@ -15874,6 +15920,11 @@ gowan:
   class: b
   category: root
   translation: 's: test&iacute;culo'
+gowanbao:
+  term: gowanbao
+  class: b
+  category: derived
+  translation: 's: skroto'
 gowanli:
   term: gowanli
   class: t
@@ -20503,9 +20554,9 @@ jongu:
   translation: 's: especie'
 jotay:
   term: jotay
-  class: b
+  class: b.lin
   category: root
-  translation: 's: estado, condici&oacute;n'
+  translation: 's: estado, condici&oacute;n; v.cop: estar'
 jotaybon:
   term: jotaybon
   class: t
@@ -22067,6 +22118,11 @@ katerin:
   class: su n
   category: proper word
   translation: 'n prop: Catalina'
+kati:
+  term: kati
+  class: b.oj
+  category: root
+  translation: 's: recorte, poda; v.tr: recortar, podar'
 katina:
   term: katina
   class: t
@@ -23739,7 +23795,7 @@ kosta:
   term: kosta
   class: b
   category: root
-  translation: 's: costa, orilla'
+  translation: 's: costa'
 kostante:
   term: kostante
   class: t
@@ -25113,6 +25169,11 @@ lefeatrelogi:
   class: b
   category: derived
   translation: 's: genealog&iacute;a'
+lefeaxam:
+  term: lefeaxam
+  class: b
+  category: derived
+  translation: 's: tarde (<em>antes del atardecer</em>)'
 lefeeksame:
   term: lefeeksame
   class: b
@@ -28099,6 +28160,16 @@ mekuku:
   class: b
   category: root
   translation: 's: lanzadera'
+mekukubus:
+  term: mekukubus
+  class: b
+  category: derived
+  translation: 's: autob&uacute;s de enlace, autob&uacute;s lanzadera'
+mekukunavi:
+  term: mekukunavi
+  class: b
+  category: derived
+  translation: 's: ferri, transbordador'
 melankoli:
   term: melankoli
   class: t
@@ -28118,7 +28189,7 @@ meli:
   term: meli
   class: t
   category: root
-  translation: 'adj: hermoso, bello, bonito; adv: bellamente, hermosamente'
+  translation: 'adj: hermoso, bello, bonito, guapo; adv: bellamente, hermosamente'
 melibon:
   term: melibon
   class: t
@@ -28566,6 +28637,11 @@ meydeypul:
   class: t
   category: derived
   translation: 'adj: urgente; adv: urgentemente, con urgencia'
+meydeyvan:
+  term: meydeyvan
+  class: b
+  category: derived
+  translation: 's: ambulancia'
 meykapu:
   term: meykapu
   class: b.oj
@@ -29543,6 +29619,11 @@ motor:
   class: b
   category: root
   translation: 's: motor'
+motorcalun:
+  term: motorcalun
+  class: b
+  category: derived
+  translation: 's: motocicleta'
 motormenxar:
   term: motormenxar
   class: b
@@ -30313,6 +30394,11 @@ nasafono:
   class: b
   category: derived
   translation: 's: nasal'
+nasahongu:
+  term: nasahongu
+  class: b
+  category: derived
+  translation: 's: narina, ventana'
 nasakumax:
   term: nasakumax
   class: b
@@ -30897,6 +30983,11 @@ nenton:
   class: p
   category: derived
   translation: 'prep: sin, aparte de (<em>separado de</em>)'
+nentrankwilo:
+  term: nentrankwilo
+  class: t
+  category: derived
+  translation: 'adj: inquieto, tenso'
 nentu:
   term: nentu
   class: b
@@ -33515,6 +33606,11 @@ paypu:
   class: b
   category: root
   translation: 's: tuber&iacute;a, conducto'
+paypuyen:
+  term: paypuyen
+  class: b
+  category: derived
+  translation: 's: fontanero,&nbsp;plomero'
 peari:
   term: peari
   class: b
@@ -35120,6 +35216,11 @@ postamarka:
   class: b
   category: derived
   translation: 's: estampilla, sello (postal)'
+postayen:
+  term: postayen
+  class: b
+  category: derived
+  translation: 's: cartero'
 posti:
   term: posti
   class: b.oj
@@ -35130,6 +35231,11 @@ postido:
   class: t
   category: derived
   translation: 'adj: fijado, publicado, exhibido'
+postrankwilo:
+  term: postrankwilo
+  class: t
+  category: derived
+  translation: 'adj: inquieto, perturbado, tenso'
 postriunfa:
   term: postriunfa
   class: b.oj
@@ -35434,6 +35540,11 @@ programa:
   class: b.oj
   category: root
   translation: 's: programa; v.tr: programar'
+programayen:
+  term: programayen
+  class: b
+  category: derived
+  translation: 's: programador'
 projeto:
   term: projeto
   class: b
@@ -38484,9 +38595,9 @@ sidetul:
   translation: 's: asiento'
 sifa:
   term: sifa
-  class: b
+  class: b.lin
   category: root
-  translation: 's: caracter&iacute;stica, rasgo, atributo'
+  translation: 's: caracter&iacute;stica, rasgo, atributo; v.cop: ser (<em>caracter&iacute;sticamente</em>)'
 sifabon:
   term: sifabon
   class: t
@@ -41225,6 +41336,11 @@ termoabil:
   class: t
   category: derived
   translation: 'adj: calefactor, que calienta'
+termobalon:
+  term: termobalon
+  class: b
+  category: derived
+  translation: 's: globo (aerost&aacute;tico)'
 termocu:
   term: termocu
   class: b.nenoj
@@ -41342,8 +41458,8 @@ tesu_to:
   class: su pn
   category: phrase
   translation: 'pron pos (cosa de ser): el suyo, la suya'
-teve:
-  term: teve
+tevi:
+  term: tevi
   class: b
   category: root
   translation: 's: televisor, televisi&oacute;n'
@@ -41532,6 +41648,11 @@ titulodo:
   class: t
   category: derived
   translation: 'adj: titulado'
+tixerti:
+  term: tixerti
+  class: b
+  category: derived
+  translation: 's: camiseta'
 to:
   term: to
   class: pn
@@ -43291,6 +43412,16 @@ vento:
   class: b
   category: root
   translation: 's: viento'
+ventokumax:
+  term: ventokumax
+  class: b
+  category: derived
+  translation: 's: vela'
+ventonavi:
+  term: ventonavi
+  class: b
+  category: derived
+  translation: 's: embarcaci&oacute;n a vela, velero'
 ventopul:
   term: ventopul
   class: t
@@ -44233,7 +44364,7 @@ xafesoba:
   term: xafesoba
   class: b
   category: derived
-  translation: 's: tarde'
+  translation: 's: tarde (<em>despu&eacute;s del mediod&iacute;a</em>)'
 xafexengili:
   term: xafexengili
   class: t

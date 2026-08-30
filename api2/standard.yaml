@@ -188,6 +188,8 @@
   etymology:
     am oko:
       cudu: cudu
+    natlang:
+      Putunhwa: 成 &ldquo;ceng&rdquo;
 -day:
   term: -day
   word class: t xfik
@@ -9270,6 +9272,46 @@ akonto:
       Pilipinasa: akawnt, kuwenta
       Rusisa: аккаунт &ldquo;akkaunt&rdquo;
       Swahilisa: akaunti
+akontoyen:
+  term: akontoyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: accountant'
+    epo:
+    - - 's: kontisto'
+    spa:
+    - - 's: contador público'
+      - contable
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - accountant
+    epo:
+      s:
+      - kontisto
+    spa:
+      s:
+      - contador público
+      - contable
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - akonto
+    - +
+    - -yen
 akorde:
   term: akorde
   word class: b
@@ -47955,6 +47997,52 @@ baxgeoli:
     - geo
     - +
     - -li
+baxgeotren:
+  term: baxgeotren
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: subway'
+      - metro
+    epo:
+    - - 's: metroo'
+      - metropoliteno
+      - subtrajno
+    spa:
+    - - 's: metro'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - subway
+      - metro
+    epo:
+      s:
+      - metroo
+      - metropoliteno
+      - subtrajno
+    spa:
+      s:
+      - metro
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - bax-
+    - +
+    - geo
+    - +
+    - tren
 baxgi:
   term: baxgi
   word class: b.oj
@@ -58948,6 +59036,44 @@ bofunpul:
     - bofun
     - +
     - -pul
+bogal:
+  term: bogal
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: armpit'
+    epo:
+    - - 's: akselo'
+    spa:
+    - - 's: axila'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - armpit
+    epo:
+      s:
+      - akselo
+    spa:
+      s:
+      - axila
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Bengalisa: বগল &ldquo;bogol&rdquo;
+      Hindi: बग़ल &ldquo;bagal&rdquo;
+      Parsisa: زیر&nbsp;بغل &ldquo;zire bagal&rdquo;
 bohay:
   term: bohay
   word class: b.oj
@@ -60770,6 +60896,52 @@ bonlexi:
     - bon-
     - +
     - lexi
+bonnasacu:
+  term: bonnasacu
+  word class: b.nenoj
+  category: derived
+  trans:
+    eng:
+    - - 'n: aroma'
+      - frangrance
+    epo:
+    - - 's: bonodoro'
+      - aromo
+    spa:
+    - - 'n: aroma'
+      - fragancia
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - aroma
+      - frangrance
+    epo:
+      s:
+      - bonodoro
+      - aromo
+    spa:
+      "n":
+      - aroma
+      - fragancia
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - bon-
+    - +
+    - nasa
+    - +
+    - -cu
 bonnuru:
   term: bonnuru
   word class: il
@@ -67114,13 +67286,17 @@ bumgi:
     eng:
     - - 'n: detonation'
     - - 'v.tr: detonate'
+      - blow up
     epo:
     - - 's: detonacio'
+      - eksplodigo
     - - 'v.tr: detonacii'
+      - ekplodigi
     spa:
     - - 's: detonación'
     - - 'v.tr: detonar'
       - hacer detonar
+      - volar
     deu: []
     fra: []
     rus: []
@@ -67133,17 +67309,21 @@ bumgi:
       - detonation
       v.tr:
       - detonate
+      - blow up
     epo:
       s:
       - detonacio
+      - eksplodigo
       v.tr:
       - detonacii
+      - ekplodigi
     spa:
       s:
       - detonación
       v.tr:
       - detonar
       - hacer detonar
+      - volar
     deu: []
     fra: []
     rus: []
@@ -82502,6 +82682,59 @@ cotecu:
     - cote
     - +
     - -cu
+cotedwan:
+  term: cotedwan
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: trough'
+      - low point
+    epo:
+    - - 's: valo'
+      - fundo
+      - malalta punkto
+    spa:
+    - - 's: valle'
+      - depresión
+      - fondo
+      - punto (más) bajo
+    deu:
+    - - Tiefpunkt
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - trough
+      - low point
+    epo:
+      s:
+      - valo
+      - fundo
+      - malalta punkto
+    spa:
+      s:
+      - valle
+      - depresión
+      - fondo
+      - punto (más) bajo
+    deu:
+      "":
+      - Tiefpunkt
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - cote
+    - +
+    - dwan
 cotegi:
   term: cotegi
   word class: b.oj
@@ -90792,6 +91025,50 @@ davaikawyen:
     - dava
     - +
     - ikaw
+    - +
+    - -yen
+davayen:
+  term: davayen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: pharmacist'
+      - druggist
+    epo:
+    - - 's: apotekisto'
+      - farmaciisto
+    spa:
+    - - 's: farmacéutico'
+      - boticario
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - pharmacist
+      - druggist
+    epo:
+      s:
+      - apotekisto
+      - farmaciisto
+    spa:
+      s:
+      - farmacéutico
+      - boticario
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - dava
     - +
     - -yen
 david:
@@ -119285,6 +119562,44 @@ dyer:
     natlang:
       Hindi: देर &ldquo;der&rdquo;
       Parsisa: دیر &ldquo;dir&rdquo;
+dyernuru:
+  term: dyernuru
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: afternoon'
+    epo:
+    - - 's: posttagmezo'
+    spa:
+    - - 's: tarde (<em>tiempo del día</em>)'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - afternoon
+    epo:
+      s:
+      - posttagmezo
+    spa:
+      s:
+      - tarde (<em>tiempo del día</em>)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - dyer
+    - +
+    - nuru
 dyerya:
   term: dyerya
   word class: b
@@ -164640,6 +164955,44 @@ fototul:
     - foto
     - +
     - -tul
+fotoyen:
+  term: fotoyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: photographer'
+    epo:
+    - - 's: fotisto'
+    spa:
+    - - 's: fotógrafo'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - photographer
+    epo:
+      s:
+      - fotisto
+    spa:
+      s:
+      - fotógrafo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - foto
+    - +
+    - -yen
 francisko:
   term: Francisko
   word class: su n
@@ -172766,6 +173119,77 @@ gaodarajeli:
     - daraje
     - +
     - -li
+gaodwan:
+  term: gaodwan
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: peak'
+      - summit
+      - high point
+      - climax
+    epo:
+    - - 's: kulmino'
+      - pinto
+      - apogeo
+      - alta punkto
+      - klimakso
+    spa:
+    - - 's: cima'
+      - cumbre
+      - pico
+      - apogeo
+      - punto (más) alto
+      - punto álgido
+      - clímax
+    deu:
+    - - Höhepunkt
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - peak
+      - summit
+      - high point
+      - climax
+    epo:
+      s:
+      - kulmino
+      - pinto
+      - apogeo
+      - alta punkto
+      - klimakso
+    spa:
+      s:
+      - cima
+      - cumbre
+      - pico
+      - apogeo
+      - punto (más) alto
+      - punto álgido
+      - clímax
+    deu:
+      "":
+      - Höhepunkt
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - gao
+    - +
+    - dwan
+    natlang similar:
+      Doycisa: H&ouml;hepunkt
+      Englisa: high point
+      Zh: 高潮 &ldquo;gawcaw&rdquo;
 gaoeskol:
   term: gaoeskol
   word class: b
@@ -182914,6 +183338,44 @@ gowan:
       Koreasa: 고환 &ldquo;gohwan&rdquo;
       Niponsa: 睾丸 &ldquo;kowgan&rdquo;
       Putunhwa: 睾丸 &ldquo;gawwan&rdquo;
+gowanbao:
+  term: gowanbao
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: scrotum'
+    epo:
+    - - 's: escroto'
+    spa:
+    - - 's: skroto'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - scrotum
+    epo:
+      s:
+      - escroto
+    spa:
+      s:
+      - skroto
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - gowan
+    - +
+    - bao
 gowanli:
   term: gowanli
   word class: t
@@ -235539,19 +236001,22 @@ jongu:
       Vyetnamsa: gi&ocirc;́ng
 jotay:
   term: jotay
-  word class: b
+  word class: b.lin
   category: root
   trans:
     eng:
     - - 'n: condition'
       - state
+    - - 'v.cop: be (<em>condition, state</em>)'
     epo:
     - - 's: stato'
       - kondiĉo
       - farto
+    - - 'ligv: farti'
     spa:
     - - 's: estado'
       - condición
+    - - 'v.cop: estar'
     deu:
     - - 'S: Zustand'
       - Verfassung
@@ -235574,15 +236039,21 @@ jotay:
       "n":
       - condition
       - state
+      v.cop:
+      - be (<em>condition, state</em>)
     epo:
       s:
       - stato
       - kondiĉo
       - farto
+      ligv:
+      - farti
     spa:
       s:
       - estado
       - condición
+      v.cop:
+      - estar
     deu:
       S:
       - Zustand
@@ -254289,6 +254760,72 @@ katerin:
       Swahilisa: Katerina
       Turkisa: Katerina
       Vyetnamsa: Catarina
+kati:
+  term: kati
+  word class: b.oj
+  category: root
+  trans:
+    eng:
+    - - 'n: clip'
+      - trim
+      - pruning
+    - - 'v.tr: clip'
+      - trim
+      - prune
+    epo:
+    - - 's: (pri)tondo'
+      - pinĉo
+    - - 'v.tr: (pri)tondi'
+      - pinĉi
+    spa:
+    - - 's: recorte'
+      - poda
+    - - 'v.tr: recortar'
+      - podar
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - clip
+      - trim
+      - pruning
+      v.tr:
+      - clip
+      - trim
+      - prune
+    epo:
+      s:
+      - (pri)tondo
+      - pinĉo
+      v.tr:
+      - (pri)tondi
+      - pinĉi
+    spa:
+      s:
+      - recorte
+      - poda
+      v.tr:
+      - recortar
+      - podar
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Hindi: काटना &quot;kāṭnā&quot;
+      Niponsa: 刈り込む &quot;karikomu&quot;
+      Swahilisa: -kata
+      Tamil: கத்தரி &quot;kattari&quot;
+      Telugu: కత్తిరించు &quot;kattirin̄cu&quot;
+      Vyetnamsa: cắt
 katina:
   term: katina
   word class: t
@@ -273999,12 +274536,10 @@ kosta:
   trans:
     eng:
     - - 'n: coast'
-      - shore
     epo:
-    - - 's: (mar)bordo'
+    - - 's: marbordo'
     spa:
     - - 's: costa'
-      - orilla
     deu:
     - - 'S: Küste'
       - Strand
@@ -274028,14 +274563,12 @@ kosta:
     eng:
       "n":
       - coast
-      - shore
     epo:
       s:
-      - (mar)bordo
+      - marbordo
     spa:
       s:
       - costa
-      - orilla
     deu:
       S:
       - Küste
@@ -274426,6 +274959,7 @@ kostruiyen:
   trans:
     eng:
     - - 'n: builder'
+      - construction worker
     epo:
     - - 's: konstruisto'
       - konstruanto
@@ -274452,6 +274986,7 @@ kostruiyen:
     eng:
       "n":
       - builder
+      - construction worker
     epo:
       s:
       - konstruisto
@@ -289361,6 +289896,7 @@ lawfendo:
       - bothered
       - bugged
       - vexed
+      - upset
     epo:
     - - 'adj: ĝenita'
       - ĉagrenita
@@ -289383,6 +289919,7 @@ lawfendo:
       - bothered
       - bugged
       - vexed
+      - upset
     epo:
       adj:
       - ĝenita
@@ -291016,6 +291553,44 @@ lefeatrelogi:
     - atre
     - +
     - logi
+lefeaxam:
+  term: lefeaxam
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: late afternoon'
+    epo:
+    - - 's: malfrua posttagmezo'
+    spa:
+    - - 's: tarde (<em>antes del atardecer</em>)'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - late afternoon
+    epo:
+      s:
+      - malfrua posttagmezo
+    spa:
+      s:
+      - tarde (<em>antes del atardecer</em>)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - lefe
+    - +
+    - axam
 lefeeksame:
   term: lefeeksame
   word class: b
@@ -325783,6 +326358,86 @@ mekuku:
       Arabisa: مَكُّوك &ldquo;makuk&rdquo;
       Parsisa: ماکو &ldquo;m&acirc;ku&rdquo;
       Turkisa: mekik
+mekukubus:
+  term: mekukubus
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: shuttle bus'
+    epo:
+    - - 's: navedobuso'
+    spa:
+    - - 's: autobús de enlace'
+      - autobús lanzadera
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - shuttle bus
+    epo:
+      s:
+      - navedobuso
+    spa:
+      s:
+      - autobús de enlace
+      - autobús lanzadera
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - mekuku
+    - +
+    - bus
+mekukunavi:
+  term: mekukunavi
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: ferry'
+    epo:
+    - - 's: pramŝipo'
+    spa:
+    - - 's: ferri'
+      - transbordador
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - ferry
+    epo:
+      s:
+      - pramŝipo
+    spa:
+      s:
+      - ferri
+      - transbordador
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - mekuku
+    - +
+    - navi
 melankoli:
   term: melankoli
   word class: t
@@ -325995,6 +326650,7 @@ meli:
     eng:
     - - 'adj: beautiful'
       - pretty
+      - handsome
     - - 'adv: beautifully'
       - prettily
     epo:
@@ -326004,6 +326660,7 @@ meli:
     - - 'adj: hermoso'
       - bello
       - bonito
+      - guapo
     - - 'adv: bellamente'
       - hermosamente
     deu: []
@@ -326017,6 +326674,7 @@ meli:
       adj:
       - beautiful
       - pretty
+      - handsome
       adv:
       - beautifully
       - prettily
@@ -326030,6 +326688,7 @@ meli:
       - hermoso
       - bello
       - bonito
+      - guapo
       adv:
       - bellamente
       - hermosamente
@@ -331268,6 +331927,44 @@ meydeypul:
     - meydey
     - +
     - -pul
+meydeyvan:
+  term: meydeyvan
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: ambulance'
+    epo:
+    - - 's: ambulanco'
+    spa:
+    - - 's: ambulancia'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - ambulance
+    epo:
+      s:
+      - ambulanco
+    spa:
+      s:
+      - ambulancia
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - meydey
+    - +
+    - van
 meykapu:
   term: meykapu
   word class: b.oj
@@ -342875,6 +343572,44 @@ motor:
       Rusisa: мотор &ldquo;motor&rdquo;
       Turkisa: motor
       Vyetnamsa: m&ocirc;-tơ
+motorcalun:
+  term: motorcalun
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: motorcycle'
+    epo:
+    - - 's: motorciklo'
+    spa:
+    - - 's: motocicleta'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - motorcycle
+    epo:
+      s:
+      - motorciklo
+    spa:
+      s:
+      - motocicleta
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - motor
+    - +
+    - calun
 motormenxar:
   term: motormenxar
   word class: b
@@ -351526,6 +352261,7 @@ nasacu:
   trans:
     eng:
     - - 'n: smell'
+      - scent
       - odor
       - odour
     - - 'v.cop: (have a particular) smell'
@@ -351548,6 +352284,7 @@ nasacu:
     eng:
       "n":
       - smell
+      - scent
       - odor
       - odour
       v.cop:
@@ -351644,6 +352381,46 @@ nasafono:
     - nasa
     - +
     - fono
+nasahongu:
+  term: nasahongu
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: nostril(s)'
+    epo:
+    - - 's: naztruo'
+    spa:
+    - - 's: narina'
+      - ventana
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - nostril(s)
+    epo:
+      s:
+      - naztruo
+    spa:
+      s:
+      - narina
+      - ventana
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - nasa
+    - +
+    - hongu
 nasakumax:
   term: nasakumax
   word class: b
@@ -358103,6 +358880,54 @@ nenton:
     - nen-
     - +
     - ton
+nentrankwilo:
+  term: nentrankwilo
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: uneasy'
+      - ill at ease
+      - restless
+      - tense
+    epo:
+    - - 'adj: netrankvila'
+      - ĝenata
+    spa:
+    - - 'adj: inquieto'
+      - tenso
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - uneasy
+      - ill at ease
+      - restless
+      - tense
+    epo:
+      adj:
+      - netrankvila
+      - ĝenata
+    spa:
+      adj:
+      - inquieto
+      - tenso
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - nen-
+    - +
+    - trankwilo
 nentu:
   term: nentu
   word class: b
@@ -387975,6 +388800,48 @@ paypu:
       Koreasa: 파이프 &ldquo;paypu&rdquo;
       Niponsa: パイプ &ldquo;paypu&rdquo;
       Pilipinasa: pipa
+paypuyen:
+  term: paypuyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: plumber'
+    epo:
+    - - 's: tubisto'
+      - plumbisto
+    spa:
+    - - 's: fontanero'
+      -  plomero
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - plumber
+    epo:
+      s:
+      - tubisto
+      - plumbisto
+    spa:
+      s:
+      - fontanero
+      -  plomero
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - paypu
+    - +
+    - -yen
 peari:
   term: peari
   word class: b
@@ -389955,7 +390822,7 @@ pensiltejamgitul:
   category: derived
   trans:
     eng:
-    - - 'n: penci sharpener'
+    - - 'n: pencil sharpener'
     epo:
     - - 's: krajonakrigilo'
     spa:
@@ -389969,7 +390836,7 @@ pensiltejamgitul:
   trans_v2:
     eng:
       "n":
-      - penci sharpener
+      - pencil sharpener
     epo:
       s:
       - krajonakrigilo
@@ -406682,6 +407549,52 @@ postamarka:
     - posta
     - +
     - marka
+postayen:
+  term: postayen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: mail carrier'
+      - mailman
+      - mailperson
+      - postal carrier
+      - postman
+    epo:
+    - - 's: leterportisto'
+    spa:
+    - - 's: cartero'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - mail carrier
+      - mailman
+      - mailperson
+      - postal carrier
+      - postman
+    epo:
+      s:
+      - leterportisto
+    spa:
+      s:
+      - cartero
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - posta
+    - +
+    - -yen
 posti:
   term: posti
   word class: b.oj
@@ -406788,6 +407701,54 @@ postido:
     - posti
     - +
     - -do
+postrankwilo:
+  term: postrankwilo
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: disquieted'
+      - apprehensive
+      - on edge
+    epo:
+    - - 'adj: maltrankvila'
+      - streĉita
+    spa:
+    - - 'adj: inquieto'
+      - perturbado
+      - tenso
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - disquieted
+      - apprehensive
+      - on edge
+    epo:
+      adj:
+      - maltrankvila
+      - streĉita
+    spa:
+      adj:
+      - inquieto
+      - perturbado
+      - tenso
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - pos-
+    - +
+    - trankwilo
 postriunfa:
   term: postriunfa
   word class: b.oj
@@ -410314,6 +411275,44 @@ programa:
       Rusisa: программа &ldquo;programma&rdquo;
       Swahilisa: programu
       Turkisa: program
+programayen:
+  term: programayen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: programmer'
+    epo:
+    - - 's: programisto'
+    spa:
+    - - 's: programador'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - programmer
+    epo:
+      s:
+      - programisto
+    spa:
+      s:
+      - programador
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - programa
+    - +
+    - -yen
 projeto:
   term: projeto
   word class: b
@@ -445510,7 +446509,7 @@ sidetul:
     - -tul
 sifa:
   term: sifa
-  word class: b
+  word class: b.lin
   category: root
   trans:
     eng:
@@ -445520,13 +446519,16 @@ sifa:
       - property
       - attribute
       - aspect
+    - - 'v.cop: be like'
     epo:
     - - 's: eco'
       - trajto
+    - - 'ligv: esti (<em>trajte</em>)'
     spa:
     - - 's: característica'
       - rasgo
       - atributo
+    - - 'v.cop: ser (<em>característicamente</em>)'
     deu:
     - - 'S: Eigenschaft'
       - Merkmal
@@ -445564,15 +446566,21 @@ sifa:
       - property
       - attribute
       - aspect
+      v.cop:
+      - be like
     epo:
       s:
       - eco
       - trajto
+      ligv:
+      - esti (<em>trajte</em>)
     spa:
       s:
       - característica
       - rasgo
       - atributo
+      v.cop:
+      - ser (<em>característicamente</em>)
     deu:
       S:
       - Eigenschaft
@@ -477616,6 +478624,44 @@ termoabil:
     - termo
     - +
     - abil
+termobalon:
+  term: termobalon
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: hot-air balloon'
+    epo:
+    - - 's: varmaerbalono'
+    spa:
+    - - 's: globo (aerostático)'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - hot-air balloon
+    epo:
+      s:
+      - varmaerbalono
+    spa:
+      s:
+      - globo (aerostático)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - termo
+    - +
+    - balon
 termocu:
   term: termocu
   word class: b.nenoj
@@ -478894,8 +479940,8 @@ tesu_to:
     - tesu
     - ','
     - to
-teve:
-  term: teve
+tevi:
+  term: tevi
   word class: b
   category: root
   trans:
@@ -481231,6 +482277,54 @@ titulodo:
     - titulo
     - +
     - -do
+tixerti:
+  term: tixerti
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: T-shirt'
+    epo:
+    - - 's: T-ĉemizo'
+    spa:
+    - - 's: camiseta'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - T-shirt
+    epo:
+      s:
+      - T-ĉemizo
+    spa:
+      s:
+      - camiseta
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      "": 티셔츠 &ldquo;tixocu&rdquo;
+      Arabisa: تِي شِيرْت &ldquo;ti xirt&rdquo;
+      Doycisa: T-Shirt
+      Englisa: T-shirt
+      Espanisa: T-shirt
+      Fransesa: tee-shirt, ticheurte
+      Hindi: टी-शर्ट &ldquo;ti-xart&rdquo;
+      Niponsa: Tシャツ &ldquo;tixatsu&rdquo;
+      Parsisa: تی&zwnj;شِرْت &ldquo;tixert&rdquo;
+      Portugalsa: t-shirt &ldquo;tixarti&rdquo;
+      Putunhwa: T恤 &ldquo;tixu&rdquo;
+      Swahilisa: tisheti
+      Turkisa: tiş&ouml;rt
 to:
   term: to
   word class: pn
@@ -501704,6 +502798,89 @@ vento:
       Fransesa: vent
       Hindi: वात &ldquo;vat&rdquo;
       Rusisa: ветер &ldquo;veter&rdquo;
+ventokumax:
+  term: ventokumax
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: sail'
+    epo:
+    - - 's: velo'
+    spa:
+    - - 's: vela'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - sail
+    epo:
+      s:
+      - velo
+    spa:
+      s:
+      - vela
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - vento
+    - +
+    - kumax
+ventonavi:
+  term: ventonavi
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: sailboat'
+    - - 'v.tr: sail'
+    epo:
+    - - 's: velŝipo'
+      - velboato
+    spa:
+    - - 's: embarcación a vela'
+      - velero
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - sailboat
+      v.tr:
+      - sail
+    epo:
+      s:
+      - velŝipo
+      - velboato
+    spa:
+      s:
+      - embarcación a vela
+      - velero
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - vento
+    - +
+    - navi
 ventopul:
   term: ventopul
   word class: t
@@ -512312,11 +513489,11 @@ xafesoba:
   category: derived
   trans:
     eng:
-    - - 'n: afternoon'
+    - - 'n: early afternoon'
     epo:
-    - - 's: posttagmezo'
+    - - 's: frua posttagmezo'
     spa:
-    - - 's: tarde'
+    - - 's: tarde (<em>después del mediodía</em>)'
     deu:
     - - 'S: Nachmittag'
     fra:
@@ -512334,13 +513511,13 @@ xafesoba:
   trans_v2:
     eng:
       "n":
-      - afternoon
+      - early afternoon
     epo:
       s:
-      - posttagmezo
+      - frua posttagmezo
     spa:
       s:
-      - tarde
+      - tarde (<em>después del mediodía</em>)
     deu:
       S:
       - Nachmittag
