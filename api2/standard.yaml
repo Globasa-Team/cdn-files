@@ -9284,12 +9284,21 @@ akontoyen:
     spa:
     - - 's: contador público'
       - contable
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - 'S: Buchhalter'
+    fra:
+    - - 'n: comptable'
+    rus:
+    - - 'сущ: бухгалтер'
+      - счетовод
+    zho:
+    - - '名: 会计'
+    hin:
+    - - 'सं: लेखाकार'
+      - अकाउंटेंट
+      - मुनीम
+    ara:
+    - - 'اسم: مُحَاسِب'
   trans_v2:
     eng:
       "n":
@@ -9301,12 +9310,27 @@ akontoyen:
       s:
       - contador público
       - contable
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      S:
+      - Buchhalter
+    fra:
+      "n":
+      - comptable
+    rus:
+      сущ:
+      - бухгалтер
+      - счетовод
+    zho:
+      名:
+      - 会计
+    hin:
+      सं:
+      - लेखाकार
+      - अकाउंटेंट
+      - मुनीम
+    ara:
+      اسم:
+      - مُحَاسِب
   etymology:
     derived:
     - akonto
@@ -29857,7 +29881,9 @@ atexlori:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 消防车'
+      - 救火车
     hin: []
     ara: []
   trans_v2:
@@ -29874,7 +29900,10 @@ atexlori:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 消防车
+      - 救火车
     hin: []
     ara: []
   etymology:
@@ -29896,7 +29925,9 @@ atexloriyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 消防队员'
+      - 消防员
     hin: []
     ara: []
   trans_v2:
@@ -29912,7 +29943,10 @@ atexloriyen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 消防队员
+      - 消防员
     hin: []
     ara: []
   etymology:
@@ -38259,6 +38293,44 @@ bahari_pacifiko:
     - bahari
     - ','
     - pacifiko
+baharibyen:
+  term: baharibyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: (sea) shore'
+    epo:
+    - - 's: marbordo'
+    spa:
+    - - 's: orilla (del mar)'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - (sea) shore
+    epo:
+      s:
+      - marbordo
+    spa:
+      s:
+      - orilla (del mar)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - bahari
+    - +
+    - byen
 bahariestare:
   term: bahariestare
   word class: b
@@ -39067,12 +39139,17 @@ baklava:
     - - 's: baklavo'
     spa:
     - - 's: baklava'
-    deu: []
-    fra: []
-    rus: []
+    deu:
+    - - 'S: Baklava'
+    fra:
+    - - 'n: baklava'
+    rus:
+    - - 'сущ: пахлава'
     zho: []
-    hin: []
-    ara: []
+    hin:
+    - - 'सं: बक़लावा'
+    ara:
+    - - 'اسم: بَقْلَاوَة'
   trans_v2:
     eng:
       "n":
@@ -39083,12 +39160,22 @@ baklava:
     spa:
       s:
       - baklava
-    deu: []
-    fra: []
-    rus: []
+    deu:
+      S:
+      - Baklava
+    fra:
+      "n":
+      - baklava
+    rus:
+      сущ:
+      - пахлава
     zho: []
-    hin: []
-    ara: []
+    hin:
+      सं:
+      - बक़लावा
+    ara:
+      اسم:
+      - بَقْلَاوَة
   etymology:
     natlang:
       Arabisa: بَقْلَاوَة &ldquo;baklawa&rdquo;
@@ -42709,10 +42796,16 @@ banyohoza:
     - - 's: bañera'
       - bañadera
       - tina
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - 'S: Badewanne'
+    fra:
+    - - 'n: baignoire'
+    rus:
+    - - 'сущ: ванна'
+    zho:
+    - - '名: 浴缸'
+      - 澡盆
+      - 浴盆
     hin: []
     ara: []
   trans_v2:
@@ -42730,10 +42823,20 @@ banyohoza:
       - bañera
       - bañadera
       - tina
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+      S:
+      - Badewanne
+    fra:
+      "n":
+      - baignoire
+    rus:
+      сущ:
+      - ванна
+    zho:
+      名:
+      - 浴缸
+      - 澡盆
+      - 浴盆
     hin: []
     ara: []
   etymology:
@@ -46292,11 +46395,13 @@ basketo:
   trans:
     eng:
     - - 'n: basket'
+      - bin
     epo:
     - - 's: korbo'
     spa:
     - - 's: cesta'
       - canasta
+      - bote
     deu:
     - - 'S: Korb'
     fra:
@@ -46314,6 +46419,7 @@ basketo:
     eng:
       "n":
       - basket
+      - bin
     epo:
       s:
       - korbo
@@ -46321,6 +46427,7 @@ basketo:
       s:
       - cesta
       - canasta
+      - bote
     deu:
       S:
       - Korb
@@ -48014,7 +48121,9 @@ baxgeotren:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 地铁'
+      - 地下铁
     hin: []
     ara: []
   trans_v2:
@@ -48033,7 +48142,10 @@ baxgeotren:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 地铁
+      - 地下铁
     hin: []
     ara: []
   etymology:
@@ -49948,6 +50060,52 @@ begoyonyen:
     - goyon
     - +
     - -yen
+behaja:
+  term: behaja
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - 'v.tr: be needed'
+      - be necessary
+    - - 'v.tr: take (<em>time</em>)'
+    epo:
+    - - 'v.tr: necesi'
+      - esti necesa
+      - esti bezonata
+    spa:
+    - - 'v.tr: se necesita'
+      - es necesario
+    - - 'v.tr: lleva (<em>tiempo</em>)'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      v.tr:
+      - take (<em>time</em>)
+    epo:
+      v.tr:
+      - necesi
+      - esti necesa
+      - esti bezonata
+    spa:
+      v.tr:
+      - lleva (<em>tiempo</em>)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - be-
+    - +
+    - haja
 behajakal:
   term: behajakal
   word class: t
@@ -55560,6 +55718,44 @@ binde:
       Englisa: bind
       Hindi: बांधना &ldquo;bandana&rdquo;
       Telugusa: బంధము &ldquo;bandamu&rdquo;
+bindebendu:
+  term: bindebendu
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: ligament'
+    epo:
+    - - 's: ligamento'
+    spa:
+    - - 's: ligamento'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - ligament
+    epo:
+      s:
+      - ligamento
+    spa:
+      s:
+      - ligamento
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - binde
+    - +
+    - bendu
 bindetul:
   term: bindetul
   word class: b
@@ -57599,6 +57795,142 @@ blogu:
       Telugusa: బ్లాగు &ldquo;blāgu&rdquo;
       Turkisa: blog
       Vyetnamsa: blog
+bloke:
+  term: bloke
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: block (<em>approximately cuboid or rectangular object</em>)'
+    epo:
+    - - 's: bloko'
+    spa:
+    - - 's: bloque'
+    deu:
+    - - 'S: Block'
+      - Klotz
+    fra:
+    - - 'n: bloc'
+    rus:
+    - - 'сущ (прибл. кубический объект или группа): блок'
+      - брусок
+    zho:
+    - - '名: 块'
+      - 方块
+    hin:
+    - - 'सं: ब्लॉक'
+      - खंड
+    ara:
+    - - 'اسم: كُتْلَة، مُكَعَّب'
+  trans_v2:
+    eng:
+      "n":
+      - block (<em>approximately cuboid or rectangular object</em>)
+    epo:
+      s:
+      - bloko
+    spa:
+      s:
+      - bloque
+    deu:
+      S:
+      - Block
+      - Klotz
+    fra:
+      "n":
+      - bloc
+    rus:
+      сущ (прибл. кубический объект или группа):
+      - блок
+      - брусок
+    zho:
+      名:
+      - 块
+      - 方块
+    hin:
+      सं:
+      - ब्लॉक
+      - खंड
+    ara:
+      اسم:
+      - كُتْلَة، مُكَعَّب
+  etymology:
+    natlang:
+      Doycisa: Block
+      Englisa: block, bloc
+      Espanisa: bloque
+      Fransesa: bloc
+      Hindi: ब्लॉक &ldquo;blok&rdquo;
+      Indonesisa: balok
+      Koreasa: 블록 &ldquo;bullok&rdquo;
+      Niponsa: ブロック &ldquo;burokku&rdquo;
+      Parsisa: بلوک &ldquo;blok&rdquo;, بلوک &ldquo;boluk&rdquo;
+      Pilipinasa: bloke
+      Rusisa: блок &ldquo;blok&rdquo;
+      Swahilisa: bloku
+      Telugusa: బ్లాక్ &ldquo;blak&rdquo;
+      Turkisa: blok
+      Vyetnamsa: bờ lốc
+blokeflutu:
+  term: blokeflutu
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: recorder'
+      - block flute
+    epo:
+    - - 's: bekfluto'
+    spa:
+    - - 's: flauta dulce'
+    deu:
+    - - 'S: Blockflöte'
+    fra:
+    - - 'n: flûte à bec'
+    rus:
+    - - 'сущ: блокфлейта'
+    zho:
+    - - '名: 竖笛'
+      - 木笛
+    hin:
+    - - 'सं: रिकॉर्डर'
+    ara:
+    - - 'اسم: مِزْمَار المِنْقَار، نَاي مِنْقَارِيّ'
+  trans_v2:
+    eng:
+      "n":
+      - recorder
+      - block flute
+    epo:
+      s:
+      - bekfluto
+    spa:
+      s:
+      - flauta dulce
+    deu:
+      S:
+      - Blockflöte
+    fra:
+      "n":
+      - flûte à bec
+    rus:
+      сущ:
+      - блокфлейта
+    zho:
+      名:
+      - 竖笛
+      - 木笛
+    hin:
+      सं:
+      - रिकॉर्डर
+    ara:
+      اسم:
+      - مِزْمَار المِنْقَار، نَاي مِنْقَارِيّ
+  etymology:
+    derived:
+    - bloke
+    - +
+    - flutu
 bloki:
   term: bloki
   word class: b.oj
@@ -59043,32 +59375,64 @@ bogal:
   trans:
     eng:
     - - 'n: armpit'
+      - underarm
+      - axilla
     epo:
     - - 's: akselo'
     spa:
     - - 's: axila'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - 'S: Achselhöhle'
+      - Achsel
+    fra:
+    - - 'n: aisselle'
+      - dessous de bras
+    rus:
+    - - 'сущ: подмышка'
+    zho:
+    - - '名: 胳肢窝'
+      - 腋窝
+      - 腋下
+    hin:
+    - - 'सं: काँख'
+      - बग़ल
+    ara:
+    - - 'اسم: إِبْط'
   trans_v2:
     eng:
       "n":
       - armpit
+      - underarm
+      - axilla
     epo:
       s:
       - akselo
     spa:
       s:
       - axila
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      S:
+      - Achselhöhle
+      - Achsel
+    fra:
+      "n":
+      - aisselle
+      - dessous de bras
+    rus:
+      сущ:
+      - подмышка
+    zho:
+      名:
+      - 胳肢窝
+      - 腋窝
+      - 腋下
+    hin:
+      सं:
+      - काँख
+      - बग़ल
+    ara:
+      اسم:
+      - إِبْط
   etymology:
     natlang:
       Bengalisa: বগল &ldquo;bogol&rdquo;
@@ -59473,142 +59837,6 @@ bolivi:
   etymology:
     natlang:
       Espanisa: Bolivia
-boloku:
-  term: boloku
-  word class: b
-  category: root
-  trans:
-    eng:
-    - - 'n: block (<em>approximately cuboid or rectangular object</em>)'
-    epo:
-    - - 's: bloko'
-    spa:
-    - - 's: bloque'
-    deu:
-    - - 'S: Block'
-      - Klotz
-    fra:
-    - - 'n: bloc'
-    rus:
-    - - 'сущ (прибл. кубический объект или группа): блок'
-      - брусок
-    zho:
-    - - '名: 块'
-      - 方块
-    hin:
-    - - 'सं: ब्लॉक'
-      - खंड
-    ara:
-    - - 'اسم: كُتْلَة، مُكَعَّب'
-  trans_v2:
-    eng:
-      "n":
-      - block (<em>approximately cuboid or rectangular object</em>)
-    epo:
-      s:
-      - bloko
-    spa:
-      s:
-      - bloque
-    deu:
-      S:
-      - Block
-      - Klotz
-    fra:
-      "n":
-      - bloc
-    rus:
-      сущ (прибл. кубический объект или группа):
-      - блок
-      - брусок
-    zho:
-      名:
-      - 块
-      - 方块
-    hin:
-      सं:
-      - ब्लॉक
-      - खंड
-    ara:
-      اسم:
-      - كُتْلَة، مُكَعَّب
-  etymology:
-    natlang:
-      Doycisa: Block
-      Englisa: block, bloc
-      Espanisa: bloque
-      Fransesa: bloc
-      Hindi: ब्लॉक &ldquo;blok&rdquo;
-      Indonesisa: balok
-      Koreasa: 블록 &ldquo;bullok&rdquo;
-      Niponsa: ブロック &ldquo;burokku&rdquo;
-      Parsisa: بلوک &ldquo;blok&rdquo;, بلوک &ldquo;boluk&rdquo;
-      Pilipinasa: bloke
-      Rusisa: блок &ldquo;blok&rdquo;
-      Swahilisa: bloku
-      Telugusa: బ్లాక్ &ldquo;blak&rdquo;
-      Turkisa: blok
-      Vyetnamsa: bờ lốc
-bolokuflutu:
-  term: bolokuflutu
-  word class: b
-  category: derived
-  trans:
-    eng:
-    - - 'n: recorder'
-      - block flute
-    epo:
-    - - 's: bekfluto'
-    spa:
-    - - 's: flauta dulce'
-    deu:
-    - - 'S: Blockflöte'
-    fra:
-    - - 'n: flûte à bec'
-    rus:
-    - - 'сущ: блокфлейта'
-    zho:
-    - - '名: 竖笛'
-      - 木笛
-    hin:
-    - - 'सं: रिकॉर्डर'
-    ara:
-    - - 'اسم: مِزْمَار المِنْقَار، نَاي مِنْقَارِيّ'
-  trans_v2:
-    eng:
-      "n":
-      - recorder
-      - block flute
-    epo:
-      s:
-      - bekfluto
-    spa:
-      s:
-      - flauta dulce
-    deu:
-      S:
-      - Blockflöte
-    fra:
-      "n":
-      - flûte à bec
-    rus:
-      сущ:
-      - блокфлейта
-    zho:
-      名:
-      - 竖笛
-      - 木笛
-    hin:
-      सं:
-      - रिकॉर्डर
-    ara:
-      اسم:
-      - مِزْمَار المِنْقَار، نَاي مِنْقَارِيّ
-  etymology:
-    derived:
-    - boloku
-    - +
-    - flutu
 boltu:
   term: boltu
   word class: b.oj
@@ -62206,6 +62434,69 @@ botela:
       Parsisa: بطری &ldquo;botri&rdquo;, بوتل &ldquo;b&ocirc;tal&rdquo;
       Pilipinasa: bote, botelya
       Rusisa: бутылка &ldquo;butilka&rdquo;
+botelabukatul:
+  term: botelabukatul
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: bottle opener'
+    epo:
+    - - 's: botelmalfermilo'
+    spa:
+    - - 's: abrebotellas'
+    deu:
+    - - 'S: Flaschenöffner'
+      - Kapselheber
+    fra:
+    - - 'n: décapsuleur'
+      - ouvre-bouteille
+    rus:
+    - - 'сущ: ключ-откупорка'
+      - открывалка
+      - открывашка
+    zho:
+    - - '名: 开瓶器'
+    hin: []
+    ara:
+    - - 'اسم: فَتَّاحَة زُجَاجَات'
+  trans_v2:
+    eng:
+      "n":
+      - bottle opener
+    epo:
+      s:
+      - botelmalfermilo
+    spa:
+      s:
+      - abrebotellas
+    deu:
+      S:
+      - Flaschenöffner
+      - Kapselheber
+    fra:
+      "n":
+      - décapsuleur
+      - ouvre-bouteille
+    rus:
+      сущ:
+      - ключ-откупорка
+      - открывалка
+      - открывашка
+    zho:
+      名:
+      - 开瓶器
+    hin: []
+    ara:
+      اسم:
+      - فَتَّاحَة زُجَاجَات
+  etymology:
+    derived:
+    - botela
+    - +
+    - buka
+    - +
+    - -tul
 boti:
   term: Boti
   word class: su n
@@ -78239,6 +78530,78 @@ ciberbiskiti:
     - ciber-
     - +
     - biskiti
+ciberfon:
+  term: ciberfon
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: smart phone'
+    epo:
+    - - 's: saĝtelefono'
+      - smartfono
+      - aptelefono
+      - plurfunkcia poŝtelefono
+      - inteligenta telefono
+      - lerta telefono
+      - kompufono
+    spa:
+    - - 's: teléfono inteligente'
+    deu:
+    - - 'S: Smartphone'
+      - Handy
+    fra:
+    - - 'n: smartphone'
+      - téléphone intelligent
+    rus:
+    - - 'сущ: смартфон'
+    zho:
+    - - '名: 智能手机'
+    hin:
+    - - 'सं: स्मार्टफ़ोन'
+    ara:
+    - - 'اسم: هاتف ذكي'
+  trans_v2:
+    eng:
+      "n":
+      - smart phone
+    epo:
+      s:
+      - saĝtelefono
+      - smartfono
+      - aptelefono
+      - plurfunkcia poŝtelefono
+      - inteligenta telefono
+      - lerta telefono
+      - kompufono
+    spa:
+      s:
+      - teléfono inteligente
+    deu:
+      S:
+      - Smartphone
+      - Handy
+    fra:
+      "n":
+      - smartphone
+      - téléphone intelligent
+    rus:
+      сущ:
+      - смартфон
+    zho:
+      名:
+      - 智能手机
+    hin:
+      सं:
+      - स्मार्टफ़ोन
+    ara:
+      اسم:
+      - هاتف ذكي
+  etymology:
+    derived:
+    - ciber-
+    - +
+    - -fon
 ciberneti:
   term: ciberneti
   word class: b
@@ -82700,10 +83063,14 @@ cotedwan:
       - fondo
       - punto (más) bajo
     deu:
-    - - Tiefpunkt
+    - - 'S: Tiefpunkt'
+      - Talsohle
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 低谷'
+      - 低潮
+      - 最低点
     hin: []
     ara: []
   trans_v2:
@@ -82723,11 +83090,16 @@ cotedwan:
       - fondo
       - punto (más) bajo
     deu:
-      "":
+      S:
       - Tiefpunkt
+      - Talsohle
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 低谷
+      - 低潮
+      - 最低点
     hin: []
     ara: []
   etymology:
@@ -91044,7 +91416,9 @@ davayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 药剂师'
+      - 药师
     hin: []
     ara: []
   trans_v2:
@@ -91063,7 +91437,10 @@ davayen:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 药剂师
+      - 药师
     hin: []
     ara: []
   etymology:
@@ -98602,7 +98979,10 @@ delezacalyo:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 橇'
+      - 雪橇
+      - 雪车
     hin: []
     ara: []
   trans_v2:
@@ -98622,7 +99002,11 @@ delezacalyo:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 橇
+      - 雪橇
+      - 雪车
     hin: []
     ara: []
   etymology:
@@ -100947,6 +101331,57 @@ dentamedisyen:
     - medis
     - +
     - -yen
+dentaxilo:
+  term: dentaxilo
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: (dental) floss'
+    epo:
+    - - 's: sentfadeno'
+      - dentsilko
+    spa:
+    - - 's: hilo dental'
+    deu:
+    - - 'S: Zahnseide'
+    fra:
+    - - 'n: fil dentaire'
+      - soie dentaire
+    rus: []
+    zho:
+    - - '名: 牙线'
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - (dental) floss
+    epo:
+      s:
+      - sentfadeno
+      - dentsilko
+    spa:
+      s:
+      - hilo dental
+    deu:
+      S:
+      - Zahnseide
+    fra:
+      "n":
+      - fil dentaire
+      - soie dentaire
+    rus: []
+    zho:
+      名:
+      - 牙线
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - denta
+    - +
+    - xilo
 dente:
   term: dente
   word class: 'tabel: pn'
@@ -108744,6 +109179,66 @@ dominikana:
   etymology:
     natlang:
       Espanisa: Dominicana
+domino:
+  term: domino
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: domino'
+    epo:
+    - - 's: domeno'
+    spa:
+    - - 's: dominó'
+    deu:
+    - - 'S: Domino'
+    fra:
+    - - 'n: domino'
+    rus:
+    - - 'сущ: домино'
+    zho: []
+    hin: []
+    ara:
+    - - 'اسم: دومينو'
+  trans_v2:
+    eng:
+      "n":
+      - domino
+    epo:
+      s:
+      - domeno
+    spa:
+      s:
+      - dominó
+    deu:
+      S:
+      - Domino
+    fra:
+      "n":
+      - domino
+    rus:
+      сущ:
+      - домино
+    zho: []
+    hin: []
+    ara:
+      اسم:
+      - دومينو
+  etymology:
+    natlang:
+      Arabisa: دومينو &ldquo;duminu&rdquo;
+      Doycisa: Domino
+      Englisa: domino
+      Espanisa: domin&oacute;
+      Fransesa: domino
+      Indonesisa: domino
+      Koreasa: 도미노 &ldquo;domino&rdquo;
+      Niponsa: ドミノ &ldquo;domino&rdquo;
+      Parsisa: دومینو &ldquo;domino&rdquo;
+      Putunhwa &ldquo;dwominwo&rdquo;): ""
+      Rusisa: домино &ldquo;domino&rdquo;
+      Turkisa: domino
+      Vyetnamsa: domino
 donatu:
   term: donatu
   word class: b
@@ -117840,7 +118335,6 @@ dure:
       - last
       - go on
       - keep going
-      - take (<em>time</em>)
     epo:
     - - 's: daŭro'
     - - 'v.ntr: daŭri'
@@ -117849,8 +118343,6 @@ dure:
     - - 'v.intr: durar'
       - continuar
       - perdurar
-      - tardar
-      - llevar (<em>tiempo</em>)
     deu: []
     fra: []
     rus: []
@@ -117869,7 +118361,6 @@ dure:
       - last
       - go on
       - keep going
-      - take (<em>time</em>)
     epo:
       s:
       - daŭro
@@ -117882,8 +118373,6 @@ dure:
       - durar
       - continuar
       - perdurar
-      - tardar
-      - llevar (<em>tiempo</em>)
     deu: []
     fra: []
     rus: []
@@ -118643,6 +119132,64 @@ duxe:
       Parsisa: دوش &ldquo;dux&rdquo;
       Rusisa: душ &ldquo;dux&rdquo;
       Turkisa: duş
+duxejel:
+  term: duxejel
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: body wash'
+      - shower gel
+    epo:
+    - - 's: duŝĝelo'
+    spa:
+    - - 's: gel de baño'
+      - gel de ducha
+    deu:
+    - - 'S: Duschgel'
+    fra:
+    - - 'n: gel douche'
+    rus:
+    - - 'сущ: гель для душа'
+    zho:
+    - - '名: 沐浴露'
+      - 浴液
+      - 淋浴露
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - body wash
+      - shower gel
+    epo:
+      s:
+      - duŝĝelo
+    spa:
+      s:
+      - gel de baño
+      - gel de ducha
+    deu:
+      S:
+      - Duschgel
+    fra:
+      "n":
+      - gel douche
+    rus:
+      сущ:
+      - гель для душа
+    zho:
+      名:
+      - 沐浴露
+      - 浴液
+      - 淋浴露
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - duxe
+    - +
+    - jel
 duzuka:
   term: duzuka
   word class: b
@@ -119573,11 +120120,16 @@ dyernuru:
     - - 's: posttagmezo'
     spa:
     - - 's: tarde (<em>tiempo del día</em>)'
-    deu: []
-    fra: []
+    deu:
+    - - 'S: Nachmittag'
+    fra:
+    - - 'n: après-midi'
     rus: []
-    zho: []
-    hin: []
+    zho:
+    - - '名: 下午'
+    hin:
+    - - 'सं: दोपहर'
+      - अपराह्न
     ara: []
   trans_v2:
     eng:
@@ -119589,11 +120141,20 @@ dyernuru:
     spa:
       s:
       - tarde (<em>tiempo del día</em>)
-    deu: []
-    fra: []
+    deu:
+      S:
+      - Nachmittag
+    fra:
+      "n":
+      - après-midi
     rus: []
-    zho: []
-    hin: []
+    zho:
+      名:
+      - 下午
+    hin:
+      सं:
+      - दोपहर
+      - अपराह्न
     ara: []
   etymology:
     derived:
@@ -132683,12 +133244,18 @@ esportudom:
     - - 's: stadiono'
     spa:
     - - 's: estadio'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - 'S: Stadion'
+    fra:
+    - - 'n: stade'
+    rus:
+    - - 'сущ: стадион'
+    zho:
+    - - '名: 体育场'
+    hin:
+    - - 'सं: स्टेडियम'
+    ara:
+    - - 'اسم: مَلْعَب، إِسْتَاد'
   trans_v2:
     eng:
       "n":
@@ -132699,12 +133266,24 @@ esportudom:
     spa:
       s:
       - estadio
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      S:
+      - Stadion
+    fra:
+      "n":
+      - stade
+    rus:
+      сущ:
+      - стадион
+    zho:
+      名:
+      - 体育场
+    hin:
+      सं:
+      - स्टेडियम
+    ara:
+      اسم:
+      - مَلْعَب، إِسْتَاد
   etymology:
     derived:
     - esportu
@@ -136088,7 +136667,8 @@ estokadom:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 仓库'
     hin: []
     ara: []
   trans_v2:
@@ -136112,7 +136692,9 @@ estokadom:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 仓库
     hin: []
     ara: []
   etymology:
@@ -164966,11 +165548,17 @@ fotoyen:
     - - 's: fotisto'
     spa:
     - - 's: fotógrafo'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
+    deu:
+    - - 'S: Fotograf'
+    fra:
+    - - 'n: photographe'
+    rus:
+    - - 'сущ: фотограф'
+    zho:
+    - - '名: 摄影师'
+    hin:
+    - - 'सं: फ़ोटोग्रफ़र'
+      - छायाकार
     ara: []
   trans_v2:
     eng:
@@ -164982,11 +165570,22 @@ fotoyen:
     spa:
       s:
       - fotógrafo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
+    deu:
+      S:
+      - Fotograf
+    fra:
+      "n":
+      - photographe
+    rus:
+      сущ:
+      - фотограф
+    zho:
+      名:
+      - 摄影师
+    hin:
+      सं:
+      - फ़ोटोग्रफ़र
+      - छायाकार
     ara: []
   etymology:
     derived:
@@ -173144,10 +173743,17 @@ gaodwan:
       - punto álgido
       - clímax
     deu:
-    - - Höhepunkt
+    - - 'S: Höhepunkt'
+      - Gipfel
+      - Klimax
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 顶峰'
+      - 高潮
+      - 高峰
+      - 巅峰
+      - 顶点
     hin: []
     ara: []
   trans_v2:
@@ -173174,11 +173780,19 @@ gaodwan:
       - punto álgido
       - clímax
     deu:
-      "":
+      S:
       - Höhepunkt
+      - Gipfel
+      - Klimax
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 顶峰
+      - 高潮
+      - 高峰
+      - 巅峰
+      - 顶点
     hin: []
     ara: []
   etymology:
@@ -174887,7 +175501,8 @@ gasolindom:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 加油站'
     hin: []
     ara: []
   trans_v2:
@@ -174913,7 +175528,9 @@ gasolindom:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 加油站
     hin: []
     ara: []
   etymology:
@@ -182322,21 +182939,28 @@ gonameter:
   trans:
     eng:
     - - 'n: protractor'
+      - goniometer
     epo:
     - - 's: gradmezurilo'
       - angulmezurilo
     spa:
     - - 's: transportador (de ángulos)'
-    deu: []
-    fra: []
+      - goniómetro
+    deu:
+    - - 'S: Winkelmesser'
+    fra:
+    - - 'n: rapporteur (d''angle)'
+      - goniomètre
     rus: []
-    zho: []
+    zho:
+    - - '名: 量角器'
     hin: []
     ara: []
   trans_v2:
     eng:
       "n":
       - protractor
+      - goniometer
     epo:
       s:
       - gradmezurilo
@@ -182344,10 +182968,18 @@ gonameter:
     spa:
       s:
       - transportador (de ángulos)
-    deu: []
-    fra: []
+      - goniómetro
+    deu:
+      S:
+      - Winkelmesser
+    fra:
+      "n":
+      - rapporteur (d'angle)
+      - goniomètre
     rus: []
-    zho: []
+    zho:
+      名:
+      - 量角器
     hin: []
     ara: []
   etymology:
@@ -183298,7 +183930,8 @@ gowan:
     zho:
     - - '名: 睾丸'
     hin:
-    - - 'सं: अंडकोष'
+    - - 'सं: वृषण'
+      - अंड
     ara:
     - - 'اسم: خُصْيَة، خُصْيَتَان'
   trans_v2:
@@ -183329,7 +183962,8 @@ gowan:
       - 睾丸
     hin:
       सं:
-      - अंडकोष
+      - वृषण
+      - अंड
     ara:
       اسم:
       - خُصْيَة، خُصْيَتَان
@@ -183349,11 +183983,17 @@ gowanbao:
     - - 's: escroto'
     spa:
     - - 's: skroto'
-    deu: []
-    fra: []
+    deu:
+    - - 'S: Skrotum'
+      - Hodensack
+    fra:
+    - - 'n: scrotum'
     rus: []
-    zho: []
-    hin: []
+    zho:
+    - - '名: 阴囊'
+    hin:
+    - - 'सं: अंडकोश'
+      - अंडकोष
     ara: []
   trans_v2:
     eng:
@@ -183365,11 +184005,21 @@ gowanbao:
     spa:
       s:
       - skroto
-    deu: []
-    fra: []
+    deu:
+      S:
+      - Skrotum
+      - Hodensack
+    fra:
+      "n":
+      - scrotum
     rus: []
-    zho: []
-    hin: []
+    zho:
+      名:
+      - 阴囊
+    hin:
+      सं:
+      - अंडकोश
+      - अंडकोष
     ara: []
   etymology:
     derived:
@@ -183713,7 +184363,7 @@ goyutul:
     derived:
     - goyu
     - +
-    - tul
+    - -tul
 goyuxey:
   term: goyuxey
   word class: b
@@ -190663,10 +191313,13 @@ halkefolder:
     - - 's: ringdosierujo'
     spa:
     - - 's: carpeta (de anillos)'
-    deu: []
+    deu:
+    - - 'S: Aktenordner'
+      - Ringordner
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 活页本'
     hin: []
     ara: []
   trans_v2:
@@ -190679,10 +191332,15 @@ halkefolder:
     spa:
       s:
       - carpeta (de anillos)
-    deu: []
+    deu:
+      S:
+      - Aktenordner
+      - Ringordner
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 活页本
     hin: []
     ara: []
   etymology:
@@ -192398,6 +193056,52 @@ hantapamtul:
     - pam
     - +
     - -tul
+hantasapun:
+  term: hantasapun
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: hand soap'
+    epo:
+    - - 's: mansapo'
+    spa:
+    - - 's: jabón para manos'
+    deu:
+    - - 'S: Handseife'
+    fra: []
+    rus: []
+    zho:
+    - - '名: 洗手皂'
+      - 洗手液
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - hand soap
+    epo:
+      s:
+      - mansapo
+    spa:
+      s:
+      - jabón para manos
+    deu:
+      S:
+      - Handseife
+    fra: []
+    rus: []
+    zho:
+      名:
+      - 洗手皂
+      - 洗手液
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - hanta
+    - +
+    - sapun
 hantatul:
   term: hantatul
   word class: b
@@ -195769,6 +196473,50 @@ hawanaviyen:
     - navi
     - +
     - -yen
+hawasuhe:
+  term: hawasuhe
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'n: dry (of air)'
+      - arid
+    epo:
+    - - 's: malhumida'
+      - arida
+    spa:
+    - - 's: seco'
+      - árido
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - dry (of air)
+      - arid
+    epo:
+      s:
+      - malhumida
+      - arida
+    spa:
+      s:
+      - seco
+      - árido
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - hawa
+    - +
+    - suhe
 haxhaxa:
   term: haxhaxa
   word class: b.nenoj
@@ -196405,6 +197153,53 @@ hayzi:
       Parsisa: حیض &ldquo;heyz&rdquo;
       Swahilisa: hedhi
       Turkisa: hayız
+hayzikumax:
+  term: hayzikumax
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: menstrual pad'
+      - (sanitary) pad
+    epo:
+    - - 's: menstrua tuko'
+      - virina higiena kuseneto
+    spa:
+    - - 's: toalla sanitaria'
+    deu: []
+    fra: []
+    rus: []
+    zho:
+    - - '名: 卫生巾'
+      - 衛生棉
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - menstrual pad
+      - (sanitary) pad
+    epo:
+      s:
+      - menstrua tuko
+      - virina higiena kuseneto
+    spa:
+      s:
+      - toalla sanitaria
+    deu: []
+    fra: []
+    rus: []
+    zho:
+      名:
+      - 卫生巾
+      - 衛生棉
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - hayzi
+    - +
+    - kumax
 hazam:
   term: hazam
   word class: b.oro
@@ -201032,12 +201827,19 @@ hijabu:
     - - 's: hiĝabo'
     spa:
     - - 's: hiyab'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - 'S: Kopftuch'
+      - Hidschab
+    fra:
+    - - 'n: hidjab'
+    rus:
+    - - 'сущ: хиджаб'
+    zho:
+    - - '名: 希贾布'
+    hin:
+    - - 'सं: हिजाब'
+    ara:
+    - - 'اسم: حِجَاب، خِمَار'
   trans_v2:
     eng:
       "n":
@@ -201048,12 +201850,25 @@ hijabu:
     spa:
       s:
       - hiyab
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      S:
+      - Kopftuch
+      - Hidschab
+    fra:
+      "n":
+      - hidjab
+    rus:
+      сущ:
+      - хиджаб
+    zho:
+      名:
+      - 希贾布
+    hin:
+      सं:
+      - हिजाब
+    ara:
+      اسم:
+      - حِجَاب، خِمَار
   etymology:
     natlang:
       Arabisa: حِجَاب &ldquo;hijab&rdquo;
@@ -207191,6 +208006,125 @@ hukimuyen:
     - hukimu
     - +
     - -yen
+hula:
+  term: hula
+  word class: b.nenoj
+  category: root
+  trans:
+    eng:
+    - - 'n: hula'
+    - - 'v: (dance the) hula'
+    epo:
+    - - 's: hula danco'
+    - - 'v: huli'
+    spa:
+    - - 's: hula (<em>danza</em>)'
+    - - 'v: bailar hula'
+    deu:
+    - - 'S: Hula'
+    - - 'V: tanzen Hula'
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - hula
+      v:
+      - (dance the) hula
+    epo:
+      s:
+      - hula danco
+      v:
+      - huli
+    spa:
+      s:
+      - hula (<em>danza</em>)
+      v:
+      - bailar hula
+    deu:
+      S:
+      - Hula
+      V:
+      - tanzen Hula
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Arabisa: هولا &ldquo;hula&rdquo;
+      Doycisa: Hula
+      Englisa: hula
+      Espanisa: hula
+      Fransesa: hula
+      Indonesisa: hula
+      Koreasa: 훌라 &ldquo;hulla&rdquo;
+      Niponsa: フラ &ldquo;hura&rdquo;
+      Parsisa: هولا &ldquo;hula&rdquo;
+      Putunhwa: 呼拉 &ldquo;hula&rdquo;
+      Turkisa: hula
+hulahalke:
+  term: hulahalke
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: hula hoop'
+    epo:
+    - - 's: hulringo'
+    spa:
+    - - 's: hula hula'
+      - <em>hula hoop</em>
+    deu:
+    - - 'S: Hula-Hoop-Reifen'
+    fra:
+    - - 'n: hula hoop'
+      - hula-hoop
+      - houla-hop
+    rus:
+    - - 'сущ: хулахуп'
+      - обруч
+    zho:
+    - - '名: 呼啦圈'
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - hula hoop
+    epo:
+      s:
+      - hulringo
+    spa:
+      s:
+      - hula hula
+      - <em>hula hoop</em>
+    deu:
+      S:
+      - Hula-Hoop-Reifen
+    fra:
+      "n":
+      - hula hoop
+      - hula-hoop
+      - houla-hop
+    rus:
+      сущ:
+      - хулахуп
+      - обруч
+    zho:
+      名:
+      - 呼啦圈
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - hula
+    - +
+    - halke
 hulasa:
   term: hulasa
   word class: b.oj
@@ -208672,6 +209606,53 @@ hwanjin:
     natlang:
       Koreasa: 환경 &ldquo;hwangyeong&rdquo;
       Putunhwa: 环境 &ldquo;hu&aacute;nj&igrave;ng&rdquo;
+hwanjinsyensi:
+  term: hwanjinsyensi
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: environmental science'
+    epo:
+    - - 's: mediscienco'
+    spa:
+    - - 's: ciencias ambientales'
+    deu:
+    - - 'S: Umweltwissenschaften'
+    fra:
+    - - 'n: sciences environnementales'
+    rus: []
+    zho:
+    - - '名: 环境科学'
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - environmental science
+    epo:
+      s:
+      - mediscienco
+    spa:
+      s:
+      - ciencias ambientales
+    deu:
+      S:
+      - Umweltwissenschaften
+    fra:
+      "n":
+      - sciences environnementales
+    rus: []
+    zho:
+      名:
+      - 环境科学
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - hwanjin
+    - +
+    - sysensi
 hwegay:
   term: hwegay
   word class: b.oj
@@ -225388,6 +226369,49 @@ jaballari:
     - jabal
     - +
     - lari
+jabalsatari:
+  term: jabalsatari
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: (mountain) ridge'
+    epo:
+    - - 's: montokresto'
+    spa:
+    - - 's: cresta'
+      - cordal
+    deu: []
+    fra: []
+    rus: []
+    zho:
+    - - '名: 山脊'
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - (mountain) ridge
+    epo:
+      s:
+      - montokresto
+    spa:
+      s:
+      - cresta
+      - cordal
+    deu: []
+    fra: []
+    rus: []
+    zho:
+      名:
+      - 山脊
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - jabal
+    - +
+    - satari
 jabare:
   term: jabare
   word class: b
@@ -231099,6 +232123,54 @@ jeksitul:
     - jeksi
     - +
     - -tul
+jel:
+  term: jel
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: gel'
+    epo:
+    - - 's: ĝelo'
+    spa:
+    - - 's: gel'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - gel
+    epo:
+      s:
+      - ĝelo
+    spa:
+      s:
+      - gel
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Doycsia: Gel
+      Englisa: gel
+      Fransesa: gel
+      Hindi: जेल &ldquo;jel&rdquo;
+      Indonesisa: gel
+      Koreasa: 젤 &ldquo;jel&rdquo;
+      Niponsa: ジェル &ldquo;jeru&rdquo;
+      Parsisa: ژل &ldquo;jel&rdquo;
+      Putunhwa: 啫哩 &ldquo;jeli&rdquo;
+      Rusisa: гель &ldquo;gel&rdquo;
+      Swahilisa: jeli
+      Turkisa: jel
+      Vyetnamsa: gel
 jelatin:
   term: jelatin
   word class: b
@@ -233594,6 +234666,44 @@ jinji:
     natlang:
       Koreasa: 직진 &ldquo;jigjin&rdquo;
       Putunhwa: 迳直 &ldquo;j&igrave;ng zh&iacute;&rdquo;
+jinjiantru:
+  term: jinjiantru
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: rectum'
+    epo:
+    - - 's: rektumo'
+    spa:
+    - - 's: recto'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - rectum
+    epo:
+      s:
+      - rektumo
+    spa:
+      s:
+      - recto
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - jinji
+    - +
+    - antru
 jinjiya:
   term: jinjiya
   word class: b
@@ -234318,6 +235428,44 @@ jismulogi:
     - jismu
     - +
     - logi
+jismumon:
+  term: jismumon
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: body part'
+    epo:
+    - - 's: korpoparto'
+    spa:
+    - - 's: parte del cuerpo'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - body part
+    epo:
+      s:
+      - korpoparto
+    spa:
+      s:
+      - parte del cuerpo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - jismu
+    - +
+    - -mon
 jiu:
   term: jiu
   word class: b.nenoj
@@ -234392,7 +235540,9 @@ jiudom:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 酒吧'
+      - 酒馆
     hin: []
     ara: []
   trans_v2:
@@ -234411,7 +235561,10 @@ jiudom:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 酒吧
+      - 酒馆
     hin: []
     ara: []
   etymology:
@@ -243013,7 +244166,9 @@ kafemesa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 茶几'
+      - 咖啡桌
     hin: []
     ara: []
   trans_v2:
@@ -243029,7 +244184,10 @@ kafemesa:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 茶几
+      - 咖啡桌
     hin: []
     ara: []
   etymology:
@@ -249262,6 +250420,68 @@ kapiexfon:
     - ex-
     - +
     - -fon
+kapifon:
+  term: kapifon
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: headphones'
+    epo:
+    - - 's: kapaŭskultiloj'
+    spa:
+    - - 's: audífonos'
+      - auriculares
+    deu:
+    - - 'S: Kopfhörer'
+    fra:
+    - - 'n: casque audio'
+      - écouteurs
+    rus:
+    - - 'сущ: наушники'
+    zho:
+    - - '名: 耳机'
+      - 头戴式耳机
+    hin:
+    - - 'सं: हेडफ़ोन'
+    ara:
+    - - 'اسم: سَمَّاعَات رَأْس'
+  trans_v2:
+    eng:
+      "n":
+      - headphones
+    epo:
+      s:
+      - kapaŭskultiloj
+    spa:
+      s:
+      - audífonos
+      - auriculares
+    deu:
+      S:
+      - Kopfhörer
+    fra:
+      "n":
+      - casque audio
+      - écouteurs
+    rus:
+      сущ:
+      - наушники
+    zho:
+      名:
+      - 耳机
+      - 头戴式耳机
+    hin:
+      सं:
+      - हेडफ़ोन
+    ara:
+      اسم:
+      - سَمَّاعَات رَأْس
+  etymology:
+    derived:
+    - kapi
+    - +
+    - -fon
 kapikumax:
   term: kapikumax
   word class: b
@@ -253205,6 +254425,50 @@ karton:
       Rusisa: картон &ldquo;karton&rdquo;
       Turkisa: karton
       Vyetnamsa: c&aacute;c t&ocirc;ng
+kartonkaxa:
+  term: kartonkaxa
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: carton'
+      - cardboard container
+    epo:
+    - - 's: kartono'
+      - kartona ujo
+    spa:
+    - - 's: (envase de) cartón'
+      - caja
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - carton
+      - cardboard container
+    epo:
+      s:
+      - kartono
+      - kartona ujo
+    spa:
+      s:
+      - (envase de) cartón
+      - caja
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - karton
+    - +
+    - kaxa
 karusel:
   term: karusel
   word class: b
@@ -254619,6 +255883,56 @@ kataryen:
     - katar
     - +
     - -yen
+katatahta:
+  term: katatahta
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: cutting board'
+    epo:
+    - - 's: haktabulo'
+      - tranĉtabulo
+    spa:
+    - - 's: table de cortar'
+    deu: []
+    fra: []
+    rus:
+    - - 'сущ: разделочная доска'
+    zho:
+    - - '名: 砧板'
+      - 菜板
+      - 案板
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - cutting board
+    epo:
+      s:
+      - haktabulo
+      - tranĉtabulo
+    spa:
+      s:
+      - table de cortar
+    deu: []
+    fra: []
+    rus:
+      сущ:
+      - разделочная доска
+    zho:
+      名:
+      - 砧板
+      - 菜板
+      - 案板
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - kata
+    - +
+    - tahta
 katatul:
   term: katatul
   word class: b
@@ -255082,6 +256396,46 @@ katinaya:
     - katina
     - +
     - -ya
+katitul:
+  term: katitul
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: clipper(s)'
+    epo:
+    - - 's: tondilo'
+    spa:
+    - - 's: tijeras'
+      - cortadora
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - clipper(s)
+    epo:
+      s:
+      - tondilo
+    spa:
+      s:
+      - tijeras
+      - cortadora
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - kati
+    - +
+    - -tul
 katoliki:
   term: Katoliki
   word class: su t
@@ -259595,7 +260949,7 @@ kewatu:
     - watu
 kexru:
   term: kexru
-  word class: b
+  word class: b.oj
   category: root
   trans:
     eng:
@@ -259607,13 +260961,16 @@ kexru:
       - hull
       - husk
       - cortex
+    - - 'v.tr: peel'
     epo:
     - - 's: ŝelo'
       - krusto
       - kortiko
+    - - 'v.tr: senŝeligi'
     spa:
     - - 's: cáscara'
       - corteza
+    - - 'v.tr: pelar'
     deu:
     - - 'S: Schale'
       - Hülle
@@ -259627,6 +260984,9 @@ kexru:
       - peau
       - enveloppe
       - cosse
+    - - 'v: peler'
+      - éplucher
+      - décortiquer
     rus:
     - - 'сущ: скорлупа'
       - кожура
@@ -259651,15 +261011,21 @@ kexru:
       - hull
       - husk
       - cortex
+      v.tr:
+      - peel
     epo:
       s:
       - ŝelo
       - krusto
       - kortiko
+      v.tr:
+      - senŝeligi
     spa:
       s:
       - cáscara
       - corteza
+      v.tr:
+      - pelar
     deu:
       S:
       - Schale
@@ -259675,6 +261041,10 @@ kexru:
       - peau
       - enveloppe
       - cosse
+      v:
+      - peler
+      - éplucher
+      - décortiquer
     rus:
       сущ:
       - скорлупа
@@ -259700,6 +261070,132 @@ kexru:
       Parsisa: قشر &ldquo;kexr&rdquo;
       Putunhwa: 壳 &ldquo;ke, ker&rdquo;
       Turkisa: kabuk
+kexrukalgi:
+  term: kexrukalgi
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - 'n: peeling'
+    - - 'v.tr: peel'
+    epo:
+    - - 's: senŝeligo'
+    - - 'v: senŝeligi'
+    spa:
+    - - 'v.tr: pelar'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - peeling
+      v.tr:
+      - peel
+    epo:
+      s:
+      - senŝeligo
+      v:
+      - senŝeligi
+    spa:
+      v.tr:
+      - pelar
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - kexru
+    - +
+    - -kal
+    - +
+    - -gi
+kexrukalgitul:
+  term: kexrukalgitul
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: peeler'
+    epo:
+    - - 's: senŝeligilo'
+    spa:
+    - - 's: pelador'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - peeler
+    epo:
+      s:
+      - senŝeligilo
+    spa:
+      s:
+      - pelador
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - kexru
+    - +
+    - -kal
+    - +
+    - -gi
+    - +
+    - -tul
+kexrutul:
+  term: kexrutul
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: peeler'
+    epo:
+    - - 's: senŝeligilo'
+    spa:
+    - - 's: pelador'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - peeler
+    epo:
+      s:
+      - senŝeligilo
+    spa:
+      s:
+      - pelador
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - kexru
+    - +
+    - -tul
 ki:
   term: ki
   word class: l
@@ -267962,11 +269458,11 @@ komisi:
     eng:
     - - 'n: commission'
     epo:
-    - - komisio
-    - - komisii
+    - - 's: komisio'
+    - - 'v: komisii'
     spa:
-    - - comisión
-    - - comisionar
+    - - 's: comisión'
+    - - 'v: comisionar'
     deu: []
     fra: []
     rus: []
@@ -267978,14 +269474,14 @@ komisi:
       "n":
       - commission
     epo:
-      noun:
+      s:
       - komisio
-      verb:
+      v:
       - komisii
     spa:
-      noun:
+      s:
       - comisión
-      verb:
+      v:
       - comisionar
     deu: []
     fra: []
@@ -269028,6 +270524,86 @@ komputer:
       Rusisa: компьютер &ldquo;kompyuter&rdquo;
       Swahilisa: kompyuta
       Telugusa: కంప్యూటర్ &ldquo;kampyutar&rdquo;
+komputersyensi:
+  term: komputersyensi
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: computer science'
+    epo:
+    - - 's: komputiko'
+      - komputoscienco
+      - informa scienco
+    spa:
+    - - 's: (ciencia) informática'
+      - computación
+      - ciencia computacional
+    deu:
+    - - 'S: Informatik'
+      - Computerwissenschaft
+    fra:
+    - - 'n: informatique'
+    rus:
+    - - 'сущ: информатика'
+    zho:
+    - - '名: 计算机科学'
+    hin:
+    - - 'सं: कंप्यूटर विज्ञान'
+      - संगणिकी
+      - संगणन शास्त्र
+      - संगणक विज्ञान
+      - संगणन सिद्धान्त
+      - कंप्यूटर-साइंस
+    ara:
+    - - 'اسم: عِلْم الْحَاسُوب'
+      - حَاسُوبِيَّات
+      - عِلْم الْكَمْبْيُوتَر
+  trans_v2:
+    eng:
+      "n":
+      - computer science
+    epo:
+      s:
+      - komputiko
+      - komputoscienco
+      - informa scienco
+    spa:
+      s:
+      - (ciencia) informática
+      - computación
+      - ciencia computacional
+    deu:
+      S:
+      - Informatik
+      - Computerwissenschaft
+    fra:
+      "n":
+      - informatique
+    rus:
+      сущ:
+      - информатика
+    zho:
+      名:
+      - 计算机科学
+    hin:
+      सं:
+      - कंप्यूटर विज्ञान
+      - संगणिकी
+      - संगणन शास्त्र
+      - संगणक विज्ञान
+      - संगणन सिद्धान्त
+      - कंप्यूटर-साइंस
+    ara:
+      اسم:
+      - عِلْم الْحَاسُوب
+      - حَاسُوبِيَّات
+      - عِلْم الْكَمْبْيُوتَر
+  etymology:
+    derived:
+    - komputer
+    - +
+    - syensi
 komun:
   term: komun
   word class: t
@@ -297948,6 +299524,49 @@ lilhaliju:
     - lil-
     - +
     - haliju
+lilhosu:
+  term: lilhosu
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: pond'
+    epo:
+    - - 's: lageto'
+    spa:
+    - - 's: estanque'
+    deu:
+    - - 'S: Teich'
+      - Weiher
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - pond
+    epo:
+      s:
+      - lageto
+    spa:
+      s:
+      - estanque
+    deu:
+      S:
+      - Teich
+      - Weiher
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - lil-
+    - +
+    - hosu
 liljabal:
   term: liljabal
   word class: b
@@ -326410,7 +328029,8 @@ mekukunavi:
     spa:
     - - 's: ferri'
       - transbordador
-    deu: []
+    deu:
+    - - 'S: Fähre'
     fra: []
     rus: []
     zho: []
@@ -326427,7 +328047,9 @@ mekukunavi:
       s:
       - ferri
       - transbordador
-    deu: []
+    deu:
+      S:
+      - Fähre
     fra: []
     rus: []
     zho: []
@@ -331074,6 +332696,44 @@ meter:
       Indonesisa: termometer
       Rusisa: термометр &ldquo;termometr&rdquo;
       Turkisa: termometre
+meterbendu:
+  term: meterbendu
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: measuring tape'
+    epo:
+    - - 's: mezurbendo'
+    spa:
+    - - 's: cintra métrica'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - measuring tape
+    epo:
+      s:
+      - mezurbendo
+    spa:
+      s:
+      - cintra métrica
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - meter
+    - +
+    - bendu
 metergumbo:
   term: metergumbo
   word class: b
@@ -331112,6 +332772,44 @@ metergumbo:
     - meter
     - +
     - gumbo
+meterkopa:
+  term: meterkopa
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: measuring cup'
+    epo:
+    - - 's: mezurkruĉo'
+    spa:
+    - - 's: taza medidora'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - measuring cup
+    epo:
+      s:
+      - mezurkruĉo
+    spa:
+      s:
+      - taza medidora
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - meter
+    - +
+    - kopa
 meterya:
   term: meterya
   word class: b
@@ -333588,6 +335286,91 @@ mikrometro:
     - mikro
     - +
     - metro
+mikromoja:
+  term: mikromoja
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: microwave'
+    - - 'n: microwave (oven)'
+    epo:
+    - - 's: mikroondo'
+    - - 's: mikroondilo'
+    spa:
+    - - 's: microonda'
+    - - 's: (horno de) microondas'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - microwave (oven)
+    epo:
+      s:
+      - mikroondilo
+    spa:
+      s:
+      - (horno de) microondas
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - mikro
+    - +
+    - moja
+mikromojafurno:
+  term: mikromojafurno
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: microwave (oven)'
+    epo:
+    - - 's: mikroonda forno'
+      - mikroondilo
+      - mikroonda kuirilo
+    spa:
+    - - 's: (horno de) microondas'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - microwave (oven)
+    epo:
+      s:
+      - mikroonda forno
+      - mikroondilo
+      - mikroonda kuirilo
+    spa:
+      s:
+      - (horno de) microondas
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - mikro
+    - +
+    - moja
+    - +
+    - furno
 mikronesi:
   term: Mikronesi
   word class: su n
@@ -337699,8 +339482,8 @@ mizani:
   category: root
   trans:
     eng:
-    - - 'n: scales'
-      - balance
+    - - 'n: balance'
+      - (balance) scale
     epo:
     - - 's: pesilo'
     spa:
@@ -337722,8 +339505,8 @@ mizani:
   trans_v2:
     eng:
       "n":
-      - scales
       - balance
+      - (balance) scale
     epo:
       s:
       - pesilo
@@ -339454,13 +341237,14 @@ moksay:
       Koreasa: 목재 &ldquo;mogjae&rdquo;
       Niponsa: 木材 &ldquo;mokuzai&rdquo;
       Putunhwa: 木材 &ldquo;m&ugrave;c&aacute;i&rdquo;
-moksayboloku:
-  term: moksayboloku
+moksaybloke:
+  term: moksaybloke
   word class: b
   category: derived
   trans:
     eng:
     - - 'n: woodblock'
+      - (wooden) block
     epo:
     - - 's: lignobloko'
     spa:
@@ -339483,6 +341267,7 @@ moksayboloku:
     eng:
       "n":
       - woodblock
+      - (wooden) block
     epo:
       s:
       - lignobloko
@@ -339513,7 +341298,7 @@ moksayboloku:
     derived:
     - moksay
     - +
-    - boloku
+    - bloke
 moksayli:
   term: moksayli
   word class: t
@@ -347128,6 +348913,44 @@ munte:
       Englisa: mouth
       Hindi: मुंह &ldquo;munh&rdquo;
       Indonesisa: mulut
+munteente:
+  term: munteente
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: mouthwash'
+    epo:
+    - - 's: buŝlavaĵo'
+    spa:
+    - - 's: enjuague bucal'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - mouthwash
+    epo:
+      s:
+      - buŝlavaĵo
+    spa:
+      s:
+      - enjuague bucal
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - munte
+    - +
+    - ente
 muntekumax:
   term: muntekumax
   word class: b
@@ -347186,6 +349009,46 @@ muntekumax:
     - munte
     - +
     - kumax
+muntewoxaente:
+  term: muntewoxaente
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: mouthwash'
+    epo:
+    - - 's: buŝlavaĵo'
+    spa:
+    - - 's: enjuague bucal'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - mouthwash
+    epo:
+      s:
+      - buŝlavaĵo
+    spa:
+      s:
+      - enjuague bucal
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - munta
+    - +
+    - woxa
+    - +
+    - ente
 muraba:
   term: muraba
   word class: b
@@ -350426,6 +352289,44 @@ nahirbyen:
     - nahir
     - +
     - byen
+nahirfini:
+  term: nahirfini
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: estuary'
+    epo:
+    - - 's: estuaro'
+    spa:
+    - - 's: estuario'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - estuary
+    epo:
+      s:
+      - estuaro
+    spa:
+      s:
+      - estuario
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - nahir
+    - +
+    - fini
 nahirsokutu:
   term: nahirsokutu
   word class: b
@@ -350763,6 +352664,46 @@ nakun:
     natlang:
       Hindi: थूकना &ldquo;nākhun&rdquo;
       Parsisa: ناخن &ldquo;n&acirc;xon&rdquo;
+nakunkatitul:
+  term: nakunkatitul
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: nail clippers'
+    epo:
+    - - 's: ungotondilo'
+    spa:
+    - - 's: cortauñas'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - nail clippers
+    epo:
+      s:
+      - ungotondilo
+    spa:
+      s:
+      - cortauñas
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - nakun
+    - +
+    - kati
+    - +
+    - -tul
 namake:
   term: namake
   word class: b
@@ -352428,10 +354369,14 @@ nasakumax:
   trans:
     eng:
     - - 'n: handkerchief'
+      - (facial) tissue
     epo:
     - - 's: naztuko'
+      - papera naztuko
     spa:
     - - 's: pañuelo'
+      - pañuelo de papel
+      - clínex
     deu:
     - - 'S: Taschentuch'
       - Sacktuch
@@ -352449,12 +354394,16 @@ nasakumax:
     eng:
       "n":
       - handkerchief
+      - (facial) tissue
     epo:
       s:
       - naztuko
+      - papera naztuko
     spa:
       s:
       - pañuelo
+      - pañuelo de papel
+      - clínex
     deu:
       S:
       - Taschentuch
@@ -365815,7 +367764,8 @@ notu:
   category: root
   trans:
     eng:
-    - - 'v.tr: nut (<em>tool</em>)'
+    - - 'n: nut (<em>tool</em>)'
+    - - 'v.tr: nut'
     epo:
     - - 's: ŝraŭbingumo'
     - - 'v.tr: ŝraŭbingumi'
@@ -365832,8 +367782,10 @@ notu:
     ara: []
   trans_v2:
     eng:
-      v.tr:
+      "n":
       - nut (<em>tool</em>)
+      v.tr:
+      - nut
     epo:
       s:
       - ŝraŭbingumo
@@ -375939,6 +377891,70 @@ oredo:
     - ore
     - +
     - -do
+oreexfon:
+  term: oreexfon
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: earphones'
+    epo:
+    - - 's: aŭskultilo'
+    spa:
+    - - 's: auriculares'
+    deu:
+    - - 'S: Ohrhörer'
+      - Kopfhörer
+    fra:
+    - - 'n: écouteurs'
+    rus:
+    - - 'сущ: наушники'
+    zho:
+    - - '名: 耳机'
+      - 入耳式耳机
+    hin:
+    - - 'सं: इयरफ़ोन'
+      - कर्णफ़ोन
+    ara:
+    - - 'اسم: سَمَّاعَة أُذُن'
+  trans_v2:
+    eng:
+      "n":
+      - earphones
+    epo:
+      s:
+      - aŭskultilo
+    spa:
+      s:
+      - auriculares
+    deu:
+      S:
+      - Ohrhörer
+      - Kopfhörer
+    fra:
+      "n":
+      - écouteurs
+    rus:
+      сущ:
+      - наушники
+    zho:
+      名:
+      - 耳机
+      - 入耳式耳机
+    hin:
+      सं:
+      - इयरफ़ोन
+      - कर्णफ़ोन
+    ara:
+      اسم:
+      - سَمَّاعَة أُذُن
+  etymology:
+    derived:
+    - ore
+    - +
+    - ex
+    - +
+    - -fon
 orefon:
   term: orefon
   word class: b
@@ -379472,6 +381488,44 @@ ovofigurali:
     - figura
     - +
     - -li
+ovoglandu:
+  term: ovoglandu
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: ovary'
+    epo:
+    - - 's: ovario'
+    spa:
+    - - 's: ovario'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - ovary
+    epo:
+      s:
+      - ovario
+    spa:
+      s:
+      - ovario
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ovo
+    - +
+    - glandu
 ovokexru:
   term: ovokexru
   word class: b
@@ -386451,14 +388505,18 @@ pasa:
     - - 'v.tr: pass'
       - go by (<em>time or space</em>)
       - spend (<em>time</em>)
+      - take (<em>someone time</em>)
     epo:
     - - 's: paso'
     - - 'v.tr: pasi'
+      - bezoni (<em>tempon</em>)
     spa:
     - - 's: paso'
       - transcurso
     - - 'v.tr: pasar'
       - transcurrir
+      - tardar (<em>tiempo</em>)
+      - llevarle (<em>tiempo</em>) a uno
     deu: []
     fra: []
     rus: []
@@ -386474,11 +388532,13 @@ pasa:
       - pass
       - go by (<em>time or space</em>)
       - spend (<em>time</em>)
+      - take (<em>someone time</em>)
     epo:
       s:
       - paso
       v.tr:
       - pasi
+      - bezoni (<em>tempon</em>)
     spa:
       s:
       - paso
@@ -386486,6 +388546,8 @@ pasa:
       v.tr:
       - pasar
       - transcurrir
+      - tardar (<em>tiempo</em>)
+      - llevarle (<em>tiempo</em>) a uno
     deu: []
     fra: []
     rus: []
@@ -389226,6 +391288,44 @@ pedadao:
     - peda
     - +
     - dao
+pedadari:
+  term: pedadari
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: toe'
+    epo:
+    - - 's: piedfingro'
+    spa:
+    - - 's: dedo del pie'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - toe
+    epo:
+      s:
+      - piedfingro
+    spa:
+      s:
+      - dedo del pie
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - peda
+    - +
+    - dari
 pedagenu:
   term: pedagenu
   word class: b
@@ -394817,6 +396917,48 @@ pifuitis:
     - pifu
     - +
     - itis
+pifukrema:
+  term: pifukrema
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: lotion'
+      - (skin) cream
+    epo:
+    - - 's: (haŭta) kremo'
+      - locio
+    spa:
+    - - 's: crema (hidratante)'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - lotion
+      - (skin) cream
+    epo:
+      s:
+      - (haŭta) kremo
+      - locio
+    spa:
+      s:
+      - crema (hidratante)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - pifu
+    - +
+    - krema
 pifumedis:
   term: pifumedis
   word class: b
@@ -396692,6 +398834,56 @@ pincado:
     - pinca
     - +
     - -do
+pincatul:
+  term: pincatul
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: pliers'
+      - pincers
+      - tongs
+    epo:
+    - - 's: pinĉilo'
+      - tenajlo
+      - prenilo
+    spa:
+    - - 's: alicates'
+      - pinzas
+      - tenazas
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - pliers
+      - pincers
+      - tongs
+    epo:
+      s:
+      - pinĉilo
+      - tenajlo
+      - prenilo
+    spa:
+      s:
+      - alicates
+      - pinzas
+      - tenazas
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - pinca
+    - +
+    - -tul
 pingo:
   term: pingo
   word class: b
@@ -397858,6 +400050,44 @@ pixi:
       Parsisa: پیشاب &ldquo;pexab&rdquo;, پیشیار &ldquo;pixyar&rdquo;, جیش &ldquo;jix&rdquo;
       Rusisa: писать &ldquo;pisat&rdquo;
       Turkisa: '&ccedil;iş &ldquo;cix&rdquo;, işeme &ldquo;ixme&rdquo;'
+pixicanal:
+  term: pixicanal
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: urethra'
+    epo:
+    - - 's: uretro'
+    spa:
+    - - 's: uretra'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - urethra
+    epo:
+      s:
+      - uretro
+    spa:
+      s:
+      - uretra
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - pixi
+    - +
+    - canal
 pixigi:
   term: pixigi
   word class: b.oj
@@ -397905,6 +400135,46 @@ pixigi:
     - pixi
     - +
     - -gi
+pixipangwan:
+  term: pixipangwan
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: (urinary) bladder'
+    epo:
+    - - 's: urina veziko'
+      - urinveziko
+    spa:
+    - - 's: vejiga (urinaria)'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - (urinary) bladder
+    epo:
+      s:
+      - urina veziko
+      - urinveziko
+    spa:
+      s:
+      - vejiga (urinaria)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - pixi
+    - +
+    - pangwan
 plagu:
   term: plagu
   word class: b.oj
@@ -401193,6 +403463,74 @@ politili:
     - politi
     - +
     - -li
+politisyensi:
+  term: politisyensi
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: political science'
+    epo:
+    - - 's: politika scienco'
+      - politikologio
+      - aŭ politikoscienco
+    spa:
+    - - 's: ciencia política'
+      - politología
+    deu:
+    - - 'S: Politikwissenschaft'
+      - Politologie
+    fra:
+    - - 'n: science politique'
+      - politologie
+    rus:
+    - - 'сущ: политология'
+      - политические науки
+    zho:
+    - - '名: 政治学'
+    hin:
+    - - 'सं: राजनीति विज्ञान'
+    ara:
+    - - 'اسم: علوم سياسية'
+  trans_v2:
+    eng:
+      "n":
+      - political science
+    epo:
+      s:
+      - politika scienco
+      - politikologio
+      - aŭ politikoscienco
+    spa:
+      s:
+      - ciencia política
+      - politología
+    deu:
+      S:
+      - Politikwissenschaft
+      - Politologie
+    fra:
+      "n":
+      - science politique
+      - politologie
+    rus:
+      сущ:
+      - политология
+      - политические науки
+    zho:
+      名:
+      - 政治学
+    hin:
+      सं:
+      - राजनीति विज्ञान
+    ara:
+      اسم:
+      - علوم سياسية
+  etymology:
+    derived:
+    - politi
+    - +
+    - syensi
 politiyen:
   term: politiyen
   word class: b
@@ -416035,6 +418373,50 @@ rahim:
       Indonesisa: rahim
       Parsisa: رحم &ldquo;rahem&rdquo;
       Turkisa: rahim
+rahimcanal:
+  term: rahimcanal
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: fallopian tube'
+      - uterine tube
+    epo:
+    - - 's: ovodukto'
+      - salpingo
+    spa:
+    - - 's: trompa de Falopio'
+      - trompa uterina
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - fallopian tube
+      - uterine tube
+    epo:
+      s:
+      - ovodukto
+      - salpingo
+    spa:
+      s:
+      - trompa de Falopio
+      - trompa uterina
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - rahim
+    - +
+    - canal
 rakun:
   term: rakun
   word class: b
@@ -422303,6 +424685,102 @@ riokurne:
     - okur
     - +
     - -ne
+riproduti:
+  term: riproduti
+  word class: b.oro
+  category: derived
+  trans:
+    eng:
+    - - 'n: reproduction'
+    - - 'v.tr: reproduce'
+    - - 'v.intr (optional -cu): reproduce'
+    epo:
+    - - 'n: reproduktado'
+    - - 'v.tr: reprodukti'
+    - - 'v.intr: reproduktiĝi'
+    spa:
+    - - 'n: reproducci ón'
+    - - 'v.tr: reproducir'
+    - - 'v.intr: reproducirse'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - reproduction
+      v.tr:
+      - reproduce
+      v.intr (optional -cu):
+      - reproduce
+    epo:
+      "n":
+      - reproduktado
+      v.tr:
+      - reprodukti
+      v.intr:
+      - reproduktiĝi
+    spa:
+      "n":
+      - reproducci ón
+      v.tr:
+      - reproducir
+      v.intr:
+      - reproducirse
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ri-
+    - +
+    - produti
+riprodutili:
+  term: riprodutili
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: reproductive'
+    epo:
+    - - 'adj: reprodukta'
+    spa:
+    - - 'adj: reproductivo'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - reproductive
+    epo:
+      adj:
+      - reprodukta
+    spa:
+      adj:
+      - reproductivo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ri-
+    - +
+    - produti
+    - +
+    - -li
 ripul:
   term: ripul
   word class: t
@@ -434644,6 +437122,8 @@ sanduku:
   trans:
     eng:
     - - 'n: box'
+      - chest
+      - (storage) bin
     - - 'v.tr: box (<em>put into box</em>)'
     epo:
     - - 's: skatolo'
@@ -434666,6 +437146,8 @@ sanduku:
     eng:
       "n":
       - box
+      - chest
+      - (storage) bin
       v.tr:
       - box (<em>put into box</em>)
     epo:
@@ -446519,7 +449001,7 @@ sifa:
       - property
       - attribute
       - aspect
-    - - 'v.cop: be like'
+    - - 'v.cop: be (like)'
     epo:
     - - 's: eco'
       - trajto
@@ -446567,7 +449049,7 @@ sifa:
       - attribute
       - aspect
       v.cop:
-      - be like
+      - be (like)
     epo:
       s:
       - eco
@@ -463843,6 +466325,7 @@ suyontul:
     eng:
     - - 'n: fin'
       - flipper
+      - fluke
     epo:
     - - 's: naĝilo'
     spa:
@@ -463868,6 +466351,7 @@ suyontul:
       "n":
       - fin
       - flipper
+      - fluke
     epo:
       s:
       - naĝilo
@@ -470003,6 +472487,60 @@ tanke:
       Rusisa: танк &ldquo;tank&rdquo;
       Turkisa: tank
       Vyetnamsa: xe tăng
+tanku:
+  term: tanku
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: tank'
+      - reservoir
+      - cistern
+    epo:
+    - - 's: cisterno'
+      - rezervujo
+    spa:
+    - - 's: tanque'
+      - cisterna
+      - depósito
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - tank
+      - reservoir
+      - cistern
+    epo:
+      s:
+      - cisterno
+      - rezervujo
+    spa:
+      s:
+      - tanque
+      - cisterna
+      - depósito
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Doycisa: Tank
+      Englisa: tank
+      Espanisa: tanque
+      Fransesa: tank
+      HIndi: टंकी &ldquo;tanki&rdquo;
+      Indonesisa: tangki
+      Koreasa: 탱크 &ldquo;tengku&rdquo;
+      Niponsa: タンク &ldquo;tanku&rdquo;
+      Vyetnamsa: th&ugrave;ng
 tantalum:
   term: tantalum
   word class: b
@@ -473556,6 +476094,46 @@ taze:
       Hindi: ताज़ा &ldquo;taaza&rdquo; ताज़ी &ldquo;taazi&rdquo;
       Parsisa: تازه &ldquo;taz&rdquo;
       Turkisa: taze
+tazegiesprey:
+  term: tazegiesprey
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: air freshener'
+    epo:
+    - - 's: aerfreŝigilo'
+    spa:
+    - - 's: ambientador'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - air freshener
+    epo:
+      s:
+      - aerfreŝigilo
+    spa:
+      s:
+      - ambientador
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - taze
+    - +
+    - -gi
+    - +
+    - esprey
 tazeya:
   term: tazeya
   word class: b
@@ -482745,6 +485323,44 @@ tofadom:
     - tofa
     - +
     - -dom
+tofajel:
+  term: tofajel
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: (hair) gel'
+    epo:
+    - - 's: harĝelo'
+    spa:
+    - - 's: gel para cabello'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - (hair) gel
+    epo:
+      s:
+      - harĝelo
+    spa:
+      s:
+      - gel para cabello
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - tofa
+    - +
+    - jel
 tofakal:
   term: tofakal
   word class: t
@@ -482794,6 +485410,46 @@ tofakal:
     - tofa
     - +
     - -kal
+tofakatitul:
+  term: tofakatitul
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: hair clipper'
+    epo:
+    - - 's: hartondilo'
+    spa:
+    - - 's: máquina de cortar cabello'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - hair clipper
+    epo:
+      s:
+      - hartondilo
+    spa:
+      s:
+      - máquina de cortar cabello
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - tofa
+    - +
+    - kati
+    - +
+    - -tul
 tofamon:
   term: tofamon
   word class: b
@@ -482864,6 +485520,48 @@ tofamon:
     - tofa
     - +
     - -mon
+tofasuhegitul:
+  term: tofasuhegitul
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: hair dryer'
+    epo:
+    - - 's: harsekigilo'
+    spa:
+    - - 's: secador de cabello'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - hair dryer
+    epo:
+      s:
+      - harsekigilo
+    spa:
+      s:
+      - secador de cabello
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - tofa
+    - +
+    - suhe
+    - +
+    - -gi
+    - +
+    - -tul
 tofayen:
   term: tofayen
   word class: b
@@ -487259,6 +489957,44 @@ tostaroti:
     - tosta
     - +
     - roti
+tostatora:
+  term: tostatora
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: toaster'
+    epo:
+    - - 's: rostilo'
+    spa:
+    - - 's: tostadora'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - toaster
+    epo:
+      s:
+      - rostilo
+    spa:
+      s:
+      - tostadora
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - tosta
+    - +
+    - tora
 tosu:
   term: tosu
   word class: su s
@@ -499673,6 +502409,44 @@ ustore:
       Hindi: उस्तरा &ldquo;ustara&rdquo;
       Parsisa: استره &ldquo;ostore&rdquo;
       Turkisa: ustura
+ustorekrema:
+  term: ustorekrema
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: shaving cream'
+    epo:
+    - - 's: razkremo'
+    spa:
+    - - 's: crema de afeitar'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - shaving cream
+    epo:
+      s:
+      - razkremo
+    spa:
+      s:
+      - crema de afeitar
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ustore
+    - +
+    - krema
 utara:
   term: utara
   word class: b
@@ -502453,6 +505227,82 @@ velosije:
     - velosi
     - +
     - -je
+velosijemeter:
+  term: velosijemeter
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: speedometer'
+      - tachometer
+      - velocimeter
+    epo:
+    - - 's: rapidmezurilo'
+      - rapidometro
+    spa:
+    - - 's: velocímetro'
+    deu:
+    - - 'S: Tachometer'
+      - Drehzahlmesser
+      - Geschwindigkeitsmesser
+    fra:
+    - - 'n: compteur de vitesse'
+      - tachymètre
+    rus:
+    - - 'сущ: спидометр'
+      - тахометр
+    zho:
+    - - '名: 速度表'
+      - 测速仪
+    hin:
+    - - 'सं: गति मापक'
+      - स्पीडोमीटर
+    ara:
+    - - 'اسم: عَدَّاد سُرْعَة'
+  trans_v2:
+    eng:
+      "n":
+      - speedometer
+      - tachometer
+      - velocimeter
+    epo:
+      s:
+      - rapidmezurilo
+      - rapidometro
+    spa:
+      s:
+      - velocímetro
+    deu:
+      S:
+      - Tachometer
+      - Drehzahlmesser
+      - Geschwindigkeitsmesser
+    fra:
+      "n":
+      - compteur de vitesse
+      - tachymètre
+    rus:
+      сущ:
+      - спидометр
+      - тахометр
+    zho:
+      名:
+      - 速度表
+      - 测速仪
+    hin:
+      सं:
+      - गति मापक
+      - स्पीडोमीटर
+    ara:
+      اسم:
+      - عَدَّاد سُرْعَة
+  etymology:
+    derived:
+    - velosi
+    - +
+    - -je
+    - +
+    - meter
 velosimeter:
   term: velosimeter
   word class: b
@@ -504937,64 +507787,44 @@ voka:
       Niponsa: ボーカリスト &ldquo;bokarisuto&rdquo;
       Rusisa: вокалист &ldquo;vokal&iacute;st&rdquo;
       Turkisa: vokal
-vokafon:
-  term: vokafon
+vokakordo:
+  term: vokakordo
   word class: b
   category: derived
   trans:
     eng:
-    - - 'n: microphone'
+    - - 'n: vocal cords'
     epo:
-    - - 's: mikrofono'
+    - - 's: voĉkordoj'
     spa:
-    - - 's: micrófono'
-    deu:
-    - - 'S: Mikrofon'
-    fra:
-    - - 'n: microphone'
-      - micro
-    rus:
-    - - 'сущ: микрофон'
-    zho:
-    - - '名: 麦克风'
-    hin:
-    - - 'सं: माइक्रोफ़ोन'
-    ara:
-    - - 'اسم: مَيْكْرُوفُون، لَاقِط صَوْت'
+    - - 's: cuerdas vocales'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
   trans_v2:
     eng:
       "n":
-      - microphone
+      - vocal cords
     epo:
       s:
-      - mikrofono
+      - voĉkordoj
     spa:
       s:
-      - micrófono
-    deu:
-      S:
-      - Mikrofon
-    fra:
-      "n":
-      - microphone
-      - micro
-    rus:
-      сущ:
-      - микрофон
-    zho:
-      名:
-      - 麦克风
-    hin:
-      सं:
-      - माइक्रोफ़ोन
-    ara:
-      اسم:
-      - مَيْكْرُوفُون، لَاقِط صَوْت
+      - cuerdas vocales
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
   etymology:
     derived:
     - voka
     - +
-    - -fon
+    - kordo
 vokaya:
   term: vokaya
   word class: b
@@ -505238,6 +508068,112 @@ volexey:
     - vole
     - +
     - -xey
+voli:
+  term: voli
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: volley'
+    epo:
+    - - 's: salvo'
+    spa:
+    - - 's: volea'
+      - voleo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - volley
+    epo:
+      s:
+      - salvo
+    spa:
+      s:
+      - volea
+      - voleo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Doycisa: Volley
+      Englisa: volley
+      Espanisa: volea
+      Fransesa: volley-ball
+      Hindi: वालीबॉल &ldquo;volibal&rdquo;
+      Indonesisa: bola voli
+      Koreasa: 발리볼 &ldquo;ballibol&rdquo;
+      Niponsa: バレーボール &ldquo;bareboru&rdquo;
+      Parsisa: والیبال &ldquo;v&acirc;lib&acirc;l&rdquo;
+      Rusisa: волейбол &ldquo;volejbol&rdquo;
+      Swahilisa: voliboli
+      Telugusa: వాలీబాల్ &ldquo;valibal&rdquo;
+      Turkisa: voleybol
+volibol:
+  term: volibol
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: volleyball'
+    epo:
+    - - 's: flugpilko'
+    spa:
+    - - 's: voleibol'
+    deu:
+    - - 'S: Volleyball'
+    fra:
+    - - 'n: volley-ball'
+    rus:
+    - - 'сущ: волейбол'
+    zho:
+    - - '名: 排球'
+    hin:
+    - - 'सं: वालीबॉल'
+    ara:
+    - - 'اسم: الكُرَةُ اَلْطَّائِرَة'
+  trans_v2:
+    eng:
+      "n":
+      - volleyball
+    epo:
+      s:
+      - flugpilko
+    spa:
+      s:
+      - voleibol
+    deu:
+      S:
+      - Volleyball
+    fra:
+      "n":
+      - volley-ball
+    rus:
+      сущ:
+      - волейбол
+    zho:
+      名:
+      - 排球
+    hin:
+      सं:
+      - वालीबॉल
+    ara:
+      اسم:
+      - الكُرَةُ اَلْطَّائِرَة
+  etymology:
+    derived:
+    - voli
+    - +
+    - -bol
 volkano:
   term: volkano
   word class: b
@@ -505961,7 +508897,9 @@ vyayama:
   trans:
     eng:
     - - 'n: exercise (<em>physical movement</em>)'
+      - workout
     - - 'v.tr: exercise'
+      - work out
     epo:
     - - 's: (fizika) ekzerco'
     - - 'v.tr: (fizike) ekzerciĝi'
@@ -505979,8 +508917,10 @@ vyayama:
     eng:
       "n":
       - exercise (<em>physical movement</em>)
+      - workout
       v.tr:
       - exercise
+      - work out
     epo:
       s:
       - (fizika) ekzerco
@@ -513543,6 +516483,47 @@ xafesoba:
     - xafe
     - +
     - soba
+xafexampu:
+  term: xafexampu
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: (hair) conditioner'
+    epo:
+    - - 's: (har)moligaĵo'
+    spa:
+    - - 's: acondicionador (para el cabello)'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - (hair) conditioner
+    epo:
+      s:
+      - (har)moligaĵo
+    spa:
+      s:
+      - acondicionador (para el cabello)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - xafe
+    - +
+    - xampu
+    natlang similar:
+      Fransesa: apr&egrave;s-shampooing
+      Italisa: dopo-shampoo
 xafexengili:
   term: xafexengili
   word class: t
@@ -527931,6 +530912,44 @@ yamkamer:
     - yam
     - +
     - kamer
+yamkaxa:
+  term: yamkaxa
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: serving container'
+    epo:
+    - - 's: manĝujo'
+    spa:
+    - - 's: recipiente para comida'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - serving container
+    epo:
+      s:
+      - manĝujo
+    spa:
+      s:
+      - recipiente para comida
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - yam
+    - +
+    - kaxa
 yammesa:
   term: yammesa
   word class: b
@@ -537941,6 +540960,48 @@ zubale:
     natlang:
       Arabisa: زبالة &ldquo;zubala&rdquo;
       Parsisa: زباله &ldquo;zob&acirc;le&rdquo;
+zubalebasketo:
+  term: zubalebasketo
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: trash can'
+      - trash bin
+    epo:
+    - - 's: rubujo'
+    spa:
+    - - 's: bote de basura'
+      - basurero
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - trash can
+      - trash bin
+    epo:
+      s:
+      - rubujo
+    spa:
+      s:
+      - bote de basura
+      - basurero
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - zubale
+    - +
+    - basketo
 zubul:
   term: zubul
   word class: b.nenoj
