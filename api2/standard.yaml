@@ -1829,6 +1829,50 @@ a:
       Niponsa: ああ &ldquo;aa&rdquo;
       Putunhwa: 啊 &ldquo;a&rdquo;
       Rusisa: ах &ldquo;ah&rdquo;, a &ldquo;a&rdquo;
+a-marka:
+  term: a-marka
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: at sign'
+      - '@'
+    epo:
+    - - 's: (komerca) ĉe'
+      - '@'
+    spa:
+    - - 's: arroba'
+      - '@'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - at sign
+      - '@'
+    epo:
+      s:
+      - (komerca) ĉe
+      - '@'
+    spa:
+      s:
+      - arroba
+      - '@'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - aya
+    - +
+    - marka
 ababil:
   term: ababil
   word class: b
@@ -2105,7 +2149,7 @@ abece:
     ara: []
   etymology:
     derived:
-    - a
+    - aya
     - +
     - ibe
     - +
@@ -23006,6 +23050,53 @@ apartamenlari:
     - apartamen
     - +
     - lari
+apli:
+  term: apli
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: app'
+      - application
+    epo:
+    - - 's: apo'
+      - aplikaĵo
+    spa:
+    - - 's: <em>app</em>'
+      - aplicación
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - app
+      - application
+    epo:
+      s:
+      - apo
+      - aplikaĵo
+    spa:
+      s:
+      - <em>app</em>
+      - aplicación
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    am oko:
+      aplikaxey: aplikaxey
+    natlang:
+      Espanisa: apli
+      Fransesa: appli
+      Indonesisa: apli
+      Niponsa: apuri
 aplika:
   term: aplika
   word class: b.oro
@@ -23160,6 +23251,95 @@ aplikaible:
     - aplika
     - +
     - ible
+aplikaxey:
+  term: aplikaxey
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: application'
+    epo:
+    - - 's: aplikaĵo'
+    spa:
+    - - 's: aplicación'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - application
+    epo:
+      s:
+      - aplikaĵo
+    spa:
+      s:
+      - aplicación
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - aplika
+    - +
+    - -xey
+apostrof:
+  term: apostrof
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: apostrophe'
+      - ‘ ’
+    epo:
+    - - 's: apostrofo'
+      - ‘ ’
+    spa:
+    - - 's: apóstrofo'
+      - ‘ ’
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - apostrophe
+      - ‘ ’
+    epo:
+      s:
+      - apostrofo
+      - ‘ ’
+    spa:
+      s:
+      - apóstrofo
+      - ‘ ’
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Doycisa: Apostroph
+      Englisa: apostrophe
+      Espanisa: ap&oacute;strofo
+      Fransesa: apostrophe
+      Hindi: एपोस्ट्रोफ़ी &ldquo;epostrofi&rdquo;, अपोस्ट्रॉफ़ी &ldquo;apostrofi&rdquo;
+      Koreasa: 아포스트로피 &ldquo;aposuturopi&rdquo;
+      Niponsa: アポストロフィー &ldquo;aposutorofi&rdquo;
+      Parsi: آپاسْتْروف &ldquo;apastruf&rdquo;
+      Rusisa: апостроф &ldquo;apostrof&rdquo;
+      Swahilisa: apostrofi
 aprikoti:
   term: aprikoti
   word class: b
@@ -25796,6 +25976,53 @@ artedom:
     - arte
     - +
     - -dom
+arteeskeyti:
+  term: arteeskeyti
+  word class: b.nenoj
+  category: derived
+  trans:
+    eng:
+    - - 'n: figure skating'
+    - - 'v.intr: figure skate'
+    epo:
+    - - 's: arta sketado'
+    - - 'v.ntr: artsketi'
+    spa:
+    - - 's: patinaje artístico'
+    - - 'v.intr: practicar patinaje artístico'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - figure skating
+      v.intr:
+      - figure skate
+    epo:
+      s:
+      - arta sketado
+      v.ntr:
+      - artsketi
+    spa:
+      s:
+      - patinaje artístico
+      v.intr:
+      - practicar patinaje artístico
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - arte
+    - +
+    - eskeyti
 arteeskol:
   term: arteeskol
   word class: b
@@ -36250,6 +36477,44 @@ ayseeskeyti:
     - ayse
     - +
     - eskeyti
+aysehoki:
+  term: aysehoki
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: ice hockey'
+    epo:
+    - - 's: glacihokeo'
+    spa:
+    - - 's: hockey sobre hielo'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - ice hockey
+    epo:
+      s:
+      - glacihokeo
+    spa:
+      s:
+      - hockey sobre hielo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ayse
+    - +
+    - hoki
 aysejabal:
   term: aysejabal
   word class: b
@@ -48465,6 +48730,52 @@ baxli:
     - bax
     - +
     - -li
+baxmarka:
+  term: baxmarka
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: underscore'
+      - _
+    epo:
+    - - 's: substreko'
+      - _
+    spa:
+    - - 's: guion bajo'
+      - subraya
+      - _
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - underscore
+      - _
+    epo:
+      s:
+      - substreko
+      - _
+    spa:
+      s:
+      - guion bajo
+      - subraya
+      - _
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - bax-
+    - +
+    - marka
 baxoreitis:
   term: baxoreitis
   word class: b
@@ -72574,6 +72885,50 @@ calyo:
       Koreasa: 차량 &ldquo;chalyang&rdquo;
       Niponsa: 車両 &ldquo;sharyo&rdquo;
       Putunhwa: 车辆 &ldquo;chēli&agrave;ng&rdquo;
+calyodao:
+  term: calyodao
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: lane'
+    epo:
+    - - 's: leno'
+      - koridoro (<em>trafiko</em>)
+    spa:
+    - - 's: carril'
+      - carrilera
+      - senda
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - lane
+    epo:
+      s:
+      - leno
+      - koridoro (<em>trafiko</em>)
+    spa:
+      s:
+      - carril
+      - carrilera
+      - senda
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - calyo
+    - +
+    - dao
 calyoli:
   term: calyoli
   word class: t
@@ -86233,6 +86588,52 @@ dadu:
       Pilipinasa: dado
       Portugalsa: dado
       Swahilisa: dadu
+dafkom:
+  term: dafkom
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: laptop'
+      - notebook (computer)
+    epo:
+    - - 's: tekokomputilo'
+      - sinokomputilo
+      - portebla komputilo
+    spa:
+    - - 's: portátil'
+      - <em>laptop</em>
+      - <em>notebook</em>
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - laptop
+      - notebook (computer)
+    epo:
+      s:
+      - tekokomputilo
+      - sinokomputilo
+      - portebla komputilo
+    spa:
+      s:
+      - portátil
+      - <em>laptop</em>
+      - <em>notebook</em>
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    am oko:
+      daftarikomputer: daftarikomputer
 daftari:
   term: daftari
   word class: b
@@ -86308,6 +86709,56 @@ daftari:
       Parsisa: دفترچه &ldquo;daftarče&rdquo;, دفتر &ldquo;daftar&rdquo;
       Swahilisa: daftari
       Turkisa: not defteri, defter
+daftarikomputer:
+  term: daftarikomputer
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: notebook computer'
+      - laptop
+    epo:
+    - - 's: tekokomputilo'
+      - sinokomputilo
+      - portebla komputilo
+    spa:
+    - - 's: computadora portátil'
+      - ordenador portátil
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - notebook computer
+      - laptop
+    epo:
+      s:
+      - tekokomputilo
+      - sinokomputilo
+      - portebla komputilo
+    spa:
+      s:
+      - computadora portátil
+      - ordenador portátil
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - daftari
+    - +
+    - komputer
+    natlang similar:
+      Englisa: notebook computer
+      Koreasa: 노트북 &ldquo;notubuk&rdquo;
+      Niponsa: ノートパソコン &ldquo;noto pasokon&rdquo;
 dahabu:
   term: dahabu
   word class: b
@@ -88892,6 +89343,8 @@ danyaku:
     eng:
     - - 'n: ammunition'
       - ammo
+      - round
+      - cartridge
     epo:
     - - 's: pafaĵo'
       - municio
@@ -88915,6 +89368,8 @@ danyaku:
       "n":
       - ammunition
       - ammo
+      - round
+      - cartridge
     epo:
       s:
       - pafaĵo
@@ -95294,6 +95749,56 @@ dayloga:
     - day-
     - +
     - loga
+daylogamarka:
+  term: daylogamarka
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: exclamation point'
+      - exclamation mark
+      - bang
+      - '!'
+    epo:
+    - - 's: krisigno'
+      - '!'
+    spa:
+    - - 's: signo de exclamación'
+      - signo de admiración
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - exclamation point
+      - exclamation mark
+      - bang
+      - '!'
+    epo:
+      s:
+      - krisigno
+      - '!'
+    spa:
+      s:
+      - signo de exclamación
+      - signo de admiración
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - day-
+    - +
+    - loga
+    - +
+    - marka
 daylubi:
   term: daylubi
   word class: b.oj
@@ -108795,6 +109300,136 @@ dolo:
       Koreasa: 도로 &ldquo;dolo&rdquo;
       Niponsa: 道路 &ldquo;dōro&rdquo;
       Putunhwa: 道路 &ldquo;d&agrave;ol&ugrave;&rdquo;
+dolodayra:
+  term: dolodayra
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: roundabout'
+    epo:
+    - - 's: trafikocirklo'
+      - rondira trafiko
+      - ringotrafiko
+    spa:
+    - - 's: rotonda'
+      - glorieta
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - roundabout
+    epo:
+      s:
+      - trafikocirklo
+      - rondira trafiko
+      - ringotrafiko
+    spa:
+      s:
+      - rotonda
+      - glorieta
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - dolo
+    - +
+    - dayra
+doloixara:
+  term: doloixara
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: road sign'
+      - traffic sign
+    epo:
+    - - 's: trafiksignalo'
+      - trafikŝildo
+    spa:
+    - - 's: señal de tráfico'
+      - señal de tránsito
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - road sign
+      - traffic sign
+    epo:
+      s:
+      - trafiksignalo
+      - trafikŝildo
+    spa:
+      s:
+      - señal de tráfico
+      - señal de tránsito
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - dolo
+    - +
+    - ixara
+dolosaluba:
+  term: dolosaluba
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: intersection'
+      - crossroads
+    epo:
+    - - 's: (voj)kruciĝo'
+    spa:
+    - - 's: cruce (de caminos)'
+      - intersección (vial)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - intersection
+      - crossroads
+    epo:
+      s:
+      - (voj)kruciĝo
+    spa:
+      s:
+      - cruce (de caminos)
+      - intersección (vial)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - dolo
+    - +
+    - saluba
 dom:
   term: dom
   word class: b
@@ -113180,6 +113815,66 @@ duacalun:
     - dua
     - +
     - calun
+duacalundao:
+  term: duacalundao
+  word class: d
+  category: derived
+  trans:
+    eng:
+    - - 'n: bicycle path'
+      - bike path
+      - cycle path
+      - bike lane
+      - bikeway
+      - cycleway
+    epo:
+    - - 's: biciklovojo'
+    spa:
+    - - 's: pista bici'
+      - pista ciclable
+      - bicipista
+      - vía ciclista
+      - vía ciclable
+      - ciclovía
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - bicycle path
+      - bike path
+      - cycle path
+      - bike lane
+      - bikeway
+      - cycleway
+    epo:
+      s:
+      - biciklovojo
+    spa:
+      s:
+      - pista bici
+      - pista ciclable
+      - bicipista
+      - vía ciclista
+      - vía ciclable
+      - ciclovía
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - dua
+    - +
+    - calun
+    - +
+    - dao
 duacen:
   term: duacen
   word class: num
@@ -117388,6 +118083,44 @@ dunya:
       Parsisa: دنیا &ldquo;dony&acirc;&rdquo; - globa
       Swahilisa: dunia
       Turkisa: D&uuml;nya
+dunyaesfer:
+  term: dunyaesfer
+  word class: d
+  category: derived
+  trans:
+    eng:
+    - - 'n: globe'
+    epo:
+    - - 's: terglobuso'
+    spa:
+    - - 's: globo'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - globe
+    epo:
+      s:
+      - terglobuso
+    spa:
+      s:
+      - globo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - dunya
+    - +
+    - esfer
 dunyayen:
   term: Dunyayen
   word class: su n
@@ -127131,6 +127864,44 @@ ergo:
       Pilipinasa: ergonomiya
       Rusisa: эргономика &ldquo;ergonomika&rdquo;
       Turkisa: ergonomi
+ergodahun:
+  term: ergodahun
+  word class: d
+  category: derived
+  trans:
+    eng:
+    - - 'n: worksheet'
+    epo:
+    - - 's: laborfolio'
+    spa:
+    - - 's: hoja de trabajo'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - worksheet
+    epo:
+      s:
+      - laborfolio
+    spa:
+      s:
+      - hoja de trabajo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ergo
+    - +
+    - dahun
 ergodom:
   term: ergodom
   word class: b
@@ -134676,6 +135447,50 @@ estarelari:
     - estare
     - +
     - lari
+estaremarka:
+  term: estaremarka
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: asterisk'
+      - '*'
+    epo:
+    - - 's: asterisko'
+      - '*'
+    spa:
+    - - 's: asterisco'
+      - '*'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - asterisk
+      - '*'
+    epo:
+      s:
+      - asterisko
+      - '*'
+    spa:
+      s:
+      - asterisco
+      - '*'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - estare
+    - +
+    - marka
 estatisti:
   term: estatisti
   word class: b
@@ -135244,6 +136059,52 @@ estayli:
     - -li
     natlang similar:
       Arabisa: قَائِم
+estaymarka:
+  term: estaymarka
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: vertical bar'
+      - pipe (typography)
+      - '|'
+    epo:
+    - - 's: vertikala streko'
+      - '|'
+    spa:
+    - - 's: pleca'
+      - '|'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - vertical bar
+      - pipe (typography)
+      - '|'
+    epo:
+      s:
+      - vertikala streko
+      - '|'
+    spa:
+      s:
+      - pleca
+      - '|'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - estay
+    - +
+    - marka
 estayne:
   term: estayne
   word class: t
@@ -136580,6 +137441,48 @@ estodom:
     - esto
     - +
     - -dom
+estoixara:
+  term: estoixara
+  word class: d
+  category: derived
+  trans:
+    eng:
+    - - 'n: stop sign'
+    epo:
+    - - 's: haltŝildo'
+    spa:
+    - - 's: señal de alto'
+      - señal de pare
+      - <em>stop</em>
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - stop sign
+    epo:
+      s:
+      - haltŝildo
+    spa:
+      s:
+      - señal de alto
+      - señal de pare
+      - <em>stop</em>
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - esto
+    - +
+    - ixara
 estoka:
   term: estoka
   word class: b.oj
@@ -160561,6 +161464,60 @@ fleyabil:
     - fley
     - +
     - abil
+fleydisko:
+  term: fleydisko
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: frisbee'
+      - flying disc
+    epo:
+    - - 's: flugdisko'
+    spa:
+    - - 's: frisbi'
+      - <em>frisbee</em>
+      - disco volador
+    deu: []
+    fra:
+    - - 'n: frisbee'
+      - disque-volant
+    rus: []
+    zho:
+    - - '名: 飞盘'
+      - 飞碟
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - frisbee
+      - flying disc
+    epo:
+      s:
+      - flugdisko
+    spa:
+      s:
+      - frisbi
+      - <em>frisbee</em>
+      - disco volador
+    deu: []
+    fra:
+      "n":
+      - frisbee
+      - disque-volant
+    rus: []
+    zho:
+      名:
+      - 飞盘
+      - 飞碟
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - fley
+    - +
+    - disko
 fleygi:
   term: fleygi
   word class: b.oj
@@ -182885,6 +183842,60 @@ gona:
       Pilipinasa: eksagonal, heksagonal
       Swahilisa: kona
       Telugusa: కోణం &ldquo;konam&rdquo;
+gonagwaho:
+  term: gonagwaho
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: angle bracket'
+      - chevron
+      - '&lt; &gt;'
+      - ⟨ ⟩
+    epo:
+    - - 's: angula krampo'
+      - '&lt; &gt;'
+      - ⟨ ⟩
+    spa:
+    - - 's: antilambda'
+      - corchete angular
+      - '&lt; &gt;'
+      - ⟨ ⟩
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - angle bracket
+      - chevron
+      - '&lt; &gt;'
+      - ⟨ ⟩
+    epo:
+      s:
+      - angula krampo
+      - '&lt; &gt;'
+      - ⟨ ⟩
+    spa:
+      s:
+      - antilambda
+      - corchete angular
+      - '&lt; &gt;'
+      - ⟨ ⟩
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - gona
+    - +
+    - gwaho
 gonali:
   term: gonali
   word class: t
@@ -183139,6 +184150,48 @@ gongawdo:
     - gongaw
     - +
     - -do
+gongawtahta:
+  term: gongawtahta
+  word class: d
+  category: derived
+  trans:
+    eng:
+    - - 'n: bulletin board'
+    epo:
+    - - 's: anonctabulo'
+    spa:
+    - - 's: tablón de anuncios'
+      - cartelera
+      - tablero de anuncios
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - bulletin board
+    epo:
+      s:
+      - anonctabulo
+    spa:
+      s:
+      - tablón de anuncios
+      - cartelera
+      - tablero de anuncios
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - gongaw
+    - +
+    - tahta
 gongin:
   term: gongin
   word class: b.oj
@@ -196487,10 +197540,12 @@ hawasuhe:
     spa:
     - - 's: seco'
       - árido
+      - xérico
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '形: 干燥'
     hin: []
     ara: []
   trans_v2:
@@ -196506,10 +197561,13 @@ hawasuhe:
       s:
       - seco
       - árido
+      - xérico
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      形:
+      - 干燥
     hin: []
     ara: []
   etymology:
@@ -196644,7 +197702,7 @@ haxtagu:
   trans:
     eng:
     - - 'n: hashtag'
-    - - 'n: hash sign'
+    - - 'n: hash (sign)'
       - pound sign
       - number sign
     epo:
@@ -196680,7 +197738,7 @@ haxtagu:
   trans_v2:
     eng:
       "n":
-      - hash sign
+      - hash (sign)
       - pound sign
       - number sign
     epo:
@@ -203469,6 +204527,85 @@ hinwatuli:
     - watu
     - +
     - -li
+hipnoti:
+  term: hipnoti
+  word class: b.oj
+  category: root
+  trans:
+    eng:
+    - - 'n: hypnosis'
+    - - 'v.tr: hypnotize'
+    epo:
+    - - 's: hipnoto'
+    - - 'v.tr: hipnoti'
+    spa:
+    - - 's: hipnosis'
+    - - 'v.tr: hipnotizar'
+    deu:
+    - - 'n: Hypnose'
+    - - 'v.tr: hypnotisieren'
+    fra:
+    - - 'n: hypnose'
+    - - 'v.tr: hypnotiser'
+    rus:
+    - - 'сущ: гипноз'
+    - - 'перех: гипнотизировать'
+    zho:
+    - - '名: 催眠'
+    - - '他动: 催眠'
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - hypnosis
+      v.tr:
+      - hypnotize
+    epo:
+      s:
+      - hipnoto
+      v.tr:
+      - hipnoti
+    spa:
+      s:
+      - hipnosis
+      v.tr:
+      - hipnotizar
+    deu:
+      "n":
+      - Hypnose
+      v.tr:
+      - hypnotisieren
+    fra:
+      "n":
+      - hypnose
+      v.tr:
+      - hypnotiser
+    rus:
+      сущ:
+      - гипноз
+      перех:
+      - гипнотизировать
+    zho:
+      名:
+      - 催眠
+      他动:
+      - 催眠
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Doycisa: Hypnose, hypnotisieren
+      Englisa: hypnosis,\ hypnotize
+      Espanisa: hipnosis, hipnotizar
+      Fransesa: hypnose, hypnotiser
+      Hindi: हिप्नोसिस &ldquo;hipnosis&rdquo;
+      Indonesisa: hipnosis
+      Parsisa: هیپنوتیزم &ldquo;hipnotizm&rdquo;
+      Rusisa: гипноз &ldquo;gipnoz&rdquo;, гипнотизировать &ldquo;gipnotizirovat&rdquo;
+      Swahilisa: hiponozi
+      Telugusa: హిప్నాటిజం &ldquo;hipnatijam&rdquo;
+      Turkisa: hipnoz
 hipokrate:
   term: Hipokrate
   word class: su n
@@ -209606,8 +210743,8 @@ hwanjin:
     natlang:
       Koreasa: 환경 &ldquo;hwangyeong&rdquo;
       Putunhwa: 环境 &ldquo;hu&aacute;nj&igrave;ng&rdquo;
-hwanjinsyensi:
-  term: hwanjinsyensi
+hwanjinlogi:
+  term: hwanjinlogi
   word class: b
   category: derived
   trans:
@@ -209652,7 +210789,7 @@ hwanjinsyensi:
     derived:
     - hwanjin
     - +
-    - sysensi
+    - logi
 hwegay:
   term: hwegay
   word class: b.oj
@@ -221552,54 +222689,38 @@ inyomarka:
   trans:
     eng:
     - - 'n: quotation mark'
+      - “ ”
     epo:
     - - 's: citilo'
+      - “ ”
     spa:
-    - - 's: comillas'
-    deu:
-    - - 'S: Anführungszeichen'
-      - Gänsefüßchen
-    fra:
-    - - 'n: guillemet'
-    rus:
-    - - 'сущ: кавычка'
-      - кавычки
-    zho:
-    - - '名: 引号'
-    hin:
-    - - 'सं: उद्धरण चिह्न'
-    ara:
-    - - 'اسم: عَلَامَة اِقْتِبَاس، عَلَامَة تَنْصِيص'
+    - - 's: comilla'
+      - “ ”
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
   trans_v2:
     eng:
       "n":
       - quotation mark
+      - “ ”
     epo:
       s:
       - citilo
+      - “ ”
     spa:
       s:
-      - comillas
-    deu:
-      S:
-      - Anführungszeichen
-      - Gänsefüßchen
-    fra:
-      "n":
-      - guillemet
-    rus:
-      сущ:
-      - кавычка
-      - кавычки
-    zho:
-      名:
-      - 引号
-    hin:
-      सं:
-      - उद्धरण चिह्न
-    ara:
-      اسم:
-      - عَلَامَة اِقْتِبَاس، عَلَامَة تَنْصِيص
+      - comilla
+      - “ ”
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
   etymology:
     derived:
     - inyo
@@ -234677,12 +235798,20 @@ jinjiantru:
     - - 's: rektumo'
     spa:
     - - 's: recto'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - 'S: Rektum'
+      - Mastdarm
+      - Enddarm
+    fra:
+    - - 'n: rectum'
+    rus:
+    - - 'сущ: прямая кишка'
+    zho:
+    - - '名: 直肠'
+    hin:
+    - - 'सं: मलाशय'
+    ara:
+    - - 'اسم: مُسْتَقِيم'
   trans_v2:
     eng:
       "n":
@@ -234693,12 +235822,26 @@ jinjiantru:
     spa:
       s:
       - recto
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      S:
+      - Rektum
+      - Mastdarm
+      - Enddarm
+    fra:
+      "n":
+      - rectum
+    rus:
+      сущ:
+      - прямая кишка
+    zho:
+      名:
+      - 直肠
+    hin:
+      सं:
+      - मलाशय
+    ara:
+      اسم:
+      - مُسْتَقِيم
   etymology:
     derived:
     - jinji
@@ -238030,6 +239173,7 @@ judan:
   trans:
     eng:
     - - 'n: bullet'
+      - projectile
     epo:
     - - 's: kuglo'
     spa:
@@ -238053,6 +239197,7 @@ judan:
     eng:
       "n":
       - bullet
+      - projectile
     epo:
       s:
       - kuglo
@@ -261246,7 +262391,7 @@ ki_fe_folo:
     epo:
     - - 'konj: (tiel) ke'
     spa:
-    - - 'conj: (tan) que'
+    - - 'conj: de tal manera que'
       - de modo que
     deu: []
     fra: []
@@ -261264,7 +262409,7 @@ ki_fe_folo:
       - (tiel) ke
     spa:
       conj:
-      - (tan) que
+      - de tal manera que
       - de modo que
     deu: []
     fra: []
@@ -261279,6 +262424,50 @@ ki_fe_folo:
     - fe
     - ','
     - folo
+ki_kos_to:
+  term: ki kos to
+  word class: l
+  category: phrase
+  trans:
+    eng:
+    - - 'conj: (such) that'
+      - (so) that
+    epo:
+    - - 'konj: (tiel) ke'
+    spa:
+    - - 'conj: de tal manera que'
+      - de modo que
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      conj:
+      - (such) that
+      - (so) that
+    epo:
+      konj:
+      - (tiel) ke
+    spa:
+      conj:
+      - de tal manera que
+      - de modo que
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ki
+    - ','
+    - kos
+    - ','
+    - to
 kibiriti:
   term: kibiriti
   word class: b
@@ -268724,6 +269913,48 @@ kolorokoosis:
     - oko
     - +
     - osis
+kolorpensil:
+  term: kolorpensil
+  word class: d
+  category: derived
+  trans:
+    eng:
+    - - 'n: colored pencil'
+      - color pencil
+    epo:
+    - - 's: kolorkrajono'
+      - farbokrajono
+    spa:
+    - - 's: lápiz de color'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - colored pencil
+      - color pencil
+    epo:
+      s:
+      - kolorkrajono
+      - farbokrajono
+    spa:
+      s:
+      - lápiz de color
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - kolor
+    - +
+    - pensil
 kolorpul:
   term: kolorpul
   word class: t
@@ -270524,8 +271755,8 @@ komputer:
       Rusisa: компьютер &ldquo;kompyuter&rdquo;
       Swahilisa: kompyuta
       Telugusa: కంప్యూటర్ &ldquo;kampyutar&rdquo;
-komputersyensi:
-  term: komputersyensi
+komputerlogi:
+  term: komputerlogi
   word class: b
   category: derived
   trans:
@@ -270603,7 +271834,7 @@ komputersyensi:
     derived:
     - komputer
     - +
-    - syensi
+    - logi
 komun:
   term: komun
   word class: t
@@ -301095,6 +302326,60 @@ limadesyum:
     - des
     - +
     - -yum
+limadwan:
+  term: limadwan
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: pentagram'
+      - five-pointed star
+    epo:
+    - - 's: kvinpinta stelo'
+      - pentagramo
+    spa:
+    - - 's: estrella pentagonal'
+      - pentagrama
+      - pentáculo
+      - pentalfa
+      - pentángulo
+      - estrella de cinco puntas
+      - estrella pitagórica
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - pentagram
+      - five-pointed star
+    epo:
+      s:
+      - kvinpinta stelo
+      - pentagramo
+    spa:
+      s:
+      - estrella pentagonal
+      - pentagrama
+      - pentáculo
+      - pentalfa
+      - pentángulo
+      - estrella de cinco puntas
+      - estrella pitagórica
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - lima
+    - +
+    - dwan
 limagon:
   term: limagon
   word class: b
@@ -302536,6 +303821,56 @@ lista:
       Parsisa: لیست &ldquo;list&rdquo;
       Pilipinasa: listahan
       Turkisa: liste
+listatyan:
+  term: listatyan
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: bullet (point)'
+      - •
+    epo:
+    - - 's: bulmarko'
+      - •
+    spa:
+    - - 's: bolo'
+      - topo
+      - punto
+      - boliche
+      - •
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - bullet (point)
+      - •
+    epo:
+      s:
+      - bulmarko
+      - •
+    spa:
+      s:
+      - bolo
+      - topo
+      - punto
+      - boliche
+      - •
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - lista
+    - +
+    - tyan
 literatur:
   term: literatur
   word class: b
@@ -319899,11 +321234,9 @@ mas_fe_tayti:
     - - 'conj phrs: but (rather)'
       - but (instead)
     epo:
-    - - 'konj frazparto: sed prefere'
-      - sed anstataŭe
+    - - 'konj frazparto: sed (anstataŭe)'
     spa:
     - - 'sintagma conj: sino (que)'
-      - en cambio
     deu: []
     fra: []
     rus: []
@@ -319917,12 +321250,10 @@ mas_fe_tayti:
       - but (instead)
     epo:
       konj frazparto:
-      - sed prefere
-      - sed anstataŭe
+      - sed (anstataŭe)
     spa:
       sintagma conj:
       - sino (que)
-      - en cambio
     deu: []
     fra: []
     rus: []
@@ -323975,6 +325306,44 @@ maxim_jaldi:
     - maxim
     - ','
     - jaldi
+maxim_multi:
+  term: maxim multi
+  word class: d
+  category: phrase
+  trans:
+    eng:
+    - - 'det: the most'
+    epo:
+    - - 'det: plej multaj'
+    spa:
+    - - 'det: (el que...) más'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      det:
+      - the most
+    epo:
+      det:
+      - plej multaj
+    spa:
+      det:
+      - (el que...) más
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - maxim
+    - ','
+    - multi
 maxim_nerleli:
   term: maxim nerleli
   word class: t jm
@@ -324025,6 +325394,44 @@ maxim_nerleli:
     - maxim
     - ','
     - nerleli
+maxim_xosu:
+  term: maxim xosu
+  word class: d
+  category: phrase
+  trans:
+    eng:
+    - - 'det: the fewest'
+    epo:
+    - - 'det: plej malmultaj'
+    spa:
+    - - 'det: (el que...) menos'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      det:
+      - the fewest
+    epo:
+      det:
+      - plej malmultaj
+    spa:
+      det:
+      - (el que...) menos
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - maxim
+    - ','
+    - xosu
 maximum:
   term: maximum
   word class: t
@@ -325161,22 +326568,22 @@ maxmo_sahi:
     - sahi
 maxori:
   term: maxori
-  word class: t
+  word class: d; m
   category: root
   trans:
     eng:
-    - - 'adj: most'
+    - - 'det: most'
       - the majority of
     - - 'adv: mostly'
       - largely
       - for the most part
     epo:
-    - - 'adj: plejmulta'
+    - - 'det: plejmulta'
       - majoritata
     - - 'adv: plejmulte'
       - majoritate
     spa:
-    - - 'adj: la mayoría de'
+    - - 'det: la mayoría de'
       - la mayor parte de
     - - 'adv: en su mayoría'
       - principalmente
@@ -325189,7 +326596,7 @@ maxori:
     ara: []
   trans_v2:
     eng:
-      adj:
+      det:
       - most
       - the majority of
       adv:
@@ -325197,14 +326604,14 @@ maxori:
       - largely
       - for the most part
     epo:
-      adj:
+      det:
       - plejmulta
       - majoritata
       adv:
       - plejmulte
       - majoritate
     spa:
-      adj:
+      det:
       - la mayoría de
       - la mayor parte de
       adv:
@@ -326445,6 +327852,46 @@ medan:
       Indonesisa: medan
       Parsisa: میدان &ldquo;meydan&rdquo;
       Telugusa: మైదానము &ldquo;maydanamu&rdquo;
+medanhoki:
+  term: medanhoki
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: field hockey'
+    epo:
+    - - 's: gazonhokeo'
+      - herbohokeo
+    spa:
+    - - 's: hockey sobre césped'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - field hockey
+    epo:
+      s:
+      - gazonhokeo
+      - herbohokeo
+    spa:
+      s:
+      - hockey sobre césped
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - medan
+    - +
+    - hoki
 medis:
   term: medis
   word class: b.oj
@@ -333860,6 +335307,60 @@ meyludo:
     - meylu
     - +
     - -do
+meylumarka:
+  term: meylumarka
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: slash'
+      - /
+    epo:
+    - - 's: oblikvo'
+      - oblikva frakcistreko
+      - suprenstreko
+      - /
+    spa:
+    - - 's: barra (oblicua)'
+      - (barra) diagonal
+      - barra inclinada
+      - <em>slash</em>
+      - /
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - slash
+      - /
+    epo:
+      s:
+      - oblikvo
+      - oblikva frakcistreko
+      - suprenstreko
+      - /
+    spa:
+      s:
+      - barra (oblicua)
+      - (barra) diagonal
+      - barra inclinada
+      - <em>slash</em>
+      - /
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - meylu
+    - +
+    - marka
 meyu:
   term: meyu
   word class: b
@@ -334675,6 +336176,46 @@ midinuru:
     - midi
     - +
     - nuru
+midituran:
+  term: Midituran
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: Mediterranean (<em>sea, region</em>)'
+    epo:
+    - - 's: Mediteraneo'
+      - Mediteranea regiono
+    spa:
+    - - 's: mediterráneo'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - Mediterranean (<em>sea, region</em>)
+    epo:
+      s:
+      - Mediteraneo
+      - Mediteranea regiono
+    spa:
+      s:
+      - mediterráneo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - midi
+    - +
+    - turan
 midiya:
   term: midiya
   word class: b
@@ -337296,18 +338837,18 @@ minmo_kom:
     - kom
 minori:
   term: minori
-  word class: t
+  word class: d; m
   category: root
   trans:
     eng:
-    - - 'adj: the minority of'
+    - - 'det: the minority of'
     epo:
-    - - 'adj: plejmalmulta'
+    - - 'det: plejmalmulta'
       - minoritata
     - - 'adv: plejmalmulte'
       - minoritate
     spa:
-    - - 'adj: la minoría de'
+    - - 'det: la minoría de'
     deu: []
     fra: []
     rus: []
@@ -337316,17 +338857,17 @@ minori:
     ara: []
   trans_v2:
     eng:
-      adj:
+      det:
       - the minority of
     epo:
-      adj:
+      det:
       - plejmalmulta
       - minoritata
       adv:
       - plejmalmulte
       - minoritate
     spa:
-      adj:
+      det:
       - la minoría de
     deu: []
     fra: []
@@ -338226,6 +339767,49 @@ misal:
       Parsisa: مثال &ldquo;mesal&rdquo;
       Swahilisa: mithalani
       Turkisa: missal
+misil:
+  term: misil
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: missile'
+    epo:
+    - - 's: misilo'
+    spa:
+    - - 's: misil'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - missile
+    epo:
+      s:
+      - misilo
+    spa:
+      s:
+      - misil
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Englisa: missile
+      Espanisa: misil
+      French: missile
+      Hindi: मिसाइल &ldquo;misail&rdquo;
+      Indonesi: misil
+      Koreasa: 미사일 &ldquo;misail&rdquo;
+      Niponsa: ミサイル &ldquo;misayru&rdquo;
+      Telugu: మిస్సైల్ &ldquo;missail&rdquo;
 mismari:
   term: mismari
   word class: b
@@ -341177,6 +342761,54 @@ moja:
     natlang:
       Arabisa: موجة &ldquo;mawja&rdquo;
       Parsisa: موج &ldquo;mawj&rdquo;, &ldquo;moj&rdquo;
+mojagwaho:
+  term: mojagwaho
+  word class: b
+  category: dericed
+  trans:
+    eng:
+    - - 'n: curly bracket'
+      - '{ }'
+    epo:
+    - - 's: kurba krampo'
+      - kuniga krampo
+      - vinkulo
+      - '{ }'
+    spa:
+    - - 's: llave (<em>signo gráfico</em>)'
+      - '{ }'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - curly bracket
+      - '{ }'
+    epo:
+      s:
+      - kurba krampo
+      - kuniga krampo
+      - vinkulo
+      - '{ }'
+    spa:
+      s:
+      - llave (<em>signo gráfico</em>)
+      - '{ }'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - moja
+    - +
+    - gwaho
 moksay:
   term: moksay
   word class: b
@@ -349108,6 +350740,52 @@ muraba:
       Hindi: मुरब्बा &ldquo;murabbā&rdquo;
       Parsisa: مربع &ldquo;moraba&rdquo;
       Swahilisa: mraba
+murabagwaho:
+  term: murabagwaho
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: square bracket'
+      - '[ ]'
+    epo:
+    - - 's: rekta krampo'
+      - kvadrata krampo
+      - '[ ]'
+    spa:
+    - - 's: corchete (rectangular)'
+      - '[ ]'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - square bracket
+      - '[ ]'
+    epo:
+      s:
+      - rekta krampo
+      - kvadrata krampo
+      - '[ ]'
+    spa:
+      s:
+      - corchete (rectangular)
+      - '[ ]'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - muraba
+    - +
+    - gwaho
 murace:
   term: murace
   word class: b
@@ -355981,6 +357659,46 @@ navi:
       Hindi: नाव &ldquo;nāv&rdquo;
       Parsisa: ناو &ldquo;n&acirc;v&rdquo;
       Telugusa: నావ &ldquo;nāva&rdquo;
+navidom:
+  term: navidom
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: port'
+      - harbour
+    epo:
+    - - 's: haveno'
+    spa:
+    - - 's: puerto'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - port
+      - harbour
+    epo:
+      s:
+      - haveno
+    spa:
+      s:
+      - puerto
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - navi
+    - +
+    - -dom
 naviharabu:
   term: naviharabu
   word class: b
@@ -371357,6 +373075,44 @@ ocogon:
     - oco
     - +
     - -gon
+ocohedro:
+  term: ocohedro
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: octahedron'
+    epo:
+    - - 's: okedro'
+    spa:
+    - - 's: octaedro'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - octahedron
+    epo:
+      s:
+      - okedro
+    spa:
+      s:
+      - octaedro
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - oco
+    - +
+    - hedro
 ocopeda:
   term: ocopeda
   word class: b
@@ -371858,6 +373614,50 @@ ofcen:
     - of-
     - +
     - cen
+ofcenmarka:
+  term: ofcenmarka
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: percent symbol'
+      - '%'
+    epo:
+    - - 's: elcenta signo'
+      - '%'
+    spa:
+    - - 's: (signo de) porcentaje'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - percent symbol
+      - '%'
+    epo:
+      s:
+      - elcenta signo
+      - '%'
+    spa:
+      s:
+      - (signo de) porcentaje
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - of-
+    - +
+    - cen
+    - +
+    - marka
 ofcori:
   term: ofcori
   word class: b.oj
@@ -387192,6 +388992,46 @@ paralel:
       Portugalsa: paralelo
       Rusisa: параллельный &ldquo;parallyelyniy&rdquo;
       Turkisa: paralel
+paralelcaregon:
+  term: paralelcaregon
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: parallelogram'
+    epo:
+    - - 's: paralelogramo'
+    spa:
+    - - 's: paralelogramo'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - parallelogram
+    epo:
+      s:
+      - paralelogramo
+    spa:
+      s:
+      - paralelogramo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - paralel
+    - +
+    - care
+    - +
+    - -gon
 paralelkosmo:
   term: paralelkosmo
   word class: b
@@ -394453,6 +396293,52 @@ peridotu:
       Rusisa: перидот &ldquo;peridot&rdquo;
       Turkisa: peridot, perido
       Vyetnamsa: peridot
+perkom:
+  term: perkom
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: PC'
+      - personal computer
+    epo:
+    - - 's: PK'
+      - persona komputilo
+    spa:
+    - - 's: PC'
+      - computadora personal
+      - ordenador personal
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - PC
+      - personal computer
+    epo:
+      s:
+      - PK
+      - persona komputilo
+    spa:
+      s:
+      - PC
+      - computadora personal
+      - ordenador personal
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    am oko:
+      personli komputer: personli komputer
+    natlang similar:
+      Niponsa: パソコン &ldquo;pasokon&rdquo;
 perkusi:
   term: perkusi
   word class: b.oj
@@ -394927,6 +396813,48 @@ personli:
     - person
     - +
     - -li
+personli_komputer:
+  term: personli komputer
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: personal computer'
+    epo:
+    - - 's: persona komputilo'
+    spa:
+    - - 's: computadora personal'
+      - ordenador personal
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - personal computer
+    epo:
+      s:
+      - persona komputilo
+    spa:
+      s:
+      - computadora personal
+      - ordenador personal
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - person
+    - +
+    - -li
+    - ','
+    - komputer
 personya:
   term: personya
   word class: b
@@ -400061,11 +401989,15 @@ pixicanal:
     - - 's: uretro'
     spa:
     - - 's: uretra'
-    deu: []
-    fra: []
+    deu:
+    - - 'S: Harnröhre'
+    fra:
+    - - 'n: urètre'
     rus: []
-    zho: []
-    hin: []
+    zho:
+    - - '名: 尿道'
+    hin:
+    - - 'सं: मूत्रमार्ग'
     ara: []
   trans_v2:
     eng:
@@ -400077,11 +402009,19 @@ pixicanal:
     spa:
       s:
       - uretra
-    deu: []
-    fra: []
+    deu:
+      S:
+      - Harnröhre
+    fra:
+      "n":
+      - urètre
     rus: []
-    zho: []
-    hin: []
+    zho:
+      名:
+      - 尿道
+    hin:
+      सं:
+      - मूत्रमार्ग
     ara: []
   etymology:
     derived:
@@ -400149,8 +402089,10 @@ pixipangwan:
     - - 's: vejiga (urinaria)'
     deu: []
     fra: []
-    rus: []
-    zho: []
+    rus:
+    - - 'сущ: мочевой пузырь'
+    zho:
+    - - '名: 膀胱'
     hin: []
     ara: []
   trans_v2:
@@ -400166,8 +402108,12 @@ pixipangwan:
       - vejiga (urinaria)
     deu: []
     fra: []
-    rus: []
-    zho: []
+    rus:
+      сущ:
+      - мочевой пузырь
+    zho:
+      名:
+      - 膀胱
     hin: []
     ara: []
   etymology:
@@ -403463,13 +405409,14 @@ politili:
     - politi
     - +
     - -li
-politisyensi:
-  term: politisyensi
+politilogi:
+  term: politilogi
   word class: b
   category: derived
   trans:
     eng:
     - - 'n: political science'
+      - politology
     epo:
     - - 's: politika scienco'
       - politikologio
@@ -403496,6 +405443,7 @@ politisyensi:
     eng:
       "n":
       - political science
+      - politology
     epo:
       s:
       - politika scienco
@@ -403530,7 +405478,7 @@ politisyensi:
     derived:
     - politi
     - +
-    - syensi
+    - logi
 politiyen:
   term: politiyen
   word class: b
@@ -429330,6 +431278,60 @@ rumaniyen:
     - rumani
     - +
     - -yen
+rumeylumarka:
+  term: rumeylumarka
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: backslash'
+      - \
+    epo:
+    - - 's: deklivo'
+      - retroklino
+      - malsuprenstreko
+    spa:
+    - - 's: barra inversa'
+      - antibarra
+      - contrabarra
+      - <em>backslash</em>
+      - \
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - backslash
+      - \
+    epo:
+      s:
+      - deklivo
+      - retroklino
+      - malsuprenstreko
+    spa:
+      s:
+      - barra inversa
+      - antibarra
+      - contrabarra
+      - <em>backslash</em>
+      - \
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ru-
+    - +
+    - meylu
+    - +
+    - marka
 rundi:
   term: Rundi
   word class: su n
@@ -443908,6 +445910,50 @@ semidayra:
     - semi
     - +
     - dayra
+semiesfer:
+  term: semiesfer
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: hemisphere'
+    epo:
+    - - 's: duonsfero'
+      - duonglobo
+      - hemisfero
+    spa:
+    - - 's: hemisferio'
+      - semiesfera
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - hemisphere
+    epo:
+      s:
+      - duonsfero
+      - duonglobo
+      - hemisfero
+    spa:
+      s:
+      - hemisferio
+      - semiesfera
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - semi
+    - +
+    - esfer
 semihwese:
   term: semihwese
   word class: t
@@ -453490,6 +455536,52 @@ sisadesyum:
     - des
     - +
     - -yum
+sisadwan:
+  term: sisadwan
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: hexagram'
+      - sexagram
+      - six-pointed star
+    epo:
+    - - 's: sespinta stelo'
+    spa:
+    - - 's: hexagrama'
+      - estrella hexagonal
+      - estrella de seis puntas
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - hexagram
+      - sexagram
+      - six-pointed star
+    epo:
+      s:
+      - sespinta stelo
+    spa:
+      s:
+      - hexagrama
+      - estrella hexagonal
+      - estrella de seis puntas
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - sisa
+    - +
+    - dwan
 sisagon:
   term: sisagon
   word class: b
@@ -456702,20 +458794,21 @@ solli:
     - -li
 solo:
   term: solo
-  word class: t
+  word class: d; t
   category: root
   trans:
     eng:
-    - - 'adj: alone'
-      - (the) sole
+    - - 'det: (the) sole'
       - (the) only
+    - - 'adj: alone'
     - - 'adv: alone'
     epo:
+    - - 'det: (la) sola'
     - - 'adj: sola'
     - - 'adv: sole'
     spa:
+    - - 'det: (el) único'
     - - 'adj: solo'
-      - único
     - - 'adv: a solas'
     deu: []
     fra: []
@@ -456725,21 +458818,25 @@ solo:
     ara: []
   trans_v2:
     eng:
-      adj:
-      - alone
+      det:
       - (the) sole
       - (the) only
+      adj:
+      - alone
       adv:
       - alone
     epo:
+      det:
+      - (la) sola
       adj:
       - sola
       adv:
       - sole
     spa:
+      det:
+      - (el) único
       adj:
       - solo
-      - único
       adv:
       - a solas
     deu: []
@@ -457044,6 +459141,46 @@ soloyen:
     - solo
     - +
     - -yen
+solun:
+  term: solun
+  word class: d
+  category: derived
+  trans:
+    eng:
+    - - 'det: (the) sole'
+      - (the) only (one)
+    epo:
+    - - 'det: (la) sola'
+    spa:
+    - - 'det: (el) único'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      det:
+      - (the) sole
+      - (the) only (one)
+    epo:
+      det:
+      - (la) sola
+    spa:
+      det:
+      - (el) único
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - sol
+    - +
+    - un
 solunbete:
   term: solunbete
   word class: b
@@ -466640,6 +468777,52 @@ swal:
       Parsisa: سوال &ldquo;soal&rdquo;
       Swahilisa: swali
       Turkisa: sual
+swalmarka:
+  term: swalmarka
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: question mark'
+      - '?'
+    epo:
+    - - 's: demandosigno'
+      - '?'
+    spa:
+    - - 's: signos de interrogación'
+      - signo de pregunta
+      - '?'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - question mark
+      - '?'
+    epo:
+      s:
+      - demandosigno
+      - '?'
+    spa:
+      s:
+      - signos de interrogación
+      - signo de pregunta
+      - '?'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - swal
+    - +
+    - marka
 swatini:
   term: Swatini
   word class: su n
@@ -469540,6 +471723,58 @@ tadikudo:
     - tadiku
     - +
     - -do
+taekwondo:
+  term: taekwondo
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: taekwondo'
+    epo:
+    - - s
+    - - tekvondo
+    spa:
+    - - 's: taekwondo'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - taekwondo
+    epo:
+      noun:
+      - s
+      verb:
+      - tekvondo
+    spa:
+      s:
+      - taekwondo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Arabisa: تَايْكُونْدُو &ldquo;taykundu&rdquo;
+      Doycisa: Taekwondo
+      Englisa: taekwondo
+      Espanisa: taekwondo
+      Fransesa: taekwondo
+      Indonesisa: taekwondo
+      Koreasa: 태권도 &ldquo;tegwondo&rdquo;
+      Niponsa: テコンドー &ldquo;tekondo&rdquo;
+      Parsisa: تکواندو &ldquo;tekvando&rdquo;
+      Putunhwa: 跆拳道 &ldquo;taycywendaw&rdquo;
+      Rusisa: тхэквондо &ldquo;thekvondo&rdquo;
+      Swahilisa: taekwondo
+      Turkisa: tekvando
+      Vyetnamsa: đ&agrave;i quyền đạo
 tafasir:
   term: tafasir
   word class: b.oj
@@ -483625,6 +485860,50 @@ tigaple:
     - tiga
     - +
     - -ple
+tigatyan:
+  term: tigatyan
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: ellipsis'
+      - …
+    epo:
+    - - 's: tripunkto'
+      - …
+    spa:
+    - - 's: puntos suspensivos'
+      - …
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - ellipsis
+      - …
+    epo:
+      s:
+      - tripunkto
+      - …
+    spa:
+      s:
+      - puntos suspensivos
+      - …
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - tiga
+    - +
+    - tyan
 tigaxey:
   term: tigaxey
   word class: b
@@ -489287,6 +491566,72 @@ tornado:
       Niponsa: トルネード &ldquo;toruneido&rdquo;
       Parsisa: تورنادو &ldquo;tornado&rdquo;
       Rusisa: торнадо &ldquo;tornado&rdquo;
+torpedo:
+  term: torpedo
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: torpedo'
+    epo:
+    - - 's: torpedo'
+    spa:
+    - - 's: torpedo'
+    deu:
+    - - 'S: Torpedo'
+    fra:
+    - - 'n: torpille'
+    rus:
+    - - 'сущ: торпеда'
+    zho:
+    - - '名: 鱼雷'
+    hin:
+    - - 'सं: टॉरपीडो'
+      - टारपीडो
+    ara:
+    - - 'اسم: طُرْبِيد'
+  trans_v2:
+    eng:
+      "n":
+      - torpedo
+    epo:
+      s:
+      - torpedo
+    spa:
+      s:
+      - torpedo
+    deu:
+      S:
+      - Torpedo
+    fra:
+      "n":
+      - torpille
+    rus:
+      сущ:
+      - торпеда
+    zho:
+      名:
+      - 鱼雷
+    hin:
+      सं:
+      - टॉरपीडो
+      - टारपीडो
+    ara:
+      اسم:
+      - طُرْبِيد
+  etymology:
+    natlang:
+      Arabisa: طُرْبِيد &ldquo;turbid&rdquo;
+      Doycisa: Torpedo
+      Englisa: torpedo
+      Espanisa: torpedo
+      Fransesa: torpille
+      Hindi (टॉरपीडो &ldquo;torpido&rdquo;, टारपीडो &ldquo;tarpido&rdquo;) Indonesian: torpedo
+      Niponsa: 魚雷 &ldquo;gyoray&rdquo;
+      Parsisa: تُرْپی &ldquo;torpi&rdquo;
+      Putunhwa: 鱼雷 &ldquo;yuley&rdquo;
+      Rusisa: торпеда &ldquo;torpeda&rdquo;
+      Turkisa: torpido
 tortiya:
   term: tortiya
   word class: b
@@ -490730,6 +493075,48 @@ trafiko:
       Swahilisa: trafiki
       Telugusa: ట్రాఫిక్ &ldquo;trafik&rdquo;
       Turkisa: trafik
+trafikolumin:
+  term: trafikolumin
+  word class: d
+  category: derived
+  trans:
+    eng:
+    - - 'n: traffic light'
+    epo:
+    - - 's: trafiklumoj'
+      - semaforo
+    spa:
+    - - 's: semáforo'
+      - señal de tráfico
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - traffic light
+    epo:
+      s:
+      - trafiklumoj
+      - semaforo
+    spa:
+      s:
+      - semáforo
+      - señal de tráfico
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - trafiko
+    - +
+    - lumin
 tragedi:
   term: tragedi
   word class: b
@@ -491507,6 +493894,52 @@ tras-:
   etymology:
     am oko:
       tras: tras
+trasandadao:
+  term: trasandadao
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: pedestrian crossing'
+      - crosswalk
+    epo:
+    - - 's: (piedira) transirejo'
+    spa:
+    - - 's: paso de peatones'
+      - cruce (peatonal)
+      - paso (de) cebra
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - pedestrian crossing
+      - crosswalk
+    epo:
+      s:
+      - (piedira) transirejo
+    spa:
+      s:
+      - paso de peatones
+      - cruce (peatonal)
+      - paso (de) cebra
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - tras
+    - +
+    - anda
+    - +
+    - dao
 trasatlantikoli:
   term: trasatlantikoli
   word class: t
@@ -501187,6 +503620,50 @@ unteoista:
     - teo
     - +
     - -ista
+unuhoyoli:
+  term: unuhoyoli
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: unidirectional'
+      - one-way
+    epo:
+    - - 'adj: unudirekta'
+    spa:
+    - - 'adj: unidireccional'
+      - de sentido único
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - unidirectional
+      - one-way
+    epo:
+      adj:
+      - unudirekta
+    spa:
+      adj:
+      - unidireccional
+      - de sentido único
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - unu
+    - +
+    - hoyo
+    - +
+    - -li
 unvibrafono:
   term: unvibrafono
   word class: b
@@ -505100,6 +507577,53 @@ velosicu:
     - velosi
     - +
     - -cu
+velosieskeyti:
+  term: velosieskeyti
+  word class: b.nenoj
+  category: derived
+  trans:
+    eng:
+    - - 'n: speed skating'
+    - - 'v.intr: speed skate'
+    epo:
+    - - 's: rapid-sketado'
+    - - rapid-sketadi
+    spa:
+    - - 's: patinaje de velocidad'
+    - - 'v.intr: practicar patinaje de velocidad'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - speed skating
+      v.intr:
+      - speed skate
+    epo:
+      s:
+      - rapid-sketado
+      verb:
+      - rapid-sketadi
+    spa:
+      s:
+      - patinaje de velocidad
+      v.intr:
+      - practicar patinaje de velocidad
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - velosi
+    - +
+    - eskeyti
 velosigi:
   term: velosigi
   word class: b.oj
@@ -507679,6 +510203,52 @@ vite:
       Rusisa: винт &ldquo;vint&rdquo;
       Turkisa: vida
       Vyetnamsa: v&iacute;t
+vitetul:
+  term: vitetul
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: screwdriver'
+    epo:
+    - - 's: ŝraŭbilo'
+      - ŝraŭbturnilo
+    spa:
+    - - 's: destornillador'
+    deu: []
+    fra:
+    - - 'n: tournevis'
+    rus:
+    - - 'сущ: отвёртка'
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - screwdriver
+    epo:
+      s:
+      - ŝraŭbilo
+      - ŝraŭbturnilo
+    spa:
+      s:
+      - destornillador
+    deu: []
+    fra:
+      "n":
+      - tournevis
+    rus:
+      сущ:
+      - отвёртка
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - vite
+    - +
+    - -tul
 vodka:
   term: vodka
   word class: b
@@ -507798,10 +510368,14 @@ vokakordo:
     - - 's: voĉkordoj'
     spa:
     - - 's: cuerdas vocales'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - 'S: Stimmband'
+    fra:
+    - - 'n: corde vocale'
+    rus:
+    - - 'сущ: голосовая связка'
+    zho:
+    - - '名: 声带'
     hin: []
     ara: []
   trans_v2:
@@ -507814,10 +510388,18 @@ vokakordo:
     spa:
       s:
       - cuerdas vocales
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+      S:
+      - Stimmband
+    fra:
+      "n":
+      - corde vocale
+    rus:
+      сущ:
+      - голосовая связка
+    zho:
+      名:
+      - 声带
     hin: []
     ara: []
   etymology:
@@ -522049,6 +524631,82 @@ xigoli:
     - xigo
     - +
     - -li
+xigun:
+  term: xigun
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: masonry'
+    epo:
+    - - 's: masonado'
+    spa:
+    - - 's: albañilería'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - masonry
+    epo:
+      s:
+      - masonado
+    spa:
+      s:
+      - albañilería
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Koreasa: 석공 &ldquo;sokgong&rdquo;
+      Niponsa: 石工 &ldquo;ixiku&rdquo;
+      Putunhwa: 石工 &ldquo;xigung&rdquo;
+xigunyen:
+  term: xigunyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: mason'
+    epo:
+    - - 's: masonisto'
+    spa:
+    - - 's: albañil'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - mason
+    epo:
+      s:
+      - masonisto
+    spa:
+      s:
+      - albañil
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - xigun
+    - +
+    - -yen
 xijere:
   term: xijere
   word class: b.oj
@@ -538092,6 +540750,48 @@ yuxikamer:
     - yuxi
     - +
     - kamer
+yuxikarta:
+  term: yuxikarta
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: (playing) card(s)'
+    epo:
+    - - 's: ludkarto(j)'
+    spa:
+    - - 's: baraja'
+      - naipe(s)
+      - carta(s)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - (playing) card(s)
+    epo:
+      s:
+      - ludkarto(j)
+    spa:
+      s:
+      - baraja
+      - naipe(s)
+      - carta(s)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - yuxi
+    - +
+    - karta
 yuxitul:
   term: yuxitul
   word class: b
