@@ -312,6 +312,11 @@ acidije:
   class: b
   category: derived
   translation: 's (grado): acideco'
+acidikrimu:
+  term: acidikrimu
+  class: b
+  category: derived
+  translation: 's: acidkremo'
 acidipul:
   term: acidipul
   class: t
@@ -2284,6 +2289,16 @@ asalu:
   class: b
   category: root
   translation: 's: mielo'
+asaluluna:
+  term: asaluluna
+  class: b
+  category: derived
+  translation: 's: mielmonato'
+asalumesi:
+  term: asalumesi
+  class: b
+  category: derived
+  translation: 's: mielmonato'
 asan:
   term: asan
   class: t
@@ -3763,6 +3778,11 @@ barbekyu:
   class: b.oj
   category: root
   translation: 's: rostokrado, kradrostilo; v.tr: kradrosti'
+barbekyusawsa:
+  term: barbekyusawsa
+  class: b
+  category: derived
+  translation: 's: kradrosta saŭco'
 bardi:
   term: bardi
   class: b.oro.jotay
@@ -4893,7 +4913,7 @@ blakjaku:
   term: blakjaku
   class: b
   category: root
-  translation: ""
+  translation: 's: dudek unu (<em>kartludo</em>), <em>blackjack</em>'
 bleydo:
   term: bleydo
   class: b
@@ -11183,9 +11203,9 @@ eskoldo:
     klere, instruite, erudicie, dokte, lernigite'
 eskoldoku:
   term: eskoldoku
-  class: b
+  class: b.nenoj
   category: derived
-  translation: 's: diplomo'
+  translation: 's: diplomo; v.ntr: diplomiĝi'
 eskolkef:
   term: eskolkef
   class: b
@@ -11568,6 +11588,11 @@ estaremarka:
   class: b
   category: derived
   translation: 's: asterisko, *'
+estaremegu:
+  term: estaremegu
+  class: b
+  category: derived
+  translation: 'n: nebulozo'
 estatisti:
   term: estatisti
   class: b
@@ -18829,6 +18854,11 @@ inhareabilya:
   class: b
   category: derived
   translation: 's: kapacito, enhaveco'
+inharetul:
+  term: inharetul
+  class: b
+  category: derived
+  translation: 's: ujo'
 inhatarigi:
   term: inhatarigi
   class: b.oj
@@ -21816,6 +21846,11 @@ karayje:
   class: b
   category: derived
   translation: 's (grado): pikanteco'
+karaysawsa:
+  term: karaysawsa
+  class: b
+  category: derived
+  translation: 's: pikanta saŭco'
 karayya:
   term: karayya
   class: b
@@ -23217,9 +23252,9 @@ kolonigi:
   translation: 's: koloniigo; v.tr: koloniigi'
 kolor:
   term: kolor
-  class: b
+  class: b.oj
   category: root
-  translation: 's: koloro'
+  translation: 's: koloro; v.tr: kolorigi, farbi'
 kolorarko:
   term: kolorarko
   class: b
@@ -23230,6 +23265,11 @@ kolordo:
   class: t
   category: derived
   translation: 'adj: kolora; adv: kolore; kvazaŭ-sfk: -kolora'
+kolorente:
+  term: kolorente
+  class: b
+  category: derived
+  translation: 's: farbo, kolorilo, tinkturo'
 kolorlari:
   term: kolorlari
   class: b
@@ -23260,6 +23300,11 @@ kolorpul:
   class: t
   category: derived
   translation: 'adj: bunta, kolorplena; adv: bunte, kolorplene'
+koloryen:
+  term: koloryen
+  class: b
+  category: derived
+  translation: 's: farbisto'
 kolose:
   term: Kolose
   class: su n
@@ -24149,6 +24194,11 @@ krimu:
   class: b
   category: root
   translation: 's: (lakta) kremo'
+krimujubin:
+  term: krimujubin
+  class: b
+  category: derived
+  translation: 's: kremofromaĝo, buterfromaĝo'
 kriputon:
   term: kriputon
   class: b
@@ -24660,6 +24710,11 @@ kwas:
   class: l
   category: root
   translation: 'konj: kvazaŭ'
+kwasar:
+  term: kwasar
+  class: b
+  category: root
+  translation: 's: kvazaro'
 kwasi:
   term: kwasi
   class: t
@@ -24812,6 +24867,26 @@ labya:
   class: b
   category: root
   translation: 's: lipo'
+labyabalsam:
+  term: labyabalsam
+  class: b
+  category: derived
+  translation: 's: lipobalzamo, lipŝmiraĵo'
+labyakolor:
+  term: labyakolor
+  class: b
+  category: derived
+  translation: 's: lipoŝminko'
+labyakolorente:
+  term: labyakolorente
+  class: b
+  category: derived
+  translation: 's: lipoŝminko'
+labyakreyon:
+  term: labyakreyon
+  class: b
+  category: derived
+  translation: 's: lipoŝminko'
 labyali:
   term: labyali
   class: t
@@ -26185,7 +26260,7 @@ losyon:
   term: losyon
   class: b
   category: root
-  translation: 's: haŭtkremo, haŭtŝmiraĵo'
+  translation: 's: locio, haŭtkremo'
 loteri:
   term: loteri
   class: b
@@ -27019,6 +27094,16 @@ malyongu:
   class: b.oj
   category: derived
   translation: 's: misuzo, malŝparo; v.tr: misuzi, malŝpari'
+malza:
+  term: malza
+  class: b.oj
+  category: derived
+  translation: 'n: ŝmiro; v.tr: ŝmiri'
+malzaxey:
+  term: malzaxey
+  class: b
+  category: derived
+  translation: 's: ŝmiraĵo'
 mama:
   term: mama
   class: b
@@ -30050,21 +30135,11 @@ munte:
   class: b
   category: root
   translation: 's: buŝo'
-munteente:
-  term: munteente
-  class: b
-  category: derived
-  translation: 's: buŝlavaĵo'
 muntekumax:
   term: muntekumax
   class: b
   category: derived
   translation: 's: buŝtuko'
-muntewoxaente:
-  term: muntewoxaente
-  class: b
-  category: derived
-  translation: 's: buŝlavaĵo'
 muraba:
   term: muraba
   class: b
@@ -30455,6 +30530,16 @@ nanometro:
   class: b
   category: derived
   translation: 's: nanometro'
+naoero:
+  term: Naoero
+  class: su n
+  category: proper word
+  translation: 'prop n: Nauro, Naoero'
+naoerosa:
+  term: Naoerosa
+  class: su n
+  category: proper word
+  translation: 'prop n: la naura (lingvo), la naoera (lingvo)'
 napi:
   term: napi
   class: b
@@ -30640,16 +30725,6 @@ natziista:
   class: su n
   category: proper word
   translation: 'prop n: nazio'
-nauru:
-  term: Nauru
-  class: su n
-  category: proper word
-  translation: 'prop n: Nauro'
-naurusa:
-  term: Naurusa
-  class: su n
-  category: proper word
-  translation: 'prop n: la naura (lingvo)'
 navi:
   term: navi
   class: b.oj
@@ -30905,7 +30980,7 @@ nenixu:
   term: nenixu
   class: b
   category: derived
-  translation: 's: neplenaĝulo'
+  translation: 's: neplenaĝulo, neplenkreskulo'
 nenjenmindo:
   term: nenjenmindo
   class: t
@@ -31737,6 +31812,11 @@ notu:
   class: b.oj
   category: root
   translation: 's: ŝraŭbingumo; v.tr: ŝraŭbingumi, fiksi per ŝraŭbingo'
+nova:
+  term: nova
+  class: b
+  category: root
+  translation: 's: novao'
 novela:
   term: novela
   class: b
@@ -32915,16 +32995,6 @@ otosu_to:
   class: su pn
   category: phrase
   translation: 'pos pron (nevivaĵo de nevivaĵoj): la ilia'
-ovari:
-  term: ovari
-  class: b
-  category: root
-  translation: 's: ovario'
-ovarili:
-  term: ovarili
-  class: t
-  category: derived
-  translation: 'adj: ovaria; adv: ovarie'
 ovo:
   term: ovo
   class: b
@@ -32940,6 +33010,11 @@ ovoglandu:
   class: b
   category: derived
   translation: 's: ovario'
+ovoglanduli:
+  term: ovoglanduli
+  class: t
+  category: derived
+  translation: 'adj: ovaria; adv: ovarie'
 ovokexru:
   term: ovokexru
   class: b
@@ -33477,6 +33552,26 @@ pare:
   class: b
   category: root
   translation: 's: pastro, pastoro, Patro'
+parexan:
+  term: parexan
+  class: t
+  category: derived
+  translation: 'adj: perturbita, malkvieta, afliktita, ĉagrenita'
+parexancu:
+  term: parexancu
+  class: b.nenoj
+  category: derived
+  translation: ""
+parexangi:
+  term: parexangi
+  class: b.oj
+  category: derived
+  translation: ""
+parexanya:
+  term: parexanya
+  class: b
+  category: derived
+  translation: 's: perturbo, malkvieto, aflkto, ĉagreno'
 parke:
   term: parke
   class: b
@@ -33922,7 +34017,7 @@ pentu:
   term: pentu
   class: b.oj
   category: root
-  translation: 's: farbo; v.tr: pentri, farbi'
+  translation: 's: pentraĵo ; v.tr: pentri'
 pentukumax:
   term: pentukumax
   class: b
@@ -33933,11 +34028,11 @@ pentutahta:
   class: b
   category: derived
   translation: 's: pentrapaletro'
-pentuxey:
-  term: pentuxey
+pentuyen:
+  term: pentuyen
   class: b
   category: derived
-  translation: 's: pentraĵo'
+  translation: 's: pentristo'
 pepe:
   term: pepe
   class: b
@@ -34269,7 +34364,7 @@ pifukrema:
   term: pifukrema
   class: b
   category: derived
-  translation: 's: (haŭta) kremo, locio'
+  translation: 's: (haŭta) kremo, haŭtŝmiraĵo, locio'
 pifumedis:
   term: pifumedis
   class: b
@@ -34551,6 +34646,11 @@ planeta:
   class: b
   category: root
   translation: 's: planedo'
+planetasistema:
+  term: planetasistema
+  class: b
+  category: derived
+  translation: 's: planeda sistemo'
 plani:
   term: plani
   class: b.oj
@@ -37427,6 +37527,11 @@ salada:
   class: b
   category: root
   translation: 's: salato'
+saladasawsa:
+  term: saladasawsa
+  class: b
+  category: derived
+  translation: 's: salatsaŭco'
 salamandra:
   term: salamandra
   class: b
@@ -39395,6 +39500,11 @@ solapul:
   class: t
   category: derived
   translation: 'adj: sunplena, suna; adv: sunplene, sune'
+solasistema:
+  term: Solasistema
+  class: b
+  category: derived
+  translation: 's: (la) Sunsistemo'
 solasupracu:
   term: solasupracu
   class: b.nenoj
@@ -39567,6 +39677,11 @@ soprano:
   class: b
   category: root
   translation: 's: soprano'
+sorsore:
+  term: sorsore
+  class: b.oro.harka
+  category: derived
+  translation: 'v.tr: susurigi; v.intr: susuri, sibleti, brueti'
 soseji:
   term: soseji
   class: b
@@ -39652,6 +39767,11 @@ soya:
   class: b
   category: root
   translation: 's: sojfabo'
+soyasawsa:
+  term: soyasawsa
+  class: b
+  category: derived
+  translation: 's: sojsaŭco'
 soyo:
   term: soyo
   class: b.oro.hisi
@@ -39848,6 +39968,16 @@ sukigi:
   class: b.oj
   category: derived
   translation: 's: plaĉo, ŝatigo; v.tr: plaĉi, ŝatigi'
+suko:
+  term: suko
+  class: b.oj
+  category: root
+  translation: 'n: tralavo; v.tr: tralavi (buŝon)'
+sukoente:
+  term: sukoente
+  class: b
+  category: derived
+  translation: 's: buŝlavo, buŝakvo'
 sukses:
   term: sukses
   class: b.oj
@@ -40049,6 +40179,11 @@ suprali:
   class: t
   category: derived
   translation: 'adj: supra; adv: supre'
+supranova:
+  term: supranova
+  class: b
+  category: derived
+  translation: 's: supernovao'
 suprarealsim:
   term: suprarealsim
   class: t
@@ -40416,6 +40551,11 @@ syaheberi:
   class: b
   category: derived
   translation: 's: rubuso'
+syahehongu:
+  term: syahehongu
+  class: b
+  category: derived
+  translation: 's: nigra truo'
 syahemo:
   term: syahemo
   class: m
@@ -43218,6 +43358,11 @@ ungido:
   class: t
   category: derived
   translation: 'adj: unuigita; adv: unuigite'
+unhoyoli:
+  term: unhoyoli
+  class: t
+  category: derived
+  translation: 'adj: unudirekta'
 universita:
   term: universita
   class: b
@@ -43243,11 +43388,6 @@ unteoista:
   class: b
   category: derived
   translation: 's: monoteisto'
-unuhoyoli:
-  term: unuhoyoli
-  class: t
-  category: derived
-  translation: 'adj: unudirekta'
 unvibrafono:
   term: unvibrafono
   class: b

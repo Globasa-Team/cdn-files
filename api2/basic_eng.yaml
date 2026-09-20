@@ -316,6 +316,11 @@ acidije:
   class: b
   category: derived
   translation: 'n (degree): acidity'
+acidikrimu:
+  term: acidikrimu
+  class: b
+  category: derived
+  translation: 'n: sour cream'
 acidipul:
   term: acidipul
   class: t
@@ -2321,6 +2326,16 @@ asalu:
   class: b
   category: root
   translation: 'n: honey'
+asaluluna:
+  term: asaluluna
+  class: b
+  category: derived
+  translation: 'n: honeymoon'
+asalumesi:
+  term: asalumesi
+  class: b
+  category: derived
+  translation: 'n: honeymoon'
 asan:
   term: asan
   class: t
@@ -3816,6 +3831,11 @@ barbekyu:
   class: b.oj
   category: root
   translation: 'n: barbecue, grill; v.tr: barbecue, grill'
+barbekyusawsa:
+  term: barbekyusawsa
+  class: b
+  category: derived
+  translation: 'n: barbecue sauce, BBQ sauce'
 bardi:
   term: bardi
   class: b.oro.jotay
@@ -9248,7 +9268,7 @@ disordenu:
   term: disordenu
   class: b.oj
   category: derived
-  translation: 'n: confusion, disorder; v.tr: confuse, disorder, disarrange'
+  translation: 'n: confusion, disorder, mess; v.tr: confuse, disorder, disarrange'
 disprosyum:
   term: disprosyum
   class: b
@@ -11277,9 +11297,9 @@ eskoldo:
   translation: 'adj: educated, scholarly, learned, erudite; adv: learnedly, eruditely'
 eskoldoku:
   term: eskoldoku
-  class: b
+  class: b.nenoj
   category: derived
-  translation: 'n: diploma, degree'
+  translation: 'n: diploma, degree; v.intr: graduate'
 eskolkef:
   term: eskolkef
   class: b
@@ -11664,6 +11684,11 @@ estaremarka:
   class: b
   category: derived
   translation: 'n: asterisk, *'
+estaremegu:
+  term: estaremegu
+  class: b
+  category: derived
+  translation: 'n: nebula'
 estatisti:
   term: estatisti
   class: b
@@ -18105,12 +18130,12 @@ hu_denloka:
   term: hu denloka
   class: m
   category: phrase
-  translation: 'adv (relative clause): where'
+  translation: 'adv (relative clause): where, which is where'
 hu_denwatu:
   term: hu denwatu
   class: m
   category: phrase
-  translation: 'adv (relative clause): when'
+  translation: 'adv (relative clause): when, which is when'
 hu_in_da:
   term: hu in da
   class: m
@@ -18957,6 +18982,11 @@ inhareabilya:
   class: b
   category: derived
   translation: 'n: capacity'
+inharetul:
+  term: inharetul
+  class: b
+  category: derived
+  translation: 'n: container'
 inhatarigi:
   term: inhatarigi
   class: b.oj
@@ -21954,6 +21984,11 @@ karayje:
   class: b
   category: derived
   translation: 'n (degree): spiciness, pungency'
+karaysawsa:
+  term: karaysawsa
+  class: b
+  category: derived
+  translation: 'n: hot sauce'
 karayya:
   term: karayya
   class: b
@@ -23362,9 +23397,9 @@ kolonigi:
   translation: 'n: colonization, colonisation; v.tr: colonize, colonise'
 kolor:
   term: kolor
-  class: b
+  class: b.oj
   category: root
-  translation: 'n: color, colour'
+  translation: 'n: color, colour; v.tr: color, dye, paint'
 kolorarko:
   term: kolorarko
   class: b
@@ -23376,6 +23411,11 @@ kolordo:
   category: derived
   translation: 'adj: colored, coloured; quasi-sfx: <em>shade of color</em>, <em>shade
     of colour</em>'
+kolorente:
+  term: kolorente
+  class: b
+  category: derived
+  translation: 'n: dye, colorant, tincture, paint'
 kolorlari:
   term: kolorlari
   class: b
@@ -23406,6 +23446,11 @@ kolorpul:
   class: t
   category: derived
   translation: 'adj: colorful, colourful; adv: colorfully, colourfully'
+koloryen:
+  term: koloryen
+  class: b
+  category: derived
+  translation: 'n: painter (<em>buildings</em>)'
 kolose:
   term: Kolose
   class: su n
@@ -24302,6 +24347,11 @@ krimu:
   class: b
   category: root
   translation: 'n: cream (<em>dairy</em>)'
+krimujubin:
+  term: krimujubin
+  class: b
+  category: derived
+  translation: 'n: cream cheese'
 kriputon:
   term: kriputon
   class: b
@@ -24815,6 +24865,11 @@ kwas:
   class: l
   category: root
   translation: 'conj: as if, as though, like'
+kwasar:
+  term: kwasar
+  class: b
+  category: root
+  translation: 'n: quasar'
 kwasi:
   term: kwasi
   class: t
@@ -24968,6 +25023,26 @@ labya:
   class: b
   category: root
   translation: 'n: lip'
+labyabalsam:
+  term: labyabalsam
+  class: b
+  category: derived
+  translation: 'n: lip balm'
+labyakolor:
+  term: labyakolor
+  class: b
+  category: derived
+  translation: 'n: lipstick'
+labyakolorente:
+  term: labyakolorente
+  class: b
+  category: derived
+  translation: 'n: lipstick'
+labyakreyon:
+  term: labyakreyon
+  class: b
+  category: derived
+  translation: 'n: lipstick'
 labyali:
   term: labyali
   class: t
@@ -27185,6 +27260,16 @@ malyongu:
   class: b.oj
   category: derived
   translation: 'v.tr: misuse, waste (<em>money, etc.</em>), abuse (<em>drugs, etc.</em>)'
+malza:
+  term: malza
+  class: b.oj
+  category: derived
+  translation: 'v.tr: smear, spread, daub'
+malzaxey:
+  term: malzaxey
+  class: b
+  category: derived
+  translation: 'n: spread'
 mama:
   term: mama
   class: b
@@ -28760,7 +28845,7 @@ metalli:
   term: metalli
   class: t
   category: derived
-  translation: 'adj: metallic (<em>of or relating to</em>); adv: metallically'
+  translation: 'adj: metallic, metal (<em>of or relating to</em>); adv: metallically'
 metallogi:
   term: metallogi
   class: b
@@ -30230,21 +30315,11 @@ munte:
   class: b
   category: root
   translation: 'n: mouth'
-munteente:
-  term: munteente
-  class: b
-  category: derived
-  translation: 'n: mouthwash'
 muntekumax:
   term: muntekumax
   class: b
   category: derived
   translation: 'n: napkin'
-muntewoxaente:
-  term: muntewoxaente
-  class: b
-  category: derived
-  translation: 'n: mouthwash'
 muraba:
   term: muraba
   class: b
@@ -30636,6 +30711,16 @@ nanometro:
   class: b
   category: derived
   translation: 'n: nanometer, nanometre'
+naoero:
+  term: Naoero
+  class: su n
+  category: proper word
+  translation: 'prop n: Naoero, Nauru'
+naoerosa:
+  term: Naoerosa
+  class: su n
+  category: proper word
+  translation: 'prop n: Nauruan (language)'
 napi:
   term: napi
   class: b
@@ -30824,16 +30909,6 @@ natziista:
   class: su n
   category: proper word
   translation: 'prop n: Nazi'
-nauru:
-  term: Nauru
-  class: su n
-  category: proper word
-  translation: 'prop n: Nauru'
-naurusa:
-  term: Naurusa
-  class: su n
-  category: proper word
-  translation: 'prop n: Nauruan (language)'
 navi:
   term: navi
   class: b.oj
@@ -31922,6 +31997,11 @@ notu:
   class: b.oj
   category: root
   translation: 'n: nut (<em>tool</em>); v.tr: nut'
+nova:
+  term: nova
+  class: b
+  category: root
+  translation: 'n: nova'
 novela:
   term: novela
   class: b
@@ -33100,16 +33180,6 @@ otosu_to:
   class: su pn
   category: phrase
   translation: 'poss pron (thing belonging to things): theirs'
-ovari:
-  term: ovari
-  class: b
-  category: root
-  translation: 'n: ovary'
-ovarili:
-  term: ovarili
-  class: t
-  category: derived
-  translation: 'adj: ovarian'
 ovo:
   term: ovo
   class: b
@@ -33125,6 +33195,11 @@ ovoglandu:
   class: b
   category: derived
   translation: 'n: ovary'
+ovoglanduli:
+  term: ovoglanduli
+  class: t
+  category: derived
+  translation: 'adj: ovarian'
 ovokexru:
   term: ovokexru
   class: b
@@ -33664,6 +33739,28 @@ pare:
   class: b
   category: root
   translation: 'n: priest, pastor, Father'
+parexan:
+  term: parexan
+  class: t
+  category: derived
+  translation: 'adj: perturbed, disturbed, distressed, troubled, agitated, upset'
+parexancu:
+  term: parexancu
+  class: b.nenoj
+  category: derived
+  translation: 'v.intr: become perturbed, become disturbed, become distressed, become
+    troubled, become agitated, become upset'
+parexangi:
+  term: parexangi
+  class: b.oj
+  category: derived
+  translation: 'n: perturbation, agitation; v.trr: perturb, disturb, distress, trouble,
+    agitate'
+parexanya:
+  term: parexanya
+  class: b
+  category: derived
+  translation: 'n: distress'
 parke:
   term: parke
   class: b
@@ -34110,7 +34207,7 @@ pentu:
   term: pentu
   class: b.oj
   category: root
-  translation: 'n: paint (<em>substance</em>); v.tr: paint'
+  translation: 'n: painting (<em>picture</em>); v.tr: paint'
 pentukumax:
   term: pentukumax
   class: b
@@ -34121,11 +34218,11 @@ pentutahta:
   class: b
   category: derived
   translation: 'n: palette (<em>paint board</em>)'
-pentuxey:
-  term: pentuxey
+pentuyen:
+  term: pentuyen
   class: b
   category: derived
-  translation: 'n: painting'
+  translation: 'n: painter (<em>art</em>)'
 pepe:
   term: pepe
   class: b
@@ -34743,6 +34840,11 @@ planeta:
   class: b
   category: root
   translation: 'n: planet'
+planetasistema:
+  term: planetasistema
+  class: b
+  category: derived
+  translation: 'n: planetary system'
 plani:
   term: plani
   class: b.oj
@@ -37644,6 +37746,11 @@ salada:
   class: b
   category: root
   translation: 'n: salad'
+saladasawsa:
+  term: saladasawsa
+  class: b
+  category: derived
+  translation: 'n: salad dressing'
 salamandra:
   term: salamandra
   class: b
@@ -39625,6 +39732,11 @@ solapul:
   class: t
   category: derived
   translation: 'adj: sunny; adv: sunnily'
+solasistema:
+  term: Solasistema
+  class: b
+  category: derived
+  translation: 'n: (the) Solar System'
 solasupracu:
   term: solasupracu
   class: b.nenoj
@@ -39798,6 +39910,11 @@ soprano:
   class: b
   category: root
   translation: 'n: soprano'
+sorsore:
+  term: sorsore
+  class: b.oro.harka
+  category: derived
+  translation: 'v.tr: swish, rustle; v.intr: swish, whoosh, rustle, susurrate'
 soseji:
   term: soseji
   class: b
@@ -39883,6 +40000,11 @@ soya:
   class: b
   category: root
   translation: 'n: soy, soybean, soya bean'
+soyasawsa:
+  term: soyasawsa
+  class: b
+  category: derived
+  translation: 'n: soy sauce'
 soyo:
   term: soyo
   class: b.oro.hisi
@@ -40079,6 +40201,16 @@ sukigi:
   class: b.oj
   category: derived
   translation: 'v.tr: please, be pleasing to, appeal (to), be appealing (to)'
+suko:
+  term: suko
+  class: b.oj
+  category: root
+  translation: 'n: rinse; v.tr: rinse (one&#039;s mouth)'
+sukoente:
+  term: sukoente
+  class: b
+  category: derived
+  translation: 'n: mouthwash, mouthrinse, oral rinse'
 sukses:
   term: sukses
   class: b.oj
@@ -40280,6 +40412,11 @@ suprali:
   class: t
   category: derived
   translation: 'adj: superior, upper'
+supranova:
+  term: supranova
+  class: b
+  category: derived
+  translation: 'n: supernova'
 suprarealsim:
   term: suprarealsim
   class: t
@@ -40649,6 +40786,11 @@ syaheberi:
   class: b
   category: derived
   translation: 'n: blackberry, <em>Rubus</em>'
+syahehongu:
+  term: syahehongu
+  class: b
+  category: derived
+  translation: 'n: black hole'
 syahemo:
   term: syahemo
   class: m
@@ -43463,6 +43605,11 @@ ungido:
   class: t
   category: derived
   translation: 'adj: unified (<em>in a state of unification</em>)'
+unhoyoli:
+  term: unhoyoli
+  class: t
+  category: derived
+  translation: 'adj: unidirectional, one-way'
 universita:
   term: universita
   class: b
@@ -43488,11 +43635,6 @@ unteoista:
   class: b
   category: derived
   translation: 'n: monotheist'
-unuhoyoli:
-  term: unuhoyoli
-  class: t
-  category: derived
-  translation: 'adj: unidirectional, one-way'
 unvibrafono:
   term: unvibrafono
   class: b
