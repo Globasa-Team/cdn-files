@@ -290,7 +290,7 @@ abyasa:
   term: abyasa
   class: b.oj
   category: root
-  translation: 'n: rehearsal, practice; v.tr: rehearse, practice'
+  translation: 'n: rehearsal, practice, exercise; v.tr: rehearse, practice, exercise'
 abyasado:
   term: abyasado
   class: t
@@ -879,6 +879,16 @@ aksyonkadam:
   class: b
   category: derived
   translation: 'n: procedure'
+aksyonlari:
+  term: aksyonlari
+  class: b
+  category: derived
+  translation: 'n: operation'
+aksyonplani:
+  term: aksyonplani
+  class: b
+  category: derived
+  translation: 'n: policy'
 akxu:
   term: akxu
   class: b
@@ -1106,6 +1116,11 @@ alodexali:
   class: t
   category: derived
   translation: 'adj: foreign; adv: foreignly'
+alodexayen:
+  term: alodexayen
+  class: b
+  category: derived
+  translation: 'n: foreigner'
 aloe:
   term: aloe
   class: b
@@ -1170,6 +1185,11 @@ aloloka:
   category: derived
   translation: 'adv (indefinite): elsewhere, somewhere else; adv (definite): in the
     other place'
+alolokayen:
+  term: alolokayen
+  class: b
+  category: derived
+  translation: 'n: outsider, stranger, foreigner'
 alomaner:
   term: alomaner
   class: 'tabel: m'
@@ -2611,7 +2631,7 @@ atexloriyen:
   term: atexloriyen
   class: b
   category: derived
-  translation: 'n: fire fighter'
+  translation: 'n: fire fighter, firefighter, fireman'
 atexmon:
   term: atexmon
   class: b
@@ -4218,7 +4238,7 @@ baxlabas:
   term: baxlabas
   class: b
   category: derived
-  translation: 'n: underwear, undergarments'
+  translation: 'n: underwear, undergarment(s), underpants'
 baxli:
   term: baxli
   class: t
@@ -4906,7 +4926,7 @@ biskiti:
   term: biskiti
   class: b
   category: root
-  translation: 'n: cookie, biscuit'
+  translation: 'n: cookie, biscuit, cracker'
 biskopo:
   term: biskopo
   class: b
@@ -5322,6 +5342,11 @@ bonyen:
   class: b
   category: derived
   translation: 'n: good person, good guy'
+bopu:
+  term: bopu
+  class: b.oj
+  category: root
+  translation: 'n: squeeze; v.tr: squeeze'
 boro:
   term: Boro
   class: su t
@@ -5863,7 +5888,8 @@ bur:
   term: bur
   class: t
   category: root
-  translation: 'adj: bad, evil, negative; adv: badly, evilly, negatively'
+  translation: 'adj: bad, evil, negative, poor; adv: badly, evilly, negatively; interj:
+    boo (<em>disapproval</em>)'
 bur-:
   term: bur-
   class: lfik
@@ -6356,8 +6382,8 @@ carme:
   term: carme
   class: b.oro.hisi
   category: root
-  translation: 'n: charm, enchantment; v.tr: charm, enchant; v.intr: be (<em>feel</em>)
-    charmed, be (<em>feel</em>) enchanted'
+  translation: 'n: charm, delight; v.tr: charm, delight; v.intr: be (<em>feel</em>)
+    charmed, be (<em>feel</em>) delighted'
 carmecu:
   term: carmecu
   class: b.nenoj
@@ -6372,13 +6398,13 @@ carmene:
   term: carmene
   class: t
   category: derived
-  translation: 'adj: charming, enchanting; adv: charmingly'
+  translation: 'adj: charming, delightful; adv: charmingly'
 carmepul:
   term: carmepul
   class: t
   category: derived
-  translation: 'adj (for inanimate nouns): charming, enchanting; adv (for inanimate
-    nouns): charmingly; adj (for animate nouns): charmed, enchanted'
+  translation: 'adj (for inanimate nouns): charming, delightful; adv (for inanimate
+    nouns): charmingly; adj (for animate nouns): charmed, delighted'
 cati:
   term: cati
   class: b
@@ -6914,6 +6940,11 @@ cinjuli_gardanbendu:
   class: b
   category: phrase
   translation: 'n: pearl necklace'
+cinmi:
+  term: cinmi
+  class: t
+  category: root
+  translation: 'adj: intimate, close'
 cinon:
   term: cinon
   class: b.oro.jotay
@@ -7216,6 +7247,11 @@ coxone:
   class: t
   category: derived
   translation: 'adj: mocking, sneering, deriding; adv: mockingly, sneeringly, deridingly'
+cubo:
+  term: cubo
+  class: b.oj
+  category: root
+  translation: 'v.tr: prick, pierce'
 cucu:
   term: cucu
   class: b
@@ -7271,7 +7307,7 @@ cuki:
   term: cuki
   class: b.oro.harka
   category: root
-  translation: 'n: cycle; v.tr: cycle; v.intr (optional -cu): cycle'
+  translation: 'n: cycle, revolution; v.tr: cycle; v.intr (optional -cu): cycle, revolve'
 cukili:
   term: cukili
   class: t
@@ -7388,6 +7424,21 @@ cwentonli:
   class: t
   category: derived
   translation: 'adj: traditional; adv: traditionally'
+cwey:
+  term: cwey
+  class: b.oro
+  category: root
+  translation: 'n: intoxication; v.tr: intoxicate; v.intr: get intoxicated'
+cweydo:
+  term: cweydo
+  class: t
+  category: derived
+  translation: 'adj: intoxicated, high, drugged, drunk, inebriated'
+cweyne:
+  term: cweyne
+  class: t
+  category: derived
+  translation: 'adj: intoxicating'
 cyan:
   term: cyan
   class: t
@@ -7997,7 +8048,8 @@ daybon:
   term: daybon
   class: t
   category: derived
-  translation: 'adj: excellent, great, awesome, fantastic; adv: excellently, fantastically'
+  translation: 'adj: excellent, great, awesome, fantastic, fabulous, terrific, splendid;
+    adv: excellently, fantastically, fabulously'
 daybriti:
   term: Daybriti
   class: su n
@@ -8007,7 +8059,8 @@ daybur:
   term: daybur
   class: t
   category: derived
-  translation: 'adj: awful, terrible, horrible, evil; adv: awfully, terribly, horribly'
+  translation: 'adj: awful, terrible, horrible, lousy, evil; adv: awfully, terribly,
+    horribly'
 daycinon:
   term: daycinon
   class: b
@@ -8038,12 +8091,17 @@ daycu:
   class: b.nenoj
   category: derived
   translation: 'v.intr: enlarge, become large, get large, become big, get big'
+daycubo:
+  term: daycubo
+  class: b.oj
+  category: derived
+  translation: 'n: stab; v.tr: stab'
 dayday:
   term: dayday
   class: t
   category: derived
-  translation: 'adj: huge, enormous, immense, gigantic, giant; adv: hugely, enormously,
-    immensely, gigantically'
+  translation: 'adj: huge, enormous, immense, gigantic, giant, massive; adv: hugely,
+    enormously, immensely, gigantically, massively'
 daydaymo:
   term: daydaymo
   class: m
@@ -8094,6 +8152,11 @@ daydwer:
   class: b
   category: derived
   translation: 'n: gate'
+dayfobi:
+  term: dayfobi
+  class: b.oj
+  category: derived
+  translation: 'n: phobia; v.tr: terrify'
 daygadibu:
   term: daygadibu
   class: t
@@ -8124,7 +8187,7 @@ dayhazuni:
   term: dayhazuni
   class: t
   category: derived
-  translation: 'adj: inconsolable; adv: inconsolably'
+  translation: 'adj: inconsolable, miserable; adv: inconsolably, miserably'
 dayhox:
   term: dayhox
   class: t
@@ -8337,6 +8400,11 @@ daypawbu:
   class: b.oj.ru
   category: derived
   translation: 'n: sprint; v.tr: sprint'
+daypel:
+  term: daypel
+  class: b.oj
+  category: derived
+  translation: 'n: shove; v.tr: shove'
 daypeti:
   term: daypeti
   class: b.oj
@@ -9394,6 +9462,11 @@ doku:
   class: b
   category: root
   translation: 'n: document'
+dokufilme:
+  term: dokufilme
+  class: b
+  category: derived
+  translation: 'n: documentary (film)'
 dokujem:
   term: dokujem
   class: b.oj
@@ -9589,7 +9662,7 @@ doste:
   term: doste
   class: b
   category: root
-  translation: 'n: friend, pal'
+  translation: 'n: friend, pal, mate'
 doste_ci:
   term: doste ci
   class: b
@@ -11515,6 +11588,11 @@ especifigi:
   class: b.oj
   category: derived
   translation: 'n: specification; v.tr: specify'
+esperma:
+  term: esperma
+  class: b
+  category: root
+  translation: 'n: sperm'
 espesyal:
   term: espesyal
   class: t
@@ -11566,6 +11644,11 @@ esportudom:
   class: b
   category: derived
   translation: 'n: stadium'
+esportusapatu:
+  term: esportusapatu
+  class: b
+  category: derived
+  translation: 'n: sneaker(s), trainer(s)'
 esportuyen:
   term: esportuyen
   class: b
@@ -11729,6 +11812,11 @@ estaycu:
   class: b.nenoj
   category: derived
   translation: 'v.intr: stand up, get up, rise'
+estayjwan:
+  term: estayjwan
+  class: b.oro.harka
+  category: derived
+  translation: 'n: (vertical) flip; v.tr: flip; v.intr (optional -cu): flip (vertically)'
 estayli:
   term: estayli
   class: t
@@ -13177,7 +13265,7 @@ fe_moy_kaso:
   term: fe moy kaso
   class: p jm
   category: phrase
-  translation: 'prep phrs: in any case, at any rate, anyway'
+  translation: 'prep phrs: in any case, at any rate, anyway, anyhow'
 fe_moyun:
   term: fe moyun
   class: p jm
@@ -14019,6 +14107,16 @@ fisyo:
   class: b
   category: root
   translation: 'n: physiology, bodily functioning'
+fitnes:
+  term: fitnes
+  class: b
+  category: root
+  translation: 'n: fitness'
+fitnesdom:
+  term: fitnesdom
+  class: b
+  category: derived
+  translation: 'n: gym, fitness center'
 flamingo:
   term: flamingo
   class: b
@@ -14527,6 +14625,11 @@ foto:
   category: root
   translation: 'n: photo, photograph, picture; v.tr: photograph, take a picture (of),
     take pictures (of)'
+fotokitabu:
+  term: fotokitabu
+  class: b
+  category: derived
+  translation: 'n: (photo) album'
 fotoli:
   term: fotoli
   class: t
@@ -14637,6 +14740,16 @@ frontasahni:
   class: b
   category: derived
   translation: 'n: foreground'
+frontasupracu:
+  term: frontasupracu
+  class: b.nenoj
+  category: derived
+  translation: 'n: flip; v.intr: turn (face-up)'
+frontasupragi:
+  term: frontasupragi
+  class: b.oj
+  category: derived
+  translation: 'n: flip; v.tr: turn (face-up)'
 froyd:
   term: Froyd
   class: su n
@@ -14799,7 +14912,7 @@ funsyongi:
   term: funsyongi
   class: b.oj
   category: derived
-  translation: 'v.tr: run, operate'
+  translation: 'n: operation; v.tr: run, operate'
 funsyonkal:
   term: funsyonkal
   class: t
@@ -15618,6 +15731,11 @@ gibenenfil:
   class: t
   category: derived
   translation: 'adj: stingy, ungenerous; adv: stingily'
+gibun:
+  term: gibun
+  class: b
+  category: root
+  translation: 'n: mood'
 gida:
   term: gida
   class: b.oj
@@ -16131,7 +16249,7 @@ grafika:
   term: grafika
   class: b
   category: root
-  translation: 'n: graphic, graphics'
+  translation: 'n: graphic(s), chart'
 grafiti:
   term: grafiti
   class: b
@@ -16627,6 +16745,11 @@ hajane:
   class: t
   category: derived
   translation: 'adj: in need, needy; adv: needily'
+hajaparexan:
+  term: hajaparexan
+  class: t
+  category: derived
+  translation: 'adj: desperate; adv: desperately'
 hajapul:
   term: hajapul
   class: t
@@ -19173,6 +19296,11 @@ insanlogiyen:
   class: b
   category: derived
   translation: 'n: anthropologist'
+insanpul:
+  term: insanpul
+  class: t
+  category: derived
+  translation: 'adj: crowded'
 insulin:
   term: insulin
   class: b
@@ -20131,6 +20259,11 @@ jaribili:
   class: t
   category: derived
   translation: 'adj: experimental; adv: experimentally'
+jaribionexa:
+  term: jaribionexa
+  class: b.oj
+  category: derived
+  translation: 'n: auditon, tryout; v.tr: audition (for)'
 jaror:
   term: jaror
   class: b
@@ -20538,6 +20671,21 @@ jingodo:
   class: t
   category: derived
   translation: 'adj: warned, cautioned'
+jingoixara:
+  term: jingoixara
+  class: b.oj
+  category: derived
+  translation: 'n: (warning) alarm; v.tr: alarm'
+jingosoti:
+  term: jingosoti
+  class: b.nenoj
+  category: derived
+  translation: 'n: (warning) alarm; v.intr: sound the alarm'
+jingotul:
+  term: jingotul
+  class: b
+  category: derived
+  translation: 'n: (warning) alarm'
 jinji:
   term: jinji
   class: t
@@ -20857,7 +21005,7 @@ juimoni:
   term: juimoni
   class: b.oj
   category: derived
-  translation: 'n: examination, inspection; v.tr: examine, inspect'
+  translation: 'n: examination, inspection, audit; v.tr: examine, inspect, audit'
 juine:
   term: juine
   class: t
@@ -20938,6 +21086,11 @@ jumbigi:
   class: b.oj
   category: derived
   translation: 'n: preparation; v.tr: prepare, ready'
+jumbipesa:
+  term: jumbipesa
+  class: b
+  category: derived
+  translation: 'n: cash'
 jumbiya:
   term: jumbiya
   class: b
@@ -21117,7 +21270,8 @@ juniyen:
   term: juniyen
   class: b
   category: derived
-  translation: 'n (tween to early 20s): young man, young woman, gal, guy, dude, bloke'
+  translation: 'n (tween to early 20s): young man, young woman, gal, guy, dude, bloke,
+    lad'
 junluku:
   term: junluku
   class: b.nenoj
@@ -21195,6 +21349,11 @@ jyendo:
   class: t
   category: derived
   translation: 'adj: fried'
+jyenpatato:
+  term: jyenpatato
+  class: b
+  category: derived
+  translation: 'n: french fries, chips'
 kabaca:
   term: kabaca
   class: b
@@ -21295,6 +21454,11 @@ kadroimaje:
   class: b
   category: derived
   translation: 'n: framed picture'
+kadya:
+  term: kadya
+  class: b.oj
+  category: root
+  translation: 'n: assignment; v.tr: assign'
 kafare:
   term: kafare
   class: b.oj
@@ -21894,6 +22058,16 @@ kapisiya:
   class: b.nenoj
   category: derived
   translation: 'n: nod; v.intr: nod'
+kapisupracu:
+  term: kapisupracu
+  class: b.nenoj
+  category: derived
+  translation: 'n: flip; v.intr: turn (right side up), flip (right side up)'
+kapisupragi:
+  term: kapisupragi
+  class: b.oj
+  category: derived
+  translation: 'n: flip; v.tr: turn (right side up), flip (right side up)'
 kapital:
   term: kapital
   class: b
@@ -23212,6 +23386,11 @@ koberido:
   class: t
   category: derived
   translation: 'adj: covered'
+koberitul:
+  term: koberitul
+  class: b
+  category: derived
+  translation: 'n: cover, lid, top'
 kobra:
   term: kobra
   class: b
@@ -24337,6 +24516,11 @@ krimenli:
   class: t
   category: derived
   translation: 'adj: criminal; adv: criminally'
+krimentim:
+  term: krimentim
+  class: b
+  category: derived
+  translation: 'n: gang'
 krimenyen:
   term: krimenyen
   class: b
@@ -24481,7 +24665,8 @@ kufi:
   term: kufi
   class: t; il
   category: root
-  translation: 'adj: enough, sufficient; adv: enough, sufficiently; interj: enough'
+  translation: 'adj: enough, sufficient, plenty (of); adv: enough, sufficiently; interj:
+    enough'
 kufiday:
   term: kufiday
   class: t
@@ -24972,7 +25157,7 @@ labas:
   term: labas
   class: b.oj
   category: root
-  translation: 'n: clothing, clothes, garments; v.tr: wear'
+  translation: 'n: clothing, clothes, garment(s), attire; v.tr: wear'
 labasalkoba:
   term: labasalkoba
   class: b
@@ -25094,6 +25279,11 @@ lalagi:
   category: derived
   translation: 'v.tr: cause (<em>somebody</em>) to sing, make (<em>somebody</em>)
     sing'
+lalalari:
+  term: lalalari
+  class: b
+  category: derived
+  translation: 'n: album (<em>songs</em>)'
 lalane:
   term: lalane
   class: t
@@ -25449,6 +25639,11 @@ lefe_ki:
   class: l
   category: phrase
   translation: 'conj: before (<em>+ sentence</em>)'
+lefe_midinuru:
+  term: lefe midinuru
+  class: p jm
+  category: phrase
+  translation: 'prep phrs: ante meridiem, before noon, a.m.'
 lefe_na:
   term: lefe na
   class: p
@@ -25672,6 +25867,11 @@ letagi:
   class: b.oj
   category: derived
   translation: 'n: laying; v.tr: lay'
+letajwan:
+  term: letajwan
+  class: b.oro.harka
+  category: derived
+  translation: 'n: flip; v.tr: flip; v.intr (optional -cu): flip (face-down/face-up)'
 letali:
   term: letali
   class: t
@@ -27062,7 +27262,8 @@ mal:
   term: mal
   class: t
   category: root
-  translation: 'adj: wrong, incorrect, mistaken; adv: wrongly, incorrectly, mistakenly'
+  translation: 'adj: wrong, incorrect, mistaken; adv: wrongly, incorrectly, mistakenly;
+    interj: oops'
 mal-:
   term: mal-
   class: lfik
@@ -27499,7 +27700,7 @@ mannini:
   term: mannini
   class: b
   category: derived
-  translation: 'n: boy'
+  translation: 'n: boy, lad'
 manprince:
   term: manprince
   class: b
@@ -27569,7 +27770,7 @@ manyen:
   term: manyen
   class: b
   category: derived
-  translation: 'n: male, man, young man, guy, boy, dude, bloke'
+  translation: 'n: male, man, young man, guy, boy, fellow, dude, bloke, lad'
 mapa:
   term: mapa
   class: b
@@ -28266,8 +28467,8 @@ maxpul:
   term: maxpul
   class: t
   category: derived
-  translation: 'adj: additional, further, another, extra; adv: additionally, in addition,
-    furthermore, moreover'
+  translation: 'adj: additional, further, another, extra, spare; adv: additionally,
+    in addition, furthermore, moreover'
 maxus:
   term: maxus
   class: p
@@ -28710,6 +28911,23 @@ merasemli:
   class: t
   category: derived
   translation: 'adj: ceremonial; adv: ceremonially'
+meryo:
+  term: meryo
+  class: b.oro.hisi
+  category: root
+  translation: 'n: fascination, enchantment, captivation; v.tr: fascinate, enchant,
+    captivate, mesmerize; v.intr: be (<em>feel</em>) fascinated, be (<em>feel</em>)
+    enchanted, be (<em>feel</em>) captivated, be (<em>feel</em>) mesmerized'
+meryodo:
+  term: meryodo
+  class: t
+  category: derived
+  translation: 'adj: fascinated, enchanted, captivated, mesmerized'
+meryone:
+  term: meryone
+  class: t
+  category: derived
+  translation: 'adj: fascinating, enchanting, captivating, mesmerizing'
 mesa:
   term: mesa
   class: b
@@ -29850,6 +30068,11 @@ morcugongaw:
   class: b
   category: derived
   translation: 'n: obituary'
+morcumerasem:
+  term: morcumerasem
+  class: b
+  category: derived
+  translation: 'n: funeral'
 morcunispatu:
   term: morcunispatu
   class: b
@@ -30445,6 +30668,11 @@ mutado:
   class: t
   category: derived
   translation: 'adj: mutated'
+mutlaku:
+  term: mutlaku
+  class: t
+  category: root
+  translation: 'adj: absolute; adv: absolutely'
 muxtari:
   term: Muxtari
   class: su n
@@ -31064,6 +31292,11 @@ nenandinya:
   class: b
   category: derived
   translation: 'n: instability'
+nenbekoneyen:
+  term: nenbekoneyen
+  class: b
+  category: derived
+  translation: 'n: stranger'
 nencanedo:
   term: nencanedo
   class: t
@@ -31223,7 +31456,7 @@ nenkonedo:
   term: nenkonedo
   class: t
   category: derived
-  translation: 'adj: unknown'
+  translation: 'adj: unknown, unfamiliar, foreign'
 nenkufiya:
   term: nenkufiya
   class: b
@@ -31602,11 +31835,6 @@ nice:
   class: su n
   category: proper word
   translation: 'prop n: Nietzsche'
-nicode:
-  term: nicode
-  class: b.oj
-  category: root
-  translation: 'n: squeeze; v.tr: squeeze'
 nicodedo:
   term: nicodedo
   class: t
@@ -32500,6 +32728,11 @@ ogardom:
   class: b
   category: derived
   translation: 'n: habitat, dwelling, housing, home'
+ogarergo:
+  term: ogarergo
+  class: b
+  category: derived
+  translation: 'n: housework, housekeeping, chore'
 ogarfilyen:
   term: ogarfilyen
   class: b
@@ -32515,6 +32748,11 @@ ogarible:
   class: t
   category: derived
   translation: 'adj: habitable; adv: habitably'
+ogarkadya:
+  term: ogarkadya
+  class: b
+  category: derived
+  translation: 'n: homework'
 ogarli:
   term: ogarli
   class: t
@@ -32776,7 +33014,8 @@ onxalakal:
   term: onxalakal
   class: t
   category: derived
-  translation: 'adj: hopeless; adv: hopelessly'
+  translation: 'adj: hopeless, desperate, despairing; adv: hopelessly, desperately,
+    despairingly'
 onxalakalya:
   term: onxalakalya
   class: b
@@ -34072,6 +34311,16 @@ pedamarka:
   class: b
   category: derived
   translation: 'n: footprint'
+pedasupracu:
+  term: pedasupracu
+  class: b.nenoj
+  category: derived
+  translation: 'n: flip; v.intr: turn (upside down), flip (upside down)'
+pedasupragi:
+  term: pedasupragi
+  class: b.oj
+  category: derived
+  translation: 'n: flip; v.tr: turn (upside down), flip (upside down)'
 pedatul:
   term: pedatul
   class: b
@@ -34292,7 +34541,8 @@ perfora:
   term: perfora
   class: b.oj
   category: root
-  translation: 'n: perforation, orifice, hole; v.tr: perforate, puncture'
+  translation: 'n: perforation, puncture, orifice, hole, piercing; v.tr: perforate,
+    puncture'
 perforado:
   term: perforado
   class: t
@@ -34538,7 +34788,7 @@ pifu:
   term: pifu
   class: b.oj
   category: root
-  translation: 'n: skin; v.tr: touch (<em>with skin, so as to feel</em>)'
+  translation: 'n: skin; n: leather; v.tr: touch (<em>with skin, so as to feel</em>)'
 pifucu:
   term: pifucu
   class: b.lin
@@ -34964,7 +35214,7 @@ plu-:
   term: plu-
   class: lfik
   category: affix
-  translation: 'pfx: <em>multiple</em>, poly-'
+  translation: 'n pfx: <em>multiple</em>, poly-; v pfx: <em>iterative aspect</em>'
 plubasayen:
   term: plubasayen
   class: b
@@ -35005,6 +35255,11 @@ plujensifilya:
   class: b
   category: derived
   translation: 'n: polysexuality'
+plurota:
+  term: plurota
+  class: b.oro.harka
+  category: derived
+  translation: 'n: spin; v.tr: spin; v.intr: spin'
 pluteoismo:
   term: pluteoismo
   class: b
@@ -35314,7 +35569,7 @@ pos-:
   term: pos-
   class: lfik
   category: affix
-  translation: 'pfx: opposite'
+  translation: 'pfx: opposite, un-, in-, de-'
 posabone:
   term: posabone
   class: b.oj
@@ -35734,6 +35989,17 @@ posyukyo:
   category: derived
   translation: 'n: invalidity (<em>state of being not valid</em>); v.tr: invalidate,
     make (<em>something</em>) invalid; v.intr: be invalid'
+posyunki:
+  term: posyunki
+  class: b.oro.jotay
+  category: derived
+  translation: 'n: cowardice; v.tr: make (somebody) cowardly; v.intr: be cowardly,
+    not have the courage (to, for), not dare (to)'
+posyunkiyen:
+  term: posyunkiyen
+  class: b
+  category: derived
+  translation: 'n: coward'
 potasyum:
   term: potasyum
   class: b
@@ -36159,6 +36425,11 @@ pulya:
   class: b
   category: derived
   translation: 'n: fullness'
+pulyakin:
+  term: pulyakin
+  class: t
+  category: derived
+  translation: 'adj: definite, absolute, positive; adv: definitely, absolutely, positively'
 puma:
   term: puma
   class: b
@@ -36577,7 +36848,7 @@ regula:
   term: regula
   class: b
   category: root
-  translation: 'n: rule, regulation, policy'
+  translation: 'n: rule, regulation'
 reguladoku:
   term: reguladoku
   class: b
@@ -36901,7 +37172,7 @@ rinjon:
   term: rinjon
   class: b.nenoj
   category: root
-  translation: 'n: bell; v.intr: ring'
+  translation: 'n: bell; n: alarm (<em>time</em>); v.intr: ring'
 rioko:
   term: rioko
   class: b.oj
@@ -37098,8 +37369,7 @@ rota:
   term: rota
   class: b.oro.harka
   category: root
-  translation: 'n: rotation; v.tr: rotate, turn (around); v.intr (optional -cu): rotate,
-    turn (around)'
+  translation: 'n: rotation; v.tr: rotate; v.intr (optional -cu): rotate'
 rotacune:
   term: rotacune
   class: t
@@ -37247,6 +37517,11 @@ rujiwagi:
   category: derived
   translation: 'n: resurrection, resuscitation, revival; v.tr: resurrect, resuscitate,
     revive, bring back to life'
+rujwan:
+  term: rujwan
+  class: b.oro.harka
+  category: derived
+  translation: 'v.tr: turn around; v.intr: turn around'
 ruke:
   term: ruke
   class: b.oj
@@ -37268,6 +37543,16 @@ rukesahni:
   class: b
   category: derived
   translation: 'n: background'
+rukesupracu:
+  term: rukesupracu
+  class: b.nenoj
+  category: derived
+  translation: 'n: flip; v.intr: turn (face-down)'
+rukesupragi:
+  term: rukesupragi
+  class: b.oj
+  category: derived
+  translation: 'n: flip; v.tr: turn (face-down)'
 rukesutun:
   term: rukesutun
   class: b
@@ -37550,6 +37835,16 @@ sadafayen:
   class: b
   category: derived
   translation: 'n: crustacean'
+sadaka:
+  term: sadaka
+  class: b.oj
+  category: derived
+  translation: 'n: alms, charity; v.tr: give alms'
+sadakatim:
+  term: sadakatim
+  class: b
+  category: derived
+  translation: 'n: charity (<em>organization</em>)'
 sadismo:
   term: sadismo
   class: b
@@ -37564,7 +37859,7 @@ safe:
   term: safe
   class: t
   category: root
-  translation: 'adj: clean; adv: cleanly'
+  translation: 'adj: clean, pure; adv: cleanly'
 safegi:
   term: safegi
   class: b.oj
@@ -38535,6 +38830,11 @@ seletifil:
   class: t
   category: derived
   translation: 'adj: selective; adv: selectively'
+seletijaribi:
+  term: seletijaribi
+  class: b.oj
+  category: derived
+  translation: 'n: auditon, tryout; v.tr: audition (<em>someone</em>)'
 seli:
   term: seli
   class: t
@@ -38747,7 +39047,7 @@ sen_peldo:
   term: sen peldo
   class: f jm
   category: phrase
-  translation: 'v phrs: feel like'
+  translation: 'v phrs: feel like, be in the mood for'
 sen_per:
   term: sen per
   class: jm
@@ -39777,6 +40077,11 @@ soloyen:
   class: b
   category: derived
   translation: 'n: loner, solitaire, hermit, recluse'
+solpul:
+  term: solpul
+  class: t
+  category: derived
+  translation: 'adj: pure'
 solun:
   term: solun
   class: d
@@ -40446,8 +40751,8 @@ suprem:
   term: suprem
   class: t
   category: root
-  translation: 'adj: supreme, greatest (possible), extreme; adj (informal): excellent,
-    cool; adv: supremely, extremely; adv (informal): excellently, cool'
+  translation: 'adj: supreme, superb, greatest (possible), extreme; adj (informal):
+    excellent, cool; adv: supremely, extremely; adv (informal): excellently, cool'
 supremmo:
   term: supremmo
   class: m
@@ -42502,7 +42807,7 @@ tongoyen:
   term: tongoyen
   class: b
   category: derived
-  translation: 'n: companion, company, partner'
+  translation: 'n: companion, company, partner, mate'
 tonhare:
   term: tonhare
   class: b.oj
@@ -42548,7 +42853,7 @@ tonyen:
   term: tonyen
   class: b
   category: derived
-  translation: 'n: companion, company, partner'
+  translation: 'n: companion, company, partner, mate'
 tonyongu:
   term: tonyongu
   class: b.oj
@@ -42684,8 +42989,8 @@ total:
   term: total
   class: t
   category: root
-  translation: 'adj: entire, whole, all, quite (a), absolute; adv: entirely, wholly,
-    absolutely'
+  translation: 'adj: entire, whole, all, quite (a), absolute, utter; adv: entirely,
+    wholly, absolutely, utterly'
 total_dur:
   term: total dur
   class: p
@@ -42715,7 +43020,7 @@ totalyakin:
   term: totalyakin
   class: t
   category: derived
-  translation: 'adj: definite, absolute; adv: definitely, absolutely'
+  translation: 'adj: definite, absolute, positive; adv: definitely, absolutely, positively'
 towa:
   term: towa
   class: b
@@ -43366,6 +43671,11 @@ tyao:
   class: b.oj.ru
   category: root
   translation: 'n: jump, leap; v.tr: jump, leap'
+tyaokadam:
+  term: tyaokadam
+  class: b.oj
+  category: derived
+  translation: 'n: skip; v.tr: skip'
 tyenga:
   term: tyenga
   class: b
@@ -43525,6 +43835,11 @@ ultrapasa:
   class: b.oj
   category: derived
   translation: 'v.tr: pass by, surpass, exceed'
+ultratyao:
+  term: ultratyao
+  class: b.oj
+  category: derived
+  translation: 'n: skip; v.tr: skip'
 ultraya:
   term: ultraya
   class: b.oj
@@ -44534,13 +44849,14 @@ waone:
   term: waone
   class: t
   category: derived
-  translation: 'adj: amazing, wonderful, marvelous, marvellous; adv: amazingly, wonderfully,
-    marvelously, marvellously'
+  translation: 'adj: amazing, wonderful, marvelous, marvellous, fantastic, fabulous;
+    adv: amazingly, wonderfully, marvelously, marvellously, fantastically, fabulously'
 waopul:
   term: waopul
   class: t
   category: derived
-  translation: 'adj (for inanimate nouns): amazing; adj (for animate nouns): amazed'
+  translation: 'adj (for inanimate nouns): amazing, wonderful, marvelous, marvellous,
+    fantastic, fabulous; adj (for animate nouns): amazed'
 waoxey:
   term: waoxey
   class: b
@@ -44932,6 +45248,11 @@ xafe_ki:
   class: l
   category: phrase
   translation: 'conj: after (<em>+ sentence</em>), once (<em>+ sentence</em>)'
+xafe_midinuru:
+  term: xafe midinuru
+  class: p jm
+  category: phrase
+  translation: 'prep phrs: post meridiem, in the afternoon, p.m.'
 xafe_morcu:
   term: xafe morcu
   class: p jm
@@ -44957,6 +45278,11 @@ xafebete:
   class: b
   category: derived
   translation: 'n: descendant'
+xafecwey:
+  term: xafecwey
+  class: b
+  category: derived
+  translation: 'n: hangover'
 xafefikso:
   term: xafefikso
   class: b
@@ -45414,6 +45740,11 @@ xetocubon:
   class: t
   category: derived
   translation: 'adj: delicious, tasty; adv: deliciously'
+xetocuente:
+  term: xetocuente
+  class: b
+  category: derived
+  translation: 'n: condiment, flavoring'
 xetoya:
   term: xetoya
   class: b
@@ -45787,8 +46118,7 @@ xorfobi:
   term: xorfobi
   class: b.oro.hisi
   category: derived
-  translation: 'v.tr: cause (<em>somebody</em>) to become frightened, cause (<em>somebody</em>)
-    to become scared; v.intr: become frightened, become scared'
+  translation: 'v.tr: alarm; v.intr: become alarmed'
 xorganci:
   term: xorganci
   class: b.oj
@@ -46813,6 +47143,21 @@ yunkigi:
   class: b.oj
   category: derived
   translation: 'n: encouragement; v.tr: encourage'
+yunkikal:
+  term: yunkikal
+  class: t
+  category: derived
+  translation: 'adj: cowardly'
+yunkikalya:
+  term: yunkikalya
+  class: b
+  category: derived
+  translation: 'n: cowardice'
+yunkikalyen:
+  term: yunkikalyen
+  class: b
+  category: derived
+  translation: 'n: coward'
 yunkipul:
   term: yunkipul
   class: t
