@@ -704,6 +704,11 @@ ajelapul:
   class: t
   category: derived
   translation: 'adj: hasta, urĝa; adv: haste, urĝe'
+ajenda:
+  term: ajenda
+  class: b
+  category: derived
+  translation: 's: tagordo'
 akaci:
   term: akaci
   class: b
@@ -4516,7 +4521,7 @@ bendaji:
   translation: 's: bandaĝo, pansaĵo; v.tr: bandaĝi, pansi'
 bendu:
   term: bendu
-  class: b
+  class: b.oj
   category: root
   translation: 's: bendo, rubando'
 bendutaji:
@@ -5170,6 +5175,11 @@ bondin:
   class: il
   category: derived
   translation: 'interj: bonan tagon'
+bonfalefil:
+  term: bonfalefil
+  class: t
+  category: derived
+  translation: 'adj: bonfalema, bonkora; adv: bonfaleme, bonkore'
 bongeniismo:
   term: bongeniismo
   class: b
@@ -5190,6 +5200,21 @@ bonglu:
   class: b.nenoj; il
   category: derived
   translation: 's: tosto; v.ntr: tosti; interj: sanon'
+bongo:
+  term: bongo
+  class: b
+  category: root
+  translation: 's: bongo; s (obscena): pugo'
+bongohongu:
+  term: bongohongu
+  class: b
+  category: derived
+  translation: 's (obscena): pugtruo'
+bongooko:
+  term: bongooko
+  class: b
+  category: derived
+  translation: 's (obscena): pugtruo'
 bonhifazi:
   term: bonhifazi
   class: b.oj
@@ -5250,6 +5275,16 @@ bonus:
   class: b
   category: root
   translation: 's: bonifiko'
+bonvole:
+  term: bonvole
+  class: b
+  category: derived
+  translation: 's: bonvolo'
+bonvolefil:
+  term: bonvolefil
+  class: t
+  category: derived
+  translation: 'adj: bonvola, bonkora; adv: bonvole, bonkore'
 bonxanse:
   term: bonxanse
   class: b; il
@@ -5881,6 +5916,11 @@ burfahuriya:
   class: b
   category: derived
   translation: 's: aroganto, aroganteco, malhumileco, fieraĉo, orgojlo'
+burfalefil:
+  term: burfalefil
+  class: t
+  category: derived
+  translation: 'adj: malbonfalema, malica; adv: malbonfaleme, malice'
 burfil:
   term: burfil
   class: t
@@ -6001,6 +6041,16 @@ burtyan:
   class: b
   category: derived
   translation: 's: makulo'
+burvole:
+  term: burvole
+  class: b
+  category: derived
+  translation: 's: malbonvolo, malico'
+burvolefil:
+  term: burvolefil
+  class: t
+  category: derived
+  translation: 'adj: malbonvola, malica; adv: malbonvole, malice'
 burxanse:
   term: burxanse
   class: b
@@ -6203,9 +6253,9 @@ calunkursi:
   translation: 's: rulseĝo'
 calyo:
   term: calyo
-  class: b
+  class: b.nenoj
   category: root
-  translation: 's: veturilo'
+  translation: 's: veturilo; v.ntr: veturi'
 calyodao:
   term: calyodao
   class: b
@@ -6873,7 +6923,7 @@ cinmi:
   term: cinmi
   class: t
   category: root
-  translation: ""
+  translation: 'adj: intima'
 cinon:
   term: cinon
   class: b.oro.jotay
@@ -6929,6 +6979,16 @@ cipenpulya:
   class: b
   category: derived
   translation: 's: malhonesto, malhonesteco, malsincero, malsincereco'
+cipenpulyen:
+  term: cipenpulyen
+  class: b
+  category: derived
+  translation: 's: kanajlo, fripono'
+cipenyen:
+  term: cipenyen
+  class: b
+  category: derived
+  translation: 's: trompanto, trompisto'
 cipresu:
   term: cipresu
   class: b
@@ -7169,6 +7229,11 @@ coxodo:
   class: t
   category: derived
   translation: 'adj: mokita; adv: mokite'
+coxolaye:
+  term: coxolaye
+  class: t
+  category: derived
+  translation: 'adj: ridinda; adv: ridinde'
 coxone:
   term: coxone
   class: t
@@ -7324,6 +7389,11 @@ cuyodolo:
   class: b
   category: derived
   translation: 's: ĉefstrato'
+cuyokamer:
+  term: cuyokamer
+  class: b
+  category: derived
+  translation: 's: vestiblo'
 cuyotyan:
   term: cuyotyan
   class: b
@@ -7353,7 +7423,7 @@ cwey:
   term: cwey
   class: b.oro
   category: root
-  translation: 's: ebria; v.tr: ebriigi; v.ntr: ebriiĝi'
+  translation: 's: ebrio; v.tr: ebriigi; v.ntr: ebriiĝi'
 cweydo:
   term: cweydo
   class: t
@@ -7790,6 +7860,11 @@ darsulari:
   class: b
   category: derived
   translation: 's: kurso, klaso'
+darsutonyen:
+  term: darsutonyen
+  class: b
+  category: derived
+  translation: 's: samklasano'
 darwin:
   term: Darwin
   class: su n
@@ -8069,7 +8144,12 @@ dayfobi:
   term: dayfobi
   class: b.oj
   category: derived
-  translation: ""
+  translation: 's: fobio; v.tr: teruri'
+dayfuraha:
+  term: dayfuraha
+  class: b.oj
+  category: derived
+  translation: 's: ĝuego; v.tr: ĝuigi; v.ntr: senti ĝuegon'
 daygadibu:
   term: daygadibu
   class: t
@@ -8101,6 +8181,11 @@ dayhazuni:
   category: derived
   translation: 'adj: malfeliĉega, malĝojega, malgajega; adv: malfeliĉege, malĝojege,
     malgajege'
+dayhazuniya:
+  term: dayhazuniya
+  class: b
+  category: derived
+  translation: 's: malĝojego, mizero'
 dayhox:
   term: dayhox
   class: t
@@ -9200,11 +9285,6 @@ disgongin:
   class: b.oj
   category: derived
   translation: 's: emisio, eldono; v.tr: emisii, eldoni'
-dishadya:
-  term: dishadya
-  class: b.oj
-  category: derived
-  translation: 's: disdono, divido; v.tr: disdoni, dividi'
 disiplin:
   term: disiplin
   class: b.oj
@@ -9224,7 +9304,7 @@ diskonegi:
   term: diskonegi
   class: b.oj
   category: derived
-  translation: 's: diskonigo; v.tr: diskonigi'
+  translation: 's: diskonigo; v.tr: diskonigi, dividi'
 diskrimina:
   term: diskrimina
   class: b.oj; b.nenoj.p
@@ -10117,6 +10197,11 @@ dukan:
   class: b
   category: root
   translation: 's: butiko, vendejo'
+dukari:
+  term: dukari
+  class: b
+  category: derived
+  translation: 's: aĉetado, butikumado'
 duke:
   term: duke
   class: b
@@ -11551,7 +11636,7 @@ esportusapatu:
   term: esportusapatu
   class: b
   category: derived
-  translation: ""
+  translation: 's: sportŝuo(j)'
 esportuyen:
   term: esportuyen
   class: b
@@ -11717,7 +11802,8 @@ estayjwan:
   term: estayjwan
   class: b.oro.harka
   category: derived
-  translation: ""
+  translation: 's: (vertikala) renverso; v.tr: renversi; v.intr (opcia uzo de -cu):
+    renversiĝi (vertikale)'
 estayli:
   term: estayli
   class: t
@@ -11971,6 +12057,11 @@ estudiyen:
   class: b
   category: derived
   translation: 's: studanto, studento'
+estudyo:
+  term: estudyo
+  class: b
+  category: root
+  translation: 's: studio'
 estuf:
   term: estuf
   class: b.oro
@@ -13409,16 +13500,31 @@ feka:
   class: b.oj.ru; il
   category: root
   translation: 's: feko; v.tr: feki; interj: fek'
+fekabete:
+  term: fekabete
+  class: b
+  category: derived
+  translation: 's: fekulo, aĉulo'
 fekagi:
   term: fekagi
   class: b.oj
   category: derived
   translation: 's: fekigo; v.tr: fekigi'
+fekahongu:
+  term: fekahongu
+  class: b
+  category: derived
+  translation: 's (obscena): fektruo'
 fekali:
   term: fekali
   class: t
   category: derived
   translation: 'adj: feka; adv: feke'
+fekayen:
+  term: fekayen
+  class: b
+  category: derived
+  translation: 's: fekulo, aĉulo'
 feki:
   term: feki
   class: l
@@ -14633,12 +14739,12 @@ frontasupracu:
   term: frontasupracu
   class: b.nenoj
   category: derived
-  translation: ""
+  translation: 's: turno; v.intr: turniĝi (frontflanke supren)'
 frontasupragi:
   term: frontasupragi
   class: b.oj
   category: derived
-  translation: ""
+  translation: 's: turno; v.tr: turni (frontflanke supren)'
 froyd:
   term: Froyd
   class: su n
@@ -16607,11 +16713,6 @@ hahagi:
   class: b.oj
   category: derived
   translation: 's: ridigo; v.tr: ridigi'
-hahagine:
-  term: hahagine
-  class: t
-  category: derived
-  translation: 'adj: ridiga, ridinda; adv: ridige, ridinde'
 haja:
   term: haja
   class: b.oj
@@ -18889,6 +18990,11 @@ infra-:
   class: lfik
   category: affix
   translation: 'pfk: sub-, malsupra'
+infracu:
+  term: infracu
+  class: b.nenoj
+  category: derived
+  translation: 's: defalo, malsupriĝo; v.ntr: defali, malsupriĝi'
 infrafuha:
   term: infrafuha
   class: b.oj
@@ -20127,7 +20233,7 @@ jaribionexa:
   term: jaribionexa
   class: b.oj
   category: derived
-  translation: ""
+  translation: 's: provludo, provprezento: v.tr:provludi, provprezenti'
 jaror:
   term: jaror
   class: b
@@ -20409,6 +20515,11 @@ jentotul:
   class: b.oj
   category: derived
   translation: 's: batalilo, armilo; v.tr: armi, armiligi'
+jentotuldo:
+  term: jentotuldo
+  class: t
+  category: derived
+  translation: 's: armita'
 jentoyen:
   term: jentoyen
   class: b
@@ -20538,17 +20649,17 @@ jingoixara:
   term: jingoixara
   class: b.oj
   category: derived
-  translation: ""
+  translation: 's: (averta) alarmo; v.tr: alarmoaverti, averti (per alarmo), alarmigi'
 jingosoti:
   term: jingosoti
-  class: b.nenoj
+  class: b
   category: derived
-  translation: ""
+  translation: 's (sono): (averta) alarmo'
 jingotul:
   term: jingotul
   class: b
   category: derived
-  translation: ""
+  translation: 's (ilo): (averta) alarmo'
 jinji:
   term: jinji
   class: t
@@ -20684,6 +20795,16 @@ jixigi:
   class: b.oj
   category: derived
   translation: 's: sciigo, avizo; v.tr: sciigi, avizi'
+jixikal:
+  term: jixikal
+  class: t
+  category: derived
+  translation: 'adj: nescia, neklera; adv: nescie'
+jixikalya:
+  term: jixikalya
+  class: b
+  category: derived
+  translation: 's: nescio'
 jixilogi:
   term: jixilogi
   class: b
@@ -20775,6 +20896,11 @@ jotaybon:
   class: t
   category: derived
   translation: 'adj: bonfarta; adv: bonfarte'
+jotayinfracu:
+  term: jotayinfracu
+  class: b.nenoj
+  category: derived
+  translation: 's: degenerado; v.ntr: degeneri'
 jovari:
   term: jovari
   class: b
@@ -20851,7 +20977,7 @@ juigi:
   term: juigi
   class: b.oj
   category: derived
-  translation: 's: atentigo; v.tr: atentigi'
+  translation: 'v.tr: atentigi'
 juikal_tem:
   term: juikal tem
   class: p jm
@@ -21316,7 +21442,7 @@ kadya:
   term: kadya
   class: b.oj
   category: root
-  translation: ""
+  translation: 's: tasko; v.tr: asigni'
 kafare:
   term: kafare
   class: b.oj
@@ -21460,11 +21586,32 @@ kakugi:
   class: b.oj
   category: derived
   translation: 's: vomigo; v.tr: vomigi'
+kakupel:
+  term: kakupel
+  class: b.oj
+  category: derived
+  translation: 'v.tr: naŭzi'
+kakupeldo:
+  term: kakupeldo
+  class: t
+  category: derived
+  translation: 'adj: vomema'
+kakupelne:
+  term: kakupelne
+  class: t
+  category: derived
+  translation: 'adj: naŭza; adv: naŭze'
 kakutus:
   term: kakutus
   class: b
   category: root
   translation: 's: kakto'
+kakuvole:
+  term: kakuvole
+  class: b.nenoj
+  category: derived
+  translation: 's: naŭzo; v.ntr: esti (<em>senti sin</em>) naŭzita, esti (<em>senti
+    sin</em>) vomema, vomemi'
 kal:
   term: kal
   class: t
@@ -21856,6 +22003,11 @@ kaos:
   class: b
   category: root
   translation: 's: ĥaoso, kaoso'
+kaosgi:
+  term: kaosgi
+  class: b.oj
+  category: derived
+  translation: 'v.tr: fuŝi, ĥaosigi, kaosigi, malordigi, malaranĝi '
 kaospul:
   term: kaospul
   class: t
@@ -21920,12 +22072,12 @@ kapisupracu:
   term: kapisupracu
   class: b.nenoj
   category: derived
-  translation: ""
+  translation: 's: renverso; v.intr: rektiĝi (el kap-al-suba pozicio)'
 kapisupragi:
   term: kapisupragi
   class: b.oj
   category: derived
-  translation: ""
+  translation: 's: renverso; v.tr: rektigi (el kap-al-suba pozicio)'
 kapital:
   term: kapital
   class: b
@@ -23495,6 +23647,11 @@ kolyo:
   class: b.oj
   category: root
   translation: 's: konsidero; v.tr: konsideri'
+kolyofil:
+  term: kolyofil
+  class: t
+  category: derived
+  translation: 'adj: konsiderema; adv: konsidereme'
 kom:
   term: kom
   class: l
@@ -23724,7 +23881,7 @@ konegi:
   term: konegi
   class: b.oj
   category: derived
-  translation: 's: konigo, enkonduko; v.tr: konigi, enkonduki'
+  translation: 's: konigo, enkonduko; v.tr: konigi, enkonduki, dividi'
 konestable:
   term: konestable
   class: b
@@ -24354,6 +24511,11 @@ krimencipen:
   class: b.oj
   category: derived
   translation: 's: fraŭdo; v.tr: fraŭdi'
+krimencipenyen:
+  term: krimencipenyen
+  class: b
+  category: derived
+  translation: 's: fraŭdulo, trompŝtelisto, ĉarlatano'
 krimenli:
   term: krimenli
   class: t
@@ -24363,7 +24525,7 @@ krimentim:
   term: krimentim
   class: b
   category: derived
-  translation: 's: bando'
+  translation: 's: (krimula) bando'
 krimenyen:
   term: krimenyen
   class: b
@@ -25705,7 +25867,8 @@ letajwan:
   term: letajwan
   class: b.oro.harka
   category: derived
-  translation: ""
+  translation: 's: turno; v.tr: turni; v.intr (opcia uzo de -cu): turniĝi (frontflanke
+    malsupren/supren)'
 letali:
   term: letali
   class: t
@@ -31111,6 +31274,11 @@ nencanedo:
   class: t
   category: derived
   translation: 'adj: nekombita; adv: nekombite'
+nencensu:
+  term: nencensu
+  class: t
+  category: derived
+  translation: 'adj: malmatura; adv: malmature'
 nencinon:
   term: nencinon
   class: b
@@ -31121,6 +31289,11 @@ nencipen:
   class: b
   category: derived
   translation: 's: honesteco, sincereco'
+nencweydo:
+  term: nencweydo
+  class: t
+  category: derived
+  translation: 'adj: malebria; adv: malebrie'
 nendodukuli:
   term: nendodukuli
   class: t
@@ -31953,6 +32126,11 @@ nongyogeo:
   class: b
   category: derived
   translation: 's: agraro'
+nongyoli:
+  term: nongyoli
+  class: t
+  category: derived
+  translation: 'adj: kampara, rura'
 nongyoyen:
   term: nongyoyen
   class: b
@@ -33786,18 +33964,18 @@ pare:
 parexan:
   term: parexan
   class: t
-  category: derived
+  category: root
   translation: 'adj: perturbita, malkvieta, afliktita, ĉagrenita'
 parexancu:
   term: parexancu
   class: b.nenoj
   category: derived
-  translation: ""
+  translation: 'v.ntr: perturbiĝi, malkvietiĝi, afliktiĝi, ĉagreniĝi'
 parexangi:
   term: parexangi
   class: b.oj
   category: derived
-  translation: ""
+  translation: 'v.tr: perturbi, malkvietigi, aflikti, ĉagreni'
 parexanya:
   term: parexanya
   class: b
@@ -34034,6 +34212,11 @@ payaco:
   class: b
   category: root
   translation: 's: klaŭno, pajaco'
+payacosim:
+  term: payacosim
+  class: t
+  category: derived
+  translation: 'adj: klaŭneca, pajaceca'
 payado:
   term: payado
   class: t
@@ -34118,12 +34301,12 @@ pedasupracu:
   term: pedasupracu
   class: b.nenoj
   category: derived
-  translation: ""
+  translation: 's: renverso; v.intr: renversiĝi (kap-al-sube)'
 pedasupragi:
   term: pedasupragi
   class: b.oj
   category: derived
-  translation: ""
+  translation: 's: renverso; v.tr: renversi (kap-al-sube)'
 pedatul:
   term: pedatul
   class: b
@@ -35789,12 +35972,13 @@ posyunki:
   term: posyunki
   class: b.oro.jotay
   category: derived
-  translation: ""
+  translation: 's: malkuraĝo; v.tr: malkuraĝigi; v.intr: malkuraĝi, ne havi la kuraĝon
+    (por), ne kuraĝi'
 posyunkiyen:
   term: posyunkiyen
   class: b
   category: derived
-  translation: ""
+  translation: 's: malkuraĝulo'
 potasyum:
   term: potasyum
   class: b
@@ -36792,6 +36976,11 @@ resmi:
   class: t
   category: root
   translation: 'adj: formala, oficiala; adv: formale, oficiale'
+resmikostum:
+  term: resmikostum
+  class: b
+  category: derived
+  translation: 's: uniformo'
 resmixey:
   term: resmixey
   class: b
@@ -37322,12 +37511,12 @@ rukesupracu:
   term: rukesupracu
   class: b.nenoj
   category: derived
-  translation: ""
+  translation: 's: turno; v.intr: turniĝi (frontflanke malsupren)'
 rukesupragi:
   term: rukesupragi
   class: b.oj
   category: derived
-  translation: ""
+  translation: 's: turno; v.tr: turni (frontflanke malsupren)'
 rukesutun:
   term: rukesutun
   class: b
@@ -37638,6 +37827,16 @@ safegi:
   class: b.oj
   category: derived
   translation: 's: purigo; v.tr: purigi'
+safegiente:
+  term: safegiente
+  class: b
+  category: derived
+  translation: 's: purigilo'
+safegiyen:
+  term: safegiyen
+  class: b
+  category: derived
+  translation: 's: purigisto'
 safeya:
   term: safeya
   class: b
@@ -38599,7 +38798,7 @@ seletijaribi:
   term: seletijaribi
   class: b.oj
   category: derived
-  translation: ""
+  translation: 's: provludo, provprezento; v.tr: provludigi, provprezentigi'
 seli:
   term: seli
   class: t
@@ -39676,6 +39875,11 @@ sofi_name:
   class: su n
   category: proper word
   translation: 'prop n: Sofia'
+sofikal:
+  term: sofikal
+  class: t
+  category: derived
+  translation: 'adj: malsaĝa; adv: malsaĝe'
 sofilogi:
   term: sofilogi
   class: b
@@ -39801,6 +40005,16 @@ solasupracu:
   class: b.nenoj
   category: derived
   translation: 's: sunleviĝo; v.ntr: sunleviĝi'
+solkal:
+  term: solkal
+  class: t
+  category: derived
+  translation: 'adj: malpura'
+solkalxey:
+  term: solkalxey
+  class: b
+  category: derived
+  translation: 's: malpuraĵo'
 solli:
   term: solli
   class: t
@@ -39841,6 +40055,11 @@ solpul:
   class: t
   category: derived
   translation: 'adj: pura'
+solpulgi:
+  term: solpulgi
+  class: b.oj
+  category: derived
+  translation: 's: purigo, rafinado; b.oj: purigi, rafini'
 solun:
   term: solun
   class: d
@@ -40449,7 +40668,7 @@ supracu:
   term: supracu
   class: b.nenoj
   category: derived
-  translation: 's: leviĝo; v.ntr: leviĝi'
+  translation: 's: leviĝo, supriĝo; v.ntr: leviĝi, supriĝi'
 suprafuha:
   term: suprafuha
   class: b.oj
@@ -42217,6 +42436,21 @@ timpani:
   class: b
   category: root
   translation: 's: timbalo'
+tingiku:
+  term: tingiku
+  class: t
+  category: derived
+  translation: 'adj: petola; adv: petole'
+tingikuya:
+  term: tingikuya
+  class: b
+  category: derived
+  translation: 's: petoleco'
+tingikuyen:
+  term: tingikuyen
+  class: b
+  category: derived
+  translation: 's: petolulo'
 tipo:
   term: tipo
   class: b
@@ -43217,6 +43451,11 @@ tupyokarta:
   class: b
   category: derived
   translation: 's: balotilo, balotpapero'
+tupyoseleti:
+  term: tupyoseleti
+  class: b
+  category: derived
+  translation: 's: balotado'
 turan:
   term: turan
   class: b
@@ -43420,9 +43659,9 @@ tyao:
   translation: 's: salto; v.tr: salti'
 tyaokadam:
   term: tyaokadam
-  class: b.oj
+  class: b.oj.ru
   category: derived
-  translation: 's: preterpaso; v: preterpasi'
+  translation: 's: salteto; v.ntr: salteti'
 tyenga:
   term: tyenga
   class: b
@@ -43583,7 +43822,7 @@ ultratyao:
   term: ultratyao
   class: b.oj
   category: derived
-  translation: 's: preterpaso; v: preterpasi'
+  translation: 's: preterpaso; v.tr: preterpasi'
 ultraya:
   term: ultraya
   class: b.oj
@@ -44520,6 +44759,11 @@ walaganjon:
   class: b.oj
   category: derived
   translation: 's: manko, sopiro; v.tr: senti mankon (de), sopiri'
+walgi:
+  term: walgi
+  class: b.oj
+  category: derived
+  translation: 'v.tr: forigi, senigi'
 walki:
   term: walki
   class: l
@@ -45153,6 +45397,11 @@ xalaf:
   class: b
   category: root
   translation: 's: putino, virputino, ĉiesulo, ĉiesulino'
+xalafbete:
+  term: xalafbete
+  class: b
+  category: derived
+  translation: 's: bastardo'
 xalgam:
   term: xalgam
   class: b
@@ -45477,7 +45726,7 @@ xetocuente:
   term: xetocuente
   class: b
   category: derived
-  translation: 's: kondimento, gustigilo'
+  translation: 's: kondimento, gustigilo. gustigaĵo'
 xetoya:
   term: xetoya
   class: b
@@ -45895,6 +46144,11 @@ xorjui:
   class: b.oj
   category: derived
   translation: 's: rimarko; v.tr: rimarki'
+xorjuigi:
+  term: xorjuigi
+  class: b.oj
+  category: derived
+  translation: 's: atentigo; v.tr: atentigi'
 xorjuiible:
   term: xorjuiible
   class: t
@@ -46097,6 +46351,11 @@ xugwan:
   class: b.oj
   category: root
   translation: 's: kutimo; v.tr: kutimi'
+xugwankal:
+  term: xugwankal
+  class: t
+  category: derived
+  translation: 'adj: malkutima'
 xugwanpul:
   term: xugwanpul
   class: t
@@ -46867,17 +47126,17 @@ yunkikal:
   term: yunkikal
   class: t
   category: derived
-  translation: ""
+  translation: 'adj: malkuraĝa'
 yunkikalya:
   term: yunkikalya
   class: b
   category: derived
-  translation: ""
+  translation: 's: malkuraĝo'
 yunkikalyen:
   term: yunkikalyen
   class: b
   category: derived
-  translation: ""
+  translation: 's: malkuraĝulo'
 yunkipul:
   term: yunkipul
   class: t
