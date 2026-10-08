@@ -58520,10 +58520,14 @@ bloke:
   trans:
     eng:
     - - 'n: block (<em>approximately cuboid or rectangular object</em>)'
+    - - 'n: (city) block'
     epo:
     - - 's: bloko'
+    - - 's: dombloko'
     spa:
     - - 's: bloque'
+    - - 's: cuadra'
+      - manzana
     deu:
     - - 'S: Block'
       - Klotz
@@ -58543,13 +58547,14 @@ bloke:
   trans_v2:
     eng:
       "n":
-      - block (<em>approximately cuboid or rectangular object</em>)
+      - (city) block
     epo:
       s:
-      - bloko
+      - dombloko
     spa:
       s:
-      - bloque
+      - cuadra
+      - manzana
     deu:
       S:
       - Block
@@ -173560,6 +173565,53 @@ fuxido:
     - fuxi
     - +
     - -do
+fuxiku:
+  term: fuxiku
+  word class: b.oro
+  category: derived
+  trans:
+    eng:
+    - - 'n: corrosion'
+    - - 'v.tr: corrode'
+    - - 'v.intr: corrode'
+    epo:
+    - - 'n: korodo'
+    - - 'v.tr: korodi'
+    - - 'v.ntr: korodiĝi'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - corrosion
+      v.tr:
+      - corrode
+      v.intr:
+      - corrode
+    epo:
+      "n":
+      - korodo
+      v.tr:
+      - korodi
+      v.ntr:
+      - korodiĝi
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Koreasa: 부식 &ldquo;buxik&rdquo;
+      Niponsa: 腐食 &ldquo;fuxoku&rdquo;
+      Putunhwa: 腐蚀 &ldquo;fu xi&rdquo;
 fyordo:
   term: fyordo
   word class: b
@@ -266549,7 +266601,9 @@ kikudan:
     eng:
     - - 'adj: extreme'
       - exceeding
-    epo: []
+    epo:
+    - - 'adj: ekstrema'
+    - - 'adv: ekstreme'
     spa: []
     deu: []
     fra: []
@@ -266562,7 +266616,11 @@ kikudan:
       adj:
       - extreme
       - exceeding
-    epo: []
+    epo:
+      adj:
+      - ekstrema
+      adv:
+      - ekstreme
     spa: []
     deu: []
     fra: []
@@ -266584,7 +266642,8 @@ kikudanmo:
     eng:
     - - 'adv: extremely'
       - exceedingly
-    epo: []
+    epo:
+    - - 'adv: ekstreme'
     spa: []
     deu: []
     fra: []
@@ -266597,7 +266656,9 @@ kikudanmo:
       adv:
       - extremely
       - exceedingly
-    epo: []
+    epo:
+      adv:
+      - ekstreme
     spa: []
     deu: []
     fra: []
@@ -509907,7 +509968,8 @@ ultragi:
   trans:
     eng:
     - - 'v.tr: exceed'
-    epo: []
+    epo:
+    - - 'v.tr: superi'
     spa: []
     deu: []
     fra: []
@@ -509919,7 +509981,9 @@ ultragi:
     eng:
       v.tr:
       - exceed
-    epo: []
+    epo:
+      v.tr:
+      - superi
     spa: []
     deu: []
     fra: []
