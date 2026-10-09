@@ -20886,7 +20886,7 @@ anjil:
     natlang:
       Arabisa: الإنجيل &ldquo;alinjil&rdquo;
       Doycisa: Engel, Evangelium
-      Elinisa: '&epsilon;&upsilon;&alpha;&gamma;&gamma;έ&lambda;&iota;&omicron; &ldquo;evanjelio&rdquo;'
+      Elinisa: '&epsilon;&upsilon;&alpha;&gamma;&gamma;έ&lambda;&iota;&omicron; &ldquo;evangelio&rdquo;'
       Englisa: angel
       Espanisa: '&aacute;ngel, evangelio'
       Fransesa: ange
@@ -25230,7 +25230,7 @@ arkitetur:
     natlang:
       Doycisa: Architektur
       Elinisa: '&alpha;&rho;&chi;&iota;&tau;&epsilon;&kappa;&tau;&omicron;&nu;&iota;&kappa;ή
-        &ldquo;arhitektonici&rdquo;'
+        &ldquo;arhitektoniki&rdquo;'
       Englisa: architecture
       Espanisa: arquitectura
       Fransesa: architecture
@@ -27003,7 +27003,7 @@ artro:
   etymology:
     natlang:
       Doycisa: Arthritis
-      Elinisa: ά&rho;&theta;&rho;&omega;&sigma;&eta; &ldquo;arsrosi&rdquo;
+      Elinisa: ά&rho;&theta;&rho;&omega;&sigma;&eta; &ldquo;artrosi&rdquo;
       Englisa: arthro-, arthritis
       Espanisa: artro-, artritis
       Fransesa: arthrite
@@ -45167,7 +45167,7 @@ barinjen:
       - بَاذِنْجَان
   etymology:
     natlang:
-      Arabisa: باذنجان &ldquo;bazinjan&rdquo;
+      Arabisa: باذنجان &ldquo;badinjan&rdquo;
       Doycisa: Aubergine
       Englisa: aubergine
       Espanisa: berenjena
@@ -57591,7 +57591,7 @@ bismuto:
       - بِزْمُوت
   etymology:
     natlang:
-      Arabisa: بِزْمُوث &ldquo;bizmus&rdquo;
+      Arabisa: بِزْمُوث &ldquo;bizmut&rdquo;
       Doycisa: Wismut
       Englisa: bismuth
       Espanisa: bismuto
@@ -78272,7 +78272,7 @@ centro:
   etymology:
     natlang:
       Doycisa: Zentrum
-      Elinisa: '&kappa;έ&nu;&tau;&rho;&omicron; &ldquo;cendro&rdquo;'
+      Elinisa: '&kappa;έ&nu;&tau;&rho;&omicron; &ldquo;kendro&rdquo;'
       Englisa: centre, center
       Espanisa: centro
       Fransesa: centre
@@ -86749,7 +86749,9 @@ cuyokamer:
     - - 'n: lobby'
     epo:
     - - 's: vestiblo'
-    spa: []
+    spa:
+    - - 's: vestíbulo'
+      - <em>lobby</em>
     deu: []
     fra: []
     rus: []
@@ -86763,7 +86765,10 @@ cuyokamer:
     epo:
       s:
       - vestiblo
-    spa: []
+    spa:
+      s:
+      - vestíbulo
+      - <em>lobby</em>
     deu: []
     fra: []
     rus: []
@@ -87569,7 +87574,7 @@ dabihu:
     ara: []
   etymology:
     natlang:
-      Arabisa: ذبيحة &ldquo;zabiha&rdquo;
+      Arabisa: ذبيحة &ldquo;dabiha&rdquo;
       Parsisa: ذبح &ldquo;zebh&rdquo;
       Swahilisa: dhabihu
 dabihudin:
@@ -88181,7 +88186,7 @@ dahabu:
       - ذَهَب
   etymology:
     natlang:
-      Arabisa: ذهب &ldquo;zahab&rdquo;
+      Arabisa: ذهب &ldquo;dahab&rdquo;
       Parsisa: ذهب &ldquo;zahb&rdquo;
       Swahilisa: dhahabu
 dahabukolordo:
@@ -89315,7 +89320,7 @@ dambi:
   etymology:
     natlang:
       Arabisa: ذَنْب &ldquo;zanb&rdquo;
-      Parsisa: ذنب &ldquo;zanb&rdquo;
+      Parsisa: ذنب &ldquo;danb&rdquo;
       Swahilisa: dhambi
 dambipul:
   term: dambipul
@@ -95728,7 +95733,10 @@ dayfuraha:
     - - 's: ĝuego'
     - - 'v.tr: ĝuigi'
     - - 'v.ntr: senti ĝuegon'
-    spa: []
+    spa:
+    - - 's: deleite'
+    - - 'v.tr: deleitar'
+    - - 'v.intr: estar (<em>sentirse</em>) encantado'
     deu: []
     fra: []
     rus: []
@@ -95750,7 +95758,13 @@ dayfuraha:
       - ĝuigi
       v.ntr:
       - senti ĝuegon
-    spa: []
+    spa:
+      s:
+      - deleite
+      v.tr:
+      - deleitar
+      v.intr:
+      - estar (<em>sentirse</em>) encantado
     deu: []
     fra: []
     rus: []
@@ -101661,7 +101675,7 @@ demo:
     natlang:
       Arabisa: دِيمُقْرَاطِيَّة &ldquo;dimukratiya&rdquo;
       Doycisa: Demokratie
-      Elinisa: '&delta;ή&mu;&omicron;&sigmaf; &ldquo;zimos&rdquo;'
+      Elinisa: '&delta;ή&mu;&omicron;&sigmaf; &ldquo;dimos&rdquo;'
       Englisa: democracy
       Espanisa: democracia
       Fransesa: d&eacute;mocratie
@@ -108718,8 +108732,20 @@ disordenudo:
       - unorganized
       - untidy
       - messy
-    epo: []
-    spa: []
+    epo:
+    - - 'adj: senorda'
+      - malorda
+      - en malordo
+      - malorganizita
+      - neorganizita
+      - malordigita
+      - malbonorda
+    spa:
+    - - 'adj: desordenado'
+      - en desorden
+      - desorganizado
+      - poco organizado
+      - desarreglado
     deu: []
     fra: []
     rus: []
@@ -108736,8 +108762,22 @@ disordenudo:
       - unorganized
       - untidy
       - messy
-    epo: []
-    spa: []
+    epo:
+      adj:
+      - senorda
+      - malorda
+      - en malordo
+      - malorganizita
+      - neorganizita
+      - malordigita
+      - malbonorda
+    spa:
+      adj:
+      - desordenado
+      - en desorden
+      - desorganizado
+      - poco organizado
+      - desarreglado
     deu: []
     fra: []
     rus: []
@@ -108764,8 +108804,20 @@ disordenupul:
       - unorganized
       - untidy
       - messy
-    epo: []
-    spa: []
+    epo:
+    - - 'adj: senorda'
+      - malorda
+      - en malordo
+      - malorganizita
+      - neorganizita
+      - malordigita
+      - malbonorda
+    spa:
+    - - 'adj: desordenado'
+      - en desorden
+      - desorganizado
+      - poco organizado
+      - desarreglado
     deu: []
     fra: []
     rus: []
@@ -108782,8 +108834,22 @@ disordenupul:
       - unorganized
       - untidy
       - messy
-    epo: []
-    spa: []
+    epo:
+      adj:
+      - senorda
+      - malorda
+      - en malordo
+      - malorganizita
+      - neorganizita
+      - malordigita
+      - malbonorda
+    spa:
+      adj:
+      - desordenado
+      - en desorden
+      - desorganizado
+      - poco organizado
+      - desarreglado
     deu: []
     fra: []
     rus: []
@@ -141387,7 +141453,7 @@ eter:
       - أَثِير، إِيثِير
   etymology:
     natlang:
-      Arabisa: أَثِير &ldquo;asir&rdquo;
+      Arabisa: أَثِير &ldquo;atir&rdquo;
       Doycisa: '&Auml;ther, Ether'
       Englisa: ether
       Espanisa: '&eacute;ter'
@@ -171325,7 +171391,7 @@ fuladi:
       - فُولَاذ، صُلْب
   etymology:
     natlang:
-      Arabisa: فُولَاذ &ldquo;fulaz&rdquo;
+      Arabisa: فُولَاذ &ldquo;fulad&rdquo;
       Hindi: फ़ूलाद &ldquo;fulad&rdquo;
       Parsisa: فولاد &ldquo;fulad&rdquo;
       Swahilisa: feleji
@@ -173575,10 +173641,13 @@ fuxiku:
     - - 'v.tr: corrode'
     - - 'v.intr: corrode'
     epo:
-    - - 'n: korodo'
+    - - 's: korodo'
     - - 'v.tr: korodi'
     - - 'v.ntr: korodiĝi'
-    spa: []
+    spa:
+    - - 's: corrosión'
+    - - 'v.tr: corroer'
+    - - 'v.intr: corroerse'
     deu: []
     fra: []
     rus: []
@@ -173594,13 +173663,19 @@ fuxiku:
       v.intr:
       - corrode
     epo:
-      "n":
+      s:
       - korodo
       v.tr:
       - korodi
       v.ntr:
       - korodiĝi
-    spa: []
+    spa:
+      s:
+      - corrosión
+      v.tr:
+      - corroer
+      v.intr:
+      - corroerse
     deu: []
     fra: []
     rus: []
@@ -179114,14 +179189,19 @@ gawlu:
       Urdu: گلو &ldquo;gulu&rdquo;
 gawlubloki:
   term: gawlubloki
-  word class: b.oj
+  word class: b.oro
   category: derived
   trans:
     eng:
     - - 'v.tr: choke'
+    - - 'v.intr: choke'
     epo:
     - - 'v.tr: sufoki'
-    spa: []
+    - - 'v.intr: sufokiĝi'
+    spa:
+    - - 'v.tr: asfixiar'
+    - - 'v.intr: ahogarse'
+      - atragantarse
     deu: []
     fra: []
     rus: []
@@ -179132,10 +179212,19 @@ gawlubloki:
     eng:
       v.tr:
       - choke
+      v.intr:
+      - choke
     epo:
       v.tr:
       - sufoki
-    spa: []
+      v.intr:
+      - sufokiĝi
+    spa:
+      v.tr:
+      - asfixiar
+      v.intr:
+      - ahogarse
+      - atragantarse
     deu: []
     fra: []
     rus: []
@@ -179158,7 +179247,9 @@ gawlubopu:
     epo:
     - - 'v.tr: sufoki'
       - strangoli
-    spa: []
+    spa:
+    - - 'v.tr: asfixiar'
+      - estrangular
     deu: []
     fra: []
     rus: []
@@ -179174,7 +179265,10 @@ gawlubopu:
       v.tr:
       - sufoki
       - strangoli
-    spa: []
+    spa:
+      v.tr:
+      - asfixiar
+      - estrangular
     deu: []
     fra: []
     rus: []
@@ -180352,7 +180446,7 @@ geo:
     natlang:
       Arabisa: جِيُولُوجِيَا &ldquo;jiyulujiya&rdquo;
       Doycisa: Geologie
-      Elinisa: '&gamma;ῆ &ldquo;yi&rdquo;, &gamma;&epsilon;&omega;- &ldquo;yeo&rdquo;'
+      Elinisa: '&gamma;ῆ &ldquo;gi&rdquo;, &gamma;&epsilon;&omega;- &ldquo;geo&rdquo;'
       Englisa: geology
       Espanisa: geolog&iacute;a
       Fransesa: g&eacute;ologie
@@ -183888,7 +183982,7 @@ gitara:
       - غِيتَار، جِيتَار
   etymology:
     natlang:
-      Arabisa: قِيثَارَة &ldquo;kisara&rdquo;, جِيتَار &ldquo;jitar&rdquo;
+      Arabisa: قِيثَارَة &ldquo;kitara&rdquo;, جِيتَار &ldquo;jitar&rdquo;
       Doycisa: Gitarre
       Englisa: guitar
       Espanisa: guitarra
@@ -188500,7 +188594,7 @@ gramati:
   etymology:
     natlang:
       Doycisa: Grammatik
-      Elinisa: '&gamma;&rho;&alpha;&mu;&mu;&alpha;&tau;&iota;&kappa;ή &ldquo;gramatici&rdquo;'
+      Elinisa: '&gamma;&rho;&alpha;&mu;&mu;&alpha;&tau;&iota;&kappa;ή &ldquo;gramatiki&rdquo;'
       Englisa: grammatical
       Espanisa: gram&aacute;tica
       Fransesa: grammatical
@@ -203267,7 +203361,7 @@ hegemoni:
   etymology:
     natlang:
       Doycisa: Hegemonie
-      Elinisa: '&eta;&gamma;&epsilon;&mu;&omicron;&nu;ί&alpha; &ldquo;iyemonia&rdquo;'
+      Elinisa: '&eta;&gamma;&epsilon;&mu;&omicron;&nu;ί&alpha; &ldquo;igemonia&rdquo;'
       Englisa: hegemony
       Espanisa: hegemon&iacute;a
       Fransesa: h&eacute;g&eacute;monie
@@ -207438,7 +207532,7 @@ hipotesis:
   etymology:
     natlang:
       Doycisa: Hypothese
-      Elinisa: '&upsilon;&pi;ό&theta;&epsilon;&sigma;&eta; &ldquo;iposesi&rdquo;'
+      Elinisa: '&upsilon;&pi;ό&theta;&epsilon;&sigma;&eta; &ldquo;ipotesi&rdquo;'
       Englisa: hypothesis
       Espanisa: hip&oacute;tesis
       Fransesa: hypoth&egrave;se
@@ -247677,7 +247771,7 @@ kadiba:
     ara: []
   etymology:
     natlang:
-      Arabisa: كَذِب &ldquo;kazib&rdquo;, كَذَبَ &ldquo;kazaba&rdquo;
+      Arabisa: كَذِب &ldquo;kadib&rdquo;, كَذَبَ &ldquo;kadaba&rdquo;
 kadibayen:
   term: kadibayen
   word class: b
@@ -263291,7 +263385,7 @@ kef:
   etymology:
     natlang:
       Doycisa: Kopf, Chef
-      Elinisa: '&kappa;&epsilon;&phi;ά&lambda;&iota; &ldquo;cefali&rdquo;, &sigma;&epsilon;&phi;
+      Elinisa: '&kappa;&epsilon;&phi;ά&lambda;&iota; &ldquo;kefali&rdquo;, &sigma;&epsilon;&phi;
         &ldquo;sef&rdquo;'
       Englisa: chief
       Espanisa: jefe
@@ -264479,7 +264573,7 @@ kentawro:
     natlang:
       Arabisa: قُنْطُور &ldquo;kuntur&rdquo;
       Doycisa: Kentaur
-      Elinisa: '&kappa;έ&nu;&tau;&alpha;&upsilon;&rho;&omicron;&sigmaf; &ldquo;cendavros&rdquo;'
+      Elinisa: '&kappa;έ&nu;&tau;&alpha;&upsilon;&rho;&omicron;&sigmaf; &ldquo;kendavros&rdquo;'
       Englisa: centaur
       Espanisa: centauro
       Fransesa: centaure
@@ -266604,7 +266698,8 @@ kikudan:
     epo:
     - - 'adj: ekstrema'
     - - 'adv: ekstreme'
-    spa: []
+    spa:
+    - - 'adj: extremo'
     deu: []
     fra: []
     rus: []
@@ -266621,7 +266716,9 @@ kikudan:
       - ekstrema
       adv:
       - ekstreme
-    spa: []
+    spa:
+      adj:
+      - extremo
     deu: []
     fra: []
     rus: []
@@ -266644,7 +266741,8 @@ kikudanmo:
       - exceedingly
     epo:
     - - 'adv: ekstreme'
-    spa: []
+    spa:
+    - - 'adv: extremadamente'
     deu: []
     fra: []
     rus: []
@@ -266659,7 +266757,9 @@ kikudanmo:
     epo:
       adv:
       - ekstreme
-    spa: []
+    spa:
+      adv:
+      - extremadamente
     deu: []
     fra: []
     rus: []
@@ -274187,7 +274287,11 @@ kolyofil:
     epo:
     - - 'adj: konsiderema'
     - - 'adv: konsidereme'
-    spa: []
+    spa:
+    - - 'adj: considerado'
+      - atento
+    - - 'adv: consideradamente'
+      - atentamente
     deu: []
     fra: []
     rus: []
@@ -274207,7 +274311,13 @@ kolyofil:
       - konsiderema
       adv:
       - konsidereme
-    spa: []
+    spa:
+      adj:
+      - considerado
+      - atento
+      adv:
+      - consideradamente
+      - atentamente
     deu: []
     fra: []
     rus: []
@@ -291998,7 +292108,8 @@ kwasisen:
   category: derived
   trans:
     eng:
-    - - 'v.cop: seem. seem to be'
+    - - 'v.cop: seem'
+      - seem to be
     epo:
     - - 'ligv: ŝajni'
       - ŝajni esti
@@ -292014,7 +292125,8 @@ kwasisen:
   trans_v2:
     eng:
       v.cop:
-      - seem. seem to be
+      - seem
+      - seem to be
     epo:
       ligv:
       - ŝajni
@@ -295547,7 +295659,7 @@ lantanum:
       - لَنْثَانْيُوم
   etymology:
     natlang:
-      Arabisa: لَنْثَانُوم &ldquo;lansanum&rdquo;
+      Arabisa: لَنْثَانُوم &ldquo;lantanum&rdquo;
       Doycisa: Lanthan
       Englisa: lanthanum
       Espanisa: lantano
@@ -297026,7 +297138,7 @@ lavraki:
       - فَرْخ، قَارُوس، لُوفَر
   etymology:
     natlang:
-      Elinisa: '&lambda;&alpha;&beta;&rho;ά&kappa;&iota; &ldquo;lavraci&rdquo;'
+      Elinisa: '&lambda;&alpha;&beta;&rho;ά&kappa;&iota; &ldquo;lavraki&rdquo;'
       Ivrisa: לַבְרָק &ldquo;lavrak&rdquo;
       Rusisa: лаврак &ldquo;lavrak&rdquo;
       Turkisa: levrek
@@ -301750,7 +301862,7 @@ levyatan:
       - لِفْيَاثَان، وَحْش بَحْرِيّ
   etymology:
     natlang:
-      Arabisa: لَوِيَاثَان &ldquo;lawiyasan&rdquo;
+      Arabisa: لَوِيَاثَان &ldquo;lawiyatan&rdquo;
       Doycisa: Leviathan
       Englisa: leviathan
       Espanisa: leviat&aacute;n
@@ -308699,7 +308811,7 @@ lityum:
       - لِيثْيُوم
   etymology:
     natlang:
-      Arabisa: لِيثْيُوم &ldquo;lisyum&rdquo;
+      Arabisa: لِيثْيُوم &ldquo;lityum&rdquo;
       Doycisa: Lithium
       Englisa: lithium
       Espanisa: litio
@@ -309358,9 +309470,9 @@ logaritma:
       - لُوغَارِتْم
   etymology:
     natlang:
-      Arabisa: لُوغَارِثْم &ldquo;lugarism&rdquo;
+      Arabisa: لُوغَارِثْم &ldquo;lugaritm&rdquo;
       Doycisa: Logaritmus
-      Elinisa: '&lambda;&omicron;&gamma;ά&rho;&iota;&theta;&mu;&omicron;&sigmaf; &ldquo;logarismos&rdquo;'
+      Elinisa: '&lambda;&omicron;&gamma;ά&rho;&iota;&theta;&mu;&omicron;&sigmaf; &ldquo;logaritmos&rdquo;'
       Englisa: logarithm
       Espanisa: logaritmo
       Fransesa: logaritme
@@ -309528,7 +309640,7 @@ logi:
   etymology:
     natlang:
       Doycisa: logie
-      Elinisa: -&lambda;&omicron;&gamma;ί&alpha; &ldquo;loyia&rdquo;
+      Elinisa: -&lambda;&omicron;&gamma;ί&alpha; &ldquo;logia&rdquo;
       Englisa: -logy
       Espanisa: -log&iacute;a
       Fransesa: logie
@@ -309593,7 +309705,7 @@ logika:
   etymology:
     natlang:
       Doycisa: Logik
-      Elinisa: '&lambda;&omicron;&gamma;&iota;&kappa;ή &ldquo;loyici&rdquo;'
+      Elinisa: '&lambda;&omicron;&gamma;&iota;&kappa;ή &ldquo;logiki&rdquo;'
       Englisa: logic
       Espanisa: l&oacute;gica
       Fransesa: logique
@@ -320501,7 +320613,7 @@ mamutu:
       - مَامُوث
   etymology:
     natlang:
-      Arabisa: مَامُوث &ldquo;mamus&rdquo;
+      Arabisa: مَامُوث &ldquo;mamut&rdquo;
       Doycisa: Mammut
       Englisa: mammoth
       Espanisa: mamut
@@ -324166,7 +324278,7 @@ maraton:
       - مَارَاثُون، سِبَاق المَارَاثُون
   etymology:
     natlang:
-      Arabisa: مَارَاثُون &ldquo;marasun&rdquo;
+      Arabisa: مَارَاثُون &ldquo;maratun&rdquo;
       Doycisa: Marathon
       Englisa: marathon
       Espanisa: marat&oacute;n
@@ -338836,7 +338948,7 @@ metan:
       - مِيثَان
   etymology:
     natlang:
-      Arabisa: ميثان &ldquo;misan&rdquo;
+      Arabisa: ميثان &ldquo;mitan&rdquo;
       Doycisa: Methan
       Englisa: methane
       Espanisa: metano
@@ -339333,7 +339445,7 @@ metil:
       - مِيثِيل
   etymology:
     natlang:
-      Arabisa: ميثيل &ldquo;misil&rdquo;
+      Arabisa: ميثيل &ldquo;mitil&rdquo;
       Doycisa: Methyl
       Englisa: methyl
       Espanisa: metilo
@@ -344720,7 +344832,7 @@ misal:
       - مِثَال، نَمُوذَج
   etymology:
     natlang:
-      Arabisa: مثال &ldquo;misal&rdquo;
+      Arabisa: مثال &ldquo;mital&rdquo;
       Hindi: मिसाल &ldquo;misal&rdquo;
       Indonesisa: misalnya
       Parsisa: مثال &ldquo;mesal&rdquo;
@@ -347226,6 +347338,43 @@ mogekal:
     - moge
     - +
     - -kal
+mogekalyen:
+  term: mogekalyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: dumbass'
+    epo:
+    - - 's: ŝtipkapulo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - dumbass
+    epo:
+      s:
+      - ŝtipkapulo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - moge
+    - +
+    - -kal
+    - +
+    - -yen
 mogepul:
   term: mogepul
   word class: t
@@ -348793,7 +348942,7 @@ mon:
   etymology:
     natlang:
       Doycisa: mono-
-      Elinisa: '&mu;&omicron;&nu;ά&delta;&alpha; &ldquo;monaza&rdquo;'
+      Elinisa: '&mu;&omicron;&nu;ά&delta;&alpha; &ldquo;monada&rdquo;'
       Englisa: mono
       Espanisa: mono-
       Fransesa: mono-
@@ -356801,7 +356950,7 @@ mustax:
       - شَارِب، شَوَارِب
   etymology:
     natlang:
-      Elinisa: '&mu;&omicron;&upsilon;&sigma;&tau;ά&kappa;&iota; &ldquo;mustaci&rdquo;'
+      Elinisa: '&mu;&omicron;&upsilon;&sigma;&tau;ά&kappa;&iota; &ldquo;mustaki&rdquo;'
       Englisa: mustache
       Espanisa: mostacho
       Fransesa: mustache
@@ -364733,7 +364882,9 @@ nencweydo:
     epo:
     - - 'adj: malebria'
     - - 'adv: malebrie'
-    spa: []
+    spa:
+    - - 'adj: sobrio'
+    - - 'adv: sobriamente'
     deu: []
     fra: []
     rus: []
@@ -364751,7 +364902,11 @@ nencweydo:
       - malebria
       adv:
       - malebrie
-    spa: []
+    spa:
+      adj:
+      - sobrio
+      adv:
+      - sobriamente
     deu: []
     fra: []
     rus: []
@@ -384765,8 +384920,17 @@ ordenudo:
       - in order
       - organized
       - tidy
-    epo: []
-    spa: []
+    epo:
+    - - 'adj: orda'
+      - en ordo
+      - organizita
+      - ordigita
+      - bonorda
+    spa:
+    - - 'adj: ordenado'
+      - en orden
+      - organizado
+      - arreglado
     deu: []
     fra: []
     rus: []
@@ -384781,8 +384945,19 @@ ordenudo:
       - in order
       - organized
       - tidy
-    epo: []
-    spa: []
+    epo:
+      adj:
+      - orda
+      - en ordo
+      - organizita
+      - ordigita
+      - bonorda
+    spa:
+      adj:
+      - ordenado
+      - en orden
+      - organizado
+      - arreglado
     deu: []
     fra: []
     rus: []
@@ -384805,8 +384980,17 @@ ordenupul:
       - in order
       - organized
       - tidy
-    epo: []
-    spa: []
+    epo:
+    - - 'adj: orda'
+      - en ordo
+      - organizita
+      - ordigita
+      - bonorda
+    spa:
+    - - 'adj: ordenado'
+      - en orden
+      - organizado
+      - arreglado
     deu: []
     fra: []
     rus: []
@@ -384821,8 +385005,19 @@ ordenupul:
       - in order
       - organized
       - tidy
-    epo: []
-    spa: []
+    epo:
+      adj:
+      - orda
+      - en ordo
+      - organizita
+      - ordigita
+      - bonorda
+    spa:
+      adj:
+      - ordenado
+      - en orden
+      - organizado
+      - arreglado
     deu: []
     fra: []
     rus: []
@@ -386794,7 +386989,7 @@ orto:
   etymology:
     natlang:
       Doycisa: ortho-
-      Elinisa: '&omicron;&rho;&theta;ό&sigmaf; &ldquo;orsos&rdquo;'
+      Elinisa: '&omicron;&rho;&theta;ό&sigmaf; &ldquo;ortos&rdquo;'
       Englisa: ortho-
       Espanisa: orto-
       Fransesa: ortho-
@@ -417004,8 +417199,9 @@ posordenu:
       - malaranĝi
     spa:
     - - 's: desorden'
+      - caos
     - - 'v.tr: desordenar'
-      - desarreglar
+      - desorganizar
     deu: []
     fra: []
     rus: []
@@ -417030,9 +417226,10 @@ posordenu:
     spa:
       s:
       - desorden
+      - caos
       v.tr:
       - desordenar
-      - desarreglar
+      - desorganizar
     deu: []
     fra: []
     rus: []
@@ -417057,8 +417254,20 @@ posordenudo:
       - unorganized
       - untidy
       - messy
-    epo: []
-    spa: []
+    epo:
+    - - 'adj: senorda'
+      - malorda
+      - en malordo
+      - malorganizita
+      - neorganizita
+      - malordigita
+      - malbonorda
+    spa:
+    - - 'adj: desordenado'
+      - en desorden
+      - desorganizado
+      - poco organizado
+      - desarreglado
     deu: []
     fra: []
     rus: []
@@ -417075,8 +417284,22 @@ posordenudo:
       - unorganized
       - untidy
       - messy
-    epo: []
-    spa: []
+    epo:
+      adj:
+      - senorda
+      - malorda
+      - en malordo
+      - malorganizita
+      - neorganizita
+      - malordigita
+      - malbonorda
+    spa:
+      adj:
+      - desordenado
+      - en desorden
+      - desorganizado
+      - poco organizado
+      - desarreglado
     deu: []
     fra: []
     rus: []
@@ -417103,8 +417326,20 @@ posordenupul:
       - unorganized
       - untidy
       - messy
-    epo: []
-    spa: []
+    epo:
+    - - 'adj: senorda'
+      - malorda
+      - en malordo
+      - malorganizita
+      - neorganizita
+      - malordigita
+      - malbonorda
+    spa:
+    - - 'adj: desordenado'
+      - en desorden
+      - desorganizado
+      - poco organizado
+      - desarreglado
     deu: []
     fra: []
     rus: []
@@ -417121,8 +417356,22 @@ posordenupul:
       - unorganized
       - untidy
       - messy
-    epo: []
-    spa: []
+    epo:
+      adj:
+      - senorda
+      - malorda
+      - en malordo
+      - malorganizita
+      - neorganizita
+      - malordigita
+      - malbonorda
+    spa:
+      adj:
+      - desordenado
+      - en desorden
+      - desorganizado
+      - poco organizado
+      - desarreglado
     deu: []
     fra: []
     rus: []
@@ -418852,6 +419101,56 @@ prabu:
       Hindi: प्रभु &ldquo;prabu&rdquo;
       Indonesisa: prabu - wangu
       Telugusa: ప్రభువు &ldquo;prabuvu&rdquo;
+praloben:
+  term: praloben
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - 'n: enticement'
+      - allure
+      - seduction
+    - - 'v.tr: entice'
+      - lure
+      - seduce
+    epo:
+    - - 's: allogo'
+    - - 'v.tr: allogi'
+      - delogi
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - enticement
+      - allure
+      - seduction
+      v.tr:
+      - entice
+      - lure
+      - seduce
+    epo:
+      s:
+      - allogo
+      v.tr:
+      - allogi
+      - delogi
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Hindi: प्रलोभन &ldquo;praloban&rdquo;
+      Telugu: ప్రలోభం &ldquo;pralobam&rdquo;, ప్రలోభించు &ldquo;pralobincu&rdquo;
 praseodimyum:
   term: praseodimyum
   word class: b
@@ -422025,7 +422324,7 @@ prometyum:
       - بْرُومِيثْيُوم
   etymology:
     natlang:
-      Arabisa: بْرُومِيثْيُوم &ldquo;brumisyum&rdquo;
+      Arabisa: بْرُومِيثْيُوم &ldquo;brumityum&rdquo;
       Doycisa: Promethium
       Englisa: promethium
       Espanisa: prometio
@@ -422354,7 +422653,7 @@ prostesi:
   etymology:
     natlang:
       Doycisa: Prothese, Prosthese
-      Elinisa: '&pi;&rho;ό&sigma;&theta;&epsilon;&sigma;&eta; &ldquo;prossesi&rdquo;'
+      Elinisa: '&pi;&rho;ό&sigma;&theta;&epsilon;&sigma;&eta; &ldquo;prostesi&rdquo;'
       Englisa: prosthesis
       Espanisa: pr&oacute;tesis
       Fransesa: proth&egrave;se
@@ -433558,7 +433857,7 @@ ritmo:
   etymology:
     natlang:
       Doycisa: Rhythmus
-      Elinisa: '&rho;&upsilon;&theta;&mu;ό&sigmaf; &ldquo;rismos&rdquo;'
+      Elinisa: '&rho;&upsilon;&theta;&mu;ό&sigmaf; &ldquo;ritmos&rdquo;'
       Englisa: rhythm
       Espanisa: ritmo
       Fransesa: rythme
@@ -435998,7 +436297,7 @@ ruderfordyum:
       - رُوذَرْفُورْدْيُوم
   etymology:
     natlang:
-      Arabisa: رُوذَرْفُورْدِيُوم &ldquo;ruzarfurdiyum&rdquo;
+      Arabisa: رُوذَرْفُورْدِيُوم &ldquo;rudarfurdiyum&rdquo;
       Doycisa: Rutherfordium
       Englisa: rutherfordium
       Espanisa: rutherfordio
@@ -460059,7 +460358,7 @@ simpati:
   etymology:
     natlang:
       Doycisa: Sympathie
-      Elinisa: '&sigma;&upsilon;&mu;&pi;ά&theta;&epsilon;&iota;&alpha; &ldquo;simbasia&rdquo;'
+      Elinisa: '&sigma;&upsilon;&mu;&pi;ά&theta;&epsilon;&iota;&alpha; &ldquo;simbatia&rdquo;'
       Englisa: sympathy
       Espanisa: simpat&iacute;a
       Fransesa: sympathie
@@ -460696,7 +460995,7 @@ sindrom:
     natlang:
       Arabisa: سِنْدُرُم &ldquo;sindurum&rdquo;
       Doycisa: Syndrom
-      Elinisa: '&sigma;ύ&nu;&delta;&rho;&omicron;&mu;&omicron; &ldquo;sinzromo&rdquo;'
+      Elinisa: '&sigma;ύ&nu;&delta;&rho;&omicron;&mu;&omicron; &ldquo;sindromo&rdquo;'
       Englisa: syndrome
       Espanisa: s&iacute;ndrome
       Fransesa: syndrome
@@ -461694,7 +461993,7 @@ sintesis:
   etymology:
     natlang:
       Doycisa: Synthese
-      Elinisa: '&sigma;ύ&nu;&theta;&epsilon;&sigma;&eta; &ldquo;sinsesi&rdquo;'
+      Elinisa: '&sigma;ύ&nu;&theta;&epsilon;&sigma;&eta; &ldquo;sintesi&rdquo;'
       Englisa: synthesis
       Espanisa: s&iacute;ntesis
       Fransesa: synth&egrave;se
@@ -480547,7 +480846,7 @@ taluji:
     ara: []
   etymology:
     natlang:
-      Arabisa: ثلج &ldquo;salj&rdquo;
+      Arabisa: ثلج &ldquo;talj&rdquo;
       Indonesisa: salju
       Swahilisa: theluji
 talujibunhway:
@@ -480783,7 +481082,7 @@ talyum:
       - ثَالْيُوم
   etymology:
     natlang:
-      Arabisa: ثَالْيُوم &ldquo;salyum&rdquo;
+      Arabisa: ثَالْيُوم &ldquo;talyum&rdquo;
       Doycisa: Thallium
       Englisa: thallium
       Espanisa: talio
@@ -484279,7 +484578,7 @@ tatmini:
     ara: []
   etymology:
     natlang:
-      Arabisa: تثمين &ldquo;tasmin&rdquo;
+      Arabisa: تثمين &ldquo;tatmin&rdquo;
       Swahilisa: tathmini
 tatminimarka:
   term: tatminimarka
@@ -489543,7 +489842,7 @@ teo:
   etymology:
     natlang:
       Doycisa: Theologie
-      Elinisa: '&theta;&epsilon;ό&sigmaf; &ldquo;seos&rdquo;'
+      Elinisa: '&theta;&epsilon;ό&sigmaf; &ldquo;teos&rdquo;'
       Englisa: theology, atheist
       Espanisa: teolog&iacute;a
       Fransesa: th&eacute;ologie
@@ -490817,7 +491116,7 @@ termo:
     natlang:
       Arabisa: تِرْمُومِتْر &ldquo;tirmumitr&rdquo;
       Doycisa: Thermometer
-      Elinisa: '&theta;&epsilon;&rho;&mu;ό&sigmaf; &ldquo;sermos&rdquo;'
+      Elinisa: '&theta;&epsilon;&rho;&mu;ό&sigmaf; &ldquo;termos&rdquo;'
       Englisa: thermometer
       Espanisa: term&oacute;metro
       Fransesa: thermom&egrave;tre
@@ -491787,7 +492086,7 @@ tesis:
   etymology:
     natlang:
       Doycisa: These
-      Elinisa: '&theta;έ&sigma;ῐ&sigmaf; &ldquo;sesis&rdquo;'
+      Elinisa: '&theta;έ&sigma;ῐ&sigmaf; &ldquo;tesis&rdquo;'
       Englisa: thesis
       Espanisa: tesis
       Fransesa: th&egrave;se
@@ -499432,7 +499731,7 @@ toryum:
       - ثُورْيُوم
   etymology:
     natlang:
-      Arabisa: ثُورْيُوم &ldquo;suryum&rdquo;
+      Arabisa: ثُورْيُوم &ldquo;turyum&rdquo;
       Doycisa: Thorium
       Englisa: thorium
       Espanisa: torio
@@ -505315,7 +505614,7 @@ tulyum:
       - ثُولْيُوم
   etymology:
     natlang:
-      Arabisa: ثُلْيُوم &ldquo;sulyum&rdquo;
+      Arabisa: ثُلْيُوم &ldquo;tulyum&rdquo;
       Doycisa: Thulium
       Englisa: thulium
       Espanisa: tulio
@@ -509970,7 +510269,9 @@ ultragi:
     - - 'v.tr: exceed'
     epo:
     - - 'v.tr: superi'
-    spa: []
+    spa:
+    - - 'v.tr: exceder'
+      - superar
     deu: []
     fra: []
     rus: []
@@ -509984,7 +510285,10 @@ ultragi:
     epo:
       v.tr:
       - superi
-    spa: []
+    spa:
+      v.tr:
+      - exceder
+      - superar
     deu: []
     fra: []
     rus: []
@@ -539178,7 +539482,9 @@ xugwankal:
       - unusual
     epo:
     - - 'adj: malkutima'
-    spa: []
+    spa:
+    - - 'adj: atípico'
+      - inusual
     deu: []
     fra: []
     rus: []
@@ -539193,7 +539499,10 @@ xugwankal:
     epo:
       adj:
       - malkutima
-    spa: []
+    spa:
+      adj:
+      - atípico
+      - inusual
     deu: []
     fra: []
     rus: []
