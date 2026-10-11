@@ -40996,6 +40996,7 @@ balonnavi:
     eng:
     - - 'n: blimp'
       - airship
+      - dirigible
     epo:
     - - 's: aerŝipo'
     spa:
@@ -41020,6 +41021,7 @@ balonnavi:
       "n":
       - blimp
       - airship
+      - dirigible
     epo:
       s:
       - aerŝipo
@@ -70762,6 +70764,8 @@ burnasacu:
     eng:
     - - 'n: stink'
       - stench
+      - odor
+      - odour
     - - 'v.intr: stink'
       - reek
     epo:
@@ -70787,6 +70791,8 @@ burnasacu:
       "n":
       - stink
       - stench
+      - odor
+      - odour
       v.intr:
       - stink
       - reek
@@ -74250,6 +74256,7 @@ canal:
     eng:
     - - 'n: channel'
       - canal
+      - duct
     epo:
     - - 's: kanalo'
     spa:
@@ -74273,6 +74280,7 @@ canal:
       "n":
       - channel
       - canal
+      - duct
     epo:
       s:
       - kanalo
@@ -135802,7 +135810,9 @@ espontan:
     eng:
     - - 'adj: spontaneous'
     - - 'adv: spontaneously'
-    epo: []
+    epo:
+    - - 'adj: spontanea'
+    - - 'adv: spontanee'
     spa: []
     deu: []
     fra: []
@@ -135816,7 +135826,11 @@ espontan:
       - spontaneous
       adv:
       - spontaneously
-    epo: []
+    epo:
+      adj:
+      - spontanea
+      adv:
+      - spontanee
     spa: []
     deu: []
     fra: []
@@ -135840,7 +135854,8 @@ espontanya:
   trans:
     eng:
     - - 'n: spontaneity'
-    epo: []
+    epo:
+    - - 's: spontaneeco'
     spa: []
     deu: []
     fra: []
@@ -135852,7 +135867,9 @@ espontanya:
     eng:
       "n":
       - spontaneity
-    epo: []
+    epo:
+      s:
+      - spontaneeco
     spa: []
     deu: []
     fra: []
@@ -143745,7 +143762,11 @@ exdexagi:
   trans:
     eng:
     - - 'n: exile'
+      - deportation
+      - explatriation
     - - 'v.tr: exile'
+      - deport
+      - expatriate
     epo:
     - - 's: ekzilo'
     - - 'v.tr: ekzili'
@@ -143764,8 +143785,12 @@ exdexagi:
     eng:
       "n":
       - exile
+      - deportation
+      - explatriation
       v.tr:
       - exile
+      - deport
+      - expatriate
     epo:
       s:
       - ekzilo
@@ -145512,8 +145537,9 @@ expel:
   trans:
     eng:
     - - 'n: expulsion'
-    - - 'v.tr: expel'
-      - push out
+    - - 'v.tr: push out'
+      - expel
+      - kick out
     epo:
     - - 's: elpelo'
     - - 'v.tr: elpeli'
@@ -145532,8 +145558,9 @@ expel:
       "n":
       - expulsion
       v.tr:
-      - expel
       - push out
+      - expel
+      - kick out
     epo:
       s:
       - elpelo
@@ -413123,8 +413150,10 @@ porgi:
     eng:
     - - 'n: exchange'
       - trade
+      - switch
     - - 'v.tr: exchange'
       - trade
+      - switch
     epo:
     - - 's: interŝanĝo'
     - - 'v.tr: interŝanĝi'
@@ -413144,9 +413173,11 @@ porgi:
       "n":
       - exchange
       - trade
+      - switch
       v.tr:
       - exchange
       - trade
+      - switch
     epo:
       s:
       - interŝanĝo
@@ -528812,6 +528843,7 @@ xalafbete:
     eng:
     - - 'n: son of a bitch'
       - bastard
+      - bitch
     epo:
     - - 's: bastardo'
     spa:
@@ -528829,6 +528861,7 @@ xalafbete:
       "n":
       - son of a bitch
       - bastard
+      - bitch
     epo:
       s:
       - bastardo
