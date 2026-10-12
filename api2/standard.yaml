@@ -89330,6 +89330,51 @@ dambi:
       Arabisa: ذَنْب &ldquo;zanb&rdquo;
       Parsisa: ذنب &ldquo;danb&rdquo;
       Swahilisa: dhambi
+dambikal:
+  term: dambikal
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: sinless'
+      - innocent
+    - - 'adv: sinlessly'
+      - innocently
+    epo:
+    - - 'adj: senpeka'
+    - - 'adv: senpeke'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - sinless
+      - innocent
+      adv:
+      - sinlessly
+      - innocently
+    epo:
+      adj:
+      - senpeka
+      adv:
+      - senpeke
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - dambi
+    - +
+    - -kal
 dambipul:
   term: dambipul
   word class: t
@@ -96402,6 +96447,45 @@ dayible:
     - day-
     - +
     - ible
+dayinxone:
+  term: dayinxone
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: magnificient'
+      - splendid
+    epo:
+    - - 'adj: impresega'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - magnificient
+      - splendid
+    epo:
+      adj:
+      - impresega
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - day-
+    - +
+    - inxo
+    - +
+    - -ne
 dayje:
   term: dayje
   word class: b
@@ -124879,6 +124963,43 @@ ehtiramfil:
     - ehtiram
     - +
     - -fil
+ehtiramlaye:
+  term: ehtiramlaye
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: respectable'
+      - decent
+    epo:
+    - - 'adj: respektinda'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - respectable
+      - decent
+    epo:
+      adj:
+      - respektinda
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ehtiram
+    - +
+    - laye
 ejakula:
   term: ejakula
   word class: b.oj.ru
@@ -294369,7 +294490,7 @@ laklake:
       Arabisa: لَقْلَق &ldquo;laklak&rdquo;
       Hindi: लकलक &ldquo;lakalak&rdquo;
       Parsisa: لک&zwnj;لک &ldquo;laklak&rdquo;
-      Rusisa: леклек - guxi &ldquo;leklek - guxi&rdquo;
+      Rusisa: леклек &ldquo;leklek&rdquo; - guxi
       Turkisa: leylek
 lakxadwipa:
   term: Lakxadwipa
@@ -383342,6 +383463,49 @@ olandi:
     natlang:
       Swerisa: '&Aring;land'
       Swomisa: Oolanti
+olawia:
+  term: olawia
+  word class: b.oj
+  category: root
+  trans:
+    eng:
+    - - 'n: priority'
+    - - 'v.tr: prioritize'
+    epo:
+    - - 's: prioritato'
+    - - 'v.tr: prioritatigi'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - priority
+      v.tr:
+      - prioritize
+    epo:
+      s:
+      - prioritato
+      v.tr:
+      - prioritatigi
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Arabisa: أولوية &ldquo;awlawiya&rdquo;
+      Parsisa: اولویت &ldquo;owlaviyat&rdquo;
+      Turkisa: evleviyet
+    natlang similar:
+      Hindi: औलविय्यत &ldquo;olaviyat&rdquo; - literaturli
 om:
   term: om
   word class: b
@@ -385018,6 +385182,7 @@ ordenudo:
       - in order
       - organized
       - tidy
+      - neat
     epo:
     - - 'adj: orda'
       - en ordo
@@ -385043,6 +385208,7 @@ ordenudo:
       - in order
       - organized
       - tidy
+      - neat
     epo:
       adj:
       - orda
@@ -385067,6 +385233,88 @@ ordenudo:
     - ordenu
     - +
     - -do
+ordenufil:
+  term: ordenufil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: orderly'
+      - organized
+      - tidy
+      - neat
+    epo:
+    - - 'adj: ordema'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - orderly
+      - organized
+      - tidy
+      - neat
+    epo:
+      adj:
+      - ordema
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ordenu
+    - +
+    - -fil
+ordenunenfil:
+  term: ordenunenfil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: disorderly'
+      - disoganized
+      - messy
+    epo:
+    - - 'adj: malordema'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - disorderly
+      - disoganized
+      - messy
+    epo:
+      adj:
+      - malordema
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ordenu
+    - +
+    - nen-
+    - +
+    - -fil
 ordenupul:
   term: ordenupul
   word class: t
@@ -385078,6 +385326,7 @@ ordenupul:
       - in order
       - organized
       - tidy
+      - neat
     epo:
     - - 'adj: orda'
       - en ordo
@@ -385103,6 +385352,7 @@ ordenupul:
       - in order
       - organized
       - tidy
+      - neat
     epo:
       adj:
       - orda
@@ -392966,7 +393216,7 @@ pankreas:
       Indonesisa: pankreas
       Parsisa: پانکراس &ldquo;pankaras&rdquo;
       Pilipinasa: pankreas
-      Rusisa: панкреатит - pankreasitis &ldquo;pankreatit - pankreasitis&rdquo;
+      Rusisa: панкреатит &ldquo;pankreatit&rdquo; - pankreasitis
       Turkisa: pankreas
 panlan:
   term: panlan
@@ -416848,6 +417098,84 @@ posizindo:
     - izin
     - +
     - -do
+posjawgu:
+  term: posjawgu
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - 'n: neglect: v.tr: neglect'
+    epo:
+    - - 'n: neglekto'
+    - - 'v.tr: neglekti'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      'n: neglect: v.tr':
+      - neglect
+    epo:
+      "n":
+      - neglekto
+      v.tr:
+      - neglekti
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - pos-
+    - +
+    - jawgu
+posjawgune:
+  term: posjawgune
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: negligent'
+    - - 'adv: negligently'
+    epo:
+    - - 'adj: malzorga'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - negligent
+      adv:
+      - negligently
+    epo:
+      adj:
+      - malzorga
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - pos-
+    - +
+    - jawgu
+    - +
+    - -ne
 posjijon:
   term: posjijon
   word class: b.oj
@@ -417284,6 +417612,41 @@ posnaturali:
     - natura
     - +
     - -li
+posolawia:
+  term: posolawia
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - 'v.tr: deprioritize'
+    epo:
+    - - 'v.tr: malprioritatigi'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      v.tr:
+      - deprioritize
+    epo:
+      v.tr:
+      - malprioritatigi
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - pos-
+    - +
+    - olawia
 posordenu:
   term: posordenu
   word class: b.oj
@@ -417415,6 +417778,47 @@ posordenudo:
     - ordenu
     - +
     - -do
+posordenufil:
+  term: posordenufil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: disorderly'
+      - disoganized
+      - messy
+    epo:
+    - - 'adj: malordema'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - disorderly
+      - disoganized
+      - messy
+    epo:
+      adj:
+      - malordema
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - pos-
+    - +
+    - ordenu
+    - +
+    - -fil
 posordenupul:
   term: posordenupul
   word class: t
@@ -504515,11 +504919,12 @@ trutigine:
     eng:
     - - 'adj: satisfying'
       - satisfactory
+      - decent
     - - 'adv: satisfyingly'
       - satisfactorily
     epo:
-    - - 'adj: kontentiganta'
-    - - 'adv: kontentigante'
+    - - 'adj: kontentiga'
+    - - 'adv: kontentige'
     spa:
     - - 'adj: satisfactorio'
       - gratificante
@@ -504535,14 +504940,15 @@ trutigine:
       adj:
       - satisfying
       - satisfactory
+      - decent
       adv:
       - satisfyingly
       - satisfactorily
     epo:
       adj:
-      - kontentiganta
+      - kontentiga
       adv:
-      - kontentigante
+      - kontentige
     spa:
       adj:
       - satisfactorio
@@ -540011,7 +540417,7 @@ xukra:
     ara: []
   etymology:
     natlang:
-      Arabisa: شكرا &ldquo;xukran&rdquo;, شكر &ldquo;xukr&rdquo; - gratitude
+      Arabisa: شكرا &ldquo;xukran&rdquo;, شكر &ldquo;xukr&rdquo;
       Hindi: शुक्रिया &ldquo;xukriya&rdquo;
       Parsisa: تشکر &ldquo;taxakkor&rdquo;
       Swahilisa: shukrani
