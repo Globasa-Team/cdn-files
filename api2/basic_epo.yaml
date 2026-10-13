@@ -13066,11 +13066,6 @@ fe_fini:
   class: p jm
   category: phrase
   translation: 'prep frazparto: finfine, fine, je la fino'
-fe_fol_fe:
-  term: fe fol fe
-  class: p
-  category: derived
-  translation: 'prep: kiel (<em>en la rolo/funkcio de</em>)'
 fe_folo:
   term: fe folo
   class: p jm
@@ -13411,6 +13406,11 @@ fe_rimara:
   class: p jm
   category: phrase
   translation: 'prep frazparto: denove, ree'
+fe_rol_fe:
+  term: fe rol fe
+  class: p
+  category: derived
+  translation: 'prep: kiel (<em>en la rolo/funkcio de</em>)'
 fe_ruke:
   term: fe ruke
   class: p jm
@@ -35894,12 +35894,12 @@ posjawgu:
   term: posjawgu
   class: b.oj
   category: derived
-  translation: 'n: neglekto; v.tr: neglekti'
+  translation: 'n: neglekto, malzorgo; v.tr: neglekti, malzorgi'
 posjawgune:
   term: posjawgune
   class: t
   category: derived
-  translation: 'adj: malzorga'
+  translation: 'adj: neglektanta, malzorga'
 posjijon:
   term: posjijon
   class: b.oj

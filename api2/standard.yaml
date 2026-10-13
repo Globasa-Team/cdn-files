@@ -151931,48 +151931,6 @@ fe_fini:
     - fe
     - ','
     - fini
-fe_fol_fe:
-  term: fe fol fe
-  word class: p
-  category: derived
-  trans:
-    eng:
-    - - 'prep: (acting) as'
-      - in the capacity of
-    epo:
-    - - 'prep: kiel (<em>en la rolo/funkcio de</em>)'
-    spa:
-    - - 'prep: como (<em>en calidad de</em>)'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
-  trans_v2:
-    eng:
-      prep:
-      - (acting) as
-      - in the capacity of
-    epo:
-      prep:
-      - kiel (<em>en la rolo/funkcio de</em>)
-    spa:
-      prep:
-      - como (<em>en calidad de</em>)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
-  etymology:
-    derived:
-    - fe
-    - ','
-    - rol
-    - ','
-    - fe
 fe_folo:
   term: fe folo
   word class: p jm
@@ -155023,6 +154981,48 @@ fe_rimara:
     - ri-
     - +
     - mara
+fe_rol_fe:
+  term: fe rol fe
+  word class: p
+  category: derived
+  trans:
+    eng:
+    - - 'prep: (acting) as'
+      - in the capacity of
+    epo:
+    - - 'prep: kiel (<em>en la rolo/funkcio de</em>)'
+    spa:
+    - - 'prep: como (<em>en calidad de</em>)'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      prep:
+      - (acting) as
+      - in the capacity of
+    epo:
+      prep:
+      - kiel (<em>en la rolo/funkcio de</em>)
+    spa:
+      prep:
+      - como (<em>en calidad de</em>)
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - fe
+    - ','
+    - rol
+    - ','
+    - fe
 fe_ruke:
   term: fe ruke
   word class: p jm
@@ -417107,7 +417107,9 @@ posjawgu:
     - - 'n: neglect: v.tr: neglect'
     epo:
     - - 'n: neglekto'
+      - malzorgo
     - - 'v.tr: neglekti'
+      - malzorgi
     spa: []
     deu: []
     fra: []
@@ -417122,8 +417124,10 @@ posjawgu:
     epo:
       "n":
       - neglekto
+      - malzorgo
       v.tr:
       - neglekti
+      - malzorgi
     spa: []
     deu: []
     fra: []
@@ -417145,7 +417149,8 @@ posjawgune:
     - - 'adj: negligent'
     - - 'adv: negligently'
     epo:
-    - - 'adj: malzorga'
+    - - 'adj: neglektanta'
+      - malzorga
     spa: []
     deu: []
     fra: []
@@ -417161,6 +417166,7 @@ posjawgune:
       - negligently
     epo:
       adj:
+      - neglektanta
       - malzorga
     spa: []
     deu: []
