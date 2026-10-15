@@ -32732,7 +32732,9 @@ awcu:
   trans:
     eng:
     - - 'n: disappearance'
+      - vanishing
     - - 'v.intr: disappear'
+      - vanish
     epo:
     - - 's: malapero'
     - - 'v.ntr: malaperi'
@@ -32749,8 +32751,10 @@ awcu:
     eng:
       "n":
       - disappearance
+      - vanishing
       v.intr:
       - disappear
+      - vanish
     epo:
       s:
       - malapero
@@ -82210,6 +82214,34 @@ cipsu:
       Pilipinasa: chips
       Rusisa: чипс &ldquo;cips&rdquo;
       Turkisa: cips
+cipu:
+  term: cipu
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: (computer) chip'
+    epo: []
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - (computer) chip
+    epo: []
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology: ""
 ciril:
   term: Ciril
   word class: su n
@@ -108141,6 +108173,55 @@ disenoyen:
     - diseno
     - +
     - -yen
+disforma:
+  term: disforma
+  word class: b.oro
+  category: root
+  trans:
+    eng:
+    - - 'n: disintegration'
+    - - 'v.tr: disintegrate'
+    - - 'v.intr: disintegrate'
+      - become disintegrated
+    epo:
+    - - 'n: malintegriĝo'
+    - - 'v.tr: malintegrigi'
+    - - 'v.ntr: malintegriĝi'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - disintegration
+      v.tr:
+      - disintegrate
+      v.intr:
+      - disintegrate
+      - become disintegrated
+    epo:
+      "n":
+      - malintegriĝo
+      v.tr:
+      - malintegrigi
+      v.ntr:
+      - malintegriĝi
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - dis-
+    - +
+    - forma
 disgi:
   term: disgi
   word class: b.oj
@@ -294150,6 +294231,8 @@ labyakolor:
     - labya
     - +
     - kolor
+    natlang similar:
+      Swahilisa: rangi ya mdomo
 labyakolorente:
   term: labyakolorente
   word class: b
@@ -294260,6 +294343,8 @@ labyakreyon:
     - labya
     - +
     - kreyon
+    natlang similar:
+      Espanisa: l&aacute;piz labial
 labyali:
   term: labyali
   word class: t
@@ -319362,8 +319447,14 @@ malforma:
   trans:
     eng:
     - - 'n: misformation'
+      - malformation
+      - deformation
     - - 'v.tr: misform'
+      - malform
+      - deform
     - - 'v.intr (optional -cu): get misformed'
+      - get malformed
+      - get deformed
     epo:
     - - 's: misformo'
     - - 'v.tr: misformi'
@@ -319382,10 +319473,16 @@ malforma:
     eng:
       "n":
       - misformation
+      - malformation
+      - deformation
       v.tr:
       - misform
+      - malform
+      - deform
       v.intr (optional -cu):
       - get misformed
+      - get malformed
+      - get deformed
     epo:
       s:
       - misformo
@@ -327900,7 +327997,8 @@ master:
     eng:
     - - 'n: master''s graduate'
       - master's degree holder
-    epo: []
+    epo:
+    - - 'n: magistro'
     spa: []
     deu: []
     fra: []
@@ -327913,7 +328011,9 @@ master:
       "n":
       - master's graduate
       - master's degree holder
-    epo: []
+    epo:
+      "n":
+      - magistro
     spa: []
     deu: []
     fra: []
@@ -327929,7 +328029,7 @@ master:
       Espanisa: maestr&iacute;a, m&aacute;ster
       Fransesa: master
       Hindi: मास्टर्स &ldquo;mastars&rdquo;
-      Indonesisa: magister
+      Indonesisa: magister, master
       Rusisa: магистр &ldquo;magistr&rdquo;
       Telugu: మాస్టర్స్ &ldquo;mastars&rdquo;
       Turkisa: master
@@ -367146,7 +367246,6 @@ nenmingu:
     - - 'adv: neklare'
     spa:
     - - 'adj: poco claro'
-      - confuso
       - vago
     - - 'adv: de forma poco clara'
       - vagamente
@@ -367172,7 +367271,6 @@ nenmingu:
     spa:
       adj:
       - poco claro
-      - confuso
       - vago
       adv:
       - de forma poco clara
@@ -495014,6 +495112,50 @@ tilapya:
       Swahilisa: tilapia
       Telugusa: తిలాపియా &ldquo;tilapiya&rdquo;
       Turkisa: tilapia
+tiltila:
+  term: tiltila
+  word class: b.nenoj
+  category: root
+  trans:
+    eng:
+    - - 'v.intr: flicker'
+      - twinkle
+      - sparkle
+      - glitter
+      - glimmer
+      - shimmer
+    epo:
+    - - 'v.ntr: brileti'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      v.intr:
+      - flicker
+      - twinkle
+      - sparkle
+      - glitter
+      - glimmer
+      - shimmer
+    epo:
+      v.ntr:
+      - brileti
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Espanisa: titilar
+      Hindi: टिमटिमाना &ldquo;timtimana&rdquo;, झिलमिलाना &ldquo;jilmilana&rdquo;
 tim:
   term: tim
   word class: b
@@ -533270,6 +533412,8 @@ xeritu:
   trans:
     eng:
     - - 'n: stripe'
+      - strip
+      - streak
     epo:
     - - 's: strio'
     spa:
@@ -533295,6 +533439,8 @@ xeritu:
     eng:
       "n":
       - stripe
+      - strip
+      - streak
     epo:
       s:
       - strio
