@@ -254,7 +254,8 @@ absorbi:
   term: absorbi
   class: b.oro
   category: root
-  translation: 'n: absorption; v.tr: absorb; v.intr (optional -cu): absorb, get absorbed'
+  translation: 'n: absorption; v.tr: absorb; v.intr (optional use of -cu): absorb,
+    get absorbed'
 absorbiabil:
   term: absorbiabil
   class: t
@@ -264,7 +265,7 @@ absorbicu:
   term: absorbicu
   class: b.nenoj
   category: derived
-  translation: 'n: absorption; v.intr (optional -cu): absorb, get absorbed'
+  translation: 'n: absorption; v.intr (optional use of -cu): absorb, get absorbed'
 absorbine:
   term: absorbine
   class: t
@@ -300,12 +301,13 @@ acidi:
   term: acidi
   class: b.oro
   category: root
-  translation: 'n: acid; v.tr: acidify; v.intr (optional -cu): acidify, become acidified'
+  translation: 'n: acid; v.tr: acidify; v.intr (optional use of -cu): acidify, become
+    acidified'
 acidicu:
   term: acidicu
   class: b.nenoj
   category: derived
-  translation: 'n: acidification; v.intr (optional -cu): acidify, become acidified'
+  translation: 'n: acidification; v.intr (optional use of -cu): acidify, become acidified'
 acidihamir:
   term: acidihamir
   class: b
@@ -366,7 +368,7 @@ adate:
   term: adate
   class: b.oro
   category: root
-  translation: 'n: adaptation; v.tr: adapt; v.intr (optional -cu): adapt (oneself),
+  translation: 'n: adaptation; v.tr: adapt; v.intr (optional use of -cu): adapt (oneself),
     get adapted'
 adateabil:
   term: adateabil
@@ -377,7 +379,8 @@ adatecu:
   term: adatecu
   class: b.nenoj
   category: derived
-  translation: 'n: adaptation; v.intr (optional -cu): adapt (oneself), get adapted'
+  translation: 'n: adaptation; v.intr (optional use of -cu): adapt (oneself), get
+    adapted'
 adatecuabil:
   term: adatecuabil
   class: t
@@ -432,8 +435,8 @@ adhesi:
   term: adhesi
   class: b.oro
   category: root
-  translation: 'n: adhesion; v.tr: adhere, stick; v.intr (optional -cu): adhere, get
-    adhered, stick, get stuck'
+  translation: 'n: adhesion; v.tr: adhere, stick; v.intr (optional use of -cu): adhere,
+    get adhered, stick, get stuck'
 adhesiabil:
   term: adhesiabil
   class: t
@@ -443,8 +446,8 @@ adhesicu:
   term: adhesicu
   class: b.nenoj
   category: derived
-  translation: 'n: adhesion; v.intr (optional -cu): adhere, become adhered, stick,
-    get stuck'
+  translation: 'n: adhesion; v.intr (optional use of -cu): adhere, become adhered,
+    stick, get stuck'
 adhesicuabil:
   term: adhesicuabil
   class: t
@@ -1048,14 +1051,14 @@ alkohol:
   term: alkohol
   class: b.oro
   category: root
-  translation: 'n: alcohol; v.tr: alcoholize, alcoholise; v.intr (optional -cu): become
-    alcoholized, become alcoholised'
+  translation: 'n: alcohol; v.tr: alcoholize, alcoholise; v.intr (optional use of
+    -cu): become alcoholized, become alcoholised'
 alkoholcu:
   term: alkoholcu
   class: b.nenoj
   category: derived
-  translation: 'n: alcoholization, alcoholisation; v.intr (optional -cu): become alcoholized,
-    become alcoholised'
+  translation: 'n: alcoholization, alcoholisation; v.intr (optional use of -cu): become
+    alcoholized, become alcoholised'
 alkoholdo:
   term: alkoholdo
   class: t
@@ -1141,12 +1144,13 @@ aloforma:
   term: aloforma
   class: b.oro
   category: derived
-  translation: 'n: transformation; v.tr: transform; v.intr (optional -cu): transform'
+  translation: 'n: transformation; v.tr: transform; v.intr (optional use of -cu):
+    transform'
 aloformacu:
   term: aloformacu
   class: b.nenoj
   category: derived
-  translation: 'n: transformation; v.intr (optional -cu): transform, get transformed'
+  translation: 'n: transformation; v.intr (optional use of -cu): transform, get transformed'
 alogi:
   term: alogi
   class: b.oj
@@ -1212,12 +1216,13 @@ alomorfo:
   term: alomorfo
   class: b.oro
   category: derived
-  translation: 'n: metamorphosis; v.tr: metamorphose; v.intr (optional -cu): metamorphose'
+  translation: 'n: metamorphosis; v.tr: metamorphose; v.intr (optional use of -cu):
+    metamorphose'
 alomorfocu:
   term: alomorfocu
   class: b.nenoj
   category: derived
-  translation: 'n: metamorphosis; v.intr (optional -cu): metamorphose, metamorphize'
+  translation: 'n: metamorphosis; v.intr (optional use of -cu): metamorphose, metamorphize'
 alondra:
   term: alondra
   class: b
@@ -2013,13 +2018,13 @@ aplika:
   class: b.oro
   category: root
   translation: 'n: application (<em>practical use</em>); v.tr: apply (<em>bring or
-    put into operation or practical use</em>); v.intr (optional -cu): apply, be applicable
-    (to)'
+    put into operation or practical use</em>); v.intr (optional use of -cu): apply,
+    be applicable (to)'
 aplikacu:
   term: aplikacu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): apply, be applicable (to)'
+  translation: 'v.intr (optional use of -cu): apply, be applicable (to)'
 aplikaible:
   term: aplikaible
   class: t
@@ -2199,7 +2204,7 @@ armonicu:
   term: armonicu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): get harmonized, get harmonised'
+  translation: 'v.intr (optional use of -cu): get harmonized, get harmonised'
 armonigi:
   term: armonigi
   class: b.oj
@@ -2300,6 +2305,11 @@ articoku:
   class: b
   category: root
   translation: 'n: artichoke'
+artifako:
+  term: artifako
+  class: b
+  category: derived
+  translation: 'n: artefact, artifact'
 artikel:
   term: artikel
   class: b
@@ -2391,12 +2401,13 @@ asel:
   term: asel
   class: b.oro
   category: root
-  translation: 'n: origin, source; v.tr: originate; v.intr (optional -cu): originate'
+  translation: 'n: origin, source; v.tr: originate; v.intr (optional use of -cu):
+    originate'
 aselcu:
   term: aselcu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): originate'
+  translation: 'v.intr (optional use of -cu): originate'
 aselcune:
   term: aselcune
   class: t
@@ -2603,8 +2614,8 @@ atex:
   class: b.oro
   category: root
   translation: 'n: fire; v.tr: burn (<em>damage, destroy or consume with fire</em>),
-    combust; v.intr (optional -cu): burn (<em>be on fire, be damaged, destroyed or
-    consumed by fire</em>), combust'
+    combust; v.intr (optional use of -cu): burn (<em>be on fire, be damaged, destroyed
+    or consumed by fire</em>), combust'
 atexalkoba:
   term: atexalkoba
   class: b
@@ -2614,8 +2625,8 @@ atexcu:
   term: atexcu
   class: b.nenoj
   category: derived
-  translation: 'n: burning, combustion; v.intr (optional -cu): burn, be on fire, be
-    consumed by fire, combust'
+  translation: 'n: burning, combustion; v.intr (optional use of -cu): burn, be on
+    fire, be consumed by fire, combust'
 atexcune:
   term: atexcune
   class: t
@@ -3160,13 +3171,13 @@ ayna:
   term: ayna
   class: b.oro
   category: root
-  translation: 'n: mirror; v.tr: mirror, reflect; v.intr (optional -cu): mirror, get
-    mirrored, reflect, get reflected'
+  translation: 'n: mirror; v.tr: mirror, reflect; v.intr (optional use of -cu): mirror,
+    get mirrored, reflect, get reflected'
 aynacu:
   term: aynacu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): mirror, get mirrored, reflect, get reflected'
+  translation: 'v.intr (optional use of -cu): mirror, get mirrored, reflect, get reflected'
 aynaya:
   term: aynaya
   class: b
@@ -4030,8 +4041,8 @@ basi:
   term: basi
   class: b.oro
   category: root
-  translation: 'n: basis, base, foundation; v.tr: base; v.intr (optional -cu): be
-    based, base itself'
+  translation: 'n: basis, base, foundation; v.tr: base; v.intr (optional use of -cu):
+    be based, base itself'
 basibol:
   term: basibol
   class: b
@@ -4041,7 +4052,7 @@ basicu:
   term: basicu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): be based (<em>base itself</em>)'
+  translation: 'v.intr (optional use of -cu): be based (<em>base itself</em>)'
 basido:
   term: basido
   class: t
@@ -4920,7 +4931,7 @@ birke:
   term: birke
   class: b.oro
   category: root
-  translation: 'n: pool, puddle; v.tr: pool; v.intr (optional -cu): pool'
+  translation: 'n: pool, puddle; v.tr: pool; v.intr (optional use of -cu): pool'
 bisagra:
   term: bisagra
   class: b
@@ -5491,12 +5502,12 @@ boyle:
   term: boyle
   class: b.oro
   category: root
-  translation: 'n: boil, boiling; v.tr: boil; v.intr (optional -cu): boil'
+  translation: 'n: boil, boiling; v.tr: boil; v.intr (optional use of -cu): boil'
 boylecu:
   term: boylecu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): boil'
+  translation: 'v.intr (optional use of -cu): boil'
 boylecune:
   term: boylecune
   class: t
@@ -5741,12 +5752,13 @@ buhar:
   term: buhar
   class: b.oro
   category: root
-  translation: 'n: steam, vapor, vapour; v.tr: steam; v.intr (optional -cu): steam'
+  translation: 'n: steam, vapor, vapour; v.tr: steam; v.intr (optional use of -cu):
+    steam'
 buharcu:
   term: buharcu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): steam'
+  translation: 'v.intr (optional use of -cu): steam'
 buhardo:
   term: buhardo
   class: t
@@ -5781,12 +5793,12 @@ buka:
   term: buka
   class: b.oro.harka
   category: root
-  translation: 'n: opening, aperture; v.tr: open; v.intr (optional -cu): open'
+  translation: 'n: opening, aperture; v.tr: open; v.intr (optional use of -cu): open'
 bukacu:
   term: bukacu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): open'
+  translation: 'v.intr (optional use of -cu): open'
 bukacune:
   term: bukacune
   class: t
@@ -6734,8 +6746,8 @@ centro:
   term: centro
   class: b.oro.harka
   category: root
-  translation: 'n: center, centre; v.tr: center, centre; v.intr (optional -cu): center,
-    centre'
+  translation: 'n: center, centre; v.tr: center, centre; v.intr (optional use of -cu):
+    center, centre'
 centroafrika:
   term: Centroafrika
   class: su n
@@ -6745,7 +6757,7 @@ centrocu:
   term: centrocu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): center, centre'
+  translation: 'v.intr (optional use of -cu): center, centre'
 centrodo:
   term: centrodo
   class: t
@@ -7098,13 +7110,13 @@ ciru:
   term: ciru
   class: b.oro
   category: root
-  translation: 'n: tear, rip, rend; v.tr: tear, rip, rend; v.intr (optional -cu):
-    tear, rip, rend'
+  translation: 'n: tear, rip, rend; v.tr: tear, rip, rend; v.intr (optional use of
+    -cu): tear, rip, rend'
 cirucu:
   term: cirucu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): tear, rip, rend'
+  translation: 'v.intr (optional use of -cu): tear, rip, rend'
 cirudo:
   term: cirudo
   class: t
@@ -7219,8 +7231,8 @@ conlyoku:
   term: conlyoku
   class: b.oro
   category: root
-  translation: 'n: tension; v.tr: tension, tense, stretch; v.intr (optional -cu):
-    tense, stretch'
+  translation: 'n: tension; v.tr: tension, tense, stretch; v.intr (optional use of
+    -cu): tense, stretch'
 cori:
   term: cori
   class: b.oj
@@ -7379,7 +7391,8 @@ cuki:
   term: cuki
   class: b.oro.harka
   category: root
-  translation: 'n: cycle, revolution; v.tr: cycle; v.intr (optional -cu): cycle, revolve'
+  translation: 'n: cycle, revolution; v.tr: cycle; v.intr (optional use of -cu): cycle,
+    revolve'
 cukili:
   term: cukili
   class: t
@@ -7394,7 +7407,8 @@ cundotu:
   term: cundotu
   class: b.oro.harka
   category: root
-  translation: 'n: collision, impact, crash; v.tr: crash; v.intr (optional -cu): collide'
+  translation: 'n: collision, impact, crash; v.tr: crash; v.intr (optional use of
+    -cu): collide'
 cungi:
   term: cungi
   class: t
@@ -7429,12 +7443,13 @@ curuko:
   term: curuko
   class: b.oro
   category: root
-  translation: 'n: bruise, contusion; v.tr: bruise; v.intr (optional -cu): bruise'
+  translation: 'n: bruise, contusion; v.tr: bruise; v.intr (optional use of -cu):
+    bruise'
 curukocu:
   term: curukocu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): bruise, get bruised'
+  translation: 'v.intr (optional use of -cu): bruise, get bruised'
 curukodo:
   term: curukodo
   class: t
@@ -7892,12 +7907,12 @@ daraki:
   class: b.oro
   category: root
   translation: 'n: crack, fissure, crevice, split, slit, rift, cleft; v.tr: crack;
-    v.intr (optional -cu): crack'
+    v.intr (optional use of -cu): crack'
 darakicu:
   term: darakicu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): crack'
+  translation: 'v.intr (optional use of -cu): crack'
 darakido:
   term: darakido
   class: t
@@ -7988,8 +8003,8 @@ dava:
   term: dava
   class: b.oro
   category: root
-  translation: 'n: drug (<em>broad sense</em>); v.tr: drug; v.intr (optional -cu):
-    become drugged'
+  translation: 'n: drug (<em>broad sense</em>); v.tr: drug; v.intr (optional use of
+    -cu): become drugged'
 davado:
   term: davado
   class: t
@@ -9224,7 +9239,7 @@ deylyu:
   term: deylyu
   class: b.oro
   category: root
-  translation: 'n: convection; v.tr: convect; v.intr (optional -cu): convect'
+  translation: 'n: convection; v.tr: convect; v.intr (optional use of -cu): convect'
 deysi:
   term: deysi
   class: b
@@ -9463,7 +9478,7 @@ dissolusi:
   term: dissolusi
   class: b.oro
   category: derived
-  translation: 'n: dissolution; v.tr: dissolve; v.intr (optional -cu): dissolve'
+  translation: 'n: dissolution; v.tr: dissolve; v.intr (optional use of -cu): dissolve'
 distrito:
   term: distrito
   class: b
@@ -10256,13 +10271,13 @@ dudul:
   term: dudul
   class: b.oro.harka
   category: root
-  translation: 'n: rocking, swaying; v.tr: rock, sway; v.intr (optional -cu): rock,
-    sway'
+  translation: 'n: rocking, swaying; v.tr: rock, sway; v.intr (optional use of -cu):
+    rock, sway'
 dudulcu:
   term: dudulcu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): rock, sway'
+  translation: 'v.intr (optional use of -cu): rock, sway'
 dudulcune:
   term: dudulcune
   class: t
@@ -10961,12 +10976,13 @@ eletri:
   term: eletri
   class: b.oro
   category: root
-  translation: 'n: electricity; v.tr: electrify; v.intr (optional -cu): become electrified'
+  translation: 'n: electricity; v.tr: electrify; v.intr (optional use of -cu): become
+    electrified'
 eletricu:
   term: eletricu
   class: b.nenoj
   category: derived
-  translation: 'n: electrification; v.intr (optional -cu): become electrified'
+  translation: 'n: electrification; v.intr (optional use of -cu): become electrified'
 eletrigitara:
   term: eletrigitara
   class: b
@@ -10987,8 +11003,8 @@ eletrixoku:
   class: b.oro
   category: derived
   translation: 'n: (electric) shock, electrocution (<em>not necessarily fatal</em>);
-    v.tr: shock, electrocute, taze, zap, electrify; v.intr (optional -cu): get shocked,
-    get electrocuted, get tazed, get zapped, get electrified'
+    v.tr: shock, electrocute, taze, zap, electrify; v.intr (optional use of -cu):
+    get shocked, get electrocuted, get tazed, get zapped, get electrified'
 eletron:
   term: eletron
   class: b
@@ -11123,8 +11139,8 @@ energi:
   term: energi
   class: b.oro
   category: root
-  translation: 'n: energy; v.tr: energize, energise; v.intr (optional -cu): become
-    energized, become energised'
+  translation: 'n: energy; v.tr: energize, energise; v.intr (optional use of -cu):
+    become energized, become energised'
 energipul:
   term: energipul
   class: t
@@ -11150,12 +11166,12 @@ enfeksi:
   term: enfeksi
   class: b.oro
   category: root
-  translation: 'n: infection; v.tr: infect; v.intr (optional -cu): get infected'
+  translation: 'n: infection; v.tr: infect; v.intr (optional use of -cu): get infected'
 enfeksicu:
   term: enfeksicu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): get infected'
+  translation: 'v.intr (optional use of -cu): get infected'
 enfeksido:
   term: enfeksido
   class: t
@@ -11539,7 +11555,7 @@ eskripu:
   term: eskripu
   class: b.oj
   category: root
-  translation: 'n: script; v.tr: script'
+  translation: 'n: script (<em>computing</em>); v.tr: script'
 eskrisistema:
   term: eskrisistema
   class: b
@@ -11739,8 +11755,8 @@ espiral:
   term: espiral
   class: b.oro.harka
   category: root
-  translation: 'n: spiral, helix; v.tr: spiral, twist; v.intr (optional -cu): spiral,
-    twist'
+  translation: 'n: spiral, helix; v.tr: spiral, twist; v.intr (optional use of -cu):
+    spiral, twist'
 espiralcune:
   term: espiralcune
   class: t
@@ -11953,7 +11969,8 @@ estayjwan:
   term: estayjwan
   class: b.oro.harka
   category: derived
-  translation: 'n: (vertical) flip; v.tr: flip; v.intr (optional -cu): flip (vertically)'
+  translation: 'n: (vertical) flip; v.tr: flip; v.intr (optional use of -cu): flip
+    (vertically)'
 estayli:
   term: estayli
   class: t
@@ -12056,14 +12073,14 @@ esto:
   class: b.oro.harka
   category: root
   translation: 'n: stop, halt; v.tr: stop (<em>bring to a stop</em>), halt (<em>bring
-    to a halt</em>); v.intr (optional -cu): stop (<em>come to a stop</em>), halt (<em>come
-    to a halt</em>), cease, quit'
+    to a halt</em>); v.intr (optional use of -cu): stop (<em>come to a stop</em>),
+    halt (<em>come to a halt</em>), cease, quit'
 estocu:
   term: estocu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): stop (<em>come to a stop</em>), halt (<em>come
-    to a halt</em>), cease, quit'
+  translation: 'v.intr (optional use of -cu): stop (<em>come to a stop</em>), halt
+    (<em>come to a halt</em>), cease, quit'
 estocune:
   term: estocune
   class: t
@@ -12214,7 +12231,7 @@ estuf:
   term: estuf
   class: b.oro
   category: root
-  translation: 'n: stew; v.tr: stew; v.intr (optional -cu): stew'
+  translation: 'n: stew; v.tr: stew; v.intr (optional use of -cu): stew'
 estulu:
   term: estulu
   class: b
@@ -12992,12 +13009,12 @@ fayda:
   term: fayda
   class: b.oro
   category: root
-  translation: 'n: benefit; v.tr: benefit; v.intr (optional -cu): benefit'
+  translation: 'n: benefit; v.tr: benefit; v.intr (optional use of -cu): benefit'
 faydacu:
   term: faydacu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): benefit'
+  translation: 'v.intr (optional use of -cu): benefit'
 faydado:
   term: faydado
   class: t
@@ -14158,12 +14175,12 @@ fini:
   class: b.oro
   category: root
   translation: 'n: end, ending, conclusion; v.tr: end, finish, finalize, finalise,
-    be done with; v.intr (optional -cu): end, conclude'
+    be done with; v.intr (optional use of -cu): end, conclude'
 finicu:
   term: finicu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): end, conclude'
+  translation: 'v.intr (optional use of -cu): end, conclude'
 finicune:
   term: finicune
   class: t
@@ -14285,7 +14302,8 @@ fleksi:
   term: fleksi
   class: b.oro.harka
   category: root
-  translation: 'n: bend, flex; v.tr: bend, flex; v.intr (optional -cu): bend, flex'
+  translation: 'n: bend, flex; v.tr: bend, flex; v.intr (optional use of -cu): bend,
+    flex'
 fleksiabil:
   term: fleksiabil
   class: t
@@ -14300,7 +14318,7 @@ fleksicu:
   term: fleksicu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): bend, flex'
+  translation: 'v.intr (optional use of -cu): bend, flex'
 fleksicuabil:
   term: fleksicuabil
   class: t
@@ -14710,12 +14728,13 @@ forma:
   term: forma
   class: b.oro
   category: root
-  translation: 'n: form (<em>shape</em>); v.tr: form; v.intr (optional -cu): form'
+  translation: 'n: form (<em>shape</em>); v.tr: form; v.intr (optional use of -cu):
+    form'
 formacu:
   term: formacu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): form'
+  translation: 'v.intr (optional use of -cu): form'
 formado:
   term: formado
   class: t
@@ -15444,13 +15463,14 @@ ganjon:
   term: ganjon
   class: b.lin.oj
   category: root
-  translation: 'n: emotion, feeling, sentiment; v.cop (optional -cu): feel (<em>emotionally,
-    psychologically</em>); v.tr: feel (<em>emotionally, psychologically</em>)'
+  translation: 'n: emotion, feeling, sentiment; v.cop (optional use of -cu): feel
+    (<em>emotionally, psychologically</em>); v.tr: feel (<em>emotionally, psychologically</em>)'
 ganjoncu:
   term: ganjoncu
   class: b.lin
   category: derived
-  translation: 'v.cop (optional -cu): feel (<em>emotionally feel a particular way</em>)'
+  translation: 'v.cop (optional use of -cu): feel (<em>emotionally feel a particular
+    way</em>)'
 ganjonpul:
   term: ganjonpul
   class: t
@@ -16060,7 +16080,7 @@ girehe:
   term: girehe
   class: b.oro
   category: root
-  translation: 'n: knot, node; v.tr: knot; v.intr (optional -cu): knot'
+  translation: 'n: knot, node; v.tr: knot; v.intr (optional use of -cu): knot'
 gitara:
   term: gitara
   class: b
@@ -16348,7 +16368,7 @@ gotas:
   class: b.oro.harka
   category: root
   translation: 'n: dive, plunge, submersion; v.tr: dive, plunge, submerge; v.intr
-    (optional -cu): dive, plunge, submerge'
+    (optional use of -cu): dive, plunge, submerge'
 gotascune:
   term: gotascune
   class: t
@@ -16618,7 +16638,7 @@ guje:
   term: guje
   class: b.oro
   category: root
-  translation: 'n: fracture; v.tr: fracture; v.intr (optional -cu): fracture'
+  translation: 'n: fracture; v.tr: fracture; v.intr (optional use of -cu): fracture'
 gujedo:
   term: gujedo
   class: t
@@ -16904,6 +16924,11 @@ hajado:
   class: t
   category: derived
   translation: 'adj: needed, necessary'
+hajagi:
+  term: hajagi
+  class: b.oj
+  category: derived
+  translation: 'v.tr: necessitate, involve, entail'
 hajakal:
   term: hajakal
   class: t
@@ -17191,7 +17216,7 @@ harabu:
   class: b.oro
   category: root
   translation: 'n: ruin, wreck; v.tr: ruin, wreck, spoil, devastate; v.intr (optional
-    -cu): get ruined, get wrecked, get spoiled, get devastated'
+    use of -cu): get ruined, get wrecked, get spoiled, get devastated'
 harabudo:
   term: harabudo
   class: t
@@ -17266,7 +17291,8 @@ harka:
   term: harka
   class: b.oro.harka
   category: root
-  translation: 'n: move, motion, movement; v.tr: move; v.intr (optional -cu): move'
+  translation: 'n: move, motion, movement; v.tr: move; v.intr (optional use of -cu):
+    move'
 harkaabil:
   term: harkaabil
   class: t
@@ -17515,7 +17541,7 @@ hazam:
   term: hazam
   class: b.oro
   category: root
-  translation: 'n: digestion; v.tr: digest; v.intr (optional -cu): digest'
+  translation: 'n: digestion; v.tr: digest; v.intr (optional use of -cu): digest'
 hazamdo:
   term: hazamdo
   class: t
@@ -17831,7 +17857,7 @@ herni:
   term: herni
   class: b.oro
   category: root
-  translation: 'n: hernia; v.tr: herniate; v.intr (optional -cu): get herniated'
+  translation: 'n: hernia; v.tr: herniate; v.intr (optional use of -cu): get herniated'
 hero:
   term: hero
   class: b
@@ -18138,14 +18164,14 @@ hisi:
   term: hisi
   class: b.lin.oj
   category: root
-  translation: 'n: feeling, sensation; v.cop (optional -cu): feel (<em>physically,
+  translation: 'n: feeling, sensation; v.cop (optional use of -cu): feel (<em>physically,
     emotionally, psychologically</em>); v.tr: feel (<em>physically, emotionally, psychologically</em>)'
 hisicu:
   term: hisicu
   class: b.lin
   category: derived
-  translation: 'v.cop (optional -cu): feel (<em>physically, emotionally or psychologically
-    feel a particular way</em>)'
+  translation: 'v.cop (optional use of -cu): feel (<em>physically, emotionally or
+    psychologically feel a particular way</em>)'
 hisido:
   term: hisido
   class: t
@@ -19052,6 +19078,16 @@ inbotelagido:
   class: t
   category: derived
   translation: 'adj: bottled'
+inburhalucu:
+  term: inburhalucu
+  class: b.nenoj
+  category: derived
+  translation: 'v.intr: become implicated, become entangled'
+inburhalugi:
+  term: inburhalugi
+  class: b.oj
+  category: derived
+  translation: 'v.tr: implicate, entangle'
 incesto:
   term: incesto
   class: b
@@ -21457,17 +21493,27 @@ juniswini:
   class: b
   category: derived
   translation: 'n: piglet'
+junitim:
+  term: junitim
+  class: b
+  category: derived
+  translation: 'n: youth (<em>people</em>)'
 juniuma:
   term: juniuma
   class: b
   category: derived
   translation: 'n: foal'
+juniya:
+  term: juniya
+  class: b
+  category: derived
+  translation: 'n: youth (<em>abstract</em>)'
 juniyen:
   term: juniyen
   class: b
   category: derived
-  translation: 'n (tween to early 20s): young man, young woman, gal, guy, dude, bloke,
-    lad'
+  translation: 'n (tween to early 20s): young man, young woman, youth, gal, guy, dude,
+    bloke, lad'
 junluku:
   term: junluku
   class: b.nenoj
@@ -21487,8 +21533,8 @@ juruha:
   term: juruha
   class: b.oro
   category: root
-  translation: 'n: wound, injury; v.tr: wound, injure; v.intr (optional -cu): be (<em>get</em>)
-    wounded, be (<em>get</em>) injured'
+  translation: 'n: wound, injury; v.tr: wound, injure; v.intr (optional use of -cu):
+    be (<em>get</em>) wounded, be (<em>get</em>) injured'
 juruhado:
   term: juruhado
   class: t
@@ -21519,7 +21565,7 @@ jwan:
   term: jwan
   class: b.oro.harka
   category: root
-  translation: 'n: turn; v.tr: turn; v.intr (optional -cu): turn'
+  translation: 'n: turn; v.tr: turn; v.intr (optional use of -cu): turn'
 jwancune:
   term: jwancune
   class: t
@@ -22626,12 +22672,12 @@ kasiru:
   class: b.oro
   category: root
   translation: 'n: break (<em>fracture, rupture</em>); v.tr: break; v.intr (optional
-    -cu): break'
+    use of -cu): break'
 kasirucu:
   term: kasirucu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): break'
+  translation: 'v.intr (optional use of -cu): break'
 kasirucunenabil:
   term: kasirucunenabil
   class: t
@@ -23568,12 +23614,13 @@ klosi:
   term: klosi
   class: b.oro.harka
   category: root
-  translation: 'n: closure; v.tr: close, shut; v.intr (optional -cu): close, shut'
+  translation: 'n: closure; v.tr: close, shut; v.intr (optional use of -cu): close,
+    shut'
 klosicu:
   term: klosicu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): close, shut'
+  translation: 'v.intr (optional use of -cu): close, shut'
 klosicune:
   term: klosicune
   class: t
@@ -23903,7 +23950,7 @@ kombina:
   term: kombina
   class: b.oro
   category: root
-  translation: 'n: combination; v.tr: combine; v.intr (optional -cu): combine'
+  translation: 'n: combination; v.tr: combine; v.intr (optional use of -cu): combine'
 kombinado:
   term: kombinado
   class: t
@@ -24281,7 +24328,7 @@ kontraste:
   term: kontraste
   class: b.oro
   category: root
-  translation: 'n: contrast; v.tr: contrast; v.intr (optional -cu): contrast'
+  translation: 'n: contrast; v.tr: contrast; v.intr (optional use of -cu): contrast'
 kontrastedo:
   term: kontrastedo
   class: t
@@ -24607,8 +24654,8 @@ krampe:
   class: b.oro.harka
   category: root
   translation: 'n: contraction, convulsion, seizure, spasm, cramp, twitch; v.tr: contract,
-    convulse, spasm, cramp, twitch, clench; v.intr (optional -cu): contract, convulse,
-    spasm, cramp, twitch, clench'
+    convulse, spasm, cramp, twitch, clench; v.intr (optional use of -cu): contract,
+    convulse, spasm, cramp, twitch, clench'
 krasi:
   term: krasi
   class: b.oj
@@ -25348,7 +25395,7 @@ kweten:
   class: b.oro
   category: root
   translation: 'n: defect, flaw, shortcoming; v.tr: break (<em>make defective</em>);
-    v.intr (optional -cu): break (<em>become defective</em>)'
+    v.intr (optional use of -cu): break (<em>become defective</em>)'
 kwetendo:
   term: kwetendo
   class: t
@@ -26114,7 +26161,7 @@ letajwan:
   term: letajwan
   class: b.oro.harka
   category: derived
-  translation: 'n: flip; v.tr: flip; v.intr (optional -cu): flip (face-down/face-up)'
+  translation: 'n: flip; v.tr: flip; v.intr (optional use of -cu): flip (face-down/face-up)'
 letali:
   term: letali
   class: t
@@ -26923,7 +26970,7 @@ lubrika:
   term: lubrika
   class: b.oro
   category: root
-  translation: 'n: lubrication; v.tr: lubricate; v.intr (optional -cu): lubricate'
+  translation: 'n: lubrication; v.tr: lubricate; v.intr (optional use of -cu): lubricate'
 lubrikaabil:
   term: lubrikaabil
   class: t
@@ -27593,7 +27640,7 @@ malforma:
   class: b.oro
   category: derived
   translation: 'n: misformation, malformation, deformation; v.tr: misform, malform,
-    deform; v.intr (optional -cu): get misformed, get malformed, get deformed'
+    deform; v.intr (optional use of -cu): get misformed, get malformed, get deformed'
 malgida:
   term: malgida
   class: b.oj
@@ -29296,8 +29343,8 @@ metabolis:
   term: metabolis
   class: b.oro
   category: root
-  translation: 'n: metabolism; v.tr: metabolize, metabolise; v.intr (optional -cu):
-    metabolize, metabolise'
+  translation: 'n: metabolism; v.tr: metabolize, metabolise; v.intr (optional use
+    of -cu): metabolize, metabolise'
 metabolisli:
   term: metabolisli
   class: t
@@ -29454,7 +29501,7 @@ meylu:
   class: b.oro.harka
   category: root
   translation: 'n: slope, inclination, incline, slant, bank, tilt; v.tr: incline,
-    tilt; v.intr (optional -cu): incline, tilt'
+    tilt; v.intr (optional use of -cu): incline, tilt'
 meyludo:
   term: meyludo
   class: t
@@ -30108,8 +30155,8 @@ moja:
   term: moja
   class: b.oro.harka
   category: root
-  translation: 'n: wave (<em>broad sense</em>); v.tr: undulate; v.intr (optional -cu):
-    undulate'
+  translation: 'n: wave (<em>broad sense</em>); v.tr: undulate; v.intr (optional use
+    of -cu): undulate'
 mojagwaho:
   term: mojagwaho
   class: b
@@ -33579,7 +33626,7 @@ oruga:
   term: oruga
   class: b.oro
   category: root
-  translation: 'n: wrinkle, furrow; v.tr: wrinkle; v.intr (optional -cu): wrinkle'
+  translation: 'n: wrinkle, furrow; v.tr: wrinkle; v.intr (optional use of -cu): wrinkle'
 orugado:
   term: orugado
   class: t
@@ -34680,7 +34727,8 @@ pena:
   term: pena
   class: b.oro
   category: root
-  translation: 'n: foam, spume; v.tr: foam, froth; v.intr (optional -cu): foam, froth'
+  translation: 'n: foam, spume; v.tr: foam, froth; v.intr (optional use of -cu): foam,
+    froth'
 penci:
   term: penci
   class: b.oj
@@ -34835,7 +34883,7 @@ perfleksi:
   term: perfleksi
   class: b.oro.harka
   category: derived
-  translation: 'n: fold; v.tr: fold; v.intr (optional -cu): fold'
+  translation: 'n: fold; v.tr: fold; v.intr (optional use of -cu): fold'
 perfora:
   term: perfora
   class: b.oj
@@ -35996,7 +36044,7 @@ posenfeksi:
   class: b.oro
   category: derived
   translation: 'n: disinfection; v.tr: disinfect, sanitize, sanitise; v.intr (optional
-    -cu): get disinfected, get sanitized, get sanitised'
+    use of -cu): get disinfected, get sanitized, get sanitised'
 posenfeksiente:
   term: posenfeksiente
   class: b
@@ -36697,7 +36745,7 @@ proyeksi:
   class: b.oro
   category: root
   translation: 'n: projection (<em>display</em>); v.tr: project; v.intr (optional
-    -cu): project'
+    use of -cu): project'
 proyeksido:
   term: proyeksido
   class: t
@@ -36881,7 +36929,7 @@ radya:
   term: radya
   class: b.oro
   category: root
-  translation: 'n: ray, beam; v.tr: radiate; v.intr (optional -cu): radiate'
+  translation: 'n: ray, beam; v.tr: radiate; v.intr (optional use of -cu): radiate'
 radyagrafi:
   term: radyagrafi
   class: b
@@ -37538,7 +37586,7 @@ riproduti:
   term: riproduti
   class: b.oro
   category: derived
-  translation: 'n: reproduction; v.tr: reproduce; v.intr (optional -cu): reproduce'
+  translation: 'n: reproduction; v.tr: reproduce; v.intr (optional use of -cu): reproduce'
 riprodutili:
   term: riprodutili
   class: t
@@ -37654,8 +37702,8 @@ rol:
   term: rol
   class: b.oj.ru; b.nenoj.p
   category: root
-  translation: 'n: role, part; v.tr: play (<em>a part, a role</em>); v.intr: play
-    a role, participate, take part, be involved'
+  translation: 'n: role, part, involvement; v.tr: play (<em>a part, a role</em>);
+    v.intr: play a role, participate, take part, be involved'
 rolyen:
   term: rolyen
   class: b
@@ -37715,7 +37763,7 @@ rota:
   term: rota
   class: b.oro.harka
   category: root
-  translation: 'n: rotation; v.tr: rotate; v.intr (optional -cu): rotate'
+  translation: 'n: rotation; v.tr: rotate; v.intr (optional use of -cu): rotate'
 rotacune:
   term: rotacune
   class: t
@@ -37863,6 +37911,11 @@ rujiwagi:
   category: derived
   translation: 'n: resurrection, resuscitation, revival; v.tr: resurrect, resuscitate,
     revive, bring back to life'
+rujunigi:
+  term: rujunigi
+  class: b.oj
+  category: derived
+  translation: 'n: rejuvenation; v.tr: rejuvenate'
 rujwan:
   term: rujwan
   class: b.oro.harka
@@ -38049,7 +38102,7 @@ rutyao:
   class: b.oro.harka
   category: derived
   translation: 'n: bounce, rebound, ricochet; v.tr: bounce, rebound, ricochet, spring
-    (back); v.intr (optional -cu): bounce, rebound, ricochet, spring (back)'
+    (back); v.intr (optional use of -cu): bounce, rebound, ricochet, spring (back)'
 rutyaocune:
   term: rutyaocune
   class: t
@@ -39154,7 +39207,7 @@ sela:
   class: b.oro
   category: root
   translation: 'n: flood, deluge, inundation; v.tr: flood, inundate; v.intr (optional
-    -cu): flood, inundate'
+    use of -cu): flood, inundate'
 selado:
   term: selado
   class: t
@@ -39515,6 +39568,11 @@ sentay:
   class: b
   category: root
   translation: 'n: moss'
+senti:
+  term: senti
+  class: b
+  category: root
+  translation: 'n: cent'
 senyor:
   term: senyor
   class: b
@@ -40041,7 +40099,7 @@ sinkroniza:
   class: b.oro
   category: root
   translation: 'n: synchronization, synchronisation; v.tr: synchronize, synchronise,
-    sync; v.intr (optional -cu): synchronize, sync'
+    sync; v.intr (optional use of -cu): synchronize, sync'
 sinkronizado:
   term: sinkronizado
   class: t
@@ -40478,7 +40536,7 @@ solusi:
   class: b.oro
   category: root
   translation: 'n: solution (<em>chemistry</em>); v.tr: dissolve; v.intr (optional
-    -cu): dissolve'
+    use of -cu): dissolve'
 solusido:
   term: solusido
   class: t
@@ -40560,12 +40618,12 @@ sonxi:
   class: b.oro
   category: root
   translation: 'n: loss; v.tr: lose (<em>opposite of find</em>), misplace; v.intr
-    (optional -cu): get lost'
+    (optional use of -cu): get lost'
 sonxicu:
   term: sonxicu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): get lost'
+  translation: 'v.intr (optional use of -cu): get lost'
 sonxido:
   term: sonxido
   class: t
@@ -40982,7 +41040,7 @@ sungay:
   class: b.oro
   category: root
   translation: 'n: damage, harm, injury; v.tr: damage, harm, injure, hurt; v.intr
-    (optional -cu): get damaged, get harmed, get injured, get hurt'
+    (optional use of -cu): get damaged, get harmed, get injured, get hurt'
 sungaydo:
   term: sungaydo
   class: t
@@ -42660,8 +42718,8 @@ teslimu:
   term: teslimu
   class: b.oro
   category: root
-  translation: 'n: surrender; v.tr: surrender, quit; v.intr (optional -cu): surrender
-    (to), succumb (to), give in (to), give up, resign, quit'
+  translation: 'n: surrender; v.tr: surrender, quit; v.intr (optional use of -cu):
+    surrender (to), succumb (to), give in (to), give up, resign, quit'
 tesu:
   term: tesu
   class: su s
@@ -43056,7 +43114,7 @@ token_un:
   term: token un
   class: b
   category: phrase
-  translation: 'n: one-cent piece, cent, penny'
+  translation: 'n: one-cent piece, penny'
 tomas:
   term: Tomas
   class: su n
@@ -43138,6 +43196,11 @@ tonergoyen:
   class: b
   category: derived
   translation: 'n: colleague, co-worker'
+tonespiral:
+  term: tonespiral
+  class: b.oj
+  category: derived
+  translation: 'n: entanglement; v.tr: entangle, intertwine'
 tonga:
   term: Tonga
   class: su n
@@ -43254,7 +43317,7 @@ tonyunhe:
   term: tonyunhe
   class: b.oro
   category: derived
-  translation: 'n: fusion; v.tr: fuse; v.intr (optional -cu): fuse'
+  translation: 'n: fusion; v.tr: fuse; v.intr (optional use of -cu): fuse'
 topazi:
   term: topazi
   class: b
@@ -43588,8 +43651,8 @@ treme:
   term: treme
   class: b.oro.harka
   category: root
-  translation: 'n: shaking, trembling; v.tr: shake; v.intr (optional -cu): shake,
-    tremble'
+  translation: 'n: shaking, trembling; v.tr: shake; v.intr (optional use of -cu):
+    shake, tremble'
 tremecune:
   term: tremecune
   class: t
@@ -43805,8 +43868,8 @@ tumor:
   term: tumor
   class: b.oro
   category: root
-  translation: 'n: tumor, tumour; v.tr: cause tumors; v.intr (optional -cu): get a
-    tumor, get tumors, become tumorous'
+  translation: 'n: tumor, tumour; v.tr: cause tumors; v.intr (optional use of -cu):
+    get a tumor, get tumors, become tumorous'
 tuna:
   term: tuna
   class: b
@@ -44091,8 +44154,8 @@ uflasi:
   term: uflasi
   class: b.oro
   category: root
-  translation: 'n: bankruptcy, insolvency; v.tr: bankrupt; v.intr (optional -cu):
-    go bankrupt, become insolvent'
+  translation: 'n: bankruptcy, insolvency; v.tr: bankrupt; v.intr (optional use of
+    -cu): go bankrupt, become insolvent'
 uflasido:
   term: uflasido
   class: t
@@ -44190,7 +44253,7 @@ ulcera:
   class: b.oro
   category: root
   translation: 'n: ulcer, sore; v.tr: ulcerate (<em>cause ulcers</em>); v.intr (optional
-    -cu): ulcerate (<em>get ulcers</em>)'
+    use of -cu): ulcerate (<em>get ulcers</em>)'
 ultra:
   term: ultra
   class: p
@@ -44400,7 +44463,7 @@ urjuha:
   term: urjuha
   class: b.oro.harka
   category: root
-  translation: 'n: swing; v.tr: swing; v.intr (optional -cu): swing'
+  translation: 'n: swing; v.tr: swing; v.intr (optional use of -cu): swing'
 urjuhacune:
   term: urjuhacune
   class: t
@@ -44785,7 +44848,7 @@ vibra:
   term: vibra
   class: b.oro.harka
   category: root
-  translation: 'n: vibration; v.tr: vibrate; v.intr (optional -cu): vibrate'
+  translation: 'n: vibration; v.tr: vibrate; v.intr (optional use of -cu): vibrate'
 vibracune:
   term: vibracune
   class: t
@@ -44866,8 +44929,8 @@ virus:
   term: virus
   class: b.oro
   category: root
-  translation: 'n: virus; v.tr: infect with a virus; v.intr (optional -cu): get infected
-    with a virus'
+  translation: 'n: virus; v.tr: infect with a virus; v.intr (optional use of -cu):
+    get infected with a virus'
 virusli:
   term: virusli
   class: t
@@ -45133,13 +45196,13 @@ wakufa:
   term: wakufa
   class: b.oro.harka
   category: root
-  translation: 'n: pause, break; v.tr: pause; v.intr (optional -cu): pause, take a
-    break'
+  translation: 'n: pause, break; v.tr: pause; v.intr (optional use of -cu): pause,
+    take a break'
 wakufacu:
   term: wakufacu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): pause'
+  translation: 'v.intr (optional use of -cu): pause'
 wakufado:
   term: wakufado
   class: t
@@ -45890,7 +45953,7 @@ xanhun:
   term: xanhun
   class: b.oro
   category: root
-  translation: 'n: scar, cicatrix; v.tr: scar; v.intr (optional -cu): scar'
+  translation: 'n: scar, cicatrix; v.tr: scar; v.intr (optional use of -cu): scar'
 xanhundo:
   term: xanhundo
   class: t
@@ -46322,7 +46385,7 @@ xinxiku:
   class: b.oro
   category: root
   translation: 'n: erosion, wear; v.tr: erode, wear down, wear out, eat away (at);
-    v.intr (optional -cu): erode, wear away'
+    v.intr (optional use of -cu): erode, wear away'
 xinxikudo:
   term: xinxikudo
   class: t
@@ -46428,7 +46491,7 @@ xoku:
   term: xoku
   class: b.oro
   category: root
-  translation: 'n: shock; v.tr: shock; v.intr (optional -cu): get shocked'
+  translation: 'n: shock; v.tr: shock; v.intr (optional use of -cu): get shocked'
 xokuabil:
   term: xokuabil
   class: t
@@ -46479,7 +46542,7 @@ xoratex:
   class: b.oro
   category: derived
   translation: 'n: ignition; v.tr: ignite, set on fire, light (<em>with fire</em>);
-    v.intr (optional -cu): ignite, catch fire'
+    v.intr (optional use of -cu): ignite, catch fire'
 xorestay:
   term: xorestay
   class: b.nenoj
@@ -46629,6 +46692,11 @@ xorpilo:
   translation: 'v.tr: make (<em>something/somebody</em>) tired, cause (<em>somebody</em>)
     to become tired, make (<em>something/somebody</em>) fatigued, cause (<em>somebody</em>)
     to become fatigued; v.intr: tire, get tired, get fatigued'
+xorrol:
+  term: xorrol
+  class: b.nenoj
+  category: derived
+  translation: 'v.intr: become involved in'
 xorsen:
   term: xorsen
   class: b.lin
@@ -46659,12 +46727,12 @@ xoru:
   class: b.oro
   category: root
   translation: 'n: beginning, start, initiation; v.tr: begin, start, initiate; v.intr
-    (optional -cu): begin, start'
+    (optional use of -cu): begin, start'
 xorucu:
   term: xorucu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): begin, start'
+  translation: 'v.intr (optional use of -cu): begin, start'
 xorucune:
   term: xorucune
   class: t
@@ -46922,7 +46990,7 @@ yake:
   term: yake
   class: b.oro
   category: root
-  translation: 'n: burn; v.tr: burn; v.intr (optional -cu): burn'
+  translation: 'n: burn; v.tr: burn; v.intr (optional use of -cu): burn'
 yakecune:
   term: yakecune
   class: t
@@ -47528,12 +47596,12 @@ yunhe:
   term: yunhe
   class: b.oro
   category: root
-  translation: 'n: melting; v.tr: melt; v.intr (optional -cu): melt'
+  translation: 'n: melting; v.tr: melt; v.intr (optional use of -cu): melt'
 yunhecu:
   term: yunhecu
   class: b.nenoj
   category: derived
-  translation: 'v.intr (optional -cu): melt'
+  translation: 'v.intr (optional use of -cu): melt'
 yunhecune:
   term: yunhecune
   class: t
@@ -47781,8 +47849,8 @@ zigzagu:
   term: zigzagu
   class: b.oro.harka
   category: root
-  translation: 'n: zigzag, zig-zag; v.tr: zigzag, zig-zag; v.intr (optional -cu):
-    zigzag, zig-zag'
+  translation: 'n: zigzag, zig-zag; v.tr: zigzag, zig-zag; v.intr (optional use of
+    -cu): zigzag, zig-zag'
 zigzagucune:
   term: zigzagucune
   class: t
