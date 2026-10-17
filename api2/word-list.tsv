@@ -5100,7 +5100,7 @@ mwa	root	b.oj	n: kiss; v.tr: kiss	s: kiso; v.tr: kisi	s: beso; v.tr: besar	kwasi
 nagal	root	b.oj	n: plow, plough; v.tr: plow, plough	s: plugilo; v.tr: plugi	s: arado; v.tr: arar	tul			Hindi (नांगल “nangal”), Telugusa (నాగలి “nagali”)					TRUE								
 nage	root	b.oj	n: gnawing; v.tr: gnaw	s: ronĝo; v.tr: ronĝi	s: roedura, mordisqueo; v.tr: roer				Englisa (gnaw), Doycisa (nagen), Pilipinasa (ngatngat), Arabisa (نَخَرَ “nahara”), Vyetnamsa (gặm nhấm “gam nem”, nhằn “nan”)					FALSE								
 name	root	b.oj	n: name; v.tr: have as name, be named, be called	s: nomo; v.tr: nomiĝi	s: nombre; v.tr: llamarse, tener por nombre	500 maxim pimpan genulexi ji fikso, bage 2 de lista 500			Englisa (name, nominate), Doycisa (Name), Espanisa (nombre), Fransesa (nom), Hindi (नाम “nam”), Indonesisa (nama), Niponsa (名前 “namae”), Taysa (นาม “nam”), Telugusa (నామము “namamu”)					TRUE								
-namegi	derived	b.oj	n: naming; v.tr: name (_give name_)	s: nomado; v.tr: nomi	s: denominación; v.tr: nombrar, denominar, poner nombre a				name + -gi					FALSE								
+namegi	derived	b.oj	n: naming; v.tr: name (_give name_), call	s: nomado; v.tr: nomi	s: denominación; v.tr: nombrar, denominar, poner nombre a				name + -gi					FALSE								
 naremgi	derived	b.oj	n: softening; v.tr: soften, make (_something/somebody_) soft	s: moligo; v.tr: moligi	s: ablandamiento, reblandecimiento; v.tr: ablandar, suavizar				narem + -gi					FALSE								
 nasa	root	b.oj	n: nose; v.tr: smell	s: nazo; v.tr: flari	s: nariz; v.tr: oler, olfatear	jismulogi, ganci			Englisa (nose, nasal), Fransesa (nasal), Doycisa (nase, nasal), Rusisa (назальный “nazalniy”), Espanisa (nasal), Swahilisa (-nusa), Hindi (नाक “nak”), Sinhalasa (නාසය “naseye”)					TRUE	Nase; riechen			鼻子, 鼻; 闻, 嗅	नाक, नासिका; सूँघना	أَنْف, خَشَم; شَمَّ, اِشْتَمَّ		
 nasibu	root	b.oj	n: fit; v.tr: fit, be fitting (for), suit, be suitable (for)	s: taŭgo; v.tr: taŭgi	s: idoneidad, conveniencia; v.tr: convenir, ser adecuado (para), ser apto (para)				Arabisa (نَاسَبَ “nasaba”, يُنَاسِبُ “yunasibu”, مُنَاسِب “munasib”), Parsisa (مُناسِب “monaseb”), Turkisa (münasip), Hindi (मुनासिब “munasib”)					TRUE								
@@ -5354,7 +5354,7 @@ somnogi	derived	b.oj	v.tr: cause (_somebody_) to sleep, make (_somebody_) sleep,
 sotigi	derived	b.oj	v.tr: (cause to make a) sound, play (_instrument_)	s: sonigo, ludo; v.tr: sonigi, ludi (muzikilon)	v.tr: hacer sonar, tocar (_un instrumento_)				soti + -gi					FALSE								
 submiti	root	b.oj	n: submission; v.tr: submit (_a proposal, application, or other document for consideration_), file, present	s: submeto; v.tr: submeti, prezenti, proponi, sendi	s: presentación, entrega; v.tr: presentar, entregar, someter				Englisa (submission, submit), Fransesa (soumission, soumettre), Pilipinasa (submission, isumite), Hindi (सबमिशन “sabmixan”, सबमिट करें “sabmit karen”)					FALSE								
 suhegi	derived	b.oj	n: drying; v.tr: dry, make (_something/somebody_) dry	s: sekigo; v.tr: sekigi	s: secado; v.tr: secar				suhe + -gi			gilegi		FALSE								
-sui	root	b.oj	n: water; v.tr: water, irrigate	s: akvo; v.tr: akvumi	s: agua; v.tr: regar, irrigar	500 maxim pimpan genulexi ji fikso, bage 4 de lista 500, gluxey, natura			Putunhwa (水 “xwey”), Niponsa (水 “mizu”), Turkisa (su)					TRUE	S: Wasser	n: eau	сущ: вода	名: 水	सं: पानी, जल	اسم: مَاء		
+sui	root	b.oj	n: water; v.tr: water, irrigate	s: akvo; v.tr: akvumi	s: agua; v.tr: regar, irrigar	500 maxim pimpan genulexi ji fikso, bage 4 de lista 500, gluxey, natura			Putunhwa (水 “xwey”), Niponsa (水 “su-”), Koreasa (수 “su-”),  Turkisa (su)					TRUE	S: Wasser	n: eau	сущ: вода	名: 水	सं: पानी, जल	اسم: مَاء		
 suki	root	b.oj	n: like; v.tr: like	s: ŝato; v.tr: ŝati	s: gusto, agrado; v.tr: gustar, agradar	500 maxim pimpan genulexi ji fikso, bage 2 de lista 500			Indonesisa (suka), Niponsa (好き “suki”), Hindi (सुख “suk” - furaha)			possuki		TRUE								
 sukigi	derived	b.oj	v.tr: please, be pleasing to, appeal (to), be appealing (to)	s: plaĉo, ŝatigo; v.tr: plaĉi, ŝatigi	s: agrado; v.tr: agradar, gustar (a), resultar atractivo (a)				suki + -gi					FALSE								
 suko	root	b.oj	n: rinse; v.tr: rinse (one's mouth)	n: tralavo; v.tr: tralavi (buŝon)	v.tr: hacer buches				Putunhwa (漱口 “xukow”), Niponsa (すすぐ “susugu”), Swahilisa (sukutua)					FALSE								
@@ -9502,6 +9502,19 @@ junitim	derived	b	n: youth (_people_)	s: junularo	s: juventud (_conjunto_)				ju
 rujunigi	derived	b.oj	n: rejuvenation; v.tr: rejuvenate	s: rejunigo; v.tr: rejunigi	s: rejuvenecimiento; v.tr: rejuvenecer				ru- + juni + -gi					FALSE								
 artifako	derived	b	n: artefact, artifact	s: artefakto	s: artefacto				Englisa (artifact), Niponsa (アーティファクト “atifakuto”), Indonesisa (artefak), Fransesa (artéfact), Doycisa (Artefakt), Italisa (artefatto), Portugalsa (artefato), Rusisa (артефакт “artefakt”), Espanisa (artefacto), Turkisa (artefakt)					FALSE								
 senti	root	b	n: cent	s: cendo	s: centavo, céntimo, centésimo	ekonomi			Arabisa (سنت “sint”), Doycisa (Cent), Englisa (cent), Espanisa (centavo, céntimo, centésimo), Fransesa (cent, centime), Hindi (सेंट “sent”), Indonesisa (sen), Koreasa (센트 “sentu”), Niponsa (セント “sento”), Parsisa (سنت “sent”), Rusisa (цент “tsent”), Swahilisa (senti), Telugusa (సెంట్ “sent”), Turkisa (sent)					FALSE								
+														FALSE								
+														FALSE								
+														FALSE								
+														FALSE								
+														FALSE								
+														FALSE								
+														FALSE								
+														FALSE								
+														FALSE								
+														FALSE								
+														FALSE								
+														FALSE								
+														FALSE								
 														FALSE								
 														FALSE								
 														FALSE								
