@@ -23523,7 +23523,7 @@ aplikaible:
 aplikaxey:
   term: aplikaxey
   word class: b
-  category: root
+  category: derived
   trans:
     eng:
     - - 'n: application'
@@ -81346,6 +81346,45 @@ cinmi:
       Koreasa: 친밀하다 &ldquo;cinmilhada&rdquo;
       Niponsa: 親密 &ldquo;xinmitsu&rdquo;
       Putunhwa: 亲密 &ldquo;cinmi&rdquo;
+cinmiya:
+  term: cinmiya
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: intimacy'
+      - closeness
+    epo: []
+    spa:
+    - - 's: intimidad'
+      - cercanía
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - intimacy
+      - closeness
+    epo: []
+    spa:
+      s:
+      - intimidad
+      - cercanía
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - cinmi
+    - +
+    - -ya
 cinon:
   term: cinon
   word class: b.oro.jotay
@@ -82270,7 +82309,8 @@ cipu:
     epo:
     - - 's: integra cirkitvo'
       - ico
-    spa: []
+    spa:
+    - - 's: chip (informático)'
     deu: []
     fra: []
     rus: []
@@ -82285,7 +82325,9 @@ cipu:
       s:
       - integra cirkitvo
       - ico
-    spa: []
+    spa:
+      s:
+      - chip (informático)
     deu: []
     fra: []
     rus: []
@@ -89443,7 +89485,11 @@ dambikal:
     epo:
     - - 'adj: senpeka'
     - - 'adv: senpeke'
-    spa: []
+    spa:
+    - - 'adj: sin pecado'
+      - inocente
+    - - 'adv: sin pecado'
+      - inocentemente
     deu: []
     fra: []
     rus: []
@@ -89463,7 +89509,13 @@ dambikal:
       - senpeka
       adv:
       - senpeke
-    spa: []
+    spa:
+      adj:
+      - sin pecado
+      - inocente
+      adv:
+      - sin pecado
+      - inocentemente
     deu: []
     fra: []
     rus: []
@@ -96563,7 +96615,9 @@ dayinxone:
       - splendid
     epo:
     - - 'adj: impresega'
-    spa: []
+    spa:
+    - - 'adj: magnífico'
+      - espléndido
     deu: []
     fra: []
     rus: []
@@ -96578,7 +96632,10 @@ dayinxone:
     epo:
       adj:
       - impresega
-    spa: []
+    spa:
+      adj:
+      - magnífico
+      - espléndido
     deu: []
     fra: []
     rus: []
@@ -108248,7 +108305,10 @@ disforma:
     - - 's: malintegriĝo'
     - - 'v.tr: malintegrigi'
     - - 'v.ntr: malintegriĝi'
-    spa: []
+    spa:
+    - - 's: desintegración'
+    - - 'v.tr: desintegrar'
+    - - 'v.intr: desintegrarse'
     deu: []
     fra: []
     rus: []
@@ -108271,7 +108331,13 @@ disforma:
       - malintegrigi
       v.ntr:
       - malintegriĝi
-    spa: []
+    spa:
+      s:
+      - desintegración
+      v.tr:
+      - desintegrar
+      v.intr:
+      - desintegrarse
     deu: []
     fra: []
     rus: []
@@ -125128,7 +125194,9 @@ ehtiramlaye:
       - decent
     epo:
     - - 'adj: respektinda'
-    spa: []
+    spa:
+    - - 'adj: respetable'
+      - decente
     deu: []
     fra: []
     rus: []
@@ -125143,7 +125211,10 @@ ehtiramlaye:
     epo:
       adj:
       - respektinda
-    spa: []
+    spa:
+      adj:
+      - respetable
+      - decente
     deu: []
     fra: []
     rus: []
@@ -136093,7 +136164,9 @@ espontan:
     epo:
     - - 'adj: spontanea'
     - - 'adv: spontanee'
-    spa: []
+    spa:
+    - - 'adj: espontáneo'
+    - - 'adv: espontáneamente'
     deu: []
     fra: []
     rus: []
@@ -136111,7 +136184,11 @@ espontan:
       - spontanea
       adv:
       - spontanee
-    spa: []
+    spa:
+      adj:
+      - espontáneo
+      adv:
+      - espontáneamente
     deu: []
     fra: []
     rus: []
@@ -136136,7 +136213,8 @@ espontanya:
     - - 'n: spontaneity'
     epo:
     - - 's: spontaneeco'
-    spa: []
+    spa:
+    - - 's: espontaneidad'
     deu: []
     fra: []
     rus: []
@@ -136150,7 +136228,9 @@ espontanya:
     epo:
       s:
       - spontaneeco
-    spa: []
+    spa:
+      s:
+      - espontaneidad
     deu: []
     fra: []
     rus: []
@@ -194332,7 +194412,10 @@ hajagi:
       - entail
     epo:
     - - 'v.tr : necesigi'
-    spa: []
+    spa:
+    - - 'v.tr: requerir'
+      - implicar
+      - conllevar
     deu: []
     fra: []
     rus: []
@@ -194348,7 +194431,11 @@ hajagi:
     epo:
       v.tr:
       - necesigi
-    spa: []
+    spa:
+      v.tr:
+      - requerir
+      - implicar
+      - conllevar
     deu: []
     fra: []
     rus: []
@@ -218924,7 +219011,9 @@ inburhalucu:
       - become entangled
     epo:
     - - 'v.ntr: implikiĝi'
-    spa: []
+    spa:
+    - - 'v.intr: verse implicado'
+      - quedar enredado
     deu: []
     fra: []
     rus: []
@@ -218939,7 +219028,10 @@ inburhalucu:
     epo:
       v.ntr:
       - implikiĝi
-    spa: []
+    spa:
+      v.intr:
+      - verse implicado
+      - quedar enredado
     deu: []
     fra: []
     rus: []
@@ -218965,7 +219057,10 @@ inburhalugi:
       - entangle
     epo:
     - - 'v.tr: impliki'
-    spa: []
+    spa:
+    - - 'v.tr: implicar'
+      - enredar
+      - involucrar
     deu: []
     fra: []
     rus: []
@@ -218980,7 +219075,11 @@ inburhalugi:
     epo:
       v.tr:
       - impliki
-    spa: []
+    spa:
+      v.tr:
+      - implicar
+      - enredar
+      - involucrar
     deu: []
     fra: []
     rus: []
@@ -328272,7 +328371,9 @@ master:
       - master's degree holder
     epo:
     - - 's: magistro'
-    spa: []
+    spa:
+    - - 's: magíster'
+      - persona con maestría
     deu: []
     fra: []
     rus: []
@@ -328287,7 +328388,10 @@ master:
     epo:
       s:
       - magistro
-    spa: []
+    spa:
+      s:
+      - magíster
+      - persona con maestría
     deu: []
     fra: []
     rus: []
@@ -348362,7 +348466,10 @@ mogekalyen:
     - - 'n: dumbass'
     epo:
     - - 's: ŝtipkapulo'
-    spa: []
+    spa:
+    - - 's: idiota'
+      - imbécil
+      - estúpido
     deu: []
     fra: []
     rus: []
@@ -348376,7 +348483,11 @@ mogekalyen:
     epo:
       s:
       - ŝtipkapulo
-    spa: []
+    spa:
+      s:
+      - idiota
+      - imbécil
+      - estúpido
     deu: []
     fra: []
     rus: []
@@ -367958,6 +368069,49 @@ nenojetoli_falelexi:
     - nenojetoli
     - ','
     - falelexi
+nenparixkrita:
+  term: nenparixkrita
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: crude'
+      - unsophisticated
+      - coarse
+    epo: []
+    spa:
+    - - 'adj: tosco'
+      - poco sofisticado
+      - burdo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - crude
+      - unsophisticated
+      - coarse
+    epo: []
+    spa:
+      adj:
+      - tosco
+      - poco sofisticado
+      - burdo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - nen-
+    - +
+    - parixkrita
 nenperfeto:
   term: nenperfeto
   word class: t
@@ -379273,11 +379427,10 @@ oco:
       - ثَمَانِيَة
   etymology:
     natlang:
-      Doycisa: okto-, acht
+      Doycisa: okto-
       Englisa: octo-
       Espanisa: ocho
       Fransesa: octo-, octante
-      Hindi: अष्ट &ldquo;axt&rdquo;
 ococen:
   term: ococen
   word class: num
@@ -384270,7 +384423,9 @@ olawia:
     epo:
     - - 's: prioritato'
     - - 'v.tr: prioritatigi'
-    spa: []
+    spa:
+    - - 's: prioridad'
+    - - 'v.tr: priorizar'
     deu: []
     fra: []
     rus: []
@@ -384288,7 +384443,11 @@ olawia:
       - prioritato
       v.tr:
       - prioritatigi
-    spa: []
+    spa:
+      s:
+      - prioridad
+      v.tr:
+      - priorizar
     deu: []
     fra: []
     rus: []
@@ -386041,7 +386200,9 @@ ordenufil:
       - neat
     epo:
     - - 'adj: ordema'
-    spa: []
+    spa:
+    - - 'adj: ordenado'
+      - organizado
     deu: []
     fra: []
     rus: []
@@ -386058,7 +386219,10 @@ ordenufil:
     epo:
       adj:
       - ordema
-    spa: []
+    spa:
+      adj:
+      - ordenado
+      - organizado
     deu: []
     fra: []
     rus: []
@@ -386081,7 +386245,9 @@ ordenunenfil:
       - messy
     epo:
     - - 'adj: malordema'
-    spa: []
+    spa:
+    - - 'adj: desordenado'
+      - desorganizado
     deu: []
     fra: []
     rus: []
@@ -386097,7 +386263,10 @@ ordenunenfil:
     epo:
       adj:
       - malordema
-    spa: []
+    spa:
+      adj:
+      - desordenado
+      - desorganizado
     deu: []
     fra: []
     rus: []
@@ -396561,6 +396730,83 @@ parexanya:
   etymology:
     derived:
     - parexan
+    - +
+    - -ya
+parixkrita:
+  term: parixkrita
+  word class: t
+  category: root
+  trans:
+    eng:
+    - - 'adj: refined'
+      - sophisticated
+    epo: []
+    spa:
+    - - 'adj: refinado'
+      - sofisticado
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - refined
+      - sophisticated
+    epo: []
+    spa:
+      adj:
+      - refinado
+      - sofisticado
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Hindi: परिष्कृत &ldquo;parixkrit&rdquo;
+      Telugusa: పరిష్కృత &ldquo;parixkruta&rdquo;
+parixkritaya:
+  term: parixkritaya
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: refinement'
+      - sophistication
+    epo: []
+    spa:
+    - - 's: refinamiento'
+      - sofisticación
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - refinement
+      - sophistication
+    epo: []
+    spa:
+      s:
+      - refinamiento
+      - sofisticación
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - parixkrita
     - +
     - -ya
 parke:
@@ -417906,7 +418152,11 @@ posjawgu:
       - malzorgo
     - - 'v.tr: neglekti'
       - malzorgi
-    spa: []
+    spa:
+    - - 's: descuido'
+      - negligencia
+    - - 'v.tr: descuidar'
+      - desatender
     deu: []
     fra: []
     rus: []
@@ -417924,7 +418174,13 @@ posjawgu:
       v.tr:
       - neglekti
       - malzorgi
-    spa: []
+    spa:
+      s:
+      - descuido
+      - negligencia
+      v.tr:
+      - descuidar
+      - desatender
     deu: []
     fra: []
     rus: []
@@ -417947,7 +418203,11 @@ posjawgune:
     epo:
     - - 'adj: neglektanta'
       - malzorga
-    spa: []
+    spa:
+    - - 'adj: negligente'
+      - descuidado
+    - - 'adv: negligentemente'
+      - descuidadamente
     deu: []
     fra: []
     rus: []
@@ -417964,7 +418224,13 @@ posjawgune:
       adj:
       - neglektanta
       - malzorga
-    spa: []
+    spa:
+      adj:
+      - negligente
+      - descuidado
+      adv:
+      - negligentemente
+      - descuidadamente
     deu: []
     fra: []
     rus: []
@@ -418423,7 +418689,9 @@ posolawia:
     - - 'v.tr: deprioritize'
     epo:
     - - 'v.tr: malprioritatigi'
-    spa: []
+    spa:
+    - - 'v.tr: quitar prioridad'
+      - dar menos prioridad
     deu: []
     fra: []
     rus: []
@@ -418437,7 +418705,10 @@ posolawia:
     epo:
       v.tr:
       - malprioritatigi
-    spa: []
+    spa:
+      v.tr:
+      - quitar prioridad
+      - dar menos prioridad
     deu: []
     fra: []
     rus: []
@@ -418591,7 +418862,9 @@ posordenufil:
       - messy
     epo:
     - - 'adj: malordema'
-    spa: []
+    spa:
+    - - 'adj: desordenado'
+      - desorganizado
     deu: []
     fra: []
     rus: []
@@ -418607,7 +418880,10 @@ posordenufil:
     epo:
       adj:
       - malordema
-    spa: []
+    spa:
+      adj:
+      - desordenado
+      - desorganizado
     deu: []
     fra: []
     rus: []
@@ -420425,7 +420701,13 @@ praloben:
     - - 's: allogo'
     - - 'v.tr: allogi'
       - delogi
-    spa: []
+    spa:
+    - - 's: tentación'
+      - atracción
+      - seducción
+    - - 'v.tr: tentar'
+      - atraer
+      - seducir
     deu: []
     fra: []
     rus: []
@@ -420448,7 +420730,15 @@ praloben:
       v.tr:
       - allogi
       - delogi
-    spa: []
+    spa:
+      s:
+      - tentación
+      - atracción
+      - seducción
+      v.tr:
+      - tentar
+      - atraer
+      - seducir
     deu: []
     fra: []
     rus: []
@@ -463690,6 +463980,160 @@ sipul:
     - si
     - +
     - -pul
+siraye:
+  term: siraye
+  word class: b.oj
+  category: root
+  trans:
+    eng:
+    - - 'n: contagion'
+      - transmission
+    - - transmit
+      - infect
+    epo: []
+    spa:
+    - - 's: contagio'
+      - transmisión
+    - - 'v.tr: transmitir'
+      - contagiar
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - contagion
+      - transmission
+      verb:
+      - transmit
+      - infect
+    epo: []
+    spa:
+      s:
+      - contagio
+      - transmisión
+      v.tr:
+      - transmitir
+      - contagiar
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Arabisa: سِرَايَة &ldquo;siraya&rdquo;
+      Parsisa: سرایت &ldquo;serayat&rdquo;
+      Turkisa: sirayet
+sirayeabil:
+  term: sirayeabil
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: contagious'
+    epo: []
+    spa:
+    - - 'adj: contagioso'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - contagious
+    epo: []
+    spa:
+      adj:
+      - contagioso
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - siraye
+    - +
+    - -abil
+sirayeible:
+  term: sirayeible
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: contagious'
+    epo: []
+    spa:
+    - - 'adj: contagioso'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - contagious
+    epo: []
+    spa:
+      adj:
+      - contagioso
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - siraye
+    - +
+    - -ible
+sirayepul:
+  term: sirayepul
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: contagious'
+    epo: []
+    spa:
+    - - 'adj: contagioso'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - contagious
+    epo: []
+    spa:
+      adj:
+      - contagioso
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - siraye
+    - +
+    - -pul
 siri:
   term: siri
   word class: b
@@ -467348,10 +467792,13 @@ solkal:
   trans:
     eng:
     - - 'adj: impure'
+      - crude
     epo:
     - - 'adj: malpura'
+      - kruda
     spa:
     - - 'adj: impuro'
+      - crudo
     deu: []
     fra: []
     rus: []
@@ -467362,12 +467809,15 @@ solkal:
     eng:
       adj:
       - impure
+      - crude
     epo:
       adj:
       - malpura
+      - kruda
     spa:
       adj:
       - impuro
+      - crudo
     deu: []
     fra: []
     rus: []
@@ -495506,7 +495956,13 @@ tiltila:
       - shimmer
     epo:
     - - 'v.ntr: brileti'
-    spa: []
+    spa:
+    - - 'v.intr: parpadear'
+      - titilar
+      - centellear
+      - destellar
+      - brillar
+      - relucir
     deu: []
     fra: []
     rus: []
@@ -495525,7 +495981,14 @@ tiltila:
     epo:
       v.ntr:
       - brileti
-    spa: []
+    spa:
+      v.intr:
+      - parpadear
+      - titilar
+      - centellear
+      - destellar
+      - brillar
+      - relucir
     deu: []
     fra: []
     rus: []
@@ -499197,7 +499660,11 @@ tonespiral:
     epo:
     - - 's: interplekto'
     - - 'v: interplekti'
-    spa: []
+    spa:
+    - - 's: enredo'
+      - entrelazamiento
+    - - 'v.tr: enredar'
+      - entrelazar
     deu: []
     fra: []
     rus: []
@@ -499216,7 +499683,13 @@ tonespiral:
       - interplekto
       v:
       - interplekti
-    spa: []
+    spa:
+      s:
+      - enredo
+      - entrelazamiento
+      v.tr:
+      - enredar
+      - entrelazar
     deu: []
     fra: []
     rus: []
@@ -526828,6 +527301,119 @@ wilyemu:
       Putunhwa: 威廉 &ldquo;Weylyan&rdquo;
       Rusisa: Гильом &ldquo;Gilyom&rdquo;
       Swahilisa: Wiliamu
+wimyo:
+  term: wimyo
+  word class: t
+  category: root
+  trans:
+    eng:
+    - - 'adj: subtle'
+      - delicate
+    - - 'adv: subtly'
+      - delicately
+    epo: []
+    spa:
+    - - 'adj: sutil'
+      - delicado
+    - - 'adv: sutilmente'
+      - delicadamente
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - subtle
+      - delicate
+      adv:
+      - subtly
+      - delicately
+    epo: []
+    spa:
+      adj:
+      - sutil
+      - delicado
+      adv:
+      - sutilmente
+      - delicadamente
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Koreasa: 미묘 &ldquo;mimyo&rdquo;
+      Niponsa: 微妙 &ldquo;bimyo&rdquo;
+      Putunhwa: 微妙 &ldquo;weymyaw&rdquo;
+wimyoxey:
+  term: wimyoxey
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: subtlety (<em>countable</em>)'
+    epo: []
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - subtlety (<em>countable</em>)
+    epo: []
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - wimyo
+    - +
+    - -xey
+wimyoya:
+  term: wimyoya
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: subtlety (<em>uncountable</em>)'
+    epo: []
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - subtlety (<em>uncountable</em>)
+    epo: []
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - wimyo
+    - +
+    - -ya
 wisen:
   term: wisen
   word class: b
@@ -539306,7 +539892,8 @@ xorrol:
     - - 'v.intr: become involved in'
     epo:
     - - 'v.ntr: engaĝiĝi (en)'
-    spa: []
+    spa:
+    - - 'v.intr: involucrarse en'
     deu: []
     fra: []
     rus: []
@@ -539320,7 +539907,9 @@ xorrol:
     epo:
       v.ntr:
       - engaĝiĝi (en)
-    spa: []
+    spa:
+      v.intr:
+      - involucrarse en
     deu: []
     fra: []
     rus: []
