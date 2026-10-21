@@ -40876,6 +40876,43 @@ baligu:
       Indonesisa: balig
       Parsisa: بالغ &ldquo;baleg&rdquo;
       Turkisa: baliğ
+baliguyen:
+  term: baliguyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: adult'
+    epo:
+    - - 's: plenkreskulo'
+      - plenaĝulo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - adult
+    epo:
+      s:
+      - plenkreskulo
+      - plenaĝulo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - baligu
+    - +
+    - -yen
 balkon:
   term: balkon
   word class: b
@@ -81306,17 +81343,17 @@ cinjuli_gardanbendu:
     - gardanbendu
 cinmi:
   term: cinmi
-  word class: t
+  word class: b
   category: root
   trans:
     eng:
     - - 'adj: intimate'
       - close
+    - - 'adv: intimate'
     epo:
     - - 'adj: intima'
-    spa:
-    - - 'adj: íntimo'
-      - cercano
+    - - 'adv: intime'
+    spa: []
     deu: []
     fra: []
     rus: []
@@ -81328,24 +81365,21 @@ cinmi:
       adj:
       - intimate
       - close
+      adv:
+      - intimate
     epo:
       adj:
       - intima
-    spa:
-      adj:
-      - íntimo
-      - cercano
+      adv:
+      - intime
+    spa: []
     deu: []
     fra: []
     rus: []
     zho: []
     hin: []
     ara: []
-  etymology:
-    natlang:
-      Koreasa: 친밀하다 &ldquo;cinmilhada&rdquo;
-      Niponsa: 親密 &ldquo;xinmitsu&rdquo;
-      Putunhwa: 亲密 &ldquo;cinmi&rdquo;
+  etymology: ""
 cinmiya:
   term: cinmiya
   word class: b
@@ -81354,7 +81388,8 @@ cinmiya:
     eng:
     - - 'n: intimacy'
       - closeness
-    epo: []
+    epo:
+    - - 's: intimeco'
     spa:
     - - 's: intimidad'
       - cercanía
@@ -81369,7 +81404,9 @@ cinmiya:
       "n":
       - intimacy
       - closeness
-    epo: []
+    epo:
+      s:
+      - intimeco
     spa:
       s:
       - intimidad
@@ -230344,15 +230381,14 @@ ixu:
   category: root
   trans:
     eng:
-    - - 'n: (human) adult'
-      - man
+    - - 'n: man'
       - woman
     epo:
-    - - 's: plenkreskulo'
-      - viro
+    - - 's: viro'
       - virino
     spa:
-    - - 's: adulto'
+    - - 's: hombre'
+      - mujer
     deu:
     - - 'S: Erwachsener'
       - Mann
@@ -230377,17 +230413,16 @@ ixu:
   trans_v2:
     eng:
       "n":
-      - (human) adult
       - man
       - woman
     epo:
       s:
-      - plenkreskulo
       - viro
       - virino
     spa:
       s:
-      - adulto
+      - hombre
+      - mujer
     deu:
       S:
       - Erwachsener
@@ -368078,7 +368113,9 @@ nenparixkrita:
     - - 'adj: crude'
       - unsophisticated
       - coarse
-    epo: []
+    epo:
+    - - 'adj: kruda'
+      - nerafinita
     spa:
     - - 'adj: tosco'
       - poco sofisticado
@@ -368095,7 +368132,10 @@ nenparixkrita:
       - crude
       - unsophisticated
       - coarse
-    epo: []
+    epo:
+      adj:
+      - kruda
+      - nerafinita
     spa:
       adj:
       - tosco
@@ -396740,7 +396780,9 @@ parixkrita:
     eng:
     - - 'adj: refined'
       - sophisticated
-    epo: []
+    epo:
+    - - 'adj: rafinita'
+      - malnaiva
     spa:
     - - 'adj: refinado'
       - sofisticado
@@ -396755,7 +396797,10 @@ parixkrita:
       adj:
       - refined
       - sophisticated
-    epo: []
+    epo:
+      adj:
+      - rafinita
+      - malnaiva
     spa:
       adj:
       - refinado
@@ -396778,7 +396823,9 @@ parixkritaya:
     eng:
     - - 'n: refinement'
       - sophistication
-    epo: []
+    epo:
+    - - 'n: rafiniteco'
+      - malnaiveco
     spa:
     - - 's: refinamiento'
       - sofisticación
@@ -396793,7 +396840,10 @@ parixkritaya:
       "n":
       - refinement
       - sophistication
-    epo: []
+    epo:
+      "n":
+      - rafiniteco
+      - malnaiveco
     spa:
       s:
       - refinamiento
@@ -463988,9 +464038,11 @@ siraye:
     eng:
     - - 'n: contagion'
       - transmission
-    - - transmit
+    - - 'v.tr: transmit'
       - infect
-    epo: []
+    epo:
+    - - 'n: kontaĝo'
+    - - 'v.tr: kontaĝi'
     spa:
     - - 's: contagio'
       - transmisión
@@ -464007,10 +464059,14 @@ siraye:
       "n":
       - contagion
       - transmission
-      verb:
+      v.tr:
       - transmit
       - infect
-    epo: []
+    epo:
+      "n":
+      - kontaĝo
+      v.tr:
+      - kontaĝi
     spa:
       s:
       - contagio
@@ -464036,7 +464092,8 @@ sirayeabil:
   trans:
     eng:
     - - 'adj: contagious'
-    epo: []
+    epo:
+    - - 'adj: kontaĝa'
     spa:
     - - 'adj: contagioso'
     deu: []
@@ -464049,7 +464106,9 @@ sirayeabil:
     eng:
       adj:
       - contagious
-    epo: []
+    epo:
+      adj:
+      - kontaĝa
     spa:
       adj:
       - contagioso
@@ -464071,7 +464130,8 @@ sirayeible:
   trans:
     eng:
     - - 'adj: contagious'
-    epo: []
+    epo:
+    - - 'adj: kontaĝa'
     spa:
     - - 'adj: contagioso'
     deu: []
@@ -464084,7 +464144,9 @@ sirayeible:
     eng:
       adj:
       - contagious
-    epo: []
+    epo:
+      adj:
+      - kontaĝa
     spa:
       adj:
       - contagioso
@@ -464106,7 +464168,8 @@ sirayepul:
   trans:
     eng:
     - - 'adj: contagious'
-    epo: []
+    epo:
+    - - 'adj: kontaĝa'
     spa:
     - - 'adj: contagioso'
     deu: []
@@ -464119,7 +464182,9 @@ sirayepul:
     eng:
       adj:
       - contagious
-    epo: []
+    epo:
+      adj:
+      - kontaĝa
     spa:
       adj:
       - contagioso
@@ -495961,7 +496026,6 @@ tiltila:
       - titilar
       - centellear
       - destellar
-      - brillar
       - relucir
     deu: []
     fra: []
@@ -495987,7 +496051,6 @@ tiltila:
       - titilar
       - centellear
       - destellar
-      - brillar
       - relucir
     deu: []
     fra: []
@@ -527311,7 +527374,9 @@ wimyo:
       - delicate
     - - 'adv: subtly'
       - delicately
-    epo: []
+    epo:
+    - - 'adj: subtila'
+    - - 'adv: subtile'
     spa:
     - - 'adj: sutil'
       - delicado
@@ -527331,7 +527396,11 @@ wimyo:
       adv:
       - subtly
       - delicately
-    epo: []
+    epo:
+      adj:
+      - subtila
+      adv:
+      - subtile
     spa:
       adj:
       - sutil
@@ -527357,7 +527426,8 @@ wimyoxey:
   trans:
     eng:
     - - 'n: subtlety (<em>countable</em>)'
-    epo: []
+    epo:
+    - - 's: subtilaĵo'
     spa: []
     deu: []
     fra: []
@@ -527369,7 +527439,9 @@ wimyoxey:
     eng:
       "n":
       - subtlety (<em>countable</em>)
-    epo: []
+    epo:
+      s:
+      - subtilaĵo
     spa: []
     deu: []
     fra: []
@@ -527389,7 +527461,8 @@ wimyoya:
   trans:
     eng:
     - - 'n: subtlety (<em>uncountable</em>)'
-    epo: []
+    epo:
+    - - 's: subtileco'
     spa: []
     deu: []
     fra: []
@@ -527401,7 +527474,9 @@ wimyoya:
     eng:
       "n":
       - subtlety (<em>uncountable</em>)
-    epo: []
+    epo:
+      s:
+      - subtileco
     spa: []
     deu: []
     fra: []
