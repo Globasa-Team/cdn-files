@@ -65702,7 +65702,9 @@ brilapul:
     eng:
     - - 'adj: shiny'
       - brilliant
+      - bright
     - - 'adv: brilliantly'
+      - brightly
     epo:
     - - 'adj: brila'
     - - 'adv: brile'
@@ -65721,8 +65723,10 @@ brilapul:
       adj:
       - shiny
       - brilliant
+      - bright
       adv:
       - brilliantly
+      - brightly
     epo:
       adj:
       - brila
@@ -94899,6 +94903,56 @@ daybur:
     - day-
     - +
     - bur
+daycarme:
+  term: daycarme
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - 'v.tr: mesmerize'
+    - - 'v.intr: be (<em>feel</em>) mesmerized'
+    epo:
+    - - 's: ensorĉo'
+    - - 'v.tr: ensorĉi'
+    - - 'v.ntr: ensorĉiĝi'
+    spa:
+    - - 'v.tr: embelesar'
+    - - 'v.intr: estar (<em>sentirse</em>) embelesado'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      v.tr:
+      - mesmerize
+      v.intr:
+      - be (<em>feel</em>) mesmerized
+    epo:
+      s:
+      - ensorĉo
+      v.tr:
+      - ensorĉi
+      v.ntr:
+      - ensorĉiĝi
+    spa:
+      v.tr:
+      - embelesar
+      v.intr:
+      - estar (<em>sentirse</em>) embelesado
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - day-
+    - +
+    - carme
 daycinon:
   term: daycinon
   word class: b
@@ -313002,6 +313056,7 @@ luminkal:
   trans:
     eng:
     - - 'adj: dark'
+      - dark-colored
     - - 'adv: darkly'
     epo:
     - - 'adj: senluma'
@@ -313023,6 +313078,7 @@ luminkal:
     eng:
       adj:
       - dark
+      - dark-colored
       adv:
       - darkly
     epo:
@@ -313163,9 +313219,10 @@ luminpul:
   category: derived
   trans:
     eng:
-    - - 'adj: bright'
+    - - 'adj: luminous'
       - light
-    - - 'adv: brightly'
+      - light-colored
+    - - 'adv: luminously'
     epo:
     - - 'adj: luma'
       - hela
@@ -313174,7 +313231,6 @@ luminpul:
     spa:
     - - 'adj: luminoso'
       - claro
-      - brillante
     - - 'adv: con luminosidad'
     deu: []
     fra: []
@@ -313185,10 +313241,11 @@ luminpul:
   trans_v2:
     eng:
       adj:
-      - bright
+      - luminous
       - light
+      - light-colored
       adv:
-      - brightly
+      - luminously
     epo:
       adj:
       - luma
@@ -313200,7 +313257,6 @@ luminpul:
       adj:
       - luminoso
       - claro
-      - brillante
       adv:
       - con luminosidad
     deu: []
@@ -338049,32 +338105,21 @@ meryo:
       - captivation
     - - 'v.tr: fascinate'
       - captivate
-      - mesmerize
     - - 'v.intr: be (<em>feel</em>) fascinated'
       - be (<em>feel</em>) captivated
-      - be (<em>feel</em>) mesmerized
     epo:
     - - 's: fascino'
-      - ĉarmo
       - ravo
-      - ensorĉo
     - - 'v.tr: fascini'
-      - ĉarmi
       - ravi
-      - ensorĉi
     - - 'v.ntr: fasciniĝi'
-      - ĉarmiĝi
       - raviĝi
-      - ensorĉiĝi
     spa:
     - - 's: fascinación'
-      - encanto
       - cautivación
     - - 'v.tr: fascinar'
-      - encantar
       - cautivar
     - - 'v.intr: sentirse fascinado'
-      - sentirse encantado
       - sentirse cautivado
     deu: []
     fra: []
@@ -338090,39 +338135,28 @@ meryo:
       v.tr:
       - fascinate
       - captivate
-      - mesmerize
       v.intr:
       - be (<em>feel</em>) fascinated
       - be (<em>feel</em>) captivated
-      - be (<em>feel</em>) mesmerized
     epo:
       s:
       - fascino
-      - ĉarmo
       - ravo
-      - ensorĉo
       v.tr:
       - fascini
-      - ĉarmi
       - ravi
-      - ensorĉi
       v.ntr:
       - fasciniĝi
-      - ĉarmiĝi
       - raviĝi
-      - ensorĉiĝi
     spa:
       s:
       - fascinación
-      - encanto
       - cautivación
       v.tr:
       - fascinar
-      - encantar
       - cautivar
       v.intr:
       - sentirse fascinado
-      - sentirse encantado
       - sentirse cautivado
     deu: []
     fra: []
