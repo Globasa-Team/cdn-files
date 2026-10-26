@@ -111853,13 +111853,15 @@ domeni:
   trans:
     eng:
     - - 'n: domain'
-      - field (<em>of study, knowledge</em>)
+      - realm
+    - - 'n: field (<em>of study, knowledge</em>)'
     epo:
+    - - 's: regno'
     - - 's: fako'
       - kampo (<em>de studo</em>)
     spa:
+    - - 's: dominio'
     - - 's: campo'
-      - dominio
     deu:
     - - 'S: Fachgebiet'
       - Bereich
@@ -111882,7 +111884,6 @@ domeni:
   trans_v2:
     eng:
       "n":
-      - domain
       - field (<em>of study, knowledge</em>)
     epo:
       s:
@@ -111891,7 +111892,6 @@ domeni:
     spa:
       s:
       - campo
-      - dominio
     deu:
       S:
       - Fachgebiet
@@ -152549,17 +152549,17 @@ fe_fronta_de:
     - de
 fe_geo:
   term: fe geo
-  word class: p jm
+  word class: il
   category: phrase
   trans:
     eng:
-    - - 'prep phrs: (my) gosh'
+    - - 'interj: (my) gosh'
       - land sakes
     epo:
-    - - 'prep frazparto: Dio mia'
+    - - 'interj: Dio mia'
       - ho ve
     spa:
-    - - 'sintagma prep: madre mía'
+    - - 'interj: madre mía'
       - caramba
       - cielos
     deu: []
@@ -152570,15 +152570,15 @@ fe_geo:
     ara: []
   trans_v2:
     eng:
-      prep phrs:
+      interj:
       - (my) gosh
       - land sakes
     epo:
-      prep frazparto:
+      interj:
       - Dio mia
       - ho ve
     spa:
-      sintagma prep:
+      interj:
       - madre mía
       - caramba
       - cielos
@@ -155749,18 +155749,18 @@ fe_tema_fe:
     - fe
 fe_teo:
   term: fe Teo
-  word class: p jm
+  word class: il
   category: phrase
   trans:
     eng:
-    - - 'prep phrs: by God'
+    - - 'interj: by God'
       - my God
       - for God's sake
     epo:
-    - - 'prep frazparto: je Dio'
+    - - 'interj: je Dio'
       - Dio mia
     spa:
-    - - 'sintagma prep: por Dios'
+    - - 'interj: por Dios'
       - Dios mío
       - por el amor de Dios
     deu: []
@@ -155771,16 +155771,16 @@ fe_teo:
     ara: []
   trans_v2:
     eng:
-      prep phrs:
+      interj:
       - by God
       - my God
       - for God's sake
     epo:
-      prep frazparto:
+      interj:
       - je Dio
       - Dio mia
     spa:
-      sintagma prep:
+      interj:
       - por Dios
       - Dios mío
       - por el amor de Dios
@@ -315715,7 +315715,7 @@ mafu:
     ara: []
   etymology:
     natlang:
-      Arabisa: عفو &ldquo;hafw&rdquo;
+      Arabisa: عفو &ldquo;afw&rdquo;
       Hindi: माफ़ &ldquo;maf&rdquo;
       Indonesisa: maaf, memaafi
       Parsisa: عفو &ldquo;afv&rdquo;
