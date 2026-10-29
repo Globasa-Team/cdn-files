@@ -197628,10 +197628,15 @@ hao:
   trans:
     eng:
     - - 'n: oyster'
+    - - 'n (vulgar): cunt'
     epo:
     - - 's: ostro'
+    - - 's (obscena): piĉo'
     spa:
     - - 's: ostra'
+    - - 's (vulgar): coño'
+      - concha
+      - panocha
     deu:
     - - 'S: Auster'
     fra:
@@ -197650,12 +197655,20 @@ hao:
     eng:
       "n":
       - oyster
+      n (vulgar):
+      - cunt
     epo:
       s:
       - ostro
+      s (obscena):
+      - piĉo
     spa:
       s:
       - ostra
+      s (vulgar):
+      - coño
+      - concha
+      - panocha
     deu:
       S:
       - Auster
@@ -377443,18 +377456,18 @@ numerli:
     - -li
 nun:
   term: nun
-  word class: par
+  word class: par; m
   category: root
   trans:
     eng:
     - - 'par (simple present tense marker): do'
-      - now
+    - - 'adv: now'
     epo:
-    - - 'par (presenca markilo): nun'
-      - -as
+    - - 'par (presenca markilo): -as'
+    - - 'adv: nun'
     spa:
     - - 'par: <em>marcador del tiempo presente activo</em>'
-      - ahora
+    - - 'adv: ahora'
     deu: []
     fra: []
     rus: []
@@ -377465,14 +377478,17 @@ nun:
     eng:
       par (simple present tense marker):
       - do
+      adv:
       - now
     epo:
       par (presenca markilo):
-      - nun
       - -as
+      adv:
+      - nun
     spa:
       par:
       - <em>marcador del tiempo presente activo</em>
+      adv:
       - ahora
     deu: []
     fra: []
