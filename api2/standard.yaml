@@ -40886,7 +40886,8 @@ baliguyen:
     epo:
     - - 's: plenkreskulo'
       - plenaĝulo
-    spa: []
+    spa:
+    - - 's: adulto'
     deu: []
     fra: []
     rus: []
@@ -40901,7 +40902,9 @@ baliguyen:
       s:
       - plenkreskulo
       - plenaĝulo
-    spa: []
+    spa:
+      s:
+      - adulto
     deu: []
     fra: []
     rus: []
@@ -94917,7 +94920,7 @@ daycarme:
     - - 'v.ntr: ensorĉiĝi'
     spa:
     - - 'v.tr: embelesar'
-    - - 'v.intr: estar (<em>sentirse</em>) embelesado'
+    - - 'v.intr: estar embelesado'
     deu: []
     fra: []
     rus: []
@@ -94941,7 +94944,7 @@ daycarme:
       v.tr:
       - embelesar
       v.intr:
-      - estar (<em>sentirse</em>) embelesado
+      - estar embelesado
     deu: []
     fra: []
     rus: []
@@ -96038,7 +96041,7 @@ dayfuraha:
     spa:
     - - 's: deleite'
     - - 'v.tr: deleitar'
-    - - 'v.intr: estar (<em>sentirse</em>) encantado'
+    - - 'v.intr: estar encantado'
     deu: []
     fra: []
     rus: []
@@ -96066,7 +96069,7 @@ dayfuraha:
       v.tr:
       - deleitar
       v.intr:
-      - estar (<em>sentirse</em>) encantado
+      - estar encantado
     deu: []
     fra: []
     rus: []
@@ -108385,7 +108388,7 @@ disenoyen:
 disforma:
   term: disforma
   word class: b.oro
-  category: root
+  category: derived
   trans:
     eng:
     - - 'n: disintegration'
@@ -222413,7 +222416,7 @@ inkilabu:
     ara: []
   etymology:
     natlang:
-      Arabisa: اِنْقِلَاب &ldquo;ankilab&rdquo;
+      Arabisa: اِنْقِلَاب &ldquo;inkilab&rdquo;
       Hindi: इंक़िलाब &ldquo;inkilab&rdquo;
       Parsisa: اِنْقِلَاب &ldquo;engelaab&rdquo;
       Turkisa: inkılap
@@ -255366,7 +255369,7 @@ kanu:
       - سَاق، جِذْع (شَجَرَة)
   etymology:
     natlang:
-      Niponsa: 幹 &ldquo;miki&rdquo;
+      Niponsa: 幹 &ldquo;kan&rdquo;
       Putunhwa: 干 &ldquo;gan&rdquo;
 kanyon:
   term: kanyon
@@ -316513,17 +316516,15 @@ magnetosim:
   trans:
     eng:
     - - 'adj: magnetic'
-      - attractive
+      - alluring
     - - 'adv: magnetically'
-      - attractively
+      - alluringly
     epo:
     - - 'adj: altira'
     - - 'adv: altire'
     spa:
     - - 'adj: magnético'
-      - atractivo
       - cautivador
-    - - 'adv: de forma magnética'
     deu: []
     fra: []
     rus: []
@@ -316534,10 +316535,10 @@ magnetosim:
     eng:
       adj:
       - magnetic
-      - attractive
+      - alluring
       adv:
       - magnetically
-      - attractively
+      - alluringly
     epo:
       adj:
       - altira
@@ -316546,10 +316547,7 @@ magnetosim:
     spa:
       adj:
       - magnético
-      - atractivo
       - cautivador
-      adv:
-      - de forma magnética
     deu: []
     fra: []
     rus: []
@@ -338122,11 +338120,8 @@ meryo:
       - be (<em>feel</em>) captivated
     epo:
     - - 's: fascino'
-      - ravo
     - - 'v.tr: fascini'
-      - ravi
     - - 'v.ntr: fasciniĝi'
-      - raviĝi
     spa:
     - - 's: fascinación'
       - cautivación
@@ -338154,13 +338149,10 @@ meryo:
     epo:
       s:
       - fascino
-      - ravo
       v.tr:
       - fascini
-      - ravi
       v.ntr:
       - fasciniĝi
-      - raviĝi
     spa:
       s:
       - fascinación
@@ -382961,6 +382953,45 @@ okocu:
     - oko
     - +
     - -cu
+okocubon:
+  term: okocubon
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: good-looking'
+    epo: []
+    spa:
+    - - 'adj: guapo'
+      - bien parecido
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - good-looking
+    epo: []
+    spa:
+      adj:
+      - guapo
+      - bien parecido
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - oko
+    - +
+    - -cu
+    - +
+    - -bon
 okodo:
   term: okodo
   word class: t
@@ -384042,6 +384073,47 @@ okoyen:
     - oko
     - +
     - -yen
+okoyukwe:
+  term: okoyukwe
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: attractive'
+    - - 'adv: attractively'
+    epo: []
+    spa:
+    - - 'adj: atractivo'
+    - - 'adv: atractivamente'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - attractive
+      adv:
+      - attractively
+    epo: []
+    spa:
+      adj:
+      - atractivo
+      adv:
+      - atractivamente
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - oko
+    - +
+    - yukwe
 okre:
   term: okre
   word class: b
@@ -420853,6 +420925,49 @@ praloben:
     natlang:
       Hindi: प्रलोभन &ldquo;praloban&rdquo;
       Telugu: ప్రలోభం &ldquo;pralobam&rdquo;, ప్రలోభించు &ldquo;pralobincu&rdquo;
+pralobenne:
+  term: pralobenne
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: enticing'
+      - alluring
+      - seductive
+    epo: []
+    spa:
+    - - 'adj: tentador'
+      - cautivador
+      - seductor
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - enticing
+      - alluring
+      - seductive
+    epo: []
+    spa:
+      adj:
+      - tentador
+      - cautivador
+      - seductor
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - praloben
+    - +
+    - -ne
 praseodimyum:
   term: praseodimyum
   word class: b
@@ -527484,7 +527599,9 @@ wimyoxey:
     - - 'n: subtlety (<em>countable</em>)'
     epo:
     - - 's: subtilaĵo'
-    spa: []
+    spa:
+    - - 's: sutileza'
+      - matiz (<em>contable</em>)
     deu: []
     fra: []
     rus: []
@@ -527498,7 +527615,10 @@ wimyoxey:
     epo:
       s:
       - subtilaĵo
-    spa: []
+    spa:
+      s:
+      - sutileza
+      - matiz (<em>contable</em>)
     deu: []
     fra: []
     rus: []
@@ -527519,7 +527639,8 @@ wimyoya:
     - - 'n: subtlety (<em>uncountable</em>)'
     epo:
     - - 's: subtileco'
-    spa: []
+    spa:
+    - - 's: sutileza (<em>incontable</em>)'
     deu: []
     fra: []
     rus: []
@@ -527533,7 +527654,9 @@ wimyoya:
     epo:
       s:
       - subtileco
-    spa: []
+    spa:
+      s:
+      - sutileza (<em>incontable</em>)
     deu: []
     fra: []
     rus: []
@@ -546841,6 +546964,89 @@ yoakim:
       Swahilisa: Yohakimu
       Turkisa: Yehoiakim
       Vyetnamsa: Gio-a-kim
+yobe:
+  term: yobe
+  word class: t
+  category: root
+  trans:
+    eng:
+    - - 'adj: graceful'
+    - - 'adv: gracefully'
+    epo: []
+    spa:
+    - - 'adj: grácil'
+      - elegante
+    - - 'adv: con gracia'
+      - elegantemente
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - graceful
+      adv:
+      - gracefully
+    epo: []
+    spa:
+      adj:
+      - grácil
+      - elegante
+      adv:
+      - con gracia
+      - elegantemente
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Niponsa: 優美 &ldquo;yubi&rdquo;
+      Putunhwa: 优美 &ldquo;yowmey&rdquo;
+yobeya:
+  term: yobeya
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: grace'
+      - gracefulness
+    epo: []
+    spa:
+    - - 's: gracia'
+      - elegancia
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - grace
+      - gracefulness
+    epo: []
+    spa:
+      s:
+      - gracia
+      - elegancia
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - yobe
+    - +
+    - -ya
 yobu:
   term: yobu
   word class: b
