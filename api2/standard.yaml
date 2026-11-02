@@ -81360,7 +81360,9 @@ cinmi:
     epo:
     - - 'adj: intima'
     - - 'adv: intime'
-    spa: []
+    spa:
+    - - 'adj: íntimo'
+    - - 'adv: íntimamente'
     deu: []
     fra: []
     rus: []
@@ -81379,14 +81381,22 @@ cinmi:
       - intima
       adv:
       - intime
-    spa: []
+    spa:
+      adj:
+      - íntimo
+      adv:
+      - íntimamente
     deu: []
     fra: []
     rus: []
     zho: []
     hin: []
     ara: []
-  etymology: ""
+  etymology:
+    natlang:
+      Koreasa: 친밀 &ldquo;cinmil&rdquo;
+      Niponsa: 親密 &ldquo;xinmitsu&rdquo;
+      Putunhwa: 亲密 &ldquo;cinmi&rdquo;
 cinmiya:
   term: cinmiya
   word class: b
@@ -193122,12 +193132,14 @@ gwandon:
     - - 'prop n: Guangdong'
     epo:
     - - 'prop n: Gŭandongo'
+      - Kantono
     spa:
     - - 'n prop: Cantón'
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 广东
     hin: []
     ara: []
   trans_v2:
@@ -193137,13 +193149,16 @@ gwandon:
     epo:
       prop n:
       - Gŭandongo
+      - Kantono
     spa:
       n prop:
       - Cantón
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 广东
     hin: []
     ara: []
   etymology:
@@ -193158,13 +193173,14 @@ gwandonsa:
     eng:
     - - 'prop n: Cantonese'
     epo:
-    - - 'prop n: la gŭandonga (lingvo)'
+    - - 'prop n: la kantona (lingvo)'
     spa:
     - - 'n prop: cantonés (<em>idioma</em>)'
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - 广东话
     hin: []
     ara: []
   trans_v2:
@@ -193173,14 +193189,16 @@ gwandonsa:
       - Cantonese
     epo:
       prop n:
-      - la gŭandonga (lingvo)
+      - la kantona (lingvo)
     spa:
       n prop:
       - cantonés (<em>idioma</em>)
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      "":
+      - 广东话
     hin: []
     ara: []
   etymology:
@@ -372426,7 +372444,8 @@ nikot:
     - - Нико
     zho:
     - - Nicot
-    hin: []
+    hin:
+    - - निको
     ara:
     - - نيكوت
   trans_v2:
@@ -372451,7 +372470,9 @@ nikot:
     zho:
       "":
       - Nicot
-    hin: []
+    hin:
+      "":
+      - निको
     ara:
       "":
       - نيكوت
@@ -383035,7 +383056,8 @@ okocubon:
   trans:
     eng:
     - - 'adj: good-looking'
-    epo: []
+    epo:
+    - - 'adj: bonaspekta'
     spa:
     - - 'adj: guapo'
       - bien parecido
@@ -383049,7 +383071,9 @@ okocubon:
     eng:
       adj:
       - good-looking
-    epo: []
+    epo:
+      adj:
+      - bonaspekta
     spa:
       adj:
       - guapo
@@ -384156,7 +384180,9 @@ okoyukwe:
     eng:
     - - 'adj: attractive'
     - - 'adv: attractively'
-    epo: []
+    epo:
+    - - 'adj: alloga'
+      - bonaspekta
     spa:
     - - 'adj: atractivo'
     - - 'adv: atractivamente'
@@ -384172,7 +384198,10 @@ okoyukwe:
       - attractive
       adv:
       - attractively
-    epo: []
+    epo:
+      adj:
+      - alloga
+      - bonaspekta
     spa:
       adj:
       - atractivo
@@ -395298,8 +395327,10 @@ papwa_neogini:
     - - Папуа — Новая Гвинея
     zho:
     - - 巴布亚新几内亚
-    hin: []
-    ara: []
+    hin:
+    - - पापुआ न्यू गिनी
+    ara:
+    - - بَابْوَا غِينِيَّا الْجَدِيدَة
   trans_v2:
     eng:
       prop n:
@@ -395322,8 +395353,12 @@ papwa_neogini:
     zho:
       "":
       - 巴布亚新几内亚
-    hin: []
-    ara: []
+    hin:
+      "":
+      - पापुआ न्यू गिनी
+    ara:
+      "":
+      - بَابْوَا غِينِيَّا الْجَدِيدَة
   etymology:
     natlang:
       Englisa: Papua New Guinea
@@ -395967,8 +396002,10 @@ paragway:
     - - Парагвай
     zho:
     - - 巴拉圭
-    hin: []
-    ara: []
+    hin:
+    - - पैराग्वे
+    ara:
+    - - باراغواي
   trans_v2:
     eng:
       prop n:
@@ -395991,8 +396028,12 @@ paragway:
     zho:
       "":
       - 巴拉圭
-    hin: []
-    ara: []
+    hin:
+      "":
+      - पैराग्वे
+    ara:
+      "":
+      - باراغواي
   etymology:
     natlang:
       Espanisa: Paraguay
@@ -421009,7 +421050,9 @@ pralobenne:
     - - 'adj: enticing'
       - alluring
       - seductive
-    epo: []
+    epo:
+    - - 'adj: alloga'
+      - deloga
     spa:
     - - 'adj: tentador'
       - cautivador
@@ -421026,7 +421069,10 @@ pralobenne:
       - enticing
       - alluring
       - seductive
-    epo: []
+    epo:
+      adj:
+      - alloga
+      - deloga
     spa:
       adj:
       - tentador
@@ -426595,8 +426641,10 @@ putunhwa:
       - мандаринский (язык)
     zho:
     - - 普通话
-    hin: []
-    ara: []
+    hin:
+    - - मंदारिन (भाषा)
+    ara:
+    - - المندرين (الصينية)
   trans_v2:
     eng:
       prop n:
@@ -426624,8 +426672,12 @@ putunhwa:
     zho:
       "":
       - 普通话
-    hin: []
-    ara: []
+    hin:
+      "":
+      - मंदारिन (भाषा)
+    ara:
+      "":
+      - المندرين (الصينية)
   etymology:
     natlang:
       Putunhwa: 普通话 &ldquo;pǔtōnghu&agrave;&rdquo;
@@ -430697,8 +430749,11 @@ rebeka:
     zho:
     - - 利百加
       - 黎贝加
-    hin: []
-    ara: []
+    hin:
+    - - रिबका
+      - रेबेका
+    ara:
+    - - رِفْقَةُ
   trans_v2:
     eng:
       prop n:
@@ -430723,8 +430778,13 @@ rebeka:
       "":
       - 利百加
       - 黎贝加
-    hin: []
-    ara: []
+    hin:
+      "":
+      - रिबका
+      - रेबेका
+    ara:
+      "":
+      - رِفْقَةُ
   etymology:
     natlang:
       Arabisa: رِفْقَةُ &ldquo;Rifqa&rdquo;
@@ -435373,8 +435433,10 @@ riser-larsen:
     - - Рисер-Ларсен
     zho:
     - - 里瑟爾-拉森
-    hin: []
-    ara: []
+    hin:
+    - - रीज़र-लार्सन
+    ara:
+    - - ريسر لارسن
   trans_v2:
     eng:
       prop n:
@@ -435397,8 +435459,12 @@ riser-larsen:
     zho:
       "":
       - 里瑟爾-拉森
-    hin: []
-    ara: []
+    hin:
+      "":
+      - रीज़र-लार्सन
+    ara:
+      "":
+      - ريسر لارسن
   etymology:
     natlang:
       Arabisa: ريسر لارسن &ldquo;Risar Larsin&rdquo;
@@ -473794,6 +473860,7 @@ sulawesi:
     - - Sulawesi
     fra:
     - - Sulawesi
+      - Célèbes
     rus:
     - - Сулавеси
     zho:
@@ -473822,6 +473889,7 @@ sulawesi:
     fra:
       "":
       - Sulawesi
+      - Célèbes
     rus:
       "":
       - Сулавеси
@@ -477266,6 +477334,7 @@ susana:
     - - 's: lilio'
     spa:
     - - 's: lirio'
+      - azucena
     deu:
     - - 'S: Lilie'
     fra:
@@ -477290,6 +477359,7 @@ susana:
     spa:
       s:
       - lirio
+      - azucena
     deu:
       S:
       - Lilie
@@ -492940,8 +493010,10 @@ teresa:
     - - Тереза
     zho:
     - - 德肋撒
-    hin: []
-    ara: []
+    hin:
+    - - टेरेसा
+    ara:
+    - - تريزا
   trans_v2:
     eng:
       prop n:
@@ -492966,8 +493038,12 @@ teresa:
     zho:
       "":
       - 德肋撒
-    hin: []
-    ara: []
+    hin:
+      "":
+      - टेरेसा
+    ara:
+      "":
+      - تريزا
   etymology:
     natlang:
       Arabisa: تريزا &ldquo;Tiriza&rdquo;
@@ -547047,7 +547123,9 @@ yobe:
     eng:
     - - 'adj: graceful'
     - - 'adv: gracefully'
-    epo: []
+    epo:
+    - - 'adj: gracia'
+    - - 'adv: gracie'
     spa:
     - - 'adj: grácil'
       - elegante
@@ -547065,7 +547143,11 @@ yobe:
       - graceful
       adv:
       - gracefully
-    epo: []
+    epo:
+      adj:
+      - gracia
+      adv:
+      - gracie
     spa:
       adj:
       - grácil
@@ -547091,7 +547173,8 @@ yobeya:
     eng:
     - - 'n: grace'
       - gracefulness
-    epo: []
+    epo:
+    - - 's: gracio'
     spa:
     - - 's: gracia'
       - elegancia
@@ -547106,7 +547189,9 @@ yobeya:
       "n":
       - grace
       - gracefulness
-    epo: []
+    epo:
+      s:
+      - gracio
     spa:
       s:
       - gracia
