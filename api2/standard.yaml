@@ -81350,19 +81350,17 @@ cinjuli_gardanbendu:
     - gardanbendu
 cinmi:
   term: cinmi
-  word class: b
+  word class: t
   category: root
   trans:
     eng:
     - - 'adj: intimate'
       - close
-    - - 'adv: intimate'
     epo:
     - - 'adj: intima'
-    - - 'adv: intime'
     spa:
     - - 'adj: íntimo'
-    - - 'adv: íntimamente'
+      - cercano
     deu: []
     fra: []
     rus: []
@@ -81374,18 +81372,13 @@ cinmi:
       adj:
       - intimate
       - close
-      adv:
-      - intimate
     epo:
       adj:
       - intima
-      adv:
-      - intime
     spa:
       adj:
       - íntimo
-      adv:
-      - íntimamente
+      - cercano
     deu: []
     fra: []
     rus: []
@@ -81394,7 +81387,7 @@ cinmi:
     ara: []
   etymology:
     natlang:
-      Koreasa: 친밀 &ldquo;cinmil&rdquo;
+      Koreasa: 친밀하다 &ldquo;cinmilhada&rdquo;
       Niponsa: 親密 &ldquo;xinmitsu&rdquo;
       Putunhwa: 亲密 &ldquo;cinmi&rdquo;
 cinmiya:
@@ -98295,6 +98288,7 @@ daymuhim:
       - greatly important
       - (of) grave importance
       - (of) great importance
+      - major
     - - 'adv: crucially'
       - critically
       - imperatively
@@ -98324,6 +98318,7 @@ daymuhim:
       - greatly important
       - (of) grave importance
       - (of) great importance
+      - major
       adv:
       - crucially
       - critically
@@ -106933,6 +106928,7 @@ dila:
       Indonesisa: dil
       Koreasa: 딜 &ldquo;dil&rdquo;
       Vyetnamsa: th&igrave; l&agrave; &ldquo;ti la&rdquo;
+      ディル: '&ldquo;diru&rdquo;'
 dildo:
   term: dildo
   word class: b
@@ -306908,6 +306904,49 @@ lilmo:
     - lil
     - +
     - -mo
+lilmuhim:
+  term: lilmuhim
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: of little importance'
+      - nonessential
+      - minor
+    epo:
+    - - 'adj: malmulte grava'
+      - neesenca
+      - neĉefa
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - of little importance
+      - nonessential
+      - minor
+    epo:
+      adj:
+      - malmulte grava
+      - neesenca
+      - neĉefa
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - lil-
+    - +
+    - muhim
 lilmwa:
   term: lilmwa
   word class: b.oj
