@@ -185631,10 +185631,9 @@ globasa:
       - غلوباسا
       - Globasa
   etymology:
-    derived:
-    - globa
-    - +
-    - -sa
+    am oko:
+      globa: globa
+      basa: basa
 globatotal:
   term: globatotal
   word class: t
@@ -238913,16 +238912,19 @@ jidi:
     eng:
     - - 'adj: serious'
       - earnest
+      - grave
     - - 'adv: seriously'
       - earnestly
+      - gravely
     epo:
     - - 'adj: serioza'
     - - 'adv: serioze'
     spa:
     - - 'adj: serio'
-      - formal
+      - grave
     - - 'adv: seriamente'
       - en serio
+      - gravemente
     deu: []
     fra: []
     rus: []
@@ -238934,9 +238936,11 @@ jidi:
       adj:
       - serious
       - earnest
+      - grave
       adv:
       - seriously
       - earnestly
+      - gravely
     epo:
       adj:
       - serioza
@@ -238945,10 +238949,11 @@ jidi:
     spa:
       adj:
       - serio
-      - formal
+      - grave
       adv:
       - seriamente
       - en serio
+      - gravemente
     deu: []
     fra: []
     rus: []
@@ -238968,10 +238973,12 @@ jidiya:
     eng:
     - - 'n: seriousness'
       - earnestness
+      - gravity
     epo:
     - - 's: seriozeco'
     spa:
     - - 's: seriedad'
+      - gravedad
     deu:
     - - 'S: Ernsthaftigkeit'
       - Ernst
@@ -238993,12 +239000,14 @@ jidiya:
       "n":
       - seriousness
       - earnestness
+      - gravity
     epo:
       s:
       - seriozeco
     spa:
       s:
       - seriedad
+      - gravedad
     deu:
       S:
       - Ernsthaftigkeit
@@ -364160,7 +364169,7 @@ navi:
 navidom:
   term: navidom
   word class: b
-  category: root
+  category: derived
   trans:
     eng:
     - - 'n: port'
@@ -403335,7 +403344,7 @@ perfetoya:
 perfiksa:
   term: perfiksa
   word class: b.oj
-  category: root
+  category: derived
   trans:
     eng:
     - - 'n: mounting'
@@ -427338,6 +427347,62 @@ radar:
       Telugusa: రాడార్ &ldquo;radar&rdquo;
       Turkisa: radar
       Vyetnamsa: ra-đa
+radikal:
+  term: radikal
+  word class: t
+  category: root
+  trans:
+    eng:
+    - - 'adj: radical'
+    - - 'adv: radically'
+    epo:
+    - - 'adj: radikala'
+    - - 'adv: radikale'
+    spa:
+    - - 'adj: radical'
+    - - 'adv: radicalmente'
+    deu: []
+    fra: []
+    rus: []
+    zho:
+    - - 急进
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - radical
+      adv:
+      - radically
+    epo:
+      adj:
+      - radikala
+      adv:
+      - radikale
+    spa:
+      adj:
+      - radical
+      adv:
+      - radicalmente
+    deu: []
+    fra: []
+    rus: []
+    zho:
+      "":
+      - 急进
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Arabisa: رَادِيكَالِيّ &ldquo;radikaliy&rdquo;
+      Doycisa: radikal
+      Englisa: radical
+      Espanisa: radical
+      Fransesa: radical
+      Indonesisa: radikal
+      Parsisa: رادیکال &ldquo;radikal&rdquo;
+      Rusisa: радикальный &ldquo;radikalniy&rdquo;
+      Turkisa: radikal
 radon:
   term: radon
   word class: b
@@ -520779,7 +520844,7 @@ vite:
 vitetul:
   term: vitetul
   word class: b
-  category: root
+  category: derived
   trans:
     eng:
     - - 'n: screwdriver'
@@ -550490,7 +550555,7 @@ yukyokal:
 yukyokalcu:
   term: yukyokalcu
   word class: b.nenoj
-  category: root
+  category: derived
   trans:
     eng:
     - - 'n: expiration'
