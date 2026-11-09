@@ -243485,23 +243485,18 @@ juigi:
     - jui
     - +
     - -gi
-juikal_tem:
-  term: juikal tem
-  word class: p jm
-  category: phrase
+juikal:
+  term: juikal
+  word class: t
+  category: derived
   trans:
     eng:
-    - - 'prep phrs: regardless (of)'
-      - irrespective (of)
-      - no matter
+    - - 'adj: careless'
+    - - 'adv: carelessly'
     epo:
-    - - 'prep frazparto: senrespekte al'
-      - senkonsidere de
-      - sendepende de
-    spa:
-    - - 'sintagma prep: independientemente de'
-      - sin importar
-      - al margen de
+    - - 'adj: senzorga'
+    - - 'adv: senzorge'
+    spa: []
     deu: []
     fra: []
     rus: []
@@ -243510,20 +243505,16 @@ juikal_tem:
     ara: []
   trans_v2:
     eng:
-      prep phrs:
-      - regardless (of)
-      - irrespective (of)
-      - no matter
+      adj:
+      - careless
+      adv:
+      - carelessly
     epo:
-      prep frazparto:
-      - senrespekte al
-      - senkonsidere de
-      - sendepende de
-    spa:
-      sintagma prep:
-      - independientemente de
-      - sin importar
-      - al margen de
+      adj:
+      - senzorga
+      adv:
+      - senzorge
+    spa: []
     deu: []
     fra: []
     rus: []
@@ -243535,8 +243526,6 @@ juikal_tem:
     - jui
     - +
     - -kal
-    - ','
-    - tem
 juilaye:
   term: juilaye
   word class: t
@@ -427366,7 +427355,10 @@ radikal:
     rus: []
     zho:
     - - 急进
-    hin: []
+    hin:
+    - - अतिवाद
+      - आमूल
+      - उग्रवादी
     ara: []
   trans_v2:
     eng:
@@ -427390,7 +427382,11 @@ radikal:
     zho:
       "":
       - 急进
-    hin: []
+    hin:
+      "":
+      - अतिवाद
+      - आमूल
+      - उग्रवादी
     ara: []
   etymology:
     natlang:
