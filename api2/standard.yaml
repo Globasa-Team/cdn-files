@@ -147574,6 +147574,48 @@ fahuriya:
     - fahuri
     - +
     - -ya
+fakir:
+  term: fakir
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: fakir'
+    epo:
+    - - 'n: fakiro'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - fakir
+    epo:
+      "n":
+      - fakiro
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Arabisa: فَقِير &ldquo;fakir&rdquo;
+      Doycisa: Fakir
+      Englisa: fakir
+      Espanisa: faquir
+      Fransesa: fakir, faquir
+      Hindi: फ़क़ीर &ldquo;fakir&rdquo;
+      Indonesisa: fakir
+      Parsisa: فقیر &ldquo;fakir&rdquo;
+      Rusisa: факир &ldquo;fakir&rdquo;
+      Turkisa: fakir
 faksi:
   term: faksi
   word class: b.oj
@@ -243704,7 +243746,10 @@ juioko:
   trans:
     eng:
     - - 'n: observation'
+      - gaze
     - - 'v.tr: observe'
+      - gaze
+      - regard
     epo:
     - - 's: observo'
       - spektado
@@ -243723,8 +243768,11 @@ juioko:
     eng:
       "n":
       - observation
+      - gaze
       v.tr:
       - observe
+      - gaze
+      - regard
     epo:
       s:
       - observo
@@ -256764,6 +256812,49 @@ kapo:
       Fransesa: cap
       Gwandonsa: 岬 &ldquo;gap&rdquo;
       Koreasa: 갑 &ldquo;gap&rdquo;
+kaprico:
+  term: kaprico
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: whim'
+      - caprice
+      - fancy
+    epo:
+    - - 'n: kaprico'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - whim
+      - caprice
+      - fancy
+    epo:
+      "n":
+      - kaprico
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      English: caprice
+      Espanisa: capricho
+      Fransesa: caprice
+      Italisa: capriccio
+      Portugalsa: capricho
+      Rusisa: каприз &ldquo;kapriz&rdquo;
+      Turkisa: kapris
 kapuco:
   term: kapuco
   word class: b
@@ -384072,7 +384163,8 @@ okoya:
   category: derived
   trans:
     eng:
-    - - 'n: viewing'
+    - - 'n: glance'
+      - viewing
       - (sense of) sight
       - vision
     epo:
@@ -384080,6 +384172,7 @@ okoya:
     spa:
     - - 's: visión'
       - vista
+      - mirada
     deu:
     - - 'S: Sehen'
       - Sehkraft
@@ -384101,6 +384194,7 @@ okoya:
   trans_v2:
     eng:
       "n":
+      - glance
       - viewing
       - (sense of) sight
       - vision
@@ -384111,6 +384205,7 @@ okoya:
       s:
       - visión
       - vista
+      - mirada
     deu:
       S:
       - Sehen
@@ -427359,7 +427454,8 @@ radikal:
     - - अतिवाद
       - आमूल
       - उग्रवादी
-    ara: []
+    ara:
+    - - رَادِيكَالِيّ
   trans_v2:
     eng:
       adj:
@@ -427387,7 +427483,9 @@ radikal:
       - अतिवाद
       - आमूल
       - उग्रवादी
-    ara: []
+    ara:
+      "":
+      - رَادِيكَالِيّ
   etymology:
     natlang:
       Arabisa: رَادِيكَالِيّ &ldquo;radikaliy&rdquo;
