@@ -65530,7 +65530,7 @@ bretzel:
       Indonesisa: pretzel
       Koreasa: 브레첼 &ldquo;burecel&rdquo;
       Niponsa: プレッツェル &ldquo;puretseru&rdquo;
-      Parsisa: پرتزل &ldquo;portazl&rdquo;
+      Parsisa: پِرِتْزِل &ldquo;peretzel&rdquo;
       Putunhwa: 普雷結 &ldquo;puley jye&rdquo;
       Rusisa: брецель &ldquo;bretsel&rdquo;
       Swahilisa: pretseli
@@ -147582,7 +147582,7 @@ fakir:
     eng:
     - - 'n: fakir'
     epo:
-    - - 'n: fakiro'
+    - - 's: fakiro'
     spa: []
     deu: []
     fra: []
@@ -147595,7 +147595,7 @@ fakir:
       "n":
       - fakir
     epo:
-      "n":
+      s:
       - fakiro
     spa: []
     deu: []
@@ -256822,7 +256822,7 @@ kaprico:
       - caprice
       - fancy
     epo:
-    - - 'n: kaprico'
+    - - 's: kaprico'
     spa: []
     deu: []
     fra: []
@@ -256837,7 +256837,7 @@ kaprico:
       - caprice
       - fancy
     epo:
-      "n":
+      s:
       - kaprico
     spa: []
     deu: []
@@ -424077,12 +424077,18 @@ programayen:
     - - 's: programisto'
     spa:
     - - 's: programador'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - 'S: Programmierer'
+    fra:
+    - - 'n: programmeur'
+    rus:
+    - - 'сущ: программист'
+    zho:
+    - - '名: 程序员'
+    hin:
+    - - 'सं: प्रोग्रामर'
+    ara:
+    - - 'اسم: مُبَرْمِج'
   trans_v2:
     eng:
       "n":
@@ -424093,12 +424099,24 @@ programayen:
     spa:
       s:
       - programador
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      S:
+      - Programmierer
+    fra:
+      "n":
+      - programmeur
+    rus:
+      сущ:
+      - программист
+    zho:
+      名:
+      - 程序员
+    hin:
+      सं:
+      - प्रोग्रामर
+    ara:
+      اسم:
+      - مُبَرْمِج
   etymology:
     derived:
     - programa
@@ -425331,12 +425349,20 @@ proyeksitora:
     - - 's: projekciilo'
     spa:
     - - 's: proyector'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - 'S: Projektor'
+    fra:
+    - - 'n: projecteur'
+    rus:
+    - - 'сущ: проектор'
+    zho:
+    - - '名: 投影仪'
+      - 放映机
+    hin:
+    - - 'सं: प्रक्षेपित्र'
+      - प्रोजेक्टर
+    ara:
+    - - 'اسم: جِهَاز إِسْقَاط'
   trans_v2:
     eng:
       "n":
@@ -425347,12 +425373,26 @@ proyeksitora:
     spa:
       s:
       - proyector
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      S:
+      - Projektor
+    fra:
+      "n":
+      - projecteur
+    rus:
+      сущ:
+      - проектор
+    zho:
+      名:
+      - 投影仪
+      - 放映机
+    hin:
+      सं:
+      - प्रक्षेपित्र
+      - प्रोजेक्टर
+    ara:
+      اسم:
+      - جِهَاز إِسْقَاط
   etymology:
     derived:
     - proyeksi
@@ -428988,7 +429028,8 @@ rahimcanal:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 输卵管'
     hin: []
     ara: []
   trans_v2:
@@ -429007,7 +429048,9 @@ rahimcanal:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 输卵管
     hin: []
     ara: []
   etymology:
@@ -440221,7 +440264,8 @@ rumeylumarka:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 反斜线'
     hin: []
     ara: []
   trans_v2:
@@ -440244,7 +440288,9 @@ rumeylumarka:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 反斜线
     hin: []
     ara: []
   etymology:
@@ -445393,12 +445439,19 @@ saladasawsa:
     spa:
     - - 's: aliño'
       - aderezo
-    deu: []
+    deu:
+    - - 'S: Salatsauce'
+      - Salatsoße
     fra: []
-    rus: []
-    zho: []
+    rus:
+    - - 'сущ: салатная заправка'
+      - салатные соусы
+      - дрессинги
+    zho:
+    - - '名: 沙拉酱'
     hin: []
-    ara: []
+    ara:
+    - - 'اسم: صلصة سلطة'
   trans_v2:
     eng:
       "n":
@@ -445410,12 +445463,23 @@ saladasawsa:
       s:
       - aliño
       - aderezo
-    deu: []
+    deu:
+      S:
+      - Salatsauce
+      - Salatsoße
     fra: []
-    rus: []
-    zho: []
+    rus:
+      сущ:
+      - салатная заправка
+      - салатные соусы
+      - дрессинги
+    zho:
+      名:
+      - 沙拉酱
     hin: []
-    ara: []
+    ara:
+      اسم:
+      - صلصة سلطة
   etymology:
     derived:
     - salada
@@ -449744,12 +449808,18 @@ sari_labas:
     - - 's: sario'
     spa:
     - - 's: sari'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - 'S: Sari (Kleidung)'
+    fra:
+    - - 'n: sari (vêtement)'
+    rus:
+    - - 'сущ: сари'
+    zho:
+    - - '名: 纱丽'
+    hin:
+    - - 'सं: साड़ी'
+    ara:
+    - - 'اسم: ساري (زي)'
   trans_v2:
     eng:
       "n":
@@ -449760,12 +449830,24 @@ sari_labas:
     spa:
       s:
       - sari
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      S:
+      - Sari (Kleidung)
+    fra:
+      "n":
+      - sari (vêtement)
+    rus:
+      сущ:
+      - сари
+    zho:
+      名:
+      - 纱丽
+    hin:
+      सं:
+      - साड़ी
+    ara:
+      اسم:
+      - ساري (زي)
   etymology:
     natlang:
       Arabisa: سَارِي &ldquo;sari&rdquo;
@@ -449778,7 +449860,7 @@ sari_labas:
       Koreasa: 사리 &ldquo;sari&rdquo;
       Niponsa: サリー &ldquo;sari&rdquo;
       Parsisa: ساری &ldquo;sari&rdquo;
-      Putunhwa: 莎丽 &ldquo;xa li&rdquo;
+      Putunhwa: 莎丽 &ldquo;xali&rdquo;
       Rusisa: сари &ldquo;sari&rdquo;
       Turkisa: sari
       Vyetnamsa: sari
@@ -449928,12 +450010,19 @@ sarongi:
     - - 's: sarongo'
     spa:
     - - 's: sarong'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - 'S: Sarong'
+    fra:
+    - - 'n: sarong'
+    rus:
+    - - 'сущ: саронг'
+      - сарунг
+    zho:
+    - - '名: 纱笼'
+    hin:
+    - - 'सं: सारोंग'
+    ara:
+    - - 'اسم: سارونج، سارونغ'
   trans_v2:
     eng:
       "n":
@@ -449944,12 +450033,25 @@ sarongi:
     spa:
       s:
       - sarong
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      S:
+      - Sarong
+    fra:
+      "n":
+      - sarong
+    rus:
+      сущ:
+      - саронг
+      - сарунг
+    zho:
+      名:
+      - 纱笼
+    hin:
+      सं:
+      - सारोंग
+    ara:
+      اسم:
+      - سارونج، سارونغ
   etymology:
     natlang:
       Arabisa: صَارُون &ldquo;sarun&rdquo;
@@ -455171,12 +455273,19 @@ semiesfer:
     spa:
     - - 's: hemisferio'
       - semiesfera
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - 'S: Hemisphäre'
+      - Halbkugel
+    fra:
+    - - 'n: hémisphère'
+    rus:
+    - - 'сущ: полушарие'
+    zho:
+    - - '名: 半球'
+    hin:
+    - - 'सं: गोलार्ध'
+    ara:
+    - - 'اسم: نِصْف كُرَة'
   trans_v2:
     eng:
       "n":
@@ -455190,12 +455299,25 @@ semiesfer:
       s:
       - hemisferio
       - semiesfera
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      S:
+      - Hemisphäre
+      - Halbkugel
+    fra:
+      "n":
+      - hémisphère
+    rus:
+      сущ:
+      - полушарие
+    zho:
+      名:
+      - 半球
+    hin:
+      सं:
+      - गोलार्ध
+    ara:
+      اسم:
+      - نِصْف كُرَة
   etymology:
     derived:
     - semi
@@ -457718,12 +457840,20 @@ senti:
     - - 's: centavo'
       - céntimo
       - centésimo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - 'S: Cent'
+    fra:
+    - - 'n: cent'
+      - centime
+      - sou
+    rus:
+    - - 'сущ: цент'
+    zho:
+    - - '名: 分 (货币单位)'
+    hin:
+    - - 'सं: सेण्ट (मुद्रा)'
+    ara:
+    - - 'اسم: سنت'
   trans_v2:
     eng:
       "n":
@@ -457736,12 +457866,26 @@ senti:
       - centavo
       - céntimo
       - centésimo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      S:
+      - Cent
+    fra:
+      "n":
+      - cent
+      - centime
+      - sou
+    rus:
+      сущ:
+      - цент
+    zho:
+      名:
+      - 分 (货币单位)
+    hin:
+      सं:
+      - सेण्ट (मुद्रा)
+    ara:
+      اسم:
+      - سنت
   etymology:
     natlang:
       Arabisa: سنت &ldquo;sint&rdquo;
@@ -458318,9 +458462,12 @@ servimesa:
     spa:
     - - 's: mostrador'
     deu: []
-    fra: []
+    fra:
+    - - 'n: guichet'
+      - comptoir
     rus: []
-    zho: []
+    zho:
+    - - '名: 柜台'
     hin: []
     ara: []
   trans_v2:
@@ -458335,9 +458482,14 @@ servimesa:
       s:
       - mostrador
     deu: []
-    fra: []
+    fra:
+      "n":
+      - guichet
+      - comptoir
     rus: []
-    zho: []
+    zho:
+      名:
+      - 柜台
     hin: []
     ara: []
   etymology:
@@ -465047,9 +465199,11 @@ sisadwan:
       - estrella hexagonal
       - estrella de seis puntas
     deu: []
-    fra: []
+    fra:
+    - - 'n: hexagramme'
     rus: []
-    zho: []
+    zho:
+    - - '名: 六角星'
     hin: []
     ara: []
   trans_v2:
@@ -465067,9 +465221,13 @@ sisadwan:
       - estrella hexagonal
       - estrella de seis puntas
     deu: []
-    fra: []
+    fra:
+      "n":
+      - hexagramme
     rus: []
-    zho: []
+    zho:
+      名:
+      - 六角星
     hin: []
     ara: []
   etymology:
@@ -468417,7 +468575,8 @@ solkalxey:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+    - - '名: 杂质'
     hin: []
     ara: []
   trans_v2:
@@ -468433,7 +468592,9 @@ solkalxey:
     deu: []
     fra: []
     rus: []
-    zho: []
+    zho:
+      名:
+      - 杂质
     hin: []
     ara: []
   etymology:
@@ -471508,12 +471669,18 @@ soyasawsa:
     - - 's: salsa de soya'
       - salsa de soja
       - salsa china
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - 'S: Sojasoße'
+    fra:
+    - - 'n: sauce de soja'
+    rus:
+    - - 'сущ: соевый соус'
+    zho:
+    - - '名: 酱油'
+    hin:
+    - - 'सं: सॉय सॉस'
+    ara:
+    - - 'اسم: صَلْصَةْ اَلصُّويَا'
   trans_v2:
     eng:
       "n":
@@ -471526,12 +471693,24 @@ soyasawsa:
       - salsa de soya
       - salsa de soja
       - salsa china
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      S:
+      - Sojasoße
+    fra:
+      "n":
+      - sauce de soja
+    rus:
+      сущ:
+      - соевый соус
+    zho:
+      名:
+      - 酱油
+    hin:
+      सं:
+      - सॉय सॉस
+    ara:
+      اسم:
+      - صَلْصَةْ اَلصُّويَا
   etymology:
     derived:
     - soya
@@ -481866,12 +482045,17 @@ taekwondo:
     - - tekvondo
     spa:
     - - 's: taekwondo'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - 'S: Taekwondo'
+    fra:
+    - - 'n: taekwondo'
+    rus:
+    - - 'сущ: тхэквондо'
+    zho:
+    - - '名: 跆拳道'
     hin: []
-    ara: []
+    ara:
+    - - 'اسم: تَايْكُونْدُو'
   trans_v2:
     eng:
       "n":
@@ -481884,12 +482068,22 @@ taekwondo:
     spa:
       s:
       - taekwondo
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+      S:
+      - Taekwondo
+    fra:
+      "n":
+      - taekwondo
+    rus:
+      сущ:
+      - тхэквондо
+    zho:
+      名:
+      - 跆拳道
     hin: []
-    ara: []
+    ara:
+      اسم:
+      - تَايْكُونْدُو
   etymology:
     natlang:
       Arabisa: تَايْكُونْدُو &ldquo;taykundu&rdquo;
@@ -493617,12 +493811,19 @@ termobalon:
     - - 's: varmaerbalono'
     spa:
     - - 's: globo (aerostático)'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - 'S: Heißluftballon'
+    fra:
+    - - 'n: montgolfière'
+      - ballon à air chaud
+    rus:
+    - - 'сущ: монгольфьер'
+    zho:
+    - - '名: 热气球'
+    hin:
+    - - 'सं: ग़ुब्बारा'
+    ara:
+    - - 'اسم: منطاد الهواء الساخن'
   trans_v2:
     eng:
       "n":
@@ -493633,12 +493834,25 @@ termobalon:
     spa:
       s:
       - globo (aerostático)
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      S:
+      - Heißluftballon
+    fra:
+      "n":
+      - montgolfière
+      - ballon à air chaud
+    rus:
+      сущ:
+      - монгольфьер
+    zho:
+      名:
+      - 热气球
+    hin:
+      सं:
+      - ग़ुब्बारा
+    ara:
+      اسم:
+      - منطاد الهواء الساخن
   etymology:
     derived:
     - termo
@@ -528681,7 +528895,7 @@ woxakamer:
     spa:
     - - 's: lavandería'
     deu:
-    - - Waschküche
+    - - 'S: Waschküche'
       - Waschraum
     fra: []
     rus: []
@@ -528699,7 +528913,7 @@ woxakamer:
       s:
       - lavandería
     deu:
-      "":
+      S:
       - Waschküche
       - Waschraum
     fra: []
@@ -544793,33 +545007,57 @@ yamkamer:
     eng:
     - - 'n: dining room'
     epo:
-    - - 's: manĝoĉambro'
-      - manĝejo
+    - - 's: manĝejo'
+      - manĝoĉambro
     spa:
     - - 's: comedor'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+    - - 'S: Esszimmer'
+      - Speisezimmer
+    fra:
+    - - 'n: salle à manger'
+    rus:
+    - - 'сущ: столовая'
+      - обеденная комната
+    zho:
+    - - '名: 餐厅'
+      - 饭厅
+    hin:
+    - - 'सं: भोजन कक्ष'
+    ara:
+    - - 'اسم: غُرْفَة طَعَام، غُرْفَة السُّفْرَة'
   trans_v2:
     eng:
       "n":
       - dining room
     epo:
       s:
-      - manĝoĉambro
       - manĝejo
+      - manĝoĉambro
     spa:
       s:
       - comedor
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    deu:
+      S:
+      - Esszimmer
+      - Speisezimmer
+    fra:
+      "n":
+      - salle à manger
+    rus:
+      сущ:
+      - столовая
+      - обеденная комната
+    zho:
+      名:
+      - 餐厅
+      - 饭厅
+    hin:
+      सं:
+      - भोजन कक्ष
+    ara:
+      اسم:
+      - غُرْفَة طَعَام، غُرْفَة السُّفْرَة
   etymology:
     derived:
     - yam
