@@ -140890,9 +140890,9 @@ estrimi:
     - - 'v.tr: flui'
     spa:
     - - 's: transmisión (en directo)'
-      - streaming
+      - <em>stream</em>
     - - 'v.tr: transmitir en directo'
-      - hacer streaming
+      - hacer <em>streaming</em>
     deu: []
     fra: []
     rus: []
@@ -140915,10 +140915,10 @@ estrimi:
     spa:
       s:
       - transmisión (en directo)
-      - streaming
+      - <em>stream</em>
       v.tr:
       - transmitir en directo
-      - hacer streaming
+      - hacer <em>streaming</em>
     deu: []
     fra: []
     rus: []
@@ -552954,10 +552954,14 @@ zafiro:
     - - 's: safiro'
     spa:
     - - 's: zafiro'
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+    - - 'S: Saphir'
+    fra:
+    - - 'n: saphir'
+    rus:
+    - - 'сущ: сапфир'
+    zho:
+    - - '名: 蓝宝石'
     hin: []
     ara: []
   trans_v2:
@@ -552970,14 +552974,23 @@ zafiro:
     spa:
       s:
       - zafiro
-    deu: []
-    fra: []
-    rus: []
-    zho: []
+    deu:
+      S:
+      - Saphir
+    fra:
+      "n":
+      - saphir
+    rus:
+      сущ:
+      - сапфир
+    zho:
+      名:
+      - 蓝宝石
     hin: []
     ara: []
   etymology:
     natlang:
+      Arabisa: زَفِير &ldquo;zafir&rdquo;
       Doycisa: Saphir
       Englisa: sapphire
       Espanisa: zafiro
