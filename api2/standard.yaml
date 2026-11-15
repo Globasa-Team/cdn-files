@@ -51478,6 +51478,41 @@ bekir:
       Parsisa: بکر &ldquo;bekr&rdquo;, باکره &ldquo;bakere&rdquo;
       Swahilisa: bikira
       Turkisa: bakir, bakire
+bekirya:
+  term: bekirya
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: viriginty'
+    epo:
+    - - 's: virgeco'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - viriginty
+    epo:
+      s:
+      - virgeco
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - bekir
+    - +
+    - -ya
 bekiryen:
   term: bekiryen
   word class: b
@@ -51540,6 +51575,45 @@ bekiryen:
   etymology:
     derived:
     - bekir
+    - +
+    - -yen
+bekomisiyen:
+  term: bekomisiyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: commissioner (<em>one commissioned to do something</em>)'
+    epo:
+    - - 's: komisiito'
+      - makleristo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - commissioner (<em>one commissioned to do something</em>)
+    epo:
+      s:
+      - komisiito
+      - makleristo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - be-
+    - +
+    - komisi
     - +
     - -yen
 bekoneyen:
@@ -81796,6 +81870,7 @@ cipen:
       - deceit
     - - 'v.tr: deceive'
       - cheat (on)
+      - fool
     epo:
     - - 's: trompo'
     - - 'v.tr: trompi'
@@ -81818,6 +81893,7 @@ cipen:
       v.tr:
       - deceive
       - cheat (on)
+      - fool
     epo:
       s:
       - trompo
@@ -88395,12 +88471,14 @@ dahabukolordo:
     eng:
     - - 'adj: gold'
       - golden (<em>color/colour</em>)
+      - blond
     epo:
     - - 'adj: orkolora'
-    - - 'adv: orkolore'
+      - blonda
     spa:
     - - 'adj: dorado'
       - color oro
+      - rubio
     deu: []
     fra: []
     rus: []
@@ -88412,15 +88490,16 @@ dahabukolordo:
       adj:
       - gold
       - golden (<em>color/colour</em>)
+      - blond
     epo:
       adj:
       - orkolora
-      adv:
-      - orkolore
+      - blonda
     spa:
       adj:
       - dorado
       - color oro
+      - rubio
     deu: []
     fra: []
     rus: []
@@ -88486,12 +88565,14 @@ dahabusim:
   trans:
     eng:
     - - 'adj: golden'
+      - blond
     epo:
     - - 'adj: oreca'
-    - - 'adv: orece'
+      - blonda
     spa:
     - - 'adj: dorado'
       - áureo
+      - rubio
     deu: []
     fra: []
     rus: []
@@ -88502,15 +88583,16 @@ dahabusim:
     eng:
       adj:
       - golden
+      - blond
     epo:
       adj:
       - oreca
-      adv:
-      - orece
+      - blonda
     spa:
       adj:
       - dorado
       - áureo
+      - rubio
     deu: []
     fra: []
     rus: []
@@ -125077,6 +125159,46 @@ eger_si:
     - eger
     - ','
     - si
+egnomo:
+  term: egnomo
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: gnome'
+    epo:
+    - - 's: gnomo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - gnome
+    epo:
+      s:
+      - gnomo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Doycisa: Gnom
+      Englisa: gnome
+      Espanisa: gnomo, nomo
+      Fransesa: gnome
+      Koreasa: 놈 &ldquo;nom&rdquo;
+      Niponsa: ノーム &ldquo;nomu&rdquo;
+      Parsisa: گنوم &ldquo;genom&rdquo;, نوم &ldquo;nom&rdquo;
+      Rusisa: гном &ldquo;gnom&rdquo;
 egnu:
   term: egnu
   word class: b
@@ -212503,6 +212625,44 @@ hukimudom:
     - hukimu
     - +
     - -dom
+hukimukamer:
+  term: hukimukamer
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: courtroom'
+    epo:
+    - - 's: juĝejo'
+    spa:
+    - - 's: sala de un tribunal'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - courtroom
+    epo:
+      s:
+      - juĝejo
+    spa:
+      s:
+      - sala de un tribunal
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - hukimu
+    - +
+    - kamer
 hukimutim:
   term: hukimutim
   word class: b
@@ -231521,6 +231681,78 @@ jacigi:
     - jaci
     - +
     - -gi
+jacikal:
+  term: jacikal
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: worthless'
+    epo:
+    - - 'adj: senvalora'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - worthless
+    epo:
+      adj:
+      - senvalora
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - jaci
+    - +
+    - -kal
+jacinenible:
+  term: jacinenible
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: invaluable'
+    epo:
+    - - 'adj: netaksebla'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - invaluable
+    epo:
+      adj:
+      - netaksebla
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - jaci
+    - +
+    - nen-
+    - +
+    - ible
 jacipul:
   term: jacipul
   word class: t
@@ -243299,6 +243531,41 @@ jubinhamburger:
     - jubin
     - +
     - hamburger
+jubinkeke:
+  term: jubinkeke
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: cheesecake'
+    epo:
+    - - 's: fromaĝkuko'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - cheesecake
+    epo:
+      s:
+      - fromaĝkuko
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - jubin
+    - +
+    - keke
 judan:
   term: judan
   word class: b
@@ -256855,6 +257122,56 @@ kaprico:
       Portugalsa: capricho
       Rusisa: каприз &ldquo;kapriz&rdquo;
       Turkisa: kapris
+kapucino:
+  term: kapucino
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: cappuccino'
+    epo:
+    - - 's: kapuĉino'
+    spa:
+    - - 's: capuchino'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - cappuccino
+    epo:
+      s:
+      - kapuĉino
+    spa:
+      s:
+      - capuchino
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Arabisa: كَابُتْشِينُو &ldquo;kabutxinu&rdquo;
+      Doycisa: Cappuccino
+      Englisa: cappuccino
+      Espanisa: capuchino
+      Fransesa: cappuccino
+      Hindi: कापुचीनो &ldquo;kapucino&rdquo;
+      Koreasa: 카푸치노 &ldquo;kapucino&rdquo;
+      Niponsa: カプチーノ &ldquo;kapucino&rdquo;
+      Parsisa: کاپوچینو &ldquo;kapucinu&rdquo;
+      Putunhwa: 卡布奇诺 &ldquo;kabucinwo&rdquo;
+      Rusisa: капучино &ldquo;kapucino&rdquo;
+      Swahilisa: kapuchino
+      Telugusa: కాపుచినో &ldquo;kapucino&rdquo;
+      Turkisa: kapu&ccedil;ino
+      Vyetnamsa: cappuccino
 kapuco:
   term: kapuco
   word class: b
@@ -268239,6 +268556,42 @@ kima:
       Indonesisa: kimat
       Parsisa: قیمت &ldquo;geymat&rdquo;
       Turkisa: kıymet
+kimaginenible:
+  term: kimaginenible
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: priceless'
+    epo: []
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - priceless
+    epo: []
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - kima
+    - +
+    - -gi
+    - +
+    - nen-
+    - +
+    - ible
 kimakal:
   term: kimakal
   word class: t
@@ -275888,17 +276241,18 @@ komiki:
       Telugusa: కామిక్స్ &ldquo;kamiks&rdquo;
 komisi:
   term: komisi
-  word class: b
+  word class: b.oj
   category: root
   trans:
     eng:
     - - 'n: commission'
+    - - 'v.tr: commission'
     epo:
     - - 's: komisio'
-    - - 'v: komisii'
+    - - 'v.tr: komisii'
     spa:
     - - 's: comisión'
-    - - 'v: comisionar'
+    - - 'v.tr: comisionar'
     deu: []
     fra: []
     rus: []
@@ -275909,15 +276263,17 @@ komisi:
     eng:
       "n":
       - commission
+      v.tr:
+      - commission
     epo:
       s:
       - komisio
-      v:
+      v.tr:
       - komisii
     spa:
       s:
       - comisión
-      v:
+      v.tr:
       - comisionar
     deu: []
     fra: []
@@ -275940,6 +276296,193 @@ komisi:
       Swahilisa: kamisheni
       Telugusa: కమిషన్ &ldquo;kamixan&rdquo;
       Turkisa: komisyon
+komisifisu:
+  term: komisifisu
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: commission (fee)'
+      - brokerage
+    epo:
+    - - 's: kurtaĝo'
+      - makler(aĵ)o
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - commission (fee)
+      - brokerage
+    epo:
+      s:
+      - kurtaĝo
+      - makler(aĵ)o
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - komisi
+    - +
+    - fisu
+komisitim:
+  term: komisitim
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: commission'
+      - committee
+    epo:
+    - - 's: komisiono'
+      - komitato
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - commission
+      - committee
+    epo:
+      s:
+      - komisiono
+      - komitato
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - komisi
+    - +
+    - tim
+komisitimyen:
+  term: komisitimyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: commissioner (<em>member of a commission</em>)'
+    epo:
+    - - 's: komisionano'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - commissioner (<em>member of a commission</em>)
+    epo:
+      s:
+      - komisionano
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - komisi
+    - +
+    - -tim
+    - +
+    - -yen
+komisixey:
+  term: komisixey
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: commission'
+      - commissioned piece (<em>art, design, etc</em>)
+    epo:
+    - - 's: komisiita verko'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - commission
+      - commissioned piece (<em>art, design, etc</em>)
+    epo:
+      s:
+      - komisiita verko
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - komisi
+    - +
+    - -xey
+komisiyen:
+  term: komisiyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: commissioner (<em>one who commissions something</em>)'
+    epo:
+    - - 's: komisianto'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - commissioner (<em>one who commissions something</em>)
+    epo:
+      s:
+      - komisianto
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - komisi
+    - +
+    - -yen
 komori:
   term: Komori
   word class: su n
@@ -282927,6 +283470,46 @@ kostruido:
     - kostrui
     - +
     - -do
+kostruiginyem:
+  term: kostruiginyem
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: monument'
+      - memorial
+    epo:
+    - - 's: monumento'
+    spa:
+    - - 's: monumento'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - monument
+      - memorial
+    epo:
+      s:
+      - monumento
+    spa:
+      s:
+      - monumento
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - kostrui
+    - +
+    - ginyem
 kostruixey:
   term: kostruixey
   word class: b
@@ -297477,6 +298060,56 @@ larva:
       Pilipinasa: larba
       Swahilisa: lava
       Turkisa: larva
+lasanya:
+  term: lasanya
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 's: lasagna'
+      - lasagne
+    epo:
+    - - 's: lasanjoj'
+    spa:
+    - - 's: lasaña'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      s:
+      - lasagna
+      - lasagne
+    epo:
+      s:
+      - lasanjoj
+    spa:
+      s:
+      - lasaña
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Arabisa: لَازَانْيَا &ldquo;lazanya&rdquo;
+      Doycisa: Lasagne
+      Englisa: lasagna, lasagne
+      Espanisa: lasa&ntilde;a
+      Fransesa: lasagne
+      Hindi: लज़ान्या &ldquo;lazanya&rdquo;
+      Indonesisa: lasanya
+      Koreasa: 라자냐 &ldquo;rajanya&rdquo;, 라사냐 &ldquo;rasanya&rdquo;
+      Niponsa: ラザニア &ldquo;razania&rdquo;
+      Parsisa: لازانیا &ldquo;l&acirc;z&acirc;ny&acirc;&rdquo;
+      Rusisa: лазанья &ldquo;laznya&rdquo;
+      Turkisa: lazanya
+      Vyetnamsa: lasagna
 laser:
   term: laser
   word class: b
@@ -318827,6 +319460,59 @@ makale:
       Parsisa: مقاله &ldquo;magale&rdquo;
       Swahilisa: makala
       Turkisa: makale
+makaroni:
+  term: makaroni
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - s
+    - - macaroni
+    epo:
+    - - 's: makaronioj'
+    spa:
+    - - 's: macarrones'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      noun:
+      - s
+      verb:
+      - macaroni
+    epo:
+      s:
+      - makaronioj
+    spa:
+      s:
+      - macarrones
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Arabisa: مَعْكَرُونَة &ldquo;makaruna&rdquo;
+      Doycisa: Makkaroni
+      Englisa: macaroni
+      Espanisa: macarrones
+      Fransesa: macaronis
+      Hindi: मैकरोनी &ldquo;mekaroni&rdquo;
+      Indonesisa: makaroni
+      Koreasa: 마카로니 &ldquo;makaroni&rdquo;
+      Niponsa: マカロニ &ldquo;makaroni&rdquo;
+      Parsisa: ماکارونی &ldquo;m&acirc;k&acirc;roni&rdquo;
+      Rusisa: макароны &ldquo;makaroni&rdquo;
+      Swahilisa: makaroni
+      Telugusa: మకరోని &ldquo;makaroni&rdquo;
+      Turkisa: makarna
+      Vyetnamsa: macar&ocirc;ni
 makedoni:
   term: Makedoni
   word class: su n
@@ -323363,6 +324049,46 @@ manikapul:
     - manika
     - +
     - -pul
+manikayen:
+  term: manikayen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: manic person'
+      - maniac
+    epo:
+    - - 's: maniulo'
+    spa:
+    - - 's: maníaco'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - manic person
+      - maniac
+    epo:
+      s:
+      - maniulo
+    spa:
+      s:
+      - maníaco
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - manika
+    - +
+    - -yen
 manipula:
   term: manipula
   word class: b.oj
@@ -343135,6 +343861,48 @@ mikasi:
       Arabisa: مقص &ldquo;mikass&rdquo;
       Swahilisa: mikasi
       Turkisa: makas
+mikriobio:
+  term: mikriobio
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: microbe'
+      - germ
+      - microogranism
+    epo:
+    - - 's: mikrobo'
+    spa:
+    - - 's: microbio'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - microbe
+      - germ
+      - microogranism
+    epo:
+      s:
+      - mikrobo
+    spa:
+      s:
+      - microbio
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - mikro
+    - +
+    - bio
 mikro:
   term: mikro
   word class: num
@@ -343202,20 +343970,13 @@ mikrobiologi:
     - - 'n: microbiology'
     epo:
     - - 's: mikrobiologio'
-    spa:
-    - - 's: microbiología'
-    deu:
-    - - 'S: Mikrobiologie'
-    fra:
-    - - 'n: microbiologie'
-    rus:
-    - - 'сущ: микробиология'
-    zho:
-    - - '名: 微生物学'
-    hin:
-    - - 'सं: सूक्ष्म जीव विज्ञान'
-    ara:
-    - - 'اسم: عِلْم الأَحْيَاء الدَّقِيقَة، مِيكْرُوبْيُولُوجْيَا'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
   trans_v2:
     eng:
       "n":
@@ -343223,34 +343984,20 @@ mikrobiologi:
     epo:
       s:
       - mikrobiologio
-    spa:
-      s:
-      - microbiología
-    deu:
-      S:
-      - Mikrobiologie
-    fra:
-      "n":
-      - microbiologie
-    rus:
-      сущ:
-      - микробиология
-    zho:
-      名:
-      - 微生物学
-    hin:
-      सं:
-      - सूक्ष्म जीव विज्ञान
-    ara:
-      اسم:
-      - عِلْم الأَحْيَاء الدَّقِيقَة، مِيكْرُوبْيُولُوجْيَا
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
   etymology:
     derived:
     - mikro
     - +
     - bio
     - +
-    - logi
+    - -logi
 mikrometro:
   term: mikrometro
   word class: b
@@ -353998,6 +354745,44 @@ moxwere:
       Parsisa: مشاوره &ldquo;moxavere&rdquo;, مشورت &ldquo;maxverat&rdquo;
       Swahilisa: shauri; -shauri
       Turkisa: meşveret, m&uuml;şavere
+moxwereyen:
+  term: moxwereyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: consultant'
+    epo:
+    - - 's: konsilanto'
+    spa:
+    - - 's: consultor'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - consultant
+    epo:
+      s:
+      - konsilanto
+    spa:
+      s:
+      - consultor
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - moxwere
+    - +
+    - -yen
 moy:
   term: moy
   word class: 'tabel: d'
@@ -373990,6 +374775,57 @@ niniya:
     - nini
     - +
     - -ya
+ninja:
+  term: ninja
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: ninja'
+    epo:
+    - - 's: ninĵo'
+      - ninĵao
+      - ninĝo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - ninja
+    epo:
+      s:
+      - ninĵo
+      - ninĵao
+      - ninĝo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Arabisa: نِينْجَا, نِنْجَا &ldquo;ninja&rdquo;
+      Doycisa: Ninja
+      Englisa: ninja
+      Espanisa: ninja
+      Fransesa: ninja
+      Hindi: निंजा, निञ्जा &ldquo;ninja&rdquo;
+      Indonesisa: ninja
+      Koreasa: 닌자 &ldquo;ninja&rdquo;
+      Niponsa: 忍者 &ldquo;ninja&rdquo;
+      Parsisa: نینْجا &ldquo;ninj&acirc;&rdquo;
+      Putunhwa: 忍者 &ldquo;renje&rdquo;
+      Rusisa: ниндзя &ldquo;nindzya&rdquo;
+      Telugusa: నింజా &ldquo;ninjā&rdquo;
+      Turkisa: ninja
+      Vyetnamsa: nhẫn giả
 nipon:
   term: Nipon
   word class: su n
@@ -381181,6 +382017,43 @@ ofisikamer:
     - ofisi
     - +
     - kamer
+ofisiyen:
+  term: ofisiyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: officer'
+      - official
+    epo:
+    - - 's: oficiro'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - officer
+      - official
+    epo:
+      s:
+      - oficiro
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ofisi
+    - +
+    - -yen
 oflima:
   term: oflima
   word class: b
@@ -394838,6 +395711,49 @@ pantera:
       Pilipinasa: pantera
       Rusisa: пантера &ldquo;pantera&rdquo;
       Turkisa: panter
+panti:
+  term: panti
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: panties'
+      - underpants
+    epo:
+    - - 's: kalsono'
+    spa:
+    - - 's: bragas'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - panties
+      - underpants
+    epo:
+      s:
+      - kalsono
+    spa:
+      s:
+      - bragas
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Banglasa: প্যান্টি &quot;pyanti&quot;
+      Englisa: panties
+      Hangusa: 팬티 &quot;penti&quot;
+      Niponsa: パンティー &quot;pantī&quot;
+      Pilipinasa: panti
+      Telugusa: ప్యాంటీలు &quot;pyantilu&quot;
 papa:
   term: papa
   word class: b
@@ -412920,6 +413836,49 @@ polemika:
       Niponsa: ポレミック &ldquo;poremiku&rdquo;
       Rusisa: полемика &ldquo;polemika&rdquo;
       Turkisa: polemik
+polemikakal:
+  term: polemikakal
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: uncontroversial'
+    - - 'adv: uncontroverially'
+    epo:
+    - - 'adj: nepolemika'
+    - - 'adv: nepolemike'
+      - sen polemiko
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - uncontroversial
+      adv:
+      - uncontroverially
+    epo:
+      adj:
+      - nepolemika
+      adv:
+      - nepolemike
+      - sen polemiko
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - polemika
+    - +
+    - -kal
 polemikapul:
   term: polemikapul
   word class: t
@@ -412931,10 +413890,7 @@ polemikapul:
     epo:
     - - 'adj: polemika'
     - - 'adv: polemike'
-    spa:
-    - - 'adj: controvertido'
-      - polémico
-    - - 'adv: de forma polémica'
+    spa: []
     deu: []
     fra: []
     rus: []
@@ -412952,12 +413908,7 @@ polemikapul:
       - polemika
       adv:
       - polemike
-    spa:
-      adj:
-      - controvertido
-      - polémico
-      adv:
-      - de forma polémica
+    spa: []
     deu: []
     fra: []
     rus: []
@@ -427677,6 +428628,41 @@ radya:
       Turkisa: radyasyon
     natlang similar:
       Vyetnamsa: ph&aacute;t ra tia
+radyaativo:
+  term: radyaativo
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: radioactive'
+    epo:
+    - - 'adj: radioaktiva'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - radioactive
+    epo:
+      adj:
+      - radioaktiva
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - radya
+    - +
+    - ativo
 radyagrafi:
   term: radyagrafi
   word class: b
@@ -452565,6 +453551,44 @@ segil:
       Turkisa: siğil
     natlang similar:
       Swahilisa: sugu
+segilkroa:
+  term: segilkroa
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: toad'
+    epo:
+    - - 's: bufo'
+    spa:
+    - - 's: sapo'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - toad
+    epo:
+      s:
+      - bufo
+    spa:
+      s:
+      - sapo
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - segil
+    - +
+    - kroa
 segoyondo:
   term: segoyondo
   word class: t
@@ -464783,7 +465807,7 @@ sirayeabil:
     derived:
     - siraye
     - +
-    - -abil
+    - abil
 sirayeible:
   term: sirayeible
   word class: t
@@ -464821,7 +465845,7 @@ sirayeible:
     derived:
     - siraye
     - +
-    - -ible
+    - ible
 sirayepul:
   term: sirayepul
   word class: t
@@ -467092,6 +468116,43 @@ sofikal:
     - sofi
     - +
     - -kal
+sofikalyen:
+  term: sofikalyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: fool'
+    epo:
+    - - 's: malsaĝulo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - fool
+    epo:
+      s:
+      - malsaĝulo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - sofi
+    - +
+    - -kal
+    - +
+    - -yen
 sofilogi:
   term: sofilogi
   word class: b
@@ -468311,6 +469372,50 @@ solainfracu:
     - infra
     - +
     - -cu
+solalense:
+  term: solalense
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: sunglasses'
+      - shades
+      - sunnies
+    epo:
+    - - 's: sunokulvitro'
+    spa:
+    - - 's: gafas de sol'
+      - lentes oscuras
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - sunglasses
+      - shades
+      - sunnies
+    epo:
+      s:
+      - sunokulvitro
+    spa:
+      s:
+      - gafas de sol
+      - lentes oscuras
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - sola
+    - +
+    - lense
 solali:
   term: solali
   word class: t
@@ -476116,6 +477221,44 @@ supra-:
   etymology:
     am oko:
       supra: supra
+suprabazar:
+  term: suprabazar
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: supermarket'
+    epo:
+    - - 's: superbazaro'
+    spa:
+    - - 's: supermercado'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - supermarket
+    epo:
+      s:
+      - superbazaro
+    spa:
+      s:
+      - supermercado
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - supra
+    - +
+    - bazar
 supracu:
   term: supracu
   word class: b.nenoj
@@ -476404,6 +477547,41 @@ supraidi:
     - supra-
     - +
     - idi
+suprakowa:
+  term: suprakowa
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: superpower'
+    epo:
+    - - 's: superpotenco'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - superpower
+    epo:
+      s:
+      - superpotenco
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - supra
+    - +
+    - kowa
 suprali:
   term: suprali
   word class: t
@@ -497059,6 +498237,43 @@ tingiku:
   etymology:
     natlang:
       Vyetnamsa: tinh nghịch &ldquo;tin ngik&rdquo;
+tingikuxey:
+  term: tingikuxey
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: prank'
+    epo:
+    - - 's: petolo'
+      - petolaĵo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - prank
+    epo:
+      s:
+      - petolo
+      - petolaĵo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - tingiku
+    - +
+    - -xey
 tingikuya:
   term: tingikuya
   word class: b
@@ -501381,6 +502596,47 @@ tonlala:
     - ton-
     - +
     - lala
+tonogaryen:
+  term: tonogaryen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: roommate'
+      - flatmate
+      - housemate
+    epo:
+    - - 's: kunloĝanto'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - roommate
+      - flatmate
+      - housemate
+    epo:
+      s:
+      - kunloĝanto
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ton-
+    - +
+    - ogar
+    - +
+    - -yen
 tonporta:
   term: tonporta
   word class: b.oj
@@ -503016,6 +504272,41 @@ tostatora:
     - tosta
     - +
     - tora
+tostatul:
+  term: tostatul
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: toaster'
+    epo:
+    - - 's: panrostilo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - toaster
+    epo:
+      s:
+      - panrostilo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - tosta
+    - +
+    - -tul
 tosu:
   term: tosu
   word class: su s
@@ -511337,6 +512628,64 @@ twejido:
     - tweji
     - +
     - -do
+twite:
+  term: twite
+  word class: b.oj
+  category: root
+  trans:
+    eng:
+    - - 'n: tweet'
+    - - 'v.tr: tweet'
+    epo:
+    - - 's: pepo'
+    - - 'v.tr: pepi'
+    spa:
+    - - 's: tweet'
+    - - 'v.tr: twittear'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - tweet
+      v.tr:
+      - tweet
+    epo:
+      s:
+      - pepo
+      v.tr:
+      - pepi
+    spa:
+      s:
+      - tweet
+      v.tr:
+      - twittear
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Doycisa: Tweet, twittern
+      Englisa: tweet
+      Espanisa: tweet, twittear
+      Fransesa: tweet, tweeter
+      Hindi: ट्वीट &ldquo;tvit&rdquo;
+      Indonesisa: tweet
+      Karnatakasa: ಟ್ವೀಟ್ &ldquo;tvit&rdquo;
+      Koreasa: 트윗 &ldquo;tuwit&rdquo;
+      Niponsa: ツイート &ldquo;tsuito&rdquo;
+      Parsisa: توییت &ldquo;tuit&rdquo;
+      Putunhwa: 推文 &ldquo;twiwen&rdquo;, 发推 &ldquo;fatwi&rdquo;
+      Rusisa: твит &ldquo;tvit&rdquo;, твитнуть &ldquo;tvitnut&rdquo;
+      Turkisa: tweet, tweetlek
+      Vyetnamsa: tweet
 tyan:
   term: tyan
   word class: b
@@ -512922,6 +514271,7 @@ ultra-:
     - - 'pfx: super- (<em>surpassing, transcending</em>)'
       - ultra-
       - beyond
+      - past
     epo:
     - - 'pfk: preter-'
     spa:
@@ -512940,6 +514290,7 @@ ultra-:
       - super- (<em>surpassing, transcending</em>)
       - ultra-
       - beyond
+      - past
     epo:
       pfk:
       - preter-
@@ -516040,6 +517391,54 @@ utaragarebi:
     - utara
     - +
     - garebi
+utarahirxa:
+  term: utarahirxa
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: reindeer'
+      - caribou
+      - <em>Rangifer</em>
+    epo:
+    - - 's: boaco'
+      - norda cervo
+      - rangifero
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - reindeer
+      - caribou
+      - <em>Rangifer</em>
+    epo:
+      s:
+      - boaco
+      - norda cervo
+      - rangifero
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - utara
+    - +
+    - hirxa
+    natlang similar:
+      Indonesisa: rusa kutub - kutubuli hirxa
+      Parsisa: گوزن شمالی
+      Rusisa: северный олень
+      Swahilisa: kulungu aktiki - artikoli hirxa
 utarakorea:
   term: Utarakorea
   word class: su n
@@ -518090,6 +519489,44 @@ vaso:
     natlang similar:
       Arabisa: وِعَاء &ldquo;wisa&rdquo;
       Vyetnamsa: v&ograve;
+vasoarte:
+  term: vasoarte
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: pottery'
+    epo:
+    - - 's: potfarado'
+    spa:
+    - - 's: alfarería'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - pottery
+    epo:
+      s:
+      - potfarado
+    spa:
+      s:
+      - alfarería
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - vaso
+    - +
+    - arte
 vaysu:
   term: vaysu
   word class: b
@@ -520004,6 +521441,41 @@ video:
       Telugusa: వీడియో &ldquo;vidiyo&rdquo;
       Turkisa: video
       Vyetnamsa: vi-đ&ecirc;-&ocirc;
+videobendu:
+  term: videobendu
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: videotape'
+    epo:
+    - - 's: vidbendo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - videotape
+    epo:
+      s:
+      - vidbendo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - video
+    - +
+    - bendu
 videoyuxi:
   term: videoyuxi
   word class: b
@@ -530540,6 +532012,49 @@ xagaf:
       Parsisa: شَغَف &ldquo;xagaf&rdquo;
       Turkisa: şağaf - nadir
       Urdu: شغف &ldquo;xegaf&rdquo;
+xagafpul:
+  term: xagafpul
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: passionate'
+      - fervent
+      - ardent
+    epo:
+    - - 'adj: pasia'
+      - fervora
+      - arda
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - passionate
+      - fervent
+      - ardent
+    epo:
+      adj:
+      - pasia
+      - fervora
+      - arda
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - xagaf
+    - +
+    - -pul
 xagami:
   term: xagami
   word class: b
@@ -547194,6 +548709,45 @@ yesen:
       Koreasa: 야생 &ldquo;yaseng&rdquo;
       Niponsa: 野生 &ldquo;yase&rdquo;
       Putunhwa: 野生 &ldquo;ye xong&rdquo;
+yesengeo:
+  term: yesengeo
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: wilderness'
+      - bush
+      - wilds
+    epo:
+    - - 's: sovaĝejo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - wilderness
+      - bush
+      - wilds
+    epo:
+      s:
+      - sovaĝejo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - yesen
+    - +
+    - geo
 yesenyen:
   term: yesenyen
   word class: b
