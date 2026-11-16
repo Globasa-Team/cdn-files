@@ -537,7 +537,7 @@ byuro	root	b	n: bureau, agency	s: buroo, agentejo	s: oficina, agencia				Doycisa
 byuroyen	derived	b	n: agent	s: agento	s: agente				byuro + -yen					S: Agent, Bevollmächtigter	n: agent	сущ: агент	名: 代理, 代理人	सं: एजेंट	اسم: وَكِيل، عَمِيل		TRUE
 cakal	root	b	n: jackal	s: ŝakalo	s: chacal	bwaw			Englisa (jackal), Espanisa (chacal), Fransesa (chacal), Rusisa (шакал “xakal”), Doycisa (Schakal), Indonesisa (jakal), Pilipinasa (tsakal), Niponsa (ジャッカル “jakaru”), Koreasa (자칼 “jakal”, 재칼 “jekal”), Turkisa (çakal), Parsisa (شغال “xogal”)					S: Schakal	n: chacal	сущ: шакал	名: 豺, 胡狼	सं: सियार, गीदड़	اسم: اِبْن آوَى		TRUE
 cakmake	root	b	n: flint, flintstone	s: siliko, fajroŝtono	s: pedernal, sílex	petra			Hindi (चकमक “cakamak”), Turkisa (çakmak taşı), Parsisa (چخماق “cahmag”)					S: Feuerstein, Flintstein	n: silex	сущ: кремень	名: 燧石, 火石	सं: चकमक पत्थर	اسم: صَوَّان، حَجَر الصَّوَّان		TRUE
-caku	root	b	n: chalk	s: kreto	s: tiza	petra			Englisa (chalk), Hindi (चाक “cak”), Niponsa (チョーク “coku”), Swahilisa (chaki), Pilipinasa (tsok)					S: Kreide	n: craie	сущ: мел	名: 粉笔	सं: चॉक, खड़िया	اسم: طَبَاشِير		TRUE
+caku	root	b	n: chalk	s: kreto	s: tiza	petra		kompara: sikwe	Englisa (chalk), Hindi (चाक “cak”), Niponsa (チョーク “coku”), Swahilisa (chaki), Pilipinasa (tsok)					S: Kreide	n: craie	сущ: мел	名: 粉笔	सं: चॉक, खड़िया	اسم: طَبَاشِير		TRUE
 cakutahta	derived	b	n: chalkboard, blackboard	s: kretotabulo, nigra tabulo	s: pizarra (_tablero_)	darsukamer			caku + tahta					S: Kreidetafel, Schultafel, Wandtafel	n: tableau (noir), ardoise	сущ: школьная доска, грифельная доска	名: 黑板	सं: श्यामपट, ब्लैकबोर्ड	اسم: سَبُّورَة، لَوْح طَبَاشِير		TRUE
 calun	root	b	n: wheel	s: rado	s: rueda	tul			Putunhwa (车轮 “co lwen”), Niponsa (車輪 “xarin”)					S: Rad	n: roue	сущ: колесо	名: 轮子, 车轮	सं: पहिया	اسم: عَجَلَة، دُولَاب		TRUE
 calunkursi	derived	b	n: wheelchair	s: rulseĝo	s: silla de ruedas	tul			calun + kursi					S: Rollstuhl	n: fauteuil roulant	сущ: инвалидная коляска	名: 轮椅	सं: व्हीलचेयर	اسم: كُرْسِيّ مُتَحَرِّك		TRUE
@@ -4375,7 +4375,7 @@ velosieskeyti	derived	b.nenoj	n: speed skating; v.intr: speed skate	s: rapid-ske
 voluntir	root	b.nenoj	n: volunteering; v.intr: volunteer	s: volontulado; v.ntr: volontuli	s: voluntariado; v.intr: ofrecerse como voluntario, hacer voluntariado				Englisa (volunteer), Espanisa (voluntario), Fransesa (volontaire), Pilipinasa (boluntaryo), Niponsa (ボランティア “borantia”)												TRUE
 wakufacu	derived	b.nenoj	v.intr (optional use of -cu): pause	s: paŭzo; v.ntr (nedeviga uzo de -cu): paŭzi	s: pausa; v.intr (uso opcional de -cu): hacer una pausa, detenerse				wakufa + -cu												TRUE
 waocu	derived	b.nenoj	v.intr: become amazed, become wowed	s: miriĝo; v.ntr: miriĝi	s: asombro; v.intr: asombrarse, maravillarse, quedar boquiabierto				wao + -cu												TRUE
-warum	root	b.nenoj	n: swelling; v.intr: swell	s: ŝvelo; v.ntr: ŝveli	s: hinchazón; v.intr: hincharse, inflamarse	medis			Arabisa (تورم “tawarrum”), Parsisa (تورم “tavarrom”, ورم “varam”)												TRUE
+warum	root	b.nenoj	n: swelling, inflation; v.intr: swell, inflate	s: ŝvelo; v.ntr: ŝveli	s: hinchazón; v.intr: hincharse, inflamarse	medis			Arabisa (تورم “tawarrum”), Parsisa (تورم “tavarrom”, ورم “varam”)												TRUE
 weycu	derived	b.nenoj	v.intr: get around, put itself around	s: ĉirkaŭiĝo; v.ntr: ĉirkaŭiĝi	v.intr: ponerse alrededor, rodear, envolverse				wey + -cu												TRUE
 xekaye	root	b.nenoj	n: complaint; v.intr: complain	s: plendo; v.ntr: plendi	s: queja; v.intr: quejarse				Hindi (शिकायत “xikayat”), Turkisa (şikayet), Parsisa (شكايت “xekayat”), Arabisa (شكوى “xakwa”), Fransesa (chicaya)												TRUE
 xencu	derived	b.nenoj	n: birth; v.intr: be born	s: naskiĝo; v.ntr: naskiĝi	s: nacimiento; v.intr: nacer				xen + -cu												TRUE
@@ -5268,7 +5268,7 @@ posti	root	b.oj	n: post; v.tr: post, display	s: afiŝo; v.tr: afiŝi	s: cartel, 
 postriunfa	derived	b.oj	n: defeat, loss; v.tr: lose	s: malvenko; v.tr: malvenki	s: derrota; v.tr: perder, ser derrotado				pos- + triunfa			triunfa									TRUE
 posxuli	derived	b.oj	n: breaking; v.tr: break (_cause to not function_)	s: nefunkciigo; v.tr: nefunkciigi	s: avería, rotura; v.tr: averiar, estropear, descomponer				pos- + xuli			xuli									TRUE
 posxwexi	derived	b.oj	n: unlearning; v.tr: unlearn	s: mallernado; v.tr: mallerni	s: desaprendizaje; v.tr: desaprender, olvidar lo aprendido				pos- + xwexi			xwexi									TRUE
-posyesengi	derived	b.oj	n: taming; v.tr: tame	s: malsovaĝigo; v.tr: malsovaĝigi	s: domesticación, doma; v.tr: domesticar, domar, amansar				pos- + yesen + -gi												TRUE
+posyesengi	derived	b.oj	n: taming; v.tr: tame	s: malsovaĝigo; v.tr: malsovaĝigi	s: domesticación, doma; v.tr: domesticar, domar, amansar				pos- + yesen + -gi		ogarligi										TRUE
 posyongu	derived	b.oj	n: waste, discarding; v.tr: waste, discard	s: malŝparo; v.tr: malŝpari	s: desperdicio, despilfarro; v.tr: desperdiciar, despilfarrar, desechar				pos- + yongu			yongu									TRUE
 praloben	derived	b.oj	n: enticement, allure, seduction; v.tr: entice, lure, seduce	s: allogo; v.tr: allogi, delogi	s: tentación, atracción, seducción; v.tr: tentar, atraer, seducir				Hindi (प्रलोभन “praloban”), Telugu (ప్రలోభం “pralobam”, ప్రలోభించు “pralobincu”)												TRUE
 pratika	root	b.oj	n: practice; v.tr: (put into) practice	s: praktiko; v.tr: praktiki	s: práctica; v.tr: practicar, poner en práctica				Englisa (practice, practical), Doycisa (praktisch), Fransesa (pratique), Espanisa (práctica), Rusisa (практика “praktika”), Portugalsa (prática), Italisa (pratica), Turkisa (pratik), Indonesisa (praktik)												TRUE
@@ -5307,7 +5307,7 @@ raxwa	root	b.oj	n: bribe; v.tr: bribe	s: subaĉetaĵo; v.tr: subaĉeti	s: soborn
 realgi	derived	b.oj	n: realization, realisation; v.tr: realize, realise, make (_something_) real	s: realigo; v.tr: realigi	s: realización; v.tr: realizar, hacer realidad, materializar				real + -gi												TRUE
 recepe	root	b.oj	n: recipe, prescription; v.tr: prescribe	s: recepto, preskribo; v.tr: recepti, preskribi	s: receta, prescripción; v.tr: recetar, prescribir	kokiarte, medis			Englisa (recipe), Espanisa (receta, recetar), Fransesa (recette), Rusisa (рецепт “retsept”), Doycisa (Rezept), Portugalsa (receita), Italisa (ricetta), Indonesisa (resep), Pilipinasa (reseta), Utaralevanteli Arabisa (روشتة “ruxatta”), Niponsa (レシピ “rexipi”), Turkisa (reçete), Koreasa (레시피 “rexipi”), Swahilisa (resipi)												TRUE
 reforma	root	b.oj	n: reformation; v.tr: reform	s: reformo, reformacio; v.tr: reformi	s: reforma; v.tr: reformar				Englisa (reformation, reform), Espanisa (reforma, reformar), Fransesa (réforme), Rusisa (реформа “reforma”), Doycisa (Reform), Pilipinasa (reporma), Hindi (रिफ़ार्म “rifarm”), Turkisa (reform), Parsisa (رفرم “reform”)												TRUE
-reheni	root	b.oj	n: mortgage; v.tr: mortgage	s: hipoteko; v.tr: hipoteki	s: hipoteca; v.tr: hipotecar	ekonomi			Hindi (रेहन “rehan”), Arabisa (رَهْن “rahn”, رَهَنَ “rahana”), Turkisa (rehin), Parsisa (رهن “rahn”), Swahilisa (rehani)						hypothèque; hypothéquer						TRUE
+reheni	root	b.oj	n: mortgage, pawning; v.tr: mortgage, pawn	s: hipoteko, lombardo; v.tr: hipoteki, lombardi	s: hipoteca; v.tr: hipotecar	ekonomi			Hindi (रेहन “rehan”), Arabisa (رَهْن “rahn”, رَهَنَ “rahana”), Turkisa (rehin), Parsisa (رهن “rahn”), Swahilisa (rehani)						hypothèque; hypothéquer						TRUE
 reki	root	b.oj	n: rake, harrow; v.tr: rake, harrow	s: rastilo, erpilo; v.tr: rasti, erpi	s: rastrillo, grada; v.tr: rastrillar, gradar	tul			Englisa (rake, raking), Doycisa (Rechen), Niponsa (レーキ “reki”), Swahilisa (reki)					Rechen, Harke; rechen, harken	râteau; ratisser		耙				TRUE
 reklama	root	b.oj	n: ad, advertisement, commercial; v.tr: advertise	s: anonco; v.tr: anonci	s: anuncio, publicidad, comercial; v.tr: anunciar, publicitar	500 maxim pimpan genulexi ji fikso, bage 4 de lista 500			Espanisa (reclamo), Rusisa (реклама “reklama”), Doycisa (Reklame), Nederisa (reclame), Turkisa (treklam), Indonesisa (reklame), Estisa (reklaam)												TRUE
 rekomenda	root	b.oj	n: recommendation; v.tr: recommend	s: rekomendo; v.tr: rekomendi	s: recomendación; v.tr: recomendar	500 maxim pimpan genulexi ji fikso, bage 4 de lista 500			Englisa (recommendation), Espanisa (recomendación), Fransesa (recommandation), Rusisa (рекомендация “rekomendatsiya”), Swerisa (rekommendation), Indonesisa (rekomendasi), Pilipinasa (rekomendasyon)												TRUE
@@ -5340,7 +5340,7 @@ rukone	derived	b.oj	n: recognition; v.tr: recognize (_identify_), recognise	s: r
 runeogi	derived	b.oj	n: renovation, renewal; v.tr: renovate, renew	s: renovigo; v.tr: renovigi	s: renovación; v.tr: renovar, restaurar				ru- + neo + -gi												TRUE
 ruoko	derived	b.oj	v.tr: look back	s: rerigardo, malantaŭa regardo; v.tr: rerigardi, rigardi malantaŭen	v.tr: mirar atrás, volver la vista atrás				ru- + oko												TRUE
 rupaya	derived	b.oj	n: repayment; v.tr: repay	s: repago; v.tr: repagi	s: reembolso, devolución; v.tr: reembolsar, devolver, pagar de vuelta				ru- + paya												TRUE
-rupel	derived	b.oj	v.tr: push back	s: repelo, repuŝo; v.tr: repeli, repuŝi	s: rechazo; v.tr: empujar hacia atrás, rechazar, repeler				ru- + pel												TRUE
+rupel	derived	b.oj	v.tr: push back, repel	s: repelo, repuŝo; v.tr: repeli, repuŝi	s: rechazo; v.tr: empujar hacia atrás, rechazar, repeler				ru- + pel												TRUE
 rupesa	derived	b.oj	n: refund; v.tr: refund	s: repago, ristorno; v.tr: repagi, ristorni	s: reembolso; v.tr: reembolsar, devolver el dinero				ru- + pesa												TRUE
 ruwoju	derived	b.oj	n: support (_from behind or metaphorically_); v.tr: support, back (up)	s: apogo; v.tr: apogi	s: apoyo, respaldo; v.tr: apoyar, respaldar				ru- + woju												TRUE
 sabike	root	b.oj	n: race (_competition_); v.tr: race	s: vetkuro, kurkonkurso; v.tr: vetkuri, kurkonkursi	s: carrera; v.tr: competir en una carrera, echar una carrera				Arabisa (سِبَاق “sibak”, سَابَقَ “sabaka”, يُسَابِقُ “yusabiku”), Parsisa (مسابقه “mosabege”), Turkisa (müsabaka)												TRUE
@@ -5577,7 +5577,7 @@ yongu	root	b.oj	n: use, usage, utilization, utilisation, employment; v.tr: use, 
 yonidi	derived	b.oj	n: ride; v.tr: ride	s: rajdo; v.tr: rajdi	s: paseo, monta; v.tr: montar, cabalgar, ir montado en				yon- + idi												TRUE
 yonigi	derived	b.oj	n: ionization, ionisation; v.tr: ionize (_cause to become an ion_), ionise	s: jonigo; v.tr: jonigi	s: ionización; v.tr: ionizar				yoni + -gi												TRUE
 yozaykalgi	derived	b.oj	n: acquittal, absolution; v.tr: acquit, absolve	s: senkulpigo; v.tr: senkulpigi	s: absolución; v.tr: absolver, exculpar, exonerar				yozay + -kal + -gi												TRUE
-yunkigi	derived	b.oj	n: encouragement; v.tr: encourage	s: kuraĝigado; v.tr: kuraĝigi	s: ánimo, aliento, estímulo; v.tr: animar, alentar, estimular				yunki + -gi												TRUE
+yunkiya	derived	b	n: encouragement	s: kuraĝigado	s: ánimo, aliento, estímulo				yunki + -ya												TRUE
 yuxi	root	b.oj	n: game, match (_game, sport_); v.tr: play	s: ludo; v.tr: ludi	s: juego, partido, partida; v.tr: jugar	500 maxim pimpan genulexi ji fikso, bage 2 de lista 500			Putunhwa (游戏 “yowxi”), Niponsa (遊戯 “yugi”), Koreasa (유희 “yuhwi”)							игра; играть					TRUE
 zabatu	root	b.oj	n: confiscation, expropriation, forfeiture, seizure; v.tr: confiscate, expropriate, forfeit, seize, sequester, commandeer	s: konfisko, forpreno; v.tr: konfiski, forpreni	s: confiscación, expropiación, incautación; v.tr: confiscar, expropiar, incautar, decomisar				Hindi (ज़ब्त “zabt”), Telugusa (జప్తు “japtu”), Arabisa (ضَبْط “dabt”, ضَبَطَ “dabata”), Parsisa (ضبط “zabt”), Turkisa (zabt), Rusisa (забрать “zabrat”)												TRUE
 zakere	root	b.oj	n: negotiation; v.tr: negotiate	s: intertraktado; v.tr: pritrakti, intertrakti	s: negociación; v.tr: negociar				Arabisa (ذَاكَرَ “zakara”), Parsisa (مذاکره “mozakere”), Turkisa (müzakere)							переговоры; вести переговоры					TRUE
@@ -5875,7 +5875,7 @@ xohra	root	b.oro.jotay	n: fame; v.tr: make (_somebody_) famous, cause (_somebody
 xorixi	derived	b.oro.jotay	v.tr: make (_somebody_) conscious, cause (_somebody_) to become conscious, make (_somebody_) aware, cause (_somebody_) to become aware; v.intr: become conscious, become aware, realize, realise	v.tr: konsciigi; v.ntr: konsciiĝi, ekkonscii	v.tr: concienciar, hacer que alguien tome conciencia; v.intr: darse cuenta, percatarse, tomar conciencia				xor- + ixi												TRUE
 yozay	root	b.oro.jotay	n: guilt, fault, blame; v.tr: blame; v.intr: be guilty	s: kulpo; v.tr: kulpigi; v.ntr: kulpi	s: culpa, culpabilidad; v.tr: culpar, echar la culpa a; v.intr: ser culpable, tener la culpa	lega			Putunhwa (有罪 “yow dzwey”), Niponsa (有罪 “yuzai”)					Schuld; beschuldigen; schuld sein							TRUE
 yukyo	root	b.oro.jotay	n: validity; v.tr: validate, make (_something_) valid; v.intr: be valid	s: valideco; v.tr: validigi; v.ntr: validi	s: validez; v.tr: validar, dar validez a; v.intr: ser válido, tener validez		validity, be valid, is valid, valid, validly		Koreasa (유효 “yuhyo”), Niponsa (有効 “yuko”), Putunhwa (有效 “yow xyaw”)												TRUE
-yunki	root	b.oro.jotay	n: courage; v.tr: make (_somebody_) courageous, encourage; v.intr: be courageous, have the courage (to, for), dare (to)	s: kuraĝo; v.tr: kuraĝigi; v.ntr: kuraĝi	s: valor, valentía, coraje; v.tr: animar, envalentonar, dar valor a; v.intr: ser valiente, tener el valor (de), atreverse (a)				Putunhwa (勇气 “yung ci”), Niponsa (勇気 “yuki”), Koreasa (용기 “yonggi”)												TRUE
+yunki	root	b.oro.jotay	n: courage; v.tr: make (_somebody_) courageous, encourage; v.intr: be courageous, have the courage (to, for), dare (to)	s: kuraĝo; v.tr: kuraĝigi; v.ntr: kuraĝi	s: valor, valentía, coraje; v.tr: animar, alentar, envalentonar, dar valor a; v.intr: ser valiente, tener el valor (de), atreverse (a)				Putunhwa (勇气 “yung ci”), Niponsa (勇気 “yuki”), Koreasa (용기 “yonggi”)												TRUE
 zukam	root	b.oro.jotay	n: (common) cold; v.tr: cause colds; v.intr: have a cold	s: malvarmumo; v.tr: malvarmumigi; v.ntr: malvarmumi	s: resfriado (común), resfrío, catarro; v.tr: causar resfriados, resfriar; v.intr: estar resfriado, resfriarse, tener catarro	bimarya			Hindi (ज़ुकाम “zukam”), Arabisa (زُكَام “zukam”), Turkisa (zükâm), Parsisa (زکام “zokam”), Vyetnamsa (cảm “kam”)					Erkältung, Verkühlung	rhume	простуда	感冒				TRUE
 duacalundao	derived	d	n: bicycle path, bike path, cycle path, bike lane, bikeway, cycleway	s: biciklovojo	s: pista bici, pista ciclable, bicipista, vía ciclista, vía ciclable, ciclovía	trafiko			dua + calun + dao												TRUE
 dunyaesfer	derived	d	n: globe	s: terglobuso	s: globo				Dunya + esfer												TRUE
@@ -9526,44 +9526,225 @@ radikal	root	t	adj: radical; adv: radically	adj: radikala; adv: radikale	adj: ra
 juikal	derived	t	adj: careless; adv: carelessly	adj: senzorga; adv: senzorge					jui + -kal												TRUE
 fakir	root	b	n: fakir	s: fakiro		person			Arabisa (فَقِير “fakir”), Parsisa (فقیر “fakir”), Turkisa (fakir), Hindi (फ़क़ीर “fakir”), Indonesisa (fakir), Englisa (fakir), Espanisa (faquir), Fransesa (fakir, faquir), Doycisa (Fakir), Rusisa (факир “fakir”)												TRUE
 kaprico	root	b	n: whim, caprice, fancy	s: kaprico		ganjon			English (caprice), Espanisa (capricho), Fransesa (caprice), Rusisa (каприз “kapriz”), Turkisa (kapris), Italisa (capriccio), Portugalsa (capricho)												TRUE
-ofisiyen	derived	b	n: officer, official	s: oficiro					ofisi + -yen												
-sofikalyen	derived	b	n: fool	s: malsaĝulo					sofi + -kal + -yen												
-ninja	root	b	n: ninja	s: ninĵo, ninĵao, ninĝo		profesi			Englisa (ninja), Espanisa (ninja), Fransesa (ninja), Rusisa (ниндзя “nindzya”), Doycisa (Ninja), Indonesisa (ninja), Hindi (निंजा, निञ्जा “ninja”), Telugusa (నింజా “ninjā”), Arabisa (نِينْجَا, نِنْجَا “ninja”), Parsisa (نینْجا “ninjâ”), Turkisa (ninja), Putunhwa (忍者 “renje”), Koreasa (닌자 “ninja”), Niponsa (忍者 “ninja”), Vyetnamsa (nhẫn giả)												
-mikrobiologi	derived	b	n: microbiology	s: mikrobiologio					mikro + bio + -logi												
-mikriobio	derived	b	n: microbe, germ, microogranism	s: mikrobo	s: microbio				mikro + bio												
-makaroni	root	b	s; macaroni	s: makaronioj	s: macarrones	yamxey			Englisa (macaroni), Espanisa (macarrones), Fransesa (macaronis), Rusisa (макароны “makaroni”), Doycisa (Makkaroni), Indonesisa (makaroni), Hindi (मैकरोनी “mekaroni”), Telugusa (మకరోని “makaroni”), Arabisa (مَعْكَرُونَة “makaruna”), Swahilisa (makaroni), Parsisa (ماکارونی “mâkâroni”), Turkisa (makarna), Koreasa (마카로니 “makaroni”), Niponsa (マカロニ “makaroni”), Vyetnamsa (macarôni)												
-lasanya	root	b	s: lasagna, lasagne	s: lasanjoj	s: lasaña	yamxey			Englisa (lasagna, lasagne), Espanisa (lasaña), Fransesa (lasagne), Rusisa (лазанья “laznya”), Doycisa (Lasagne), Indonesisa (lasanya), Hindi (लज़ान्या “lazanya”), Arabisa (لَازَانْيَا “lazanya”), Parsisa (لازانیا “lâzânyâ”), Turkisa (lazanya), Koreasa (라자냐 “rajanya”, 라사냐 “rasanya”), Niponsa (ラザニア “razania”), Vyetnamsa (lasagna)												
-kapucino	root	b	n: cappuccino	s: kapuĉino	s: capuchino	gluxey			Englisa (cappuccino), Espanisa (capuchino), Fransesa (cappuccino), Rusisa (капучино “kapucino”), Doycisa (Cappuccino), Hindi (कापुचीनो “kapucino”), Telugusa (కాపుచినో “kapucino”), Arabisa (كَابُتْشِينُو “kabutxinu”), Swahilisa (kapuchino), Parsisa (کاپوچینو “kapucinu”), Turkisa (kapuçino), Putunhwa (卡布奇诺 “kabucinwo”), Koreasa (카푸치노 “kapucino”), Niponsa (カプチーノ “kapucino”), Vyetnamsa (cappuccino)												
-twite	root	b.oj	n: tweet; v.tr: tweet	s: pepo; v.tr: pepi	s: tweet; v.tr: twittear	komputer			Englisa (tweet), Espanisa (tweet, twittear), Fransesa (tweet, tweeter), Rusisa (твит “tvit”, твитнуть “tvitnut”), Doycisa (Tweet, twittern), Indonesisa (tweet), Hindi (ट्वीट “tvit”), Karnatakasa (ಟ್ವೀಟ್ “tvit”), Parsisa (توییت “tuit”), Turkisa (tweet, tweetlek), Putunhwa (推文 “twiwen”, 发推 “fatwi”), Koreasa (트윗 “tuwit”), Niponsa (ツイート “tsuito”), Vyetnamsa (tweet)		posti										
-tingikuxey	derived	b	n: prank	s: petolo, petolaĵo					tingiku + -xey												
-kostruiginyem	derived	b	n: monument, memorial	s: monumento	s: monumento				kostrui + ginyem												
-yesengeo	derived	b	n: wilderness, bush, wilds	s: sovaĝejo					yesen + geo												
-polemikapul	derived	t	adj: controversial; adv: controversially	adj: polemika; adv: polemike					polemika + -pul			polemikakal									
-polemikakal	derived	t	adj: uncontroversial; adv: uncontroverially	adj: nepolemika; adv: nepolemike, sen polemiko					polemika + -kal			polemikapul									
-hukimukamer	derived	b	n: courtroom	s: juĝejo	s: sala de un tribunal				hukimu + kamer												
-vasoarte	derived	b	n: pottery	s: potfarado	s: alfarería	arte			vaso + arte												
-moxwereyen	derived	b	n: consultant	s: konsilanto	s: consultor	profesi			moxwere + -yen												
-manikayen	derived	b	n: manic person, maniac	s: maniulo	s: maníaco				manika + -yen												
-solalense	derived	b	n: sunglasses, shades, sunnies	s: sunokulvitro	s: gafas de sol, lentes oscuras	labas			Sola + lense												
-radyaativo	derived	t	adj: radioactive	adj: radioaktiva		fisika			radya + ativo												
-tostatul	derived	b	n: toaster	s: panrostilo		tul			tosta + -tul												
-jubinkeke	derived	b	n: cheesecake	s: fromaĝkuko		yamxey			jubin + keke												
-egnomo	root	b	n: gnome	s: gnomo		mito			Englisa (gnome), Espanisa (gnomo, nomo), Fransesa (gnome), Rusisa (гном “gnom”), Doycisa (Gnom), Parsisa (گنوم “genom”, نوم “nom”), Koreasa (놈 “nom”), Niponsa (ノーム “nomu”)												
-panti	root	b	n: panties, underpants	s: kalsono	s: bragas	labas			Englisa (panties), Pilipinasa (panti), Banglasa (প্যান্টি "pyanti"), Telugusa (ప్యాంటీలు "pyantilu"), Hangusa (팬티 "penti"), Niponsa (パンティー "pantī")												
-bekirya	derived	b	n: viriginty	s: virgeco					bekir + -ya												
-komisitim	derived	b	n: commission, committee	s: komisiono, komitato					komisi + tim												
-komisifisu	derived	b	n: commission (fee), brokerage	s: kurtaĝo, makler(aĵ)o					komisi + fisu												
-komisixey	derived	b	n: commission, commissioned piece (_art, design, etc_)	s: komisiita verko					komisi + -xey												
-komisiyen	derived	b	n: commissioner (_one who commissions something_)	s: komisianto					komisi + -yen												
-bekomisiyen	derived	b	n: commissioner (_one commissioned to do something_)	s: komisiito, makleristo					be- + komisi + -yen												
-komisitimyen	derived	b	n: commissioner (_member of a commission_)	s: komisionano					komisi + -tim + -yen		komisiyen										
-tonogaryen	derived	b	n: roommate, flatmate, housemate	s: kunloĝanto					ton- + ogar + -yen												
-jacinenible	derived	t	adj: invaluable	adj: netaksebla					jaci + nen- + ible		kimaginenible										
-kimaginenible	derived	t	adj: priceless						kima + -gi + nen- + ible		jacinenible										
-jacikal	derived	t	adj: worthless	adj: senvalora					jaci + -kal			jacipul									
-utarahirxa	derived	b	n: reindeer, caribou, _Rangifer_	s: boaco, norda cervo, rangifero					utara + hirxa											Rusisa (северный олень), Parsisa (گوزن شمالی), Indonesisa (rusa kutub - kutubuli hirxa), Swahilisa (kulungu aktiki - artikoli hirxa)	
-segilkroa	derived	b	n: toad	s: bufo	s: sapo				segil + kroa												
-xagafpul	derived	t	adj: passionate, fervent, ardent	adj: pasia, fervora, arda					xagaf + -pul												
-suprabazar	derived	b	n: supermarket	s: superbazaro	s: supermercado				supra + bazar												
-videobendu	derived	b	n: videotape	s: vidbendo					video + bendu												
-suprakowa	derived	b	n: superpower	s: superpotenco					supra + kowa												
+ofisiyen	derived	b	n: officer, official	s: oficiro					ofisi + -yen												FALSE
+sofikalyen	derived	b	n: fool	s: malsaĝulo					sofi + -kal + -yen												FALSE
+ninja	root	b	n: ninja	s: ninĵo, ninĵao, ninĝo		profesi			Englisa (ninja), Espanisa (ninja), Fransesa (ninja), Rusisa (ниндзя “nindzya”), Doycisa (Ninja), Indonesisa (ninja), Hindi (निंजा, निञ्जा “ninja”), Telugusa (నింజా “ninjā”), Arabisa (نِينْجَا, نِنْجَا “ninja”), Parsisa (نینْجا “ninjâ”), Turkisa (ninja), Putunhwa (忍者 “renje”), Koreasa (닌자 “ninja”), Niponsa (忍者 “ninja”), Vyetnamsa (nhẫn giả)												FALSE
+mikrobiologi	derived	b	n: microbiology	s: mikrobiologio					mikro + bio + -logi												FALSE
+mikriobio	derived	b	n: microbe, germ, microogranism	s: mikrobo	s: microbio				mikro + bio												FALSE
+makaroni	root	b	s; macaroni	s: makaronioj	s: macarrones	yamxey			Englisa (macaroni), Espanisa (macarrones), Fransesa (macaronis), Rusisa (макароны “makaroni”), Doycisa (Makkaroni), Indonesisa (makaroni), Hindi (मैकरोनी “mekaroni”), Telugusa (మకరోని “makaroni”), Arabisa (مَعْكَرُونَة “makaruna”), Swahilisa (makaroni), Parsisa (ماکارونی “mâkâroni”), Turkisa (makarna), Koreasa (마카로니 “makaroni”), Niponsa (マカロニ “makaroni”), Vyetnamsa (macarôni)												FALSE
+lasanya	root	b	s: lasagna, lasagne	s: lasanjoj	s: lasaña	yamxey			Englisa (lasagna, lasagne), Espanisa (lasaña), Fransesa (lasagne), Rusisa (лазанья “laznya”), Doycisa (Lasagne), Indonesisa (lasanya), Hindi (लज़ान्या “lazanya”), Arabisa (لَازَانْيَا “lazanya”), Parsisa (لازانیا “lâzânyâ”), Turkisa (lazanya), Koreasa (라자냐 “rajanya”, 라사냐 “rasanya”), Niponsa (ラザニア “razania”), Vyetnamsa (lasagna)												FALSE
+kapucino	root	b	n: cappuccino	s: kapuĉino	s: capuchino	gluxey			Englisa (cappuccino), Espanisa (capuchino), Fransesa (cappuccino), Rusisa (капучино “kapucino”), Doycisa (Cappuccino), Hindi (कापुचीनो “kapucino”), Telugusa (కాపుచినో “kapucino”), Arabisa (كَابُتْشِينُو “kabutxinu”), Swahilisa (kapuchino), Parsisa (کاپوچینو “kapucinu”), Turkisa (kapuçino), Putunhwa (卡布奇诺 “kabucinwo”), Koreasa (카푸치노 “kapucino”), Niponsa (カプチーノ “kapucino”), Vyetnamsa (cappuccino)												FALSE
+twite	root	b.oj	n: tweet; v.tr: tweet	s: pepo; v.tr: pepi	s: tweet; v.tr: twittear	komputer			Englisa (tweet), Espanisa (tweet, twittear), Fransesa (tweet, tweeter), Rusisa (твит “tvit”, твитнуть “tvitnut”), Doycisa (Tweet, twittern), Indonesisa (tweet), Hindi (ट्वीट “tvit”), Karnatakasa (ಟ್ವೀಟ್ “tvit”), Parsisa (توییت “tuit”), Turkisa (tweet, tweetlek), Putunhwa (推文 “twiwen”, 发推 “fatwi”), Koreasa (트윗 “tuwit”), Niponsa (ツイート “tsuito”), Vyetnamsa (tweet)		posti										FALSE
+tingikuxey	derived	b	n: prank	s: petolo, petolaĵo					tingiku + -xey												FALSE
+kostruiginyem	derived	b	n: monument, memorial	s: monumento	s: monumento				kostrui + ginyem												FALSE
+yesengeo	derived	b	n: wilderness, bush, wilds	s: sovaĝejo					yesen + geo												FALSE
+polemikapul	derived	t	adj: controversial; adv: controversially	adj: polemika; adv: polemike					polemika + -pul			polemikakal									FALSE
+polemikakal	derived	t	adj: uncontroversial; adv: uncontroverially	adj: nepolemika; adv: nepolemike, sen polemiko					polemika + -kal			polemikapul									FALSE
+hukimukamer	derived	b	n: courtroom	s: juĝejo	s: sala de un tribunal				hukimu + kamer												FALSE
+vasoarte	derived	b	n: pottery	s: potfarado	s: alfarería	arte			vaso + arte												FALSE
+moxwereyen	derived	b	n: consultant	s: konsilanto	s: consultor	profesi			moxwere + -yen												FALSE
+manikayen	derived	b	n: manic person, maniac	s: maniulo	s: maníaco				manika + -yen												FALSE
+solalense	derived	b	n: sunglasses, shades, sunnies	s: sunokulvitro	s: gafas de sol, lentes oscuras	labas			Sola + lense												FALSE
+radyaativo	derived	t	adj: radioactive	adj: radioaktiva		fisika			radya + ativo												FALSE
+tostatul	derived	b	n: toaster	s: panrostilo		tul			tosta + -tul												FALSE
+jubinkeke	derived	b	n: cheesecake	s: fromaĝkuko		yamxey			jubin + keke												FALSE
+egnomo	root	b	n: gnome	s: gnomo		mito			Englisa (gnome), Espanisa (gnomo, nomo), Fransesa (gnome), Rusisa (гном “gnom”), Doycisa (Gnom), Parsisa (گنوم “genom”, نوم “nom”), Koreasa (놈 “nom”), Niponsa (ノーム “nomu”)												FALSE
+panti	root	b	n: panties, briefs, underpants	s: kalsono	s: bragas, _slip_	labas			Englisa (panties), Pilipinasa (panti), Banglasa (প্যান্টি "pyanti"), Telugusa (ప్యాంటీలు "pyantilu"), Hangusa (팬티 "penti"), Niponsa (パンティー "pantī")												FALSE
+bekirya	derived	b	n: viriginty	s: virgeco					bekir + -ya												FALSE
+komisitim	derived	b	n: commission, committee	s: komisiono, komitato		grupo			komisi + tim												FALSE
+komisifisu	derived	b	n: commission (fee), brokerage	s: kurtaĝo, makler(aĵ)o		ekonomi			komisi + fisu												FALSE
+komisixey	derived	b	n: commission, commissioned piece (_art, design, etc_)	s: komisiita verko					komisi + -xey												FALSE
+komisiyen	derived	b	n: commissioner (_one who commissions something_)	s: komisianto					komisi + -yen												FALSE
+bekomisiyen	derived	b	n: commissioner (_one commissioned to do something_)	s: komisiito, makleristo					be- + komisi + -yen												FALSE
+komisitimyen	derived	b	n: commissioner (_member of a commission_)	s: komisionano					komisi + -tim + -yen		komisiyen										FALSE
+tonogaryen	derived	b	n: roommate, flatmate, housemate	s: kunloĝanto					ton- + ogar + -yen												FALSE
+jacinenible	derived	t	adj: invaluable	adj: netaksebla					jaci + nen- + ible		kimaginenible										FALSE
+kimaginenible	derived	t	adj: priceless	adj: netaksebla, senpreza					kima + -gi + nen- + ible		jacinenible										FALSE
+jacikal	derived	t	adj: worthless	adj: senvalora					jaci + -kal			jacipul									FALSE
+utarahirxa	derived	b	n: reindeer, caribou, _Rangifer_	s: boaco, norda cervo, rangifero		hewan			utara + hirxa											Rusisa (северный олень), Parsisa (گوزن شمالی), Indonesisa (rusa kutub - kutubuli hirxa), Swahilisa (kulungu aktiki - artikoli hirxa)	FALSE
+segilkroa	derived	b	n: toad	s: bufo	s: sapo				segil + kroa												FALSE
+xagafpul	derived	t	adj: passionate, fervent, ardent	adj: pasia, fervora, arda					xagaf + -pul												FALSE
+suprabazar	derived	b	n: supermarket	s: superbazaro	s: supermercado	dom			supra + bazar												FALSE
+videobendu	derived	b	n: videotape	s: vidbendo					video + bendu												FALSE
+suprakowa	derived	b	n: superpower	s: superpotenco		mito			supra + kowa												FALSE
+cuyotahta	derived	b	n: motherboard, main board	s: ĉeftabulo, ĉefkarto		komputer			cuyo + tahta												FALSE
+sahelbol	derived	b	n: beach ball	s: plaĝa pilko, plaĝpilko		yuxitul			sahel + -bol												FALSE
+Usaixarasa	derived	b	n: American Sign Language, ASL	s: usona signolingvo					Usa + ixara + -sa												FALSE
+nocepepero	derived	b	n: moth	s: noktopapilio		koncun			noce + pepero												FALSE
+intremuka	derived	b	n: interface	s: interfaco					intre + muka												FALSE
+dentacalun	derived	b	n: gear, toothed wheel	s: dentrado					denta + calun												FALSE
+engyanente	derived	b	n: nutrient	s: nutraĵo					engyan + ente												FALSE
+plastikojeruhi	derived	b	n: plastic surgery	s: plastia ĥirurgio, plastia kirurgio		medis			plastiko + jeruhi. Englisa (plastic surgery), Espanisa (cirugía plástica), Fransesa (chirurgie plastique), Rusisa (пластическая хирургия “plasticeskaya hirurgiya”), Doycisa (plastische Chirurgie), Indonesisa (bedah plastik), Hindi (प्लास्टिक सर्जरी “plastik sarjari”), Turkisa (plastik cerrahi), Parsisa (جراحی پلاستیک‎ “jarahi pelastik”), Swahilisa (upasuaji wa plastiki)												FALSE
+balonmahi	derived	b	n: pufferfish, blowfish, balloonfish, globefish, swellfish, _Tetraodontidae_	s: balonfiŝo, tetraodontedo		mahi			balon + mahi											Englisa (balloonfish), Ararbisa (أَسْمَاك بَالُون‎), Fransesa (poisson ballon), Turkisa (balon balığı)	FALSE
+fronpelente	derived	b	n: propellent, propellant	s: pelanto, alpelanto					fron + pel + ente												FALSE
+satuzona	derived	b	n: time zone	s: horzono					satu + zona												FALSE
+esportumobil	derived	b	n: sports car	s: sporta aŭto					esportu + mobil												FALSE
+lyudonje	derived	b	n: current, flow rate	s: fluo, kurento		fisika			lyudon + -je												FALSE
+koloniismo	derived	b	n: colonialism	s: koloniismo					koloni + ismo												FALSE
+ekrinfoto	derived	b.oj	n: screenshot; v.tr: screenshot	s: ekrankopio; v.tr: ekrankopii		komputer			ekrin + foto												FALSE
+suprahero	derived	b	n: superhero	s: superheroo		mito			supra + hero												FALSE
+cinjucay	derived	b	n: boba tea, bubble tea, pearl tea	s: perla teo (_milka teo kun tapiokaj perloj_)		gluxey			cinju + cay											Putunhwa (珍珠奶茶 “jenju nayca”, Niponsa (パールミルクティー “parumirukuti”), Doycisa (Perlentee), Espanisa (té de perlas), Rusisa (жемчу́жный чай (jemcujnyj cay”), Turkisa (inci çayı), Vyetnamsa (trà trân châu)	FALSE
+fleksidisko	derived	b	n: floppy disk, diskette	s: disketo, diskedo		komputer			fleksidisko											Englisa (floppy disk), Putunhwa (软盘), Arabisa (قرص مرن), Indonesisa (cakram liuk)	FALSE
+alergiente	derived	b	n: allergen	s: alergeno					alergi + ente												FALSE
+fuhahewan	derived	b	n: beast of burden	s: ŝarĝbesto, tirbesto					fuha + hewan											Espanisa (bestia de carga), Doycisa (Lasttier), Fransesa (bête de charge), Indonesisa (hewan pikul), Arabisa (حيوان الأحمال)	FALSE
+dyabolhongyo	derived	b	n: manta ray	s: mantarajo					dyabol + hongyo											Englisa (devil fish), Rusisa (морской дьявол), Niponsa (鬼糸巻鱝), Arabisa (شيطان البحر‎), Parsisa (سفره‌ماهی دیو)	FALSE
+mixturalexi	derived	b	n: portmanteau (word), blend word	s: vortokunfando, kofrovorto, valizvorto					mixtura + lexi												FALSE
+lamabiologi	derived	b	n: paleontology	s: paleontologio					lama + bio + logi												FALSE
+sewdopeda	derived	b	n: pseudopod	s: ŝajnpiedo, pseŭdopiedo, pseŭdopodo					sewdo + peda												FALSE
+tenmunmansi	derived	b	n: astrology	s: astrologio					tenmun + mansi												FALSE
+baharianemon	derived	b	n: sea anemone, _Actiniaria_	s: maranemono, aktinio		hewan			bahari + anemon												FALSE
+metafisika	derived	b	n: metaphysics	s: metafiziko					meta + fisika												FALSE
+musietika	derived	b	n: deontology, duty ethics	s: deontologio					musi + etika												FALSE
+patatopure	derived	b	n: mashed potato(es), mash	s: terpomkaĉo		yamxey			patato + pure												FALSE
+muskerato	derived	b	n: muskrat, _Ondatra_	s: ondatro		hewan			muske + rato												FALSE
+biozona	derived	b	n: biome	s: biomo					bio + zona												FALSE
+swerixalgam	derived	b	n: rutabaga, swede, Swedish turnip	s: napo					Sweri + xalgam												FALSE
+kanucelul	derived	b	n: stem cell	s: praĉelo, stamĉelo					kanu + celul												FALSE
+sabunopera	derived	b	n: soap opera	s: sapopero, televida seriego					sabun + opera												FALSE
+rufleksi	derived	b	n: reflex	s: reflekso					ru- fleksi												FALSE
+baharisinga	derived	b	n: sea lion	s: marleono		hewan			bahari + singa												FALSE
+suipipa	derived	b	n: bong, water pipe	s: akvopipo		tul			sui + pipa												FALSE
+paypeyen	derived	b	n: piper	s: ŝalmisto					papye + -yen												FALSE
+bebewagon	derived	b	n: stroller, pushchair, pram, baby carriage	s: beboĉareto					bebe + wagon											Doycisa (Kinderwagen)	FALSE
+inplanta	derived	b.oj	n: implant; v.tr: implant	s: enplantado: v.tr: enplanti		medis			in- + planta												FALSE
+syahegandum	derived	b	n: buckwheat	s: fagopiro		danyam			syahe + gandum											Parsisa (گندم سیاه “gandom siyâh”), Fransesa (blé noir), Arabisa (حِنْطَة سَوْدَاء), Turkisa (karabuğday)	FALSE
+kontatolense	derived	b	n: contact lens	s: kontaktlenso					kontato + lense												FALSE
+duaxenyen	derived	b	n: twin(s)	s: ĝemelo(j)					dua + xen + -yen												FALSE
+cibertahta	derived	b	n: smart board, interactive whiteboard	s: saĝa skribtabulo, plurfunkcia skribtabulo, inteligenta skribtabulo, lerta skribtabulo, intreaga skribtabulo					ciber + tahta												FALSE
+krasitul	derived	b	n: controller	s: regilo																	FALSE
+telikrasitul	derived 	b	n: remote (controller)	s: teleregilo, foraregilo																	FALSE
+kimikaterapi	derived	b	n: chemotherapy	s: kemiterapio, ĥemiterapio		medis															FALSE
+baharijojiha	derived	b	n: sea urchin	s: eĥino, ekino, mara erinaco		hewan															FALSE
+gumboroti	derived	b	n: bread stick, baguette	s: bastonpano, panbastoneto, stangopano, grisino		yamxey															FALSE
+meyuoruga	derived	b.nenoj	n: (eyebrow) frown; v.intr: frown (with one's eyebrows)	s: sulkigo (de frunton); v.ntr: sulkigi la frunton																	FALSE
+suhemaso	derived	b	n: dried meat, jerky, bakkwa, charqui	s: seka viando																	FALSE
+xujitrompo	derived	b	n: fidget spinner	s: nervo-turnilo		yuxitul															FALSE
+emulatul	derived	b	n: emulator	s: imitilo		komputer															FALSE
+simulatul	derived	b	n: simulator	s: simulilo																	FALSE
+metadata	derived	b	n: metadata	s: metadatumoj																	FALSE
+xahermon	derived	b	n: city district, ward, quarter, borough	s: urba distrikto, kvartalo																	FALSE
+kalapatora	derived	b	n: (stand) mixer	s: kirlaparato																	FALSE
+posfolo	derived	b.oj	n: unfollow; v.tr: unfollow	s: malsekvo; v.tr: malsekvi																	FALSE
+okomedan	derived	b	n: field of vision, vield of view, FOV	s: vidkampo																	FALSE
+harabuxey	derived	b	n: wreckage, ruins	s: rompaĵo, ruinaĵo																	FALSE
+harabugeo	derived	b	n: wasteland(s)	s: ruinejo, senkultivejo, dezerto																	FALSE
+lilglu	derived	b.oj	n: sip; v.tr: sip	n: trinketo; v.tr: trinketi																	FALSE
+moyteoismo	derived	b	n: pantheism	s: panteismo																	FALSE
+sonzayismo	derived	b	n: existentialism	s: ekzistadismo, ekzistismo, ekzistencialismo																	FALSE
+jumhuriismo	derived	b	n: republicanism	s: respublikismo																	FALSE
+insanismo	derived	b	n: humanism	s: humanismo, homismo																	FALSE
+femismo	derived	b	n: feminism	s: femminiso, inismo																	FALSE
+xaherlogi	derived	b	n: urbanism, urbanology	s: urboscienco																	FALSE
+julaismo	derived	b	n: seperatism	s: separismo, separatismo																	FALSE
+cwentonismo	derived	b	n: traditionalism	s: tradiciismo																	FALSE
+benjiismo	derived	b	n: essentialism	s: esencismo																	FALSE
+kabilaismo	derived	b	n: tribalism	s: tribismo																	FALSE
+klaseismo	derived	b	n: classism	s: klasismo																	FALSE
+yaxuismo	derived	b	n: fauvism	s: faŭvismo																	FALSE
+xaherdawla	derived	b	n: city-state	s: urboŝtato																	FALSE
+seksoharase	derived	b.oj	n: sexual harassement; v.tr: sexually harasss	s: seksoĝenado, seksoĉikanado; v.tr: seksoĝeni, seksoĉikani																	FALSE
+ciberharase	derived	b.oj	n: cyberbullying; v.tr: cyberbully	s: retĝenado, retĉikanado; v.tr: retĝeni, retĉikani																	FALSE
+motexuji	derived	b	n: thumb	s: dikfingro																	FALSE
+kunganwatu	derived	b	n: spacetime	s: spactempo																	FALSE
+beirsalyen	derived	b	n: envoy, apostle, emissary	s: sendito																	FALSE
+liluma	derived	b	n: pony	s: ĉevaleto, poneo																	FALSE
+harkaje	derived	b	n: momentum	s: movokvanto																	FALSE
+myawmenta	derived	b	n: catnip	s: katario, katherbo, katmento																	FALSE
+burguxi	derived	t	adj: antiquated, backward, passé	adj: arĥaikaĉa, arkaikaĉa, arkaaĉa, malmodernaĉa								bonguxi									FALSE
+bonguxi	derived	t	adj: retro, timeless, time-honored	adj: malnovstila, (kiu) neniam fortempiĝas								burguxi									FALSE
+xeritusijnjabu	derived	b	n: chipmunk, _Tamiina_	s: stria sciuro, ĉipmunko		hewan															FALSE
+laringedwan	derived	b	n: Adam's apple, laryngeal prominence	s: tireoido, tireoida kartilago, adampomo, gorĝa pomo		jismulogi															FALSE
+huruismo	derived	b	n: liberalism	s: liberalismo																	FALSE
+Mididongu	derived	b	n: Middle East	s: Mezoriento, Meza Oriento		zona															FALSE
+ludankef	derived	b	n: brigadier	s: brigadestro																	FALSE
+xatupetra	derived	b	n: sandstone	s: sabloŝtono		materyal															FALSE
+wejiglif	derived	b	n: cuneiform	s: kojnoskribo																	FALSE
+xaherxanxwi	derived	b	n: cityscape	s: urbopejzaĝo																	FALSE
+dayrateatro	derived	b	n: amphitheatre, theatre-in-the-round	s: amfiteatro		dom														Putunhwa (圆形剧场), Niponsa (円形劇場), Koreasa (원형극장)	FALSE
+yesenbio	derived	b	n: wildlife	s: sovaĝaj vivuloj																	FALSE
+daluglandu	derived	b	n: thyroid	s: tiroido		jismulogi															FALSE
+palmeyow	derived	b	n: palm oil	s: palmoleo, palma oleo																	FALSE
+risijiu	derived	b	n: rice wine	s: riza vino		gluxey															FALSE
+kacakujiu	derived	b	n: moonshine, bootleg, hooch	s: kontrabanda alkoholaĵo		gluxey															FALSE
+ovojiu	derived	b	n: eggnog	s: ova punĉo, ova laktotrinkaĵo		gluxey															FALSE
+jiudukan	derived	b	n: liquor store	s: vendejo de alkoholaĵoj																	FALSE
+sofiyen	derived	b	n: sage, wise person	s: saĝulo																	FALSE
+xorkrasi	derived	b.oj	n: takeover; v.tr: take over, take control	s: ekregado; v.tr: ekregi, preni regado (je)																	FALSE
+bexinyen	derived	b	n: juror	s: ĵuriano, ĵurinto																	FALSE
+jini	root	b	n: jinn, djinn, genie	s: ĝino (_spirito_)		mito			Englisa (jinn, djinn, genie), Espanisa (genio, jinn, djinn), Fransesa (jinn, djinn), Rusisa (джинн “djinn”), Doycisa (Dschinn), Indonesisa (jin), Hindi (जिन्न “jinna”, जिन “jin”, जिन्द “jind”), Telugusa (జిన్ “jin”), Arabisa (جِنّ “jinn”, جِنِّيّ “jiniy”), Swahilisa (jini), Parsisa (جن “jen”), Turkisa (cin), Putunhwa (精灵 “jingling”, 镇尼 “jenni”), Koreasa (진 “jin”, 지니 “jini”), Niponsa (ジン “jin”), Vyetnamsa (jinn, djinn, genie)												FALSE
+sikwe	root	b	n: lime (_material_)	s: kalko	s: cal	petra		kompara: caku	Putunhwa (石灰 "xihwey"), Koreasa (석회 "sokwe"), Niponsa (石灰 "sekay, ixibay")						n: chaux						FALSE
+senente	derived	b	n: (inanimate) being, entity	s: (senviva) estaĵo, ento					sen + ente												FALSE
+posfale	derived	b.oj	n: undo; v.tr: undo	s: malfaro; v.tr: malfari					pos- + fale												FALSE
+poskuflu	derived	b.oj	n: unlock; v.tr: unlock	s: malŝloso; v.tr: malŝlosi					pos- + kuflu												FALSE
+poskufluible	derived	t	adj: unlockable (_able to be unlocked_)	adj: malŝlosebla					pos- + kuflu + ible												FALSE
+kuflunenible	derived	t	adj: unlockable (_unable to be locked_)	adj: neŝlosebla					kuflu + nen- + ible												FALSE
+idealxey	derived	b	n: ideal	s: idealo					ideal + -xey												FALSE
+mogewoxa	derived	b.oj	n: brainwashing; v.tr: brainwash	s: cerbolavado; v.tr: cerbolavi					moge + woxa												FALSE
+rikostrui	derived	b.oj	n: reconstruction, rebuilding; v.tr: reconstruct, rebuild	s: rekonstruo; v.tr: rekonstrui					ri- + kostrui												FALSE
+industrifil	derived	t	adj: industrious	adj: industriema					industri + -fil												FALSE
+monday	derived	t	adj: coarse	adj: malfajna (_kun grandaj eroj_)					mon + -day												FALSE
+monlil	derived	t	adj: fine	adj: fajna (_kun malgrandaj eroj_)					mon + -lil												FALSE
+monlilje	derived	b	n: fineness, (film) grain, (screen) resolution	s: fajneco (_malgrandeco de eroj_)					mon + -lil + -je												FALSE
+pikselje	derived	b	n: (display) resolution	s: bilddetaligeblo					piksel + -je		monlilje										FALSE
+banglaatex	derived	b	n: flare, Bengal light	s: bengala fajro					Bangla + atex												FALSE
+yamkalmorgi	derived	b.oj	n: starvation; v.tr: starve (someone) to death	s: malsatmortigo; v.tr: malsatmortigi					yam + -kal + mor + -gi												FALSE
+yamkalmorcu	derived	b.nenoj	n: starvation; v.intr: starve to death	s: malsatmorto; v.ntr: malsatmorti					yam + -kal + mor + -cu												FALSE
+altopul	derived	t	adj: high (pitch)	adj: alta (sono)					alto + -pul												FALSE
+altokal	derived	t	adj: low (pitch)	adj: malaltra (sono)					alto + -kal												FALSE
+altoje	derived	b	n: (musical) pitch	n: (muzika) alteco					alto + -je												FALSE
+orewermu	derived	b	n: earworm	n: orelvermo					ore + wermu												FALSE
+campyonya	derived	b	n: championship (_title or competition_)	n: ĉampioneco, ĉampionado					campyon + -ya												FALSE
+rehenidukan	derived	b	n: pawnshop	n: lombardejo					reheni + dukan												FALSE
+bolkalamu	derived	b	n: ball-point pen	n: globkrajono					bol + kalamu												FALSE
+lilkrampe	derived	b.oro.harka	n: twitch; v.tr: twitch; v.intr (optional use of -cu): twitch	s: spasmeto; v.tr: spasmetigi; v.ntr (nedeviga uzo de -cu): spasmeti					lil- + krampe												FALSE
+gutonkrampe	derived	b.oro.harka	n: cramp; v.tr: cramp; v.intr (optional use of -cu): cramp	s: (dolora) kramfo; v.tr: (dolore) kramfigi; v.ntr (nedeviga uzo de -cu): (dolore) kramfi					guton + krampe												FALSE
+daykrampe	derived	b.oro.harka	n: convulsion; v.tr: convulse; v.intr (optional use of -cu): convulse	s: konvulsio, kramfego; v.tr: konvulsiigi, spasmegigi; v.ntr (nedeviga uzo de -cu): konvulsii, kramfegi					day- + krampe												FALSE
+hayzikrampe	derived	b.oro.harka	n: period cramps; v.tr: cause period cramps; v.intr (optional use of -cu): have period cramps	s: menstruaj kramfoj; v.tr: menstrue kramfigi; v.ntr (nedeviga uzo de -cu): menstrue kramfi					hayzi + krampe												FALSE
+xengikrampe	derived	b.oro.harka	n: (birth) contraction; v.tr: (cause to) contract (during birth); v.intr (optional use of -cu): contract (during birth)	s: akuŝa kontrahiĝo, akuŝa kuntiriĝo; v.tr: akuŝe kontrahi, akuŝe kuntiri; v.ntr (nedeviga uzo de -cu): akuŝe kontrahiĝi, akuŝe kuntiriĝi					xen + -gi + krampe												FALSE
+rahimkrampe	derived	b.oro.harka	n: uterine contraction; v.tr: contract; v.intr (optional use of -cu): contract	s: utera kontrahiĝo, utera kuntiriĝo; v.tr: utere kontrahi, utere kuntiri; v.ntr (nedeviga uzo de -cu): utere kontrahiĝi, utere kuntiriĝi					rahim + krampe												FALSE
+krampekrisis	derived	b.oro.jotay	n: (convulsive) seizure; v.tr: cause a seizure; v.intr: have a seizure	s: konvulsia krizo; v.tr: kaŭzi konvulsian krizon; v.ntr: trafiĝi de konvulsian krizon					krampe + krisis												FALSE
+suibaru	derived	b	n: tardigrade, water bear	s: tardigrado					sui + baru												FALSE
+netoyen	derived	b	n: netmaker; n: netizen	s: retfaristo; s: (inter)retano					neto + -yen												FALSE
+katrupetra	derived	b	n: dripstone, stalactite, stalagmite	s: gutŝtono, stalaktito, stalagmito					katru + petra												FALSE
+katruayse	derived	b	n: icicle	s: pendglacio					katru + ayse												FALSE
+aysekendi	derived	b	n: ice pop, popsicle, ice lolly	s: glacibombono (_frostigita fruktosuko sur bastoneto_)					ayse + kendi												FALSE
+asaluvaso	derived	b	n: honeypot	s: mielujo					asalu + vaso												FALSE
+cayvaso	derived	b	n: teapot	s: tekruĉo					cay + vaso												FALSE
+polisimobil	derived	b	n: police car	s: polica aŭto					polisi + mobil												FALSE
+sabikemobil	derived	b	n: racecar	s: vetkuraŭto					sabike + mobil												FALSE
+golneto	derived	b	n: goal net	s: golreto					gol + neto												FALSE
+kumarimaxina	derived	b	n: slot machine	s: vetaŭtomato, vetmaŝino					kumari + maxina												FALSE
+gardilense	derived	b	n: goggles, protective eyewear	s: ŝirmokulvitroj, protektaj okulvitroj					gardi + lense												FALSE
+suyonlense	derived	b	n: (swimming) goggles	s: naĝokulvitroj					suyon + lense												FALSE
+pentubroxa	derived	b	n: paintbrush	s: peniko					pentu + broxa												FALSE
+dayswalmarka	derived	b	n: interrobang, ‽	s: kridemandosigno, ‽					day- + swal + marka												FALSE
+minushayfen	derived	b	n: hypen-minus, -	s: minusstreko, -					minus + hayfen												FALSE
+letamarka	derived	b	n: horizontal bar, ―	s: horizontala streko, ―					leta + marka												FALSE
+paragrafmarka	derived	b	n: pilcrow, paragraph mark, ¶	s: alinesigno, ¶					paragraf + marka												FALSE
+ji-marka	derived	b	n: ampersand, &	s: kaj-signo, &					ji + marka												FALSE
+ofkilomarka	derived	b	n: per mille, ‰	s: elmilo, promilo, ‰					of- + kilo + marka												FALSE
+Huruxigun	derived	b	n: Freemasonry	s: Framasonismo					huru + xigun												FALSE
+Huruxigunyen	derived	b	n: Freemason	s: Framasonista					huru + xigun + -yen												FALSE
+maydowakilyen	derived	b	n: sales representative	s: vendoreprezentanto					maydo + wakil + -yen												FALSE
+femyenmedis	derived	b	n: gynecology	s: ginekologio					fem + -yen + medis												FALSE
+pralobentul	derived	b	n: bait, lure	s: logilo					praloben + -tul												FALSE
+masecentro	derived	b	n: center of mass, barycenter	s: masocentro					mase + centro												FALSE
+ogarligi	derived	b.oj	n: domestication; v.tr: domesticate	s: alhejmigo; v.tr: alhejmigi					ogar + -li + -gi		posyesengi										FALSE
+																					
+																					FALSE
+																					FALSE
+																					FALSE
+																					FALSE
+																					FALSE
+																					FALSE
+																					FALSE
+																					FALSE
+																					FALSE
+																					FALSE
+																					FALSE
+																					FALSE
+																					
+																					FALSE
+																					FALSE
+																					FALSE
+																					FALSE
