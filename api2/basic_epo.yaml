@@ -1295,6 +1295,11 @@ alpaka:
   class: b
   category: root
   translation: 's: alpako'
+alpi:
+  term: Alpi
+  class: su n
+  category: proper word
+  translation: 's: Alpoj'
 alto:
   term: alto
   class: b
@@ -2999,6 +3004,11 @@ awtenti:
   class: t
   category: root
   translation: 'adj: aŭtentika, aŭtenta; adv: aŭtentike, aŭtente'
+awtentidoku:
+  term: awtentidoku
+  class: b
+  category: derived
+  translation: 's: atesto, atestilo'
 awtentigi:
   term: awtentigi
   class: b.oj
@@ -3944,6 +3954,11 @@ barditora:
   class: b
   category: derived
   translation: 's: fridujo'
+bardo:
+  term: bardo
+  class: b
+  category: root
+  translation: 's: bardo'
 barentse:
   term: Barentse
   class: su n
@@ -4104,6 +4119,11 @@ basili:
   class: t
   category: derived
   translation: 'adj: baza, fundamenta; adv: baze, fundamente'
+basilisko:
+  term: basilisko
+  class: b
+  category: root
+  translation: 's: bazilisko'
 basketo:
   term: basketo
   class: b
@@ -5611,6 +5631,11 @@ boyletul:
   class: b
   category: derived
   translation: 's: bolkruĉo, boligilo'
+boylevaso:
+  term: boylevaso
+  class: b
+  category: derived
+  translation: 's: kaldrono'
 boysen:
   term: Boysen
   class: su n
@@ -6005,9 +6030,9 @@ bunmanpul:
   translation: 'adj: indigna, rankora; adv: indigne, rankore'
 bur:
   term: bur
-  class: t
+  class: t; il
   category: root
-  translation: 'adj: malbona, aĉa, fia; adv: malbone, aĉe, fie'
+  translation: 'adj: malbona, aĉa, fia; adv: malbone, aĉe, fie; interj: hu'
 bur-:
   term: bur-
   class: lfik
@@ -10143,6 +10168,11 @@ drumuyen:
   class: b
   category: derived
   translation: 's: tamburisto'
+druyda:
+  term: druyda
+  class: b
+  category: root
+  translation: 's: druido'
 du-:
   term: du-
   class: lfik
@@ -11681,7 +11711,7 @@ eskorbuto:
 eskoti:
   term: Eskoti
   class: su n
-  category: root
+  category: proper word
   translation: 's: Skotlando, Skotio, Skotujo'
 eskri:
   term: eskri
@@ -16392,6 +16422,11 @@ gluxey:
   class: b
   category: derived
   translation: 's: trinkaĵo'
+gobelin:
+  term: gobelin
+  class: b
+  category: root
+  translation: 's: gobleno, goblino (<em>feo siimila al koboldo</em>)'
 godo:
   term: godo
   class: t
@@ -16422,6 +16457,11 @@ gol:
   class: b.oj
   category: root
   translation: 's: golo; v.tr: goli'
+golem:
+  term: golem
+  class: b
+  category: root
+  translation: 's: golemo'
 golenjan:
   term: golenjan
   class: b
@@ -18167,6 +18207,11 @@ hibrido:
   class: t
   category: root
   translation: 'adj: hibrida; adv: hibride'
+hidra:
+  term: Hidra
+  class: b
+  category: root
+  translation: 's: Hidro'
 hidrogen:
   term: hidrogen
   class: b
@@ -18894,6 +18939,11 @@ hwese:
   class: t
   category: root
   translation: 'adj: griza; adv: grize'
+hyacinto:
+  term: hyacinto
+  class: b
+  category: root
+  translation: 's: hiacinto'
 hyanatu:
   term: hyanatu
   class: b.oj
@@ -21432,7 +21482,7 @@ jowey:
   translation: 's: ĉirkaŭaĵo, medio, ĉirkaŭejo; kvazaŭ-pfk: ĉirkaŭ, proksime, sencele'
 joxu:
   term: joxu
-  class: b.oro.hisi
+  class: b.oro.hisi; il
   category: root
   translation: 's: entuziasmo, ekscito; v.tr: entuziasmigi, eksciti; v.ntr: entuziasmi,
     esti ekscitita'
@@ -22394,7 +22444,7 @@ kampuciyen:
 kamri:
   term: Kamri
   class: su n
-  category: root
+  category: proper word
   translation: 's: Kimrio'
 kanabis:
   term: kanabis
@@ -24016,6 +24066,11 @@ koberitul:
   class: b
   category: derived
   translation: 's: kovrilo'
+koboldo:
+  term: koboldo
+  class: b
+  category: root
+  translation: 's: koboldo'
 kobra:
   term: kobra
   class: b
@@ -25815,9 +25870,9 @@ kwota:
   translation: 's: kvoto'
 kyamatu:
   term: kyamatu
-  class: b
+  class: b; il
   category: root
-  translation: 's: mondofino, apokalipso, armagedono'
+  translation: 's: mondofino, apokalipso, armagedono; interj: diable'
 kyamatuli:
   term: kyamatuli
   class: t
@@ -27046,10 +27101,10 @@ lilyao:
   category: derived
   translation: 's: mordeto; v.tr: mordeti'
 lima:
-  term: lima
-  class: num
-  category: root
-  translation: 'num: kvin'
+  term: Lima
+  class: su n
+  category: proper word
+  translation: 's: Limo'
 limacen:
   term: limacen
   class: num
@@ -27070,6 +27125,11 @@ limadwan:
   class: b
   category: derived
   translation: 's: kvinpinta stelo, pentagramo'
+limafasul:
+  term: limafasul
+  class: b
+  category: derived
+  translation: 's: Lima fazeoluso, Limofazeolo'
 limagon:
   term: limagon
   class: b
@@ -27686,8 +27746,8 @@ maderi:
   class: b
   category: root
   translation: 's: materio'
-maderifilismo:
-  term: maderifilismo
+maderifilya:
+  term: maderifilya
   class: b
   category: derived
   translation: 's: materialismo'
@@ -29998,9 +30058,9 @@ meyubelo:
   translation: 's: brovo, fruntharo'
 meyuoruga:
   term: meyuoruga
-  class: b.nenoj
+  class: b.oro.ru
   category: derived
-  translation: 's: sulkigo (de frunton); v.ntr: sulkigi la frunton'
+  translation: 's: sulkigo (de frunton); v.tr: sulkigi la frunton; v.ntr: frunte sulkiĝi'
 mezadu:
   term: mezadu
   class: b.oj
@@ -32895,6 +32955,11 @@ niponsa:
   class: su n
   category: proper word
   translation: 'prop n: la japana (lingvo)'
+nirvana:
+  term: nirvana
+  class: b
+  category: root
+  translation: 's: nirvano'
 nispatu:
   term: nispatu
   class: b
@@ -33874,6 +33939,21 @@ olawia:
   class: b.oj
   category: root
   translation: 's: prioritato; v.tr: prioritatigi'
+olimpi:
+  term: Olimpi
+  class: su n
+  category: proper word
+  translation: 's: Olympio, Olimpa'
+olimpili:
+  term: Olimpili
+  class: t
+  category: derived
+  translation: 's: Olympia'
+olimpiyuxi:
+  term: Olimpiyuxi
+  class: b
+  category: derived
+  translation: 's: Olimpiaj Ludoj, Olimpikoj'
 om:
   term: om
   class: b
@@ -34499,6 +34579,11 @@ pala:
   class: b.oj
   category: root
   translation: 's: parolo; v.tr: paroli'
+paladin:
+  term: paladin
+  class: b
+  category: root
+  translation: 's: paladino'
 palado:
   term: palado
   class: t
@@ -36060,6 +36145,16 @@ pixipangwan:
   class: b
   category: derived
   translation: 's: urina veziko, urinveziko'
+pixitul:
+  term: pixitul
+  class: b
+  category: derived
+  translation: 's: pisejo, pisilo'
+pixivaso:
+  term: pixivaso
+  class: b
+  category: derived
+  translation: 's: noktovazo, pispoto, pisujo'
 plagu:
   term: plagu
   class: b.oj
@@ -36597,6 +36692,11 @@ posadilya:
   class: b
   category: derived
   translation: 's: maljusteco'
+posafarin:
+  term: posafarin
+  class: b.oj
+  category: derived
+  translation: 's: huado; v.tr: hui'
 posamiku:
   term: posamiku
   class: t
@@ -36778,11 +36878,11 @@ posgamicu:
   class: b.nenoj
   category: derived
   translation: 's: divorco, eksedziĝo; v.ntr: divorci, eksedziĝi'
-poshamilegi:
-  term: poshamilegi
-  class: b.oj
+poshamilecu:
+  term: poshamilecu
+  class: b.nenoj
   category: derived
-  translation: 's: aborto; v.tr: abortigi'
+  translation: 's: aborto; v.ntr: abortigi'
 poshay:
   term: poshay
   class: b.nenoj
@@ -37744,6 +37844,11 @@ ramadu:
   class: b
   category: root
   translation: 's: cindro'
+rambutan:
+  term: rambutan
+  class: b
+  category: root
+  translation: 's: rambutano'
 ramses:
   term: Ramses
   class: su n
@@ -38680,6 +38785,12 @@ rukone:
   class: b.oj
   category: derived
   translation: 's: rekono; v.tr: rekoni'
+rukrampe:
+  term: rukrampe
+  class: b.oro.harka
+  category: derived
+  translation: 's: kuntiriĝo (pro malagrabla sento), retiriĝo, grimaco; v.tr: kuntirigi,
+    retirigi, grimacigi; v.intr: kuntiriĝi, retiriĝi, grimaci'
 ruli:
   term: ruli
   class: t
@@ -39466,6 +39577,11 @@ sanobar:
   class: b
   category: root
   translation: 's: pino'
+sansara:
+  term: sansara
+  class: b
+  category: root
+  translation: 's: sansaro'
 sanskritam:
   term: Sanskritam
   class: su n
@@ -45771,6 +45887,11 @@ videoyuxi:
   class: b
   category: derived
   translation: 's: videoludo'
+vikingu:
+  term: Vikingu
+  class: su t
+  category: proper word
+  translation: 'adj: vikinga'
 vinamra:
   term: vinamra
   class: t
@@ -46799,7 +46920,8 @@ xahumatu:
   term: xahumatu
   class: b.oj; il
   category: derived
-  translation: 's: ŝako (<em>ludo</em>), ŝakludo; v.tr: (ŝak)matigi; interj: ŝakmat&#039;'
+  translation: 's: ŝako (<em>ludo</em>), ŝakludo; v.tr: (ŝak)matigi; interj: ŝakmat&#039;;
+    interj: fuŝ&#039;'
 xahutahta:
   term: xahutahta
   class: b
@@ -47434,7 +47556,7 @@ xohrayen:
   translation: 's: famulo, stelulo'
 xoku:
   term: xoku
-  class: b.oro
+  class: b.oro; il
   category: root
   translation: 's: ŝoko; v.tr: ŝoki; v.ntr (nedeviga uzo de -cu): ŝokiĝi'
 xokuabil:
@@ -48591,6 +48713,11 @@ yunhene:
   class: t
   category: derived
   translation: 'adj: fandiĝanta; adv: fandiĝante'
+yunhevaso:
+  term: yunhevaso
+  class: b
+  category: derived
+  translation: 's: fandujo'
 yunki:
   term: yunki
   class: b.oro.jotay
