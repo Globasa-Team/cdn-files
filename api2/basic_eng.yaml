@@ -5553,6 +5553,16 @@ bopu:
   class: b.oj
   category: root
   translation: 'n: squeeze; v.tr: squeeze'
+bopudo:
+  term: bopudo
+  class: t
+  category: derived
+  translation: 'adj: squeezed'
+bopune:
+  term: bopune
+  class: t
+  category: derived
+  translation: 'adj: squeezing'
 boro:
   term: Boro
   class: su t
@@ -6552,6 +6562,11 @@ canal:
   class: b
   category: root
   translation: 'n: channel, canal, duct'
+candana:
+  term: candana
+  class: b
+  category: root
+  translation: 'n: sandalwood, <em>Santalum</em>'
 candru:
   term: candru
   class: b
@@ -7201,9 +7216,9 @@ cinjuli_gardanbendu:
   translation: 'n: pearl necklace'
 cinmi:
   term: cinmi
-  class: t
+  class: b
   category: root
-  translation: 'adj: intimate, close'
+  translation: 'adj: intimate, close; adv: intimate'
 cinmiya:
   term: cinmiya
   class: b
@@ -12917,6 +12932,11 @@ exnetoli:
   class: t
   category: derived
   translation: 'adj: offline; adv: offline'
+exogarcu:
+  term: exogarcu
+  class: b.nenoj
+  category: derived
+  translation: 'n: move out; v.intr: move out'
 exordinari:
   term: exordinari
   class: t
@@ -17541,8 +17561,8 @@ hantapamtul:
   class: b
   category: derived
   translation: 'n: handgun, pistol'
-hantasapun:
-  term: hantasapun
+hantasabun:
+  term: hantasabun
   class: b
   category: derived
   translation: 'n: hand soap'
@@ -19882,6 +19902,11 @@ innetoli:
   class: t
   category: derived
   translation: 'adj: online; adv: online'
+inogarcu:
+  term: inogarcu
+  class: b.nenoj
+  category: derived
+  translation: 'n: move in; v.intr: move in'
 inoko:
   term: inoko
   class: b.oj
@@ -21045,6 +21070,11 @@ jaxafe_na:
   class: p jm
   category: phrase
   translation: 'prep phrs: right after (<em>+ -ing</em>)'
+jaxagami:
+  term: jaxagami
+  class: t
+  category: derived
+  translation: 'n: bride, groom, marrier'
 jaxali:
   term: jaxali
   class: t
@@ -26289,7 +26319,8 @@ lanetu:
   term: lanetu
   class: b.oj
   category: root
-  translation: 'n: condemnation, damnation; v.tr: condemn, damn, sentence, doom'
+  translation: 'n: condemnation, damnation, curse; v.tr: condemn, damn, sentence,
+    doom, curse'
 lanetudo:
   term: lanetudo
   class: t
@@ -27902,6 +27933,11 @@ lyudonje:
   class: b
   category: derived
   translation: 'n: current, flow rate'
+lyudonxey:
+  term: lyudonxey
+  class: b
+  category: derived
+  translation: 'n: fluid'
 lyutu:
   term: lyutu
   class: b
@@ -28728,6 +28764,11 @@ mansi:
   class: b.oj
   category: root
   translation: 'n: divination, augury, -mancy; v.tr: divine, augur, foretell, foresee'
+mansim:
+  term: mansim
+  class: t
+  category: derived
+  translation: 'adj: masculine, manly'
 mansinga:
   term: mansinga
   class: b
@@ -28928,6 +28969,11 @@ marta:
   class: su n
   category: proper word
   translation: 'prop n: Martha'
+martini:
+  term: martini
+  class: b
+  category: root
+  translation: 'n: martini'
 marximalo:
   term: marximalo
   class: b
@@ -29008,6 +29054,11 @@ masodukan:
   class: b
   category: derived
   translation: 'n: butcher shop, butcher&#039;s, butchery'
+masoesfer:
+  term: masoesfer
+  class: b
+  category: derived
+  translation: 'n: meatball'
 masok:
   term: Masok
   class: su n
@@ -30368,16 +30419,16 @@ mikasi:
   class: b
   category: root
   translation: 'n: (pair of) scissors'
-mikriobio:
-  term: mikriobio
-  class: b
-  category: derived
-  translation: 'n: microbe, germ, microogranism'
 mikro:
   term: mikro
   class: num
   category: root
   translation: 'num: one millionth (of), micro-'
+mikrobio:
+  term: mikrobio
+  class: b
+  category: derived
+  translation: 'n: microbe, germ, microogranism'
 mikrobiologi:
   term: mikrobiologi
   class: b
@@ -31272,6 +31323,11 @@ moteje:
   class: b
   category: derived
   translation: 'n (degree): thickness'
+motel:
+  term: motel
+  class: b
+  category: root
+  translation: 'n: motel'
 motexuji:
   term: motexuji
   class: b
@@ -31835,8 +31891,8 @@ myaw:
   class: b
   category: root
   translation: 'n: cat, <em>Felidae</em>'
-myawmenta:
-  term: myawmenta
+myawminta:
+  term: myawminta
   class: b
   category: derived
   translation: 'n: catnip'
@@ -32772,6 +32828,11 @@ neodimyum:
   class: b
   category: root
   translation: 'n: neodymium, <em>Nd</em>'
+neogami:
+  term: neogami
+  class: t
+  category: deribed
+  translation: 'n: newlywed'
 neoklasiko:
   term: neoklasiko
   class: t
@@ -32967,16 +33028,6 @@ nice:
   class: su n
   category: proper word
   translation: 'prop n: Nietzsche'
-nicodedo:
-  term: nicodedo
-  class: t
-  category: derived
-  translation: 'adj: squeezed'
-nicodene:
-  term: nicodene
-  class: t
-  category: derived
-  translation: 'adj: squeezing'
 nigalu:
   term: nigalu
   class: b.oj
@@ -33900,6 +33951,11 @@ ogarfilyen:
   class: b
   category: derived
   translation: 'n: recluse, hermit'
+ogargami:
+  term: ogargami
+  class: b
+  category: root
+  translation: 'n: housewife, househusband, housespouse'
 ogarhewan:
   term: ogarhewan
   class: b
@@ -33930,6 +33986,16 @@ ogarmaxina:
   class: b
   category: derived
   translation: 'n: (home) appliance'
+ogarserviyen:
+  term: ogarserviyen
+  class: b
+  category: derived
+  translation: 'n: maidservant, (hosue)maid, domestic (servant)'
+ogartayti:
+  term: ogartayti
+  class: b.oj
+  category: derived
+  translation: 'n: move; v.tr: move, change residence'
 ogasmoli:
   term: ogasmoli
   class: t
@@ -34016,6 +34082,11 @@ okodo:
   class: t
   category: derived
   translation: 'adj: seen, viewed'
+okoesfer:
+  term: okoesfer
+  class: b
+  category: derived
+  translation: 'n: eyeball'
 okoible:
   term: okoible
   class: t
@@ -34513,6 +34584,11 @@ ortogonali:
   class: t
   category: derived
   translation: 'adj: perpendicular, orthogonal; adv: perpendicularly, orthogonally'
+ortoxey:
+  term: ortoxey
+  class: b
+  category: derived
+  translation: 'n: erection'
 oruga:
   term: oruga
   class: b.oro
@@ -36503,6 +36579,11 @@ plaxdo:
   class: t
   category: derived
   translation: 'adj: splashed, splattered'
+plegi:
+  term: plegi
+  class: b.oj
+  category: derived
+  translation: 'n: multiplication; v.tr: multiply'
 pley:
   term: pley
   class: b.nenoj
@@ -36538,11 +36619,6 @@ plucu:
   class: b.nenoj
   category: derived
   translation: 'n: multiplication; v.intr: multiply, become multiplied'
-plugi:
-  term: plugi
-  class: b.oj
-  category: derived
-  translation: 'n: multiplication; v.tr: multiply'
 plugon:
   term: plugon
   class: b
@@ -38078,6 +38154,16 @@ ramadu:
   class: b
   category: root
   translation: 'n: ash, ashes'
+ramadutrey:
+  term: ramadutrey
+  class: b
+  category: derived
+  translation: 'n: ashtray'
+ramaduvaso:
+  term: ramaduvaso
+  class: b
+  category: derived
+  translation: 'n: (cinerary) urn'
 rambutan:
   term: rambutan
   class: b
@@ -39796,7 +39882,7 @@ sandan:
   term: sandan
   class: b
   category: root
-  translation: 'n: sandalwood, <em>Santalum</em>'
+  translation: 'n: shot (<em>projectile</em>), lead shot, birdshot, buckshot'
 sanduku:
   term: sanduku
   class: b.oj
@@ -40281,6 +40367,16 @@ seksomalfilya:
   class: b
   category: derived
   translation: 'n: lust (<em>sin</em>)'
+seksoorgano:
+  term: seksoorgano
+  class: b
+  category: root
+  translation: 'n: genitals, genitalia, sex organ'
+seksoparti:
+  term: seksoparti
+  class: b.nenoj
+  category: derived
+  translation: 'n: orgy; v.intr: have an orgy'
 seksopel:
   term: seksopel
   class: b
@@ -41660,6 +41756,11 @@ solomo:
   class: m
   category: derived
   translation: 'adv: solely'
+solopala:
+  term: solopala
+  class: b.nenoj
+  category: derived
+  translation: 'n: monolog, monologue; v.intr: monolog, monologue'
 soloya:
   term: soloya
   class: b
@@ -47943,7 +48044,7 @@ xorfobi:
   term: xorfobi
   class: b.oro.hisi
   category: derived
-  translation: 'v.tr: alarm; v.intr: become alarmed'
+  translation: 'n: startle; v.tr: startle; v.intr: be (<em>feel</em>) startled'
 xorganci:
   term: xorganci
   class: b.oj
@@ -48241,6 +48342,11 @@ xujitrompo:
   class: b
   category: derived
   translation: 'n: fidget spinner'
+xujitul:
+  term: xujitul
+  class: b
+  category: derived
+  translation: 'n: trigger (<em>firearm</em>)'
 xukra:
   term: xukra
   class: b.oj; il
