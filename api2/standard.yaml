@@ -5489,6 +5489,41 @@ adhesine:
     - adhesi
     - +
     - -ne
+adhesixey:
+  term: adhesixey
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: sticker'
+    epo:
+    - - 's: glumarko'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - sticker
+    epo:
+      s:
+      - glumarko
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - adehsi
+    - +
+    - -xey
 adil:
   term: adil
   word class: t
@@ -29734,17 +29769,24 @@ astamado:
     - -do
 astamakrisis:
   term: astamakrisis
-  word class: b
+  word class: b.oro.jotay
   category: derived
   trans:
     eng:
     - - 'n: asthma attack'
+    - - 'v.tr: cause an asthma attack'
+    - - 'v.intr: have an asthma attack'
     epo:
     - - 's: astmokrizo'
       - krizo de astmo
+    - - 'v.tr: kaŭzi astmokrizon'
+    - - 'v.ntr: trafiĝi de astmokrizo'
     spa:
     - - 's: ataque de asma'
       - crisis asmática
+    - - 'v.tr: causar un ataque de asma'
+    - - 'v.intr: tener un ataque de asma'
+      - sufrir un ataque de asma
     deu:
     - - 'S: Asthmaanfall'
     fra:
@@ -29761,14 +29803,27 @@ astamakrisis:
     eng:
       "n":
       - asthma attack
+      v.tr:
+      - cause an asthma attack
+      v.intr:
+      - have an asthma attack
     epo:
       s:
       - astmokrizo
       - krizo de astmo
+      v.tr:
+      - kaŭzi astmokrizon
+      v.ntr:
+      - trafiĝi de astmokrizo
     spa:
       s:
       - ataque de asma
       - crisis asmática
+      v.tr:
+      - causar un ataque de asma
+      v.intr:
+      - tener un ataque de asma
+      - sufrir un ataque de asma
     deu:
       S:
       - Asthmaanfall
@@ -62440,6 +62495,53 @@ bonaxam:
     - bon-
     - +
     - axam
+boncoxo:
+  term: boncoxo
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - 'n: tease'
+    - - 'v.tr: tease'
+      - razz
+      - chaff
+      - poke fun (at)
+    epo:
+    - - 'n: moketo'
+    - - 'v.tr: moketi'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - tease
+      v.tr:
+      - tease
+      - razz
+      - chaff
+      - poke fun (at)
+    epo:
+      "n":
+      - moketo
+      v.tr:
+      - moketi
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - bon-
+    - +
+    - coxo
 boncu:
   term: boncu
   word class: b.nenoj
@@ -76949,6 +77051,78 @@ cati:
     natlang:
       Hindi: छाती &ldquo;cati&rdquo;
       Telugusa: ఛాతి &ldquo;cati&rdquo;
+catilabas:
+  term: catilabas
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: top (clothing)'
+    epo:
+    - - 's: brustvestaĵo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - top (clothing)
+    epo:
+      s:
+      - brustvestaĵo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - cati
+    - +
+    - labas
+catilabaskal:
+  term: catilabaskal
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: topless'
+    epo:
+    - - 'adj: nudmama'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - topless
+    epo:
+      adj:
+      - nudmama
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - cati
+    - +
+    - labas
+    - +
+    - -kal
 catimaso:
   term: catimaso
   word class: b
@@ -99481,6 +99655,7 @@ daylil:
   trans:
     eng:
     - - 'adj: tiny'
+      - teeny
     epo:
     - - 'adj: eta'
       - malgrandega
@@ -99499,6 +99674,7 @@ daylil:
     eng:
       adj:
       - tiny
+      - teeny
     epo:
       adj:
       - eta
@@ -103526,6 +103702,132 @@ deli:
     - de
     - +
     - -li
+delika:
+  term: delika
+  word class: t
+  category: root
+  trans:
+    eng:
+    - - 'adj: delicate (<em>food</em>)'
+      - fine (<em>dining</em>)
+    epo:
+    - - 'adj: delikata (<em>manĝaĵo</em>)'
+      - delica
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - delicate (<em>food</em>)
+      - fine (<em>dining</em>)
+    epo:
+      adj:
+      - delikata (<em>manĝaĵo</em>)
+      - delica
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Doycisa: Delikatesse
+      Englisa: delicate, delicacy, deli
+      Espanisa: delicado
+      Fransesa: d&eacute;licat
+      Indonesisa: delikatesen
+      Niponsa: デリカテッセン &ldquo;derikatessen&rdquo;, デリカシー &ldquo;derikaxi&rdquo;, デリカ
+        &ldquo;derika&rdquo;
+      Rusisa: деликатес &ldquo;delikates&rdquo;
+delikadukan:
+  term: delikadukan
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: deli'
+      - delicatessen
+    epo:
+    - - 'n: frandaĵvendejo'
+      - bongustaĵejo
+      - delikataĵejo
+      - delicaĵejo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - deli
+      - delicatessen
+    epo:
+      "n":
+      - frandaĵvendejo
+      - bongustaĵejo
+      - delikataĵejo
+      - delicaĵejo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - delika
+    - +
+    - dukan
+delikaxey:
+  term: delikaxey
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: delicacy'
+    epo:
+    - - 'n: delikataĵo'
+      - delicaĵo
+      - bongustaĵo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - delicacy
+    epo:
+      "n":
+      - delikataĵo
+      - delicaĵo
+      - bongustaĵo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - delika
+    - +
+    - -xey
 deliryum:
   term: deliryum
   word class: b
@@ -121365,6 +121667,138 @@ dujarden:
     - du-
     - +
     - jarden
+dujixi:
+  term: dujixi
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - 'n: cognition'
+    - - 'v.tr: cognize'
+      - process cognitively
+    epo:
+    - - 's: kogno'
+    - - 'v.tr: kogni'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - cognition
+      v.tr:
+      - cognize
+      - process cognitively
+    epo:
+      s:
+      - kogno
+      v.tr:
+      - kogni
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - du-
+    - +
+    - jixi
+    natlang similar:
+      Turkisa: biliş
+dujixili:
+  term: dujixili
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: cognitive'
+    - - 'adv: cognitively'
+    epo:
+    - - 'adj: kogna'
+    - - 'adv: kogne'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - cognitive
+      adv:
+      - cognitively
+    epo:
+      adj:
+      - kogna
+      adv:
+      - kogne
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - du-
+    - +
+    - jixi
+    - +
+    - -li
+dujixine:
+  term: dujixine
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: cognizant'
+      - sapient
+    - - 'adj: cognizantly'
+      - sapiently
+    epo:
+    - - 'adj: kognanta'
+    - - 'adv: kognante'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - cognizantly
+      - sapiently
+    epo:
+      adj:
+      - kognanta
+      adv:
+      - kognante
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - du-
+    - +
+    - jixi
+    - +
+    - -ne
 dukan:
   term: dukan
   word class: b
@@ -124376,6 +124810,43 @@ dwan:
       Koreasa: 단 &ldquo;dan&rdquo;
       Niponsa: 先端 &ldquo;sentan&rdquo;, 末端 &ldquo;matan&rdquo;
       Putunhwa: 端 &ldquo;dwan&rdquo;, 末端 &ldquo;modwan&rdquo;
+dwanpul:
+  term: dwanpul
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: pointy'
+      - pointed
+    epo:
+    - - 'adj: pinta'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - pointy
+      - pointed
+    epo:
+      adj:
+      - pinta
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - dwan
+    - +
+    - -pul
 dwarfu:
   term: dwarfu
   word class: b
@@ -147670,6 +148141,88 @@ exkludido:
     - exkludi
     - +
     - -do
+exkludili:
+  term: exkludili
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: exclusive'
+    - - 'adv: exclusively'
+    epo:
+    - - 'adj: ekskluziva'
+    - - 'adv: ekskluzive'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - exclusive
+      adv:
+      - exclusively
+    epo:
+      adj:
+      - ekskluziva
+      adv:
+      - ekskluzive
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - exkludi
+    - +
+    - -ne
+exkludine:
+  term: exkludine
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: exclusionary'
+    - - 'adv: exclusionary'
+    epo:
+    - - 'adj: ekskluzivema'
+    - - 'adv: ekskluziveme'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - exclusionary
+      adv:
+      - exclusionary
+    epo:
+      adj:
+      - ekskluzivema
+      adv:
+      - ekskluziveme
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - exkludi
+    - +
+    - -li
 exkopi:
   term: exkopi
   word class: b.oj
@@ -173960,6 +174513,7 @@ fubu:
       - belly
       - gut
       - ventrum
+      - tummy
     epo:
     - - 's: abdomeno'
       - ventro
@@ -173991,6 +174545,7 @@ fubu:
       - belly
       - gut
       - ventrum
+      - tummy
     epo:
       s:
       - abdomeno
@@ -199053,6 +199608,45 @@ halu:
       Indonesisa: hal
       Swahilisa: hali
       Turkisa: h&acirc;l
+halukomedi:
+  term: halukomedi
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: sitcom'
+      - situation comedy
+    epo:
+    - - 's: situacia komedio'
+      - sitkomo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - sitcom
+      - situation comedy
+    epo:
+      s:
+      - situacia komedio
+      - sitkomo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - halu
+    - +
+    - komedi
 halulari:
   term: halulari
   word class: b
@@ -209768,6 +210362,43 @@ hikaye:
       Parsisa: حکایت &ldquo;hekayat&rdquo;
       Swahilisa: hekaya
       Turkisa: hik&acirc;ye
+hikayedao:
+  term: hikayedao
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: plot'
+      - storyline
+    epo:
+    - - 's: intrigo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - plot
+      - storyline
+    epo:
+      s:
+      - intrigo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - hikaye
+    - +
+    - dao
 hikayedo:
   term: hikayedo
   word class: t
@@ -219236,7 +219867,7 @@ ideyismo:
     derived:
     - idey
     - +
-    - hismo
+    - -ismo
 idi:
   term: idi
   word class: b.nenoj
@@ -222989,6 +223620,88 @@ inci:
       Swahilisa: inchi
       Turkisa: in&ccedil;
       Vyetnamsa: inh
+incori:
+  term: incori
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - 'n: burglary'
+    - - 'v.tr: buglarize'
+      - burgle
+    epo:
+    - - 's: rompŝtelo'
+      - enrompo
+    - - 'v.ntr: rompŝteli'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - burglary
+      v.tr:
+      - buglarize
+      - burgle
+    epo:
+      s:
+      - rompŝtelo
+      - enrompo
+      v.ntr:
+      - rompŝteli
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - in-
+    - +
+    - cori
+incoriyen:
+  term: incoriyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: burglar'
+    epo:
+    - - 's: rompŝtelisto'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - burglar
+    epo:
+      s:
+      - rompŝtelisto
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - in-
+    - +
+    - cori
+    - +
+    - -yen
 incu:
   term: incu
   word class: b.nenoj
@@ -226218,6 +226931,88 @@ inkludi:
       Espanisa: incluir
       Fransesa: inclure
       Rusisa: инклюзия &ldquo;inklyuziya&rdquo;
+inkludili:
+  term: inkludili
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: inclusive'
+    - - 'adv: inclusively'
+    epo:
+    - - 'adj: inkluziva'
+    - - 'adv: inkluzive'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - inclusive
+      adv:
+      - inclusively
+    epo:
+      adj:
+      - inkluziva
+      adv:
+      - inkluzive
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - inkludi
+    - +
+    - -ne
+inkludine:
+  term: inkludine
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: inclusionary'
+    - - 'adv: inclusionarily'
+    epo:
+    - - 'adj: inkluzivema'
+    - - 'adv: inkluziveme'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - inclusionary
+      adv:
+      - inclusionarily
+    epo:
+      adj:
+      - inkluzivema
+      adv:
+      - inkluziveme
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - inkludi
+    - +
+    - -li
 inkomacu:
   term: inkomacu
   word class: b.nenoj
@@ -258819,6 +259614,47 @@ kandidato:
       Parsisa: کاندید &ldquo;kandid&rdquo;
       Pilipinasa: kandidato
       Rusisa: кандидат &ldquo;kandidat&rdquo;
+kandidatogi:
+  term: kandidatogi
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - 'n: nomination'
+    - - 'v.tr: nominate'
+    epo:
+    - - 'n: kandidatigo'
+    - - 'v.tr: kandidatigi'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - nomination
+      v.tr:
+      - nominate
+    epo:
+      "n":
+      - kandidatigo
+      v.tr:
+      - kandidatigi
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - kandidato
+    - +
+    - -gi
 kanguru:
   term: kanguru
   word class: b
@@ -276493,6 +277329,46 @@ klubu:
       Swahilisa: klabu
       Turkisa: kul&uuml;p
       Vyetnamsa: c&acirc;u lạc bộ &ldquo;keu lak bo&rdquo;
+kludiya:
+  term: kludiya
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: clusivity'
+    epo:
+    - - 's: kluziveco'
+    spa:
+    - - 's: clusividad'
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - clusivity
+    epo:
+      s:
+      - kluziveco
+    spa:
+      s:
+      - clusividad
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - inkludi
+    - +
+    - exkludi
+    - +
+    - -ya
 koala:
   term: koala
   word class: b
@@ -279033,7 +279909,7 @@ koloniismo:
     derived:
     - koloni
     - +
-    - ismo
+    - -ismo
 kolor:
   term: kolor
   word class: b.oj
@@ -279291,6 +280167,41 @@ kolorente:
     - kolor
     - +
     - ente
+kolorjudan:
+  term: kolorjudan
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: paintball (capsule)'
+    epo:
+    - - 's: farbopafa kuglo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - paintball (capsule)
+    epo:
+      s:
+      - farbopafa kuglo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - kolor
+    - +
+    - judan
 kolorlari:
   term: kolorlari
   word class: b
@@ -279536,6 +280447,84 @@ kolorokoosis:
     - oko
     - +
     - osis
+kolorpam:
+  term: kolorpam
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - 'n: paintball (game)'
+    - - 'v.tr: shoot (someone) with paint'
+    epo:
+    - - 's: farbopafado'
+    - - 'v.tr: farbopafi'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - paintball (game)
+      v.tr:
+      - shoot (someone) with paint
+    epo:
+      s:
+      - farbopafado
+      v.tr:
+      - farbopafi
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - kolor
+    - +
+    - pam
+kolorpamtul:
+  term: kolorpamtul
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: paintball gun'
+    epo:
+    - - 's: farbopafilo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - paintball gun
+    epo:
+      s:
+      - farbopafilo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - kolor
+    - +
+    - pam
+    - +
+    - -tul
 kolorpensil:
   term: kolorpensil
   word class: d
@@ -295801,24 +296790,13 @@ kuskus:
     - - 'n: couscous'
     epo:
     - - 's: kuskuso'
-    spa:
-    - - 's: cuscús'
-    deu:
-    - - Couscous
-      - Kuskus
-    fra:
-    - - couscous
-    rus:
-    - - кускус
-    zho:
-    - - 古斯
-      - 古斯古斯
-      - 库斯库斯
-      - 蒸粗麦粉
-      - 北非小米
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
     hin: []
-    ara:
-    - - كُسكُس
+    ara: []
   trans_v2:
     eng:
       "n":
@@ -295826,42 +296804,24 @@ kuskus:
     epo:
       s:
       - kuskuso
-    spa:
-      s:
-      - cuscús
-    deu:
-      "":
-      - Couscous
-      - Kuskus
-    fra:
-      "":
-      - couscous
-    rus:
-      "":
-      - кускус
-    zho:
-      "":
-      - 古斯
-      - 古斯古斯
-      - 库斯库斯
-      - 蒸粗麦粉
-      - 北非小米
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
     hin: []
-    ara:
-      "":
-      - كُسكُس
+    ara: []
   etymology:
     natlang:
-      Arabisa: كُسْكُس &ldquo;kuskus&rdquo;
-      Doycisa: Couscous, Kuskus
+      Arabisa: كُسْكُس &quot;kuskus&quot;
+      Doycisa: Kuskus
       Englisa: couscous
       Espanisa: cusc&uacute;s
       Fransesa: couscous
-      Hindi: कुसकुस &ldquo;kuskus&rdquo;
-      Koreasa: 쿠스쿠스 &ldquo;kusukusu&rdquo;
-      Niponsa: クスクス &ldquo;kusukusu&rdquo;
-      Parsisa: کوسکوس &ldquo;kuskus&rdquo;
-      Rusisa: кускус &ldquo;kuskus&rdquo;
+      Koreasa: 쿠스쿠스 &quot;kusukusu&quot;
+      Niponsa: クスクス &quot;kusukusu&quot;
+      Parsisa: کوسکوس &quot;kuskus&quot;
+      Rusisa: кускус &quot;kusks&quot;
       Turkisa: kuskus
 kustardi:
   term: kustardi
@@ -299495,6 +300455,41 @@ labasmon:
     - labas
     - +
     - -mon
+labastui:
+  term: labastui
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: pant leg'
+    epo:
+    - - 's: pantalona kruro'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - pant leg
+    epo:
+      s:
+      - pantalona kruro
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - labas
+    - +
+    - tui
 label:
   term: label
   word class: b.oj
@@ -300956,29 +301951,52 @@ lamabiologi:
   trans:
     eng:
     - - 'n: paleontology'
+      - palaeontology
     epo:
     - - 's: paleontologio'
-    spa: []
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    spa:
+    - - 's: paleontología'
+    deu:
+    - - 'S: Paläontologie'
+    fra:
+    - - 'n: paléontologie'
+    rus:
+    - - 'сущ: палеонтология'
+    zho:
+    - - '名: 古生物学'
+    hin:
+    - - 'सं: जीवाश्म विज्ञान'
+    ara:
+    - - 'اسم: عِلْم الأُحْفُورَات، بَالِيُونْتُولُوجْيَا'
   trans_v2:
     eng:
       "n":
       - paleontology
+      - palaeontology
     epo:
       s:
       - paleontologio
-    spa: []
-    deu: []
-    fra: []
-    rus: []
-    zho: []
-    hin: []
-    ara: []
+    spa:
+      s:
+      - paleontología
+    deu:
+      S:
+      - Paläontologie
+    fra:
+      "n":
+      - paléontologie
+    rus:
+      сущ:
+      - палеонтология
+    zho:
+      名:
+      - 古生物学
+    hin:
+      सं:
+      - जीवाश्म विज्ञान
+    ara:
+      اسم:
+      - عِلْم الأُحْفُورَات، بَالِيُونْتُولُوجْيَا
   etymology:
     derived:
     - lama
@@ -311887,6 +312905,55 @@ lilhosu:
     - lil-
     - +
     - hosu
+lilible:
+  term: lilible
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: improbable'
+      - unlikely
+    - - 'adv: improbably'
+      - unlikely
+    epo:
+    - - 'adj: neprobabla'
+      - neverŝajna
+    - - 'adv: neprobable'
+      - neverŝajna
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - improbable
+      - unlikely
+      adv:
+      - improbably
+      - unlikely
+    epo:
+      adj:
+      - neprobabla
+      - neverŝajna
+      adv:
+      - neprobable
+      - neverŝajna
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - lil-
+    - +
+    - ible
 liljabal:
   term: liljabal
   word class: b
@@ -313344,6 +314411,62 @@ lilyao:
     - +
     - yao
 lima:
+  term: lima
+  word class: num
+  category: root
+  trans:
+    eng:
+    - - 'num: five'
+    epo:
+    - - 'num: kvin'
+    spa:
+    - - 'num: cinco'
+    deu:
+    - - fünf
+    fra:
+    - - cinq
+    rus:
+    - - пять
+    zho:
+    - - 五
+    hin:
+    - - पाँच
+    ara:
+    - - خَمْسَة
+  trans_v2:
+    eng:
+      num:
+      - five
+    epo:
+      num:
+      - kvin
+    spa:
+      num:
+      - cinco
+    deu:
+      "":
+      - fünf
+    fra:
+      "":
+      - cinq
+    rus:
+      "":
+      - пять
+    zho:
+      "":
+      - 五
+    hin:
+      "":
+      - पाँच
+    ara:
+      "":
+      - خَمْسَة
+  etymology:
+    natlang:
+      Indonesisa: lima
+      Pilipinasa: lima
+      Sundasa: lima
+lima_xaher:
   term: Lima
   word class: su n
   category: proper word
@@ -331640,6 +332763,50 @@ margarin:
       Swahilisa: marjarini
       Telugusa: మార్గరైన్ &ldquo;margarain&rdquo;
       Turkisa: margarin
+margarita:
+  term: margarita
+  word class: b
+  category: root
+  trans:
+    eng:
+    - - 'n: margarita'
+    epo:
+    - - 'n: margarito (<em>koktelo</em>)'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - margarita
+    epo:
+      "n":
+      - margarito (<em>koktelo</em>)
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    natlang:
+      Arabisa: مرغريتا &ldquo;marḡarita&rdquo;
+      Doycisa: Margarita
+      Englisa: margarita
+      Espanisa: margarita
+      Fransesa: margarita
+      Koreasa: 마르가리타 &ldquo;marugarita&rdquo;
+      Niponsa: マルガリータ &ldquo;marugarita&rdquo;
+      Parsisa: مارگاریتا &ldquo;margarita&rdquo;
+      Putunhwa: 玛格丽特 &ldquo;magelite&rdquo;
+      Rusisa: маргарита &ldquo;margarita&rdquo;
+      Turkisa: margarita
+      Vyetnamsa: margarita
 maria:
   term: Maria
   word class: su n
@@ -338479,6 +339646,7 @@ maxmo_bon:
   trans:
     eng:
     - - 'adj: better'
+      - superior
     - - 'adv: better'
     epo:
     - - 'adj: pli bona'
@@ -338496,6 +339664,7 @@ maxmo_bon:
     eng:
       adj:
       - better
+      - superior
       adv:
       - better
     epo:
@@ -348256,6 +349425,8 @@ mida:
   trans:
     eng:
     - - 'n: stomach'
+      - tummy
+      - belly
     epo:
     - - 's: stomako'
     spa:
@@ -348277,6 +349448,8 @@ mida:
     eng:
       "n":
       - stomach
+      - tummy
+      - belly
     epo:
       s:
       - stomako
@@ -353996,6 +355169,41 @@ mobil:
       Pilipinasa: awtomobil
       Rusisa: автомобиль &ldquo;avtomobil&rdquo;
       Turkisa: otomobil
+mobildao:
+  term: mobildao
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: driveway'
+    epo:
+    - - 's: enveturejo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - driveway
+    epo:
+      s:
+      - enveturejo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - mobil
+    - +
+    - dao
 mobilkamer:
   term: mobilkamer
   word class: b
@@ -354950,6 +356158,53 @@ mogekalyen:
     - -kal
     - +
     - -yen
+mogekrisis:
+  term: mogekrisis
+  word class: b.oro.jotay
+  category: derived
+  trans:
+    eng:
+    - - 'n: stroke'
+    - - 'v.tr: cause a stroke'
+    - - 'v.intr: have a stroke'
+    epo:
+    - - 's: apopleksio'
+    - - 'v.tr: kaŭzi apopleksion'
+    - - 'v.ntr: trafiĝi de apopleksio'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - stroke
+      v.tr:
+      - cause a stroke
+      v.intr:
+      - have a stroke
+    epo:
+      s:
+      - apopleksio
+      v.tr:
+      - kaŭzi apopleksion
+      v.ntr:
+      - trafiĝi de apopleksio
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - moge
+    - +
+    - krisis
 mogepul:
   term: mogepul
   word class: t
@@ -361586,7 +362841,7 @@ moyteoismo:
     - +
     - teo
     - +
-    - ismo
+    - -ismo
 moyto:
   term: moyto
   word class: 'tabel: pn'
@@ -366057,6 +367312,47 @@ myawsa:
     - myaw
     - +
     - -sa
+myawvibra:
+  term: myawvibra
+  word class: b.nenoj
+  category: derived
+  trans:
+    eng:
+    - - 'n: purr'
+    - - 'v.intr: purr'
+    epo:
+    - - 'n: ronrono'
+    - - 'v.ntr: ronroni'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - purr
+      v.intr:
+      - purr
+    epo:
+      "n":
+      - ronrono
+      v.ntr:
+      - ronroni
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - myaw
+    - +
+    - vibra
 na:
   term: na
   word class: par
@@ -376462,7 +377758,7 @@ neodimyum:
 neogami:
   term: neogami
   word class: t
-  category: deribed
+  category: derived
   trans:
     eng:
     - - 'n: newlywed'
@@ -389135,6 +390431,78 @@ ogarkadya:
     - ogar
     - +
     - kadya
+ogarkal:
+  term: ogarkal
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: homeless'
+    epo:
+    - - 'adj: senhejma'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - homeless
+    epo:
+      adj:
+      - senhejma
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ogar
+    - +
+    - -kal
+ogarkalyen:
+  term: ogarkalyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: homeless person'
+    epo:
+    - - 's: senhejmulo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - homeless person
+    epo:
+      s:
+      - senhejmulo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ogar
+    - +
+    - -kal
+    - +
+    - -yen
 ogarli:
   term: ogarli
   word class: t
@@ -419164,7 +420532,7 @@ plegi:
     ara: []
   etymology:
     derived:
-    - ple
+    - -ple
     - +
     - -gi
 pley:
@@ -419776,6 +421144,61 @@ plujensifilya:
     - -fil
     - +
     - -ya
+plulawfen:
+  term: plulawfen
+  word class: b.oro.hisi
+  category: derived
+  trans:
+    eng:
+    - - 'n: nagging'
+      - pestering
+    - - 'v.tr: nag'
+      - pester
+    - - 'v.intr: feel nagged'
+      - feel a nagging sensation
+      - be (<em>feel</em>) pestered
+    epo:
+    - - 'n: ĉagrenado'
+    - - 'v.tr: ĉagrenadi'
+    - - 'v.ntr: ĉagreniĝadi'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - nagging
+      - pestering
+      v.tr:
+      - nag
+      - pester
+      v.intr:
+      - feel nagged
+      - feel a nagging sensation
+      - be (<em>feel</em>) pestered
+    epo:
+      "n":
+      - ĉagrenado
+      v.tr:
+      - ĉagrenadi
+      v.ntr:
+      - ĉagreniĝadi
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - plu-
+    - +
+    - lawfen
 plurota:
   term: plurota
   word class: b.oro.harka
@@ -436668,18 +438091,26 @@ rahel:
       Vyetnamsa: ""
 rahema:
   term: rahema
-  word class: b
+  word class: b.oj
   category: root
   trans:
     eng:
     - - 'n: mercy'
+      - compassion
+    - - 'v.tr: show mercy (upon)'
+      - have compassion (for)
+      - spare
     epo:
     - - 's: kompato'
       - mizerikordo
       - korfavoro
+    - - 'v.tr: kompati'
+      - korfavori
     spa:
     - - 's: misericordia'
       - piedad
+    - - 'v.tr: tener misericordia (de)'
+      - tener compasión (para)
     deu:
     - - 'S: Gnade'
       - Erbarmen
@@ -436704,15 +438135,26 @@ rahema:
     eng:
       "n":
       - mercy
+      - compassion
+      v.tr:
+      - show mercy (upon)
+      - have compassion (for)
+      - spare
     epo:
       s:
       - kompato
       - mizerikordo
       - korfavoro
+      v.tr:
+      - kompati
+      - korfavori
     spa:
       s:
       - misericordia
       - piedad
+      v.tr:
+      - tener misericordia (de)
+      - tener compasión (para)
     deu:
       S:
       - Gnade
@@ -436741,7 +438183,7 @@ rahema:
       - رَحْمَة، شَفَقَة
   etymology:
     natlang:
-      Arabisa: رَحْمَة &ldquo;rahma&rdquo;
+      Arabisa: رَحْمَة &ldquo;rahma&rdquo;, رَحِمَ &ldquo;rahima&rdquo;
       Hindi: रहम &ldquo;raham&rdquo;
       Indonesisa: rahmat
       Parsisa: رحم &ldquo;rahm&rdquo;
@@ -443301,6 +444743,51 @@ rigi:
     - ri-
     - +
     - -gi
+rikolyo:
+  term: rikolyo
+  word class: b.oj
+  category: derived
+  trans:
+    eng:
+    - - 'n: reconsideration'
+    - - 'v.tr: reconsider'
+      - take back into consideration
+      - take back into account
+    epo:
+    - - 's: rekonsidero'
+    - - 'v.tr: rekonsideri'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - reconsideration
+      v.tr:
+      - reconsider
+      - take back into consideration
+      - take back into account
+    epo:
+      s:
+      - rekonsidero
+      v.tr:
+      - rekonsideri
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ri-
+    - +
+    - kolyo
 rikostrui:
   term: rikostrui
   word class: b.oj
@@ -447492,6 +448979,43 @@ ruhologi:
     - ruho
     - +
     - logi
+ruhomedya:
+  term: ruhomedya
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: (spirit) medium'
+      - psychic
+    epo:
+    - - 's: mediumo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - (spirit) medium
+      - psychic
+    epo:
+      s:
+      - mediumo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ruho
+    - +
+    - medya
 ruidi:
   term: ruidi
   word class: b.nenoj
@@ -461200,6 +462724,51 @@ sefidemo:
     - sefide
     - +
     - -mo
+sefidemurace:
+  term: sefidemurace
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: termite'
+    epo:
+    - - 's: termito'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - termite
+    epo:
+      s:
+      - termito
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - sefide
+    - +
+    - murace
+    natlang:
+      Parsisa: مورچه&zwnj;ی سفید &ldquo;murce-ye sefid&rdquo;
+    natlang similar:
+      Arabisa: نَمْل أَبْيَض
+      Englisa: white ant - guxi
+      Indonesisa: semut putih
+      Koreasa: 흰개미
+      Niponsa: 白蟻
+      Putunhwa: 白蟻
+      Turkisa: beyaz karınca
 sefideya:
   term: sefideya
   word class: b
@@ -468392,6 +469961,7 @@ sewdo:
     eng:
     - - 'adj: fake'
       - "false"
+      - phony
       - pseudo-
     epo:
     - - 'adj: falsa'
@@ -468414,6 +469984,7 @@ sewdo:
       adj:
       - fake
       - "false"
+      - phony
       - pseudo-
     epo:
       adj:
@@ -468541,6 +470112,45 @@ sewdosyensi:
     - sewdo
     - +
     - syensi
+sewdoxey:
+  term: sewdoxey
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: fake'
+      - phony
+    epo:
+    - - 's: falsaĵo'
+      - imitaĵo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - fake
+      - phony
+    epo:
+      s:
+      - falsaĵo
+      - imitaĵo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - sewdo
+    - +
+    - -xey
 sexinloy:
   term: sexinloy
   word class: b
@@ -470189,10 +471799,13 @@ siko:
   trans:
     eng:
     - - 'n: mind'
+      - psyche
     epo:
     - - 's: menso'
+      - psiko
     spa:
     - - 's: mente'
+      - psique
     deu:
     - - 'S: Verstand'
       - Geist
@@ -470215,12 +471828,15 @@ siko:
     eng:
       "n":
       - mind
+      - psyche
     epo:
       s:
       - menso
+      - psiko
     spa:
       s:
       - mente
+      - psique
     deu:
       S:
       - Verstand
@@ -477354,6 +478970,41 @@ solabanyo:
       Rusisa: солнечная ванна
       Turkisa: g&uuml;neş banyosu
       Vyetnamsa: tắm nắng
+solabrila:
+  term: solabrila
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: sunshine'
+    epo:
+    - - 's: sunbrilo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - sunshine
+    epo:
+      s:
+      - sunbrilo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - sola
+    - +
+    - brila
 soladin:
   term: soladin
   word class: b
@@ -477707,6 +479358,41 @@ solali:
     - sola
     - +
     - -li
+solalumin:
+  term: solalumin
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: sunlight'
+    epo:
+    - - 's: sunlumo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - sunlight
+    epo:
+      s:
+      - sunlumo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - sola
+    - +
+    - lumin
 solapul:
   term: solapul
   word class: t
@@ -486109,6 +487795,127 @@ suprali:
     - supra
     - +
     - -li
+supramiya:
+  term: supramiya
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: superego'
+    epo:
+    - - 's: supermio'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - superego
+    epo:
+      s:
+      - supermio
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - supra
+    - +
+    - mi
+    - +
+    - -ya
+supramoni:
+  term: supramoni
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: supervision'
+    - - 'v.tr: supervise'
+      - oversee
+    epo:
+    - - 's: (supera) kontrolado'
+    - - 'v.tr: (supere) kontroli'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - supervision
+      v.tr:
+      - supervise
+      - oversee
+    epo:
+      s:
+      - (supera) kontrolado
+      v.tr:
+      - (supere) kontroli
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - supra
+    - +
+    - moni
+supramoniyen:
+  term: supramoniyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: supervisor'
+      - overseer
+    epo:
+    - - 's: superulo'
+      - kontrolisto
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - supervisor
+      - overseer
+    epo:
+      s:
+      - superulo
+      - kontrolisto
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - supra
+    - +
+    - moni
+    - +
+    - -yen
 supranova:
   term: supranova
   word class: b
@@ -513707,6 +515514,44 @@ towa:
       Niponsa: タワー &ldquo;tawa&rdquo;
       Pilipinasa: tore
       Putunhwa: 塔楼 &ldquo;ta low&rdquo;
+toya:
+  term: toya
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: id'
+    epo:
+    - - 's: ĝio'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - id
+    epo:
+      s:
+      - ĝio
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - to
+    - +
+    - -ya
+    natlang similar:
+      Doycisa: Es
+      Latinsa: id
 trafiko:
   term: trafiko
   word class: b
@@ -517562,6 +519407,7 @@ tubihu:
       - admonish
       - rebuke
       - reprimand
+      - roast
     epo:
     - - 's: admono'
       - riproĉo
@@ -517597,6 +519443,7 @@ tubihu:
       - admonish
       - rebuke
       - reprimand
+      - roast
     epo:
       s:
       - admono
@@ -517981,6 +519828,41 @@ tui:
     natlang:
       Niponsa: 大腿 &ldquo;daitai&rdquo;
       Putunhwa: 腿 &ldquo;twey&rdquo;
+tuilabas:
+  term: tuilabas
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: bottom (clothing)'
+    epo:
+    - - 's: krurovestaĵo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - bottom (clothing)
+    epo:
+      s:
+      - krurovestaĵo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - tui
+    - +
+    - labas
 tukan:
   term: tukan
   word class: b
@@ -523170,6 +525052,45 @@ ultradose:
     - ultra-
     - +
     - dose
+ultraganciyen:
+  term: ultraganciyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: psychic (<em>with extrasensory perception</em>)'
+    epo:
+    - - 's: ekstrasensulo'
+      - metapsikiisto
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - psychic (<em>with extrasensory perception</em>)
+    epo:
+      s:
+      - ekstrasensulo
+      - metapsikiisto
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - ultra-
+    - +
+    - ganci
+    - +
+    - -yen
 ultragi:
   term: ultragi
   word class: b.oj
@@ -525825,6 +527746,47 @@ usta:
       Hindi: उस्ताद &ldquo;ustad&rdquo;
       Parsisa: اوستا &ldquo;avesta&rdquo;
       Turkisa: usta
+ustacu:
+  term: ustacu
+  word class: b.nenoj
+  category: derived
+  trans:
+    eng:
+    - - 'n: mastering'
+    - - 'v.intr: master'
+    epo:
+    - - 'n: majstriĝo'
+    - - 'v.ntr: majstriĝi'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - mastering
+      v.intr:
+      - master
+    epo:
+      "n":
+      - majstriĝo
+      v.ntr:
+      - majstriĝi
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - usta
+    - +
+    - -ci
 ustaya:
   term: ustaya
   word class: b
@@ -525903,8 +527865,10 @@ ustayen:
     eng:
     - - 'n: expert'
       - master
+      - maestro
     epo:
     - - 's: spertulo'
+      - majstro
     spa:
     - - 's: experto'
       - maestro
@@ -525932,9 +527896,11 @@ ustayen:
       "n":
       - expert
       - master
+      - maestro
     epo:
       s:
       - spertulo
+      - majstro
     spa:
       s:
       - experto
@@ -542270,6 +544236,106 @@ xalafbete:
     - bete
     natlang similar:
       Doycisa: Hurensohn
+xalafli:
+  term: xalafli
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: slutty'
+      - whorish
+    - - 'adv: sluttily'
+      - whorishly
+    epo:
+    - - 'adj: putina'
+      - virputina
+      - ĉiesula
+      - ĉiesulina
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - slutty
+      - whorish
+      adv:
+      - sluttily
+      - whorishly
+    epo:
+      adj:
+      - putina
+      - virputina
+      - ĉiesula
+      - ĉiesulina
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - xalaf
+    - +
+    - -li
+xalafsim:
+  term: xalafsim
+  word class: t
+  category: derived
+  trans:
+    eng:
+    - - 'adj: slutty'
+      - whorish
+    - - 'adv: sluttily'
+      - whorishly
+      - like a slut
+      - like a whore
+    epo:
+    - - 'adj: putineca'
+      - virputineca
+      - ĉiesuleca
+      - ĉiesulineca
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      adj:
+      - slutty
+      - whorish
+      adv:
+      - sluttily
+      - whorishly
+      - like a slut
+      - like a whore
+    epo:
+      adj:
+      - putineca
+      - virputineca
+      - ĉiesuleca
+      - ĉiesulineca
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - xalaf
+    - +
+    - -sim
 xalgam:
   term: xalgam
   word class: b
@@ -547453,17 +549519,20 @@ xilepudo:
     - -do
 xilo:
   term: xilo
-  word class: b
+  word class: b.oj.ru
   category: root
   trans:
     eng:
     - - 'n: yarn'
       - thread
       - string
+    - - 'v.tr: spin (thread)'
     epo:
     - - 's: fadeno'
+    - - 'v.tr: ŝpini'
     spa:
     - - 's: hilo'
+    - - 'v.tr: hilar'
     deu:
     - - 'S: Garn'
       - Faden
@@ -547489,12 +549558,18 @@ xilo:
       - yarn
       - thread
       - string
+      v.tr:
+      - spin (thread)
     epo:
       s:
       - fadeno
+      v.tr:
+      - ŝpini
     spa:
       s:
       - hilo
+      v.tr:
+      - hilar
     deu:
       S:
       - Garn
@@ -550397,14 +552472,22 @@ xorfobi:
   category: derived
   trans:
     eng:
-    - - 'n: startle'
-    - - 'v.tr: startle'
-    - - 'v.intr: be (<em>feel</em>) startled'
+    - - 'v.tr: alarm'
+      - startle
+    - - 'v.intr: become alarmed'
+      - become startled
     epo:
     - - 's: ektimo'
+      - alarmo
     - - 'v.tr: ektimigi'
+      - alarmi
     - - 'v.ntr: ektimi'
-    spa: []
+      - alarmiĝi
+    spa:
+    - - 's: alarma'
+      - sobresalto
+    - - 'v.tr: alarmar'
+    - - 'v.intr: alarmarse'
     deu: []
     fra: []
     rus: []
@@ -550413,20 +552496,30 @@ xorfobi:
     ara: []
   trans_v2:
     eng:
-      "n":
-      - startle
       v.tr:
+      - alarm
       - startle
       v.intr:
-      - be (<em>feel</em>) startled
+      - become alarmed
+      - become startled
     epo:
       s:
       - ektimo
+      - alarmo
       v.tr:
       - ektimigi
+      - alarmi
       v.ntr:
       - ektimi
-    spa: []
+      - alarmiĝi
+    spa:
+      s:
+      - alarma
+      - sobresalto
+      v.tr:
+      - alarmar
+      v.intr:
+      - alarmarse
     deu: []
     fra: []
     rus: []
@@ -553580,6 +555673,9 @@ xujitul:
     - xuji
     - +
     - -tul
+    am kompara:
+      hantatul: hantatul
+      pedatul: pedatul
 xukra:
   term: xukra
   word class: b.oj; il
@@ -563562,6 +565658,45 @@ yuxikarta:
     - yuxi
     - +
     - karta
+yuximedan:
+  term: yuximedan
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: playground'
+      - playing field
+    epo:
+    - - 's: ludejo'
+      - ludkampo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - playground
+      - playing field
+    epo:
+      s:
+      - ludejo
+      - ludkampo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - yuxi
+    - +
+    - medan
 yuxitul:
   term: yuxitul
   word class: b
