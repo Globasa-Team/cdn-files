@@ -2424,6 +2424,11 @@ aselcune:
   class: t
   category: derived
   translation: 'adj: devenanta; adv: devenante'
+aselkal:
+  term: aselkal
+  class: b
+  category: derived
+  translation: 'adj: neoriginala'
 aselli:
   term: aselli
   class: t
@@ -5282,11 +5287,6 @@ bolivi:
   class: su n
   category: proper word
   translation: 'prop n: Bolivio'
-bolkalamu:
-  term: bolkalamu
-  class: b
-  category: derived
-  translation: 'n: globkrajono'
 boltu:
   term: boltu
   class: b.oj
@@ -5852,6 +5852,11 @@ buda:
   class: su n
   category: proper word
   translation: 'prop n: Budho'
+budadin:
+  term: Budadin
+  class: su n
+  category: proper word
+  translation: 's: Budha tago'
 budaismo:
   term: Budaismo
   class: su n
@@ -7599,6 +7604,11 @@ cungwoli:
   class: su t
   category: proper word
   translation: 'prop adj: ĉina'
+cungwosa:
+  term: Cungwosa
+  class: su n
+  category: proper word
+  translation: 'prop n: la ĉina (lingvo) (<em>de iu ajn vario</em>)'
 cungwoyen:
   term: Cungwoyen
   class: su n
@@ -8737,6 +8747,11 @@ daysampo:
   class: b.oj.ru
   category: derived
   translation: 's: kampara marŝado; v.tr: kampara marŝi'
+daysodar:
+  term: daysodar
+  class: b
+  category: derived
+  translation: 's: pli aĝa frato, fratego'
 daysoksu:
   term: daysoksu
   class: b
@@ -10565,21 +10580,6 @@ dujarden:
   class: b
   category: derived
   translation: 's: ĝardenado'
-dujixi:
-  term: dujixi
-  class: b.oj
-  category: derived
-  translation: 's: kogno; v.tr: kogni'
-dujixili:
-  term: dujixili
-  class: t
-  category: derived
-  translation: 'adj: kogna; adv: kogne'
-dujixine:
-  term: dujixine
-  class: t
-  category: derived
-  translation: 'adj: kognanta; adv: kognante'
 dukan:
   term: dukan
   class: b
@@ -11651,6 +11651,11 @@ esfer:
   class: b
   category: root
   translation: 's: sfero'
+esferkalamu:
+  term: esferkalamu
+  class: b
+  category: derived
+  translation: 'n: globkrajono'
 esferli:
   term: esferli
   class: t
@@ -19890,6 +19895,16 @@ inli:
   class: t
   category: derived
   translation: 'adj: ena; adv: ene'
+inlumin:
+  term: inlumin
+  class: b.oj
+  category: derived
+  translation: 's: klerigo, iluminado; v.tr: klerigi, prilumi, ilumini'
+inlumindo:
+  term: inlumindo
+  class: t
+  category: derived
+  translation: 'adj: klera, klerigita, iluminita'
 inmemorigi:
   term: inmemorigi
   class: b.oj
@@ -21580,6 +21595,21 @@ jixipeldo:
   class: t
   category: derived
   translation: 'adj: scivola; adv: scivole'
+jixiproceso:
+  term: jixiproceso
+  class: b.oj
+  category: derived
+  translation: 's: kogno; v.tr: kogni'
+jixiprocesoli:
+  term: jixiprocesoli
+  class: t
+  category: derived
+  translation: 'adj: kogna; adv: kogne'
+jixiprocesone:
+  term: jixiprocesone
+  class: t
+  category: derived
+  translation: 'adj: kognanta; adv: kognante'
 jixipul:
   term: jixipul
   class: t
@@ -27311,6 +27341,11 @@ lilsigaro:
   class: b
   category: derived
   translation: 's: cigaredo'
+lilsodar:
+  term: lilsodar
+  class: b
+  category: derived
+  translation: 's: pli juna frato, frateto'
 lilsoksu:
   term: lilsoksu
   class: b
@@ -27801,6 +27836,11 @@ lumindo:
   class: t
   category: derived
   translation: 'adj: lumigita; adv: lumigite'
+luminfestival:
+  term: Luminfestival
+  class: su n
+  category: proper word
+  translation: 's: Lumfesto, Divalo, Ĥanuko'
 luminkal:
   term: luminkal
   class: t
@@ -38887,6 +38927,11 @@ ritmopul:
   category: derived
   translation: 'adj: ritma (<em>prezentanta ritmon</em>); adv: ritme (<em>prezentante
     ritmon</em>)'
+rixencu:
+  term: rixencu
+  class: b.oj
+  category: derived
+  translation: 's: renaskiĝo; v.ntr: renaskiĝi'
 roberto:
   term: Roberto
   class: su n
@@ -39084,9 +39129,9 @@ ruderfordyum:
   translation: 's: ruterfordio'
 rufleksi:
   term: rufleksi
-  class: b
+  class: b.oro.harka
   category: derived
-  translation: 's: reflekso'
+  translation: 's: reflekso, retroflekso; v.tr: retrofleksi; v.intr: retrofleksiĝi'
 rufleksili:
   term: rufleksili
   class: t
@@ -48784,6 +48829,11 @@ yamyen:
   class: b
   category: derived
   translation: 's: manĝanto'
+yangu:
+  term: yangu
+  class: b
+  category: root
+  translation: 's: jango'
 yanlyo:
   term: yanlyo
   class: b.oj
@@ -48959,6 +49009,16 @@ yidix:
   class: su n
   category: proper word
   translation: 'prop n: jido, la judgermana (lingvo)'
+yin:
+  term: yin
+  class: b
+  category: root
+  translation: 's: jino'
+yinyangu:
+  term: yinyangu
+  class: b
+  category: derived
+  translation: 's: jino-jango'
 yoakim:
   term: Yoakim
   class: su n
@@ -49215,6 +49275,11 @@ yudit:
   class: su n
   category: proper word
   translation: 'prop n: Judit'
+yuenci:
+  term: yuenci
+  class: b
+  category: root
+  translation: 's: ĉjio'
 yugo:
   term: yugo
   class: b
@@ -49515,6 +49580,11 @@ zekarudo:
   class: t
   category: derived
   translation: 'adj: menciita; adv: menciite'
+zena:
+  term: zena
+  class: b
+  category: root
+  translation: 's: zeno, dyano'
 zendana:
   term: zendana
   class: b

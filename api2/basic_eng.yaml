@@ -2468,6 +2468,11 @@ aselcune:
   class: t
   category: derived
   translation: 'adj: originating'
+aselkal:
+  term: aselkal
+  class: b
+  category: derived
+  translation: 'adj: unoriginal'
 aselli:
   term: aselli
   class: t
@@ -5348,11 +5353,6 @@ bolivi:
   class: su n
   category: proper word
   translation: 'prop n: Bolivia'
-bolkalamu:
-  term: bolkalamu
-  class: b
-  category: derived
-  translation: 'n: ball-point pen'
 boltu:
   term: boltu
   class: b.oj
@@ -5919,6 +5919,11 @@ buda:
   class: su n
   category: proper word
   translation: 'prop n: Buddha'
+budadin:
+  term: Budadin
+  class: su n
+  category: proper word
+  translation: 'n: Vesak, Buddha Day'
 budaismo:
   term: Budaismo
   class: su n
@@ -7680,6 +7685,11 @@ cungwoli:
   class: su t
   category: proper word
   translation: 'prop adj: Chinese'
+cungwosa:
+  term: Cungwosa
+  class: su n
+  category: proper word
+  translation: 'prop n: Chinese (language) (<em>of any variety</em>)'
 cungwoyen:
   term: Cungwoyen
   class: su n
@@ -8835,6 +8845,11 @@ daysampo:
   class: b.oj.ru
   category: derived
   translation: 'n: hike; v.tr: hike'
+daysodar:
+  term: daysodar
+  class: b
+  category: derived
+  translation: 'n: older sibling, older brother, older sister'
 daysoksu:
   term: daysoksu
   class: b
@@ -10664,21 +10679,6 @@ dujarden:
   class: b
   category: derived
   translation: 'n: gardening (<em>the act or practice of</em>)'
-dujixi:
-  term: dujixi
-  class: b.oj
-  category: derived
-  translation: 'n: cognition; v.tr: cognize, process cognitively'
-dujixili:
-  term: dujixili
-  class: t
-  category: derived
-  translation: 'adj: cognitive; adv: cognitively'
-dujixine:
-  term: dujixine
-  class: t
-  category: derived
-  translation: 'adj: cognizant, sapient; adj: cognizantly, sapiently'
 dukan:
   term: dukan
   class: b
@@ -11761,6 +11761,11 @@ esfer:
   class: b
   category: root
   translation: 'n: sphere'
+esferkalamu:
+  term: esferkalamu
+  class: b
+  category: derived
+  translation: 'n: ball-point pen'
 esferli:
   term: esferli
   class: t
@@ -20039,6 +20044,16 @@ inli:
   class: t
   category: derived
   translation: 'adj: interior, internal; adv: internally'
+inlumin:
+  term: inlumin
+  class: b.oj
+  category: derived
+  translation: 'n: enlightenment, illumination; v.tr: enlighten, illuminate'
+inlumindo:
+  term: inlumindo
+  class: t
+  category: derived
+  translation: 'adj: enlighten, illuminate'
 inmemorigi:
   term: inmemorigi
   class: b.oj
@@ -21734,6 +21749,21 @@ jixipeldo:
   class: t
   category: derived
   translation: 'adj: curious; adv: curiously'
+jixiproceso:
+  term: jixiproceso
+  class: b.oj
+  category: derived
+  translation: 'n: cognition; v.tr: process cognitively, cognize'
+jixiprocesoli:
+  term: jixiprocesoli
+  class: t
+  category: derived
+  translation: 'adj: cognitive; adv: cognitively'
+jixiprocesone:
+  term: jixiprocesone
+  class: t
+  category: derived
+  translation: 'adj: cognizant, sapient; adj: cognizantly, sapiently'
 jixipul:
   term: jixipul
   class: t
@@ -27499,6 +27529,11 @@ lilsigaro:
   class: b
   category: derived
   translation: 'n: cigarette'
+lilsodar:
+  term: lilsodar
+  class: b
+  category: derived
+  translation: 'n: younger sibling, younger brother, younger sister'
 lilsoksu:
   term: lilsoksu
   class: b
@@ -27990,6 +28025,11 @@ lumindo:
   class: t
   category: derived
   translation: 'adj: illuminated, lit'
+luminfestival:
+  term: Luminfestival
+  class: su n
+  category: proper word
+  translation: 'n: Festival of Lights, Diwali, Deepavali, Hanukkah'
 luminkal:
   term: luminkal
   class: t
@@ -39131,6 +39171,11 @@ ritmopul:
   class: t
   category: derived
   translation: 'adj: rhythmic; adv: rhythmically'
+rixencu:
+  term: rixencu
+  class: b.oj
+  category: derived
+  translation: 'n: rebirth; v.intr: be reborn'
 roberto:
   term: Roberto
   class: su n
@@ -39329,9 +39374,10 @@ ruderfordyum:
   translation: 'n: rutherfordium, <em>Rf</em>'
 rufleksi:
   term: rufleksi
-  class: b
+  class: b.oro.harka
   category: derived
-  translation: 'n: reflex'
+  translation: 'n: reflex, retroflexion; v.tr: bend backwards, retroflex; v.intr:
+    bend backwards, retroflex'
 rufleksili:
   term: rufleksili
   class: t
@@ -49085,6 +49131,11 @@ yamyen:
   class: b
   category: derived
   translation: 'n: eater'
+yangu:
+  term: yangu
+  class: b
+  category: root
+  translation: 'n: yang'
 yanlyo:
   term: yanlyo
   class: b.oj
@@ -49260,6 +49311,16 @@ yidix:
   class: su n
   category: proper word
   translation: 'prop n: Yiddish (language)'
+yin:
+  term: yin
+  class: b
+  category: root
+  translation: 'n: yin'
+yinyangu:
+  term: yinyangu
+  class: b
+  category: derived
+  translation: 'n: yinyang'
 yoakim:
   term: Yoakim
   class: su n
@@ -49519,6 +49580,11 @@ yudit:
   class: su n
   category: proper word
   translation: 'prop n: Judith'
+yuenci:
+  term: yuenci
+  class: b
+  category: root
+  translation: 'n: chi, qi'
 yugo:
   term: yugo
   class: b
@@ -49823,6 +49889,11 @@ zekarudo:
   class: t
   category: derived
   translation: 'adj: mentioned'
+zena:
+  term: zena
+  class: b
+  category: root
+  translation: 'n: zen, dhyana'
 zendana:
   term: zendana
   class: b
