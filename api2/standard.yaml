@@ -52336,7 +52336,7 @@ bekar:
   category: root
   trans:
     eng:
-    - - 'n: natural'
+    - - 'n: natural (<em>music</em>)'
     epo:
     - - 's: bekvadrato'
     spa: []
@@ -52349,7 +52349,7 @@ bekar:
   trans_v2:
     eng:
       "n":
-      - natural
+      - natural (<em>music</em>)
     epo:
       s:
       - bekvadrato
@@ -54243,7 +54243,7 @@ bemol:
   category: root
   trans:
     eng:
-    - - 'n: flat'
+    - - 'n: flat (<em>music</em>)'
     epo:
     - - 's: bemolo'
     spa: []
@@ -54256,7 +54256,7 @@ bemol:
   trans_v2:
     eng:
       "n":
-      - flat
+      - flat (<em>music</em>)
     epo:
       s:
       - bemolo
@@ -75609,8 +75609,8 @@ calyo:
   etymology:
     natlang:
       Koreasa: 차량 &ldquo;caryang&rdquo;
-      Niponsa: 車両 &ldquo;xaro&rdquo;
-      Putunhwa: 车辆 &ldquo;co lyang&rdquo;
+      Niponsa: 車両 &ldquo;xaryo&rdquo;
+      Putunhwa: 车辆 &ldquo;colyang&rdquo;
 calyodao:
   term: calyodao
   word class: b
@@ -126341,7 +126341,7 @@ dyeze:
   category: root
   trans:
     eng:
-    - - 'n: sharp'
+    - - 'n: sharp (<em>music</em>)'
     epo:
     - - 's: dieso'
     spa: []
@@ -126354,7 +126354,7 @@ dyeze:
   trans_v2:
     eng:
       "n":
-      - sharp
+      - sharp (<em>music</em>)
     epo:
       s:
       - dieso
@@ -209795,6 +209795,45 @@ hewan:
       Indonesisa: hewan
       Parsisa: حیوان &ldquo;heyvan&rdquo;
       Turkisa: hayvan
+hewanbio:
+  term: hewanbio
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: fauna'
+      - animal life
+    epo:
+    - - 's: faŭno'
+      - bestaro
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - fauna
+      - animal life
+    epo:
+      s:
+      - faŭno
+      - bestaro
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - hewan
+    - +
+    - bio
 hewandotor:
   term: hewandotor
   word class: b
@@ -351682,13 +351721,13 @@ mikrobio:
   category: derived
   trans:
     eng:
-    - - 'n: microbe'
-      - germ
-      - microogranism
+    - - 'n: microbial life'
+      - germs (<em>collective</em>)
+      - microrganisms
     epo:
-    - - 's: mikrobo'
+    - - 's: mikrobaro'
     spa:
-    - - 's: microbio'
+    - - 's: microbios'
     deu: []
     fra: []
     rus: []
@@ -351698,15 +351737,15 @@ mikrobio:
   trans_v2:
     eng:
       "n":
-      - microbe
-      - germ
-      - microogranism
+      - microbial life
+      - germs (<em>collective</em>)
+      - microrganisms
     epo:
       s:
-      - mikrobo
+      - mikrobaro
     spa:
       s:
-      - microbio
+      - microbios
     deu: []
     fra: []
     rus: []
@@ -351776,6 +351815,47 @@ mikrobiologi:
     - bio
     - +
     - logi
+mikrobioyen:
+  term: mikrobioyen
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: microbe'
+      - germ
+      - microorganism
+    epo:
+    - - 's: mikrobo'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - microbe
+      - germ
+      - microorganism
+    epo:
+      s:
+      - mikrobo
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - mikro
+    - +
+    - bio
+    - +
+    - -yen
 mikrometro:
   term: mikrometro
   word class: b
@@ -421221,6 +421301,45 @@ planta:
       Englisa: plant
       Espanisa: planta
       Fransesa: plante
+plantabio:
+  term: plantabio
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: flora'
+      - plant life
+    epo:
+    - - 's: flaŭro'
+      - vegetaĵaro
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - flora
+      - plant life
+    epo:
+      s:
+      - flaŭro
+      - vegetaĵaro
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - planta
+    - +
+    - bio
 plantalogi:
   term: plantalogi
   word class: b
@@ -560340,7 +560459,7 @@ yamkalmorgi:
   trans:
     eng:
     - - 'n: starvation'
-    - - 'v.tr: starve (someone) to death'
+    - - 'v.tr: starve (<em>someone</em>) to death'
     epo:
     - - 's: malsatmortigo'
     - - 'v.tr: malsatmortigi'
@@ -560356,7 +560475,7 @@ yamkalmorgi:
       "n":
       - starvation
       v.tr:
-      - starve (someone) to death
+      - starve (<em>someone</em>) to death
     epo:
       s:
       - malsatmortigo

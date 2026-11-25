@@ -4574,7 +4574,7 @@ bekar:
   term: bekar
   class: b
   category: root
-  translation: 'n: natural'
+  translation: 'n: natural (<em>music</em>)'
 beker:
   term: beker
   class: b
@@ -4740,7 +4740,7 @@ bemol:
   term: bemol
   class: b
   category: root
-  translation: 'n: flat'
+  translation: 'n: flat (<em>music</em>)'
 bendaji:
   term: bendaji
   class: b.oj
@@ -11062,7 +11062,7 @@ dyeze:
   term: dyeze
   class: b
   category: root
-  translation: 'n: sharp'
+  translation: 'n: sharp (<em>music</em>)'
 dyodo:
   term: dyodo
   class: b
@@ -18451,6 +18451,11 @@ hewan:
   class: b
   category: root
   translation: 'n: animal'
+hewanbio:
+  term: hewanbio
+  class: b
+  category: derived
+  translation: 'n: fauna, animal life'
 hewandotor:
   term: hewandotor
   class: b
@@ -30720,12 +30725,17 @@ mikrobio:
   term: mikrobio
   class: b
   category: derived
-  translation: 'n: microbe, germ, microogranism'
+  translation: 'n: microbial life, germs (<em>collective</em>), microrganisms'
 mikrobiologi:
   term: mikrobiologi
   class: b
   category: derived
   translation: 'n: microbiology'
+mikrobioyen:
+  term: mikrobioyen
+  class: b
+  category: derived
+  translation: 'n: microbe, germ, microorganism'
 mikrometro:
   term: mikrometro
   class: b
@@ -36871,6 +36881,11 @@ planta:
   class: b.oj
   category: root
   translation: 'n: plant; v.tr: plant'
+plantabio:
+  term: plantabio
+  class: b
+  category: derived
+  translation: 'n: flora, plant life'
 plantalogi:
   term: plantalogi
   class: b
@@ -49095,7 +49110,7 @@ yamkalmorgi:
   term: yamkalmorgi
   class: b.oj
   category: derived
-  translation: 'n: starvation; v.tr: starve (someone) to death'
+  translation: 'n: starvation; v.tr: starve (<em>someone</em>) to death'
 yamkalya:
   term: yamkalya
   class: b
