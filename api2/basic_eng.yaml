@@ -3884,9 +3884,9 @@ banwatu:
     at some point (in time), eventually'
 banyo:
   term: banyo
-  class: b.oj
+  class: b.oj.ayna
   category: root
-  translation: 'n: bath; v.tr: bathe'
+  translation: 'n: bath; v.tr (optional use of se): bathe'
 banyohoza:
   term: banyohoza
   class: b
@@ -10928,11 +10928,16 @@ duupwasa:
   class: b
   category: derived
   translation: 'n: (the act of) fasting'
+duvoluntir:
+  term: duvoluntir
+  class: b
+  category: derived
+  translation: 'n: volunteering'
 duxe:
   term: duxe
-  class: b.oj
+  class: b.oj.ayna
   category: root
-  translation: 'n: shower; v.tr: shower'
+  translation: 'n: shower; v.tr (optional use of se): shower'
 duxejel:
   term: duxejel
   class: b
@@ -26396,6 +26401,11 @@ labasmon:
   class: b
   category: derived
   translation: 'n: article of clothing, garment'
+labastayti:
+  term: labastayti
+  class: b.oj.ayna
+  category: derived
+  translation: 'n: changing; v.tr (optional use of se): change clothes'
 labastui:
   term: labastui
   class: b
@@ -34360,9 +34370,9 @@ ogarserviyen:
   translation: 'n: maidservant, (hosue)maid, domestic (servant)'
 ogartayti:
   term: ogartayti
-  class: b.oj
+  class: b.oj.ayna
   category: derived
-  translation: 'n: move; v.tr: move, change residence'
+  translation: 'n: move; v.tr (optional use of se): move, change residence'
 ogasmoli:
   term: ogasmoli
   class: t
@@ -40610,7 +40620,7 @@ sebanyo:
   term: sebanyo
   class: b.nenoj
   category: derived
-  translation: 'v.intr: bathe (oneself)'
+  translation: 'v.intr (optional use of se): bathe (oneself)'
 sebastyan:
   term: Sebastyan
   class: su n
@@ -42133,9 +42143,9 @@ sola:
   translation: 'prop n: Sol, Sun (<em>in our planetary system</em>)'
 solabanyo:
   term: solabanyo
-  class: b.oj
+  class: b.oj.ayna
   category: derived
-  translation: 'n: sunbath; v.tr: sunbathe'
+  translation: 'n: sunbath; v.tr (optional use of se): sunbathe'
 solabrila:
   term: solabrila
   class: b
@@ -46946,17 +46956,12 @@ voluntir:
   term: voluntir
   class: b.nenoj
   category: root
-  translation: 'n: volunteering; v.intr: volunteer'
+  translation: 'n: volunteer; v.intr: volunteer'
 voluntirli:
   term: voluntirli
   class: t
   category: derived
   translation: 'adj: voluntary; adv: voluntarily'
-voluntiryen:
-  term: voluntiryen
-  class: b
-  category: derived
-  translation: 'n: volunteer'
 vulva:
   term: vulva
   class: b

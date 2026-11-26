@@ -3827,9 +3827,9 @@ banwatu:
   translation: 'adv: iam'
 banyo:
   term: banyo
-  class: b.oj
+  class: b.oj.ayna
   category: root
-  translation: 's: bano; v.tr: sinbani, bani'
+  translation: 's: bano; v.tr (nedeviga uzo de se): sinbani, bani'
 banyohoza:
   term: banyohoza
   class: b
@@ -10825,11 +10825,16 @@ duupwasa:
   class: b
   category: derived
   translation: 's: fastado'
+duvoluntir:
+  term: duvoluntir
+  class: b
+  category: derived
+  translation: 's: volontulado'
 duxe:
   term: duxe
-  class: b.oj
+  class: b.oj.ayna
   category: root
-  translation: 's: duŝo; v.tr: (sin)duŝi'
+  translation: 's: duŝo; v.tr (nedeviga uzo de se): (sin)duŝi'
 duxejel:
   term: duxejel
   class: b
@@ -26216,6 +26221,11 @@ labasmon:
   class: b
   category: derived
   translation: 's: vestaĵo'
+labastayti:
+  term: labastayti
+  class: b.oj.ayna
+  category: derived
+  translation: 's: vestoŝanĝo; v.tr (nedeviga uzo de se): ŝanĝi la vestojn'
 labastui:
   term: labastui
   class: b
@@ -34148,9 +34158,9 @@ ogarserviyen:
   translation: 's: ĉambristino, servistino'
 ogartayti:
   term: ogartayti
-  class: b.oj
+  class: b.oj.ayna
   category: derived
-  translation: 's: translokiĝo; v.tr: translokigi, transloĝigi'
+  translation: 's: translokiĝo; v.tr (nedeviga uzo de se): translokiĝi, transloĝiĝi'
 ogasmoli:
   term: ogasmoli
   class: t
@@ -40353,7 +40363,7 @@ sebanyo:
   term: sebanyo
   class: b.nenoj
   category: derived
-  translation: 's: baniĝo; v.ntr: baniĝi, bani sin'
+  translation: 's: baniĝo; v.ntr (nedeviga uzo de se): baniĝi, bani sin'
 sebastyan:
   term: Sebastyan
   class: su n
@@ -41868,9 +41878,9 @@ sola:
   translation: 'prop n: Suno (<em>en nia planeda sistemo</em>)'
 solabanyo:
   term: solabanyo
-  class: b.oj
+  class: b.oj.ayna
   category: derived
-  translation: 's: sunbano; v.tr: sunbani'
+  translation: 's: sunbano; v.tr (nedeviga uzo de se): sunbani'
 solabrila:
   term: solabrila
   class: b
@@ -46664,17 +46674,12 @@ voluntir:
   term: voluntir
   class: b.nenoj
   category: root
-  translation: 's: volontulado; v.ntr: volontuli'
+  translation: 's: volontulo; v.ntr: volontuli'
 voluntirli:
   term: voluntirli
   class: t
   category: derived
   translation: 'adj: volonta, laŭvola; adv: volonte, laŭvole'
-voluntiryen:
-  term: voluntiryen
-  class: b
-  category: derived
-  translation: 's: volontulo'
 vulva:
   term: vulva
   class: b

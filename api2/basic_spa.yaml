@@ -3871,7 +3871,7 @@ banwatu:
   translation: 'adv: alguna vez, alg&uacute;n d&iacute;a, en alg&uacute;n momento'
 banyo:
   term: banyo
-  class: b.oj
+  class: b.oj.ayna
   category: root
   translation: 's: ba&ntilde;o; v.tr: ba&ntilde;ar(se)'
 banyohoza:
@@ -10913,9 +10913,14 @@ duupwasa:
   class: b
   category: derived
   translation: 's: ayuno'
+duvoluntir:
+  term: duvoluntir
+  class: b
+  category: derived
+  translation: 's: voluntariado'
 duxe:
   term: duxe
-  class: b.oj
+  class: b.oj.ayna
   category: root
   translation: 's: ducha; v.tr: duchar(se)'
 duxejel:
@@ -26401,6 +26406,11 @@ labasmon:
   class: b
   category: derived
   translation: 's: prenda (de vestir)'
+labastayti:
+  term: labastayti
+  class: b.oj.ayna
+  category: derived
+  translation: ""
 labastui:
   term: labastui
   class: b
@@ -34395,7 +34405,7 @@ ogarserviyen:
   translation: ""
 ogartayti:
   term: ogartayti
-  class: b.oj
+  class: b.oj.ayna
   category: derived
   translation: 's: mudanza; v.tr: mudar(se)'
 ogasmoli:
@@ -42164,7 +42174,7 @@ sola:
   translation: 'n prop: (el) Sol (<em>de nuestro sistema planetario</em>)'
 solabanyo:
   term: solabanyo
-  class: b.oj
+  class: b.oj.ayna
   category: derived
   translation: 's: ba&ntilde;o de sol; v.tr: tomar el sol, asolearse'
 solabrila:
@@ -46990,17 +47000,12 @@ voluntir:
   term: voluntir
   class: b.nenoj
   category: root
-  translation: 's: voluntariado; v.intr: ofrecerse como voluntario, hacer voluntariado'
+  translation: 's: voluntario; v.intr: ofrecerse como voluntario, hacer voluntariado'
 voluntirli:
   term: voluntirli
   class: t
   category: derived
   translation: 'adj: voluntario; adv: voluntariamente, de forma voluntaria'
-voluntiryen:
-  term: voluntiryen
-  class: b
-  category: derived
-  translation: 's: voluntario'
 vulva:
   term: vulva
   class: b

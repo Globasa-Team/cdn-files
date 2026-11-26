@@ -44306,15 +44306,15 @@ banwatu:
     - watu
 banyo:
   term: banyo
-  word class: b.oj
+  word class: b.oj.ayna
   category: root
   trans:
     eng:
     - - 'n: bath'
-    - - 'v.tr: bathe'
+    - - 'v.tr (optional use of se): bathe'
     epo:
     - - 's: bano'
-    - - 'v.tr: sinbani'
+    - - 'v.tr (nedeviga uzo de se): sinbani'
       - bani
     spa:
     - - 's: baño'
@@ -44329,12 +44329,12 @@ banyo:
     eng:
       "n":
       - bath
-      v.tr:
+      v.tr (optional use of se):
       - bathe
     epo:
       s:
       - bano
-      v.tr:
+      v.tr (nedeviga uzo de se):
       - sinbani
       - bani
     spa:
@@ -124830,17 +124830,79 @@ duupwasa:
     - du-
     - +
     - upwasa
+duvoluntir:
+  term: duvoluntir
+  word class: b
+  category: derived
+  trans:
+    eng:
+    - - 'n: volunteering'
+    epo:
+    - - 's: volontulado'
+    spa:
+    - - 's: voluntariado'
+    deu:
+    - - 'S: Freiwilliger'
+      - Volontär
+    fra:
+    - - 'n: bénévole'
+      - volontaire
+    rus:
+    - - 'сущ: волонтёр'
+      - доброволец
+    zho:
+    - - '名: 志愿者'
+    hin:
+    - - 'सं: स्वयंसेवक'
+    ara:
+    - - 'اسم: مُتَطَوِّع'
+  trans_v2:
+    eng:
+      "n":
+      - volunteering
+    epo:
+      s:
+      - volontulado
+    spa:
+      s:
+      - voluntariado
+    deu:
+      S:
+      - Freiwilliger
+      - Volontär
+    fra:
+      "n":
+      - bénévole
+      - volontaire
+    rus:
+      сущ:
+      - волонтёр
+      - доброволец
+    zho:
+      名:
+      - 志愿者
+    hin:
+      सं:
+      - स्वयंसेवक
+    ara:
+      اسم:
+      - مُتَطَوِّع
+  etymology:
+    derived:
+    - voluntir
+    - +
+    - -yen
 duxe:
   term: duxe
-  word class: b.oj
+  word class: b.oj.ayna
   category: root
   trans:
     eng:
     - - 'n: shower'
-    - - 'v.tr: shower'
+    - - 'v.tr (optional use of se): shower'
     epo:
     - - 's: duŝo'
-    - - 'v.tr: (sin)duŝi'
+    - - 'v.tr (nedeviga uzo de se): (sin)duŝi'
     spa:
     - - 's: ducha'
     - - 'v.tr: duchar(se)'
@@ -124863,12 +124925,12 @@ duxe:
     eng:
       "n":
       - shower
-      v.tr:
+      v.tr (optional use of se):
       - shower
     epo:
       s:
       - duŝo
-      v.tr:
+      v.tr (nedeviga uzo de se):
       - (sin)duŝi
     spa:
       s:
@@ -301586,6 +301648,47 @@ labasmon:
     - labas
     - +
     - -mon
+labastayti:
+  term: labastayti
+  word class: b.oj.ayna
+  category: derived
+  trans:
+    eng:
+    - - 'n: changing'
+    - - 'v.tr (optional use of se): change clothes'
+    epo:
+    - - 's: vestoŝanĝo'
+    - - 'v.tr (nedeviga uzo de se): ŝanĝi la vestojn'
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  trans_v2:
+    eng:
+      "n":
+      - changing
+      v.tr (optional use of se):
+      - change clothes
+    epo:
+      s:
+      - vestoŝanĝo
+      v.tr (nedeviga uzo de se):
+      - ŝanĝi la vestojn
+    spa: []
+    deu: []
+    fra: []
+    rus: []
+    zho: []
+    hin: []
+    ara: []
+  etymology:
+    derived:
+    - labas
+    - +
+    - tayti
 labastui:
   term: labastui
   word class: b
@@ -392399,17 +392502,17 @@ ogarserviyen:
     - -yen
 ogartayti:
   term: ogartayti
-  word class: b.oj
+  word class: b.oj.ayna
   category: derived
   trans:
     eng:
     - - 'n: move'
-    - - 'v.tr: move'
+    - - 'v.tr (optional use of se): move'
       - change residence
     epo:
     - - 's: translokiĝo'
-    - - 'v.tr: translokigi'
-      - transloĝigi
+    - - 'v.tr (nedeviga uzo de se): translokiĝi'
+      - transloĝiĝi
     spa:
     - - 's: mudanza'
     - - 'v.tr: mudar(se)'
@@ -392423,15 +392526,15 @@ ogartayti:
     eng:
       "n":
       - move
-      v.tr:
+      v.tr (optional use of se):
       - move
       - change residence
     epo:
       s:
       - translokiĝo
-      v.tr:
-      - translokigi
-      - transloĝigi
+      v.tr (nedeviga uzo de se):
+      - translokiĝi
+      - transloĝiĝi
     spa:
       s:
       - mudanza
@@ -464222,10 +464325,10 @@ sebanyo:
   category: derived
   trans:
     eng:
-    - - 'v.intr: bathe (oneself)'
+    - - 'v.intr (optional use of se): bathe (oneself)'
     epo:
     - - 's: baniĝo'
-    - - 'v.ntr: baniĝi'
+    - - 'v.ntr (nedeviga uzo de se): baniĝi'
       - bani sin
     spa:
     - - 's: baño'
@@ -464238,12 +464341,12 @@ sebanyo:
     ara: []
   trans_v2:
     eng:
-      v.intr:
+      v.intr (optional use of se):
       - bathe (oneself)
     epo:
       s:
       - baniĝo
-      v.ntr:
+      v.ntr (nedeviga uzo de se):
       - baniĝi
       - bani sin
     spa:
@@ -481086,15 +481189,15 @@ sola:
       Swerisa: sol
 solabanyo:
   term: solabanyo
-  word class: b.oj
+  word class: b.oj.ayna
   category: derived
   trans:
     eng:
     - - 'n: sunbath'
-    - - 'v.tr: sunbathe'
+    - - 'v.tr (optional use of se): sunbathe'
     epo:
     - - 's: sunbano'
-    - - 'v.tr: sunbani'
+    - - 'v.tr (nedeviga uzo de se): sunbani'
     spa:
     - - 's: baño de sol'
     - - 'v.tr: tomar el sol'
@@ -481109,12 +481212,12 @@ solabanyo:
     eng:
       "n":
       - sunbath
-      v.tr:
+      v.tr (optional use of se):
       - sunbathe
     epo:
       s:
       - sunbano
-      v.tr:
+      v.tr (nedeviga uzo de se):
       - sunbani
     spa:
       s:
@@ -520741,6 +520844,7 @@ trol:
     zho:
     - - 巨魔
     - - 钓鱼
+      - 引战
     hin: []
     ara: []
   trans_v2:
@@ -520780,6 +520884,7 @@ trol:
       - 巨魔
       verb:
       - 钓鱼
+      - 引战
     hin: []
     ara: []
   etymology:
@@ -536577,13 +536682,13 @@ voluntir:
   category: root
   trans:
     eng:
-    - - 'n: volunteering'
+    - - 'n: volunteer'
     - - 'v.intr: volunteer'
     epo:
-    - - 's: volontulado'
+    - - 's: volontulo'
     - - 'v.ntr: volontuli'
     spa:
-    - - 's: voluntariado'
+    - - 's: voluntario'
     - - 'v.intr: ofrecerse como voluntario'
       - hacer voluntariado
     deu: []
@@ -536595,17 +536700,17 @@ voluntir:
   trans_v2:
     eng:
       "n":
-      - volunteering
+      - volunteer
       v.intr:
       - volunteer
     epo:
       s:
-      - volontulado
+      - volontulo
       v.ntr:
       - volontuli
     spa:
       s:
-      - voluntariado
+      - voluntario
       v.intr:
       - ofrecerse como voluntario
       - hacer voluntariado
@@ -536675,68 +536780,6 @@ voluntirli:
     - voluntir
     - +
     - -li
-voluntiryen:
-  term: voluntiryen
-  word class: b
-  category: derived
-  trans:
-    eng:
-    - - 'n: volunteer'
-    epo:
-    - - 's: volontulo'
-    spa:
-    - - 's: voluntario'
-    deu:
-    - - 'S: Freiwilliger'
-      - Volontär
-    fra:
-    - - 'n: bénévole'
-      - volontaire
-    rus:
-    - - 'сущ: волонтёр'
-      - доброволец
-    zho:
-    - - '名: 志愿者'
-    hin:
-    - - 'सं: स्वयंसेवक'
-    ara:
-    - - 'اسم: مُتَطَوِّع'
-  trans_v2:
-    eng:
-      "n":
-      - volunteer
-    epo:
-      s:
-      - volontulo
-    spa:
-      s:
-      - voluntario
-    deu:
-      S:
-      - Freiwilliger
-      - Volontär
-    fra:
-      "n":
-      - bénévole
-      - volontaire
-    rus:
-      сущ:
-      - волонтёр
-      - доброволец
-    zho:
-      名:
-      - 志愿者
-    hin:
-      सं:
-      - स्वयंसेवक
-    ara:
-      اسم:
-      - مُتَطَوِّع
-  etymology:
-    derived:
-    - voluntir
-    - +
-    - -yen
 vulva:
   term: vulva
   word class: b
